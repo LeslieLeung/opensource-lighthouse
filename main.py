@@ -28,6 +28,9 @@ data_repos = pd.read_csv(path_to_repos, dtype={"id": str})
 teams = data_teams["name"].values
 team_to_company = data_teams.set_index("name")["company"].to_dict()
 
+total_teams = len(teams)
+i = 0
+
 # for each team, fetch repos
 if args.auth_token is not None:
     auth = Auth.Token(args.auth_token)
@@ -36,6 +39,8 @@ else:
     g = Github()
 if not args.skip_fetch:
     for team in teams:
+        i += 1
+        print(f"Fetching {i}/{total_teams}: {team}")
         try:
             org = g.get_organization(team)
         except UnknownObjectException:
@@ -50,11 +55,12 @@ if not args.skip_fetch:
                 "owner": org.login,
                 "repo": repo.name,
                 "link": repo.html_url,
+                "description": repo.description,
                 "stars": repo.stargazers_count,
                 "license": repo.license.name if repo.license is not None else "-",
                 "language": repo.language,
-                "created_at": repo.created_at,
-                "last_updated_at": repo.updated_at,
+                "created_at": repo.created_at.date(),
+                "last_updated_at": repo.updated_at.date(),
                 "company": team_to_company[team],
             }
             # check if repo id already exists
