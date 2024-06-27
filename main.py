@@ -20,6 +20,7 @@ args = parser.parse_args()
 
 path_to_teams = "data/teams.csv"
 path_to_repos = "data/repos.csv"
+time = pd.Timestamp.now().strftime("%Y-%m-%d %H:%M:%S")
 
 # load teams from csv
 data_teams = pd.read_csv(path_to_teams)
@@ -79,33 +80,43 @@ data_repos.to_csv(path_to_repos, index=False)
 
 # render readme
 env = jinja2.Environment(loader=jinja2.FileSystemLoader("./template"))
-template = env.get_template("readme_zh.tmpl")
+readme_template = env.get_template("readme_zh.tmpl")
+company_template = env.get_template("company_zh.tmpl")
 teams = data_teams.to_dict(orient="records")
 # read from dataframe
-"""
-owner,repo,link,stars,license,language,created_at,last_updated_at,company
-
-{% for company in companies -%}
-## {{ company.name }}
-| 项目 | 语言 | star | 协议 | 创建时间 | 最后更新时间 |
-| --- | --- | --- | --- | --- | --- |
-{% for project in company.projects -%}
-| [{{ project.name }}]({{ project.url }}) | {{ project.language }} | {{ project.star }} | {{ project.license }} | {{ project.created_at }} | {{ project.updated_at }} |
-{% endfor %}
-{% endfor %}
-"""
 companies = []
 for company, group in data_repos.groupby("company"):
     projects = group.to_dict(orient="records")
-    companies.append({"name": company, "projects": projects})
+    # company wise stats
+    total_projects = len(projects)
+    total_teams = len(group["owner"].unique())
+    total_stars = group["stars"].sum()
+    top_3_languages = ", ".join(group["language"].value_counts().head(3).index.tolist())
+    company_stats = {
+        "total_projects": total_projects,
+        "total_teams": total_teams,
+        "total_stars": total_stars,
+        "top_3_languages": top_3_languages,
+    }
+
+    o = company_template.render(
+        company_name=company,
+        stat=company_stats,
+        projects=projects,
+        time=time,
+    )
+    with open(f"page/{company}.md", "w") as f:
+        f.write(o)
+    companies.append(
+        {"name": company, "projects": projects, "stats": company_stats},
+    )
 
 # stats
 total_repos = data_repos.shape[0]
 total_companies = len(companies)
 total_teams = len(teams)
-time = pd.Timestamp.now().strftime("%Y-%m-%d %H:%M:%S")
 
-output = template.render(
+output = readme_template.render(
     total_repos=total_repos,
     total_companies=total_companies,
     total_teams=total_teams,

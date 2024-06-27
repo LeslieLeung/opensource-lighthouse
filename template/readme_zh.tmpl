@@ -2,9 +2,21 @@
 
 汇总统计各「大厂」的开源团队和项目。
 
+## 愿景
+
+心里一直有根刺，好像在软件开发领域，一直都是外国人在做 0-1 的事情，而中国人只能在别人的技术上修修补补，做 1-1.01 的事情。Google 和 Meta 等大公司似乎是开源届的大明星，在开源社区有很多话语权，也主导着各项主流技术的开发；反而是国内的一些「大厂」，在开源领域能做到「主流」且「国际化」的项目寥寥无几。
+
+上述的话带有一定的个人情绪，我对国内的「大厂」有一定的悲观情绪，我觉得一是他们喜欢造一些自己的轮子，而明明有更好用的开源替代；二是觉得他们在利用开源社区的成果，但对开源社区回报甚少。做这个整理，可以证实或证伪我的观点，帮助诸位了解在开源社区各家大公司的参与情况（只考虑自身发起的项目，贡献给开源组织的暂时可能无法计入），也能够提供一个好项目的整合。更飘渺的可能是，促进国内的「大厂」在开源上有更多的投入。
+
 ## 统计
 
 共计 {{ total_repos }} 个项目，{{ total_companies }} 家公司，{{ total_teams }} 个团队。
+
+| 公司 | 团队数 | 项目数 | 总 Star 数 | 语言 Top 3 |
+| --- | --- | --- | --- | --- |
+{% for company in companies -%}
+| [{{ company.name }}](page/{{ company.name }}.md) | {{ company.stats.total_teams }} | {{ company.stats.total_projects }} | {{ company.stats.total_stars }} | {{ company.stats.top_3_languages }} |
+{% endfor %}
 
 数据统计时间：{{ time }}
 
@@ -13,19 +25,20 @@
 | 团队 | 公司 |
 | --- | --- |
 {% for team in teams -%}
-| [{{ team.name }}](https://github.com/{{ team.name }}) | [{{ team.company }}](#{{ team.company }}) |
+| [{{ team.name }}](https://github.com/{{ team.name }}) | {{ team.company }} |
 {% endfor %}
 
-## 项目
+## Roadmap
 
-{% for company in companies -%}
-### {{ company.name }}
-| 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 |
-| --- | --- | --- | --- | --- | --- | --- |
-{% for project in company.projects -%}
-| [{{ project.repo }}]({{ project.link }}) | {{ project.description }} | {{ project.language }} | {{ project.stars }} | {{ project.license if project.license }} | {{ project.created_at }} | {{ project.last_updated_at }} |
-{% endfor %}
-{% endfor %}
+- [x] 收集国内外各大公司团队账号，拉取其名下 repo，通过 markdown 等方式展示
+- [ ] 做一个前端网站，提供搜索等功能
+- [ ] 提供用户反馈功能，自动化收录新公司/团队/项目
+- [ ] 增加榜单功能，展示 new/trending 项目
+- [ ] 增加数据统计功能，分析各公司的技术栈，跨公司比较等
+
+## 贡献
+
+如果你知道更多对应的公司和开源团队，欢迎提 issue。
 
 ## 鸣谢
 
