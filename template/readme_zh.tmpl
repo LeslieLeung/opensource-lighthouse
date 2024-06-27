@@ -1,0 +1,32 @@
+# opensource-lighthouse
+
+汇总统计各「大厂」的开源团队和项目。
+
+## 统计
+
+共计 {{ total_repos }} 个项目，{{ total_companies }} 家公司，{{ total_teams }} 个团队。
+
+数据统计时间：{{ time }}
+
+## 团队
+
+| 团队 | 公司 |
+| --- | --- |
+{% for team in teams -%}
+| [{{ team.name }}](https://github.com/{{ team.name }}) | {{ team.company }} |
+{% endfor %}
+
+## 项目
+
+{% for company in companies -%}
+### {{ company.name }}
+| 项目 | 语言 | star | 协议 | 创建时间 | 最后更新时间 |
+| --- | --- | --- | --- | --- | --- |
+{% for project in company.projects -%}
+| [{{ project.repo }}]({{ project.link }}) | {{ project.language }} | {{ project.stars }} | {{ project.license if project.license }} | {{ project.created_at }} | {{ project.updated_at }} |
+{% endfor %}
+{% endfor %}
+
+## 鸣谢
+
+项目灵感来源：[niezhiyang/open_source_team](https://github.com/niezhiyang/open_source_team)
