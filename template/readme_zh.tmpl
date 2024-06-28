@@ -17,7 +17,7 @@
 | 公司 | 团队数 | 项目数 | 近半年内活跃项目数 | 总 Star 数 | 语言 Top 3 |
 | --- | --- | --- | --- | --- | --- |
 {% for company in companies -%}
-| [{{ company.name }}](page/{{ company.name }}.md) | {{ company.stats.total_teams }} | {{ company.stats.total_projects }} | {{ company.stats.active_projects }} | {{ company.stats.total_stars }} | {{ company.stats.top_3_languages }} |
+| [{{ company.name }}](page/{{ company.name|replace(" ", "%20") }}.md) | {{ company.stats.total_teams }} | {{ company.stats.total_projects }} | {{ company.stats.active_projects }} | {{ company.stats.total_stars }} | {{ company.stats.top_3_languages }} |
 {% endfor %}
 
 数据统计时间：{{ time }}

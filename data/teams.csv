@@ -10,6 +10,7 @@ QMUI,腾讯
 WechatFE,腾讯
 TencentOpen,腾讯
 frozenui,腾讯
+TencentARC,腾讯
 baidu,百度
 ecomfe,百度
 fex-team,百度
@@ -59,3 +60,22 @@ shopify,Shopify
 twitter,X
 microsoft,Microsoft
 cloudflare,Cloudflare
+docker,Docker
+cncf,Cloud Native Computing Foundation (CNCF)
+openai,OpenAI
+apache,The Apache Software Foundation
+thu-cs-lab,清华大学
+thudm,清华大学
+deepseek-ai,深度求索
+datawhalechina,Datawhale
+jina-ai,Jina AI
+bufbuild,Buf
+grafana,Grafana Labs
+douyu,斗鱼
+OpenAtomFoundation,开放原子开源基金会
+hashicorp,HashiCorp
+vercel,Vercel
+kubernetes,Kubernetes
+JetBrains,JetBrains
+github,Microsoft
+huggingface,Hugging Face

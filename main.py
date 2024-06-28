@@ -78,9 +78,8 @@ if not args.skip_fetch:
                 data_repos = pd.concat(
                     [data_repos, pd.DataFrame([repo_info])], ignore_index=True
                 )
-
-# save to csv
-data_repos.to_csv(path_to_repos, index=False)
+    # save to csv
+    data_repos.to_csv(path_to_repos, index=False)
 
 # render readme
 env = jinja2.Environment(loader=jinja2.FileSystemLoader("./template"))
