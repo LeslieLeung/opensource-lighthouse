@@ -5,6 +5,7 @@ from github import Github
 from github import Auth
 from github.GithubException import UnknownObjectException
 import argparse
+import datetime
 
 # create parser
 parser = argparse.ArgumentParser(
@@ -21,10 +22,13 @@ args = parser.parse_args()
 path_to_teams = "data/teams.csv"
 path_to_repos = "data/repos.csv"
 time = pd.Timestamp.now().strftime("%Y-%m-%d %H:%M:%S")
+cutoff_date = datetime.datetime.now() - datetime.timedelta(days=180)
 
 # load teams from csv
 data_teams = pd.read_csv(path_to_teams)
-data_repos = pd.read_csv(path_to_repos, dtype={"id": str})
+data_repos = pd.read_csv(
+    path_to_repos, dtype={"id": str, "created_at": str, "last_updated_at": str}
+)
 
 teams = data_teams["name"].values
 team_to_company = data_teams.set_index("name")["company"].to_dict()
@@ -60,8 +64,8 @@ if not args.skip_fetch:
                 "stars": repo.stargazers_count,
                 "license": repo.license.name if repo.license is not None else "-",
                 "language": repo.language,
-                "created_at": repo.created_at.date(),
-                "last_updated_at": repo.updated_at.date(),
+                "created_at": repo.created_at.date().strftime("%Y-%m-%d"),
+                "last_updated_at": repo.updated_at.date().strftime("%Y-%m-%d"),
                 "company": team_to_company[team],
             }
             # check if repo id already exists
@@ -92,11 +96,21 @@ for company, group in data_repos.groupby("company"):
     total_teams = len(group["owner"].unique())
     total_stars = group["stars"].sum()
     top_3_languages = ", ".join(group["language"].value_counts().head(3).index.tolist())
+    # count projects updated within 180 days
+    active_projects = len(
+        [
+            project
+            for project in projects
+            if datetime.datetime.strptime(project["last_updated_at"], "%Y-%m-%d")
+            > cutoff_date
+        ]
+    )
     company_stats = {
         "total_projects": total_projects,
         "total_teams": total_teams,
         "total_stars": total_stars,
         "top_3_languages": top_3_languages,
+        "active_projects": active_projects,
     }
 
     o = company_template.render(
