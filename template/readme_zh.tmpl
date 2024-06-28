@@ -11,10 +11,11 @@
 
 共计 {{ total_repos }} 个项目，{{ total_companies }} 家公司，{{ total_teams }} 个团队。
 
-> !tips 可以点击公司名称查看项目详情。 
+> [!TIP] 
+> 可以点击公司名称查看项目详情。 
 
 | 公司 | 团队数 | 项目数 | 近半年内活跃项目数 | 总 Star 数 | 语言 Top 3 |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 {% for company in companies -%}
 | [{{ company.name }}](page/{{ company.name }}.md) | {{ company.stats.total_teams }} | {{ company.stats.total_projects }} | {{ company.stats.active_projects }} | {{ company.stats.total_stars }} | {{ company.stats.top_3_languages }} |
 {% endfor %}
