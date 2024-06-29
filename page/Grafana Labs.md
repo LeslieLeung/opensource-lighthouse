@@ -1,15 +1,15 @@
 # Grafana Labs
 
-共 699 个项目，近半年内活跃项目 417 个，1 个团队， 163866 个 Star。
+共 699 个项目，近半年内活跃项目 417 个，1 个团队， 163870 个 Star。
 
 语言 Top 3：Go, TypeScript, JavaScript
 
-统计时间：2024-06-30 02:03:35
+统计时间：2024-06-29 20:53:22
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 |
 | --- | --- | --- | --- | --- | --- | --- |
 | [carbon-relay-ng](https://github.com/grafana/carbon-relay-ng) | Fast carbon relay+aggregator with admin interfaces for making changes online - production ready | Go | 463 | Other | 2012-04-21 | 2024-06-17 |
-| [grafana](https://github.com/grafana/grafana) | The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  | TypeScript | 61377 | GNU Affero General Public License v3.0 | 2013-12-11 | 2024-06-29 |
+| [grafana](https://github.com/grafana/grafana) | The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  | TypeScript | 61378 | GNU Affero General Public License v3.0 | 2013-12-11 | 2024-06-29 |
 | [grafana-docker-dev-env](https://github.com/grafana/grafana-docker-dev-env) | Dockerfile with graphite, grafana, elasticsearch, statsd, fake data generator | Python | 45 | - | 2014-03-16 | 2023-07-25 |
 | [ansible-grafana](https://github.com/grafana/ansible-grafana) | Ansible role for grafana deployment | None | 8 | - | 2014-05-01 | 2020-04-27 |
 | [puppet-grafana](https://github.com/grafana/puppet-grafana) | Grafana Puppet Module | Puppet | 5 | MIT License | 2014-05-01 | 2023-01-28 |
@@ -28,7 +28,7 @@
 | [kentik-app](https://github.com/grafana/kentik-app) | None | TypeScript | 3 | - | 2016-02-09 | 2023-04-13 |
 | [grafana-plugin-repository](https://github.com/grafana/grafana-plugin-repository) | The plugin repository for plugins that are published on grafana.com. | JavaScript | 148 | - | 2016-02-10 | 2024-04-26 |
 | [memo](https://github.com/grafana/memo) | easily save grafana annotations from slack mentions and the cli | Go | 67 | Apache License 2.0 | 2016-03-15 | 2024-04-23 |
-| [k6](https://github.com/grafana/k6) | A modern load testing tool, using Go and JavaScript - https://k6.io | Go | 23860 | GNU Affero General Public License v3.0 | 2016-03-21 | 2024-06-29 |
+| [k6](https://github.com/grafana/k6) | A modern load testing tool, using Go and JavaScript - https://k6.io | Go | 23862 | GNU Affero General Public License v3.0 | 2016-03-21 | 2024-06-29 |
 | [clock-panel](https://github.com/grafana/clock-panel) | Clock Panel Plugin for Grafana | TypeScript | 95 | MIT License | 2016-03-24 | 2024-06-20 |
 | [worldmap-panel](https://github.com/grafana/worldmap-panel) | Worldmap panel plugin for Grafana 3.0 that can be overlaid with circles for data points. | JavaScript | 304 | MIT License | 2016-04-20 | 2024-06-20 |
 | [homebrew-core](https://github.com/grafana/homebrew-core) | :beers: Core formulae for the Homebrew package manager | Ruby | 0 | BSD 2-Clause "Simplified" License | 2016-04-22 | 2019-10-02 |
@@ -534,7 +534,7 @@
 | [beyla-operator](https://github.com/grafana/beyla-operator) | None | Go | 23 | Apache License 2.0 | 2023-05-29 | 2024-01-09 |
 | [grafana-ci-otel-collector](https://github.com/grafana/grafana-ci-otel-collector) | Grafana's OTel Collector distribution for CI/CD observability | Go | 7 | - | 2023-05-29 | 2024-06-24 |
 | [grafana-app-sdk](https://github.com/grafana/grafana-app-sdk) | An SDK for developing apps for grafana using kubernetes-like storage and operators | Go | 41 | Apache License 2.0 | 2023-05-30 | 2024-06-21 |
-| [augurs](https://github.com/grafana/augurs) | A (WIP) time series framework for Rust, with bindings to Python and Javascript | Rust | 16 | Apache License 2.0 | 2023-05-31 | 2024-06-25 |
+| [augurs](https://github.com/grafana/augurs) | A (WIP) time series framework for Rust, with bindings to Python and Javascript | Rust | 17 | Apache License 2.0 | 2023-05-31 | 2024-06-29 |
 | [ibm-db2-prometheus-exporter](https://github.com/grafana/ibm-db2-prometheus-exporter) | A golang based prometheus metrics exporter for IBM DB2. | Go | 7 | Apache License 2.0 | 2023-06-01 | 2024-02-01 |
 | [k8s](https://github.com/grafana/k8s) | Code generator for Jsonnet Kubernetes libraries. | Jsonnet | 0 | Apache License 2.0 | 2023-06-05 | 2023-06-05 |
 | [grafana-llm-app](https://github.com/grafana/grafana-llm-app) | Plugin to easily allow LLM based extensions to grafana | Go | 49 | Apache License 2.0 | 2023-06-06 | 2024-06-26 |

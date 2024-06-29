@@ -1,10 +1,10 @@
 # X
 
-共 100 个项目，近半年内活跃项目 84 个，1 个团队， 201523 个 Star。
+共 100 个项目，近半年内活跃项目 84 个，1 个团队， 201521 个 Star。
 
 语言 Top 3：Scala, Java, Python
 
-统计时间：2024-06-30 02:03:35
+统计时间：2024-06-29 20:53:22
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -15,7 +15,7 @@
 | [scala_school](https://github.com/twitter/scala_school) | Lessons in the Fundamentals of Scala | HTML | 3702 | Apache License 2.0 | 2010-09-08 | 2024-06-25 |
 | [finagle](https://github.com/twitter/finagle) | A fault tolerant, protocol-agnostic RPC system | Scala | 8757 | Apache License 2.0 | 2010-10-19 | 2024-06-27 |
 | [joauth](https://github.com/twitter/joauth) | A Java library for authenticating HTTP Requests using OAuth | Java | 213 | Apache License 2.0 | 2010-12-16 | 2024-05-20 |
-| [opensource-website](https://github.com/twitter/opensource-website) | Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source. | SCSS | 2960 | Apache License 2.0 | 2011-02-23 | 2024-06-27 |
+| [opensource-website](https://github.com/twitter/opensource-website) | Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source. | SCSS | 2961 | Apache License 2.0 | 2011-02-23 | 2024-06-29 |
 | [util](https://github.com/twitter/util) | Wonderful reusable code from Twitter | Scala | 2680 | Apache License 2.0 | 2011-03-26 | 2024-06-29 |
 | [scrooge](https://github.com/twitter/scrooge) | A Thrift parser/generator | Scala | 787 | Apache License 2.0 | 2011-08-22 | 2024-05-19 |
 | [hogan.js](https://github.com/twitter/hogan.js) | A compiler for the Mustache templating language | JavaScript | 5144 | Apache License 2.0 | 2011-12-21 | 2024-06-27 |
@@ -38,7 +38,7 @@
 | [fatcache](https://github.com/twitter/fatcache) | Memcache on SSD | C | 1299 | Apache License 2.0 | 2013-01-02 | 2024-05-10 |
 | [storehaus](https://github.com/twitter/storehaus) | Storehaus is a library that makes it easy to work with asynchronous key value stores | Scala | 465 | Apache License 2.0 | 2013-01-22 | 2024-06-05 |
 | [hbc](https://github.com/twitter/hbc) | A Java HTTP client for consuming Twitter's realtime Streaming API | Java | 961 | Apache License 2.0 | 2013-02-07 | 2024-05-15 |
-| [typeahead.js](https://github.com/twitter/typeahead.js) | typeahead.js is a fast and fully-featured autocomplete library | JavaScript | 16525 | MIT License | 2013-02-19 | 2024-06-29 |
+| [typeahead.js](https://github.com/twitter/typeahead.js) | typeahead.js is a fast and fully-featured autocomplete library | JavaScript | 16524 | MIT License | 2013-02-19 | 2024-06-29 |
 | [twitter-server](https://github.com/twitter/twitter-server) | Twitter-Server defines a template from which services at Twitter are built | Scala | 1564 | Apache License 2.0 | 2013-04-22 | 2024-06-26 |
 | [netty-http2](https://github.com/twitter/netty-http2) | HTTP/2 for Netty | Java | 120 | Apache License 2.0 | 2013-06-15 | 2024-03-31 |
 | [interactive](https://github.com/twitter/interactive) | Twitter interactive visualization | HTML | 214 | MIT License | 2013-06-19 | 2024-04-23 |
@@ -106,5 +106,5 @@
 | [diffusion-rl](https://github.com/twitter/diffusion-rl) | None | Python | 69 | Apache License 2.0 | 2022-08-09 | 2024-06-20 |
 | [focus](https://github.com/twitter/focus) | Focus aligns Git worktree content based on outlines of a repository's Bazel build graph. Focused repos are sparse, shallow, and thin and unlock markedly better performance in large repos. | Rust | 91 | Apache License 2.0 | 2022-08-30 | 2024-01-08 |
 | [birdwatch](https://github.com/twitter/birdwatch) | None | None | 67 | - | 2022-11-06 | 2024-04-25 |
-| [the-algorithm](https://github.com/twitter/the-algorithm) | Source code for Twitter's Recommendation Algorithm | Scala | 61661 | GNU Affero General Public License v3.0 | 2023-03-27 | 2024-06-29 |
-| [the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) | Source code for Twitter's Recommendation Algorithm | Python | 9948 | GNU Affero General Public License v3.0 | 2023-03-27 | 2024-06-27 |
+| [the-algorithm](https://github.com/twitter/the-algorithm) | Source code for Twitter's Recommendation Algorithm | Scala | 61660 | GNU Affero General Public License v3.0 | 2023-03-27 | 2024-06-29 |
+| [the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) | Source code for Twitter's Recommendation Algorithm | Python | 9947 | GNU Affero General Public License v3.0 | 2023-03-27 | 2024-06-29 |

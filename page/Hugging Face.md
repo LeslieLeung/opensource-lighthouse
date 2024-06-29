@@ -1,10 +1,10 @@
 # Hugging Face
 
-共 230 个项目，近半年内活跃项目 202 个，1 个团队， 363674 个 Star。
+共 230 个项目，近半年内活跃项目 202 个，1 个团队， 363682 个 Star。
 
 语言 Top 3：Python, Jupyter Notebook, Rust
 
-统计时间：2024-06-30 02:03:35
+统计时间：2024-06-29 20:53:22
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -22,7 +22,7 @@
 | [hmtl](https://github.com/huggingface/hmtl) | 🌊HMTL: Hierarchical Multi-Task Learning - A State-of-the-Art neural network model for several NLP tasks based on PyTorch and AllenNLP | Python | 1187 | MIT License | 2018-10-31 | 2024-06-28 |
 | [rasa_hmtl](https://github.com/huggingface/rasa_hmtl) | RASA wrapper for HMTL: Hierarchical Multi-Task Learning | Python | 29 | - | 2018-12-06 | 2024-01-08 |
 | [bert-syntax](https://github.com/huggingface/bert-syntax) | Assessing syntactic abilities of BERT | Python | 39 | Apache License 2.0 | 2019-01-08 | 2024-03-24 |
-| [pytorch-image-models](https://github.com/huggingface/pytorch-image-models) | The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNetV4, MobileNet-V3 & V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, and more | Python | 30572 | Apache License 2.0 | 2019-02-02 | 2024-06-29 |
+| [pytorch-image-models](https://github.com/huggingface/pytorch-image-models) | The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNetV4, MobileNet-V3 & V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, and more | Python | 30573 | Apache License 2.0 | 2019-02-02 | 2024-06-29 |
 | [ionic](https://github.com/huggingface/ionic) | Build amazing native and progressive web apps with open web technologies. One app running on everything 🎉 | TypeScript | 3 | Other | 2019-03-15 | 2023-07-07 |
 | [snapchat-lens-api](https://github.com/huggingface/snapchat-lens-api) | Type definitions for Snapchat Lenses scripting | None | 13 | - | 2019-03-20 | 2023-07-07 |
 | [knockknock](https://github.com/huggingface/knockknock) | 🚪✊Knock Knock: Get notified when your training ends with only two additional lines of code | Python | 2762 | MIT License | 2019-03-20 | 2024-06-28 |
@@ -36,7 +36,7 @@
 | [node-question-answering](https://github.com/huggingface/node-question-answering) | Fast and production-ready question answering in Node.js | TypeScript | 464 | Apache License 2.0 | 2020-01-24 | 2024-05-28 |
 | [blog](https://github.com/huggingface/blog) | Public repo for HF blog posts | Jupyter Notebook | 2124 | - | 2020-02-14 | 2024-06-28 |
 | [awesome-papers](https://github.com/huggingface/awesome-papers) | Papers & presentation materials from Hugging Face's internal science day | None | 2017 | - | 2020-03-11 | 2024-06-25 |
-| [datasets](https://github.com/huggingface/datasets) | 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools | Python | 18699 | Apache License 2.0 | 2020-03-26 | 2024-06-29 |
+| [datasets](https://github.com/huggingface/datasets) | 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools | Python | 18701 | Apache License 2.0 | 2020-03-26 | 2024-06-29 |
 | [trl](https://github.com/huggingface/trl) | Train transformer language models with reinforcement learning. | Python | 8606 | Apache License 2.0 | 2020-03-27 | 2024-06-29 |
 | [datasets-viewer](https://github.com/huggingface/datasets-viewer) | Viewer for the 🤗 datasets library.  | Python | 82 | - | 2020-05-27 | 2024-05-30 |
 | [notebooks](https://github.com/huggingface/notebooks) | Notebooks using the Hugging Face libraries 🤗 | Jupyter Notebook | 3418 | Apache License 2.0 | 2020-06-15 | 2024-06-27 |
@@ -91,7 +91,7 @@
 | [deep-rl-class](https://github.com/huggingface/deep-rl-class) | This repo contains the syllabus of the Hugging Face Deep Reinforcement Learning Course. | MDX | 3708 | Apache License 2.0 | 2022-04-21 | 2024-06-29 |
 | [exporters](https://github.com/huggingface/exporters) | Export Hugging Face models to Core ML and TensorFlow Lite | Python | 568 | Apache License 2.0 | 2022-05-23 | 2024-06-27 |
 | [optimum-intel](https://github.com/huggingface/optimum-intel) | 🤗 Optimum Intel: Accelerate inference with Intel optimization tools | Jupyter Notebook | 352 | Apache License 2.0 | 2022-05-25 | 2024-06-28 |
-| [diffusers](https://github.com/huggingface/diffusers) | 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch and FLAX. | Python | 23806 | Apache License 2.0 | 2022-05-30 | 2024-06-29 |
+| [diffusers](https://github.com/huggingface/diffusers) | 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch and FLAX. | Python | 23807 | Apache License 2.0 | 2022-05-30 | 2024-06-29 |
 | [ViZDoom](https://github.com/huggingface/ViZDoom) | Doom-based AI Research Platform for Reinforcement Learning from Raw Visual Information. :godmode: | C++ | 2 | - | 2022-06-11 | 2023-07-07 |
 | [ML-Agents-Training-Executables](https://github.com/huggingface/ML-Agents-Training-Executables) | This repo contains the Unity ML-Agents environments' executables for Windows, Mac and Linux | None | 4 | - | 2022-06-20 | 2024-04-22 |
 | [setfit](https://github.com/huggingface/setfit) | Efficient few-shot learning with Sentence Transformers | Jupyter Notebook | 2066 | Apache License 2.0 | 2022-06-30 | 2024-06-29 |
@@ -115,7 +115,7 @@
 | [hf-endpoints-emulator](https://github.com/huggingface/hf-endpoints-emulator) | Local emulator for Hugging Face Inference Endpoints customer handlers | Python | 21 | MIT License | 2022-11-02 | 2024-02-28 |
 | [roots-search-tool](https://github.com/huggingface/roots-search-tool) | Scripts supporting the development and serving the Roots Search Tool - https://hf.co/spaces/bigscience-data/roots-search | Jupyter Notebook | 10 | - | 2022-11-02 | 2023-07-25 |
 | [disaggregators](https://github.com/huggingface/disaggregators) | 🤗 Disaggregators: Curated data labelers for in-depth analysis. | Python | 66 | Apache License 2.0 | 2022-11-10 | 2024-04-27 |
-| [peft](https://github.com/huggingface/peft) | 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning. | Python | 14838 | Apache License 2.0 | 2022-11-25 | 2024-06-29 |
+| [peft](https://github.com/huggingface/peft) | 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning. | Python | 14839 | Apache License 2.0 | 2022-11-25 | 2024-06-29 |
 | [jat](https://github.com/huggingface/jat) | Distributed online training of a general multi-task Deep RL Agent | Python | 142 | Apache License 2.0 | 2022-11-25 | 2024-06-29 |
 | [swift-coreml-diffusers](https://github.com/huggingface/swift-coreml-diffusers) | Swift app demonstrating Core ML Stable Diffusion | Swift | 2435 | Apache License 2.0 | 2022-12-13 | 2024-06-29 |
 | [hf_transfer](https://github.com/huggingface/hf_transfer) | None | Rust | 244 | Apache License 2.0 | 2022-12-16 | 2024-06-27 |
@@ -150,7 +150,7 @@
 | [llm.nvim](https://github.com/huggingface/llm.nvim) | LLM powered development for Neovim | Lua | 634 | Apache License 2.0 | 2023-05-07 | 2024-06-28 |
 | [gym-games](https://github.com/huggingface/gym-games) | A gym version of various games for reinforcenment learning. | None | 7 | - | 2023-05-09 | 2024-01-12 |
 | [swift-transformers](https://github.com/huggingface/swift-transformers) | Swift Package to implement a transformers-like API in Swift | Swift | 531 | Apache License 2.0 | 2023-05-11 | 2024-06-29 |
-| [swift-chat](https://github.com/huggingface/swift-chat) | Mac app to demonstrate swift-transformers | Swift | 403 | Apache License 2.0 | 2023-05-11 | 2024-06-26 |
+| [swift-chat](https://github.com/huggingface/swift-chat) | Mac app to demonstrate swift-transformers | Swift | 404 | Apache License 2.0 | 2023-05-11 | 2024-06-29 |
 | [rl-baselines3-zoo-update](https://github.com/huggingface/rl-baselines3-zoo-update) | A training framework for Stable Baselines3 reinforcement learning agents, with hyperparameter optimization and pre-trained agents included. | None | 7 | MIT License | 2023-05-23 | 2024-04-22 |
 | [accelerate-wip](https://github.com/huggingface/accelerate-wip) | 🚀 A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision | Python | 18 | Apache License 2.0 | 2023-06-02 | 2024-02-09 |
 | [OBELICS](https://github.com/huggingface/OBELICS) | Code used for the creation of OBELICS, an open, massive and curated collection of interleaved image-text web documents, containing 141M documents, 115B text tokens and 353M images. | Python | 171 | Apache License 2.0 | 2023-06-05 | 2024-06-27 |
@@ -158,7 +158,7 @@
 | [ml-agents-patch](https://github.com/huggingface/ml-agents-patch) | The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning. | C# | 16 | Other | 2023-06-09 | 2023-07-07 |
 | [pixparse](https://github.com/huggingface/pixparse) | Pixel Parsing. A reproduction of OCR-free end-to-end document understanding models with open data | Python | 11 | - | 2023-06-13 | 2024-06-23 |
 | [datatrove](https://github.com/huggingface/datatrove) | Freeing data processing from scripting madness by providing a set of platform-agnostic customizable pipeline processing blocks. | Python | 1727 | Apache License 2.0 | 2023-06-14 | 2024-06-29 |
-| [candle](https://github.com/huggingface/candle) | Minimalist ML framework for Rust | Rust | 14219 | Apache License 2.0 | 2023-06-19 | 2024-06-29 |
+| [candle](https://github.com/huggingface/candle) | Minimalist ML framework for Rust | Rust | 14220 | Apache License 2.0 | 2023-06-19 | 2024-06-29 |
 | [discord-bots](https://github.com/huggingface/discord-bots) | None | Python | 46 | - | 2023-06-20 | 2024-05-13 |
 | [dana](https://github.com/huggingface/dana) | Test/benchmark regression and comparison system with dashboard | JavaScript | 2 | Apache License 2.0 | 2023-07-12 | 2023-11-18 |
 | [open_asr_leaderboard](https://github.com/huggingface/open_asr_leaderboard) | None | Python | 35 | Apache License 2.0 | 2023-07-12 | 2024-06-10 |
@@ -174,7 +174,7 @@
 | [hub-js-utils](https://github.com/huggingface/hub-js-utils) | None | JavaScript | 0 | - | 2023-08-25 | 2023-08-25 |
 | [trident](https://github.com/huggingface/trident) | Storage orchestrator for containers | None | 0 | Apache License 2.0 | 2023-08-28 | 2024-04-22 |
 | [optimum-amd](https://github.com/huggingface/optimum-amd) | AMD related optimizations for transformer models | Jupyter Notebook | 37 | MIT License | 2023-09-10 | 2024-06-24 |
-| [nanotron](https://github.com/huggingface/nanotron) | Minimalistic large language model 3D-parallelism training | Python | 930 | Apache License 2.0 | 2023-09-11 | 2024-06-29 |
+| [nanotron](https://github.com/huggingface/nanotron) | Minimalistic large language model 3D-parallelism training | Python | 931 | Apache License 2.0 | 2023-09-11 | 2024-06-29 |
 | [sharp-transformers](https://github.com/huggingface/sharp-transformers) | A Unity plugin for using Transformers models in Unity. | C# | 133 | Apache License 2.0 | 2023-09-19 | 2024-06-24 |
 | [optimum-quanto](https://github.com/huggingface/optimum-quanto) | A pytorch quantization backend for optimum | Python | 638 | Apache License 2.0 | 2023-09-19 | 2024-06-29 |
 | [candle-layer-norm](https://github.com/huggingface/candle-layer-norm) | None | Cuda | 4 | Apache License 2.0 | 2023-09-25 | 2024-03-22 |

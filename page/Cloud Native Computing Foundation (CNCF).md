@@ -4,7 +4,7 @@
 
 语言 Top 3：Shell, HTML, JavaScript
 
-统计时间：2024-06-30 02:03:35
+统计时间：2024-06-29 20:53:22
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -89,7 +89,7 @@
 | [hugo-netlify-starter](https://github.com/cncf/hugo-netlify-starter) | Static website template for CNCF projects | HTML | 26 | Other | 2019-12-11 | 2024-06-14 |
 | [svg-autocrop-serverless](https://github.com/cncf/svg-autocrop-serverless) | 🚗🌽🔳💁‍♀️🙅‍♀️💁‍♂️🙅‍♂️Serverless infrastructure for SVG Autocrop | HTML | 8 | MIT License | 2019-12-23 | 2024-03-06 |
 | [wp-svg-autocrop](https://github.com/cncf/wp-svg-autocrop) | 📰🔌🔳🚗🌽Wordpress Plugin that enables SVG autocropping | PHP | 2 | GNU General Public License v2.0 | 2020-01-29 | 2023-10-06 |
-| [tag-contributor-strategy](https://github.com/cncf/tag-contributor-strategy) | CNCF Technical Advisory Group on Contributor Strategy -- maintainer relations, building up contributors, governance, graduation, and more. | HTML | 168 | Apache License 2.0 | 2020-02-28 | 2024-06-26 |
+| [tag-contributor-strategy](https://github.com/cncf/tag-contributor-strategy) | CNCF Technical Advisory Group on Contributor Strategy -- maintainer relations, building up contributors, governance, graduation, and more. | HTML | 168 | Apache License 2.0 | 2020-02-28 | 2024-06-29 |
 | [tag-observability](https://github.com/cncf/tag-observability) | Technical Advisory Group for Observability 🔭⚙️ | HTML | 615 | Apache License 2.0 | 2020-02-28 | 2024-06-26 |
 | [parallel-netlify-builds](https://github.com/cncf/parallel-netlify-builds) | None | None | 2 | Apache License 2.0 | 2020-05-26 | 2021-10-15 |
 | [count_kw](https://github.com/cncf/count_kw) | 🧮Count given keyword across a given project | Shell | 4 | Apache License 2.0 | 2020-06-18 | 2023-07-25 |

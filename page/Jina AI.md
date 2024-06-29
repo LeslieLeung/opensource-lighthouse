@@ -1,15 +1,15 @@
 # Jina AI
 
-共 234 个项目，近半年内活跃项目 188 个，1 个团队， 56222 个 Star。
+共 234 个项目，近半年内活跃项目 188 个，1 个团队， 56225 个 Star。
 
 语言 Top 3：Python, TypeScript, Jupyter Notebook
 
-统计时间：2024-06-30 02:03:35
+统计时间：2024-06-29 20:53:22
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 |
 | --- | --- | --- | --- | --- | --- | --- |
 | [clip-as-service](https://github.com/jina-ai/clip-as-service) | 🏄 Scalable embedding, reasoning, ranking for images and sentences with CLIP | Python | 12268 | Other | 2018-11-12 | 2024-06-29 |
-| [jina](https://github.com/jina-ai/jina) | ☁️ Build multimodal AI applications with cloud-native stack | Python | 20490 | Apache License 2.0 | 2020-02-13 | 2024-06-29 |
+| [jina](https://github.com/jina-ai/jina) | ☁️ Build multimodal AI applications with cloud-native stack | Python | 20492 | Apache License 2.0 | 2020-02-13 | 2024-06-29 |
 | [examples](https://github.com/jina-ai/examples) | Jina examples and demos to help you get started | Python | 452 | Apache License 2.0 | 2020-02-17 | 2024-06-02 |
 | [docs](https://github.com/jina-ai/docs) | Jina V1 Official Documentation. For the latest one, please check out https://docs.jina.ai | HTML | 35 | - | 2020-03-09 | 2024-05-16 |
 | [jina-hub](https://github.com/jina-ai/jina-hub) | An open-registry for hosting Jina executors via container images | Python | 103 | Apache License 2.0 | 2020-03-15 | 2024-04-02 |
@@ -238,7 +238,7 @@
 | [ColBERT](https://github.com/jina-ai/ColBERT) | ColBERT: state-of-the-art neural search (SIGIR'20, TACL'21, NeurIPS'21, NAACL'22, CIKM'22, ACL'23, EMNLP'23) | Python | 0 | MIT License | 2024-02-02 | 2024-02-04 |
 | [paper-sag](https://github.com/jina-ai/paper-sag) | None | None | 0 | - | 2024-02-23 | 2024-02-23 |
 | [csp-examples](https://github.com/jina-ai/csp-examples) | None | Jupyter Notebook | 0 | - | 2024-04-09 | 2024-04-25 |
-| [reader](https://github.com/jina-ai/reader) | Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/ | TypeScript | 5512 | Apache License 2.0 | 2024-04-10 | 2024-06-29 |
+| [reader](https://github.com/jina-ai/reader) | Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/ | TypeScript | 5513 | Apache License 2.0 | 2024-04-10 | 2024-06-29 |
 | [puppeteer-extra-plugin-page-proxy](https://github.com/jina-ai/puppeteer-extra-plugin-page-proxy) | Additional module to use with 'puppeteer' for setting proxies per page basis. | None | 1 | - | 2024-04-23 | 2024-05-22 |
 | [terminal-news](https://github.com/jina-ai/terminal-news) | Access Jina AI news via ssh guest@news.jina.ai | Python | 11 | Apache License 2.0 | 2024-05-03 | 2024-05-29 |
 | [chunking](https://github.com/jina-ai/chunking) | None | Python | 0 | - | 2024-06-23 | 2024-06-27 |

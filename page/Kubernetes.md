@@ -1,15 +1,15 @@
 # Kubernetes
 
-共 78 个项目，近半年内活跃项目 77 个，1 个团队， 275967 个 Star。
+共 78 个项目，近半年内活跃项目 77 个，1 个团队， 275970 个 Star。
 
 语言 Top 3：Go, Shell, HTML
 
-统计时间：2024-06-30 02:03:35
+统计时间：2024-06-29 20:53:22
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [kubernetes](https://github.com/kubernetes/kubernetes) | Production-Grade Container Scheduling and Management | Go | 108163 | Apache License 2.0 | 2014-06-06 | 2024-06-29 |
-| [dashboard](https://github.com/kubernetes/dashboard) | General-purpose web UI for Kubernetes clusters | Go | 14049 | Apache License 2.0 | 2015-10-15 | 2024-06-29 |
+| [kubernetes](https://github.com/kubernetes/kubernetes) | Production-Grade Container Scheduling and Management | Go | 108166 | Apache License 2.0 | 2014-06-06 | 2024-06-29 |
+| [dashboard](https://github.com/kubernetes/dashboard) | General-purpose web UI for Kubernetes clusters | Go | 14048 | Apache License 2.0 | 2015-10-15 | 2024-06-29 |
 | [website](https://github.com/kubernetes/website) | Kubernetes website and documentation repo:  | HTML | 4363 | Creative Commons Attribution 4.0 International | 2016-02-10 | 2024-06-29 |
 | [release](https://github.com/kubernetes/release) | Release infrastructure for Kubernetes and related components | Go | 480 | Apache License 2.0 | 2016-03-23 | 2024-06-28 |
 | [minikube](https://github.com/kubernetes/minikube) | Run Kubernetes locally | Go | 28724 | Apache License 2.0 | 2016-04-15 | 2024-06-29 |
@@ -36,7 +36,7 @@
 | [kube-aggregator](https://github.com/kubernetes/kube-aggregator) | Aggregator for Kubernetes-style API servers: dynamic registration, discovery summarization, secure proxy | Go | 246 | Apache License 2.0 | 2017-02-14 | 2024-06-28 |
 | [metrics](https://github.com/kubernetes/metrics) | Kubernetes metrics-related API types and clients | Go | 487 | Apache License 2.0 | 2017-02-15 | 2024-06-28 |
 | [kubectl](https://github.com/kubernetes/kubectl) | Issue tracker and mirror of kubectl code | Go | 2749 | Apache License 2.0 | 2017-03-30 | 2024-06-29 |
-| [autoscaler](https://github.com/kubernetes/autoscaler) | Autoscaling components for Kubernetes | Go | 7801 | Apache License 2.0 | 2017-04-12 | 2024-06-29 |
+| [autoscaler](https://github.com/kubernetes/autoscaler) | Autoscaling components for Kubernetes | Go | 7802 | Apache License 2.0 | 2017-04-12 | 2024-06-29 |
 | [examples](https://github.com/kubernetes/examples) | Kubernetes application example tutorials | Shell | 6094 | Apache License 2.0 | 2017-04-18 | 2024-06-28 |
 | [api](https://github.com/kubernetes/api) | The canonical location of the Kubernetes API definition. | Go | 635 | Apache License 2.0 | 2017-06-06 | 2024-06-28 |
 | [apiextensions-apiserver](https://github.com/kubernetes/apiextensions-apiserver) | API server for API extensions like CustomResourceDefinitions | Go | 228 | Apache License 2.0 | 2017-06-12 | 2024-06-28 |

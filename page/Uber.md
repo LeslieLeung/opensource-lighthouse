@@ -1,10 +1,10 @@
 # Uber
 
-共 191 个项目，近半年内活跃项目 137 个，2 个团队， 176309 个 Star。
+共 191 个项目，近半年内活跃项目 137 个，2 个团队， 176310 个 Star。
 
 语言 Top 3：Go, JavaScript, Python
 
-统计时间：2024-06-30 02:03:35
+统计时间：2024-06-29 20:53:22
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -180,7 +180,7 @@
 | [flagoverride](https://github.com/uber-go/flagoverride) | An automatic way of creating command line options to override fields from a struct. | Go | 20 | MIT License | 2016-08-05 | 2023-01-28 |
 | [tally](https://github.com/uber-go/tally) | A Go metrics interface with fast buffered metrics and third party reporters | Go | 820 | MIT License | 2016-08-15 | 2024-06-29 |
 | [ratelimit](https://github.com/uber-go/ratelimit) | A Go blocking leaky-bucket rate limit implementation | Go | 4226 | MIT License | 2016-09-10 | 2024-06-29 |
-| [fx](https://github.com/uber-go/fx) | A dependency injection based application framework for Go. | Go | 5386 | MIT License | 2016-10-27 | 2024-06-29 |
+| [fx](https://github.com/uber-go/fx) | A dependency injection based application framework for Go. | Go | 5387 | MIT License | 2016-10-27 | 2024-06-29 |
 | [dosa](https://github.com/uber-go/dosa) | DOSA is a data object abstraction layer | Go | 197 | MIT License | 2017-01-04 | 2024-04-11 |
 | [cadence-client](https://github.com/uber-go/cadence-client) | Framework for authoring workflows and activities running on top of the Cadence orchestration engine. | Go | 338 | MIT License | 2017-03-08 | 2024-06-27 |
 | [tools](https://github.com/uber-go/tools) | A collection of golang tools used at Uber | Go | 58 | MIT License | 2017-03-08 | 2024-02-14 |

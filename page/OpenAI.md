@@ -1,10 +1,10 @@
 # OpenAI
 
-共 169 个项目，近半年内活跃项目 169 个，1 个团队， 472724 个 Star。
+共 169 个项目，近半年内活跃项目 169 个，1 个团队， 472729 个 Star。
 
 语言 Top 3：Python, Jupyter Notebook, C++
 
-统计时间：2024-06-30 02:03:35
+统计时间：2024-06-29 20:53:22
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -12,7 +12,7 @@
 | [mujoco-py](https://github.com/openai/mujoco-py) | MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3. | Cython | 2782 | Other | 2016-04-24 | 2024-06-29 |
 | [atari-py](https://github.com/openai/atari-py) | A packaged and slightly-modified version of https://github.com/bbitmaster/ale_python_interface | C++ | 364 | GNU General Public License v2.0 | 2016-04-27 | 2024-06-04 |
 | [pachi-py](https://github.com/openai/pachi-py) | Python wrappers for Pachi. Contains a modified version of the bleeding-edge Pachi source code. | C | 41 | GNU General Public License v2.0 | 2016-04-27 | 2024-06-25 |
-| [gym](https://github.com/openai/gym) | A toolkit for developing and comparing reinforcement learning algorithms. | Python | 34174 | Other | 2016-04-27 | 2024-06-29 |
+| [gym](https://github.com/openai/gym) | A toolkit for developing and comparing reinforcement learning algorithms. | Python | 34173 | Other | 2016-04-27 | 2024-06-29 |
 | [doom-py](https://github.com/openai/doom-py) | ViZDoom Python wrapper | C++ | 75 | MIT License | 2016-05-08 | 2024-05-26 |
 | [InfoGAN](https://github.com/openai/InfoGAN) | Code for reproducing key results in the paper "InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets" | Python | 1052 | - | 2016-06-02 | 2024-06-18 |
 | [gym-http-api](https://github.com/openai/gym-http-api) | API to access OpenAI Gym from other languages via HTTP | Python | 292 | MIT License | 2016-06-03 | 2024-06-09 |
@@ -74,12 +74,12 @@
 | [box2d-py](https://github.com/openai/box2d-py) | None | C++ | 38 | Other | 2018-08-07 | 2024-05-18 |
 | [large-scale-curiosity](https://github.com/openai/large-scale-curiosity) | Code for the paper "Large-Scale Study of Curiosity-Driven Learning" | Python | 799 | - | 2018-08-14 | 2024-06-21 |
 | [random-network-distillation](https://github.com/openai/random-network-distillation) | Code for the paper "Exploration by Random Network Distillation" | Python | 863 | - | 2018-10-16 | 2024-06-24 |
-| [spinningup](https://github.com/openai/spinningup) | An educational resource to help anyone learn deep reinforcement learning. | Python | 9799 | MIT License | 2018-11-07 | 2024-06-29 |
+| [spinningup](https://github.com/openai/spinningup) | An educational resource to help anyone learn deep reinforcement learning. | Python | 9800 | MIT License | 2018-11-07 | 2024-06-29 |
 | [coinrun](https://github.com/openai/coinrun) | Code for the paper "Quantifying Transfer in Reinforcement Learning" | C++ | 388 | MIT License | 2018-11-19 | 2024-06-28 |
 | [post--example](https://github.com/openai/post--example) | Example Distill article repository—clone, rename, start writing! | TeX | 8 | Creative Commons Attribution 4.0 International | 2019-01-22 | 2024-05-14 |
 | [spinningup-workshop](https://github.com/openai/spinningup-workshop) | For educational materials related to the spinning up workshops. | TeX | 191 | - | 2019-02-01 | 2024-05-21 |
 | [lucid](https://github.com/openai/lucid) | A collection of infrastructure and tools for research in neural network interpretability. | Jupyter Notebook | 34 | Apache License 2.0 | 2019-02-04 | 2024-05-14 |
-| [gpt-2](https://github.com/openai/gpt-2) | Code for the paper "Language Models are Unsupervised Multitask Learners" | Python | 21856 | Other | 2019-02-11 | 2024-06-29 |
+| [gpt-2](https://github.com/openai/gpt-2) | Code for the paper "Language Models are Unsupervised Multitask Learners" | Python | 21857 | Other | 2019-02-11 | 2024-06-29 |
 | [neural-mmo](https://github.com/openai/neural-mmo) | Code for the paper "Neural MMO: A Massively Multiagent Game Environment for Training and Evaluating Intelligent Agents" | Python | 1560 | MIT License | 2019-02-28 | 2024-06-24 |
 | [ebm_code_release](https://github.com/openai/ebm_code_release) | Code for Implicit Generation and Generalization with Energy Based Models | Python | 334 | - | 2019-03-08 | 2024-06-20 |
 | [sparse_attention](https://github.com/openai/sparse_attention) | Examples of using sparse attention, as in "Generating Long Sequences with Sparse Transformers" | Python | 1504 | - | 2019-04-12 | 2024-06-26 |
@@ -145,9 +145,9 @@
 | [Video-Pre-Training](https://github.com/openai/Video-Pre-Training) | Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos | Python | 1240 | MIT License | 2022-06-22 | 2024-06-26 |
 | [moderation-api-release](https://github.com/openai/moderation-api-release) | None | None | 102 | MIT License | 2022-07-21 | 2024-06-25 |
 | [human-eval-infilling](https://github.com/openai/human-eval-infilling) | Code for the paper "Efficient Training of Language Models to Fill in the Middle" | Python | 152 | MIT License | 2022-07-29 | 2024-06-24 |
-| [whisper](https://github.com/openai/whisper) | Robust Speech Recognition via Large-Scale Weak Supervision | Python | 63813 | MIT License | 2022-09-16 | 2024-06-29 |
+| [whisper](https://github.com/openai/whisper) | Robust Speech Recognition via Large-Scale Weak Supervision | Python | 63815 | MIT License | 2022-09-16 | 2024-06-29 |
 | [dallify-discord-bot](https://github.com/openai/dallify-discord-bot) | Example code for using OpenAI’s NodeJS SDK with discord.js SDK to create a Discord Bot that uses Slash Commands. | TypeScript | 145 | MIT License | 2022-11-09 | 2024-06-25 |
-| [tiktoken](https://github.com/openai/tiktoken) | tiktoken is a fast BPE tokeniser for use with OpenAI's models. | Python | 10977 | MIT License | 2022-12-01 | 2024-06-29 |
+| [tiktoken](https://github.com/openai/tiktoken) | tiktoken is a fast BPE tokeniser for use with OpenAI's models. | Python | 10978 | MIT License | 2022-12-01 | 2024-06-29 |
 | [point-e](https://github.com/openai/point-e) | Point cloud diffusion for 3D model synthesis | Python | 6395 | MIT License | 2022-12-06 | 2024-06-29 |
 | [gpt-discord-bot](https://github.com/openai/gpt-discord-bot) | Example Discord bot written in Python that uses the completions API to have conversations with the `text-davinci-003` model, and the moderations API to filter the messages. | Python | 1728 | MIT License | 2022-12-21 | 2024-06-26 |
 | [evals](https://github.com/openai/evals) | Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks. | Python | 14316 | Other | 2023-01-23 | 2024-06-29 |
@@ -172,7 +172,7 @@
 | [openai-security-bots](https://github.com/openai/openai-security-bots) | None | Python | 318 | MIT License | 2024-01-11 | 2024-06-29 |
 | [transformer-debugger](https://github.com/openai/transformer-debugger) | None | Python | 3958 | MIT License | 2024-03-11 | 2024-06-29 |
 | [main-branch-check-action](https://github.com/openai/main-branch-check-action) | A GitHub Action for checking the status of a workflow on the main branch as a status on the PR | JavaScript | 4 | MIT License | 2024-04-10 | 2024-05-14 |
-| [simple-evals](https://github.com/openai/simple-evals) | None | Python | 1339 | MIT License | 2024-04-11 | 2024-06-29 |
+| [simple-evals](https://github.com/openai/simple-evals) | None | Python | 1340 | MIT License | 2024-04-11 | 2024-06-29 |
 | [openai-dotnet](https://github.com/openai/openai-dotnet) | The official .NET library for the OpenAI API | C# | 696 | MIT License | 2024-04-25 | 2024-06-29 |
 | [openai-assistants-quickstart](https://github.com/openai/openai-assistants-quickstart) | OpenAI Assistants API quickstart with Next.js. | TypeScript | 1192 | MIT License | 2024-05-01 | 2024-06-29 |
 | [sparse_autoencoder](https://github.com/openai/sparse_autoencoder) | None | Python | 117 | MIT License | 2024-06-12 | 2024-06-29 |

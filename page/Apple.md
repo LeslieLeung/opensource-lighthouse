@@ -1,10 +1,10 @@
 # Apple
 
-共 285 个项目，近半年内活跃项目 271 个，1 个团队， 205641 个 Star。
+共 285 个项目，近半年内活跃项目 271 个，1 个团队， 205644 个 Star。
 
 语言 Top 3：Python, Swift, C
 
-统计时间：2024-06-30 02:03:35
+统计时间：2024-06-29 20:53:22
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -112,7 +112,7 @@
 | [ml-hypersim](https://github.com/apple/ml-hypersim) | Hypersim: A Photorealistic Synthetic Dataset for Holistic Indoor Scene Understanding | Python | 1603 | Other | 2020-11-16 | 2024-06-28 |
 | [ml-flair](https://github.com/apple/ml-flair) | A large labelled image dataset for benchmarking in federated learning | Jupyter Notebook | 86 | Other | 2020-12-09 | 2024-06-25 |
 | [ml-equivariant-neural-rendering](https://github.com/apple/ml-equivariant-neural-rendering) | None | Jupyter Notebook | 99 | Other | 2020-12-16 | 2024-06-07 |
-| [swift-collections](https://github.com/apple/swift-collections) | Commonly used data structures for Swift | Swift | 3600 | Apache License 2.0 | 2021-02-15 | 2024-06-25 |
+| [swift-collections](https://github.com/apple/swift-collections) | Commonly used data structures for Swift | Swift | 3601 | Apache License 2.0 | 2021-02-15 | 2024-06-29 |
 | [learning-subspaces](https://github.com/apple/learning-subspaces) | None | Python | 132 | Other | 2021-03-02 | 2024-06-16 |
 | [vqg-multimodal-assistant](https://github.com/apple/vqg-multimodal-assistant) | None | Python | 5 | Other | 2021-03-08 | 2024-06-07 |
 | [swift-collections-benchmark](https://github.com/apple/swift-collections-benchmark) | A benchmarking tool for Swift Collection algorithms | Swift | 331 | Apache License 2.0 | 2021-03-19 | 2024-06-26 |
@@ -223,7 +223,7 @@
 | [ml-symphony](https://github.com/apple/ml-symphony) | Symphony: Interactive Data Widgets (CHI 2022) | Svelte | 61 | Other | 2023-07-28 | 2024-06-26 |
 | [ml-dr](https://github.com/apple/ml-dr) | A light-weight implementation of ICCV2023 paper "Reinforce Data, Multiply Impact: Improved Model Accuracy and Robustness with Dataset Reinforcement." | Python | 75 | Other | 2023-08-04 | 2024-05-17 |
 | [ml-neilfpp](https://github.com/apple/ml-neilfpp) | None | Python | 90 | Other | 2023-08-07 | 2024-06-29 |
-| [ml-fastvit](https://github.com/apple/ml-fastvit) | This repository contains the official implementation of the research paper, "FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization" ICCV 2023 | Python | 1768 | Other | 2023-08-15 | 2024-06-29 |
+| [ml-fastvit](https://github.com/apple/ml-fastvit) | This repository contains the official implementation of the research paper, "FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization" ICCV 2023 | Python | 1769 | Other | 2023-08-15 | 2024-06-29 |
 | [example-package-figlet](https://github.com/apple/example-package-figlet) | Example package to be used as part of Swift's getting started guides | Swift | 12 | Apache License 2.0 | 2023-08-16 | 2024-06-04 |
 | [ml-heart-rate-models](https://github.com/apple/ml-heart-rate-models) | None | Python | 53 | Other | 2023-08-17 | 2024-06-26 |
 | [ml-spatial-librispeech](https://github.com/apple/ml-spatial-librispeech) | A large synthetic dataset of spatial audio with multiple labels | None | 77 | Other | 2023-08-18 | 2024-06-27 |
@@ -290,6 +290,6 @@
 | [ml-hugs](https://github.com/apple/ml-hugs) | Official repository of HUGS: Human Gaussian Splats (CVPR 2024) | Python | 126 | Other | 2024-04-09 | 2024-06-27 |
 | [corenet](https://github.com/apple/corenet) | CoreNet: A library for training deep neural networks | Python | 6711 | Other | 2024-04-18 | 2024-06-29 |
 | [ml-agm](https://github.com/apple/ml-agm) | None | Python | 33 | Other | 2024-05-03 | 2024-06-23 |
-| [swift-matter-examples](https://github.com/apple/swift-matter-examples) | An Embedded Swift Matter application running on ESP32-C6 | Swift | 188 | Apache License 2.0 | 2024-05-09 | 2024-06-29 |
+| [swift-matter-examples](https://github.com/apple/swift-matter-examples) | An Embedded Swift Matter application running on ESP32-C6 | Swift | 189 | Apache License 2.0 | 2024-05-09 | 2024-06-29 |
 | [ml-recurrent-drafter](https://github.com/apple/ml-recurrent-drafter) | None | Python | 49 | Other | 2024-05-24 | 2024-06-27 |
 | [ml-keyframer](https://github.com/apple/ml-keyframer) | Keyframer: Empowering Animation Design Using Large Language Models | JavaScript | 2 | Other | 2024-05-28 | 2024-06-28 |

@@ -1,10 +1,10 @@
 # Meta
 
-共 137 个项目，近半年内活跃项目 137 个，1 个团队， 964324 个 Star。
+共 137 个项目，近半年内活跃项目 137 个，1 个团队， 964334 个 Star。
 
 语言 Top 3：C++, JavaScript, Python
 
-统计时间：2024-06-30 02:03:35
+统计时间：2024-06-29 20:53:22
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -12,16 +12,16 @@
 | [pyre2](https://github.com/facebook/pyre2) | Python wrapper for RE2 | C++ | 633 | BSD 3-Clause "New" or "Revised" License | 2010-03-16 | 2024-06-23 |
 | [facebook-android-sdk](https://github.com/facebook/facebook-android-sdk) | Used to integrate Android apps with Facebook Platform. | Kotlin | 6085 | Other | 2010-05-10 | 2024-06-26 |
 | [facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk) | Used to integrate the Facebook Platform with your iOS & tvOS apps. | Swift | 7740 | Other | 2010-06-24 | 2024-06-29 |
-| [folly](https://github.com/facebook/folly) | An open-source C++ library developed and used at Facebook. | C++ | 27480 | Apache License 2.0 | 2012-06-01 | 2024-06-29 |
-| [watchman](https://github.com/facebook/watchman) | Watches files and records, or triggers actions, when they change.  | C++ | 12385 | MIT License | 2012-11-29 | 2024-06-29 |
+| [folly](https://github.com/facebook/folly) | An open-source C++ library developed and used at Facebook. | C++ | 27481 | Apache License 2.0 | 2012-06-01 | 2024-06-29 |
+| [watchman](https://github.com/facebook/watchman) | Watches files and records, or triggers actions, when they change.  | C++ | 12386 | MIT License | 2012-11-29 | 2024-06-29 |
 | [rocksdb](https://github.com/facebook/rocksdb) | A library that provides an embeddable, persistent key-value store for fast storage. | C++ | 27803 | GNU General Public License v2.0 | 2012-11-30 | 2024-06-29 |
 | [chef-utils](https://github.com/facebook/chef-utils) | Utilities related to Chef | Ruby | 290 | Apache License 2.0 | 2013-02-20 | 2024-05-27 |
 | [mysql-5.6](https://github.com/facebook/mysql-5.6) | Facebook's branch of the Oracle MySQL database. This includes MyRocks. | C++ | 2461 | Other | 2013-04-15 | 2024-06-29 |
-| [buck](https://github.com/facebook/buck) | A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages. | Java | 8562 | Apache License 2.0 | 2013-04-17 | 2024-06-25 |
-| [react](https://github.com/facebook/react) | The library for web and native user interfaces. | JavaScript | 224731 | MIT License | 2013-05-24 | 2024-06-29 |
+| [buck](https://github.com/facebook/buck) | A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages. | Java | 8561 | Apache License 2.0 | 2013-04-17 | 2024-06-29 |
+| [react](https://github.com/facebook/react) | The library for web and native user interfaces. | JavaScript | 224734 | MIT License | 2013-05-24 | 2024-06-29 |
 | [fbthrift](https://github.com/facebook/fbthrift) | Facebook's branch of Apache Thrift, including a new C++ server. | C++ | 2546 | Apache License 2.0 | 2013-07-02 | 2024-06-29 |
 | [fishhook](https://github.com/facebook/fishhook) | A library that enables dynamically rebinding symbols in Mach-O binaries running on iOS. | C | 5141 | BSD 3-Clause "New" or "Revised" License | 2013-07-11 | 2024-06-29 |
-| [react-devtools](https://github.com/facebook/react-devtools) | An extension that allows inspection of React component hierarchy in the Chrome and Firefox Developer Tools. | None | 11036 | Other | 2013-09-04 | 2024-06-28 |
+| [react-devtools](https://github.com/facebook/react-devtools) | An extension that allows inspection of React component hierarchy in the Chrome and Firefox Developer Tools. | None | 11036 | Other | 2013-09-04 | 2024-06-29 |
 | [regenerator](https://github.com/facebook/regenerator) | Source transformer enabling ECMAScript 6 generator functions in JavaScript-of-today. | JavaScript | 3810 | MIT License | 2013-10-05 | 2024-06-27 |
 | [mcrouter](https://github.com/facebook/mcrouter) | Mcrouter is a memcached protocol router for scaling memcached deployments. | C++ | 3235 | MIT License | 2014-01-24 | 2024-06-29 |
 | [chisel](https://github.com/facebook/chisel) | Chisel is a collection of LLDB commands to assist debugging iOS apps. | Python | 9096 | MIT License | 2014-02-21 | 2024-06-21 |
@@ -38,15 +38,15 @@
 | [between-meals](https://github.com/facebook/between-meals) | A library to provide calculations between Chef diffs. | Ruby | 58 | Apache License 2.0 | 2014-09-04 | 2024-04-15 |
 | [fatal](https://github.com/facebook/fatal) | Fatal is a library for fast prototyping software in modern C++. It provides facilities to enhance the expressive power of C++. The library is heavily based on template meta-programming, while keeping the complexity under-the-hood. | C++ | 1003 | Other | 2014-09-09 | 2024-06-27 |
 | [proxygen](https://github.com/facebook/proxygen) | A collection of C++ HTTP libraries including an easy to use HTTP server. | C++ | 8056 | Other | 2014-10-03 | 2024-06-29 |
-| [flow](https://github.com/facebook/flow) | Adds static typing to JavaScript to improve developer productivity and code quality. | OCaml | 22088 | MIT License | 2014-10-28 | 2024-06-29 |
+| [flow](https://github.com/facebook/flow) | Adds static typing to JavaScript to improve developer productivity and code quality. | OCaml | 22089 | MIT License | 2014-10-28 | 2024-06-29 |
 | [wangle](https://github.com/facebook/wangle) | Wangle is a framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way. | C++ | 3037 | Apache License 2.0 | 2014-12-11 | 2024-06-29 |
-| [react-native](https://github.com/facebook/react-native) | A framework for building native applications using React | C++ | 116866 | MIT License | 2015-01-09 | 2024-06-29 |
+| [react-native](https://github.com/facebook/react-native) | A framework for building native applications using React | C++ | 116863 | MIT License | 2015-01-09 | 2024-06-29 |
 | [zstd](https://github.com/facebook/zstd) | Zstandard - Fast real-time compression algorithm | C | 22744 | Other | 2015-01-24 | 2024-06-29 |
 | [infer](https://github.com/facebook/infer) | A static analyzer for Java, C, C++, and Objective-C | OCaml | 14787 | MIT License | 2015-01-26 | 2024-06-29 |
 | [ThreatExchange](https://github.com/facebook/ThreatExchange) | Trust & Safety tools for working together to fight digital harms.  | C++ | 1139 | Other | 2015-02-12 | 2024-06-29 |
 | [squangle](https://github.com/facebook/squangle) | SQuangLe is a C++ API for accessing MySQL servers | C++ | 121 | Other | 2015-02-13 | 2024-06-27 |
 | [facebook-ruby-business-sdk](https://github.com/facebook/facebook-ruby-business-sdk) | Ruby SDK for Meta Marketing API | Ruby | 204 | Other | 2015-02-25 | 2024-06-14 |
-| [fresco](https://github.com/facebook/fresco) | An Android library for managing images and the memory they use. | Java | 17054 | MIT License | 2015-03-02 | 2024-06-29 |
+| [fresco](https://github.com/facebook/fresco) | An Android library for managing images and the memory they use. | Java | 17053 | MIT License | 2015-03-02 | 2024-06-29 |
 | [jscodeshift](https://github.com/facebook/jscodeshift) | A JavaScript codemod toolkit. | JavaScript | 9081 | MIT License | 2015-03-07 | 2024-06-29 |
 | [openbmc](https://github.com/facebook/openbmc) | OpenBMC is an open software framework to build a complete Linux image for a Board Management Controller (BMC). | C | 621 | - | 2015-03-09 | 2024-06-29 |
 | [fboss](https://github.com/facebook/fboss) | Facebook Open Switching System
@@ -66,7 +66,7 @@ Software for controlling network switches. | C++ | 854 | Other | 2015-03-09 | 20
 | [transform360](https://github.com/facebook/transform360) | Transform360 is an equirectangular to cubemap transform for 360 video. | C | 999 | Other | 2016-01-06 | 2024-06-25 |
 | [redex](https://github.com/facebook/redex) | A bytecode optimizer for Android apps | C++ | 6002 | MIT License | 2016-03-24 | 2024-06-28 |
 | [FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector) | iOS library to help detecting retain cycles in runtime. | Objective-C++ | 4197 | Other | 2016-04-07 | 2024-06-27 |
-| [sapling](https://github.com/facebook/sapling) | A Scalable, User-Friendly Source Control System. | Rust | 5900 | GNU General Public License v2.0 | 2016-05-05 | 2024-06-29 |
+| [sapling](https://github.com/facebook/sapling) | A Scalable, User-Friendly Source Control System. | Rust | 5901 | GNU General Public License v2.0 | 2016-05-05 | 2024-06-29 |
 | [create-react-app](https://github.com/facebook/create-react-app) | Set up a modern web app by running one command. | JavaScript | 102175 | MIT License | 2016-07-17 | 2024-06-29 |
 | [fb303](https://github.com/facebook/fb303) | fb303 is a core set of thrift functions that provide a common mechanism for querying stats and other information from a service. | C++ | 74 | Apache License 2.0 | 2016-08-05 | 2024-06-29 |
 | [react-native-deprecated-modules](https://github.com/facebook/react-native-deprecated-modules) | Deprecated modules that were formerly part of React Native. | JavaScript | 61 | MIT License | 2016-10-28 | 2024-05-15 |
@@ -78,7 +78,7 @@ Software for controlling network switches. | C++ | 854 | Other | 2015-03-09 | 20
 | [duckling](https://github.com/facebook/duckling) | Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings. | Haskell | 4039 | Other | 2017-03-02 | 2024-06-27 |
 | [prop-types](https://github.com/facebook/prop-types) | Runtime type checking for React props and similar objects | JavaScript | 4461 | MIT License | 2017-04-08 | 2024-06-29 |
 | [mysql-8.0](https://github.com/facebook/mysql-8.0) | MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database. | C++ | 107 | GNU General Public License v2.0 | 2017-05-16 | 2024-06-27 |
-| [docusaurus](https://github.com/facebook/docusaurus) | Easy to maintain open source documentation websites. | TypeScript | 54007 | MIT License | 2017-06-20 | 2024-06-29 |
+| [docusaurus](https://github.com/facebook/docusaurus) | Easy to maintain open source documentation websites. | TypeScript | 54010 | MIT License | 2017-06-20 | 2024-06-29 |
 | [facebook-nodejs-business-sdk](https://github.com/facebook/facebook-nodejs-business-sdk) | Node.js SDK for Meta Marketing APIs | JavaScript | 480 | Other | 2017-08-29 | 2024-06-26 |
 | [openr](https://github.com/facebook/openr) | Distributed platform for building autonomic network functions. | C++ | 885 | MIT License | 2017-10-25 | 2024-06-29 |
 | [react-native-website](https://github.com/facebook/react-native-website) | The React Native website and docs | JavaScript | 1910 | MIT License | 2017-10-31 | 2024-06-28 |
@@ -106,7 +106,7 @@ Software for controlling network switches. | C++ | 854 | Other | 2015-03-09 | 20
 | [time](https://github.com/facebook/time) | Meta's Time libraries | Go | 576 | Apache License 2.0 | 2020-04-20 | 2024-06-28 |
 | [opaque-ke](https://github.com/facebook/opaque-ke) | An implementation of the OPAQUE password-authenticated key exchange protocol | Rust | 283 | Apache License 2.0 | 2020-06-04 | 2024-06-27 |
 | [mariana-trench](https://github.com/facebook/mariana-trench) | A security focused static analysis tool for Android and Java applications. | C++ | 1059 | MIT License | 2020-12-02 | 2024-06-29 |
-| [lexical](https://github.com/facebook/lexical) | Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance. | TypeScript | 18152 | MIT License | 2020-12-03 | 2024-06-29 |
+| [lexical](https://github.com/facebook/lexical) | Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance. | TypeScript | 18153 | MIT License | 2020-12-03 | 2024-06-29 |
 | [sapp](https://github.com/facebook/sapp) | Post Processor for Facebook Static Analysis Tools. | Python | 128 | MIT License | 2020-12-04 | 2024-06-17 |
 | [starlark-rust](https://github.com/facebook/starlark-rust) | A Rust implementation of the Starlark language | Rust | 651 | Apache License 2.0 | 2020-12-07 | 2024-06-27 |
 | [OpenBIC](https://github.com/facebook/OpenBIC) | BICs (Bridge IC) are standalone devices deployed within a Data Center that enable monitoring a multi-host system using a single BMC device. | C | 40 | Apache License 2.0 | 2021-02-03 | 2024-06-28 |
@@ -116,9 +116,9 @@ Software for controlling network switches. | C++ | 854 | Other | 2015-03-09 | 20
 | [voprf](https://github.com/facebook/voprf) | An implementation of a verifiable oblivious pseudorandom function (RFC 9497) | Rust | 43 | Apache License 2.0 | 2021-09-02 | 2024-06-28 |
 | [netconsd](https://github.com/facebook/netconsd) | Receive and process logs from the Linux kernel. | C | 48 | BSD 3-Clause "New" or "Revised" License | 2021-09-08 | 2024-06-28 |
 | [pyre-action](https://github.com/facebook/pyre-action) | GitHub Action for Pyre | None | 17 | MIT License | 2021-10-12 | 2024-04-24 |
-| [buck2](https://github.com/facebook/buck2) | Build system, successor to Buck | Rust | 3381 | Apache License 2.0 | 2022-01-21 | 2024-06-29 |
+| [buck2](https://github.com/facebook/buck2) | Build system, successor to Buck | Rust | 3382 | Apache License 2.0 | 2022-01-21 | 2024-06-29 |
 | [pysa-action](https://github.com/facebook/pysa-action) | GitHub Action for Pysa | None | 16 | MIT License | 2022-03-08 | 2024-04-15 |
-| [memlab](https://github.com/facebook/memlab) | A framework for finding JavaScript memory leaks and analyzing heap snapshots | TypeScript | 4273 | MIT License | 2022-05-26 | 2024-06-29 |
+| [memlab](https://github.com/facebook/memlab) | A framework for finding JavaScript memory leaks and analyzing heap snapshots | TypeScript | 4275 | MIT License | 2022-05-26 | 2024-06-29 |
 | [lr-with-bins](https://github.com/facebook/lr-with-bins) | An experimental first-stage model used for quick and efficient inference on part of the data. | Jupyter Notebook | 14 | MIT License | 2022-08-22 | 2024-04-15 |
 | [threat-research](https://github.com/facebook/threat-research) | Welcome to the Meta Threat Research Indicator Repository, a dedicated resource for the sharing of Indicators of Compromise (IOCs) and other threat indicators with the external research community | Python | 135 | MIT License | 2022-08-25 | 2024-06-27 |
 | [buck2-prelude](https://github.com/facebook/buck2-prelude) | Prelude for the Buck2 project | Starlark | 47 | Apache License 2.0 | 2022-09-24 | 2024-06-28 |
@@ -129,7 +129,7 @@ Software for controlling network switches. | C++ | 854 | Other | 2015-03-09 | 20
 | [glTF](https://github.com/facebook/glTF) | glTF – Runtime 3D Asset Delivery | HTML | 3 | Other | 2023-01-25 | 2024-06-18 |
 | [bpfilter](https://github.com/facebook/bpfilter) | BPF-based packet filtering framework | C | 117 | GNU General Public License v2.0 | 2023-02-20 | 2024-06-29 |
 | [Conversion-Leads-Salesforce-APEX](https://github.com/facebook/Conversion-Leads-Salesforce-APEX) | Setup Conversion Leads API integration using Salesforce APEX triggers on Lead objects | None | 19 | MIT License | 2023-03-14 | 2024-04-15 |
-| [lexical-ios](https://github.com/facebook/lexical-ios) | Lexical iOS is an extensible text editor framework that integrates the APIs and philosophies from Lexical Web with a Swift API built on top of TextKit. | Swift | 495 | MIT License | 2023-03-20 | 2024-06-25 |
+| [lexical-ios](https://github.com/facebook/lexical-ios) | Lexical iOS is an extensible text editor framework that integrates the APIs and philosophies from Lexical Web with a Swift API built on top of TextKit. | Swift | 496 | MIT License | 2023-03-20 | 2024-06-29 |
 | [OSM-HOT-Tasking-Manager](https://github.com/facebook/OSM-HOT-Tasking-Manager) | A fork of the HOTOSM Tasking Manager (tasks.hotosm.org) to deploy and test experimental integrations and features. | JavaScript | 8 | BSD 2-Clause "Simplified" License | 2023-04-04 | 2024-04-15 |
 | [react-router-3](https://github.com/facebook/react-router-3) | Fork of https//www.npmjs.com/package/react-router v3.0.5 | None | 7 | MIT License | 2023-05-22 | 2024-04-15 |
 | [SPIRV-Headers](https://github.com/facebook/SPIRV-Headers) | SPIRV-Headers | None | 4 | Other | 2023-06-07 | 2024-04-15 |

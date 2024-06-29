@@ -1,10 +1,10 @@
 # Netflix
 
-共 230 个项目，近半年内活跃项目 181 个，1 个团队， 225399 个 Star。
+共 230 个项目，近半年内活跃项目 181 个，1 个团队， 225401 个 Star。
 
 语言 Top 3：Java, JavaScript, Python
 
-统计时间：2024-06-30 02:03:35
+统计时间：2024-06-29 20:53:22
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -14,18 +14,18 @@
 | [CassJMeter](https://github.com/Netflix/CassJMeter) | JMeter plugin to run cassandra tests. | Java | 163 | Apache License 2.0 | 2011-10-20 | 2024-03-31 |
 | [servo](https://github.com/Netflix/servo) | Netflix Application Monitoring Library | Java | 1409 | Apache License 2.0 | 2011-12-16 | 2024-06-07 |
 | [aws-autoscaling](https://github.com/Netflix/aws-autoscaling) | Tools and Documentation about using Auto Scaling | Shell | 429 | - | 2012-01-11 | 2023-09-06 |
-| [netflix.github.com](https://github.com/Netflix/netflix.github.com) | None | HTML | 1517 | - | 2012-01-31 | 2024-06-26 |
+| [netflix.github.com](https://github.com/Netflix/netflix.github.com) | None | HTML | 1518 | - | 2012-01-31 | 2024-06-29 |
 | [gradle-template](https://github.com/Netflix/gradle-template) | None | Java | 246 | Apache License 2.0 | 2012-03-12 | 2024-06-11 |
 | [archaius](https://github.com/Netflix/archaius) | Library for configuration management API | Java | 2445 | Apache License 2.0 | 2012-05-11 | 2024-06-17 |
 | [asgard](https://github.com/Netflix/asgard) | [Asgard is deprecated at Netflix. We use Spinnaker ( www.spinnaker.io ).] Web interface for application deployments and cloud management in Amazon Web Services (AWS). Binary download: http://github.com/Netflix/asgard/releases | Groovy | 2237 | Apache License 2.0 | 2012-05-21 | 2024-06-25 |
 | [SimianArmy](https://github.com/Netflix/SimianArmy) | Tools for keeping your cloud operating in top form. Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures. | Java | 7964 | Apache License 2.0 | 2012-07-06 | 2024-06-28 |
 | [governator](https://github.com/Netflix/governator) | Governator is a library of extensions and utilities that enhance Google Guice to provide: classpath scanning and automatic binding, lifecycle management, configuration to field mapping, field validation and parallelized object warmup. | Java | 824 | Apache License 2.0 | 2012-07-07 | 2024-06-29 |
 | [netflix-commons](https://github.com/Netflix/netflix-commons) | Common utilities for Netflix OSS projects | Java | 161 | Apache License 2.0 | 2012-07-12 | 2024-05-15 |
-| [eureka](https://github.com/Netflix/eureka) | AWS Service registry for resilient mid-tier load balancing and failover. | Java | 12286 | Apache License 2.0 | 2012-07-26 | 2024-06-29 |
+| [eureka](https://github.com/Netflix/eureka) | AWS Service registry for resilient mid-tier load balancing and failover. | Java | 12287 | Apache License 2.0 | 2012-07-26 | 2024-06-29 |
 | [edda](https://github.com/Netflix/edda) | AWS API Read Cache | Scala | 565 | Apache License 2.0 | 2012-08-18 | 2024-06-26 |
 | [frigga](https://github.com/Netflix/frigga) | Utilities for working with Asgard named objects | Java | 37 | Apache License 2.0 | 2012-10-12 | 2024-05-03 |
 | [blitz4j](https://github.com/Netflix/blitz4j) | Logging framework for fast asynchronous logging | Java | 561 | Apache License 2.0 | 2012-11-13 | 2024-05-21 |
-| [Hystrix](https://github.com/Netflix/Hystrix) | Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable. | Java | 23967 | - | 2012-11-19 | 2024-06-29 |
+| [Hystrix](https://github.com/Netflix/Hystrix) | Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable. | Java | 23966 | - | 2012-11-19 | 2024-06-29 |
 | [Turbine](https://github.com/Netflix/Turbine) | SSE Stream Aggregator | Java | 835 | Apache License 2.0 | 2012-12-06 | 2024-06-23 |
 | [ribbon](https://github.com/Netflix/ribbon) | Ribbon is a Inter Process Communication (remote procedure calls) library with built in software load balancers. The primary usage model involves REST calls with various serialization scheme support. | Java | 4531 | Apache License 2.0 | 2013-01-15 | 2024-06-28 |
 | [denominator](https://github.com/Netflix/denominator) | Portably control DNS clouds using java or bash | Java | 579 | Apache License 2.0 | 2013-01-24 | 2024-05-22 |
@@ -35,7 +35,7 @@
 | [recipes-rss](https://github.com/Netflix/recipes-rss) | RSS Reader Recipes that uses several of the Netflix OSS components | Java | 339 | Apache License 2.0 | 2013-02-16 | 2024-06-11 |
 | [Cloud-Prize](https://github.com/Netflix/Cloud-Prize) | Description and terms for the Netflix Cloud Prize, which runs from March-September 2013. Read the rules, fork to your GitHub account to create a Submission, then send us your email address. | None | 164 | - | 2013-02-25 | 2023-10-10 |
 | [netflix-graph](https://github.com/Netflix/netflix-graph) | Compact in-memory representation of directed graph data | Java | 558 | Apache License 2.0 | 2013-03-07 | 2024-06-23 |
-| [zuul](https://github.com/Netflix/zuul) | Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more. | Java | 13288 | Apache License 2.0 | 2013-03-13 | 2024-06-29 |
+| [zuul](https://github.com/Netflix/zuul) | Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more. | Java | 13289 | Apache License 2.0 | 2013-03-13 | 2024-06-29 |
 | [suro](https://github.com/Netflix/suro) | Netflix's distributed Data Pipeline | Java | 792 | Apache License 2.0 | 2013-03-20 | 2024-06-05 |
 | [brutal](https://github.com/Netflix/brutal) | A multi-network asynchronous chat bot framework using twisted | Python | 201 | Other | 2013-04-18 | 2024-03-25 |
 | [pytheas](https://github.com/Netflix/pytheas) | Web Resources and UI Framework | JavaScript | 186 | Apache License 2.0 | 2013-05-07 | 2024-01-04 |

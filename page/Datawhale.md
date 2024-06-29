@@ -1,10 +1,10 @@
 # Datawhale
 
-共 111 个项目，近半年内活跃项目 101 个，1 个团队， 106606 个 Star。
+共 111 个项目，近半年内活跃项目 101 个，1 个团队， 106610 个 Star。
 
 语言 Top 3：Jupyter Notebook, Python, C++
 
-统计时间：2024-06-30 02:03:35
+统计时间：2024-06-29 20:53:22
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -71,7 +71,7 @@
 | [leeml-notes](https://github.com/datawhalechina/leeml-notes) | leeml-notes已更名为leedl-tutorial，请访问：https://github.com/datawhalechina/leedl-tutorial | None | 15 | - | 2023-01-29 | 2024-06-03 |
 | [openmmlab-tutorial](https://github.com/datawhalechina/openmmlab-tutorial) | 帮助新手快速入门、快速使用、习惯 OpenMMLab 开源库官方文档且能够自主上手实验，自由选择阅读更深层的知识。 | Jupyter Notebook | 51 | - | 2023-01-31 | 2024-06-25 |
 | [ai-club](https://github.com/datawhalechina/ai-club) | Datawhale 高校联盟 | None | 3 | Other | 2023-03-05 | 2023-10-13 |
-| [d2l-ai-solutions-manual](https://github.com/datawhalechina/d2l-ai-solutions-manual) | 《动手学深度学习》习题解答，在线阅读地址如下： | Jupyter Notebook | 289 | Other | 2023-03-22 | 2024-06-28 |
+| [d2l-ai-solutions-manual](https://github.com/datawhalechina/d2l-ai-solutions-manual) | 《动手学深度学习》习题解答，在线阅读地址如下： | Jupyter Notebook | 290 | Other | 2023-03-22 | 2024-06-29 |
 | [joyrl-book](https://github.com/datawhalechina/joyrl-book) | None | Jupyter Notebook | 87 | - | 2023-03-30 | 2024-06-19 |
 | [repo-test](https://github.com/datawhalechina/repo-test) | None | None | 0 | - | 2023-04-07 | 2023-04-07 |
 | [whale-quant](https://github.com/datawhalechina/whale-quant) | 本项目为量化开源课程，可以帮助人们快速掌握量化金融知识以及使用Python进行量化开发的能力。 | Jupyter Notebook | 422 | - | 2023-04-08 | 2024-06-29 |
@@ -94,7 +94,7 @@
 | [sweettalk-django](https://github.com/datawhalechina/sweettalk-django) | None | Python | 2 | GNU Affero General Public License v3.0 | 2023-08-30 | 2024-05-14 |
 | [repo-template](https://github.com/datawhalechina/repo-template) | Datawhale Repository Template | None | 7 | - | 2023-09-04 | 2024-06-15 |
 | [easy-ros2arm](https://github.com/datawhalechina/easy-ros2arm) | Robotic arm with machine vision and its os is ROS2. | C++ | 5 | Apache License 2.0 | 2023-10-26 | 2024-05-18 |
-| [llm-universe](https://github.com/datawhalechina/llm-universe) | 本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/ | Jupyter Notebook | 3365 | - | 2023-10-29 | 2024-06-29 |
+| [llm-universe](https://github.com/datawhalechina/llm-universe) | 本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/ | Jupyter Notebook | 3366 | - | 2023-10-29 | 2024-06-29 |
 | [self-llm](https://github.com/datawhalechina/self-llm) | 《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程 | Jupyter Notebook | 5902 | Apache License 2.0 | 2023-11-16 | 2024-06-29 |
 | [hugging-rl](https://github.com/datawhalechina/hugging-rl) | Robot Learning Algorithms | None | 11 | Other | 2023-12-04 | 2024-06-25 |
 | [agent-tutorial](https://github.com/datawhalechina/agent-tutorial) | None | None | 117 | - | 2023-12-05 | 2024-06-29 |
@@ -106,7 +106,7 @@
 | [zishu](https://github.com/datawhalechina/zishu) | wow-fullstack，令人惊叹的全栈开发教程 | Jupyter Notebook | 60 | - | 2023-12-28 | 2024-06-26 |
 | [llm-deploy](https://github.com/datawhalechina/llm-deploy) | 大模型/LLM推理和部署理论与实践 | None | 11 | - | 2024-01-14 | 2024-06-26 |
 | [sora-tutorial](https://github.com/datawhalechina/sora-tutorial) | None | None | 81 | - | 2024-02-23 | 2024-06-28 |
-| [llms-from-scratch-cn](https://github.com/datawhalechina/llms-from-scratch-cn) | 仅需Python基础，从0构建大语言模型；从0逐步构建GLM4\Llama3\RWKV6， 深入理解大模型原理 | Jupyter Notebook | 476 | Other | 2024-02-28 | 2024-06-29 |
+| [llms-from-scratch-cn](https://github.com/datawhalechina/llms-from-scratch-cn) | 仅需Python基础，从0构建大语言模型；从0逐步构建GLM4\Llama3\RWKV6， 深入理解大模型原理 | Jupyter Notebook | 478 | Other | 2024-02-28 | 2024-06-29 |
 | [udl-tutorial](https://github.com/datawhalechina/udl-tutorial) | None | None | 5 | - | 2024-03-07 | 2024-05-29 |
 | [casual-inference](https://github.com/datawhalechina/casual-inference) | None | None | 0 | - | 2024-03-25 | 2024-03-25 |
 | [white-cloud-robotics](https://github.com/datawhalechina/white-cloud-robotics) | None | None | 0 | - | 2024-03-25 | 2024-03-25 |
