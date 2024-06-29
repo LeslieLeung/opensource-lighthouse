@@ -1,0 +1,28 @@
+name: update
+
+on:
+  schedule:
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate_readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.12"
+      - name: Install Poetry
+        uses: snok/install-poetry@v1
+      - name: Install dependencies
+        run: poetry install
+      - name: Generate Files
+        run: poetry run python main.py --auth-token=${{ secrets.GITHUB_TOKEN }}
+      - name: Commit README
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: Leslie Leung
+          author_email: lesily9@gmail.com
+          message: "update data"
+          push: true
