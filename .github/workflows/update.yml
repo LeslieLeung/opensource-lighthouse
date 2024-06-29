@@ -18,7 +18,7 @@ jobs:
       - name: Install dependencies
         run: poetry install
       - name: Generate Files
-        run: poetry run python main.py --auth-token=${{ secrets.GITHUB_TOKEN }}
+        run: poetry run python -u main.py --auth-token=${{ secrets.GITHUB_TOKEN }}
       - name: Commit README
         uses: EndBug/add-and-commit@v9
         with:

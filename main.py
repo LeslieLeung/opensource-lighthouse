@@ -24,11 +24,37 @@ path_to_repos = "data/repos.csv"
 time = pd.Timestamp.now().strftime("%Y-%m-%d %H:%M:%S")
 cutoff_date = datetime.datetime.now() - datetime.timedelta(days=180)
 
+# Define columns and dtypes
+columns = [
+    "id",
+    "owner",
+    "repo",
+    "link",
+    "stars",
+    "license",
+    "language",
+    "created_at",
+    "last_updated_at",
+    "company",
+    "description",
+]
+dtypes = {
+    "id": int,
+    "owner": str,
+    "repo": str,
+    "link": str,
+    "stars": int,
+    "license": str,
+    "language": str,
+    "created_at": str,
+    "last_updated_at": str,
+    "company": str,
+    "description": str,
+}
+
 # load teams from csv
 data_teams = pd.read_csv(path_to_teams)
-data_repos = pd.read_csv(
-    path_to_repos, dtype={"id": str, "created_at": str, "last_updated_at": str}
-)
+data_repos = pd.read_csv(path_to_repos, dtype=dtypes)
 
 teams = data_teams["name"].values
 team_to_company = data_teams.set_index("name")["company"].to_dict()
@@ -43,6 +69,8 @@ if args.auth_token is not None:
 else:
     g = Github()
 if not args.skip_fetch:
+    # clear all data in repos
+    data_repos = pd.DataFrame(columns=columns)
     for team in teams:
         i += 1
         print(f"Fetching {i}/{total_teams}: {team}")
@@ -68,17 +96,13 @@ if not args.skip_fetch:
                 "last_updated_at": repo.updated_at.date().strftime("%Y-%m-%d"),
                 "company": team_to_company[team],
             }
-            # check if repo id already exists
-            if repo.id in data_repos["id"].values:
-                # update repo
-                for key, value in repo_info.items():
-                    data_repos.loc[data_repos["id"] == repo_info["id"], key] = value
-            else:
-                # add repo
-                data_repos = pd.concat(
-                    [data_repos, pd.DataFrame([repo_info])], ignore_index=True
-                )
+
+            # add repo
+            data_repos = pd.concat(
+                [data_repos, pd.DataFrame([repo_info])], ignore_index=True
+            )
     # save to csv
+    data_repos.astype(dtypes)
     data_repos.to_csv(path_to_repos, index=False)
 
 # render readme
