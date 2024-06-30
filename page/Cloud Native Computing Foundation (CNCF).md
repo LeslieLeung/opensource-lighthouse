@@ -1,10 +1,10 @@
 # Cloud Native Computing Foundation (CNCF)
 
-共 152 个项目，近半年内活跃项目 100 个，1 个团队， 34288 个 Star。
+共 152 个项目，近半年内活跃项目 100 个，1 个团队， 34289 个 Star。
 
 语言 Top 3：Shell, HTML, JavaScript
 
-统计时间：2024-06-29 20:53:22
+统计时间：2024-06-30 08:06:12
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -21,7 +21,7 @@
 | [wg-ci](https://github.com/cncf/wg-ci) | 🔄CNCF CI Working Group | None | 36 | Apache License 2.0 | 2017-02-23 | 2024-01-18 |
 | [tag-storage](https://github.com/cncf/tag-storage) | 🗄CNCF Storage TAG | None | 147 | Apache License 2.0 | 2017-02-28 | 2024-06-28 |
 | [wg-networking](https://github.com/cncf/wg-networking) | 📡📶CNCF Networking WG | None | 26 | Apache License 2.0 | 2017-03-02 | 2022-06-27 |
-| [curriculum](https://github.com/cncf/curriculum) | 📚Open Source Curriculum for CNCF Certification Courses | None | 5270 | - | 2017-03-28 | 2024-06-29 |
+| [curriculum](https://github.com/cncf/curriculum) | 📚Open Source Curriculum for CNCF Certification Courses | None | 5271 | - | 2017-03-28 | 2024-06-30 |
 | [gitdm.archive](https://github.com/cncf/gitdm.archive) | 📜Fork for tracking CNCF projects | Ruby | 169 | - | 2017-04-17 | 2024-04-28 |
 | [velocity](https://github.com/cncf/velocity) | 🚅Track development velocity | Shell | 168 | Apache License 2.0 | 2017-04-26 | 2024-06-07 |
 | [wg-serverless](https://github.com/cncf/wg-serverless) | CNCF Serverless WG | None | 1506 | Apache License 2.0 | 2017-04-28 | 2024-05-26 |
@@ -85,7 +85,7 @@
 | [tag-runtime](https://github.com/cncf/tag-runtime) | 🏃🏿‍♀️🏃🏽‍♀️🏃🏻‍♂️🕒CNCF Technical Advisory Group for Runtime | HTML | 81 | Apache License 2.0 | 2019-10-10 | 2024-06-25 |
 | [hnscraping](https://github.com/cncf/hnscraping) | 👩🏾‍💻📰🧽Hacker News hiring scraping | Ruby | 9 | Apache License 2.0 | 2019-10-15 | 2024-06-14 |
 | [memorials](https://github.com/cncf/memorials) | 🕯️💐CNCF Community Memorials | None | 181 | Apache License 2.0 | 2019-10-31 | 2024-04-24 |
-| [cncf.io](https://github.com/cncf/cncf.io) | ☁️♮🏛🚧 The CNCF.io WordPress website | PHP | 80 | MIT License | 2019-11-02 | 2024-06-28 |
+| [cncf.io](https://github.com/cncf/cncf.io) | ☁️♮🏛🚧 The CNCF.io WordPress website | PHP | 80 | MIT License | 2019-11-02 | 2024-06-30 |
 | [hugo-netlify-starter](https://github.com/cncf/hugo-netlify-starter) | Static website template for CNCF projects | HTML | 26 | Other | 2019-12-11 | 2024-06-14 |
 | [svg-autocrop-serverless](https://github.com/cncf/svg-autocrop-serverless) | 🚗🌽🔳💁‍♀️🙅‍♀️💁‍♂️🙅‍♂️Serverless infrastructure for SVG Autocrop | HTML | 8 | MIT License | 2019-12-23 | 2024-03-06 |
 | [wp-svg-autocrop](https://github.com/cncf/wp-svg-autocrop) | 📰🔌🔳🚗🌽Wordpress Plugin that enables SVG autocropping | PHP | 2 | GNU General Public License v2.0 | 2020-01-29 | 2023-10-06 |
@@ -118,7 +118,7 @@
 | [dcochecker](https://github.com/cncf/dcochecker) | ✔️ DCO Checker GitHub Action | None | 4 | Apache License 2.0 | 2021-10-27 | 2021-12-18 |
 | [clomonitor](https://github.com/cncf/clomonitor) | CLOMonitor is a tool that periodically checks open source projects repositories to verify they meet certain project health best practices | TypeScript | 106 | Apache License 2.0 | 2022-01-14 | 2024-06-27 |
 | [credits](https://github.com/cncf/credits) | None | HCL | 4 | Apache License 2.0 | 2022-01-22 | 2022-09-13 |
-| [landscape-graph](https://github.com/cncf/landscape-graph) | CNCF Landscape Graph, data model, and applications. | Jupyter Notebook | 37 | Other | 2022-04-21 | 2024-06-29 |
+| [landscape-graph](https://github.com/cncf/landscape-graph) | CNCF Landscape Graph, data model, and applications. | Jupyter Notebook | 37 | Other | 2022-04-21 | 2024-06-30 |
 | [tag-env-sustainability](https://github.com/cncf/tag-env-sustainability) | 🌳🌍♻️ TAG Environmental Sustainability | HTML | 219 | Apache License 2.0 | 2022-05-12 | 2024-06-21 |
 | [gitvote](https://github.com/cncf/gitvote) | GitVote is a GitHub application that allows holding a vote on issues and pull requests | Rust | 104 | Apache License 2.0 | 2022-05-31 | 2024-06-28 |
 | [wg-coc](https://github.com/cncf/wg-coc) | ⚖️ CNCF Code of Conduct WG | None | 14 | Apache License 2.0 | 2022-06-10 | 2024-04-09 |
