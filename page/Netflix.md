@@ -1,10 +1,10 @@
 # Netflix
 
-共 230 个项目，近半年内活跃项目 181 个，1 个团队， 225430 个 Star。
+共 230 个项目，近半年内活跃项目 181 个，1 个团队， 225436 个 Star。
 
 语言 Top 3：Java, JavaScript, Python
 
-统计时间：2024-07-01 08:07:35
+统计时间：2024-07-01 10:05:39
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -35,7 +35,7 @@
 | [recipes-rss](https://github.com/Netflix/recipes-rss) | RSS Reader Recipes that uses several of the Netflix OSS components | Java | 339 | Apache License 2.0 | 2013-02-16 | 2024-06-11 |
 | [Cloud-Prize](https://github.com/Netflix/Cloud-Prize) | Description and terms for the Netflix Cloud Prize, which runs from March-September 2013. Read the rules, fork to your GitHub account to create a Submission, then send us your email address. | None | 164 | - | 2013-02-25 | 2023-10-10 |
 | [netflix-graph](https://github.com/Netflix/netflix-graph) | Compact in-memory representation of directed graph data | Java | 558 | Apache License 2.0 | 2013-03-07 | 2024-06-23 |
-| [zuul](https://github.com/Netflix/zuul) | Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more. | Java | 13290 | Apache License 2.0 | 2013-03-13 | 2024-06-30 |
+| [zuul](https://github.com/Netflix/zuul) | Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more. | Java | 13292 | Apache License 2.0 | 2013-03-13 | 2024-07-01 |
 | [suro](https://github.com/Netflix/suro) | Netflix's distributed Data Pipeline | Java | 792 | Apache License 2.0 | 2013-03-20 | 2024-06-05 |
 | [brutal](https://github.com/Netflix/brutal) | A multi-network asynchronous chat bot framework using twisted | Python | 201 | Other | 2013-04-18 | 2024-03-25 |
 | [pytheas](https://github.com/Netflix/pytheas) | Web Resources and UI Framework | JavaScript | 186 | Apache License 2.0 | 2013-05-07 | 2024-01-04 |
@@ -49,7 +49,7 @@
 | [aegisthus](https://github.com/Netflix/aegisthus) | A Bulk Data Pipeline out of Cassandra | Java | 322 | Apache License 2.0 | 2013-10-15 | 2024-04-02 |
 | [zeno](https://github.com/Netflix/zeno) | Netflix's In-Memory Data Propagation Framework | Java | 201 | Apache License 2.0 | 2013-10-28 | 2024-03-31 |
 | [staash](https://github.com/Netflix/staash) | A language-agnostic as well as storage-agnostic web interface for storing data into persistent storage systems, the metadata layer abstracts a lot of storage details and the pattern automation APIs take care of automating common data access patterns. | Java | 208 | Apache License 2.0 | 2013-11-05 | 2024-05-17 |
-| [s3mper](https://github.com/Netflix/s3mper) | s3mper - Consistent Listing for S3 | Java | 221 | Apache License 2.0 | 2013-11-20 | 2024-03-31 |
+| [s3mper](https://github.com/Netflix/s3mper) | s3mper - Consistent Listing for S3 | Java | 222 | Apache License 2.0 | 2013-11-20 | 2024-07-01 |
 | [PigPen](https://github.com/Netflix/PigPen) | Map-Reduce for Clojure | Clojure | 564 | Apache License 2.0 | 2013-12-12 | 2024-06-29 |
 | [fabricator](https://github.com/Netflix/fabricator) | None | Java | 11 | Apache License 2.0 | 2014-02-06 | 2022-03-29 |
 | [Fido](https://github.com/Netflix/Fido) | None | C# | 819 | Apache License 2.0 | 2014-02-07 | 2024-03-29 |
@@ -177,7 +177,7 @@
 | [x-test](https://github.com/Netflix/x-test) | None | JavaScript | 10 | Apache License 2.0 | 2019-06-27 | 2024-06-14 |
 | [p2plab](https://github.com/Netflix/p2plab) | performance benchmark infrastructure for IPLD DAGs | Go | 164 | Apache License 2.0 | 2019-07-27 | 2024-06-30 |
 | [nflxprofile](https://github.com/Netflix/nflxprofile) | None | Python | 19 | Apache License 2.0 | 2019-08-28 | 2022-07-29 |
-| [metaflow](https://github.com/Netflix/metaflow) | :rocket: Build and manage real-life ML, AI, and data science projects with ease! | Python | 7782 | Apache License 2.0 | 2019-09-17 | 2024-06-30 |
+| [metaflow](https://github.com/Netflix/metaflow) | :rocket: Build and manage real-life ML, AI, and data science projects with ease! | Python | 7785 | Apache License 2.0 | 2019-09-17 | 2024-07-01 |
 | [polynote](https://github.com/Netflix/polynote) | None | HTML | 37 | - | 2019-10-23 | 2023-07-25 |
 | [consoleme](https://github.com/Netflix/consoleme) | A Central Control Plane for AWS Permissions and Access | Python | 3088 | Apache License 2.0 | 2019-11-13 | 2024-06-30 |
 | [metaflow-service](https://github.com/Netflix/metaflow-service) | :rocket: Metadata tracking and UI service for Metaflow! | Python | 179 | Apache License 2.0 | 2019-11-29 | 2024-07-01 |

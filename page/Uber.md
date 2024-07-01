@@ -1,10 +1,10 @@
 # Uber
 
-共 191 个项目，近半年内活跃项目 134 个，2 个团队， 176360 个 Star。
+共 191 个项目，近半年内活跃项目 134 个，2 个团队， 176364 个 Star。
 
 语言 Top 3：Go, JavaScript, Python
 
-统计时间：2024-07-01 08:07:35
+统计时间：2024-07-01 10:05:39
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -172,7 +172,7 @@
 | [phonenumbers](https://github.com/uber/phonenumbers) | Uber Fork - for company PR's back upstream | None | 0 | MIT License | 2024-03-01 | 2024-03-01 |
 | [vscode-bazel-bsp](https://github.com/uber/vscode-bazel-bsp) | VS Code extension to provide integration with Bazel BSP, leveraging Build Server Protocol.  Currently focused on VS Code test explorer integration. | TypeScript | 3 | Apache License 2.0 | 2024-05-02 | 2024-06-28 |
 | [terraform-provider-googleworkspace-fork](https://github.com/uber/terraform-provider-googleworkspace-fork) | Uber fork of the Terraform Provider for Google Workspace | None | 0 | Mozilla Public License 2.0 | 2024-06-25 | 2024-06-25 |
-| [zap](https://github.com/uber-go/zap) | Blazing fast, structured, leveled logging in Go. | Go | 21268 | MIT License | 2016-02-18 | 2024-07-01 |
+| [zap](https://github.com/uber-go/zap) | Blazing fast, structured, leveled logging in Go. | Go | 21269 | MIT License | 2016-02-18 | 2024-07-01 |
 | [gwr](https://github.com/uber-go/gwr) | Get / Watch / Report -ing of operational data. This project is deprecated and not maintained. | Go | 38 | MIT License | 2016-05-16 | 2024-01-03 |
 | [atomic](https://github.com/uber-go/atomic) | Wrapper types for sync/atomic which enforce atomic access | Go | 1284 | MIT License | 2016-05-24 | 2024-06-30 |
 | [sally](https://github.com/uber-go/sally) | A tiny HTTP server for supporting custom Golang import paths | Go | 289 | MIT License | 2016-06-27 | 2024-06-26 |
@@ -195,7 +195,7 @@
 | [go-helix](https://github.com/uber-go/go-helix) | A Go implementation of Apache Helix (currently the participant part only). | Go | 56 | Other | 2017-12-14 | 2023-06-14 |
 | [kafka-client](https://github.com/uber-go/kafka-client) | Go client library for Apache Kafka | Go | 220 | MIT License | 2017-12-15 | 2024-03-11 |
 | [guide](https://github.com/uber-go/guide) | The Uber Go Style Guide. | Makefile | 15446 | Apache License 2.0 | 2018-11-10 | 2024-07-01 |
-| [gopatch](https://github.com/uber-go/gopatch) | Refactoring and code transformation tool for Go. | Go | 839 | MIT License | 2020-11-30 | 2024-07-01 |
+| [gopatch](https://github.com/uber-go/gopatch) | Refactoring and code transformation tool for Go. | Go | 840 | MIT License | 2020-11-30 | 2024-07-01 |
 | [cff](https://github.com/uber-go/cff) | Concurrency toolkit for Go | Go | 155 | Apache License 2.0 | 2022-09-28 | 2024-06-24 |
-| [mock](https://github.com/uber-go/mock) | GoMock is a mocking framework for the Go programming language. | Go | 1790 | Apache License 2.0 | 2023-05-03 | 2024-07-01 |
-| [nilaway](https://github.com/uber-go/nilaway) | Static analysis tool to detect potential nil panics in Go code | Go | 2902 | Apache License 2.0 | 2023-07-11 | 2024-06-30 |
+| [mock](https://github.com/uber-go/mock) | GoMock is a mocking framework for the Go programming language. | Go | 1791 | Apache License 2.0 | 2023-05-03 | 2024-07-01 |
+| [nilaway](https://github.com/uber-go/nilaway) | Static analysis tool to detect potential nil panics in Go code | Go | 2903 | Apache License 2.0 | 2023-07-11 | 2024-07-01 |

@@ -1,21 +1,21 @@
 # Kubernetes
 
-共 78 个项目，近半年内活跃项目 77 个，1 个团队， 276010 个 Star。
+共 78 个项目，近半年内活跃项目 77 个，1 个团队， 276019 个 Star。
 
 语言 Top 3：Go, Shell, HTML
 
-统计时间：2024-07-01 08:07:35
+统计时间：2024-07-01 10:05:39
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [kubernetes](https://github.com/kubernetes/kubernetes) | Production-Grade Container Scheduling and Management | Go | 108182 | Apache License 2.0 | 2014-06-06 | 2024-07-01 |
-| [dashboard](https://github.com/kubernetes/dashboard) | General-purpose web UI for Kubernetes clusters | Go | 14051 | Apache License 2.0 | 2015-10-15 | 2024-07-01 |
+| [kubernetes](https://github.com/kubernetes/kubernetes) | Production-Grade Container Scheduling and Management | Go | 108186 | Apache License 2.0 | 2014-06-06 | 2024-07-01 |
+| [dashboard](https://github.com/kubernetes/dashboard) | General-purpose web UI for Kubernetes clusters | Go | 14052 | Apache License 2.0 | 2015-10-15 | 2024-07-01 |
 | [website](https://github.com/kubernetes/website) | Kubernetes website and documentation repo:  | HTML | 4363 | Creative Commons Attribution 4.0 International | 2016-02-10 | 2024-07-01 |
 | [release](https://github.com/kubernetes/release) | Release infrastructure for Kubernetes and related components | Go | 480 | Apache License 2.0 | 2016-03-23 | 2024-07-01 |
-| [minikube](https://github.com/kubernetes/minikube) | Run Kubernetes locally | Go | 28733 | Apache License 2.0 | 2016-04-15 | 2024-07-01 |
+| [minikube](https://github.com/kubernetes/minikube) | Run Kubernetes locally | Go | 28734 | Apache License 2.0 | 2016-04-15 | 2024-07-01 |
 | [test-infra](https://github.com/kubernetes/test-infra) | Test infrastructure for the Kubernetes project. | Go | 3804 | Apache License 2.0 | 2016-04-28 | 2024-06-30 |
 | [enhancements](https://github.com/kubernetes/enhancements) | Enhancements tracking repo for Kubernetes | Go | 3328 | Apache License 2.0 | 2016-05-02 | 2024-06-27 |
-| [community](https://github.com/kubernetes/community) | Kubernetes community content | Jupyter Notebook | 11817 | Apache License 2.0 | 2016-05-03 | 2024-07-01 |
+| [community](https://github.com/kubernetes/community) | Kubernetes community content | Jupyter Notebook | 11818 | Apache License 2.0 | 2016-05-03 | 2024-07-01 |
 | [kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) | Add-on agent to generate and expose cluster-level metrics. | Go | 5202 | Apache License 2.0 | 2016-05-06 | 2024-07-01 |
 | [node-problem-detector](https://github.com/kubernetes/node-problem-detector) | This is a place for various problem detectors running on the Kubernetes nodes. | Go | 2818 | Apache License 2.0 | 2016-05-17 | 2024-06-29 |
 | [kompose](https://github.com/kubernetes/kompose) | Convert Compose to Kubernetes | Go | 9279 | Apache License 2.0 | 2016-06-27 | 2024-07-01 |
@@ -26,7 +26,7 @@
 | [client-go](https://github.com/kubernetes/client-go) | Go client for Kubernetes. | Go | 8769 | Apache License 2.0 | 2016-08-25 | 2024-07-01 |
 | [gengo](https://github.com/kubernetes/gengo) | gengo library for code generation. | Go | 542 | Apache License 2.0 | 2016-08-30 | 2024-06-20 |
 | [perf-tests](https://github.com/kubernetes/perf-tests) | Performance tests and benchmarks | Go | 866 | Apache License 2.0 | 2016-09-21 | 2024-07-01 |
-| [ingress-nginx](https://github.com/kubernetes/ingress-nginx) | Ingress-NGINX Controller for Kubernetes | Go | 16914 | Apache License 2.0 | 2016-11-04 | 2024-07-01 |
+| [ingress-nginx](https://github.com/kubernetes/ingress-nginx) | Ingress-NGINX Controller for Kubernetes | Go | 16916 | Apache License 2.0 | 2016-11-04 | 2024-07-01 |
 | [kubeadm](https://github.com/kubernetes/kubeadm) | Aggregator for issues filed against kubeadm | Go | 3685 | Apache License 2.0 | 2016-11-22 | 2024-06-29 |
 | [repo-infra](https://github.com/kubernetes/repo-infra) | Kubernetes repository infrastucture tools | Starlark | 97 | Apache License 2.0 | 2016-12-15 | 2024-05-05 |
 | [dns](https://github.com/kubernetes/dns) | Kubernetes DNS service | Go | 894 | Apache License 2.0 | 2016-12-15 | 2024-06-28 |

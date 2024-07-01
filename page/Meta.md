@@ -1,10 +1,10 @@
 # Meta
 
-共 137 个项目，近半年内活跃项目 137 个，1 个团队， 964505 个 Star。
+共 137 个项目，近半年内活跃项目 137 个，1 个团队， 964532 个 Star。
 
 语言 Top 3：C++, JavaScript, Python
 
-统计时间：2024-07-01 08:07:35
+统计时间：2024-07-01 10:05:39
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -12,15 +12,15 @@
 | [pyre2](https://github.com/facebook/pyre2) | Python wrapper for RE2 | C++ | 633 | BSD 3-Clause "New" or "Revised" License | 2010-03-16 | 2024-06-23 |
 | [facebook-android-sdk](https://github.com/facebook/facebook-android-sdk) | Used to integrate Android apps with Facebook Platform. | Kotlin | 6085 | Other | 2010-05-10 | 2024-06-26 |
 | [facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk) | Used to integrate the Facebook Platform with your iOS & tvOS apps. | Swift | 7741 | Other | 2010-06-24 | 2024-06-29 |
-| [folly](https://github.com/facebook/folly) | An open-source C++ library developed and used at Facebook. | C++ | 27487 | Apache License 2.0 | 2012-06-01 | 2024-06-30 |
+| [folly](https://github.com/facebook/folly) | An open-source C++ library developed and used at Facebook. | C++ | 27489 | Apache License 2.0 | 2012-06-01 | 2024-07-01 |
 | [watchman](https://github.com/facebook/watchman) | Watches files and records, or triggers actions, when they change.  | C++ | 12390 | MIT License | 2012-11-29 | 2024-07-01 |
-| [rocksdb](https://github.com/facebook/rocksdb) | A library that provides an embeddable, persistent key-value store for fast storage. | C++ | 27811 | GNU General Public License v2.0 | 2012-11-30 | 2024-07-01 |
+| [rocksdb](https://github.com/facebook/rocksdb) | A library that provides an embeddable, persistent key-value store for fast storage. | C++ | 27814 | GNU General Public License v2.0 | 2012-11-30 | 2024-07-01 |
 | [chef-utils](https://github.com/facebook/chef-utils) | Utilities related to Chef | Ruby | 290 | Apache License 2.0 | 2013-02-20 | 2024-05-27 |
 | [mysql-5.6](https://github.com/facebook/mysql-5.6) | Facebook's branch of the Oracle MySQL database. This includes MyRocks. | C++ | 2461 | Other | 2013-04-15 | 2024-06-30 |
 | [buck](https://github.com/facebook/buck) | A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages. | Java | 8562 | Apache License 2.0 | 2013-04-17 | 2024-06-30 |
-| [react](https://github.com/facebook/react) | The library for web and native user interfaces. | JavaScript | 224762 | MIT License | 2013-05-24 | 2024-07-01 |
+| [react](https://github.com/facebook/react) | The library for web and native user interfaces. | JavaScript | 224767 | MIT License | 2013-05-24 | 2024-07-01 |
 | [fbthrift](https://github.com/facebook/fbthrift) | Facebook's branch of Apache Thrift, including a new C++ server. | C++ | 2546 | Apache License 2.0 | 2013-07-02 | 2024-06-30 |
-| [fishhook](https://github.com/facebook/fishhook) | A library that enables dynamically rebinding symbols in Mach-O binaries running on iOS. | C | 5142 | BSD 3-Clause "New" or "Revised" License | 2013-07-11 | 2024-06-30 |
+| [fishhook](https://github.com/facebook/fishhook) | A library that enables dynamically rebinding symbols in Mach-O binaries running on iOS. | C | 5141 | BSD 3-Clause "New" or "Revised" License | 2013-07-11 | 2024-07-01 |
 | [react-devtools](https://github.com/facebook/react-devtools) | An extension that allows inspection of React component hierarchy in the Chrome and Firefox Developer Tools. | None | 11036 | Other | 2013-09-04 | 2024-06-29 |
 | [regenerator](https://github.com/facebook/regenerator) | Source transformer enabling ECMAScript 6 generator functions in JavaScript-of-today. | JavaScript | 3810 | MIT License | 2013-10-05 | 2024-06-27 |
 | [mcrouter](https://github.com/facebook/mcrouter) | Mcrouter is a memcached protocol router for scaling memcached deployments. | C++ | 3234 | MIT License | 2014-01-24 | 2024-06-30 |
@@ -47,7 +47,7 @@
 | [squangle](https://github.com/facebook/squangle) | SQuangLe is a C++ API for accessing MySQL servers | C++ | 121 | Other | 2015-02-13 | 2024-06-27 |
 | [facebook-ruby-business-sdk](https://github.com/facebook/facebook-ruby-business-sdk) | Ruby SDK for Meta Marketing API | Ruby | 204 | Other | 2015-02-25 | 2024-06-14 |
 | [fresco](https://github.com/facebook/fresco) | An Android library for managing images and the memory they use. | Java | 17052 | MIT License | 2015-03-02 | 2024-06-30 |
-| [jscodeshift](https://github.com/facebook/jscodeshift) | A JavaScript codemod toolkit. | JavaScript | 9082 | MIT License | 2015-03-07 | 2024-06-30 |
+| [jscodeshift](https://github.com/facebook/jscodeshift) | A JavaScript codemod toolkit. | JavaScript | 9083 | MIT License | 2015-03-07 | 2024-07-01 |
 | [openbmc](https://github.com/facebook/openbmc) | OpenBMC is an open software framework to build a complete Linux image for a Board Management Controller (BMC). | C | 622 | - | 2015-03-09 | 2024-07-01 |
 | [fboss](https://github.com/facebook/fboss) | Facebook Open Switching System
 
@@ -55,7 +55,7 @@ Software for controlling network switches. | C++ | 854 | Other | 2015-03-09 | 20
 | [componentkit](https://github.com/facebook/componentkit) | A React-inspired view framework for iOS. | Objective-C++ | 5756 | Other | 2015-03-20 | 2024-06-28 |
 | [PathPicker](https://github.com/facebook/PathPicker) | PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands. | Python | 5089 | MIT License | 2015-05-01 | 2024-06-30 |
 | [fbjs](https://github.com/facebook/fbjs) | A collection of utility libraries used by other Meta JS projects. | JavaScript | 1951 | MIT License | 2015-05-28 | 2024-06-28 |
-| [relay](https://github.com/facebook/relay) | Relay is a JavaScript framework for building data-driven React applications. | Rust | 18271 | MIT License | 2015-08-10 | 2024-07-01 |
+| [relay](https://github.com/facebook/relay) | Relay is a JavaScript framework for building data-driven React applications. | Rust | 18272 | MIT License | 2015-08-10 | 2024-07-01 |
 | [screenshot-tests-for-android](https://github.com/facebook/screenshot-tests-for-android) | Generate fast deterministic screenshots during Android instrumentation tests | Java | 1735 | Apache License 2.0 | 2015-08-31 | 2024-06-27 |
 | [facebook-sdk-for-unity](https://github.com/facebook/facebook-sdk-for-unity) | The facebook sdk for unity. | C# | 480 | Other | 2015-09-01 | 2024-06-28 |
 | [idb](https://github.com/facebook/idb) | idb is a flexible command line interface for automating iOS simulators and devices | Objective-C | 4458 | MIT License | 2015-09-03 | 2024-07-01 |
@@ -67,18 +67,18 @@ Software for controlling network switches. | C++ | 854 | Other | 2015-03-09 | 20
 | [redex](https://github.com/facebook/redex) | A bytecode optimizer for Android apps | C++ | 6003 | MIT License | 2016-03-24 | 2024-06-30 |
 | [FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector) | iOS library to help detecting retain cycles in runtime. | Objective-C++ | 4198 | Other | 2016-04-07 | 2024-06-30 |
 | [sapling](https://github.com/facebook/sapling) | A Scalable, User-Friendly Source Control System. | Rust | 5901 | GNU General Public License v2.0 | 2016-05-05 | 2024-06-30 |
-| [create-react-app](https://github.com/facebook/create-react-app) | Set up a modern web app by running one command. | JavaScript | 102178 | MIT License | 2016-07-17 | 2024-07-01 |
+| [create-react-app](https://github.com/facebook/create-react-app) | Set up a modern web app by running one command. | JavaScript | 102181 | MIT License | 2016-07-17 | 2024-07-01 |
 | [fb303](https://github.com/facebook/fb303) | fb303 is a core set of thrift functions that provide a common mechanism for querying stats and other information from a service. | C++ | 74 | Apache License 2.0 | 2016-08-05 | 2024-06-30 |
 | [react-native-deprecated-modules](https://github.com/facebook/react-native-deprecated-modules) | Deprecated modules that were formerly part of React Native. | JavaScript | 61 | MIT License | 2016-10-28 | 2024-05-15 |
 | [TextLayoutBuilder](https://github.com/facebook/TextLayoutBuilder) | An Android library that allows you to build text layouts more easily. | Java | 1472 | Apache License 2.0 | 2016-11-01 | 2024-06-23 |
 | [prophet](https://github.com/facebook/prophet) | Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth. | Python | 18000 | MIT License | 2016-11-16 | 2024-07-01 |
-| [metro](https://github.com/facebook/metro) | 🚇 The JavaScript bundler for React Native | JavaScript | 5112 | MIT License | 2016-12-14 | 2024-07-01 |
+| [metro](https://github.com/facebook/metro) | 🚇 The JavaScript bundler for React Native | JavaScript | 5113 | MIT License | 2016-12-14 | 2024-07-01 |
 | [litho](https://github.com/facebook/litho) | A declarative framework for building efficient UIs on Android. | Java | 7661 | Apache License 2.0 | 2017-01-27 | 2024-06-30 |
 | [idx](https://github.com/facebook/idx) | Library for accessing arbitrarily nested, possibly nullable properties on a JavaScript object. | JavaScript | 1685 | MIT License | 2017-02-28 | 2024-05-30 |
 | [duckling](https://github.com/facebook/duckling) | Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings. | Haskell | 4040 | Other | 2017-03-02 | 2024-07-01 |
 | [prop-types](https://github.com/facebook/prop-types) | Runtime type checking for React props and similar objects | JavaScript | 4461 | MIT License | 2017-04-08 | 2024-06-29 |
 | [mysql-8.0](https://github.com/facebook/mysql-8.0) | MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database. | C++ | 107 | GNU General Public License v2.0 | 2017-05-16 | 2024-06-27 |
-| [docusaurus](https://github.com/facebook/docusaurus) | Easy to maintain open source documentation websites. | TypeScript | 54024 | MIT License | 2017-06-20 | 2024-07-01 |
+| [docusaurus](https://github.com/facebook/docusaurus) | Easy to maintain open source documentation websites. | TypeScript | 54030 | MIT License | 2017-06-20 | 2024-07-01 |
 | [facebook-nodejs-business-sdk](https://github.com/facebook/facebook-nodejs-business-sdk) | Node.js SDK for Meta Marketing APIs | JavaScript | 480 | Other | 2017-08-29 | 2024-06-26 |
 | [openr](https://github.com/facebook/openr) | Distributed platform for building autonomic network functions. | C++ | 885 | MIT License | 2017-10-25 | 2024-06-30 |
 | [react-native-website](https://github.com/facebook/react-native-website) | The React Native website and docs | JavaScript | 1910 | MIT License | 2017-10-31 | 2024-06-28 |
@@ -106,7 +106,7 @@ Software for controlling network switches. | C++ | 854 | Other | 2015-03-09 | 20
 | [time](https://github.com/facebook/time) | Meta's Time libraries | Go | 577 | Apache License 2.0 | 2020-04-20 | 2024-06-30 |
 | [opaque-ke](https://github.com/facebook/opaque-ke) | An implementation of the OPAQUE password-authenticated key exchange protocol | Rust | 283 | Apache License 2.0 | 2020-06-04 | 2024-06-27 |
 | [mariana-trench](https://github.com/facebook/mariana-trench) | A security focused static analysis tool for Android and Java applications. | C++ | 1060 | MIT License | 2020-12-02 | 2024-07-01 |
-| [lexical](https://github.com/facebook/lexical) | Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance. | TypeScript | 18165 | MIT License | 2020-12-03 | 2024-07-01 |
+| [lexical](https://github.com/facebook/lexical) | Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance. | TypeScript | 18166 | MIT License | 2020-12-03 | 2024-07-01 |
 | [sapp](https://github.com/facebook/sapp) | Post Processor for Facebook Static Analysis Tools. | Python | 128 | MIT License | 2020-12-04 | 2024-06-17 |
 | [starlark-rust](https://github.com/facebook/starlark-rust) | A Rust implementation of the Starlark language | Rust | 655 | Apache License 2.0 | 2020-12-07 | 2024-07-01 |
 | [OpenBIC](https://github.com/facebook/OpenBIC) | BICs (Bridge IC) are standalone devices deployed within a Data Center that enable monitoring a multi-host system using a single BMC device. | C | 40 | Apache License 2.0 | 2021-02-03 | 2024-06-28 |
@@ -118,13 +118,13 @@ Software for controlling network switches. | C++ | 854 | Other | 2015-03-09 | 20
 | [pyre-action](https://github.com/facebook/pyre-action) | GitHub Action for Pyre | None | 17 | MIT License | 2021-10-12 | 2024-04-24 |
 | [buck2](https://github.com/facebook/buck2) | Build system, successor to Buck | Rust | 3382 | Apache License 2.0 | 2022-01-21 | 2024-06-30 |
 | [pysa-action](https://github.com/facebook/pysa-action) | GitHub Action for Pysa | None | 16 | MIT License | 2022-03-08 | 2024-04-15 |
-| [memlab](https://github.com/facebook/memlab) | A framework for finding JavaScript memory leaks and analyzing heap snapshots | TypeScript | 4278 | MIT License | 2022-05-26 | 2024-07-01 |
+| [memlab](https://github.com/facebook/memlab) | A framework for finding JavaScript memory leaks and analyzing heap snapshots | TypeScript | 4280 | MIT License | 2022-05-26 | 2024-07-01 |
 | [lr-with-bins](https://github.com/facebook/lr-with-bins) | An experimental first-stage model used for quick and efficient inference on part of the data. | Jupyter Notebook | 14 | MIT License | 2022-08-22 | 2024-04-15 |
 | [threat-research](https://github.com/facebook/threat-research) | Welcome to the Meta Threat Research Indicator Repository, a dedicated resource for the sharing of Indicators of Compromise (IOCs) and other threat indicators with the external research community | Python | 136 | MIT License | 2022-08-25 | 2024-06-30 |
 | [buck2-prelude](https://github.com/facebook/buck2-prelude) | Prelude for the Buck2 project | Starlark | 47 | Apache License 2.0 | 2022-09-24 | 2024-06-28 |
 | [dns](https://github.com/facebook/dns) | Collection of Meta's DNS Libraries | Go | 260 | Apache License 2.0 | 2022-10-04 | 2024-06-26 |
 | [errpy](https://github.com/facebook/errpy) | An Error-Recovering Parser for Python | Rust | 59 | MIT License | 2022-11-08 | 2024-06-20 |
-| [stylex](https://github.com/facebook/stylex) | StyleX is the styling system for ambitious user interfaces. | JavaScript | 8216 | MIT License | 2022-12-08 | 2024-06-30 |
+| [stylex](https://github.com/facebook/stylex) | StyleX is the styling system for ambitious user interfaces. | JavaScript | 8217 | MIT License | 2022-12-08 | 2024-07-01 |
 | [ocamlrep](https://github.com/facebook/ocamlrep) | Sets of libraries and tools to write applications and libraries mixing OCaml and Rust. These libraries will help keeping your types and data structures synchronized, and enable seamless exchange between OCaml and Rust | Rust | 123 | MIT License | 2022-12-13 | 2024-06-15 |
 | [glTF](https://github.com/facebook/glTF) | glTF – Runtime 3D Asset Delivery | HTML | 3 | Other | 2023-01-25 | 2024-06-18 |
 | [bpfilter](https://github.com/facebook/bpfilter) | BPF-based packet filtering framework | C | 117 | GNU General Public License v2.0 | 2023-02-20 | 2024-06-29 |
@@ -145,5 +145,5 @@ Software for controlling network switches. | C++ | 854 | Other | 2015-03-09 | 20
 | [dotslash](https://github.com/facebook/dotslash) | Simplified executable deployment | Rust | 535 | Apache License 2.0 | 2024-02-06 | 2024-06-29 |
 | [Pysa](https://github.com/facebook/Pysa) | Python Static Analyzer | None | 3 | MIT License | 2024-02-13 | 2024-04-15 |
 | [install-dotslash](https://github.com/facebook/install-dotslash) | A simple GitHub Action to install a precompiled dotslash binary | None | 1 | MIT License | 2024-02-15 | 2024-06-11 |
-| [react-strict-dom](https://github.com/facebook/react-strict-dom) | React Strict DOM (RSD) is a subset of React DOM, imperative DOM, and CSS that supports web and native targets | JavaScript | 3011 | MIT License | 2024-02-20 | 2024-06-30 |
-| [zapier-shops-orders](https://github.com/facebook/zapier-shops-orders) | A Zapier integration with Meta Shops orders using the Commerce API (https//developers.facebook.com/docs/commerce-platform/) | TypeScript | 1 | MIT License | 2024-04-22 | 2024-05-13 |
+| [react-strict-dom](https://github.com/facebook/react-strict-dom) | React Strict DOM (RSD) is a subset of React DOM, imperative DOM, and CSS that supports web and native targets | JavaScript | 3012 | MIT License | 2024-02-20 | 2024-07-01 |
+| [zapier-shops-orders](https://github.com/facebook/zapier-shops-orders) | A Zapier integration with Meta Shops orders using the Commerce API (https//developers.facebook.com/docs/commerce-platform/) | TypeScript | 2 | MIT License | 2024-04-22 | 2024-07-01 |

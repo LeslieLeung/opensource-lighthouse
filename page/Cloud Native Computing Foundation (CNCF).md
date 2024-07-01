@@ -1,10 +1,10 @@
 # Cloud Native Computing Foundation (CNCF)
 
-共 152 个项目，近半年内活跃项目 100 个，1 个团队， 34299 个 Star。
+共 152 个项目，近半年内活跃项目 100 个，1 个团队， 34300 个 Star。
 
 语言 Top 3：Shell, HTML, JavaScript
 
-统计时间：2024-07-01 08:07:35
+统计时间：2024-07-01 10:05:39
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -21,7 +21,7 @@
 | [wg-ci](https://github.com/cncf/wg-ci) | 🔄CNCF CI Working Group | None | 36 | Apache License 2.0 | 2017-02-23 | 2024-01-18 |
 | [tag-storage](https://github.com/cncf/tag-storage) | 🗄CNCF Storage TAG | None | 147 | Apache License 2.0 | 2017-02-28 | 2024-06-28 |
 | [wg-networking](https://github.com/cncf/wg-networking) | 📡📶CNCF Networking WG | None | 26 | Apache License 2.0 | 2017-03-02 | 2022-06-27 |
-| [curriculum](https://github.com/cncf/curriculum) | 📚Open Source Curriculum for CNCF Certification Courses | None | 5275 | - | 2017-03-28 | 2024-07-01 |
+| [curriculum](https://github.com/cncf/curriculum) | 📚Open Source Curriculum for CNCF Certification Courses | None | 5276 | - | 2017-03-28 | 2024-07-01 |
 | [gitdm.archive](https://github.com/cncf/gitdm.archive) | 📜Fork for tracking CNCF projects | Ruby | 169 | - | 2017-04-17 | 2024-04-28 |
 | [velocity](https://github.com/cncf/velocity) | 🚅Track development velocity | Shell | 168 | Apache License 2.0 | 2017-04-26 | 2024-06-07 |
 | [wg-serverless](https://github.com/cncf/wg-serverless) | CNCF Serverless WG | None | 1506 | Apache License 2.0 | 2017-04-28 | 2024-05-26 |

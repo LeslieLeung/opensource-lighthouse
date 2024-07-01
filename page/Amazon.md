@@ -1,10 +1,10 @@
 # Amazon
 
-共 446 个项目，近半年内活跃项目 437 个，1 个团队， 214694 个 Star。
+共 446 个项目，近半年内活跃项目 437 个，1 个团队， 214697 个 Star。
 
 语言 Top 3：Python, Go, Java
 
-统计时间：2024-07-01 08:07:35
+统计时间：2024-07-01 10:05:39
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -29,7 +29,7 @@
 | [aws-codedeploy-agent](https://github.com/aws/aws-codedeploy-agent) | Host Agent for AWS CodeDeploy | Ruby | 324 | Apache License 2.0 | 2014-10-22 | 2024-06-19 |
 | [aws-eb-glassfish-dockerfiles](https://github.com/aws/aws-eb-glassfish-dockerfiles) | Official Elastic Beanstalk repository for GlassFish docker files.  | Dockerfile | 33 | Apache License 2.0 | 2014-10-28 | 2024-04-28 |
 | [aws-eb-python-dockerfiles](https://github.com/aws/aws-eb-python-dockerfiles) | Official Elastic Beanstalk repository for Python docker files. | Shell | 62 | Other | 2014-10-30 | 2024-06-17 |
-| [amazon-ecs-agent](https://github.com/aws/amazon-ecs-agent) | Amazon Elastic Container Service Agent | Go | 2054 | Apache License 2.0 | 2014-12-04 | 2024-06-29 |
+| [amazon-ecs-agent](https://github.com/aws/amazon-ecs-agent) | Amazon Elastic Container Service Agent | Go | 2055 | Apache License 2.0 | 2014-12-04 | 2024-07-01 |
 | [aws-sdk-go](https://github.com/aws/aws-sdk-go) | AWS SDK for the Go programming language. | Go | 8563 | Apache License 2.0 | 2014-12-05 | 2024-06-28 |
 | [amazon-ecs-init](https://github.com/aws/amazon-ecs-init) | Amazon Elastic Container Service RPM | Go | 198 | Apache License 2.0 | 2014-12-08 | 2024-06-21 |
 | [aws-sdk-mobile-analytics-js](https://github.com/aws/aws-sdk-mobile-analytics-js) | Amazon Mobile Analytics JavaScript SDK | JavaScript | 82 | Apache License 2.0 | 2015-03-10 | 2024-03-01 |
@@ -77,7 +77,7 @@
 | [aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) | Modularized AWS SDK for JavaScript. | TypeScript | 2955 | Apache License 2.0 | 2017-04-04 | 2024-06-30 |
 | [aws-codebuild-docker-images](https://github.com/aws/aws-codebuild-docker-images) | Official AWS CodeBuild repository for managed Docker images http://docs.aws.amazon.com/codebuild/latest/userguide/build-env-ref.html | Dockerfile | 1100 | Other | 2017-04-26 | 2024-06-26 |
 | [aws-toolkit-azure-devops](https://github.com/aws/aws-toolkit-azure-devops) | AWS Toolkit for Azure DevOps | TypeScript | 234 | Other | 2017-05-12 | 2024-06-23 |
-| [aws-toolkit-jetbrains](https://github.com/aws/aws-toolkit-jetbrains) | AWS Toolkit for JetBrains - a plugin for interacting with AWS from JetBrains IDEs | Kotlin | 730 | Apache License 2.0 | 2017-05-16 | 2024-06-28 |
+| [aws-toolkit-jetbrains](https://github.com/aws/aws-toolkit-jetbrains) | AWS Toolkit for JetBrains - a plugin for interacting with AWS from JetBrains IDEs | Kotlin | 729 | Apache License 2.0 | 2017-05-16 | 2024-07-01 |
 | [aws-sam-cli](https://github.com/aws/aws-sam-cli) | CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM | Python | 6468 | Apache License 2.0 | 2017-05-23 | 2024-06-29 |
 | [aws-sdk-java-v2](https://github.com/aws/aws-sdk-java-v2) | The official AWS SDK for Java - Version 2 | Java | 2121 | Apache License 2.0 | 2017-06-23 | 2024-07-01 |
 | [lumberyard](https://github.com/aws/lumberyard) | Amazon Lumberyard is a free AAA game engine deeply integrated with AWS and Twitch – with full source. | C++ | 2016 | Other | 2017-06-30 | 2024-06-30 |
@@ -223,10 +223,10 @@
 | [sagemaker-spark-container](https://github.com/aws/sagemaker-spark-container) | The SageMaker Spark Container is a Docker image used to run data processing workloads with the Spark framework on Amazon SageMaker. | Python | 34 | Apache License 2.0 | 2020-05-20 | 2024-06-28 |
 | [aws-xray-dotnet-agent](https://github.com/aws/aws-xray-dotnet-agent) | The official AWS X-Ray Auto Instrumentation Agent for .Net. | C# | 23 | Apache License 2.0 | 2020-06-04 | 2024-04-28 |
 | [aws-rfdk](https://github.com/aws/aws-rfdk) | The Render Farm Deployment Kit on AWS is a library for use with the AWS Cloud Development Kit that helps you define your render farm cloud infrastructure as code. | TypeScript | 105 | Apache License 2.0 | 2020-06-23 | 2024-06-26 |
-| [s2n-quic](https://github.com/aws/s2n-quic) | An implementation of the IETF QUIC protocol | Rust | 1100 | Apache License 2.0 | 2020-06-25 | 2024-07-01 |
+| [s2n-quic](https://github.com/aws/s2n-quic) | An implementation of the IETF QUIC protocol | Rust | 1101 | Apache License 2.0 | 2020-06-25 | 2024-07-01 |
 | [porting-assistant-dotnet-datastore](https://github.com/aws/porting-assistant-dotnet-datastore) | The 'Porting Assistant for .NET' is a standalone compatibility analyzer that helps customers to port their .NET Framework (“.NET”) applications to .NET Core on Linux. | C# | 58 | Apache License 2.0 | 2020-06-27 | 2024-04-28 |
 | [ec2-spot-instances-integrations-roadmap](https://github.com/aws/ec2-spot-instances-integrations-roadmap) | None | None | 95 | Other | 2020-07-06 | 2024-02-08 |
-| [karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) | Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity. | Go | 6133 | Apache License 2.0 | 2020-07-09 | 2024-07-01 |
+| [karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) | Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity. | Go | 6135 | Apache License 2.0 | 2020-07-09 | 2024-07-01 |
 | [homebrew-aws](https://github.com/aws/homebrew-aws) | Homebrew is a package manager for macOS which provides easy installation and update management of additional software. This Tap (repository) contains the Formulae that are used in the macOS AMI that AWS offers. | Ruby | 65 | Apache License 2.0 | 2020-07-16 | 2024-06-17 |
 | [amazon-redshift-jdbc-driver](https://github.com/aws/amazon-redshift-jdbc-driver) | Redshift JDBC Driver. It supports JDBC 4.2 specification. | Java | 60 | Apache License 2.0 | 2020-07-25 | 2024-06-10 |
 | [http-desync-guardian](https://github.com/aws/http-desync-guardian) | Analyze HTTP requests to minimize risks of HTTP Desync attacks (precursor for HTTP request smuggling/splitting).  | Rust | 253 | Apache License 2.0 | 2020-07-27 | 2024-06-04 |
@@ -383,7 +383,7 @@
 | [thinkbox-node-view](https://github.com/aws/thinkbox-node-view) | None | C++ | 17 | Apache License 2.0 | 2022-11-14 | 2024-04-28 |
 | [thinkbox-xmesh](https://github.com/aws/thinkbox-xmesh) | None | C++ | 17 | Apache License 2.0 | 2022-11-14 | 2023-09-23 |
 | [thinkbox-xmesh-my](https://github.com/aws/thinkbox-xmesh-my) | None | C++ | 25 | Apache License 2.0 | 2022-11-14 | 2023-09-23 |
-| [c3r](https://github.com/aws/c3r) | Cryptographic Computing for Clean Rooms (C3R) encryption client and SDK | Java | 37 | Apache License 2.0 | 2022-11-17 | 2024-06-28 |
+| [c3r](https://github.com/aws/c3r) | Cryptographic Computing for Clean Rooms (C3R) encryption client and SDK | Java | 37 | Apache License 2.0 | 2022-11-17 | 2024-07-01 |
 | [mynah-ui](https://github.com/aws/mynah-ui) | None | SCSS | 12 | Apache License 2.0 | 2022-11-29 | 2024-06-28 |
 | [amazon-ssm-agent-selinux](https://github.com/aws/amazon-ssm-agent-selinux) | SELinux policy to confine Amazon SSM agent | Roff | 7 | GNU General Public License v2.0 | 2022-12-05 | 2024-05-10 |
 | [elb-doctor](https://github.com/aws/elb-doctor) | This is a user friendly console style command line tool for troubleshooting ELB issues with many additional features to come. | Python | 6 | MIT No Attribution | 2022-12-06 | 2024-04-28 |
@@ -430,7 +430,7 @@
 | [amazon-cloudwatch-agent-operator](https://github.com/aws/amazon-cloudwatch-agent-operator) | The Amazon CloudWatch Agent Operator is software developed to manage the CloudWatch Agent on kubernetes. | Go | 17 | Apache License 2.0 | 2023-08-01 | 2024-06-19 |
 | [amazon-sagemaker-examples-community](https://github.com/aws/amazon-sagemaker-examples-community) | None | Jupyter Notebook | 23 | MIT No Attribution | 2023-08-01 | 2024-07-01 |
 | [amazon-cloudfront-client-routing-library](https://github.com/aws/amazon-cloudfront-client-routing-library) | A library to encode and decode dns labels | Rust | 7 | Apache License 2.0 | 2023-08-03 | 2024-06-18 |
-| [language-servers](https://github.com/aws/language-servers) | AWS related Language Servers | TypeScript | 17 | Apache License 2.0 | 2023-08-11 | 2024-06-28 |
+| [language-servers](https://github.com/aws/language-servers) | AWS related Language Servers | TypeScript | 17 | Apache License 2.0 | 2023-08-11 | 2024-07-01 |
 | [language-server-runtimes](https://github.com/aws/language-server-runtimes) | None | TypeScript | 12 | Apache License 2.0 | 2023-08-29 | 2024-06-28 |
 | [amazon-gamelift-plugin-unreal](https://github.com/aws/amazon-gamelift-plugin-unreal) | The Amazon GameLift Plugin for Unreal contains libraries and native UI that makes it easier to access GameLift resources and integrate GameLift into your Unreal game. You can use the GameLift Unreal Plugin to access GameLift APIs and deploy AWS CloudFormation templates for common gaming scenarios. | C++ | 30 | Apache License 2.0 | 2023-08-31 | 2024-06-22 |
 | [amazon-neptune-for-graphql](https://github.com/aws/amazon-neptune-for-graphql) | Amazon Neptune utility for GraphQL™ schemas and resolvers | JavaScript | 14 | Apache License 2.0 | 2023-09-06 | 2024-05-24 |
