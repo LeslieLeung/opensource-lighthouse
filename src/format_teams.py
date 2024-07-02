@@ -1,11 +1,26 @@
 import csv
-from pypinyin import pinyin, lazy_pinyin
+from pypinyin import lazy_pinyin
+
+
+def is_chinese(char):
+    """判断一个字符是否是中文"""
+    return '\u4e00' <= char <= '\u9fff'
 
 
 def sort_key(row):
-    # 使用拼音进行排序，如果是中文字符
-    company_key = ''.join(lazy_pinyin(row['company']))
-    name_key = ''.join(lazy_pinyin(row['name']))
+    company = row['company']
+    name = row['name']
+
+    # 先按字典序排序公司名
+    company_key = company
+
+    # 如果公司名是中文，再用拼音排序
+    if any(is_chinese(char) for char in company):
+        company_key = ''.join(lazy_pinyin(company))
+
+    # 名字直接用字典序排序
+    name_key = name
+
     return (company_key, name_key)
 
 

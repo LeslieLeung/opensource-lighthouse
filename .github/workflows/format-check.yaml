@@ -27,6 +27,14 @@ jobs:
       - name: Run format check
         run: python src/format_teams.py
 
+      - name: Install dos2unix
+        run: sudo apt-get install -y dos2unix
+
+      - name: Convert files to Unix format
+        run: |
+          dos2unix data/teams.csv
+          dos2unix data/teams_formatted.csv
+
       - name: Compare files
         run: |
           if ! diff -q data/teams.csv data/teams_formatted.csv; then
