@@ -27,5 +27,5 @@ def sort_csv(input_file, output_file):
 
 if __name__ == "__main__":
     input_file = 'data/teams.csv'   # 输入文件名
-    output_file = 'data/teams.csv'  # 输出文件名
+    output_file = 'data/teams_formatted.csv'  # 输出文件名
     sort_csv(input_file, output_file)
