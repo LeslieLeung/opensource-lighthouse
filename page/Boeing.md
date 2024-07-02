@@ -1,10 +1,10 @@
 # Boeing
 
-共 32 个项目，近半年内活跃项目 23 个，1 个团队， 351 个 Star。
+共 33 个项目，近半年内活跃项目 24 个，1 个团队， 351 个 Star。
 
 语言 Top 3：C++, Python, Go
 
-统计时间：2024-07-01 10:05:39
+统计时间：2024-07-02 08:06:57
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -40,3 +40,4 @@
 | [meta-openembedded](https://github.com/Boeing/meta-openembedded) | None | BitBake | 0 | MIT License | 2024-04-22 | 2024-06-27 |
 | [meta-openembedded-contrib](https://github.com/Boeing/meta-openembedded-contrib) | None | BitBake | 0 | MIT License | 2024-04-22 | 2024-04-22 |
 | [bitbake](https://github.com/Boeing/bitbake) | None | Python | 0 | Other | 2024-04-22 | 2024-06-27 |
+| [genai-for-multi-label](https://github.com/Boeing/genai-for-multi-label) | Fine-tuning LLMs for Multi-label Text Classification | None | 0 | - | 2024-07-01 | 2024-07-01 |
