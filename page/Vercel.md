@@ -1,15 +1,15 @@
 # Vercel
 
-共 155 个项目，近半年内活跃项目 123 个，1 个团队， 401057 个 Star。
+共 155 个项目，近半年内活跃项目 123 个，1 个团队， 401055 个 Star。
 
 语言 Top 3：TypeScript, JavaScript, Shell
 
-统计时间：2024-07-02 08:11:11
+统计时间：2024-07-02 08:06:57
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 |
 | --- | --- | --- | --- | --- | --- | --- |
 | [ms](https://github.com/vercel/ms) | Tiny millisecond conversion utility | TypeScript | 5025 | MIT License | 2012-03-08 | 2024-06-30 |
-| [micro](https://github.com/vercel/micro) | Asynchronous HTTP microservices | TypeScript | 10546 | MIT License | 2016-01-23 | 2024-07-02 |
+| [micro](https://github.com/vercel/micro) | Asynchronous HTTP microservices | TypeScript | 10545 | MIT License | 2016-01-23 | 2024-07-01 |
 | [test-listen](https://github.com/vercel/test-listen) | Quick ephemeral URLs for your tests | JavaScript | 153 | MIT License | 2016-02-05 | 2024-01-19 |
 | [async-retry](https://github.com/vercel/async-retry) | Retrying made simple, easy and async | JavaScript | 1815 | MIT License | 2016-02-29 | 2024-06-28 |
 | [uid-promise](https://github.com/vercel/uid-promise) | Creates a cryptographically strong UID | TypeScript | 254 | MIT License | 2016-03-07 | 2024-06-10 |
@@ -134,7 +134,7 @@
 | [nextjs-postgres-nextauth-tailwindcss-template](https://github.com/vercel/nextjs-postgres-nextauth-tailwindcss-template) | Admin dashboard template. | TypeScript | 893 | MIT License | 2022-11-12 | 2024-07-02 |
 | [cert-demo](https://github.com/vercel/cert-demo) | None | TypeScript | 19 | - | 2022-12-06 | 2023-11-12 |
 | [.github](https://github.com/vercel/.github) | None | None | 6 | - | 2022-12-08 | 2023-11-27 |
-| [react-tweet](https://github.com/vercel/react-tweet) | Embed tweets in your React application. | TypeScript | 1448 | MIT License | 2023-02-11 | 2024-07-02 |
+| [react-tweet](https://github.com/vercel/react-tweet) | Embed tweets in your React application. | TypeScript | 1447 | MIT License | 2023-02-11 | 2024-07-02 |
 | [remix](https://github.com/vercel/remix) | Build Better Websites. Create modern, resilient user experiences with web fundamentals. | TypeScript | 47 | MIT License | 2023-02-27 | 2024-07-01 |
 | [opentelemetry-collector-dev-setup](https://github.com/vercel/opentelemetry-collector-dev-setup) | None | Shell | 63 | Apache License 2.0 | 2023-03-08 | 2024-06-20 |
 | [otel](https://github.com/vercel/otel) | OTEL tracing for Vercel | TypeScript | 16 | - | 2023-03-23 | 2024-06-24 |
