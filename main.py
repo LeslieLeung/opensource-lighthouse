@@ -165,7 +165,7 @@ output = readme_template.render(
 )
 
 # dump company stats to dedicated csv
-company_stats = pd.DataFrame(
+company_stats_df = pd.DataFrame(
     [
         {
             "company": company["name"],
@@ -178,7 +178,7 @@ company_stats = pd.DataFrame(
         for company in companies
     ]
 )
-company_stats.to_csv(path_to_company_stats, index=False)
+company_stats_df.to_csv(path_to_company_stats, index=False)
 
 # write to file
 with open("README.md", "w") as f:
