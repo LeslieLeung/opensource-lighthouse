@@ -11,6 +11,10 @@ python = "^3.12"
 jinja2 = "^3.1.4"
 pandas = "^2.2.2"
 pygithub = "^2.3.0"
+gradio-leaderboard = "^0.0.10"
+streamlit = "^1.36.0"
+watchdog = "^4.0.1"
+streamlit-extras = "^0.4.3"
 
 
 [build-system]
