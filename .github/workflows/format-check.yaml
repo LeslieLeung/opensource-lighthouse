@@ -22,10 +22,10 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install pypinyin
 
       - name: Run format check
-        run: python src/format_teams.py
+        run: python scripts/format_teams.py
 
       - name: Install dos2unix
         run: sudo apt-get install -y dos2unix
@@ -38,7 +38,7 @@ jobs:
       - name: Compare files
         run: |
           if ! diff -q data/teams.csv data/teams_formatted.csv; then
-            echo "Format check failed. Please run 'python src/format_teams.py' to fix the formatting issues."
+            echo "Format check failed. Please run 'python scripts/format_teams.py' to fix the formatting issues."
             exit 1
           else
             echo "Format check passed."
