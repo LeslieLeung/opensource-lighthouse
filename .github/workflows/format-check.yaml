@@ -1,0 +1,45 @@
+name: Format Check
+
+on:
+  pull_request:
+    branches:
+      - main
+      - master
+
+jobs:
+  format-check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pypinyin
+
+      - name: Run format check
+        run: python scripts/format_teams.py
+
+      - name: Install dos2unix
+        run: sudo apt-get install -y dos2unix
+
+      - name: Convert files to Unix format
+        run: |
+          dos2unix data/teams.csv
+          dos2unix data/teams_formatted.csv
+
+      - name: Compare files
+        run: |
+          if ! diff -q data/teams.csv data/teams_formatted.csv; then
+            echo "Format check failed. Please run 'python scripts/format_teams.py' to fix the formatting issues."
+            exit 1
+          else
+            echo "Format check passed."
+          fi

@@ -8,6 +8,502 @@
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 |
 | --- | --- | --- | --- | --- | --- | --- |
+| [media](https://github.com/github/media) | Media files for use in your GitHub integration projects | None | 293 | - | 2008-03-09 | 2024-06-13 |
+| [albino](https://github.com/github/albino) | Ruby wrapper for the Pygments syntax highlighter. | Ruby | 223 | MIT License | 2008-05-11 | 2024-06-13 |
+| [hubahuba](https://github.com/github/hubahuba) | Ruby and Rails core extensions used by GitHub. | Ruby | 48 | - | 2008-05-11 | 2024-06-13 |
+| [jquery-hotkeys](https://github.com/github/jquery-hotkeys) | jQuery hotkeys plugin. | JavaScript | 96 | - | 2008-05-11 | 2024-06-13 |
+| [jquery-relatize_date](https://github.com/github/jquery-relatize_date) | jQuery version of technoweenie's relative date js library. | JavaScript | 112 | MIT License | 2008-05-11 | 2024-06-13 |
+| [request_timer](https://github.com/github/request_timer) | Simple Rails request timer with even simpler js bookmarklet. | Ruby | 14 | MIT License | 2008-05-11 | 2024-06-13 |
+| [will_paginate_with_hotkeys](https://github.com/github/will_paginate_with_hotkeys) | Evil twin plugin version of will_paginate to work with jQuery hotkeys plugin. | Ruby | 28 | - | 2008-05-11 | 2024-06-13 |
+| [gem-builder](https://github.com/github/gem-builder) | The scripts used to build RubyGems on GitHub | Ruby | 26 | - | 2008-10-24 | 2024-06-13 |
+| [learn.github.com](https://github.com/github/learn.github.com) | The discovery gate for all things educational for Git and GitHub. | CSS | 131 | - | 2009-02-08 | 2024-06-08 |
+| [safegem](https://github.com/github/safegem) | GitHub's safe gem eval web service | Ruby | 13 | - | 2009-02-11 | 2024-06-13 |
+| [develop.github.com](https://github.com/github/develop.github.com) | Outdated documentation for GitHub API v2.  See http://developer.github.com/ for the current API. | CSS | 17 | - | 2009-02-17 | 2024-06-13 |
+| [version_sorter](https://github.com/github/version_sorter) | Fast sorting of version numbers | C | 124 | MIT License | 2009-04-25 | 2024-06-13 |
+| [markup](https://github.com/github/markup) | Determines which markup library to use to render a content file (e.g. README) on GitHub | Ruby | 5809 | MIT License | 2009-10-31 | 2024-07-01 |
+| [upload](https://github.com/github/upload) | Script to upload files to non-repo storage from the command line | Ruby | 73 | - | 2010-04-03 | 2024-06-13 |
+| [github-services](https://github.com/github/github-services) | Legacy GitHub Services Integration | Ruby | 1897 | MIT License | 2010-05-14 | 2024-06-30 |
+| [gitcasts](https://github.com/github/gitcasts) | Educational screencasts about Git | CSS | 15 | - | 2010-09-08 | 2024-06-13 |
+| [rails](https://github.com/github/rails) | Ruby on Rails + GitHub patches | Ruby | 74 | - | 2010-10-16 | 2024-06-13 |
+| [gitignore](https://github.com/github/gitignore) | A collection of useful .gitignore templates | None | 159375 | Creative Commons Zero v1.0 Universal | 2010-11-08 | 2024-07-02 |
+| [dmca](https://github.com/github/dmca) | Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at  | DIGITAL Command Language | 5441 | - | 2011-01-28 | 2024-07-01 |
+| [pong](https://github.com/github/pong) | Auxiliary repository for external ping checks | None | 19 | - | 2011-02-20 | 2024-06-13 |
+| [pycon2011](https://github.com/github/pycon2011) | None | Python | 354 | - | 2011-02-21 | 2024-06-13 |
+| [email_reply_parser](https://github.com/github/email_reply_parser) | Small library to parse plain text email content | Ruby | 660 | MIT License | 2011-02-23 | 2024-06-14 |
+| [developer.github.com](https://github.com/github/developer.github.com) | GitHub Developer site | Ruby | 1324 | Other | 2011-04-26 | 2024-06-23 |
+| [ghterm](https://github.com/github/ghterm) | github terminal | JavaScript | 48 | MIT License | 2011-05-25 | 2024-06-13 |
+| [testrepo](https://github.com/github/testrepo) | DON'T DELETE THIS. USED FOR MONITORING AND WHATNOT. | C | 30 | - | 2011-06-23 | 2024-06-13 |
+| [node-statsd](https://github.com/github/node-statsd) | node.js client for Etsy'd StatsD server | JavaScript | 13 | MIT License | 2011-08-01 | 2024-06-13 |
+| [maven-plugins](https://github.com/github/maven-plugins) | Official GitHub Maven Plugins | Java | 584 | MIT License | 2011-08-02 | 2024-06-13 |
+| [statsd-ruby](https://github.com/github/statsd-ruby) | A Ruby Statsd client. | Ruby | 123 | MIT License | 2011-08-10 | 2024-06-13 |
+| [grit](https://github.com/github/grit) | Grit gives you object oriented read/write access to Git repositories via Ruby. | Ruby | 77 | MIT License | 2011-08-18 | 2024-06-13 |
+| [hubot-scripts](https://github.com/github/hubot-scripts) | DEPRECATED, see https://github.com/github/hubot-scripts/issues/1113 for details - optional scripts for hubot, opt in via hubot-scripts.json | CoffeeScript | 3531 | MIT License | 2011-09-08 | 2024-05-03 |
+| [GitPad](https://github.com/github/GitPad) | Notepad.exe as Git commit editor | C# | 185 | MIT License | 2011-10-27 | 2024-06-13 |
+| [enterprise-ohai](https://github.com/github/enterprise-ohai) | Ohai plugins from GitHub Enterprise | Ruby | 7 | - | 2011-11-09 | 2024-06-13 |
+| [rack-statsd](https://github.com/github/rack-statsd) | monitor your rack apps in production | Ruby | 123 | MIT License | 2011-12-02 | 2024-06-13 |
+| [gemoji](https://github.com/github/gemoji) | Emoji images and names. | Ruby | 4373 | MIT License | 2011-12-14 | 2024-07-01 |
+| [janky](https://github.com/github/janky) | Continuous integration server built on top of Jenkins and Hubot | Ruby | 2758 | MIT License | 2011-12-19 | 2024-06-13 |
+| [expecta](https://github.com/github/expecta) | A Matcher Framework for Objective-C/Cocoa | Objective-C | 46 | MIT License | 2012-02-13 | 2024-06-13 |
+| [gitscm-old](https://github.com/github/gitscm-old) | Git homepage that rocks - from the git.or.cz awesomeness | Ruby | 6 | Other | 2012-02-16 | 2024-06-13 |
+| [twui](https://github.com/github/twui) | A framework for developing interfaces on the Mac. | Objective-C | 400 | Other | 2012-02-22 | 2024-06-13 |
+| [tainted_hash](https://github.com/github/tainted_hash) | None | Ruby | 54 | MIT License | 2012-03-06 | 2024-06-13 |
+| [GHKeyBrowser](https://github.com/github/GHKeyBrowser) | GitHub Key Verification Helper | C++ | 12 | - | 2012-03-08 | 2024-06-13 |
+| [pagerduty-incident-webhooks](https://github.com/github/pagerduty-incident-webhooks) | Heroku app that fires webhooks for triggered PagerDuty incidents | Ruby | 41 | MIT License | 2012-03-14 | 2024-06-13 |
+| [msysgit](https://github.com/github/msysgit) | The version of msysGit that ships with GitHub for Windows | C | 32 | - | 2012-05-02 | 2024-06-13 |
+| [rbenv-autohash](https://github.com/github/rbenv-autohash) | Rubygems plugin to automatically run `rbenv rehash`. | Ruby | 6 | MIT License | 2012-05-03 | 2024-06-13 |
+| [RepoRepairTool](https://github.com/github/RepoRepairTool) | Repairs common Windows repository problems with encodings or line endings | C# | 23 | - | 2012-05-15 | 2024-06-13 |
+| [ernicorn](https://github.com/github/ernicorn) | Ruby BERTRPC server based on Unicorn | Ruby | 23 | MIT License | 2012-06-21 | 2024-06-13 |
+| [yard-sinatra](https://github.com/github/yard-sinatra) | Display sinatra routes in yard documentation. | Ruby | 4 | University of Illinois/NCSA Open Source License | 2012-07-17 | 2024-06-13 |
+| [game-off-2012](https://github.com/github/game-off-2012) | The GitHub Game Off 2012 is a game jam / hackathon / coding challenge to create an open source a web-based game | None | 250 | - | 2012-07-20 | 2024-06-13 |
+| [swordfish](https://github.com/github/swordfish) | EXPERIMENTAL password management app. Don't use this. | Ruby | 739 | - | 2012-07-25 | 2024-06-13 |
+| [Rebel](https://github.com/github/Rebel) | Cocoa framework for improving AppKit | Objective-C | 1127 | Other | 2012-07-29 | 2024-06-13 |
+| [training.github.com](https://github.com/github/training.github.com) | Legacy (no longer published) GitHub Training site | CSS | 78 | - | 2012-07-30 | 2024-06-13 |
+| [specta](https://github.com/github/specta) | A light-weight TDD / BDD framework for Objective-C & Cocoa | Objective-C | 41 | MIT License | 2012-08-08 | 2024-06-13 |
+| [taps](https://github.com/github/taps) | simple database import/export app | Ruby | 10 | MIT License | 2012-08-21 | 2024-06-13 |
+| [teach.github.com](https://github.com/github/teach.github.com) | The open source teaching materials site for Git and GitHub technologies | CSS | 318 | Other | 2012-08-30 | 2024-06-13 |
+| [objective-c-style-guide](https://github.com/github/objective-c-style-guide) | **Archived** Style guide & coding conventions for Objective-C projects | None | 1675 | - | 2012-09-26 | 2024-06-13 |
+| [resque](https://github.com/github/resque) | Used by Enterprise! Resque is a Redis-backed Ruby library for controlling background jobs. | Ruby | 221 | MIT License | 2012-10-08 | 2024-06-18 |
+| [elastomer-client](https://github.com/github/elastomer-client) | A library for interacting with Elasticsearch | Ruby | 200 | MIT License | 2012-10-11 | 2024-06-24 |
+| [Archimedes](https://github.com/github/Archimedes) | Geometry functions for Cocoa and Cocoa Touch | Objective-C | 465 | Other | 2012-10-22 | 2024-06-13 |
+| [OHHTTPStubs](https://github.com/github/OHHTTPStubs) | A class to stub network requests easily: test your apps with fake network data (stubbed from file) and custom response time | Objective-C | 58 | Other | 2012-11-09 | 2024-06-13 |
+| [secure_headers](https://github.com/github/secure_headers) | Manages application of security headers with many safe defaults | Ruby | 3138 | MIT License | 2012-12-12 | 2024-06-30 |
+| [MASPreferences](https://github.com/github/MASPreferences) | Custom implementation of Preferences window in Cocoa applications for Mac OS X | Objective-C | 14 | - | 2012-12-25 | 2024-06-13 |
+| [aws-s3](https://github.com/github/aws-s3) | Fork of AWS-S3 with some custom patches.  Removes const_missing hacks like the jaf-s3 gem. | Ruby | 12 | MIT License | 2013-01-04 | 2024-06-13 |
+| [brakeman](https://github.com/github/brakeman) | A static analysis security vulnerability scanner for Ruby on Rails applications | Ruby | 29 | MIT License | 2013-02-04 | 2024-06-13 |
+| [ruby-thecodeshop](https://github.com/github/ruby-thecodeshop) | The Ruby Programming Language | Ruby | 22 | Other | 2013-02-05 | 2024-06-13 |
+| [banana_phone](https://github.com/github/banana_phone) | BananaPhone is RPC for BananaPack | Ruby | 13 | MIT License | 2013-02-19 | 2024-06-13 |
+| [dat-science](https://github.com/github/dat-science) | Replaced by https://github.com/github/scientist | Ruby | 582 | MIT License | 2013-02-22 | 2024-06-14 |
+| [platform-samples](https://github.com/github/platform-samples) | A public place for all platform sample projects. | Shell | 1867 | Creative Commons Zero v1.0 Universal | 2013-02-27 | 2024-07-01 |
+| [faceup](https://github.com/github/faceup) | More than just mustaches. | JavaScript | 6 | MIT License | 2013-03-08 | 2024-06-13 |
+| [task_list](https://github.com/github/task_list) | GitHub flavor Markdown Task List feature components | CoffeeScript | 345 | MIT License | 2013-03-19 | 2024-06-13 |
+| [puppet-aptmirror](https://github.com/github/puppet-aptmirror) | Mirror of Puppet's APT repo | Puppet | 8 | - | 2013-03-26 | 2024-06-13 |
+| [omniauth](https://github.com/github/omniauth) | OmniAuth is a flexible authentication system utilizing Rack middleware. | Ruby | 17 | MIT License | 2013-04-19 | 2024-06-13 |
+| [dat-analysis](https://github.com/github/dat-analysis) | Analyze results from dat-science. | Ruby | 128 | MIT License | 2013-04-23 | 2024-06-13 |
+| [puppetlabs-puppet](https://github.com/github/puppetlabs-puppet) | Server automation framework and application | Ruby | 12 | Other | 2013-04-28 | 2024-06-13 |
+| [puppetlabs-puppetdb](https://github.com/github/puppetlabs-puppetdb) | Centralized Puppet Storage | Clojure | 7 | Apache License 2.0 | 2013-04-28 | 2024-06-13 |
+| [mime-types](https://github.com/github/mime-types) | Ruby MIME::Types implementation | Ruby | 7 | Other | 2013-06-03 | 2024-06-13 |
+| [github-ldap](https://github.com/github/github-ldap) | LDAP client for humans. Part of GitHub Enterprise. | Ruby | 154 | MIT License | 2013-07-07 | 2024-06-23 |
+| [choosealicense.com](https://github.com/github/choosealicense.com) | A site to provide non-judgmental guidance on choosing a license for your open source project | Ruby | 3602 | MIT License | 2013-07-15 | 2024-06-30 |
+| [django-floppyforms](https://github.com/github/django-floppyforms) | Full control of form rendering in the templates. | Python | 8 | Other | 2013-07-17 | 2024-06-13 |
+| [ssziparchive](https://github.com/github/ssziparchive) | Utility class for zipping and unzipping files on iOS and Mac | C | 10 | MIT License | 2013-07-31 | 2024-06-13 |
+| [ruby](https://github.com/github/ruby) | development fork of ruby/ruby | Ruby | 190 | Other | 2013-08-06 | 2024-07-01 |
+| [pages-gem](https://github.com/github/pages-gem) | A simple Ruby Gem to bootstrap dependencies for setting up and maintaining a local Jekyll environment in sync with GitHub Pages | Ruby | 1811 | MIT License | 2013-08-08 | 2024-06-21 |
+| [puppet-sysfs](https://github.com/github/puppet-sysfs) | Module to manage sysfs settings | Puppet | 4 | - | 2013-08-09 | 2023-07-25 |
+| [rack-ssl-enforcer](https://github.com/github/rack-ssl-enforcer) | A simple Rack middleware to enforce ssl connections | Ruby | 5 | MIT License | 2013-08-16 | 2024-06-13 |
+| [buildstep](https://github.com/github/buildstep) | Buildstep uses Docker and Buildpacks to build applications like Heroku | Shell | 11 | MIT License | 2013-08-19 | 2024-06-13 |
+| [fog](https://github.com/github/fog) | The Ruby cloud services library. | Ruby | 5 | MIT License | 2013-09-02 | 2024-06-13 |
+| [octokit.py](https://github.com/github/octokit.py) | GitHub API client for Python | Python | 45 | - | 2013-09-06 | 2024-06-13 |
+| [htttee](https://github.com/github/htttee) | unix's tee over http | Ruby | 8 | - | 2013-09-27 | 2024-06-13 |
+| [evenflow](https://github.com/github/evenflow) | sFlow to Graphite bridge | Ruby | 17 | MIT License | 2013-09-28 | 2024-06-13 |
+| [ledbetter](https://github.com/github/ledbetter) | Script that scrapes alert statistics from Nagios and reports them to Graphite | Ruby | 35 | MIT License | 2013-09-28 | 2024-06-13 |
+| [go-opstocat](https://github.com/github/go-opstocat) | DEPRECATED | Go | 43 | MIT License | 2013-10-02 | 2024-06-13 |
+| [marginalia](https://github.com/github/marginalia) | Attach comments to ActiveRecord's SQL queries | Ruby | 7 | MIT License | 2013-10-07 | 2024-06-13 |
+| [game-off-2013](https://github.com/github/game-off-2013) | None | None | 113 | - | 2013-10-14 | 2024-06-13 |
+| [government.github.com](https://github.com/github/government.github.com) | Gather, curate, and feature stories of public servants and civic hackers using GitHub as part of their open government innovations | HTML | 1701 | - | 2013-10-15 | 2024-06-30 |
+| [uiimage-from-animated-gif](https://github.com/github/uiimage-from-animated-gif) | A UIImage category that loads animated GIFs | Objective-C | 10 | Creative Commons Zero v1.0 Universal | 2013-10-28 | 2024-06-13 |
+| [serialized_attributes](https://github.com/github/serialized_attributes) | UNMAINTAINED - kind of a bridge between using AR and a full blown schema-free db | Ruby | 8 | MIT License | 2013-12-03 | 2024-06-13 |
+| [gollum](https://github.com/github/gollum) | Unsupported — use https://github.com/gollum/gollum! | Ruby | 155 | MIT License | 2013-12-04 | 2024-06-13 |
+| [training-kit](https://github.com/github/training-kit) | Open source courseware for Git and GitHub | HTML | 4222 | Creative Commons Attribution 4.0 International | 2013-12-20 | 2024-06-29 |
+| [game-o](https://github.com/github/game-o) | O! a Cut.js game | JavaScript | 21 | - | 2014-02-03 | 2024-06-13 |
+| [scientist](https://github.com/github/scientist) | :microscope: A Ruby library for carefully refactoring critical paths. | Ruby | 7374 | MIT License | 2014-02-05 | 2024-07-01 |
+| [git-msysgit](https://github.com/github/git-msysgit) | GitHub version of msysgit/git | C | 11 | Other | 2014-03-20 | 2024-06-13 |
+| [foreman](https://github.com/github/foreman) | Manage Procfile-based applications | Ruby | 9 | MIT License | 2014-03-21 | 2024-06-13 |
+| [nagios-plugins-github](https://github.com/github/nagios-plugins-github) | None | C | 11 | - | 2014-03-26 | 2024-06-13 |
+| [SharpDevelop](https://github.com/github/SharpDevelop) | #develop (short for SharpDevelop) is a free IDE for .NET programming languages. | C# | 10 | - | 2014-03-31 | 2024-06-13 |
+| [aroma](https://github.com/github/aroma) | a game engine: lua, opengl es 2.0, native client | C | 5 | Other | 2014-04-06 | 2024-06-13 |
+| [garethr-docker](https://github.com/github/garethr-docker) | Puppet module for managing docker | Ruby | 6 | Apache License 2.0 | 2014-04-14 | 2024-06-13 |
+| [relative-time-element](https://github.com/github/relative-time-element) | Web component extensions to the standard <time> element. | JavaScript | 3285 | MIT License | 2014-04-22 | 2024-07-02 |
+| [backstop](https://github.com/github/backstop) | HTTP service for submitting metrics to Graphite | Ruby | 12 | Other | 2014-05-05 | 2024-06-13 |
+| [nugget](https://github.com/github/nugget) | http integration test service | Ruby | 21 | MIT License | 2014-05-08 | 2024-06-13 |
+| [veewee](https://github.com/github/veewee) | Easing the building of vagrant boxes | Shell | 12 | MIT License | 2014-06-05 | 2024-06-13 |
+| [hr-opensource](https://github.com/github/hr-opensource) | An open forum for anyone to discuss HR related topics & ideas | None | 26 | - | 2014-06-12 | 2024-06-13 |
+| [STUtils](https://github.com/github/STUtils) | None | Objective-C | 6 | - | 2014-06-16 | 2024-06-13 |
+| [backup-utils](https://github.com/github/backup-utils) | GitHub Enterprise Backup Utilities | None | 1179 | - | 2014-07-08 | 2024-06-26 |
+| [swift-style-guide](https://github.com/github/swift-style-guide) | **Archived** Style guide & coding conventions for Swift projects | None | 4775 | Creative Commons Zero v1.0 Universal | 2014-07-13 | 2024-07-01 |
+| [puppet-module-group](https://github.com/github/puppet-module-group) | Puppet Group Module (custom group providers) | None | 6 | Other | 2014-07-21 | 2024-06-13 |
+| [pages-health-check](https://github.com/github/pages-health-check) | Checks your GitHub Pages site for common DNS configuration issues | Ruby | 142 | MIT License | 2014-07-24 | 2024-06-13 |
+| [nagioseasier-module](https://github.com/github/nagioseasier-module) | Make nagios easier to use, because you deserve it. | None | 9 | MIT License | 2014-07-29 | 2024-06-13 |
+| [cas-overlay](https://github.com/github/cas-overlay) | Maven overlay for local CAS development and testing | Shell | 16 | Apache License 2.0 | 2014-07-29 | 2024-06-13 |
+| [pages-cucumber-fixture](https://github.com/github/pages-cucumber-fixture) | Some fixtures for pages tests | None | 6 | - | 2014-07-30 | 2024-06-13 |
+| [circuitbreaker](https://github.com/github/circuitbreaker) | Circuit Breakers in Go | None | 26 | MIT License | 2014-07-31 | 2024-06-13 |
+| [railsless-deploy](https://github.com/github/railsless-deploy) | Obsolete, see http://www.capistranorb.com/ for new Capistrano with no Railsisms! | None | 5 | MIT License | 2014-09-03 | 2024-06-13 |
+| [AFNetworking](https://github.com/github/AFNetworking) | A delightful iOS and OS X networking framework | Objective-C | 27 | MIT License | 2014-09-10 | 2024-06-13 |
+| [aptly](https://github.com/github/aptly) | aptly - Debian repository management tool | None | 14 | MIT License | 2014-09-19 | 2024-06-13 |
+| [grocer](https://github.com/github/grocer) | Pushing your Apple notifications since 2012. | None | 9 | MIT License | 2014-09-22 | 2024-06-13 |
+| [include-fragment-element](https://github.com/github/include-fragment-element) | A client-side includes tag. | JavaScript | 526 | MIT License | 2014-10-01 | 2024-07-02 |
+| [Quick](https://github.com/github/Quick) | A behavior-driven development test framework for Swift and Objective-C. | Swift | 17 | Apache License 2.0 | 2014-10-02 | 2024-06-13 |
+| [Nimble](https://github.com/github/Nimble) | A Matcher Framework for Swift and Objective-C | Swift | 10 | Apache License 2.0 | 2014-10-02 | 2024-06-13 |
+| [hoosegow](https://github.com/github/hoosegow) | Ephemeral Docker jails for running untrusted Ruby code | Ruby | 343 | MIT License | 2014-10-22 | 2024-06-18 |
+| [facter](https://github.com/github/facter) | Collect and display system facts | Ruby | 10 | Other | 2014-11-25 | 2024-06-13 |
+| [roskomnadzor](https://github.com/github/roskomnadzor) | deprecated archive — moved to https://github.com/github/gov-takedowns/tree/master/Russia | None | 377 | - | 2014-12-03 | 2024-06-13 |
+| [training-utils](https://github.com/github/training-utils) | A series of Bash and ZShell scripts useful when teaching about git and GitHub | Ruby | 140 | MIT License | 2015-01-15 | 2024-06-13 |
+| [libgit2sharp](https://github.com/github/libgit2sharp) | Git + .Net/Mono = ❤ | C# | 10 | MIT License | 2015-01-21 | 2024-06-13 |
+| [fake_braintree](https://github.com/github/fake_braintree) | A Braintree so fake that you can avoid hitting Braintree servers in tests. | Ruby | 7 | Other | 2015-01-22 | 2024-06-13 |
+| [mentorships](https://github.com/github/mentorships) | GitHub Open Source Mentorships (deprecated) | None | 334 | - | 2015-01-22 | 2024-06-13 |
+| [posix-spawn](https://github.com/github/posix-spawn) | Fast Process::spawn for Rubys >= 1.8.7 based on the posix_spawn() system interfaces | Ruby | 7 | Other | 2015-04-06 | 2024-06-13 |
+| [azure-quickstart-templates](https://github.com/github/azure-quickstart-templates) | Azure Quickstart Templates | Shell | 28 | MIT License | 2015-04-29 | 2024-06-13 |
+| [elasticsearch-srv-discovery](https://github.com/github/elasticsearch-srv-discovery) | Elasticsearch discovery with SRV records | Java | 33 | MIT License | 2015-04-30 | 2024-06-13 |
+| [winbootstrap](https://github.com/github/winbootstrap) | None | PowerShell | 7 | MIT License | 2015-05-06 | 2024-06-13 |
+| [rubycas-server](https://github.com/github/rubycas-server) | Provides single sign-on authentication for web applications, implementing the server-end of Jasig's CAS protocol. | Ruby | 9 | Other | 2015-05-22 | 2024-06-13 |
+| [ghfw-build-extra](https://github.com/github/ghfw-build-extra) | Build scripts and customizations for creating the Git Shell environment included in GitHub Desktop | Shell | 13 | Other | 2015-05-26 | 2024-06-13 |
+| [u2f-api](https://github.com/github/u2f-api) | High level JavaScript API for interacting with FIDO U2F devices in Chrome | JavaScript | 33 | BSD 3-Clause "New" or "Revised" License | 2015-06-01 | 2024-06-13 |
+| [brubeck](https://github.com/github/brubeck) | A Statsd-compatible metrics aggregator | C | 1188 | MIT License | 2015-06-10 | 2024-06-13 |
+| [scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) | Set of boilerplate scripts describing the normalized script pattern that GitHub uses in its projects. | Shell | 3166 | Creative Commons Zero v1.0 Universal | 2015-06-22 | 2024-07-01 |
+| [puppetlabs-apt](https://github.com/github/puppetlabs-apt) | Puppet module to help manage Apt | Ruby | 5 | Other | 2015-06-24 | 2024-06-13 |
+| [VisualStudio](https://github.com/github/VisualStudio) | GitHub Extension for Visual Studio | C# | 2359 | MIT License | 2015-06-30 | 2024-07-02 |
+| [octo-recipes](https://github.com/github/octo-recipes) | A GitHub repository used to collaborate on recipes | None | 8 | - | 2015-09-02 | 2024-06-13 |
+| [kano-desktop](https://github.com/github/kano-desktop) | None | Shell | 9 | - | 2015-09-04 | 2024-06-13 |
+| [hubot-slack](https://github.com/github/hubot-slack) | None | CoffeeScript | 21 | MIT License | 2015-09-10 | 2024-06-13 |
+| [hubot-pager-me](https://github.com/github/hubot-pager-me) | PagerDuty integration for Hubot | CoffeeScript | 11 | MIT License | 2015-10-26 | 2024-06-13 |
+| [homebrew-bootstrap](https://github.com/github/homebrew-bootstrap) | A series of helper scripts to reduce duplication across `script/bootstrap`s. | Ruby | 88 | MIT License | 2015-11-13 | 2024-06-13 |
+| [lua-nginx-module](https://github.com/github/lua-nginx-module) | Embed the Power of Lua into NGINX HTTP servers | C | 8 | - | 2015-11-30 | 2024-06-13 |
+| [guard](https://github.com/github/guard) | Guard is a command line tool to easily handle events on file system modifications. | Ruby | 6 | MIT License | 2015-11-30 | 2024-06-13 |
+| [zero_push](https://github.com/github/zero_push) | Ruby wrapper for the ZeroPush API | Ruby | 6 | Other | 2015-12-07 | 2024-06-13 |
+| [multibinder](https://github.com/github/multibinder) | multibinder is a tiny ruby server that makes writing zero-downtime-reload services simpler. | Shell | 235 | MIT License | 2015-12-07 | 2024-06-13 |
+| [html-pipeline](https://github.com/github/html-pipeline) | HTML processing filters and utilities | Ruby | 15 | MIT License | 2015-12-08 | 2024-06-13 |
+| [ccql](https://github.com/github/ccql) | **No longer maintained, archived Feb 2023** Multi server MySQL client | Go | 322 | MIT License | 2016-01-11 | 2024-06-13 |
+| [maturity-model](https://github.com/github/maturity-model) | A maturity model for adopting open source | None | 63 | Creative Commons Attribution 4.0 International | 2016-01-13 | 2024-06-13 |
+| [Spoon-Knife](https://github.com/github/Spoon-Knife) | This repo is for demonstration purposes only. | HTML | 22 | - | 2016-02-05 | 2024-06-13 |
+| [gh-ost](https://github.com/github/gh-ost) | GitHub's Online Schema-migration Tool for MySQL | Go | 12110 | MIT License | 2016-03-21 | 2024-07-02 |
+| [eslint-plugin-github](https://github.com/github/eslint-plugin-github) | An opinionated collection of ESLint rules used by GitHub. | JavaScript | 286 | MIT License | 2016-03-28 | 2024-06-24 |
+| [bert](https://github.com/github/bert) | BERT (Binary ERlang Term) serialization library for Ruby. | Ruby | 14 | MIT License | 2016-04-15 | 2024-06-13 |
+| [braintree-encryption](https://github.com/github/braintree-encryption) | Javascript Library for Client-side Encryption with Braintree | JavaScript | 17 | MIT License | 2016-04-20 | 2024-06-13 |
+| [ohnogit](https://github.com/github/ohnogit) | For when you have to use git in nodejs. | TypeScript | 24 | - | 2016-04-20 | 2024-06-13 |
+| [chatops-controller](https://github.com/github/chatops-controller) | A rails plugin to make creating chatops easy | Ruby | 63 | MIT License | 2016-05-17 | 2024-06-13 |
+| [gov-takedowns](https://github.com/github/gov-takedowns) | Text of government takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. | None | 3072 | - | 2016-06-08 | 2024-07-01 |
+| [opensource.guide](https://github.com/github/opensource.guide) | 📚 Community guides for open source creators | HTML | 13745 | Creative Commons Attribution 4.0 International | 2016-06-15 | 2024-07-01 |
+| [synsanity](https://github.com/github/synsanity) | netfilter (iptables) target for high performance lockless SYN cookies for SYN flood mitigation | C | 426 | GNU General Public License v2.0 | 2016-06-20 | 2024-06-24 |
+| [puppet-vault](https://github.com/github/puppet-vault) | :floppy_disk: :package: puppet-module to install Hashicorp's Vault. | Ruby | 6 | - | 2016-06-21 | 2024-06-13 |
+| [puppet-consul_template](https://github.com/github/puppet-consul_template) | A Puppet module to manage the config and jobs of Consul Template from Hashicorp | Puppet | 7 | Apache License 2.0 | 2016-06-22 | 2024-06-13 |
+| [mysql-haproxy-xinetd](https://github.com/github/mysql-haproxy-xinetd) | Context aware MySQL Replica pools via HAProxy, sample configs & scripts | Shell | 104 | MIT License | 2016-06-30 | 2024-06-18 |
+| [balanced-employee-ip-agreement](https://github.com/github/balanced-employee-ip-agreement) | GitHub's employee intellectual property agreement, open sourced and reusable | None | 2122 | Creative Commons Zero v1.0 Universal | 2016-07-05 | 2024-06-20 |
+| [puppet-orchestrator-for-mysql](https://github.com/github/puppet-orchestrator-for-mysql) | Puppet Module used with Orchestrator | Puppet | 31 | MIT License | 2016-07-22 | 2024-06-13 |
+| [github-graphql-rails-example](https://github.com/github/github-graphql-rails-example) | Example Rails app using GitHub's GraphQL API | Ruby | 278 | MIT License | 2016-07-27 | 2024-06-13 |
+| [force-pr](https://github.com/github/force-pr) | Basic webserver that responds to webhooks with success | Ruby | 3 | - | 2016-08-11 | 2024-06-13 |
+| [open-source-survey](https://github.com/github/open-source-survey) | The Open Source Survey | None | 436 | Creative Commons Zero v1.0 Universal | 2016-09-07 | 2024-06-13 |
+| [codemirror-contrib](https://github.com/github/codemirror-contrib) | CodeMirror community contributions | JavaScript | 10 | MIT License | 2016-09-28 | 2024-06-13 |
+| [graphql-relay-walker](https://github.com/github/graphql-relay-walker) | Walk the graph | Ruby | 35 | MIT License | 2016-09-29 | 2024-06-13 |
+| [darrrr](https://github.com/github/darrrr) | An SDK for the delegated recovery specfication | Ruby | 45 | MIT License | 2016-10-07 | 2024-06-13 |
+| [orchestrator-agent](https://github.com/github/orchestrator-agent) | MySQL replication topology manager - agent (daemon) | Go | 54 | Apache License 2.0 | 2016-10-14 | 2024-06-13 |
+| [octocatalog-diff](https://github.com/github/octocatalog-diff) | Compile Puppet catalogs from 2 branches, versions, etc., and compare them | Ruby | 238 | MIT License | 2016-10-14 | 2024-06-13 |
+| [go-mysql](https://github.com/github/go-mysql) | a powerful mysql toolset with Go | Go | 7 | MIT License | 2016-10-24 | 2024-06-13 |
+| [game-off-2016](https://github.com/github/game-off-2016) | GitHub's month-long game jam :video_game: November 2016 | None | 246 | - | 2016-10-27 | 2024-06-13 |
+| [babel-plugin-transform-custom-element-classes](https://github.com/github/babel-plugin-transform-custom-element-classes) | Compile ES6 HTMLElement class extensions to ES5 | JavaScript | 86 | MIT License | 2016-11-23 | 2024-06-13 |
+| [github-1](https://github.com/github/github-1) | A higher-level wrapper around the Github API. Intended for the browser. | JavaScript | 14 | BSD 3-Clause "New" or "Revised" License | 2016-11-30 | 2024-06-13 |
+| [cmark-gfm](https://github.com/github/cmark-gfm) | GitHub's fork of cmark, a CommonMark parsing and rendering library and program in C | C | 871 | Other | 2016-12-01 | 2024-06-27 |
+| [github-ds](https://github.com/github/github-ds) | A collection of Ruby libraries for working with SQL on top of ActiveRecord's connection | Ruby | 729 | MIT License | 2016-12-08 | 2024-06-14 |
+| [rubocop-github](https://github.com/github/rubocop-github) | Code style checking for GitHub's Ruby projects | Ruby | 637 | MIT License | 2016-12-10 | 2024-07-01 |
+| [looker-slackbot](https://github.com/github/looker-slackbot) | A super cool Slack bot for Looker! | CoffeeScript | 5 | MIT License | 2016-12-12 | 2024-06-13 |
+| [opensourcefriday](https://github.com/github/opensourcefriday) | 🚲 Contribute to the open source community every Friday | HTML | 1175 | MIT License | 2016-12-30 | 2024-06-27 |
+| [puppet-aptly](https://github.com/github/puppet-aptly) | Puppet module for aptly | Ruby | 7 | MIT License | 2017-01-16 | 2024-06-13 |
+| [SoftU2F](https://github.com/github/SoftU2F) | Software U2F authenticator for macOS | Swift | 2212 | MIT License | 2017-01-25 | 2024-06-28 |
+| [incubator-airflow](https://github.com/github/incubator-airflow) | Apache Airflow (Incubating) | Python | 24 | Apache License 2.0 | 2017-02-01 | 2024-06-13 |
+| [freno](https://github.com/github/freno) | freno: cooperative, highly available throttler service | Go | 617 | MIT License | 2017-02-12 | 2024-06-13 |
+| [sparkles-legacy](https://github.com/github/sparkles-legacy) | A Go backend for giving each other :sparkles: in Slack | Go | 4 | MIT License | 2017-02-17 | 2024-06-13 |
+| [puppet-ca_cert](https://github.com/github/puppet-ca_cert) | A puppet module for managing (non-system) CA certificates. | Ruby | 6 | - | 2017-02-22 | 2024-06-13 |
+| [node-slack-sdk](https://github.com/github/node-slack-sdk) | Slack Developer Kit for Node.js | CoffeeScript | 5 | MIT License | 2017-03-09 | 2024-06-13 |
+| [sqoop](https://github.com/github/sqoop) | Mirror of Apache Sqoop | Java | 4 | Apache License 2.0 | 2017-03-14 | 2024-06-13 |
+| [replicate](https://github.com/github/replicate) | Dump and load relational objects between Ruby environments. | Ruby | 12 | Other | 2017-03-29 | 2024-06-13 |
+| [GITHUB-ENTERPRISE-LICENSE-AGREEMENT](https://github.com/github/GITHUB-ENTERPRISE-LICENSE-AGREEMENT) | GITHUB LICENSE AGREEMENT: PLEASE SIGN IN ALL CAPS | None | 5 | - | 2017-04-10 | 2024-06-13 |
+| [putty](https://github.com/github/putty) | mirror of git://git.tartarus.org/simon/putty.git, used for client testing | C | 281 | Other | 2017-04-14 | 2024-06-16 |
+| [fog-aws](https://github.com/github/fog-aws) | Module for the 'fog' gem to support Amazon Web Services http://aws.amazon.com/ | Ruby | 4 | MIT License | 2017-04-26 | 2024-06-13 |
+| [github-graphql-relay-example](https://github.com/github/github-graphql-relay-example) | Example Relay Modern app using GitHub's GraphQL API | JavaScript | 106 | MIT License | 2017-05-12 | 2024-06-13 |
+| [etcd-operator](https://github.com/github/etcd-operator) | etcd operator creates/configures/manages etcd clusters atop Kubernetes | Go | 7 | Apache License 2.0 | 2017-05-18 | 2024-06-13 |
+| [freno-client](https://github.com/github/freno-client) | Ruby client and throttling library for freno, the throttler service | Ruby | 19 | MIT License | 2017-06-01 | 2024-07-02 |
+| [site-policy](https://github.com/github/site-policy) | Collaborative development on GitHub's site policies, procedures, and guidelines | None | 1687 | Creative Commons Zero v1.0 Universal | 2017-06-07 | 2024-06-26 |
+| [lightcrawler](https://github.com/github/lightcrawler) | Crawl a website and run it through Google lighthouse | JavaScript | 1495 | ISC License | 2017-06-20 | 2024-07-01 |
+| [accessibilityjs](https://github.com/github/accessibilityjs) | Client side accessibility error scanner. | JavaScript | 2170 | MIT License | 2017-06-22 | 2024-06-21 |
+| [s3gof3r](https://github.com/github/s3gof3r) | Fast, concurrent, streaming access to Amazon S3, including gof3r, a CLI. http://godoc.org/github.com/rlmcpherson/s3gof3r | Go | 36 | MIT License | 2017-06-26 | 2024-06-13 |
+| [jekyll-commonmark-ghpages](https://github.com/github/jekyll-commonmark-ghpages) | CommonMark generator for Jekyll used by GitHub Pages | Ruby | 58 | MIT License | 2017-06-28 | 2024-06-13 |
+| [babel-plugin-transform-invariant-location](https://github.com/github/babel-plugin-transform-invariant-location) | Babel plugin that rewrites invariant calls with their source location | JavaScript | 12 | MIT License | 2017-07-21 | 2024-06-13 |
+| [debug-repo](https://github.com/github/debug-repo) | This is a debug repo for github-debug.com | JavaScript | 24 | MIT License | 2017-07-27 | 2024-06-13 |
+| [eventlistener-polyfill](https://github.com/github/eventlistener-polyfill) | Polyfills EventListener behaviours from IE11 onward | JavaScript | 47 | MIT License | 2017-07-28 | 2024-06-13 |
+| [restricted-input](https://github.com/github/restricted-input) | Restrict <input>s to certain valid characters (e.g. formatting phone or card numbers) | JavaScript | 7 | MIT License | 2017-08-30 | 2024-06-13 |
+| [browser-detection](https://github.com/github/browser-detection) | A utility for detecting browsers in Braintree libs. | JavaScript | 16 | MIT License | 2017-08-31 | 2024-06-13 |
+| [explore](https://github.com/github/explore) | Community-curated topic and collection pages on GitHub | Ruby | 4188 | Creative Commons Attribution 4.0 International | 2017-09-16 | 2024-07-01 |
+| [snakebite](https://github.com/github/snakebite) | A pure python HDFS client | Python | 11 | Apache License 2.0 | 2017-10-04 | 2024-06-13 |
+| [octofacts](https://github.com/github/octofacts) | Automate creation and maintenance of complete fact sets for rspec-puppet tests | Ruby | 26 | MIT License | 2017-10-06 | 2024-06-13 |
+| [deli](https://github.com/github/deli) | None | Haskell | 166 | BSD 3-Clause "New" or "Revised" License | 2017-10-12 | 2024-06-03 |
+| [kestrel](https://github.com/github/kestrel) | simple, distributed message queue system (inactive) | Scala | 4 | Other | 2017-10-21 | 2024-06-13 |
+| [certstore](https://github.com/github/certstore) | Go library for using system certificate stores on macOS/Windows | Go | 71 | MIT License | 2017-11-02 | 2024-06-13 |
+| [image-crop-element](https://github.com/github/image-crop-element) | A custom element for cropping a square image. Returns x, y, width, and height. | TypeScript | 177 | MIT License | 2017-11-08 | 2024-06-19 |
+| [refined-github](https://github.com/github/refined-github) | Browser extension that simplifies the GitHub interface and adds useful features | JavaScript | 18 | MIT License | 2017-11-13 | 2024-06-13 |
+| [plax](https://github.com/github/plax) | JQuery powered parallaxing | JavaScript | 4 | MIT License | 2017-11-14 | 2024-06-13 |
+| [webpack-config-github](https://github.com/github/webpack-config-github) | An opinionated webpack config for GitHub apps. | JavaScript | 46 | MIT License | 2017-11-16 | 2024-06-13 |
+| [ietf-cms](https://github.com/github/ietf-cms) | CMS (PKCS#7) library for Go | Go | 67 | MIT License | 2017-11-17 | 2024-06-13 |
+| [smimesign](https://github.com/github/smimesign) | An S/MIME signing utility for use with Git | Go | 578 | MIT License | 2017-11-22 | 2024-06-30 |
+| [template](https://github.com/github/template) | Minimal polyfill for <template> | HTML | 6 | Other | 2017-11-23 | 2024-06-13 |
+| [details-dialog-element](https://github.com/github/details-dialog-element) | A modal dialog that's opened with <details>. | JavaScript | 744 | MIT License | 2017-11-24 | 2024-06-29 |
+| [fakeca](https://github.com/github/fakeca) | Certificate authority fixtures for Go tests | Go | 12 | MIT License | 2017-11-28 | 2024-06-27 |
+| [webcomponentsjs](https://github.com/github/webcomponentsjs) | A suite of polyfills supporting the HTML Web Components specs | HTML | 15 | Other | 2017-12-06 | 2024-06-13 |
+| [practice](https://github.com/github/practice) | None | None | 3 | - | 2017-12-06 | 2024-06-13 |
+| [graphql-batch](https://github.com/github/graphql-batch) | A query batching executor for the graphql gem | Ruby | 4 | MIT License | 2017-12-13 | 2024-06-13 |
+| [docker-awscli](https://github.com/github/docker-awscli) | Another aws cli for hacking | Shell | 6 | MIT License | 2017-12-15 | 2024-06-13 |
+| [jenkins_api_client](https://github.com/github/jenkins_api_client) | Ruby Client libraries for communicating with Jenkins Remote Access API | Ruby | 8 | MIT License | 2018-01-16 | 2024-06-13 |
+| [lit-html](https://github.com/github/lit-html) | HTML template literals in JavaScript | TypeScript | 13 | BSD 3-Clause "New" or "Revised" License | 2018-01-25 | 2024-06-13 |
+| [git-sizer](https://github.com/github/git-sizer) | Compute various size metrics for a Git repository, flagging those that might cause problems | Go | 3344 | MIT License | 2018-01-28 | 2024-07-02 |
+| [licensed](https://github.com/github/licensed) | A Ruby gem to cache and verify the licenses of dependencies | Ruby | 975 | MIT License | 2018-02-02 | 2024-06-28 |
+| [gh-ost-ci-env](https://github.com/github/gh-ost-ci-env) | CI environment for gh-ost testing | Shell | 12 | MIT License | 2018-02-11 | 2024-06-13 |
+| [wmail-user-scripts](https://github.com/github/wmail-user-scripts) | None | CSS | 7 | - | 2018-02-17 | 2024-06-13 |
+| [collectd-elasticsearch](https://github.com/github/collectd-elasticsearch) | CollectD ElasticSearch plugin | Python | 6 | Apache License 2.0 | 2018-02-20 | 2024-06-13 |
+| [invisible-recaptcha-validator](https://github.com/github/invisible-recaptcha-validator) | Simple Express Server for invisible reCaptcha server-side validation | JavaScript | 12 | - | 2018-02-23 | 2024-06-13 |
+| [clipboard-copy-element](https://github.com/github/clipboard-copy-element) | Copy element text content or input values to the clipboard. | JavaScript | 450 | MIT License | 2018-02-27 | 2024-06-18 |
+| [form-data-entries](https://github.com/github/form-data-entries) | FormData.entries ponyfill | JavaScript | 36 | MIT License | 2018-02-28 | 2024-06-13 |
+| [url-search-params](https://github.com/github/url-search-params) | Simple polyfill for URLSearchParams standard | JavaScript | 11 | MIT License | 2018-02-28 | 2024-06-13 |
+| [d3](https://github.com/github/d3) | Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada: | JavaScript | 11 | BSD 3-Clause "New" or "Revised" License | 2018-03-01 | 2023-07-25 |
+| [rundeck-chatops-plugin](https://github.com/github/rundeck-chatops-plugin) | Rundeck workflow task plugin which executes a ChatOps RPC API call. | Java | 9 | MIT License | 2018-03-03 | 2024-06-13 |
+| [linux](https://github.com/github/linux) | Linux kernel source tree | C | 28 | Other | 2018-03-09 | 2024-06-13 |
+| [lightstep-tracer-ruby](https://github.com/github/lightstep-tracer-ruby) | The LightStep distributed tracing library for Ruby | Ruby | 7 | MIT License | 2018-03-20 | 2024-06-13 |
+| [oauth2_proxy](https://github.com/github/oauth2_proxy) | A reverse proxy that provides authentication with Google, Github or other provider | Go | 18 | MIT License | 2018-03-29 | 2024-06-13 |
+| [auto-check-element](https://github.com/github/auto-check-element) | An input element that validates its value with a server endpoint. | JavaScript | 171 | MIT License | 2018-04-05 | 2024-06-18 |
+| [auto-complete-element](https://github.com/github/auto-complete-element) | Auto-complete input values from server search results. | JavaScript | 354 | MIT License | 2018-04-11 | 2024-06-25 |
+| [task-lists-element](https://github.com/github/task-lists-element) | Drag and drop task list items. | TypeScript | 135 | MIT License | 2018-04-25 | 2024-06-19 |
+| [reactnd-project-readable-starter](https://github.com/github/reactnd-project-readable-starter) | Starting server code for ReactND Readable Project | JavaScript | 7 | - | 2018-05-15 | 2024-06-13 |
+| [glb-director](https://github.com/github/glb-director) | GitHub Load Balancer Director and supporting tooling. | C | 2350 | Other | 2018-05-17 | 2024-06-28 |
+| [OAuth-Ruby-Quickstart](https://github.com/github/OAuth-Ruby-Quickstart) | Starter code and quickstart guide for a GitHub OAuth App in Ruby | HTML | 16 | - | 2018-05-25 | 2024-06-13 |
+| [markdown-toolbar-element](https://github.com/github/markdown-toolbar-element) | Markdown formatting buttons for text inputs. | JavaScript | 312 | MIT License | 2018-06-11 | 2024-06-28 |
+| [presto](https://github.com/github/presto) | Distributed SQL query engine for big data | Java | 8 | Apache License 2.0 | 2018-06-21 | 2024-06-13 |
+| [custom-element-boilerplate](https://github.com/github/custom-element-boilerplate) | Boilerplate for creating a custom element. | TypeScript | 161 | MIT License | 2018-06-25 | 2024-06-18 |
+| [github-elements](https://github.com/github/github-elements) | GitHub's Web Component collection. | JavaScript | 2671 | MIT License | 2018-06-26 | 2024-06-28 |
+| [details-menu-element](https://github.com/github/details-menu-element) | A menu opened with <details>. | JavaScript | 578 | MIT License | 2018-06-27 | 2024-06-18 |
+| [quote-selection](https://github.com/github/quote-selection) | Install a shortcut to append selected text to a <textarea> as a Markdown quote. | TypeScript | 28 | MIT License | 2018-07-05 | 2024-06-17 |
+| [captain-hook](https://github.com/github/captain-hook) | slack bot that provides subscription service for npm webhooks | JavaScript | 6 | ISC License | 2018-07-10 | 2024-06-13 |
+| [sdr-code-camp](https://github.com/github/sdr-code-camp) | learn you some code! | HTML | 11 | - | 2018-07-12 | 2024-06-13 |
+| [vitess-gh](https://github.com/github/vitess-gh) | Vitess is a database clustering system for horizontal scaling of MySQL. | Go | 23 | Apache License 2.0 | 2018-07-19 | 2024-06-13 |
+| [g-emoji-element](https://github.com/github/g-emoji-element) | Backports native emoji characters to browsers that don't support them by replacing the characters with fallback images. | JavaScript | 134 | MIT License | 2018-07-25 | 2024-06-18 |
+| [codeql](https://github.com/github/codeql) | CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security | CodeQL | 7308 | MIT License | 2018-07-31 | 2024-07-02 |
+| [textarea-autosize](https://github.com/github/textarea-autosize) | Autosizes textarea to size of it's contents. | JavaScript | 94 | MIT License | 2018-08-08 | 2024-06-18 |
+| [babel-preset-github](https://github.com/github/babel-preset-github) | GitHub.com's Babel configuration | JavaScript | 107 | MIT License | 2018-08-09 | 2024-06-13 |
+| [vulcanizer](https://github.com/github/vulcanizer) | GitHub's ops focused Elasticsearch library | Go | 665 | MIT License | 2018-08-13 | 2024-06-20 |
+| [check-all](https://github.com/github/check-all) | Multiple checkbox selection helper. | JavaScript | 79 | MIT License | 2018-08-30 | 2024-06-18 |
+| [query-selector](https://github.com/github/query-selector) | Query the document tree by selector, filtering by element type. | JavaScript | 74 | MIT License | 2018-09-14 | 2024-06-13 |
+| [tweetsodium](https://github.com/github/tweetsodium) | libsodium sealed cryptobox using tweetnacl | JavaScript | 43 | MIT License | 2018-09-17 | 2024-06-13 |
+| [paste-markdown](https://github.com/github/paste-markdown) | Paste spreadsheet cells as a Markdown table. | JavaScript | 209 | MIT License | 2018-09-17 | 2024-06-18 |
+| [review-pull-requests-at-github-template](https://github.com/github/review-pull-requests-at-github-template) | Template for GitHub's Reviewing Pull Requests Learning Lab course. Course ➡️ | HTML | 24 | MIT License | 2018-09-18 | 2024-06-13 |
+| [blakejs](https://github.com/github/blakejs) | Pure Javascript implementation of the BLAKE2b and BLAKE2s hash functions | JavaScript | 7 | - | 2018-09-18 | 2024-06-13 |
+| [user-select-contain-polyfill](https://github.com/github/user-select-contain-polyfill) | Polyfills `user-select: contain` property value | JavaScript | 20 | MIT License | 2018-09-24 | 2024-06-13 |
+| [babel-plugin-ensure-name-for-custom-elements](https://github.com/github/babel-plugin-ensure-name-for-custom-elements) | This plugin makes sure that your custom elements always have a name property, even after minifying. | JavaScript | 10 | MIT License | 2018-10-09 | 2024-06-13 |
+| [combobox-nav](https://github.com/github/combobox-nav) | Attach combobox navigation behavior to <input> or <textarea>. | JavaScript | 94 | MIT License | 2018-10-11 | 2024-06-18 |
+| [gpgme](https://github.com/github/gpgme) | GnuPG Made Easy | C | 6 | GNU Lesser General Public License v2.1 | 2018-11-14 | 2024-06-13 |
+| [ruby-gpgme](https://github.com/github/ruby-gpgme) | a ruby interface to GnuPG Made Easy (GPGME). | Ruby | 7 | GNU Lesser General Public License v2.1 | 2018-11-15 | 2024-06-13 |
+| [rollup.js](https://github.com/github/rollup.js) | Next-generation ES module bundler | JavaScript | 11 | MIT License | 2018-11-27 | 2024-06-13 |
+| [tab-container-element](https://github.com/github/tab-container-element) | An accessible tab container element with keyboard support. | JavaScript | 351 | MIT License | 2018-12-12 | 2024-07-01 |
+| [VFSForGit](https://github.com/github/VFSForGit) | GitHub development on VFSForGit [please fork upstream microsoft/VFSForGit repository instead of this one] | C# | 21 | MIT License | 2018-12-20 | 2024-06-13 |
+| [flit](https://github.com/github/flit) | Twitch Twirp RPC implementation for Java | Java | 9 | Apache License 2.0 | 2019-01-09 | 2024-06-21 |
+| [hubot-mysql-datastore](https://github.com/github/hubot-mysql-datastore) | MySQL-backed datastore for use with Hubot | JavaScript | 9 | MIT License | 2019-01-11 | 2024-06-13 |
+| [libprojfs](https://github.com/github/libprojfs) | Linux projected filesystem library | C | 91 | GNU Lesser General Public License v2.1 | 2019-01-11 | 2024-06-13 |
+| [hotkey](https://github.com/github/hotkey) | Trigger an action on an element with a keyboard shortcut. | JavaScript | 3191 | MIT License | 2019-01-17 | 2024-07-01 |
+| [ssh_data](https://github.com/github/ssh_data) | Ruby library for parsing SSH public keys and certificates | Ruby | 72 | MIT License | 2019-01-22 | 2024-06-13 |
+| [personal-website](https://github.com/github/personal-website) | Code that'll help you kickstart a personal website that showcases your work as a software developer. | HTML | 7383 | MIT License | 2019-01-25 | 2024-07-01 |
+| [session-resume](https://github.com/github/session-resume) | Annotate fields to be persisted on navigation away from the current page | JavaScript | 123 | MIT License | 2019-02-06 | 2024-06-17 |
+| [.github](https://github.com/github/.github) | Community health files for the @GitHub organization | None | 826 | - | 2019-02-15 | 2024-07-01 |
+| [octobox](https://github.com/github/octobox) | 📮Untangle your GitHub Notifications | Ruby | 63 | GNU Affero General Public License v3.0 | 2019-02-19 | 2024-06-26 |
+| [gh-mysql-tools](https://github.com/github/gh-mysql-tools) | General purpose MySQL tools by GitHub Engineering | Go | 81 | MIT License | 2019-02-21 | 2024-06-13 |
+| [CodeSearchNet](https://github.com/github/CodeSearchNet) | Datasets, tools, and benchmarks for representation learning of code. | Jupyter Notebook | 2144 | MIT License | 2019-02-28 | 2024-07-01 |
+| [semantic](https://github.com/github/semantic) | Parsing, analyzing, and comparing source code across many languages | Haskell | 8902 | - | 2019-03-15 | 2024-07-01 |
+| [remote-form](https://github.com/github/remote-form) | Submit forms via AJAX with ease | TypeScript | 56 | MIT License | 2019-04-16 | 2024-06-17 |
+| [enable-security-alerts-sample](https://github.com/github/enable-security-alerts-sample) | This repository contains a sample script which can be used to enable security vulnerability alerts in all of the repositories in a given organization.  | JavaScript | 78 | MIT License | 2019-04-24 | 2024-06-13 |
+| [argo-ml](https://github.com/github/argo-ml) | Controllers, wrappers and miscaleus utils to make it easier for Argo to be used in ML scenarios | Python | 23 | MIT License | 2019-04-26 | 2024-06-13 |
+| [remote-input-element](https://github.com/github/remote-input-element) | An input element that sends its value to a server endpoint and renders the response body. | JavaScript | 81 | MIT License | 2019-04-30 | 2024-06-13 |
+| [mini-throttle](https://github.com/github/mini-throttle) | A small JavaScript throttle & debounce implementation. | TypeScript | 200 | MIT License | 2019-05-17 | 2024-06-17 |
+| [docs](https://github.com/github/docs) | The open-source repo for docs.github.com | JavaScript | 15753 | Creative Commons Attribution 4.0 International | 2019-05-31 | 2024-07-02 |
+| [proxysql](https://github.com/github/proxysql) | High-performance MySQL proxy with a GPL license. | C++ | 15 | GNU General Public License v3.0 | 2019-06-06 | 2024-06-13 |
+| [text-expander-element](https://github.com/github/text-expander-element) | Activates a suggestion menu to expand text snippets as you type. | JavaScript | 173 | MIT License | 2019-06-12 | 2024-06-22 |
+| [webauthn-json](https://github.com/github/webauthn-json) | 🔏 A small WebAuthn API wrapper that translates to/from pure JSON using base64url. | TypeScript | 736 | MIT License | 2019-07-01 | 2024-06-25 |
+| [promise.rb](https://github.com/github/promise.rb) | Promises/A+ for Ruby | Ruby | 5 | The Unlicense | 2019-08-15 | 2024-06-13 |
+| [welcome-to-github](https://github.com/github/welcome-to-github) | None | HTML | 85 | - | 2019-08-22 | 2024-06-26 |
+| [welcome-to-github-and-pages](https://github.com/github/welcome-to-github-and-pages) | None | HTML | 19 | - | 2019-08-22 | 2024-06-13 |
+| [welcome-to-github-and-desktop](https://github.com/github/welcome-to-github-and-desktop) | None | HTML | 38 | - | 2019-08-22 | 2024-06-13 |
+| [skeema](https://github.com/github/skeema) | Schema management CLI for MySQL | Go | 22 | Apache License 2.0 | 2019-09-04 | 2024-04-11 |
+| [setup-licensed](https://github.com/github/setup-licensed) | Set up your GitHub Actions workflow with a specific version of github/licensed | JavaScript | 18 | MIT License | 2019-09-11 | 2024-06-24 |
+| [licensed-ci](https://github.com/github/licensed-ci) | Update and check cached licenses in a GitHub Actions workflow | JavaScript | 36 | MIT License | 2019-09-14 | 2024-06-17 |
+| [vscode-codeql](https://github.com/github/vscode-codeql) | An extension for Visual Studio Code that adds rich language support for CodeQL | TypeScript | 411 | MIT License | 2019-09-26 | 2024-06-28 |
+| [homebrew-gh](https://github.com/github/homebrew-gh) | Homebrew tap for the GitHub CLI | None | 99 | - | 2019-10-03 | 2024-06-13 |
+| [deploy-nodejs](https://github.com/github/deploy-nodejs) | GitHub Action to deploy a NodeJS app to AWS Serverless | Shell | 42 | GNU General Public License v3.0 | 2019-10-09 | 2024-06-13 |
+| [codeql-cli-binaries](https://github.com/github/codeql-cli-binaries) | Binaries for the CodeQL CLI | None | 702 | Other | 2019-10-15 | 2024-07-01 |
+| [vscode-codeql-starter](https://github.com/github/vscode-codeql-starter) | Starter workspace to use with the CodeQL extension for Visual Studio Code. | CodeQL | 467 | MIT License | 2019-10-23 | 2024-07-01 |
+| [codeql-go](https://github.com/github/codeql-go) | The CodeQL extractor and libraries for Go. | None | 464 | MIT License | 2019-10-28 | 2024-06-13 |
+| [securitylab](https://github.com/github/securitylab) | Resources related to GitHub Security Lab | C | 1355 | MIT License | 2019-11-12 | 2024-07-01 |
+| [actions-cheat-sheet](https://github.com/github/actions-cheat-sheet) | A cheat sheet for GitHub Actions | HTML | 205 | MIT License | 2019-11-12 | 2024-06-13 |
+| [filter-input-element](https://github.com/github/filter-input-element) | Display elements in a subtree that match filter input text. | TypeScript | 48 | MIT License | 2019-11-25 | 2024-06-18 |
+| [services-implementation-challenge](https://github.com/github/services-implementation-challenge) | None | Java | 7 | MIT License | 2019-12-06 | 2024-06-13 |
+| [codeql-learninglab-actions](https://github.com/github/codeql-learninglab-actions) | Actions and Images for use in Learning Lab courses for CodeQL | TypeScript | 35 | MIT License | 2019-12-21 | 2024-06-13 |
+| [file-attachment-element](https://github.com/github/file-attachment-element) | Attach files via drag and drop or file input. | TypeScript | 116 | MIT License | 2020-01-07 | 2024-06-18 |
+| [issue-labeler](https://github.com/github/issue-labeler) | An action for automatically labelling issues | TypeScript | 190 | MIT License | 2020-01-14 | 2024-06-13 |
+| [archive-program](https://github.com/github/archive-program) | The GitHub Archive Program & Arctic Code Vault | None | 2994 | - | 2020-01-22 | 2024-06-29 |
+| [catalyst](https://github.com/github/catalyst) | Catalyst is a set of patterns and techniques for developing components within a complex application. | TypeScript | 1316 | MIT License | 2020-02-12 | 2024-07-02 |
+| [omnisharp-vscode](https://github.com/github/omnisharp-vscode) | Official C# support for Visual Studio Code (powered by OmniSharp) | TypeScript | 8 | MIT License | 2020-02-24 | 2024-06-13 |
+| [omnisharp-roslyn](https://github.com/github/omnisharp-roslyn) | OmniSharp server (HTTP, STDIO) based on Roslyn workspaces | C# | 6 | MIT License | 2020-02-24 | 2024-06-13 |
+| [vscode-kubernetes-tools](https://github.com/github/vscode-kubernetes-tools) | Kubernetes extension for Visual Studio Code | TypeScript | 7 | MIT License | 2020-02-24 | 2024-06-13 |
+| [csharp-test-adapter](https://github.com/github/csharp-test-adapter) | C# Test Adapter Extension for VS Code | TypeScript | 5 | MIT License | 2020-02-24 | 2024-06-13 |
+| [rally](https://github.com/github/rally) | GitHub <> Rally integration | JavaScript | 123 | MIT License | 2020-03-06 | 2024-06-13 |
+| [prettier-config](https://github.com/github/prettier-config) | Prettier config used at GitHub | Dockerfile | 31 | MIT License | 2020-03-12 | 2024-06-13 |
+| [covid19-dashboard](https://github.com/github/covid19-dashboard) | A site that displays up to date COVID-19 stats, powered by fastpages. | Jupyter Notebook | 1640 | Apache License 2.0 | 2020-03-12 | 2024-06-28 |
+| [covid-19-repo-data](https://github.com/github/covid-19-repo-data) | Data archive of identifiable COVID-19 related public projects on GitHub  | None | 496 | Creative Commons Zero v1.0 Universal | 2020-03-27 | 2024-07-02 |
+| [roadmap](https://github.com/github/roadmap) | GitHub public roadmap | None | 7767 | Creative Commons Attribution 4.0 International | 2020-03-31 | 2024-07-01 |
+| [Dynamic-Template-Engine](https://github.com/github/Dynamic-Template-Engine) | A typescript library to transform event payloads (in json format) to standard jsons or chat client platform specific jsons (e.g. Slack and Teams) using templates (e.g. handlebars) | TypeScript | 17 | MIT License | 2020-04-07 | 2024-06-13 |
+| [optimizely-javascript-sdk](https://github.com/github/optimizely-javascript-sdk) | JavaScript SDK for Optimizely X Full Stack: A/B testing and feature management for product development teams | None | 8 | Apache License 2.0 | 2020-04-08 | 2024-06-13 |
+| [depstubber](https://github.com/github/depstubber) | Depstubber generates type-correct stubs for Go dependencies, for use in testing | Go | 13 | Other | 2020-04-08 | 2024-06-13 |
+| [codeql-action](https://github.com/github/codeql-action) | Actions for running CodeQL analysis | TypeScript | 1084 | MIT License | 2020-04-27 | 2024-07-02 |
+| [ghec-audit-log-cli](https://github.com/github/ghec-audit-log-cli) | Query the GitHub Audit Log for your organization to send it over to other services like elastic, splunk or sentinel for visualization and security | JavaScript | 61 | MIT License | 2020-05-07 | 2024-06-13 |
+| [multimap](https://github.com/github/multimap) | A map in which more than one value may be stored under each key. | JavaScript | 33 | MIT License | 2020-05-21 | 2024-06-17 |
+| [mlops](https://github.com/github/mlops) | Use GitHub to facilitate automation, collaboration and reproducibility in your machine learning workflows. | JavaScript | 24 | - | 2020-05-29 | 2024-06-30 |
+| [renaming](https://github.com/github/renaming) | Guidance for changing the default branch name for GitHub repositories | None | 2395 | Creative Commons Zero v1.0 Universal | 2020-06-12 | 2024-06-30 |
+| [rest-api-description](https://github.com/github/rest-api-description) | An OpenAPI description for GitHub's REST API | None | 1336 | MIT License | 2020-06-22 | 2024-06-29 |
+| [ossar-action](https://github.com/github/ossar-action) | Run multiple open source security static analysis tools without the added complexity with OSSAR (Open Source Static Analysis Runner). | JavaScript | 93 | MIT License | 2020-06-24 | 2024-06-13 |
+| [memoize](https://github.com/github/memoize) | None | TypeScript | 27 | MIT License | 2020-06-29 | 2024-06-17 |
+| [stable-socket](https://github.com/github/stable-socket) | A web socket that reconnects. | TypeScript | 123 | MIT License | 2020-07-10 | 2024-06-26 |
+| [emissary](https://github.com/github/emissary) | Envoy External Authorization API Bridge To SPIFFE Workload API  | Go | 45 | MIT License | 2020-07-23 | 2024-06-13 |
+| [template-parts](https://github.com/github/template-parts) | An implementation of the Template Parts proposal | TypeScript | 152 | MIT License | 2020-07-30 | 2024-06-13 |
+| [githubOCTO](https://github.com/github/githubOCTO) | None | None | 56 | - | 2020-08-05 | 2024-06-13 |
+| [codeql-action-sync-tool](https://github.com/github/codeql-action-sync-tool) | A tool for syncing the CodeQL Action from GitHub.com to GitHub Enterprise Server, including copying the CodeQL bundle. | Go | 37 | MIT License | 2020-08-08 | 2024-06-22 |
+| [chatops-templates](https://github.com/github/chatops-templates) | None | Handlebars | 4 | MIT License | 2020-08-13 | 2023-07-25 |
+| [safe-settings](https://github.com/github/safe-settings) | None | JavaScript | 563 | ISC License | 2020-09-03 | 2024-07-01 |
+| [github-artifact-exporter](https://github.com/github/github-artifact-exporter) | A set of packages to make exporting artifacts from GitHub easier | TypeScript | 278 | MIT License | 2020-09-03 | 2024-06-13 |
+| [india](https://github.com/github/india) | GitHub resources and information for the developer community in India | Ruby | 1761 | Creative Commons Zero v1.0 Universal | 2020-09-21 | 2024-06-28 |
+| [stale](https://github.com/github/stale) | Marks issues and pull requests that have not had recent interaction | None | 5 | MIT License | 2020-09-22 | 2024-06-13 |
+| [jtml](https://github.com/github/jtml) | Write HTML in JavaScript, using template-tags. | TypeScript | 182 | MIT License | 2020-10-26 | 2024-06-13 |
+| [cvelist](https://github.com/github/cvelist) | Pilot program for CVE submission through GitHub | None | 43 | - | 2020-11-03 | 2024-06-13 |
+| [code-scanning-javascript-demo](https://github.com/github/code-scanning-javascript-demo) | GitHub Code Scanning Javascript Tutorial | JavaScript | 50 | MIT License | 2020-11-06 | 2024-06-08 |
+| [ruby-test-tracer](https://github.com/github/ruby-test-tracer) | OpenTracing compatible Tracer implementation to be used in tests in Ruby   | None | 3 | Apache License 2.0 | 2020-12-03 | 2024-06-13 |
+| [sonic-pi-challenge](https://github.com/github/sonic-pi-challenge) | Sonic Pi Challenge at GitHub Universe 2020 | Ruby | 69 | Creative Commons Zero v1.0 Universal | 2020-12-07 | 2024-06-13 |
+| [libbuffer](https://github.com/github/libbuffer) | This library holds utility functions for working with string buffers in C. | C | 6 | Other | 2021-01-06 | 2024-06-13 |
+| [heroku-buildpack-lightstep-satellite](https://github.com/github/heroku-buildpack-lightstep-satellite) | Heroku buildpack to run the lightstep collector in each dyno | Shell | 4 | MIT License | 2021-01-26 | 2024-06-13 |
+| [codeql-ctf-go-return](https://github.com/github/codeql-ctf-go-return) | Extension project for the Go and Don't Return CodeQL CTF | Go | 6 | Creative Commons Zero v1.0 Universal | 2021-02-18 | 2024-06-13 |
+| [eslint-plugin-custom-elements](https://github.com/github/eslint-plugin-custom-elements) | A series of lint rules for best practices with Custom Elements | JavaScript | 57 | MIT License | 2021-03-10 | 2024-06-13 |
+| [globalmaintainersummit.github.com](https://github.com/github/globalmaintainersummit.github.com) | Website for upcoming Global Source Maintainer Summit · June 8-9 2021. | Vue | 37 | MIT License | 2021-03-12 | 2024-06-13 |
+| [ghas-jira-integration](https://github.com/github/ghas-jira-integration) | Synchronize GitHub Code Scanning alerts to Jira issues | Python | 76 | Apache License 2.0 | 2021-03-16 | 2024-07-01 |
+| [maintainermonth](https://github.com/github/maintainermonth) | A month for maintainers to gather & share | JavaScript | 177 | MIT License | 2021-03-30 | 2024-06-21 |
+| [stack-graphs](https://github.com/github/stack-graphs) | Rust implementation of stack graphs | Rust | 709 | Apache License 2.0 | 2021-03-31 | 2024-07-02 |
+| [typing-effect-element](https://github.com/github/typing-effect-element) | A custom element that shows text as if it were being typed | JavaScript | 103 | MIT License | 2021-04-09 | 2024-06-20 |
+| [packwerk](https://github.com/github/packwerk) | Good things come in small packages. | Ruby | 6 | MIT License | 2021-04-16 | 2024-06-13 |
+| [bellevue-murals](https://github.com/github/bellevue-murals) | None | JavaScript | 7 | - | 2021-05-06 | 2024-06-13 |
+| [hyderabad-murals](https://github.com/github/hyderabad-murals) | Hyderabad Generative Art Murals | None | 5 | - | 2021-05-06 | 2024-06-13 |
+| [haikus-for-codespaces](https://github.com/github/haikus-for-codespaces) | None | EJS | 1725 | MIT License | 2021-05-07 | 2024-07-02 |
+| [hackathons](https://github.com/github/hackathons) | Tips, Tricks, and Resources for running your hackathon. | HTML | 299 | Creative Commons Zero v1.0 Universal | 2021-05-17 | 2024-06-13 |
+| [strap](https://github.com/github/strap) | Archived fork of mikemcquaid/strap ☠️ | None | 95 | MIT License | 2021-06-08 | 2024-06-27 |
+| [developer-policy](https://github.com/github/developer-policy) | The GitHub Policy Team created and maintains this repository as a place for developers to contribute to our policy work. | None | 37 | Creative Commons Zero v1.0 Universal | 2021-06-09 | 2024-06-13 |
+| [fiber-fragments](https://github.com/github/fiber-fragments) | :framed_picture: Micro fragmentation middleware for fiber :rocket: that enables to build microservice frontends. | Go | 25 | MIT License | 2021-06-28 | 2024-06-13 |
+| [MVG](https://github.com/github/MVG) | MVG = Minimum Viable Governance | None | 376 | Creative Commons Attribution 4.0 International | 2021-07-20 | 2024-06-13 |
+| [codeql-variant-analysis-action](https://github.com/github/codeql-variant-analysis-action) | None | TypeScript | 18 | MIT License | 2021-08-03 | 2024-06-24 |
+| [dev](https://github.com/github/dev) | Press the . key on any repo | None | 1167 | - | 2021-08-19 | 2024-07-02 |
+| [ssh-key-algo](https://github.com/github/ssh-key-algo) | Script to check if the SSH key algorithm is up to date | Shell | 47 | MIT License | 2021-08-20 | 2024-06-13 |
+| [proto-gen-go](https://github.com/github/proto-gen-go) | A 'go generate' script to generate Go files from .proto interfaces | Go | 20 | - | 2021-09-07 | 2024-06-23 |
+| [codeql-dubbo-workshop](https://github.com/github/codeql-dubbo-workshop) | None | CodeQL | 53 | MIT License | 2021-09-15 | 2024-06-13 |
+| [gh-codeql](https://github.com/github/gh-codeql) | GitHub CLI extension for working with CodeQL | Shell | 26 | MIT License | 2021-09-16 | 2024-06-13 |
+| [dependabot-action](https://github.com/github/dependabot-action) | Runs Dependabot Updates via GitHub Actions. | TypeScript | 66 | MIT License | 2021-10-05 | 2024-07-02 |
+| [Skills-Based-Volunteering-Public](https://github.com/github/Skills-Based-Volunteering-Public) | Template for setting up a Skills-Based Volunteering Program | None | 22 | MIT License | 2021-10-08 | 2024-06-13 |
+| [gh-gei](https://github.com/github/gh-gei) | Migration CLI for GitHub to GitHub migrations | C# | 299 | MIT License | 2021-10-13 | 2024-06-27 |
+| [automatic-contrib-prs](https://github.com/github/automatic-contrib-prs) | Automatically open a pull request for repositories that have no CONTRIBUTING.md file | Python | 22 | MIT License | 2021-10-15 | 2024-07-01 |
+| [erblint-github](https://github.com/github/erblint-github) | Template style checking for GitHub's Ruby projects | Ruby | 47 | MIT License | 2021-10-19 | 2024-07-01 |
+| [copilot.vim](https://github.com/github/copilot.vim) | Neovim plugin for GitHub Copilot | Vim Script | 7979 | Other | 2021-10-20 | 2024-07-02 |
+| [update-project-action](https://github.com/github/update-project-action) | Updates an item on a GitHub Projects (beta) board based on a workflow dispatch (or other) event's input. | TypeScript | 25 | MIT License | 2021-10-20 | 2024-06-13 |
+| [copilot-docs](https://github.com/github/copilot-docs) | Documentation for GitHub Copilot | None | 23254 | Creative Commons Attribution 4.0 International | 2021-10-23 | 2024-07-02 |
+| [release-radar](https://github.com/github/release-radar) | Repo for submission of projects to consider for the GitHub Release Radar 📡 | None | 293 | Creative Commons Zero v1.0 Universal | 2021-11-12 | 2024-06-14 |
+| [kafka-sink-azure-kusto](https://github.com/github/kafka-sink-azure-kusto) | Kafka sink for Kusto | None | 2 | MIT License | 2021-11-23 | 2024-06-13 |
+| [gh-migration-analyzer](https://github.com/github/gh-migration-analyzer) | None | JavaScript | 63 | MIT License | 2021-12-10 | 2024-06-13 |
+| [osv-schema](https://github.com/github/osv-schema) | Open Source Vulnerability schema.  | Python | 4 | Apache License 2.0 | 2021-12-14 | 2024-06-13 |
+| [actions-oidc-gateway-example](https://github.com/github/actions-oidc-gateway-example) | Example of using Actions OIDC token to proxy into a private network | Go | 82 | MIT License | 2022-01-05 | 2024-06-29 |
+| [webpack-bundlesize-compare-action](https://github.com/github/webpack-bundlesize-compare-action) | A github action that outputs bundlesize comparison tables for pull requests | TypeScript | 75 | MIT License | 2022-01-08 | 2024-06-17 |
+| [memcached](https://github.com/github/memcached) | A Ruby interface to the libmemcached C client | None | 3 | Academic Free License v3.0 | 2022-01-27 | 2024-06-13 |
+| [browser-support](https://github.com/github/browser-support) | Polyfills & Capable Browser detection | JavaScript | 122 | MIT License | 2022-02-07 | 2024-06-18 |
+| [advisory-database](https://github.com/github/advisory-database) | Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software. | None | 1662 | Creative Commons Attribution 4.0 International | 2022-02-11 | 2024-07-02 |
+| [gh-valet](https://github.com/github/gh-valet) | Valet helps facilitate the migration of Azure DevOps, CircleCI, GitLab CI, Jenkins, and Travis CI pipelines to GitHub Actions. | C# | 510 | MIT License | 2022-03-15 | 2024-06-26 |
+| [gh-net](https://github.com/github/gh-net) | A network bridge between a Codespace and a local machine. | None | 277 | - | 2022-03-16 | 2024-06-25 |
+| [emergency-pull-request-probot-app](https://github.com/github/emergency-pull-request-probot-app) | Bypass approval and checks in order to merge an emergency change to the main branch with audit controls. | JavaScript | 46 | MIT License | 2022-04-04 | 2024-06-26 |
+| [octoforce-actions](https://github.com/github/octoforce-actions) | A lightweight open-source Salesforce CI/CD template built on the GitHub Actions platform. | Shell | 38 | MIT License | 2022-04-14 | 2024-06-23 |
+| [metrics-exporter-statsd](https://github.com/github/metrics-exporter-statsd) | Statsd metrics exporter for https://github.com/metrics-rs/metrics/ | Rust | 30 | MIT License | 2022-04-14 | 2024-06-13 |
+| [branch-deploy](https://github.com/github/branch-deploy) | Enabling Branch Deployments through IssueOps with GitHub Actions - If you find this project useful, give it a star! ⭐️  | JavaScript | 343 | MIT License | 2022-04-28 | 2024-07-01 |
+| [actions-oidc-debugger](https://github.com/github/actions-oidc-debugger) | An Action for printing OIDC claims in GitHub Actions. | Go | 59 | MIT License | 2022-05-02 | 2024-07-02 |
+| [entitlements-config](https://github.com/github/entitlements-config) | An example of how Entitlements can be configured | Shell | 57 | MIT License | 2022-05-03 | 2024-05-11 |
+| [dependency-submission-toolkit](https://github.com/github/dependency-submission-toolkit) | A TypeScript library for creating dependency snapshots.  | TypeScript | 42 | MIT License | 2022-05-11 | 2024-06-13 |
+| [request-marketplace-action](https://github.com/github/request-marketplace-action) | Actions workflows to help organizations manage the process of users requesting to use GitHub Actions from Marketplace and approving or denying such requests within an organization. | Dockerfile | 22 | Other | 2022-05-23 | 2024-06-26 |
+| [hackerone-client](https://github.com/github/hackerone-client) | An unofficial wrapper for the HackerOne API | Ruby | 12 | MIT License | 2022-05-25 | 2024-06-13 |
+| [entitlements-gitrepo-auditor-plugin](https://github.com/github/entitlements-gitrepo-auditor-plugin) | Entitlements plugin for a robust audit log | Ruby | 18 | MIT License | 2022-06-07 | 2024-06-21 |
+| [entitlements-github-plugin](https://github.com/github/entitlements-github-plugin) | Entitlements plugin to manage GitHub Orgs and Team memberships and access | Ruby | 20 | MIT License | 2022-06-07 | 2024-06-25 |
+| [entitlements-app](https://github.com/github/entitlements-app) | The Ruby Gem that Powers Entitlements - GitHub's Identity and Access Management System | Ruby | 406 | MIT License | 2022-06-07 | 2024-06-17 |
+| [codespaces-rails](https://github.com/github/codespaces-rails) | None | Ruby | 101 | MIT License | 2022-06-08 | 2024-06-18 |
+| [codespaces-react](https://github.com/github/codespaces-react) | None | JavaScript | 336 | MIT License | 2022-06-08 | 2024-06-27 |
+| [codespaces-jupyter](https://github.com/github/codespaces-jupyter) | Explore machine learning and data science with Codespaces | Jupyter Notebook | 555 | MIT License | 2022-06-08 | 2024-06-30 |
+| [DPG-guidance](https://github.com/github/DPG-guidance) | Repo for guidance on how to use GitHub for digital public goods (DPGs) | None | 2 | MIT License | 2022-06-27 | 2024-06-13 |
+| [codeql-coding-standards](https://github.com/github/codeql-coding-standards) | This repository contains CodeQL queries and libraries which support various Coding Standards. | CodeQL | 110 | MIT License | 2022-07-12 | 2024-06-27 |
+| [gh-ado2gh](https://github.com/github/gh-ado2gh) | Migration CLI for Azure DevOps to GitHub migrations | None | 14 | - | 2022-07-14 | 2024-06-13 |
+| [gh-bbs2gh](https://github.com/github/gh-bbs2gh) | Migration CLI for BitBucket Server to GitHub migrations | None | 6 | - | 2022-07-14 | 2024-06-13 |
+| [markdownlint-github](https://github.com/github/markdownlint-github) | An opinionated collection of markdownlint rules used by GitHub. | JavaScript | 70 | MIT License | 2022-07-28 | 2024-06-25 |
+| [codespaces-getting-started-ml](https://github.com/github/codespaces-getting-started-ml) | Simple image classifier that introduces machine learning with Codespaces | Jupyter Notebook | 19 | MIT License | 2022-08-08 | 2024-06-13 |
+| [mona-sans](https://github.com/github/mona-sans) | Mona Sans, a variable font from GitHub | None | 3560 | SIL Open Font License 1.1 | 2022-08-15 | 2024-07-01 |
+| [rubocop-rails-accessibility](https://github.com/github/rubocop-rails-accessibility) | This repository provides recommended RuboCop configuration and additional accessibility RuboCop Rails cops for use on open source and internal Rails projects. | Ruby | 24 | MIT License | 2022-08-16 | 2024-07-01 |
+| [codespaces-blank](https://github.com/github/codespaces-blank) | None | None | 274 | - | 2022-08-16 | 2024-06-29 |
+| [hubot-sans](https://github.com/github/hubot-sans) | Hubot Sans, a variable font from GitHub | None | 1804 | Other | 2022-08-22 | 2024-06-26 |
+| [go-spdx](https://github.com/github/go-spdx) | Golang implementation of a checker for determining if an SPDX ID satisfies an SPDX Expression. | Go | 29 | MIT License | 2022-08-24 | 2024-06-18 |
+| [codespaces-django](https://github.com/github/codespaces-django) | None | Python | 98 | - | 2022-09-06 | 2024-06-13 |
+| [codespaces-nextjs](https://github.com/github/codespaces-nextjs) | None | JavaScript | 112 | - | 2022-09-06 | 2024-06-27 |
+| [codespaces-express](https://github.com/github/codespaces-express) | None | JavaScript | 46 | - | 2022-09-06 | 2024-06-27 |
+| [codespaces-flask](https://github.com/github/codespaces-flask) | None | CSS | 82 | - | 2022-09-07 | 2024-06-13 |
+| [codespaces-codeql](https://github.com/github/codespaces-codeql) | Get to know more about the concepts of CodeQL by trying our simple tutorials. | Shell | 34 | MIT License | 2022-09-20 | 2024-05-23 |
+| [spokes-receive-pack](https://github.com/github/spokes-receive-pack) | Replacement for git-receive-pack, included with gitrpcd for distribution | Go | 26 | GNU General Public License v2.0 | 2022-09-21 | 2024-06-13 |
+| [privileged-requester](https://github.com/github/privileged-requester) | Privileged Requester Action | JavaScript | 15 | MIT License | 2022-10-04 | 2024-06-25 |
+| [Research-Panel-Sweepstakes](https://github.com/github/Research-Panel-Sweepstakes) | None | None | 13 | - | 2022-10-10 | 2024-06-13 |
+| [browserslist-config](https://github.com/github/browserslist-config) | The GitHub browserslist config | JavaScript | 30 | MIT License | 2022-10-11 | 2024-06-13 |
+| [Pac-tocat](https://github.com/github/Pac-tocat) | PacMan game starring the lovable GitHub octocat mascot | JavaScript | 5 | MIT License | 2022-10-12 | 2024-06-17 |
+| [codespaces-jetbrains-feedback](https://github.com/github/codespaces-jetbrains-feedback) | Feedback on the Codespaces integration with JetBrains IDEs | None | 30 | Apache License 2.0 | 2022-10-17 | 2024-06-13 |
+| [codespaces-preact](https://github.com/github/codespaces-preact) | None | JavaScript | 71 | MIT License | 2022-10-24 | 2024-06-26 |
+| [lock](https://github.com/github/lock) | Lock Action to support deployment locking for the branch-deploy Action | JavaScript | 25 | MIT License | 2022-10-31 | 2024-06-13 |
+| [gh-actions-importer](https://github.com/github/gh-actions-importer) | GitHub Actions Importer helps you plan and automate the migration of Azure DevOps, Bamboo, Bitbucket, CircleCI, GitLab, Jenkins, and Travis CI pipelines to GitHub Actions. | C# | 966 | MIT License | 2022-10-31 | 2024-06-30 |
+| [go-pipe](https://github.com/github/go-pipe) | A package used to easily build command pipelines in your Go applications | Go | 46 | MIT License | 2022-11-04 | 2024-06-15 |
+| [government-open-source-policies](https://github.com/github/government-open-source-policies) | Dataset of Government Open Source Policies | Python | 68 | Creative Commons Attribution 4.0 International | 2022-12-16 | 2024-06-18 |
+| [curated-data](https://github.com/github/curated-data) | Contains curations submitted by the community | JavaScript | 10 | Creative Commons Zero v1.0 Universal | 2022-12-16 | 2024-06-13 |
+| [gh-projects](https://github.com/github/gh-projects) | gh-projects | Go | 87 | MIT License | 2022-12-29 | 2024-06-13 |
+| [combine-prs](https://github.com/github/combine-prs) | GitHub Action to combine multiple PRs into a single one | JavaScript | 105 | MIT License | 2023-01-26 | 2024-07-01 |
+| [pets-workshop](https://github.com/github/pets-workshop) | Workshop and getting started content for organizations using GitHub for Startups | JavaScript | 39 | MIT License | 2023-02-02 | 2024-06-25 |
+| [codespaces-learn-with-me](https://github.com/github/codespaces-learn-with-me) | This is a Codespaces React template that leverages a Code Tour to guide beginners through writing their first lines of React. | JavaScript | 47 | MIT License | 2023-02-07 | 2024-06-13 |
+| [codespaces-actions-playground](https://github.com/github/codespaces-actions-playground) | None | HTML | 192 | MIT License | 2023-02-09 | 2024-06-13 |
+| [transparency](https://github.com/github/transparency) | Structured data files for topics covered by GitHub's Transparency Report | Python | 20 | Creative Commons Attribution 4.0 International | 2023-02-13 | 2024-06-18 |
+| [GitHub-for-Startups-HQ](https://github.com/github/GitHub-for-Startups-HQ) | GitHub for Startups HQ | None | 32 | - | 2023-02-15 | 2024-06-15 |
+| [github-ospo](https://github.com/github/github-ospo) | Helping open source program offices get started | None | 634 | MIT License | 2023-03-01 | 2024-07-01 |
+| [turbo](https://github.com/github/turbo) | The speed of a single-page web application without having to write any JavaScript | TypeScript | 12 | MIT License | 2023-03-09 | 2024-06-13 |
+| [copilot-survey-engine](https://github.com/github/copilot-survey-engine) | Engine for prompting users to take a survey about Copilot | JavaScript | 37 | MIT License | 2023-03-13 | 2024-06-24 |
+| [copilot-codespaces-demo](https://github.com/github/copilot-codespaces-demo) | Welcome to the Copilot + Codespaces Demo Experience! | Python | 59 | MIT License | 2023-03-15 | 2024-06-13 |
+| [gh-classroom](https://github.com/github/gh-classroom) | GitHub Classroom CLI Extension is a powerful and easy-to-use command line tool that enhances the functionality of the GitHub CLI, specifically tailored for educators using GitHub Classroom.  | Go | 75 | MIT License | 2023-03-15 | 2024-06-13 |
+| [vscode-github-actions](https://github.com/github/vscode-github-actions) | GitHub Actions extension for VS Code | TypeScript | 468 | MIT License | 2023-03-20 | 2024-07-01 |
+| [github-app-js-sample](https://github.com/github/github-app-js-sample) | Sample of a GitHub App that comments new pull requests | JavaScript | 100 | MIT License | 2023-03-28 | 2024-06-27 |
+| [accessibility-alt-text-bot](https://github.com/github/accessibility-alt-text-bot) | An action to remind users to add alt text on Issues, Pull Requests, and Discussions | JavaScript | 72 | MIT License | 2023-04-24 | 2024-06-13 |
+| [super-linter](https://github.com/github/super-linter) | Combination of multiple linters to install as a GitHub Action | Shell | 94 | MIT License | 2023-04-26 | 2024-06-18 |
+| [brasil](https://github.com/github/brasil) | Recursos e informações do GitHub para a comunidade de desenvolvedores no Brasil. | Ruby | 472 | MIT License | 2023-04-28 | 2024-07-01 |
+| [stale-repos](https://github.com/github/stale-repos) | Find stale repositories in a GitHub organization. | Python | 122 | MIT License | 2023-05-18 | 2024-07-01 |
+| [release-assets](https://github.com/github/release-assets) | This repository is used to manage assets related to releases in github/releases | None | 10 | - | 2023-05-31 | 2024-06-13 |
+| [issue-metrics](https://github.com/github/issue-metrics) | Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc. | Python | 368 | MIT License | 2023-06-01 | 2024-07-02 |
+| [open-data-on-github](https://github.com/github/open-data-on-github) | Dataset files for the Open Data on GitHub paper | Python | 24 | Other | 2023-06-09 | 2024-06-18 |
+| [canvas-lms](https://github.com/github/canvas-lms) | The open LMS by Instructure, Inc. | Ruby | 30 | GNU Affero General Public License v3.0 | 2023-06-21 | 2024-06-13 |
+| [twirp-rs](https://github.com/github/twirp-rs) | Twirp RPC for Rust | Rust | 19 | MIT License | 2023-06-23 | 2024-06-13 |
+| [command](https://github.com/github/command) | IssueOps commands in GitHub Actions | JavaScript | 76 | MIT License | 2023-07-07 | 2024-06-13 |
+| [KustoSchemaTools](https://github.com/github/KustoSchemaTools) | This repository contains C# code to synchronize database schemas from Azure Data Explorer (Kusto) to yaml files and back. | C# | 9 | - | 2023-08-01 | 2024-06-20 |
+| [KustoSchemaToolsAction](https://github.com/github/KustoSchemaToolsAction) | This repository wraps the KustoSchemaTools into a CLI tool inside a container. This way it can be used as GitHub Action | C# | 8 | MIT License | 2023-08-01 | 2024-06-13 |
+| [ruleset-recipes](https://github.com/github/ruleset-recipes) | Quickstart your use of Repository Rules with prebuilt rulesets ready to import.  | None | 86 | MIT License | 2023-08-18 | 2024-06-29 |
+| [forgoodfirstissue](https://github.com/github/forgoodfirstissue) | Find your first issue for good to contribute to | TypeScript | 51 | MIT License | 2023-09-12 | 2024-06-17 |
+| [gh-es](https://github.com/github/gh-es) | GitHub's official command line tool for Enterprise Server | None | 9 | MIT License | 2023-09-13 | 2024-06-13 |
+| [innovationgraph](https://github.com/github/innovationgraph) | GitHub Innovation Graph | Python | 337 | Creative Commons Zero v1.0 Universal | 2023-09-14 | 2024-06-21 |
+| [how-engineering-communicates](https://github.com/github/how-engineering-communicates) | A community version of the "common API" for how the GitHub Engineering organization communicates | None | 462 | Creative Commons Attribution 4.0 International | 2023-09-18 | 2024-06-26 |
+| [actions-learning-pathway](https://github.com/github/actions-learning-pathway) | Learning pathway resources for building, testing, and deploying a GitHub Action to GitHub Pages. | CSS | 62 | MIT License | 2023-09-20 | 2024-06-24 |
+| [dotnet-codespaces](https://github.com/github/dotnet-codespaces) | None | HTML | 85 | - | 2023-09-26 | 2024-06-27 |
+| [gh-autofix](https://github.com/github/gh-autofix) | gh cli extension for interacting with code scanning autofixes | None | 6 | MIT License | 2023-09-29 | 2024-06-16 |
+| [copilot-hack](https://github.com/github/copilot-hack) | Open form hack for GitHub Copilot | Jupyter Notebook | 20 | MIT License | 2023-09-29 | 2024-06-27 |
+| [contributors](https://github.com/github/contributors) | GitHub Action that given an organization or repository, produces information about the contributors over the specified time period. | Python | 79 | MIT License | 2023-10-02 | 2024-07-01 |
+| [rust-gems](https://github.com/github/rust-gems) | A collection of rust algorithms and data structures | Rust | 8 | MIT License | 2023-10-11 | 2024-06-17 |
+| [form-templates](https://github.com/github/form-templates) | Public Form Templates to get your project started | None | 15 | MIT License | 2023-10-12 | 2024-06-24 |
+| [gh-copilot](https://github.com/github/gh-copilot) | Ask for assistance right in your terminal. | None | 611 | - | 2023-10-26 | 2024-07-01 |
+| [local-action](https://github.com/github/local-action) | A simple utility for running and debugging a GitHub Action locally | TypeScript | 59 | MIT License | 2023-10-26 | 2024-07-02 |
+| [codespaces-host-images](https://github.com/github/codespaces-host-images) | Codespaces Host Images | None | 20 | MIT License | 2023-10-31 | 2024-06-13 |
+| [redacting-logger](https://github.com/github/redacting-logger) | A redacting Ruby logger to prevent the leaking of secrets via logs | Ruby | 6 | MIT License | 2023-11-13 | 2024-06-25 |
+| [evergreen](https://github.com/github/evergreen) | GitHub Action to enable automated security updates and open a issue/PR in repos in an org that have dependency files but no dependabot.yaml file | Python | 159 | MIT License | 2023-12-13 | 2024-07-01 |
+| [github-event-mirror-azure-function](https://github.com/github/github-event-mirror-azure-function) | Mirror GitHub events back to their originating repo to trigger Actions workflows, using this Azure Function | TypeScript | 3 | MIT License | 2023-12-19 | 2024-06-13 |
+| [cleanowners](https://github.com/github/cleanowners) | A GitHub Action to suggest removal of non-organization members from CODEOWNERS files | Python | 101 | MIT License | 2024-01-30 | 2024-07-01 |
+| [policy-controller](https://github.com/github/policy-controller) | Temporary GitHub managed Sigstore Policy Controller fork | Go | 1 | Apache License 2.0 | 2024-02-27 | 2024-06-26 |
+| [generate-dependabot-glob-action](https://github.com/github/generate-dependabot-glob-action) | Generates a `dependabot.yml` and PRs it against your repo if it needs updating to include a new directory or package-ecosystem, with globs/wildcards | JavaScript | 1 | - | 2024-05-01 | 2024-06-13 |
+| [code-navigation](https://github.com/github/code-navigation) | Public documentation about GitHub's code navigation system | None | 2 | MIT License | 2024-05-16 | 2024-06-20 |
+| [simplebox](https://github.com/github/simplebox) | Package simplebox provides a simple, easy-to-use cryptographic API where all of the hard decisions have been made for you in advance. | Go | 1 | MIT License | 2024-05-17 | 2024-06-13 |
+| [artifact-attestations-workflows](https://github.com/github/artifact-attestations-workflows) | Demo repository showcasing how to use reusable workflows to build artifact attestations | Python | 2 | Creative Commons Zero v1.0 Universal | 2024-05-22 | 2024-07-01 |
+| [artifact-attestations-helm-charts](https://github.com/github/artifact-attestations-helm-charts) | Helm charts for verifying artifact attestations in Kubernetes | Smarty | 3 | Apache License 2.0 | 2024-05-29 | 2024-06-26 |
 | [HealthVault-Mobile-iOS-Library](https://github.com/microsoft/HealthVault-Mobile-iOS-Library) | The HealthVault team has recently added the capability to write applications that will run on Mobile Devices and connect directly to the HealthVault Service. HealthVault iOS library enables developers to write iOS applications which interact with a user's personally controlled health record. The “go live” process to deploy an application against the production HealthVault service can be found at http://msdn.microsoft.com/en-us/healthvault/bb962148. Information about the API that the HealthVault service exposes can be in the documentation in HealthVault .NET SDK. | Objective-C | 41 | - | 2011-06-21 | 2023-05-17 |
 | [BeanSpy](https://github.com/microsoft/BeanSpy) | BeanSpy is an open source Java servlet technology provided by Microsoft to retrieve JMX information from Java EE application servers | Java | 23 | Other | 2012-01-02 | 2024-03-31 |
 | [healthvault-ios-sdk](https://github.com/microsoft/healthvault-ios-sdk) | This library is used for the HealthVault for iPhone app. Ongoing updates & bug fixes | C | 27 | Other | 2012-04-17 | 2023-07-08 |

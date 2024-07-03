@@ -601,7 +601,7 @@
 | [go-tspi](https://github.com/google/go-tspi) | TSPI bindings for golang | Go | 61 | Apache License 2.0 | 2015-11-10 | 2024-04-27 |
 | [breadboard](https://github.com/google/breadboard) | C++ graph based event system | C++ | 118 | Apache License 2.0 | 2015-11-11 | 2024-06-04 |
 | [corgi](https://github.com/google/corgi) | C++ entity-component system | C++ | 247 | Apache License 2.0 | 2015-11-11 | 2024-05-25 |
-| [image-compression](https://github.com/google/image-compression) | None | C++ | 75 | Apache License 2.0 | 2015-11-13 | 2023-03-29 |
+| [image-compression](https://github.com/google/image-compression) | None | C++ | 76 | Apache License 2.0 | 2015-11-13 | 2024-07-02 |
 | [python-subprocess32](https://github.com/google/python-subprocess32) | A backport of the Python 3 subprocess module for use on Python 2. | Python | 169 | Other | 2015-11-13 | 2024-06-28 |
 | [closure-compiler-npm](https://github.com/google/closure-compiler-npm) | Package for managing and documenting closure-compiler for use via npm | JavaScript | 329 | Apache License 2.0 | 2015-11-16 | 2024-06-27 |
 | [s2geometry](https://github.com/google/s2geometry) | Computational geometry and spatial indexing on the sphere | C++ | 2226 | Apache License 2.0 | 2015-11-16 | 2024-06-30 |
@@ -2496,7 +2496,7 @@
 | [avatar](https://github.com/google/avatar) | None | Python | 18 | Apache License 2.0 | 2023-05-08 | 2024-06-11 |
 | [cro3](https://github.com/google/cro3) | Abstraction Layer of ChromiumOS development | Rust | 36 | BSD 3-Clause "New" or "Revised" License | 2023-05-12 | 2024-06-25 |
 | [navi](https://github.com/google/navi) | None | Jupyter Notebook | 43 | Apache License 2.0 | 2023-05-12 | 2024-05-07 |
-| [permhash](https://github.com/google/permhash) | None | Python | 41 | Apache License 2.0 | 2023-05-15 | 2024-03-10 |
+| [permhash](https://github.com/google/permhash) | None | Python | 42 | Apache License 2.0 | 2023-05-15 | 2024-07-02 |
 | [dataflow-ml-starter](https://github.com/google/dataflow-ml-starter) | None | Python | 20 | Apache License 2.0 | 2023-05-16 | 2024-06-20 |
 | [receipts-to-riches-part2](https://github.com/google/receipts-to-riches-part2) | None | C# | 1 | Apache License 2.0 | 2023-05-17 | 2023-05-19 |
 | [takeout](https://github.com/google/takeout) | None | None | 8 | Apache License 2.0 | 2023-05-18 | 2024-01-09 |
