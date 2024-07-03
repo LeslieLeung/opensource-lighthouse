@@ -2,8 +2,10 @@ name: Check Do Not Merge
 
 on:
   pull_request:
-    branches:
-      - main
+    types:
+      - opened
+      - labeled
+      - unlabeled
 
 jobs:
   fail-for-do-not-merge:
