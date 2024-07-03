@@ -1,0 +1,16 @@
+name: Check Do Not Merge
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  fail-for-do-not-merge:
+    if: contains(github.event.pull_request.labels.*.name, 'do not merge')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fail if PR is labeled with do not merge
+        run: |
+          echo "This PR can't be merged, due to the 'do not merge' label."
+          exit 1
