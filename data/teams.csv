@@ -7,6 +7,10 @@ apple,Apple
 boeing,Boeing
 bufbuild,Buf
 cncf,Cloud Native Computing Foundation (CNCF)
+knative,Cloud Native Computing Foundation (CNCF)
+kubernetes,Cloud Native Computing Foundation (CNCF)
+kubernetes-client,Cloud Native Computing Foundation (CNCF)
+kubernetes-sigs,Cloud Native Computing Foundation (CNCF)
 cloudflare,Cloudflare
 datawhalechina,Datawhale
 docker,Docker
@@ -75,10 +79,6 @@ googlevr,Google
 googleworkspace,Google
 istio,Google
 k8s-at-home,Google
-knative,Google
-kubernetes,Google
-kubernetes-client,Google
-kubernetes-sigs,Google
 tensorflow,Google
 grafana,Grafana Labs
 hashicorp,HashiCorp
