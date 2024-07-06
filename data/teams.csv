@@ -7,11 +7,79 @@ apple,Apple
 boeing,Boeing
 bufbuild,Buf
 cncf,Cloud Native Computing Foundation (CNCF)
+knative,Cloud Native Computing Foundation (CNCF)
+kubernetes,Cloud Native Computing Foundation (CNCF)
+kubernetes-client,Cloud Native Computing Foundation (CNCF)
+kubernetes-sigs,Cloud Native Computing Foundation (CNCF)
 cloudflare,Cloudflare
 datawhalechina,Datawhale
 docker,Docker
+GerritCodeReview,Google
+Google-Autofuzz,Google
+Google-Developers-Sohag,Google
+Google-Health,Google
+GoogleChrome,Google
+GoogleChromeLabs,Google
+GoogleCloudBuild,Google
+GoogleCloudDataproc,Google
+GoogleCloudPlatform,Google
+GoogleCloudPlatformTraining,Google
+GoogleCodeExporter,Google
+GoogleContainerTools,Google
+GoogleTrends,Google
+GoogleWebComponents,Google
+Googlers-Repo,Google
+actions-on-google,Google
+android,Google
+angular,Google
+bazelbuild,Google
+chromium,Google
+dart-lang,Google
+firebase,Google
+flutter,Google
+gerrit-review,Google
+golang,Google
 google,Google
+google-admin,Google
+google-ai-edge,Google
+google-ar,Google
+google-coral,Google
+google-deepmind,Google
+google-developer-training,Google
+google-gemini,Google
+google-github-actions,Google
+google-home,Google
+google-marketing-solutions,Google
+google-pay,Google
 google-research,Google
+google-research-datasets,Google
+google-wallet,Google
+googleads,Google
+googleanalytics,Google
+googleapis,Google
+googleapis-publisher,Google
+googlearchive,Google
+googlebaba,Google
+googlebot,Google
+googlecast,Google
+googlecodelabs,Google
+googlecolab,Google
+googlecreativelab,Google
+googledatastudio,Google
+googlefonts,Google
+googleforgames,Google
+googlegenomics,Google
+googleinterns,Google
+googlemaps,Google
+googlemaps-samples,Google
+googleprojectzero,Google
+googlers,Google
+googlesamples,Google
+googlevr,Google
+googleworkspace,Google
+istio,Google
+k8s-at-home,Google
+tensorflow,Google
 grafana,Grafana Labs
 hashicorp,HashiCorp
 huggingface,Hugging Face
