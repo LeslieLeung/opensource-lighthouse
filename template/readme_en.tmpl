@@ -1,0 +1,49 @@
+# opensource-lighthouse
+
+[简体中文](README.md) | English
+
+A comprehensive summary of open-source teams and projects from various "big companies".
+
+## Vision
+
+- Help everyone understand the participation of major companies in the open-source community and provide an integration of good projects.
+- Promote more investment from domestic "big companies" in open source, contributing more projects that can become "mainstream" and "international".
+
+## Statistics
+
+A total of {{ total_repos }} projects, {{ total_companies }} companies, and {{ total_teams }} teams.
+
+> [!TIP] 
+> You can click on the company name to view project details.
+
+| Company | Number of Teams | Number of Projects | Number of Active Projects in the Last Six Months | Total Stars | Top 3 Languages |
+| --- | --- | --- | --- | --- | --- |
+{% for company in companies -%}
+| [{{ company.name }}](page/{{ company.name|replace(" ", "%20") }}.md) | {{ company.stats.total_teams }} | {{ company.stats.total_projects }} | {{ company.stats.active_projects }} | {{ company.stats.total_stars }} | {{ company.stats.top_3_languages }} |
+{% endfor %}
+
+Statistics Date: {{ time }}
+
+## Teams
+
+| Team | Company |
+| --- | --- |
+{% for team in teams -%}
+| [{{ team.name }}](https://github.com/{{ team.name }}) | {{ team.company }} |
+{% endfor %}
+
+## Roadmap
+
+- [x] Collect team accounts from major companies at home and abroad, pull their repos, and display them through markdown, etc.
+- [ ] Create a frontend website with search and other functions
+- [ ] Provide user feedback function, automate the inclusion of new companies/teams/projects
+- [ ] Add leaderboard function to display new/trending projects
+- [ ] Add data statistics function to analyze the technology stacks of various companies and compare them across companies
+
+## Contribution
+
+If you know more corresponding companies and open-source teams, feel free to add them under this [issue](https://github.com/LeslieLeung/opensource-lighthouse/issues/2).
+
+## Acknowledgement
+
+Project inspiration from: [niezhiyang/open_source_team](https://github.com/niezhiyang/open_source_team)

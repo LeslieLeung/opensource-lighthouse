@@ -1,5 +1,7 @@
 # opensource-lighthouse
 
+简体中文 | [English](README_en.md)
+
 汇总统计各「大厂」的开源团队和项目。
 
 ## 愿景
@@ -60,9 +62,9 @@
 | [携程](page/携程.md) | 1 | 49 | 26 | 11213 | Java, JavaScript, C |
 | [斗鱼](page/斗鱼.md) | 1 | 10 | 5 | 4984 | Go, JavaScript, Shell |
 | [新浪微博](page/新浪微博.md) | 1 | 21 | 13 | 9407 | Java, Go, C |
-| [极光开发者](page/极光开发者.md) | 1 | 91 | 36 | 13665 | Objective-C, Java, JavaScript |
+| [极光开发者](page/极光开发者.md) | 1 | 91 | 36 | 13665 | Objective-C, Java, Python |
 | [深度求索](page/深度求索.md) | 1 | 11 | 11 | 17399 | Python, Makefile |
-| [清华大学](page/清华大学.md) | 2 | 140 | 116 | 136045 | Python, HTML, C++ |
+| [清华大学](page/清华大学.md) | 2 | 140 | 116 | 136045 | Python, HTML, Verilog |
 | [滴滴](page/滴滴.md) | 2 | 103 | 71 | 104667 | JavaScript, Java, Go |
 | [爱奇艺](page/爱奇艺.md) | 1 | 19 | 15 | 19921 | Java, C, Python |
 | [环信](page/环信.md) | 1 | 147 | 52 | 3431 | Java, Objective-C, Erlang |
@@ -78,7 +80,7 @@
 | [饿了么](page/饿了么.md) | 2 | 94 | 45 | 124689 | JavaScript, Vue, Python |
 
 
-数据统计时间：2024-07-07 08:06:16
+数据统计时间：2024-07-07 21:59:18
 
 ## 团队
 

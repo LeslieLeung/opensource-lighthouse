@@ -4,7 +4,7 @@
 
 语言 Top 3：C++, JavaScript, Python
 
-统计时间：2024-07-07 08:06:16
+统计时间：2024-07-07 21:59:18
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -21,7 +21,7 @@
 | [react](https://github.com/facebook/react) | The library for web and native user interfaces. | JavaScript | 225019 | MIT License | 2013-05-24 | 2024-07-07 |
 | [fbthrift](https://github.com/facebook/fbthrift) | Facebook's branch of Apache Thrift, including a new C++ server. | C++ | 2549 | Apache License 2.0 | 2013-07-02 | 2024-07-06 |
 | [fishhook](https://github.com/facebook/fishhook) | A library that enables dynamically rebinding symbols in Mach-O binaries running on iOS. | C | 5143 | BSD 3-Clause "New" or "Revised" License | 2013-07-11 | 2024-07-06 |
-| [react-devtools](https://github.com/facebook/react-devtools) | An extension that allows inspection of React component hierarchy in the Chrome and Firefox Developer Tools. | None | 11036 | Other | 2013-09-04 | 2024-07-03 |
+| [react-devtools](https://github.com/facebook/react-devtools) | An extension that allows inspection of React component hierarchy in the Chrome and Firefox Developer Tools. | nan | 11036 | Other | 2013-09-04 | 2024-07-03 |
 | [regenerator](https://github.com/facebook/regenerator) | Source transformer enabling ECMAScript 6 generator functions in JavaScript-of-today. | JavaScript | 3811 | MIT License | 2013-10-05 | 2024-07-04 |
 | [mcrouter](https://github.com/facebook/mcrouter) | Mcrouter is a memcached protocol router for scaling memcached deployments. | C++ | 3236 | MIT License | 2014-01-24 | 2024-07-05 |
 | [chisel](https://github.com/facebook/chisel) | Chisel is a collection of LLDB commands to assist debugging iOS apps. | Python | 9097 | MIT License | 2014-02-21 | 2024-07-05 |
@@ -96,7 +96,7 @@ Software for controlling network switches. | C++ | 854 | Other | 2015-03-09 | 20
 | [kuduraft](https://github.com/facebook/kuduraft) | A Raft Library in C++ based on the Raft implementation in Apache Kudu | C++ | 115 | Apache License 2.0 | 2019-01-03 | 2024-07-04 |
 | [facebook-business-sdk-codegen](https://github.com/facebook/facebook-business-sdk-codegen) | Codegen project for our business SDKs | PHP | 82 | MIT License | 2019-01-26 | 2024-07-02 |
 | [Ax](https://github.com/facebook/Ax) | Adaptive Experimentation Platform | Python | 2307 | MIT License | 2019-02-09 | 2024-07-05 |
-| [.github](https://github.com/facebook/.github) | Default Community health files for Facebook projects | None | 15 | - | 2019-02-25 | 2024-04-02 |
+| [.github](https://github.com/facebook/.github) | Default Community health files for Facebook projects | nan | 15 | - | 2019-02-25 | 2024-04-02 |
 | [openbmc-uboot](https://github.com/facebook/openbmc-uboot) | Tracking Denx Das u-boot with various trusted computing add-ons. | C | 21 | - | 2019-04-30 | 2024-06-25 |
 | [facebook360_dep](https://github.com/facebook/facebook360_dep) | Facebook360 Depth Estimation Pipeline - https://facebook.github.io/facebook360_dep | HTML | 243 | Other | 2019-08-27 | 2024-05-23 |
 | [ktfmt](https://github.com/facebook/ktfmt) | A program that reformats Kotlin source code to comply with the common community standard for Kotlin code conventions. | Kotlin | 860 | Apache License 2.0 | 2019-10-29 | 2024-07-06 |
@@ -115,9 +115,9 @@ Software for controlling network switches. | C++ | 854 | Other | 2015-03-09 | 20
 | [hyperion](https://github.com/facebook/hyperion) | This project enabled intercepting and virtualizing the browser API | TypeScript | 30 | MIT License | 2021-07-09 | 2024-07-04 |
 | [voprf](https://github.com/facebook/voprf) | An implementation of a verifiable oblivious pseudorandom function (RFC 9497) | Rust | 43 | Apache License 2.0 | 2021-09-02 | 2024-06-28 |
 | [netconsd](https://github.com/facebook/netconsd) | Receive and process logs from the Linux kernel. | C | 48 | BSD 3-Clause "New" or "Revised" License | 2021-09-08 | 2024-06-28 |
-| [pyre-action](https://github.com/facebook/pyre-action) | GitHub Action for Pyre | None | 17 | MIT License | 2021-10-12 | 2024-04-24 |
+| [pyre-action](https://github.com/facebook/pyre-action) | GitHub Action for Pyre | nan | 17 | MIT License | 2021-10-12 | 2024-04-24 |
 | [buck2](https://github.com/facebook/buck2) | Build system, successor to Buck | Rust | 3388 | Apache License 2.0 | 2022-01-21 | 2024-07-07 |
-| [pysa-action](https://github.com/facebook/pysa-action) | GitHub Action for Pysa | None | 16 | MIT License | 2022-03-08 | 2024-04-15 |
+| [pysa-action](https://github.com/facebook/pysa-action) | GitHub Action for Pysa | nan | 16 | MIT License | 2022-03-08 | 2024-04-15 |
 | [memlab](https://github.com/facebook/memlab) | A framework for finding JavaScript memory leaks and analyzing heap snapshots | TypeScript | 4279 | MIT License | 2022-05-26 | 2024-07-06 |
 | [lr-with-bins](https://github.com/facebook/lr-with-bins) | An experimental first-stage model used for quick and efficient inference on part of the data. | Jupyter Notebook | 14 | MIT License | 2022-08-22 | 2024-04-15 |
 | [threat-research](https://github.com/facebook/threat-research) | Welcome to the Meta Threat Research Indicator Repository, a dedicated resource for the sharing of Indicators of Compromise (IOCs) and other threat indicators with the external research community | Python | 137 | MIT License | 2022-08-25 | 2024-07-06 |
@@ -128,22 +128,22 @@ Software for controlling network switches. | C++ | 854 | Other | 2015-03-09 | 20
 | [ocamlrep](https://github.com/facebook/ocamlrep) | Sets of libraries and tools to write applications and libraries mixing OCaml and Rust. These libraries will help keeping your types and data structures synchronized, and enable seamless exchange between OCaml and Rust | Rust | 123 | MIT License | 2022-12-13 | 2024-07-01 |
 | [glTF](https://github.com/facebook/glTF) | glTF – Runtime 3D Asset Delivery | HTML | 3 | Other | 2023-01-25 | 2024-06-18 |
 | [bpfilter](https://github.com/facebook/bpfilter) | BPF-based packet filtering framework | C | 118 | GNU General Public License v2.0 | 2023-02-20 | 2024-07-06 |
-| [Conversion-Leads-Salesforce-APEX](https://github.com/facebook/Conversion-Leads-Salesforce-APEX) | Setup Conversion Leads API integration using Salesforce APEX triggers on Lead objects | None | 19 | MIT License | 2023-03-14 | 2024-04-15 |
+| [Conversion-Leads-Salesforce-APEX](https://github.com/facebook/Conversion-Leads-Salesforce-APEX) | Setup Conversion Leads API integration using Salesforce APEX triggers on Lead objects | nan | 19 | MIT License | 2023-03-14 | 2024-04-15 |
 | [lexical-ios](https://github.com/facebook/lexical-ios) | Lexical iOS is an extensible text editor framework that integrates the APIs and philosophies from Lexical Web with a Swift API built on top of TextKit. | Swift | 497 | MIT License | 2023-03-20 | 2024-07-05 |
 | [OSM-HOT-Tasking-Manager](https://github.com/facebook/OSM-HOT-Tasking-Manager) | A fork of the HOTOSM Tasking Manager (tasks.hotosm.org) to deploy and test experimental integrations and features. | JavaScript | 8 | BSD 2-Clause "Simplified" License | 2023-04-04 | 2024-04-15 |
-| [react-router-3](https://github.com/facebook/react-router-3) | Fork of https//www.npmjs.com/package/react-router v3.0.5 | None | 7 | MIT License | 2023-05-22 | 2024-04-15 |
-| [SPIRV-Headers](https://github.com/facebook/SPIRV-Headers) | SPIRV-Headers | None | 4 | Other | 2023-06-07 | 2024-04-15 |
-| [SPIRV-Registry](https://github.com/facebook/SPIRV-Registry) | SPIR-V specs | None | 5 | - | 2023-06-26 | 2024-04-15 |
+| [react-router-3](https://github.com/facebook/react-router-3) | Fork of https//www.npmjs.com/package/react-router v3.0.5 | nan | 7 | MIT License | 2023-05-22 | 2024-04-15 |
+| [SPIRV-Headers](https://github.com/facebook/SPIRV-Headers) | SPIRV-Headers | nan | 4 | Other | 2023-06-07 | 2024-04-15 |
+| [SPIRV-Registry](https://github.com/facebook/SPIRV-Registry) | SPIR-V specs | nan | 5 | - | 2023-06-26 | 2024-04-15 |
 | [igl](https://github.com/facebook/igl) | Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and Vulkan). | C++ | 2775 | Other | 2023-07-07 | 2024-07-06 |
 | [ocaml-scripts](https://github.com/facebook/ocaml-scripts) | Set of scripts to help building OCaml projects using buck2. | Python | 9 | MIT License | 2023-07-26 | 2024-07-02 |
 | [bookworm](https://github.com/facebook/bookworm) | Bookworm is a program that gleans context from a Chef/Ruby codebase leveraging RuboCop AST pattern matching | Ruby | 5 | Apache License 2.0 | 2023-08-11 | 2024-04-15 |
 | [gfxreconstruct](https://github.com/facebook/gfxreconstruct) | Graphics API Capture and Replay Tools for Reconstructing Graphics Application Behavior | C++ | 4 | MIT License | 2023-08-31 | 2024-07-01 |
 | [glTF-Sample-Assets](https://github.com/facebook/glTF-Sample-Assets) | To store all models and other assets related to glTF | PHP | 2 | - | 2023-10-06 | 2024-04-15 |
-| [glXF](https://github.com/facebook/glXF) | glTF Experience Format (glXF) | None | 3 | - | 2023-10-06 | 2024-06-07 |
+| [glXF](https://github.com/facebook/glXF) | glTF Experience Format (glXF) | nan | 3 | - | 2023-10-06 | 2024-06-07 |
 | [react-native-cdp-status](https://github.com/facebook/react-native-cdp-status) | Tracks the status of the CDP implementation in Hermes and React Native projects. | TypeScript | 4 | MIT License | 2023-10-18 | 2024-06-17 |
 | [dotslash-publish-release](https://github.com/facebook/dotslash-publish-release) | Create DotSlash files for GitHub releases | Python | 5 | MIT License | 2024-01-24 | 2024-04-15 |
 | [dotslash](https://github.com/facebook/dotslash) | Simplified executable deployment | Rust | 536 | Apache License 2.0 | 2024-02-06 | 2024-07-04 |
-| [Pysa](https://github.com/facebook/Pysa) | Python Static Analyzer | None | 3 | MIT License | 2024-02-13 | 2024-04-15 |
-| [install-dotslash](https://github.com/facebook/install-dotslash) | A simple GitHub Action to install a precompiled dotslash binary | None | 1 | MIT License | 2024-02-15 | 2024-06-11 |
+| [Pysa](https://github.com/facebook/Pysa) | Python Static Analyzer | nan | 3 | MIT License | 2024-02-13 | 2024-04-15 |
+| [install-dotslash](https://github.com/facebook/install-dotslash) | A simple GitHub Action to install a precompiled dotslash binary | nan | 1 | MIT License | 2024-02-15 | 2024-06-11 |
 | [react-strict-dom](https://github.com/facebook/react-strict-dom) | React Strict DOM (RSD) is a subset of React DOM, imperative DOM, and CSS that supports web and native targets | JavaScript | 3021 | MIT License | 2024-02-20 | 2024-07-07 |
 | [zapier-shops-orders](https://github.com/facebook/zapier-shops-orders) | A Zapier integration with Meta Shops orders using the Commerce API (https//developers.facebook.com/docs/commerce-platform/) | TypeScript | 2 | MIT License | 2024-04-22 | 2024-07-01 |

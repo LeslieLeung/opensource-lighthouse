@@ -6,6 +6,7 @@ from github import Auth
 from github.GithubException import UnknownObjectException
 import argparse
 import datetime
+from opensource_lighthouse.render import render_company, render_readme
 
 # create parser
 parser = argparse.ArgumentParser(
@@ -21,6 +22,7 @@ args = parser.parse_args()
 
 path_to_teams = "data/teams.csv"
 path_to_repos = "data/repos.csv"
+render_languages = ["en", "zh"]  # ISO 639-1 codes
 time = pd.Timestamp.now().strftime("%Y-%m-%d %H:%M:%S")
 cutoff_date = datetime.datetime.now() - datetime.timedelta(days=180)
 
@@ -106,9 +108,6 @@ if not args.skip_fetch:
     data_repos.to_csv(path_to_repos, index=False)
 
 # render readme
-env = jinja2.Environment(loader=jinja2.FileSystemLoader("./template"))
-readme_template = env.get_template("readme_zh.tmpl")
-company_template = env.get_template("company_zh.tmpl")
 teams = data_teams.to_dict(orient="records")
 # read from dataframe
 companies = []
@@ -136,14 +135,9 @@ for company, group in data_repos.groupby("company"):
         "active_projects": active_projects,
     }
 
-    o = company_template.render(
-        company_name=company,
-        stat=company_stats,
-        projects=projects,
-        time=time,
-    )
-    with open(f"page/{company}.md", "w") as f:
-        f.write(o)
+    for l in render_languages:
+        render_company(l, company, company_stats, projects, time)
+
     companies.append(
         {"name": company, "projects": projects, "stats": company_stats},
     )
@@ -153,15 +147,5 @@ total_repos = data_repos.shape[0]
 total_companies = len(companies)
 total_teams = len(teams)
 
-output = readme_template.render(
-    total_repos=total_repos,
-    total_companies=total_companies,
-    total_teams=total_teams,
-    time=time,
-    teams=teams,
-    companies=companies,
-)
-
-# write to file
-with open("README.md", "w") as f:
-    f.write(output)
+for l in render_languages:
+    render_readme(l, total_repos, total_companies, total_teams, time, teams, companies)
