@@ -23,6 +23,8 @@ args = parser.parse_args()
 path_to_teams = "data/teams.csv"
 path_to_repos = "data/repos.csv"
 render_languages = ["en", "zh"]  # ISO 639-1 codes
+path_to_company_stats = "data/display_data/companies.csv"
+
 time = pd.Timestamp.now().strftime("%Y-%m-%d %H:%M:%S")
 cutoff_date = datetime.datetime.now() - datetime.timedelta(days=180)
 
@@ -149,3 +151,19 @@ total_teams = len(teams)
 
 for l in render_languages:
     render_readme(l, total_repos, total_companies, total_teams, time, teams, companies)
+
+# dump company stats to dedicated csv
+company_stats_df = pd.DataFrame(
+    [
+        {
+            "company": company["name"],
+            "total_projects": company["stats"]["total_projects"],
+            "total_teams": company["stats"]["total_teams"],
+            "total_stars": company["stats"]["total_stars"],
+            "top_3_languages": company["stats"]["top_3_languages"],
+            "active_projects": company["stats"]["active_projects"],
+        }
+        for company in companies
+    ]
+)
+company_stats_df.to_csv(path_to_company_stats, index=False)
