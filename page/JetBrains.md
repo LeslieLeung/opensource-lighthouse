@@ -1,17 +1,17 @@
 # JetBrains
 
-共 694 个项目，近半年内活跃项目 403 个，1 个团队， 193073 个 Star。
+共 694 个项目，近半年内活跃项目 402 个，1 个团队， 193089 个 Star。
 
 语言 Top 3：Java, Kotlin, C#
 
-统计时间：2024-07-06 17:18:46
+统计时间：2024-07-07 08:06:16
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 |
 | --- | --- | --- | --- | --- | --- | --- |
 | [JPS](https://github.com/JetBrains/JPS) | Gant based build framework + dsl, with declarative project structure definition and automatic IntelliJ IDEA projects build | Java | 25 | Apache License 2.0 | 2009-09-01 | 2023-05-08 |
 | [YouTrackSharp](https://github.com/JetBrains/YouTrackSharp) | .NET Standard 2.0 Library to access YouTrack API. | C# | 133 | Apache License 2.0 | 2010-11-20 | 2024-06-05 |
 | [colorSchemeTool](https://github.com/JetBrains/colorSchemeTool) | None | Python | 445 | Apache License 2.0 | 2010-12-10 | 2024-07-05 |
-| [ideavim](https://github.com/JetBrains/ideavim) | IdeaVim – A Vim engine for JetBrains IDEs | Kotlin | 8944 | MIT License | 2011-03-09 | 2024-07-06 |
+| [ideavim](https://github.com/JetBrains/ideavim) | IdeaVim – A Vim engine for JetBrains IDEs | Kotlin | 8943 | MIT License | 2011-03-09 | 2024-07-07 |
 | [psiviewer](https://github.com/JetBrains/psiviewer) | PSI Viewer for IntelliJ IDEA plugin development | Java | 182 | GNU General Public License v2.0 | 2011-03-30 | 2024-07-06 |
 | [youtrack-vcs-hooks](https://github.com/JetBrains/youtrack-vcs-hooks) | version control hooks to use with YouTrack bug tracker | Ruby | 5 | - | 2011-06-15 | 2023-01-28 |
 | [youtrack-rest-ruby-library](https://github.com/JetBrains/youtrack-rest-ruby-library) | Ruby wrapper around YouTrack REST api  | Ruby | 8 | - | 2011-06-15 | 2023-03-10 |
@@ -23,12 +23,12 @@
 | [intellij-starteam-plugin](https://github.com/JetBrains/intellij-starteam-plugin) | StarTeam plugin for IntelliJ IDEA (no longer maintained by JetBrains) | Java | 7 | Apache License 2.0 | 2011-08-05 | 2023-03-12 |
 | [la-clojure](https://github.com/JetBrains/la-clojure) | Clojure plugin for IntelliJ IDEA | Java | 220 | Apache License 2.0 | 2011-08-08 | 2024-06-24 |
 | [MPS](https://github.com/JetBrains/MPS) | JetBrains Meta programming System | JetBrains MPS | 1526 | Apache License 2.0 | 2011-08-15 | 2024-07-05 |
-| [intellij-community](https://github.com/JetBrains/intellij-community) | IntelliJ IDEA Community Edition & IntelliJ Platform | None | 16812 | Apache License 2.0 | 2011-09-30 | 2024-07-06 |
+| [intellij-community](https://github.com/JetBrains/intellij-community) | IntelliJ IDEA Community Edition & IntelliJ Platform | None | 16813 | Apache License 2.0 | 2011-09-30 | 2024-07-07 |
 | [TeamCity.ServiceMessages](https://github.com/JetBrains/TeamCity.ServiceMessages) | .NET library to deal with TeamCity Service messages | C# | 45 | Apache License 2.0 | 2011-10-19 | 2024-02-16 |
 | [intellij-scala](https://github.com/JetBrains/intellij-scala) | Scala plugin for IntelliJ IDEA | Scala | 1171 | Apache License 2.0 | 2011-11-11 | 2024-07-05 |
 | [teamcity-messages](https://github.com/JetBrains/teamcity-messages) | Python Unit Test Reporting to TeamCity | Python | 136 | Apache License 2.0 | 2011-12-06 | 2024-04-21 |
 | [teamcity-cpp](https://github.com/JetBrains/teamcity-cpp) | C++ Unit Test Reporting | C++ | 29 | Apache License 2.0 | 2011-12-06 | 2024-02-07 |
-| [kotlin](https://github.com/JetBrains/kotlin) | The Kotlin Programming Language.  | Kotlin | 48290 | - | 2012-02-13 | 2024-07-06 |
+| [kotlin](https://github.com/JetBrains/kotlin) | The Kotlin Programming Language.  | Kotlin | 48290 | - | 2012-02-13 | 2024-07-07 |
 | [teamcity-local-cloud](https://github.com/JetBrains/teamcity-local-cloud) | TeamCity plugin that creates a "cloud" on the server's machine using its local agents. | Java | 11 | Apache License 2.0 | 2012-02-17 | 2023-07-24 |
 | [kotlin-web-demo](https://github.com/JetBrains/kotlin-web-demo) | Online mini-IDE for Kotlin | Kotlin | 167 | Apache License 2.0 | 2012-03-02 | 2024-07-01 |
 | [intellij-plugin-verifier](https://github.com/JetBrains/intellij-plugin-verifier) | Compatibility verification tool for IntelliJ Platform plugins | Kotlin | 170 | Apache License 2.0 | 2012-03-11 | 2024-07-05 |
@@ -66,7 +66,7 @@
 | [ttorrent-lib](https://github.com/JetBrains/ttorrent-lib) | Turn's BitTorrent Java library (tracker and client) | Java | 38 | Apache License 2.0 | 2013-07-17 | 2023-11-05 |
 | [pty4j](https://github.com/JetBrains/pty4j) | Pty for Java | Java | 347 | Eclipse Public License 1.0 | 2013-07-20 | 2024-06-30 |
 | [clazz-loaderz](https://github.com/JetBrains/clazz-loaderz) | None | Java | 2 | - | 2013-07-24 | 2023-09-08 |
-| [Exposed](https://github.com/JetBrains/Exposed) | Kotlin SQL Framework | Kotlin | 8049 | Apache License 2.0 | 2013-07-30 | 2024-07-06 |
+| [Exposed](https://github.com/JetBrains/Exposed) | Kotlin SQL Framework | Kotlin | 8049 | Apache License 2.0 | 2013-07-30 | 2024-07-07 |
 | [teamcity-torrent-plugin](https://github.com/JetBrains/teamcity-torrent-plugin) | Teamcity torrent plugin | Java | 17 | Apache License 2.0 | 2013-07-30 | 2024-02-08 |
 | [NuGetOperations](https://github.com/JetBrains/NuGetOperations) | Backend Operations for the NuGet Gallery | C# | 2 | Apache License 2.0 | 2013-08-19 | 2021-11-21 |
 | [python-skeletons](https://github.com/JetBrains/python-skeletons) | The python-skeltons repo is deprecated: use PEP 484 and Typeshed instead | Python | 133 | Other | 2013-09-02 | 2024-01-06 |
@@ -100,7 +100,7 @@
 | [Nitra](https://github.com/JetBrains/Nitra) | Public Nitra repository | Nemerle | 554 | Other | 2014-05-20 | 2024-07-01 |
 | [teamcity-tests-watchdog](https://github.com/JetBrains/teamcity-tests-watchdog) | None | Java | 1 | Apache License 2.0 | 2014-05-29 | 2024-02-08 |
 | [nvd3](https://github.com/JetBrains/nvd3) | nvd3 modifications | JavaScript | 2 | Other | 2014-06-04 | 2021-11-21 |
-| [idea-gitignore](https://github.com/JetBrains/idea-gitignore) | .ignore support plugin for IntelliJ IDEA | Kotlin | 1287 | Apache License 2.0 | 2014-06-18 | 2024-07-05 |
+| [idea-gitignore](https://github.com/JetBrains/idea-gitignore) | .ignore support plugin for IntelliJ IDEA | Kotlin | 1288 | Apache License 2.0 | 2014-06-18 | 2024-07-07 |
 | [TeamCity.SonarQubePlugin](https://github.com/JetBrains/TeamCity.SonarQubePlugin) | A plugin for TeamCity server allowing you to configure and run SonarQube analysis from the CI | Java | 53 | Apache License 2.0 | 2014-07-10 | 2024-03-07 |
 | [Kotlin.TeamCity](https://github.com/JetBrains/Kotlin.TeamCity) | Ant script to setup Kotlin build on TeamCity | None | 1 | - | 2014-07-15 | 2021-11-21 |
 | [build-chain-export](https://github.com/JetBrains/build-chain-export) | Exports TeamCity build chain graph in various formats (dot, gml, etc) | Java | 6 | Apache License 2.0 | 2014-07-29 | 2023-11-03 |
@@ -130,7 +130,7 @@
 | [phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) | PHP runtime & extensions header files for PhpStorm | PHP | 1303 | Apache License 2.0 | 2015-03-31 | 2024-07-06 |
 | [teamcity-rest-client](https://github.com/JetBrains/teamcity-rest-client) | Client for TeamCity REST API written in Kotlin | Kotlin | 73 | Apache License 2.0 | 2015-04-06 | 2023-09-08 |
 | [plugin-repository-rest-client](https://github.com/JetBrains/plugin-repository-rest-client) | None | Kotlin | 21 | Apache License 2.0 | 2015-04-07 | 2023-12-23 |
-| [intellij-platform-gradle-plugin](https://github.com/JetBrains/intellij-platform-gradle-plugin) | Gradle plugin for building plugins for IntelliJ-based IDEs | Kotlin | 1403 | Apache License 2.0 | 2015-04-14 | 2024-07-06 |
+| [intellij-platform-gradle-plugin](https://github.com/JetBrains/intellij-platform-gradle-plugin) | Gradle plugin for building plugins for IntelliJ-based IDEs | Kotlin | 1404 | Apache License 2.0 | 2015-04-14 | 2024-07-06 |
 | [sdkdocs-template](https://github.com/JetBrains/sdkdocs-template) | Template to make it easy to set up and maintain SDK documentation sites | Ruby | 5 | Apache License 2.0 | 2015-05-08 | 2023-01-28 |
 | [arend-lib](https://github.com/JetBrains/arend-lib) | None | Java | 78 | Apache License 2.0 | 2015-05-14 | 2024-07-05 |
 | [ShortcutMapper](https://github.com/JetBrains/ShortcutMapper) | A visual keyboard shortcuts explorer for popular applications. | HTML | 1 | MIT License | 2015-05-25 | 2023-01-28 |
@@ -141,7 +141,7 @@
 | [teamcity-dotmemory](https://github.com/JetBrains/teamcity-dotmemory) | TeamCity plugin dotMemory Unit | Java | 4 | Apache License 2.0 | 2015-08-18 | 2023-06-02 |
 | [teamcity-dottrace](https://github.com/JetBrains/teamcity-dottrace) | TeamCity plugin dotTrace | Java | 11 | Apache License 2.0 | 2015-08-18 | 2022-06-29 |
 | [resharper-cyclomatic-complexity](https://github.com/JetBrains/resharper-cyclomatic-complexity) | ReSharper plugin to measure cyclomatic complexity as you type | C# | 120 | Apache License 2.0 | 2015-08-26 | 2024-06-26 |
-| [resharper-unity](https://github.com/JetBrains/resharper-unity) | Unity support for both ReSharper and Rider | C# | 1205 | Apache License 2.0 | 2015-09-09 | 2024-07-05 |
+| [resharper-unity](https://github.com/JetBrains/resharper-unity) | Unity support for both ReSharper and Rider | C# | 1205 | Apache License 2.0 | 2015-09-09 | 2024-07-07 |
 | [teamcity-github-issues](https://github.com/JetBrains/teamcity-github-issues) | None | Java | 2 | Apache License 2.0 | 2015-09-11 | 2024-06-03 |
 | [kotlin-netbeans](https://github.com/JetBrains/kotlin-netbeans) | Kotlin Plugin for NetBeans https://kotlinlang.org | Kotlin | 93 | Other | 2015-09-12 | 2024-06-23 |
 | [educational-plugin](https://github.com/JetBrains/educational-plugin) | Educational plugin to learn and teach programming languages such as Kotlin, Java, Python, JavaScript, and others right inside of JetBrains IntelliJ Platform based IDEs. | Kotlin | 143 | Apache License 2.0 | 2015-10-05 | 2024-07-06 |
@@ -340,7 +340,7 @@
 | [univocity-parsers](https://github.com/JetBrains/univocity-parsers) | uniVocity-parsers is a suite of extremely fast and reliable parsers for Java. It provides a consistent interface for handling different file formats, and a solid framework for the development of new parsers. | Java | 1 | - | 2018-08-30 | 2021-12-10 |
 | [hub-widget-ui](https://github.com/JetBrains/hub-widget-ui) | Common ReactJS components for Hub widgets development | JavaScript | 3 | Apache License 2.0 | 2018-09-05 | 2022-01-26 |
 | [intellij-deps-java-compatibility](https://github.com/JetBrains/intellij-deps-java-compatibility) | Classes from JDK8 excluded from JDK9 | Java | 4 | GNU General Public License v2.0 | 2018-09-05 | 2023-11-10 |
-| [JetBrainsRuntime](https://github.com/JetBrains/JetBrainsRuntime) | Runtime environment based on OpenJDK for running IntelliJ Platform-based products on Windows, macOS, and Linux | Java | 1203 | GNU General Public License v2.0 | 2018-09-05 | 2024-07-06 |
+| [JetBrainsRuntime](https://github.com/JetBrains/JetBrainsRuntime) | Runtime environment based on OpenJDK for running IntelliJ Platform-based products on Windows, macOS, and Linux | Java | 1203 | GNU General Public License v2.0 | 2018-09-05 | 2024-07-07 |
 | [jdk-sa-jdwp](https://github.com/JetBrains/jdk-sa-jdwp) | Java serviceability agent to jdwp adapter | Java | 22 | GNU General Public License v2.0 | 2018-09-11 | 2024-04-09 |
 | [kotlin-dokka-stdlib](https://github.com/JetBrains/kotlin-dokka-stdlib) | None | None | 6 | Apache License 2.0 | 2018-09-12 | 2024-03-11 |
 | [teamcity-project-status-widget](https://github.com/JetBrains/teamcity-project-status-widget) | Hub dashboard widget to show statuses of projects in TeamCity | JavaScript | 3 | Apache License 2.0 | 2018-09-13 | 2023-08-20 |
@@ -370,7 +370,7 @@
 | [teamcity-service-messages](https://github.com/JetBrains/teamcity-service-messages) | Generate TeamCity service messages | JavaScript | 1 | MIT License | 2018-12-12 | 2021-11-21 |
 | [teamcity-commandline](https://github.com/JetBrains/teamcity-commandline) | None | Java | 4 | Apache License 2.0 | 2018-12-18 | 2024-07-03 |
 | [teamcity-rest](https://github.com/JetBrains/teamcity-rest) | TeamCity REST API (bundled in TeamCity distribution) | Java | 26 | Apache License 2.0 | 2018-12-21 | 2024-03-17 |
-| [UnrealLink](https://github.com/JetBrains/UnrealLink) | None | C++ | 128 | Apache License 2.0 | 2018-12-25 | 2024-07-06 |
+| [UnrealLink](https://github.com/JetBrains/UnrealLink) | None | C++ | 128 | Apache License 2.0 | 2018-12-25 | 2024-07-07 |
 | [teamcity-gradle](https://github.com/JetBrains/teamcity-gradle) | None | Java | 6 | Apache License 2.0 | 2018-12-29 | 2024-06-28 |
 | [teamcity-usage-statistics](https://github.com/JetBrains/teamcity-usage-statistics) | None | Java | 0 | Apache License 2.0 | 2018-12-29 | 2022-01-24 |
 | [teamcity-environment-fetcher](https://github.com/JetBrains/teamcity-environment-fetcher) | None | Java | 1 | Apache License 2.0 | 2018-12-29 | 2022-09-13 |
@@ -383,7 +383,7 @@
 | [profiler-api](https://github.com/JetBrains/profiler-api) | The portable version of JetBrains profiler API for .NET Framework / .NET Core / .NET / .NET Standard / Mono | C# | 32 | Apache License 2.0 | 2019-02-12 | 2024-06-14 |
 | [teamcity-pipelines-dsl](https://github.com/JetBrains/teamcity-pipelines-dsl) | Experimental Kotlin DSL library for TeamCity pipelines | Kotlin | 39 | Apache License 2.0 | 2019-02-19 | 2024-05-04 |
 | [lets-plot-kotlin](https://github.com/JetBrains/lets-plot-kotlin) | Grammar of Graphics for Kotlin | Kotlin | 419 | MIT License | 2019-02-26 | 2024-07-04 |
-| [JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) | JetBrains Mono – the free and open-source typeface for developers | Shell | 10577 | SIL Open Font License 1.1 | 2019-03-01 | 2024-07-06 |
+| [JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) | JetBrains Mono – the free and open-source typeface for developers | Shell | 10579 | SIL Open Font License 1.1 | 2019-03-01 | 2024-07-07 |
 | [teamcity-roadmap](https://github.com/JetBrains/teamcity-roadmap) | None | None | 4 | Apache License 2.0 | 2019-03-18 | 2023-02-23 |
 | [lets-plot](https://github.com/JetBrains/lets-plot) | Multiplatform plotting library based on the Grammar of Graphics | Kotlin | 1498 | MIT License | 2019-03-20 | 2024-07-06 |
 | [teamcity-sdk-docs](https://github.com/JetBrains/teamcity-sdk-docs) | TeamCity SDK Documentation  | None | 8 | Apache License 2.0 | 2019-04-09 | 2024-06-13 |
@@ -403,7 +403,7 @@
 | [JetBrains.Rider.Debugger.Launcher](https://github.com/JetBrains/JetBrains.Rider.Debugger.Launcher) | None | C# | 2 | - | 2019-06-24 | 2023-08-01 |
 | [web-types](https://github.com/JetBrains/web-types) | JSON standard for documenting web component libraries for IDEs, documentation generators and other tools | TypeScript | 278 | Apache License 2.0 | 2019-06-25 | 2024-06-13 |
 | [youtrack-work-item-exporter-widget](https://github.com/JetBrains/youtrack-work-item-exporter-widget) | A widget that provides an interface for exporting work item data from YouTrack. | JavaScript | 6 | Apache License 2.0 | 2019-06-28 | 2023-12-13 |
-| [lincheck](https://github.com/JetBrains/lincheck) | Framework for testing concurrent data structures | Kotlin | 540 | Mozilla Public License 2.0 | 2019-07-01 | 2024-07-06 |
+| [lincheck](https://github.com/JetBrains/lincheck) | Framework for testing concurrent data structures | Kotlin | 542 | Mozilla Public License 2.0 | 2019-07-01 | 2024-07-07 |
 | [teamcity-documentation](https://github.com/JetBrains/teamcity-documentation) | Source repository of TeamCity Help | None | 22 | Apache License 2.0 | 2019-07-08 | 2024-07-05 |
 | [dotnet-project-model](https://github.com/JetBrains/dotnet-project-model) | .NET project model parser | Kotlin | 2 | Apache License 2.0 | 2019-07-23 | 2024-04-12 |
 | [youtrack-activities-widget](https://github.com/JetBrains/youtrack-activities-widget) | YouTrack Dashboard widget that displays recent activities feed | JavaScript | 6 | Apache License 2.0 | 2019-07-31 | 2023-12-13 |
@@ -411,7 +411,7 @@
 | [SharpGen.Runtime.COM](https://github.com/JetBrains/SharpGen.Runtime.COM) | COM runtime support for SharpGen generated interop code. | C# | 2 | MIT License | 2019-08-12 | 2024-05-22 |
 | [NuGet.BuildTasks](https://github.com/JetBrains/NuGet.BuildTasks) | The build tasks used to pick up package content from project.lock.json. | C# | 1 | Other | 2019-08-13 | 2021-11-21 |
 | [teamcity-plugin-pipelines-dsl](https://github.com/JetBrains/teamcity-plugin-pipelines-dsl) | None | Kotlin | 4 | Apache License 2.0 | 2019-08-14 | 2023-08-07 |
-| [ForTea](https://github.com/JetBrains/ForTea) | None | C# | 56 | Apache License 2.0 | 2019-08-15 | 2024-07-04 |
+| [ForTea](https://github.com/JetBrains/ForTea) | None | C# | 56 | Apache License 2.0 | 2019-08-15 | 2024-07-07 |
 | [kotlin-js-demo-1.3.50](https://github.com/JetBrains/kotlin-js-demo-1.3.50) | Kotlin/JS with dukat and Type Script | Kotlin | 10 | - | 2019-08-23 | 2023-08-11 |
 | [KotlinFinder](https://github.com/JetBrains/KotlinFinder) | Kotlin Locator MPP application | Kotlin | 34 | Apache License 2.0 | 2019-08-26 | 2023-09-28 |
 | [JetBrains.EnvDTE](https://github.com/JetBrains/JetBrains.EnvDTE) | None | C# | 13 | Apache License 2.0 | 2019-08-31 | 2023-11-15 |
@@ -453,7 +453,7 @@
 | [intellij-deps-dbus-java](https://github.com/JetBrains/intellij-deps-dbus-java) | Improved version of java DBus library provided by freedesktop.org (https://dbus.freedesktop.org/doc/dbus-java/) | Java | 2 | Other | 2020-01-17 | 2021-11-21 |
 | [duty-manager](https://github.com/JetBrains/duty-manager) | A web app for managing duties integrated with JetBrains Space | JavaScript | 2 | Apache License 2.0 | 2020-01-21 | 2024-03-08 |
 | [kotlin-mobile-docs](https://github.com/JetBrains/kotlin-mobile-docs) | Kotlin Multiplatform Mobile documentation: https://kotlinlang.org/docs/mobile/home.html | None | 58 | - | 2020-01-22 | 2023-09-18 |
-| [intellij-platform-plugin-template](https://github.com/JetBrains/intellij-platform-plugin-template) | Template repository for creating plugins for IntelliJ Platform | Kotlin | 2958 | Apache License 2.0 | 2020-01-24 | 2024-07-06 |
+| [intellij-platform-plugin-template](https://github.com/JetBrains/intellij-platform-plugin-template) | Template repository for creating plugins for IntelliJ Platform | Kotlin | 2960 | Apache License 2.0 | 2020-01-24 | 2024-07-07 |
 | [marketplace-zip-signer](https://github.com/JetBrains/marketplace-zip-signer) | Marketplace ZIP Signer tool handles signing and verification of the JetBrains plugins. | Kotlin | 17 | Apache License 2.0 | 2020-02-10 | 2024-03-27 |
 | [space-kotlin-sdk](https://github.com/JetBrains/space-kotlin-sdk) | Kotlin client for JetBrains Space HTTP API | Kotlin | 46 | Apache License 2.0 | 2020-02-12 | 2024-01-09 |
 | [teamcity-git](https://github.com/JetBrains/teamcity-git) | Git VCS Support for TeamCity | Java | 6 | Apache License 2.0 | 2020-02-13 | 2024-07-04 |
@@ -507,7 +507,7 @@
 | [exposed-intellij-plugin](https://github.com/JetBrains/exposed-intellij-plugin) | Exposed Kotlin ORM framework gradle and intellij plugins | Kotlin | 40 | Apache License 2.0 | 2020-08-24 | 2024-06-25 |
 | [teamcity-sakura-ui-plugins](https://github.com/JetBrains/teamcity-sakura-ui-plugins) | None | Java | 2 | Apache License 2.0 | 2020-09-02 | 2023-02-23 |
 | [teamcity-api-js](https://github.com/JetBrains/teamcity-api-js) | None | JavaScript | 5 | Apache License 2.0 | 2020-09-07 | 2023-03-12 |
-| [compose-multiplatform](https://github.com/JetBrains/compose-multiplatform) | Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable. | Kotlin | 15335 | Apache License 2.0 | 2020-09-07 | 2024-07-06 |
+| [compose-multiplatform](https://github.com/JetBrains/compose-multiplatform) | Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable. | Kotlin | 15344 | Apache License 2.0 | 2020-09-07 | 2024-07-07 |
 | [teamcity-slack-notifier](https://github.com/JetBrains/teamcity-slack-notifier) | TeamCity Slack Notifier plugin | Kotlin | 7 | Apache License 2.0 | 2020-09-10 | 2024-01-10 |
 | [teamcity-dashboard-plugin](https://github.com/JetBrains/teamcity-dashboard-plugin) | None | JavaScript | 2 | - | 2020-09-14 | 2023-02-01 |
 | [ac_tutorial_debugging](https://github.com/JetBrains/ac_tutorial_debugging) | None | Swift | 1 | - | 2020-09-18 | 2023-07-14 |
@@ -653,7 +653,7 @@
 | [react-buddy-demo-mantine-v6](https://github.com/JetBrains/react-buddy-demo-mantine-v6) | Mantine React components palette | TypeScript | 1 | Apache License 2.0 | 2023-03-13 | 2024-02-12 |
 | [qodana-docker](https://github.com/JetBrains/qodana-docker) | 🐳 Source repository of Qodana Dockerfiles | Dockerfile | 6 | Apache License 2.0 | 2023-03-14 | 2024-07-05 |
 | [react-buddy-demo-antd-v5](https://github.com/JetBrains/react-buddy-demo-antd-v5) | None | TypeScript | 0 | Apache License 2.0 | 2023-03-16 | 2024-02-12 |
-| [compose-multiplatform-ios-android-template](https://github.com/JetBrains/compose-multiplatform-ios-android-template) | Compose Multiplatform iOS+Android Application project template | Kotlin | 1591 | Apache License 2.0 | 2023-03-21 | 2024-07-04 |
+| [compose-multiplatform-ios-android-template](https://github.com/JetBrains/compose-multiplatform-ios-android-template) | Compose Multiplatform iOS+Android Application project template | Kotlin | 1590 | Apache License 2.0 | 2023-03-21 | 2024-07-06 |
 | [terraform-aws-kubernetes](https://github.com/JetBrains/terraform-aws-kubernetes) | This repository contains a Terraform Module that implements an architectural blueprint for EKS. | HCL | 1 | Apache License 2.0 | 2023-03-21 | 2024-05-15 |
 | [terraform-provider-teamcity](https://github.com/JetBrains/terraform-provider-teamcity) | Terraform Provider for JetBrains TeamCity | Go | 14 | Mozilla Public License 2.0 | 2023-04-05 | 2024-07-04 |
 | [guide](https://github.com/JetBrains/guide) | The JetBrains Guide is a collection of resources for learning JetBrains IDEs. | TypeScript | 21 | Other | 2023-04-06 | 2024-07-05 |
@@ -679,7 +679,7 @@
 | [jpa-buddy-blog-shortcuts](https://github.com/JetBrains/jpa-buddy-blog-shortcuts) | A sample application to demonstrate how to work with JPA Buddy shortcuts | Java | 0 | Apache License 2.0 | 2023-09-05 | 2023-11-08 |
 | [intellij-deps-kotlinx.coroutines](https://github.com/JetBrains/intellij-deps-kotlinx.coroutines) | Patched version of Kotlin coroutines library for IntelliJ-based IDEs | Kotlin | 0 | Apache License 2.0 | 2023-09-11 | 2024-06-28 |
 | [lets-plot-compose-demos](https://github.com/JetBrains/lets-plot-compose-demos) | None | Kotlin | 11 | MIT License | 2023-09-13 | 2024-06-04 |
-| [package-search-upptime](https://github.com/JetBrains/package-search-upptime) | Uptime monitor and status page for Package Search, powered by @upptime | Markdown | 1 | MIT License | 2023-09-19 | 2024-07-06 |
+| [package-search-upptime](https://github.com/JetBrains/package-search-upptime) | Uptime monitor and status page for Package Search, powered by @upptime | Markdown | 1 | MIT License | 2023-09-19 | 2024-07-07 |
 | [ide-services-docker](https://github.com/JetBrains/ide-services-docker) | None | Shell | 0 | Apache License 2.0 | 2023-10-20 | 2024-05-31 |
 | [intellij-bazel](https://github.com/JetBrains/intellij-bazel) | None | Kotlin | 14 | Apache License 2.0 | 2023-10-24 | 2024-07-05 |
 | [amper](https://github.com/JetBrains/amper) | Amper - a project configuration and build tool with a focus on the user experience and the IDE support | Kotlin | 874 | Apache License 2.0 | 2023-10-24 | 2024-07-06 |
