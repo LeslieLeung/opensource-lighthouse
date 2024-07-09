@@ -1,3 +1,7 @@
+# TODO
+# 1. replace requests with aiohttp
+# 2. with the limit of 5000 requests per hour, consider use some stateful cache to store the data, e.g. csv file in the repo
+
 from typing import List, Optional
 import requests
 from typing import List, Tuple, Optional
