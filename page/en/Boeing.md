@@ -4,7 +4,7 @@ A total of 33 projects, 24 active projects in the last six months, 1 teams, and 
 
 Top 3 Languages: C++, Python, Go
 
-Statistics Date: 2024-07-08 08:07:30
+Statistics Date: 2024-07-09 08:06:54
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -34,10 +34,10 @@ Statistics Date: 2024-07-08 08:07:30
 | [sdr-hazards-classification](https://github.com/Boeing/sdr-hazards-classification) | Collaboration work between FAA and Boeing on identifying safety hazards in Service Difficulty Reports (SDR) | Python | 2 | MIT License | 2023-12-11 | 2024-05-21 |
 | [Universal_Robots_ROS2_Driver](https://github.com/Boeing/Universal_Robots_ROS2_Driver) | Universal Robots ROS2 driver supporting CB3 and e-Series | None | 0 | BSD 3-Clause "New" or "Revised" License | 2024-01-23 | 2024-01-23 |
 | [meta-xilinx](https://github.com/Boeing/meta-xilinx) | None | C | 0 | MIT License | 2024-04-22 | 2024-06-27 |
-| [linux](https://github.com/Boeing/linux) | Linux kernel stable tree mirror | C | 0 | Other | 2024-04-22 | 2024-06-27 |
+| [linux](https://github.com/Boeing/linux) | Linux kernel stable tree mirror | C | 0 | Other | 2024-04-22 | 2024-07-08 |
 | [linux-yocto](https://github.com/Boeing/linux-yocto) | None | C | 0 | Other | 2024-04-22 | 2024-04-22 |
-| [openembedded-core](https://github.com/Boeing/openembedded-core) | None | BitBake | 0 | Other | 2024-04-22 | 2024-06-27 |
-| [meta-openembedded](https://github.com/Boeing/meta-openembedded) | None | BitBake | 0 | MIT License | 2024-04-22 | 2024-06-27 |
+| [openembedded-core](https://github.com/Boeing/openembedded-core) | None | BitBake | 0 | Other | 2024-04-22 | 2024-07-09 |
+| [meta-openembedded](https://github.com/Boeing/meta-openembedded) | None | BitBake | 0 | MIT License | 2024-04-22 | 2024-07-09 |
 | [meta-openembedded-contrib](https://github.com/Boeing/meta-openembedded-contrib) | None | BitBake | 0 | MIT License | 2024-04-22 | 2024-04-22 |
-| [bitbake](https://github.com/Boeing/bitbake) | None | Python | 0 | Other | 2024-04-22 | 2024-06-27 |
+| [bitbake](https://github.com/Boeing/bitbake) | None | None | 0 | - | 2024-04-22 | 2024-07-09 |
 | [genai-for-multi-label](https://github.com/Boeing/genai-for-multi-label) | Fine-tuning LLMs for Multi-label Text Classification | None | 0 | - | 2024-07-01 | 2024-07-01 |

@@ -1,10 +1,10 @@
 # Sony
 
-A total of 74 projects, 59 active projects in the last six months, 1 teams, and 14780 stars.
+A total of 74 projects, 59 active projects in the last six months, 1 teams, and 14782 stars.
 
 Top 3 Languages: Python, JavaScript, C++
 
-Statistics Date: 2024-07-08 08:07:30
+Statistics Date: 2024-07-09 08:06:54
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -39,7 +39,7 @@ Statistics Date: 2024-07-08 08:07:30
 | [ai-research-code](https://github.com/sony/ai-research-code) | None | Python | 341 | Apache License 2.0 | 2020-04-14 | 2024-06-24 |
 | [nnabla-nas](https://github.com/sony/nnabla-nas) | Neural Architecture Search for Neural Network Libraries | Python | 54 | Apache License 2.0 | 2020-06-15 | 2024-06-07 |
 | [micro-notifier](https://github.com/sony/micro-notifier) | Simplified Pusher Clone | Go | 10 | MIT License | 2020-09-06 | 2024-05-07 |
-| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1159 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2024-07-05 |
+| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1160 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2024-07-08 |
 | [lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) | None | Python | 0 | MIT License | 2021-03-25 | 2021-05-13 |
 | [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 116 | Apache License 2.0 | 2021-06-11 | 2024-07-03 |
 | [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 79 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2024-06-27 |
@@ -75,7 +75,7 @@ Statistics Date: 2024-07-08 08:07:30
 | [bigvsan_eval](https://github.com/sony/bigvsan_eval) | Evaluation tool used in the BigVSAN paper | Python | 9 | MIT License | 2023-09-01 | 2024-04-02 |
 | [timbre-trap](https://github.com/sony/timbre-trap) | Code for the paper "Timbre-Trap: A Low-Resource Framework for Instrument-Agnostic Music Transcription" | Python | 27 | MIT License | 2023-09-12 | 2024-06-09 |
 | [custom_layers](https://github.com/sony/custom_layers) | None | Python | 7 | Apache License 2.0 | 2023-09-21 | 2024-05-08 |
-| [ctm](https://github.com/sony/ctm) | None | Python | 199 | - | 2023-10-10 | 2024-07-05 |
+| [ctm](https://github.com/sony/ctm) | None | Python | 200 | - | 2023-10-10 | 2024-07-08 |
 | [SR-Display-Plugin-Preview-BL](https://github.com/sony/SR-Display-Plugin-Preview-BL) | None | Python | 5 | MIT License | 2023-12-13 | 2024-03-11 |
 | [pyAutoPort](https://github.com/sony/pyAutoPort) | None | Python | 5 | BSD 3-Clause "New" or "Revised" License | 2023-12-13 | 2024-05-13 |
 | [SR-Display-Plugin-Preview-ZB](https://github.com/sony/SR-Display-Plugin-Preview-ZB) | None | None | 1 | MIT License | 2024-02-19 | 2024-02-19 |
