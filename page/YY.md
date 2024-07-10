@@ -1,10 +1,10 @@
 # YY
 
-共 40 个项目，近半年内活跃项目 7 个，1 个团队， 1138 个 Star。
+共 40 个项目，近半年内活跃项目 8 个，1 个团队， 1139 个 Star。
 
 语言 Top 3：JavaScript, Objective-C, CSS
 
-统计时间：2024-07-09 08:06:54
+统计时间：2024-07-10 08:08:50
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -28,7 +28,7 @@
 | [LEGO-Pack](https://github.com/yyued/LEGO-Pack) | Just pack a folder and generate md5 hash. | JavaScript | 1 | - | 2016-08-16 | 2020-12-31 |
 | [CodeX](https://github.com/yyued/CodeX) | CodeX helps you build User Interface from PRD to design, and generate code via Sketch. | JavaScript | 1 | GNU General Public License v3.0 | 2016-12-08 | 2023-01-28 |
 | [CodeX-Runtime-iOS](https://github.com/yyued/CodeX-Runtime-iOS) | None | Objective-C | 0 | MIT License | 2016-12-30 | 2023-01-28 |
-| [UIKit-Android](https://github.com/yyued/UIKit-Android) | None | Kotlin | 5 | GNU General Public License v3.0 | 2016-12-30 | 2021-04-25 |
+| [UIKit-Android](https://github.com/yyued/UIKit-Android) | None | Kotlin | 6 | GNU General Public License v3.0 | 2016-12-30 | 2024-07-10 |
 | [react-native-runtime-ios](https://github.com/yyued/react-native-runtime-ios) | None | JavaScript | 0 | - | 2017-05-26 | 2017-05-26 |
 | [ENMetadataCleaner](https://github.com/yyued/ENMetadataCleaner) | Decrease PSD file size. | JavaScript | 11 | - | 2017-05-27 | 2021-03-08 |
 | [react-native-android-runtime](https://github.com/yyued/react-native-android-runtime) | None | None | 0 | - | 2017-06-08 | 2017-06-08 |
