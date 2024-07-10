@@ -16,7 +16,6 @@ gradio-leaderboard = "^0.0.10"
 streamlit = "^1.36.0"
 watchdog = "^4.0.1"
 streamlit-extras = "^0.4.3"
-requests = "^2.32.3"
 tqdm = "^4.66.4"
 
 

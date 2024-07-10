@@ -1,38 +1,32 @@
 # TODO
-# 1. replace requests with aiohttp
-# 2. with the limit of 5000 requests per hour, consider use some stateful cache to store the data, e.g. csv file in the repo
+# 1. with the limit of 5000 requests per hour, consider use some stateful cache to store the data, e.g. csv file in the repo
 
 from typing import List, Optional
-import requests
-from typing import List, Tuple, Optional
 from tqdm import tqdm
+from github import Auth, Github, Repository, NamedUser
 
 
-def get_all_repos(user: str, token: Optional[str] = None) -> List[dict]:
+def get_all_repos(user: str, token: Optional[str] = None) -> List[Repository]:
+    """
+    Retrieves all repositories for a given user.
+
+    Args:
+        user (str): The username of the user.
+        token (str, optional): GitHub personal access token for authentication.
+
+    Returns:
+        List[Repository]: A list of Repository objects representing the user's repositories.
+    """
+    auth = Auth.Token(token)
+    g = Github(auth=auth)
+    org = g.get_user(user)
     repos = []
-    page = 1
-    headers = {'Authorization': f'Bearer {token}'} if token else {}
-    while True:
-        url = f'https://api.github.com/users/{user}/repos'
-        params = {
-            'per_page': 100,
-            'page': page
-        }
-        try:
-            response = requests.get(url, headers=headers, params=params)
-            response.raise_for_status()
-            data = response.json()
-            if not data:
-                break
-            repos.extend(data)
-            page += 1
-        except requests.exceptions.RequestException as e:
-            print(f"Error fetching repositories: {e}")
-            break
+    for repo in org.get_repos():
+        repos.append(repo)
     return repos
 
 
-def get_top_starred_repos(user: str, n: int, token: Optional[str] = None) -> List[Tuple[str, int]]:
+def get_top_starred_repos(user: str, n: int, token: Optional[str] = None) -> List[Repository]:
     """
     Get the top n repositories with the most stars for a given GitHub user.
 
@@ -42,7 +36,7 @@ def get_top_starred_repos(user: str, n: int, token: Optional[str] = None) -> Lis
         token (Optional[str]): GitHub personal access token for authentication.
 
     Returns:
-        List[Tuple[str, int]]: List of tuples containing repository names and their stars.
+        List[Repository]]: List of Repository containing repository names and their stars.
     """
     repos = get_all_repos(user, token)
     if not repos:
@@ -50,101 +44,41 @@ def get_top_starred_repos(user: str, n: int, token: Optional[str] = None) -> Lis
 
     # Sort repositories by star count in descending order
     sorted_repos = sorted(
-        repos, key=lambda repo: repo['stargazers_count'], reverse=True)
+        repos, key=lambda repo: repo.stargazers_count, reverse=True)
 
     # Get the top n repositories
     top_repos = sorted_repos[:n]
-    return [(repo['name'], repo['stargazers_count']) for repo in top_repos]
+    return top_repos
 
 
-def get_all_contributors(user: str, repo: str, token: Optional[str] = None) -> List[Tuple[str, int]]:
-    """
-    Retrieves all contributors of a given GitHub repository.
-
-    Args:
-        user (str): The username or organization name of the repository owner.
-        repo (str): The name of the repository.
-        token (Optional[str]): GitHub personal access token for authentication.
-
-    Returns:
-        List[Tuple[str, int]]: A list of tuples containing the contributor's login name and their number of contributions.
-    """
-    contributors = []
-    page = 1
-    headers = {'Authorization': f'Bearer {token}'} if token else {}
-    while True:
-        url = f'https://api.github.com/repos/{user}/{repo}/contributors'
-        params = {
-            'per_page': 100,
-            'page': page
-        }
-        try:
-            response = requests.get(url, headers=headers, params=params)
-            response.raise_for_status()
-            data = response.json()
-            if not data:
-                break
-            contributors.extend(data)
-            page += 1
-        except requests.exceptions.RequestException as e:
-            print(f"Error fetching contributors: {e}")
-            break
-    return [(contributor['login'], contributor['contributions']) for contributor in contributors]
-
-
-def get_company(user: str, token: Optional[str] = None) -> str:
-    """
-    Retrieves the uppercase company name of a GitHub user.
-
-    Args:
-        user (str): The GitHub username.
-        token (Optional[str]): GitHub personal access token for authentication.
-
-    Returns:
-        str: The company name of the user, or 'N/A' if not found.
-    """
-    url = f'https://api.github.com/users/{user}'
-    headers = {'Authorization': f'Bearer {token}'} if token else {}
-    try:
-        response = requests.get(url, headers=headers)
-        response.raise_for_status()
-        data = response.json()
-        company = data.get('company')
-        if company is None:
-            return 'N/A'
-
-        # remove @ and blank spaces
-        company = company.replace('@', '').strip()
-        return company.upper()
-
-    except requests.exceptions.RequestException as e:
-        print(f"Error fetching user data: {e}")
-        return 'N/A'
-
-
-def calculate_contributions_by_company(user: str, repo: str, companies: List[str], n: int, token: Optional[str] = None) -> dict:
+def calculate_contributions_by_company(repo: Repository, companies: List[str], n: Optional[int] = None) -> dict:
     """
     Calculate the contributions made by companies in a GitHub repository.
     Only contributors from the specified companies are considered.
 
     Args:
-        user (str): The username or organization name of the repository owner.
-        repo (str): The name of the repository.
+        repo (Repository): Repository object.
         companies (List[str]): A list of company names to filter the contributors by.
-        n (int): The maximum number of contributors to consider.
-        token (Optional[str]): An optional GitHub personal access token for authentication.
+        n (int): The maximum number of contributors to consider, if not given, it will consider all contributors.
 
     Returns:
         dict: A dictionary where the keys are the company names and the values are the percentage contributions made by contributors from each company.
-        example: {'GOOGLE': 77.99268590004064, 'MICROSOFT': 14.758228362454288, 'INTEL': 7.249085737505078}
+        example: {'GOOGLE': 77.99268590004064,
+            'MICROSOFT': 14.758228362454288, 'INTEL': 7.249085737505078}
     """
     companies = [company.upper() for company in companies]
-    contributors = get_all_contributors(user, repo, token)
+    contributors = repo.get_contributors()
+    contributors = [contributor for contributor in contributors]
     company_contributions = {}
-    if len(contributors) < n:
+    if n is None or len(contributors) < n:
         n = len(contributors)
-    for contributor, contributions in tqdm(contributors[:n], desc='Fetching contributors'):
-        company = get_company(contributor, token)
+    for contributor in tqdm(contributors[:n], desc='Fetching contributors'):
+        company = contributor.company
+        if company is None:
+            continue
+        company = company.upper()
+        company = company.replace('@', '').strip()
+
         count = False
         for target_company in companies:
             if company.find(target_company) != -1:
@@ -153,7 +87,7 @@ def calculate_contributions_by_company(user: str, repo: str, companies: List[str
                 break
         if count:
             company_contributions[company] = company_contributions.get(
-                company, 0) + contributions
+                company, 0) + contributor.contributions
 
     # convert the number into percentage
     total_contributions = sum(company_contributions.values())
@@ -163,41 +97,47 @@ def calculate_contributions_by_company(user: str, repo: str, companies: List[str
     return company_contributions
 
 
-def calculate_single_company_contributions(user: str, repo: str, company: str, n: int, token: Optional[str] = None) -> float:
+def calculate_single_company_contributions(repo: Repository, company: str, n: Optional[int] = None) -> float:
     """
     Calculate the percentage contributions made by a single company in a GitHub repository.
 
     Args:
-        user (str): The username or organization name of the repository owner.
-        repo (str): The name of the repository.
+        repo (Repository): Repository object.
         company (str): The company name to filter the contributors by.
-        n (int): The maximum number of contributors to consider.
-        token (Optional[str]): An optional GitHub personal access token for authentication.
+        n (int): The maximum number of contributors to consider, if not given, it will consider all contributors.
 
     Returns:
         float: The percentage contributions made by contributors from the specified company.
     """
     company = company.upper()
-    contributors = get_all_contributors(user, repo, token)
+    contributors = repo.get_contributors()
+    contributors = [contributor for contributor in contributors]
     company_contributions = 0
-    if len(contributors) < n:
+    total_contributions = 0
+    if n is None or n > len(contributors):
         n = len(contributors)
-    for contributor, contributions in tqdm(contributors[:n], desc='Fetching contributors'):
-        contributor_company = get_company(contributor, token)
-        if contributor_company.find(company) != -1:
-            company_contributions += contributions
+    for contributor in tqdm(contributors[:n], desc='Fetching contributors'):
+        contributor_company = contributor.company
+        if contributor_company is None:
+            contributor_company = ''
+        contributor_company = contributor_company.upper()
+        contributor_company = contributor_company.replace('@', '').strip()
 
-    total_contributions = sum(
-        contributions for _, contributions in contributors[:n])
+        if contributor_company.find(company) != -1:
+            company_contributions += contributor.contributions
+        total_contributions += contributor.contributions
+
     return (company_contributions / total_contributions) * 100
 
 
 if __name__ == "__main__":
     token = 'ghp_example'
     username = 'kubernetes'
-    repo = 'kubernetes'
     companies = ['GOOGLE', 'MICROSOFT', 'INTEL']
 
-    result = calculate_contributions_by_company(
-        username, repo, companies, 100, token)
-    print(result)
+    repos = get_top_starred_repos(username, 5, token)
+    repo = repos[0]
+    result1 = calculate_contributions_by_company(repo, companies, 10)
+    print(f'Contributions by company: {result1}')
+    result2 = calculate_single_company_contributions(repo, companies[0], 10)
+    print(f'Contributions by single company {companies[0]}: {result2}')
