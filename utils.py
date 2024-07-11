@@ -76,8 +76,7 @@ def calculate_contributions_by_company(repo: Repository, companies: List[str], n
         company = contributor.company
         if company is None:
             continue
-        company = company.upper()
-        company = company.replace('@', '').strip()
+        company = company.upper().replace('@', '').strip()
 
         count = False
         for target_company in companies:
@@ -117,11 +116,8 @@ def calculate_single_company_contributions(repo: Repository, company: str, n: Op
     if n is None or n > len(contributors):
         n = len(contributors)
     for contributor in tqdm(contributors[:n], desc='Fetching contributors'):
-        contributor_company = contributor.company
-        if contributor_company is None:
-            contributor_company = ''
-        contributor_company = contributor_company.upper()
-        contributor_company = contributor_company.replace('@', '').strip()
+        contributor_company = (
+            contributor.company or '').upper().replace('@', '').strip()
 
         if contributor_company.find(company) != -1:
             company_contributions += contributor.contributions
@@ -133,11 +129,12 @@ def calculate_single_company_contributions(repo: Repository, company: str, n: Op
 if __name__ == "__main__":
     token = 'ghp_example'
     username = 'kubernetes'
-    companies = ['GOOGLE', 'MICROSOFT', 'INTEL']
+    companies = ['GOOGLE', 'MICROSOFT', 'INTEL',
+                 'Red Hat', 'Databricks', 'Amazon Web Services', 'Goldman Sachs']
 
     repos = get_top_starred_repos(username, 5, token)
     repo = repos[0]
-    result1 = calculate_contributions_by_company(repo, companies, 10)
+    result1 = calculate_contributions_by_company(repo, companies, 100)
     print(f'Contributions by company: {result1}')
-    result2 = calculate_single_company_contributions(repo, companies[0], 10)
+    result2 = calculate_single_company_contributions(repo, companies[0], 100)
     print(f'Contributions by single company {companies[0]}: {result2}')
