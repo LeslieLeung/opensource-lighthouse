@@ -1,10 +1,10 @@
 # YY
 
-A total of 40 projects, 8 active projects in the last six months, 1 teams, and 1139 stars.
+A total of 40 projects, 8 active projects in the last six months, 1 teams, and 1138 stars.
 
 Top 3 Languages: JavaScript, Objective-C, CSS
 
-Statistics Date: 2024-07-11 08:06:58
+Statistics Date: 2024-07-12 08:07:46
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -39,7 +39,7 @@ Statistics Date: 2024-07-11 08:06:58
 | [flowhub](https://github.com/yyued/flowhub) | Through a simple way to deal with the event flow. | JavaScript | 112 | MIT License | 2017-09-06 | 2024-05-13 |
 | [TypeScript-Override](https://github.com/yyued/TypeScript-Override) | TypeScript Override Snippets | TypeScript | 0 | GNU General Public License v3.0 | 2017-09-15 | 2017-09-15 |
 | [legolib](https://github.com/yyued/legolib) | 面向移动端的轻量级前端 Components，提供易用、可靠的解决方案 | CSS | 20 | MIT License | 2017-10-09 | 2021-07-28 |
-| [H5Live](https://github.com/yyued/H5Live) | None | JavaScript | 16 | MIT License | 2017-10-19 | 2024-05-26 |
+| [H5Live](https://github.com/yyued/H5Live) | None | JavaScript | 15 | MIT License | 2017-10-19 | 2024-07-12 |
 | [Runtime-Type-Check-Proxy](https://github.com/yyued/Runtime-Type-Check-Proxy) | lightweight runtime arguments checking function. | JavaScript | 0 | MIT License | 2017-11-23 | 2017-11-24 |
 | [view-boot](https://github.com/yyued/view-boot) | None | JavaScript | 0 | MIT License | 2017-12-27 | 2018-01-11 |
 | [value-animator](https://github.com/yyued/value-animator) | None | TypeScript | 3 | - | 2018-01-11 | 2024-02-20 |

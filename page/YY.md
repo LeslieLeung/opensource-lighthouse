@@ -1,10 +1,10 @@
 # YY
 
-共 40 个项目，近半年内活跃项目 8 个，1 个团队， 1139 个 Star。
+共 40 个项目，近半年内活跃项目 8 个，1 个团队， 1138 个 Star。
 
 语言 Top 3：JavaScript, Objective-C, CSS
 
-统计时间：2024-07-11 08:06:58
+统计时间：2024-07-12 08:07:46
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -39,7 +39,7 @@
 | [flowhub](https://github.com/yyued/flowhub) | Through a simple way to deal with the event flow. | JavaScript | 112 | MIT License | 2017-09-06 | 2024-05-13 |
 | [TypeScript-Override](https://github.com/yyued/TypeScript-Override) | TypeScript Override Snippets | TypeScript | 0 | GNU General Public License v3.0 | 2017-09-15 | 2017-09-15 |
 | [legolib](https://github.com/yyued/legolib) | 面向移动端的轻量级前端 Components，提供易用、可靠的解决方案 | CSS | 20 | MIT License | 2017-10-09 | 2021-07-28 |
-| [H5Live](https://github.com/yyued/H5Live) | None | JavaScript | 16 | MIT License | 2017-10-19 | 2024-05-26 |
+| [H5Live](https://github.com/yyued/H5Live) | None | JavaScript | 15 | MIT License | 2017-10-19 | 2024-07-12 |
 | [Runtime-Type-Check-Proxy](https://github.com/yyued/Runtime-Type-Check-Proxy) | lightweight runtime arguments checking function. | JavaScript | 0 | MIT License | 2017-11-23 | 2017-11-24 |
 | [view-boot](https://github.com/yyued/view-boot) | None | JavaScript | 0 | MIT License | 2017-12-27 | 2018-01-11 |
 | [value-animator](https://github.com/yyued/value-animator) | None | TypeScript | 3 | - | 2018-01-11 | 2024-02-20 |
