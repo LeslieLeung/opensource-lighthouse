@@ -1,15 +1,15 @@
 # Sony
 
-共 74 个项目，近半年内活跃项目 59 个，1 个团队， 14798 个 Star。
+共 75 个项目，近半年内活跃项目 60 个，1 个团队， 14801 个 Star。
 
 语言 Top 3：Python, JavaScript, C++
 
-统计时间：2024-07-12 08:07:46
+统计时间：2024-07-13 08:06:22
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 2828 | MIT License | 2015-05-29 | 2024-07-12 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 3820 | MIT License | 2015-05-29 | 2024-07-11 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 2829 | MIT License | 2015-05-29 | 2024-07-12 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 3821 | MIT License | 2015-05-29 | 2024-07-12 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 404 | MIT License | 2015-09-18 | 2024-06-27 |
@@ -66,11 +66,11 @@
 | [pixel-guided-diffusion](https://github.com/sony/pixel-guided-diffusion) | Fine-grained Image Editing by Pixel-wise Guidance Using Diffusion Models | Python | 33 | Apache License 2.0 | 2023-04-06 | 2024-06-03 |
 | [ARCv2_Ghidra](https://github.com/sony/ARCv2_Ghidra) | None | None | 0 | Apache License 2.0 | 2023-04-26 | 2023-04-26 |
 | [gibbsddrm](https://github.com/sony/gibbsddrm) | None | Python | 19 | MIT License | 2023-04-26 | 2024-05-14 |
-| [fp-diffusion](https://github.com/sony/fp-diffusion) | None | Jupyter Notebook | 17 | Apache License 2.0 | 2023-04-26 | 2024-05-21 |
+| [fp-diffusion](https://github.com/sony/fp-diffusion) | None | Jupyter Notebook | 16 | Apache License 2.0 | 2023-04-26 | 2024-07-12 |
 | [mct_quantizers](https://github.com/sony/mct_quantizers) | None | Python | 17 | Apache License 2.0 | 2023-05-09 | 2024-06-19 |
 | [diffiner](https://github.com/sony/diffiner) | None | Python | 57 | MIT License | 2023-05-30 | 2024-07-04 |
 | [hFT-Transformer](https://github.com/sony/hFT-Transformer) | Pytorch implementation of automatic music transcription method that uses a two-level hierarchical frequency-time Transformer architecture (hFT-Transformer). | Python | 65 | MIT License | 2023-06-26 | 2024-05-01 |
-| [san](https://github.com/sony/san) | PyTorch implementation of slicing adversarial network (SAN) | Python | 70 | - | 2023-06-28 | 2024-07-11 |
+| [san](https://github.com/sony/san) | PyTorch implementation of slicing adversarial network (SAN) | Python | 71 | - | 2023-06-28 | 2024-07-12 |
 | [bigvsan](https://github.com/sony/bigvsan) | Pytorch implementation of BigVSAN | Python | 191 | MIT License | 2023-09-01 | 2024-07-12 |
 | [bigvsan_eval](https://github.com/sony/bigvsan_eval) | Evaluation tool used in the BigVSAN paper | Python | 9 | MIT License | 2023-09-01 | 2024-04-02 |
 | [timbre-trap](https://github.com/sony/timbre-trap) | Code for the paper "Timbre-Trap: A Low-Resource Framework for Instrument-Agnostic Music Transcription" | Python | 28 | MIT License | 2023-09-12 | 2024-07-11 |
@@ -82,3 +82,4 @@
 | [NeISF](https://github.com/sony/NeISF) | None | Python | 6 | Other | 2024-06-04 | 2024-07-10 |
 | [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 69 | MIT License | 2024-06-04 | 2024-07-11 |
 | [silentcipher](https://github.com/sony/silentcipher) | None | Python | 9 | MIT License | 2024-06-05 | 2024-06-18 |
+| [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 1 | MIT License | 2024-07-09 | 2024-07-12 |
