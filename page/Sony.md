@@ -1,18 +1,18 @@
 # Sony
 
-共 75 个项目，近半年内活跃项目 60 个，1 个团队， 14801 个 Star。
+共 75 个项目，近半年内活跃项目 60 个，1 个团队， 14806 个 Star。
 
 语言 Top 3：Python, JavaScript, C++
 
-统计时间：2024-07-13 08:06:22
+统计时间：2024-07-14 08:08:18
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 2829 | MIT License | 2015-05-29 | 2024-07-12 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 2830 | MIT License | 2015-05-29 | 2024-07-14 |
 | [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 3821 | MIT License | 2015-05-29 | 2024-07-12 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 |
-| [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 404 | MIT License | 2015-09-18 | 2024-06-27 |
+| [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 403 | MIT License | 2015-09-18 | 2024-07-13 |
 | [cdn-purge-control-php](https://github.com/sony/cdn-purge-control-php) | Multi CDN purge control library for PHP | PHP | 8 | MIT License | 2016-01-06 | 2023-04-07 |
 | [huis-ui-creator](https://github.com/sony/huis-ui-creator) | None | JavaScript | 37 | Apache License 2.0 | 2016-02-02 | 2024-02-19 |
 | [node-win-usbdev](https://github.com/sony/node-win-usbdev) | None | C++ | 3 | Apache License 2.0 | 2016-02-02 | 2023-03-29 |
@@ -21,7 +21,7 @@
 | [smarttennissensorsdk](https://github.com/sony/smarttennissensorsdk) | The Smart Tennis Sensor plugs into the end of a tennis racket and records data about all the shots you make throughout a game or practice. With the SDK, you can develop apps for analyzing and presenting that data in real-time. | Java | 8 | Apache License 2.0 | 2016-08-30 | 2023-02-27 |
 | [openocd-nuttx](https://github.com/sony/openocd-nuttx) | Fork of OpenOCD with NuttX thread support. | C | 24 | GNU General Public License v2.0 | 2016-10-18 | 2024-06-08 |
 | [nnabla-ext-cuda](https://github.com/sony/nnabla-ext-cuda) | A CUDA Extension of Neural Network Libraries | Cuda | 92 | Apache License 2.0 | 2017-06-21 | 2024-06-20 |
-| [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2709 | Apache License 2.0 | 2017-06-26 | 2024-07-11 |
+| [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2710 | Apache License 2.0 | 2017-06-26 | 2024-07-14 |
 | [easyhttpcpp](https://github.com/sony/easyhttpcpp) | A cross-platform HTTP client library with a focus on usability and speed | C++ | 162 | MIT License | 2017-08-09 | 2024-07-03 |
 | [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 136 | Apache License 2.0 | 2017-09-07 | 2024-06-24 |
 | [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 31 | Apache License 2.0 | 2017-09-07 | 2024-05-11 |
@@ -44,7 +44,7 @@
 | [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 116 | Apache License 2.0 | 2021-06-11 | 2024-07-03 |
 | [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 79 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2024-06-27 |
 | [model_optimization](https://github.com/sony/model_optimization) | Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks. | Python | 277 | Apache License 2.0 | 2021-06-21 | 2024-07-11 |
-| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 406 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2024-07-09 |
+| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 407 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2024-07-13 |
 | [flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) | Flutter plugins for embedded Linux (eLinux) | C++ | 43 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2024-06-27 |
 | [ds-research-code](https://github.com/sony/ds-research-code) | None | Python | 0 | - | 2021-07-19 | 2023-02-07 |
 | [pyIEOE](https://github.com/sony/pyIEOE) | None | Python | 31 | MIT License | 2021-07-20 | 2024-06-20 |
@@ -56,7 +56,7 @@
 | [FxNorm-automix](https://github.com/sony/FxNorm-automix) | FxNorm-Automix - Implementation of automatic music mixing systems. We show how we can use wet music data and repurpose it to train a fully automatic mixing system | Python | 83 | MIT License | 2022-08-05 | 2024-07-01 |
 | [polar-densification](https://github.com/sony/polar-densification) | None | Python | 21 | MIT License | 2022-09-13 | 2024-07-10 |
 | [nnabla-js](https://github.com/sony/nnabla-js) | None | TypeScript | 1 | Apache License 2.0 | 2022-09-16 | 2023-02-01 |
-| [DiffRoll](https://github.com/sony/DiffRoll) | PyTorch implementation of DiffRoll, a diffusion-based generative automatic music transcription (AMT) model | Jupyter Notebook | 64 | MIT License | 2022-10-11 | 2024-04-23 |
+| [DiffRoll](https://github.com/sony/DiffRoll) | PyTorch implementation of DiffRoll, a diffusion-based generative automatic music transcription (AMT) model | Jupyter Notebook | 66 | MIT License | 2022-10-11 | 2024-07-13 |
 | [creativeai](https://github.com/sony/creativeai) | None | CSS | 58 | - | 2022-11-21 | 2024-07-01 |
 | [NDJIR](https://github.com/sony/NDJIR) | NDJIR: Neural Direct and Joint Inverse Rendering for Geometry, Lights, and Materials of Real Object | Python | 42 | Apache License 2.0 | 2022-12-14 | 2024-03-27 |
 | [CLIPSep](https://github.com/sony/CLIPSep) | None | Python | 31 | MIT License | 2023-01-24 | 2024-03-26 |
@@ -81,5 +81,5 @@
 | [SR-Display-Plugin-Preview-ZB](https://github.com/sony/SR-Display-Plugin-Preview-ZB) | None | None | 1 | MIT License | 2024-02-19 | 2024-02-19 |
 | [NeISF](https://github.com/sony/NeISF) | None | Python | 6 | Other | 2024-06-04 | 2024-07-10 |
 | [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 69 | MIT License | 2024-06-04 | 2024-07-11 |
-| [silentcipher](https://github.com/sony/silentcipher) | None | Python | 9 | MIT License | 2024-06-05 | 2024-06-18 |
+| [silentcipher](https://github.com/sony/silentcipher) | None | Python | 10 | MIT License | 2024-06-05 | 2024-07-14 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 1 | MIT License | 2024-07-09 | 2024-07-12 |
