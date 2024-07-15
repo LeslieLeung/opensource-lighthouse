@@ -1,10 +1,10 @@
 # Sony
 
-A total of 75 projects, 60 active projects in the last six months, 1 teams, and 14806 stars.
+A total of 75 projects, 60 active projects in the last six months, 1 teams, and 14808 stars.
 
 Top 3 Languages: Python, JavaScript, C++
 
-Statistics Date: 2024-07-14 08:08:18
+Statistics Date: 2024-07-15 08:07:30
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -39,11 +39,11 @@ Statistics Date: 2024-07-14 08:08:18
 | [ai-research-code](https://github.com/sony/ai-research-code) | None | Python | 341 | Apache License 2.0 | 2020-04-14 | 2024-06-24 |
 | [nnabla-nas](https://github.com/sony/nnabla-nas) | Neural Architecture Search for Neural Network Libraries | Python | 54 | Apache License 2.0 | 2020-06-15 | 2024-06-07 |
 | [micro-notifier](https://github.com/sony/micro-notifier) | Simplified Pusher Clone | Go | 10 | MIT License | 2020-09-06 | 2024-05-07 |
-| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1160 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2024-07-08 |
+| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1161 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2024-07-14 |
 | [lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) | None | Python | 0 | MIT License | 2021-03-25 | 2021-05-13 |
 | [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 116 | Apache License 2.0 | 2021-06-11 | 2024-07-03 |
 | [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 79 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2024-06-27 |
-| [model_optimization](https://github.com/sony/model_optimization) | Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks. | Python | 277 | Apache License 2.0 | 2021-06-21 | 2024-07-11 |
+| [model_optimization](https://github.com/sony/model_optimization) | Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks. | Python | 277 | Apache License 2.0 | 2021-06-21 | 2024-07-15 |
 | [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 407 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2024-07-13 |
 | [flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) | Flutter plugins for embedded Linux (eLinux) | C++ | 43 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2024-06-27 |
 | [ds-research-code](https://github.com/sony/ds-research-code) | None | Python | 0 | - | 2021-07-19 | 2023-02-07 |
@@ -51,7 +51,7 @@ Statistics Date: 2024-07-14 08:08:18
 | [nnc-plugin](https://github.com/sony/nnc-plugin) | Plugins for Neural Network Console (https://dl.sony.com/). | Python | 15 | Apache License 2.0 | 2021-08-05 | 2024-06-06 |
 | [dolp-colorconstancy](https://github.com/sony/dolp-colorconstancy) | None | Python | 11 | MIT License | 2022-03-22 | 2024-05-14 |
 | [nnabla-browser](https://github.com/sony/nnabla-browser) | Visualization toolkit for Neural Network Libraries | TypeScript | 9 | Apache License 2.0 | 2022-03-31 | 2024-07-06 |
-| [sqvae](https://github.com/sony/sqvae) | Pytorch implementation of stochastically quantized variational autoencoder (SQ-VAE) | Python | 172 | Apache License 2.0 | 2022-05-26 | 2024-07-11 |
+| [sqvae](https://github.com/sony/sqvae) | Pytorch implementation of stochastically quantized variational autoencoder (SQ-VAE) | Python | 173 | Apache License 2.0 | 2022-05-26 | 2024-07-14 |
 | [aibo-development-tutorial](https://github.com/sony/aibo-development-tutorial) | None | None | 7 | Other | 2022-06-28 | 2024-03-18 |
 | [FxNorm-automix](https://github.com/sony/FxNorm-automix) | FxNorm-Automix - Implementation of automatic music mixing systems. We show how we can use wet music data and repurpose it to train a fully automatic mixing system | Python | 83 | MIT License | 2022-08-05 | 2024-07-01 |
 | [polar-densification](https://github.com/sony/polar-densification) | None | Python | 21 | MIT License | 2022-09-13 | 2024-07-10 |
