@@ -1,10 +1,10 @@
 # X
 
-共 100 个项目，近半年内活跃项目 85 个，1 个团队， 201700 个 Star。
+共 100 个项目，近半年内活跃项目 85 个，1 个团队， 201724 个 Star。
 
 语言 Top 3：Scala, Java, Python
 
-统计时间：2024-07-16 08:08:10
+统计时间：2024-07-17 08:07:07
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -13,17 +13,17 @@
 | [twurl](https://github.com/twitter/twurl) | OAuth-enabled curl for the Twitter API | Ruby | 1790 | MIT License | 2009-10-18 | 2024-07-10 |
 | [elephant-bird](https://github.com/twitter/elephant-bird) | Twitter's collection of LZO and Protocol Buffer-related Hadoop, Pig, Hive, and HBase code. | Java | 1139 | Apache License 2.0 | 2010-03-25 | 2024-07-12 |
 | [scala_school](https://github.com/twitter/scala_school) | Lessons in the Fundamentals of Scala | HTML | 3704 | Apache License 2.0 | 2010-09-08 | 2024-07-16 |
-| [finagle](https://github.com/twitter/finagle) | A fault tolerant, protocol-agnostic RPC system | Scala | 8756 | Apache License 2.0 | 2010-10-19 | 2024-07-16 |
+| [finagle](https://github.com/twitter/finagle) | A fault tolerant, protocol-agnostic RPC system | Scala | 8757 | Apache License 2.0 | 2010-10-19 | 2024-07-16 |
 | [joauth](https://github.com/twitter/joauth) | A Java library for authenticating HTTP Requests using OAuth | Java | 213 | Apache License 2.0 | 2010-12-16 | 2024-05-20 |
-| [opensource-website](https://github.com/twitter/opensource-website) | Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source. | SCSS | 2967 | Apache License 2.0 | 2011-02-23 | 2024-07-16 |
+| [opensource-website](https://github.com/twitter/opensource-website) | Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source. | SCSS | 2969 | Apache License 2.0 | 2011-02-23 | 2024-07-17 |
 | [util](https://github.com/twitter/util) | Wonderful reusable code from Twitter | Scala | 2682 | Apache License 2.0 | 2011-03-26 | 2024-07-10 |
 | [scrooge](https://github.com/twitter/scrooge) | A Thrift parser/generator | Scala | 787 | Apache License 2.0 | 2011-08-22 | 2024-05-19 |
 | [hogan.js](https://github.com/twitter/hogan.js) | A compiler for the Mustache templating language | JavaScript | 5140 | Apache License 2.0 | 2011-12-21 | 2024-07-12 |
-| [scalding](https://github.com/twitter/scalding) | A Scala API for Cascading | Scala | 3484 | Apache License 2.0 | 2012-01-10 | 2024-07-14 |
+| [scalding](https://github.com/twitter/scalding) | A Scala API for Cascading | Scala | 3485 | Apache License 2.0 | 2012-01-10 | 2024-07-17 |
 | [effectivescala](https://github.com/twitter/effectivescala) | Twitter's Effective Scala Guide | HTML | 2241 | Other | 2012-01-31 | 2024-07-09 |
 | [finatra](https://github.com/twitter/finatra) | Fast, testable, Scala services built on TwitterServer and Finagle | Scala | 2273 | Apache License 2.0 | 2012-02-16 | 2024-07-12 |
 | [cassovary](https://github.com/twitter/cassovary) | Cassovary is a simple big graph processing library for the JVM | Scala | 1043 | Apache License 2.0 | 2012-02-21 | 2024-07-07 |
-| [twemproxy](https://github.com/twitter/twemproxy) | A fast, light-weight proxy for memcached and redis | C | 12096 | Apache License 2.0 | 2012-02-22 | 2024-07-16 |
+| [twemproxy](https://github.com/twitter/twemproxy) | A fast, light-weight proxy for memcached and redis | C | 12097 | Apache License 2.0 | 2012-02-22 | 2024-07-16 |
 | [twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb) | Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more. | Ruby | 670 | Apache License 2.0 | 2012-02-25 | 2024-07-12 |
 | [innovators-patent-agreement](https://github.com/twitter/innovators-patent-agreement) | Innovators Patent Agreement (IPA) | None | 922 | - | 2012-04-16 | 2024-06-22 |
 | [activerecord-reputation-system](https://github.com/twitter/activerecord-reputation-system) | An Active Record Reputation System for Rails | Ruby | 1335 | Apache License 2.0 | 2012-05-17 | 2024-04-16 |
@@ -49,12 +49,12 @@
 | [libwatchman](https://github.com/twitter/libwatchman) | A C interface to watchman | C | 45 | MIT License | 2014-04-11 | 2024-06-14 |
 | [zktraffic](https://github.com/twitter/zktraffic) | ZooKeeper protocol analyzer and stats gathering daemon | Python | 167 | Apache License 2.0 | 2014-07-18 | 2024-07-14 |
 | [SentenTree](https://github.com/twitter/SentenTree) | A novel text visualization technique | JavaScript | 227 | Apache License 2.0 | 2014-08-15 | 2024-04-27 |
-| [wordpress](https://github.com/twitter/wordpress) | The official Twitter plugin for WordPress. Embed Twitter content and grow your audience on Twitter. | PHP | 316 | MIT License | 2014-10-20 | 2024-07-14 |
+| [wordpress](https://github.com/twitter/wordpress) | The official Twitter plugin for WordPress. Embed Twitter content and grow your audience on Twitter. | PHP | 317 | MIT License | 2014-10-20 | 2024-07-16 |
 | [BreakoutDetection](https://github.com/twitter/BreakoutDetection) | Breakout Detection via Robust E-Statistics | C++ | 753 | GNU General Public License v2.0 | 2014-10-24 | 2024-07-09 |
-| [twitter-korean-text](https://github.com/twitter/twitter-korean-text) | Korean tokenizer | Scala | 857 | Apache License 2.0 | 2014-10-29 | 2024-06-20 |
-| [twemoji](https://github.com/twitter/twemoji) | Emoji for everyone. https://twemoji.twitter.com/ | HTML | 16707 | MIT License | 2014-11-06 | 2024-07-12 |
+| [twitter-korean-text](https://github.com/twitter/twitter-korean-text) | Korean tokenizer | Scala | 857 | Apache License 2.0 | 2014-10-29 | 2024-07-17 |
+| [twemoji](https://github.com/twitter/twemoji) | Emoji for everyone. https://twemoji.twitter.com/ | HTML | 16709 | MIT License | 2014-11-06 | 2024-07-17 |
 | [twitter-text](https://github.com/twitter/twitter-text) | Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform. | HTML | 3064 | Apache License 2.0 | 2014-12-03 | 2024-07-15 |
-| [AnomalyDetection](https://github.com/twitter/AnomalyDetection) | Anomaly Detection with R | R | 3544 | GNU General Public License v3.0 | 2014-12-09 | 2024-07-16 |
+| [AnomalyDetection](https://github.com/twitter/AnomalyDetection) | Anomaly Detection with R | R | 3545 | GNU General Public License v3.0 | 2014-12-09 | 2024-07-17 |
 | [d3kit](https://github.com/twitter/d3kit) | D3Kit is a set tools to speed D3 related project development | JavaScript | 428 | MIT License | 2015-01-10 | 2024-07-10 |
 | [pants](https://github.com/twitter/pants) | Pants Build System | Python | 83 | Apache License 2.0 | 2015-01-15 | 2024-04-02 |
 | [sslconfig](https://github.com/twitter/sslconfig) | Twitter's OpenSSL Configuration | None | 43 | MIT License | 2015-03-05 | 2024-03-23 |
@@ -90,7 +90,7 @@
 | [curation-style-guide](https://github.com/twitter/curation-style-guide) | Document Repository for Twitter's Curation Style Guide | None | 10 | - | 2019-05-31 | 2022-11-15 |
 | [.github](https://github.com/twitter/.github) | Twitter GitHub Organization-wide files | None | 49 | - | 2019-06-13 | 2024-07-08 |
 | [rustcommon](https://github.com/twitter/rustcommon) | Common Twitter Rust lib | Rust | 341 | Apache License 2.0 | 2019-11-25 | 2024-06-03 |
-| [sbf](https://github.com/twitter/sbf) | None | Java | 160 | Apache License 2.0 | 2020-02-07 | 2024-06-28 |
+| [sbf](https://github.com/twitter/sbf) | None | Java | 161 | Apache License 2.0 | 2020-02-07 | 2024-07-16 |
 | [dict_minimize](https://github.com/twitter/dict_minimize) | Access scipy optimizers from your favorite deep learning framework. | Python | 77 | Apache License 2.0 | 2020-08-04 | 2024-03-08 |
 | [cache-trace](https://github.com/twitter/cache-trace) | A collection of Twitter's anonymized production cache traces. | Shell | 167 | Creative Commons Attribution 4.0 International | 2020-08-28 | 2024-07-03 |
 | [bazel-multiversion](https://github.com/twitter/bazel-multiversion) | Bazel rules to resolve, fetch and manage 3rdparty JVM dependencies with support for multiple parallel versions of the same dependency. Powered by Coursier.  | Scala | 47 | Apache License 2.0 | 2020-10-04 | 2024-03-07 |
@@ -106,5 +106,5 @@
 | [diffusion-rl](https://github.com/twitter/diffusion-rl) | None | Python | 69 | Apache License 2.0 | 2022-08-09 | 2024-06-20 |
 | [focus](https://github.com/twitter/focus) | Focus aligns Git worktree content based on outlines of a repository's Bazel build graph. Focused repos are sparse, shallow, and thin and unlock markedly better performance in large repos. | Rust | 92 | Apache License 2.0 | 2022-08-30 | 2024-07-05 |
 | [birdwatch](https://github.com/twitter/birdwatch) | None | None | 66 | - | 2022-11-06 | 2024-07-08 |
-| [the-algorithm](https://github.com/twitter/the-algorithm) | Source code for Twitter's Recommendation Algorithm | Scala | 61748 | GNU Affero General Public License v3.0 | 2023-03-27 | 2024-07-16 |
-| [the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) | Source code for Twitter's Recommendation Algorithm | Python | 9968 | GNU Affero General Public License v3.0 | 2023-03-27 | 2024-07-16 |
+| [the-algorithm](https://github.com/twitter/the-algorithm) | Source code for Twitter's Recommendation Algorithm | Scala | 61761 | GNU Affero General Public License v3.0 | 2023-03-27 | 2024-07-17 |
+| [the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) | Source code for Twitter's Recommendation Algorithm | Python | 9969 | GNU Affero General Public License v3.0 | 2023-03-27 | 2024-07-17 |
