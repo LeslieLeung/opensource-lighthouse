@@ -1,15 +1,15 @@
 # Sony
 
-A total of 75 projects, 60 active projects in the last six months, 1 teams, and 14846 stars.
+A total of 75 projects, 60 active projects in the last six months, 1 teams, and 14847 stars.
 
 Top 3 Languages: Python, JavaScript, C++
 
-Statistics Date: 2024-07-19 08:07:02
+Statistics Date: 2024-07-20 08:06:16
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date |
 | --- | --- | --- | --- | --- | --- | --- |
 | [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 2835 | MIT License | 2015-05-29 | 2024-07-17 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 3824 | MIT License | 2015-05-29 | 2024-07-19 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 3825 | MIT License | 2015-05-29 | 2024-07-19 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 403 | MIT License | 2015-09-18 | 2024-07-13 |
@@ -36,7 +36,7 @@ Statistics Date: 2024-07-19 08:07:02
 | [nnabla-dataset-uploader](https://github.com/sony/nnabla-dataset-uploader) | None | Python | 0 | - | 2019-02-26 | 2019-03-15 |
 | [appsync-client-go](https://github.com/sony/appsync-client-go) | AWS AppSync golang client library | Go | 52 | MIT License | 2019-03-16 | 2024-06-08 |
 | [isren](https://github.com/sony/isren) | None | JavaScript | 8 | MIT License | 2020-01-07 | 2023-01-12 |
-| [ai-research-code](https://github.com/sony/ai-research-code) | None | Python | 342 | Apache License 2.0 | 2020-04-14 | 2024-07-17 |
+| [ai-research-code](https://github.com/sony/ai-research-code) | None | Python | 343 | Apache License 2.0 | 2020-04-14 | 2024-07-19 |
 | [nnabla-nas](https://github.com/sony/nnabla-nas) | Neural Architecture Search for Neural Network Libraries | Python | 54 | Apache License 2.0 | 2020-06-15 | 2024-06-07 |
 | [micro-notifier](https://github.com/sony/micro-notifier) | Simplified Pusher Clone | Go | 10 | MIT License | 2020-09-06 | 2024-05-07 |
 | [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1167 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2024-07-18 |
@@ -44,7 +44,7 @@ Statistics Date: 2024-07-19 08:07:02
 | [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 116 | Apache License 2.0 | 2021-06-11 | 2024-07-03 |
 | [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 80 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2024-07-15 |
 | [model_optimization](https://github.com/sony/model_optimization) | Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks. | Python | 288 | Apache License 2.0 | 2021-06-21 | 2024-07-18 |
-| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 410 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2024-07-17 |
+| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 410 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2024-07-19 |
 | [flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) | Flutter plugins for embedded Linux (eLinux) | C++ | 43 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2024-06-27 |
 | [ds-research-code](https://github.com/sony/ds-research-code) | None | Python | 0 | - | 2021-07-19 | 2023-02-07 |
 | [pyIEOE](https://github.com/sony/pyIEOE) | None | Python | 31 | MIT License | 2021-07-20 | 2024-06-20 |
@@ -70,7 +70,7 @@ Statistics Date: 2024-07-19 08:07:02
 | [mct_quantizers](https://github.com/sony/mct_quantizers) | None | Python | 17 | Apache License 2.0 | 2023-05-09 | 2024-06-19 |
 | [diffiner](https://github.com/sony/diffiner) | None | Python | 57 | MIT License | 2023-05-30 | 2024-07-04 |
 | [hFT-Transformer](https://github.com/sony/hFT-Transformer) | Pytorch implementation of automatic music transcription method that uses a two-level hierarchical frequency-time Transformer architecture (hFT-Transformer). | Python | 65 | MIT License | 2023-06-26 | 2024-05-01 |
-| [san](https://github.com/sony/san) | PyTorch implementation of slicing adversarial network (SAN) | Python | 73 | - | 2023-06-28 | 2024-07-18 |
+| [san](https://github.com/sony/san) | PyTorch implementation of slicing adversarial network (SAN) | Python | 72 | - | 2023-06-28 | 2024-07-20 |
 | [bigvsan](https://github.com/sony/bigvsan) | Pytorch implementation of BigVSAN | Python | 190 | MIT License | 2023-09-01 | 2024-07-15 |
 | [bigvsan_eval](https://github.com/sony/bigvsan_eval) | Evaluation tool used in the BigVSAN paper | Python | 9 | MIT License | 2023-09-01 | 2024-04-02 |
 | [timbre-trap](https://github.com/sony/timbre-trap) | Code for the paper "Timbre-Trap: A Low-Resource Framework for Instrument-Agnostic Music Transcription" | Python | 28 | MIT License | 2023-09-12 | 2024-07-11 |
