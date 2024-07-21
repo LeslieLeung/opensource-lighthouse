@@ -1,10 +1,10 @@
 # Google
 
-共 10220 个项目，近半年内活跃项目 6140 个，60 个团队， 4963939 个 Star。
+共 10220 个项目，近半年内活跃项目 6133 个，60 个团队， 4964614 个 Star。
 
 语言 Top 3：Python, Java, JavaScript
 
-统计时间：2024-07-20 08:06:16
+统计时间：2024-07-21 08:06:37
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -17,7 +17,7 @@
 | [gerrit-attic](https://github.com/GerritCodeReview/gerrit-attic) | Aborted experiments and ancient revisions of Gerrit Code Review - (mirror of http://gerrit.googlesource.com/gerrit-attic) | Java | 0 | Apache License 2.0 | 2015-12-10 | 2015-12-10 |
 | [gerrit-ci-scripts](https://github.com/GerritCodeReview/gerrit-ci-scripts) | Scripts used for continuous integration builds of Gerrit - (mirror of http://gerrit.googlesource.com/gerrit-ci-scripts) | Lua | 10 | - | 2015-12-10 | 2024-07-15 |
 | [gerrit-installer](https://github.com/GerritCodeReview/gerrit-installer) | Gerrit native installation packages for Windows, Linux and Mac OSX - (mirror of https://gerrit.googlesource.com/gerrit-installer) | Makefile | 11 | - | 2015-12-10 | 2024-05-17 |
-| [git-repo](https://github.com/GerritCodeReview/git-repo) | repo - The Multiple Git Repository Tool - (mirror of https://gerrit.googlesource.com/git-repo) | Python | 309 | Apache License 2.0 | 2015-12-10 | 2024-07-19 |
+| [git-repo](https://github.com/GerritCodeReview/git-repo) | repo - The Multiple Git Repository Tool - (mirror of https://gerrit.googlesource.com/git-repo) | Python | 310 | Apache License 2.0 | 2015-12-10 | 2024-07-21 |
 | [gitiles](https://github.com/GerritCodeReview/gitiles) | A simple browser for Git repositories - (mirror of https://gerrit.googlesource.com/gitiles) | Java | 19 | Other | 2015-12-10 | 2024-06-14 |
 | [gwtjsonrpc](https://github.com/GerritCodeReview/gwtjsonrpc) | JSON-RPC for Google Web Toolkit (GWT) - (mirror of http://gerrit.googlesource.com/gwtjsonrpc) | Java | 2 | Apache License 2.0 | 2015-12-10 | 2023-08-18 |
 | [gwtorm](https://github.com/GerritCodeReview/gwtorm) | Tiny ORM - (mirror of http://gerrit.googlesource.com/gwtorm) | Java | 1 | Apache License 2.0 | 2015-12-10 | 2021-04-13 |
@@ -322,14 +322,14 @@
 | [Tasks-App](https://github.com/Google-Developers-Sohag/Tasks-App) | None | Kotlin | 0 | - | 2024-03-18 | 2024-04-19 |
 | [records-research](https://github.com/Google-Health/records-research) | None | Python | 214 | - | 2019-10-30 | 2024-06-04 |
 | [imaging-research](https://github.com/Google-Health/imaging-research) | None | Jupyter Notebook | 68 | - | 2020-05-15 | 2024-07-17 |
-| [genomics-research](https://github.com/Google-Health/genomics-research) | None | Jupyter Notebook | 115 | - | 2021-03-11 | 2024-07-10 |
+| [genomics-research](https://github.com/Google-Health/genomics-research) | None | Jupyter Notebook | 116 | - | 2021-03-11 | 2024-07-21 |
 | [google-health](https://github.com/Google-Health/google-health) | None | Python | 40 | BSD 3-Clause "New" or "Revised" License | 2021-03-31 | 2024-07-12 |
 | [healthcare-streaming-simulator](https://github.com/Google-Health/healthcare-streaming-simulator) | This streaming simulator workload continuously generates fake patient records and writes to Google Cloud FHIR Store. | HCL | 8 | Apache License 2.0 | 2022-05-16 | 2024-07-04 |
 | [.allstar](https://github.com/Google-Health/.allstar) | None | None | 0 | - | 2022-10-26 | 2022-10-26 |
 | [.github](https://github.com/Google-Health/.github) | None | None | 0 | - | 2022-10-26 | 2023-12-28 |
 | [ar-microscope](https://github.com/Google-Health/ar-microscope) | None | C++ | 16 | Apache License 2.0 | 2023-04-11 | 2024-07-20 |
 | [med-gemini-medqa-relabelling](https://github.com/Google-Health/med-gemini-medqa-relabelling) | For Med-Gemini, we relabeled the MedQA benchmark; this repo includes the annotations and analysis code. | Jupyter Notebook | 20 | Apache License 2.0 | 2024-06-18 | 2024-07-10 |
-| [chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) | Chrome Extensions Samples | JavaScript | 14786 | Apache License 2.0 | 2012-06-13 | 2024-07-20 |
+| [chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) | Chrome Extensions Samples | JavaScript | 14792 | Apache License 2.0 | 2012-06-13 | 2024-07-21 |
 | [jank-busters](https://github.com/GoogleChrome/jank-busters) | Resources for jank busting on the web. | JavaScript | 64 | - | 2012-06-15 | 2024-04-02 |
 | [chrome-app-codelab](https://github.com/GoogleChrome/chrome-app-codelab) | The goal of this tutorial is to get you building Chrome apps fast. Once you've completed the tutorial, you will have a simple Todo app. We've done our best to capture some of the trickier parts to the development process keeping the sample simple and straightforward. | JavaScript | 214 | Apache License 2.0 | 2012-11-21 | 2024-05-31 |
 | [chromium-dashboard](https://github.com/GoogleChrome/chromium-dashboard) | Chrome Status Dashboard | Python | 632 | Apache License 2.0 | 2013-03-07 | 2024-07-19 |
@@ -344,7 +344,7 @@
 | [custom-tabs-client](https://github.com/GoogleChrome/custom-tabs-client) | Chrome custom tabs examples | Java | 1398 | Apache License 2.0 | 2015-05-21 | 2024-06-27 |
 | [OriginTrials](https://github.com/GoogleChrome/OriginTrials) | Enabling safe experimentation with web APIs | Bikeshed | 522 | Apache License 2.0 | 2015-10-02 | 2024-06-30 |
 | [proxy-polyfill](https://github.com/GoogleChrome/proxy-polyfill) | Proxy object polyfill | JavaScript | 1134 | Apache License 2.0 | 2016-02-19 | 2024-07-19 |
-| [lighthouse](https://github.com/GoogleChrome/lighthouse) | Automated auditing, performance metrics, and best practices for the web. | JavaScript | 28060 | Apache License 2.0 | 2016-03-08 | 2024-07-20 |
+| [lighthouse](https://github.com/GoogleChrome/lighthouse) | Automated auditing, performance metrics, and best practices for the web. | JavaScript | 28067 | Apache License 2.0 | 2016-03-08 | 2024-07-21 |
 | [workbox](https://github.com/GoogleChrome/workbox) | 📦 Workbox: JavaScript libraries for Progressive Web Apps | JavaScript | 12216 | MIT License | 2016-04-04 | 2024-07-19 |
 | [omnitone](https://github.com/GoogleChrome/omnitone) | Spatial Audio Rendering on the web. | JavaScript | 848 | Apache License 2.0 | 2016-06-02 | 2024-07-14 |
 | [audion](https://github.com/GoogleChrome/audion) | Audion is a Chrome extension that adds a Web Audio panel to Developer Tools. This panel visualizes the web audio graph in real-time. | TypeScript | 365 | Apache License 2.0 | 2016-06-17 | 2024-07-10 |
@@ -356,10 +356,10 @@
 | [web.dev](https://github.com/GoogleChrome/web.dev) | The frontend, backend, and content source code for web.dev | Nunjucks | 3553 | Other | 2018-09-12 | 2024-07-09 |
 | [lighthouse-stack-packs](https://github.com/GoogleChrome/lighthouse-stack-packs) | Lighthouse Stack Packs | JavaScript | 205 | Apache License 2.0 | 2018-12-07 | 2024-07-12 |
 | [CrUX](https://github.com/GoogleChrome/CrUX) | The place to share queries, ideas, or issues related to the Chrome UX Report | Jupyter Notebook | 205 | Apache License 2.0 | 2019-03-11 | 2024-07-12 |
-| [lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci) | Automate running Lighthouse for every commit, viewing the changes, and preventing regressions | JavaScript | 6339 | Apache License 2.0 | 2019-04-08 | 2024-07-18 |
+| [lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci) | Automate running Lighthouse for every commit, viewing the changes, and preventing regressions | JavaScript | 6344 | Apache License 2.0 | 2019-04-08 | 2024-07-21 |
 | [budget.json](https://github.com/GoogleChrome/budget.json) | None | None | 38 | Apache License 2.0 | 2019-07-18 | 2024-06-11 |
 | [android-browser-helper](https://github.com/GoogleChrome/android-browser-helper) | The Android Browser Helper library helps developers use Custom Tabs and Trusted Web Activities on top of the AndroidX browser support library. | Java | 682 | Apache License 2.0 | 2019-08-09 | 2024-07-18 |
-| [web-vitals](https://github.com/GoogleChrome/web-vitals) | Essential metrics for a healthy site. | JavaScript | 7339 | Apache License 2.0 | 2020-03-23 | 2024-07-20 |
+| [web-vitals](https://github.com/GoogleChrome/web-vitals) | Essential metrics for a healthy site. | JavaScript | 7341 | Apache License 2.0 | 2020-03-23 | 2024-07-20 |
 | [web-vitals-extension](https://github.com/GoogleChrome/web-vitals-extension) | A Chrome extension to measure essential metrics for a healthy site | CSS | 2333 | Apache License 2.0 | 2020-04-09 | 2024-07-13 |
 | [CertificateTransparency-todelete](https://github.com/GoogleChrome/CertificateTransparency-todelete) | None | HTML | 7 | Apache License 2.0 | 2020-08-21 | 2024-02-08 |
 | [chrome-types](https://github.com/GoogleChrome/chrome-types) | Code to parse Chrome's internal extension type definitions—published on NPM as chrome-types | JavaScript | 179 | Apache License 2.0 | 2020-10-22 | 2024-07-04 |
@@ -371,18 +371,18 @@
 | [ip-protection](https://github.com/GoogleChrome/ip-protection) | None | None | 157 | Apache License 2.0 | 2023-02-23 | 2024-07-17 |
 | [private-tokens](https://github.com/GoogleChrome/private-tokens) | None | None | 39 | Apache License 2.0 | 2023-05-23 | 2024-07-08 |
 | [lighthouse-plugin-example](https://github.com/GoogleChrome/lighthouse-plugin-example) | None | JavaScript | 1 | Apache License 2.0 | 2023-09-11 | 2023-10-13 |
-| [webstatus.dev](https://github.com/GoogleChrome/webstatus.dev) | A tool to monitor and track the status of all Web Platform features across dimensions that are related to availability and implementation quality across browsers, and adoption by web developers.  | Go | 75 | Apache License 2.0 | 2024-02-08 | 2024-07-19 |
+| [webstatus.dev](https://github.com/GoogleChrome/webstatus.dev) | A tool to monitor and track the status of all Web Platform features across dimensions that are related to availability and implementation quality across browsers, and adoption by web developers.  | Go | 77 | Apache License 2.0 | 2024-02-08 | 2024-07-21 |
 | [baseline-status](https://github.com/GoogleChrome/baseline-status) | None | JavaScript | 1 | Apache License 2.0 | 2024-05-24 | 2024-06-24 |
 | [text-app](https://github.com/GoogleChromeLabs/text-app) | A text editor for ChromeOS and Chrome | JavaScript | 549 | Other | 2012-11-07 | 2024-06-05 |
 | [MiniMobileDeviceLab](https://github.com/GoogleChromeLabs/MiniMobileDeviceLab) | A mini mobile web device lab | Objective-C | 393 | Apache License 2.0 | 2013-08-22 | 2024-05-31 |
-| [web-audio-samples](https://github.com/GoogleChromeLabs/web-audio-samples) | Web Audio API samples by Chrome Web Audio Team | JavaScript | 680 | Apache License 2.0 | 2014-02-26 | 2024-07-19 |
+| [web-audio-samples](https://github.com/GoogleChromeLabs/web-audio-samples) | Web Audio API samples by Chrome Web Audio Team | JavaScript | 681 | Apache License 2.0 | 2014-02-26 | 2024-07-21 |
 | [psi](https://github.com/GoogleChromeLabs/psi) | PageSpeed Insights Reporting for Node | JavaScript | 3096 | Apache License 2.0 | 2014-05-26 | 2024-06-15 |
-| [sw-precache](https://github.com/GoogleChromeLabs/sw-precache) | [Deprecated] A node module to generate service worker code that will precache specific resources so they work offline. | JavaScript | 5233 | Apache License 2.0 | 2014-12-25 | 2024-07-18 |
+| [sw-precache](https://github.com/GoogleChromeLabs/sw-precache) | [Deprecated] A node module to generate service worker code that will precache specific resources so they work offline. | JavaScript | 5232 | Apache License 2.0 | 2014-12-25 | 2024-07-20 |
 | [sw-toolbox](https://github.com/GoogleChromeLabs/sw-toolbox) | [Deprecated] A collection of service worker tools for offlining runtime requests | JavaScript | 3620 | Apache License 2.0 | 2015-04-20 | 2024-07-19 |
 | [current-versions](https://github.com/GoogleChromeLabs/current-versions) | Up-to-date listing of Google Chrome's latest versions across stable, beta, dev and canary | HTML | 56 | - | 2015-05-06 | 2024-03-14 |
 | [airhorn](https://github.com/GoogleChromeLabs/airhorn) | Air horn | JavaScript | 366 | Other | 2015-07-13 | 2024-06-30 |
 | [http2push-gae](https://github.com/GoogleChromeLabs/http2push-gae) | Drop-in HTTP2 push on App Engine | HTML | 141 | Apache License 2.0 | 2015-09-09 | 2023-11-24 |
-| [application-shell](https://github.com/GoogleChromeLabs/application-shell) | Service Worker Application Shell Architecture | JavaScript | 1175 | Apache License 2.0 | 2015-10-06 | 2024-07-13 |
+| [application-shell](https://github.com/GoogleChromeLabs/application-shell) | Service Worker Application Shell Architecture | JavaScript | 1176 | Apache License 2.0 | 2015-10-06 | 2024-07-20 |
 | [http2-push-manifest](https://github.com/GoogleChromeLabs/http2-push-manifest) | Generate a list of static resources for http2 push. | JavaScript | 187 | Apache License 2.0 | 2015-10-12 | 2023-01-27 |
 | [simplehttp2server](https://github.com/GoogleChromeLabs/simplehttp2server) | A simple HTTP/2 server for development | Go | 1735 | Other | 2015-10-21 | 2024-06-08 |
 | [web-push-codelab](https://github.com/GoogleChromeLabs/web-push-codelab) | None | JavaScript | 557 | Other | 2015-11-02 | 2024-06-08 |
@@ -422,13 +422,13 @@
 | [a11ycasts](https://github.com/GoogleChromeLabs/a11ycasts) | Code samples from the A11ycasts YouTube series | None | 41 | Apache License 2.0 | 2017-06-21 | 2024-03-19 |
 | [samples-module-loading-comparison](https://github.com/GoogleChromeLabs/samples-module-loading-comparison) | Some tests for comparing performance between bundling and unbundling JS | JavaScript | 61 | Apache License 2.0 | 2017-06-30 | 2023-02-27 |
 | [pr-bot](https://github.com/GoogleChromeLabs/pr-bot) | 🤖 Compare your base branch to a pull request and run plugins over it to view differences | JavaScript | 180 | Apache License 2.0 | 2017-08-04 | 2023-12-12 |
-| [comlink](https://github.com/GoogleChromeLabs/comlink) | Comlink makes WebWorkers enjoyable. | TypeScript | 11092 | Apache License 2.0 | 2017-09-06 | 2024-07-19 |
+| [comlink](https://github.com/GoogleChromeLabs/comlink) | Comlink makes WebWorkers enjoyable. | TypeScript | 11095 | Apache License 2.0 | 2017-09-06 | 2024-07-21 |
 | [sample-pie-shop](https://github.com/GoogleChromeLabs/sample-pie-shop) | Example e-commerce site to explore PWA (Progressive Web App) use cases. | JavaScript | 237 | Apache License 2.0 | 2017-09-08 | 2024-06-30 |
 | [W3CSnippets](https://github.com/GoogleChromeLabs/W3CSnippets) | None | None | 6 | Apache License 2.0 | 2017-11-12 | 2023-01-27 |
-| [jsvu](https://github.com/GoogleChromeLabs/jsvu) | JavaScript (engine) Version Updater | JavaScript | 1863 | Apache License 2.0 | 2017-11-29 | 2024-07-18 |
+| [jsvu](https://github.com/GoogleChromeLabs/jsvu) | JavaScript (engine) Version Updater | JavaScript | 1865 | Apache License 2.0 | 2017-11-29 | 2024-07-21 |
 | [webpack-training-project](https://github.com/GoogleChromeLabs/webpack-training-project) | A training project for learning Webpack optimizations | JavaScript | 372 | Apache License 2.0 | 2017-12-07 | 2024-06-11 |
 | [wasm-jpeg-ijg](https://github.com/GoogleChromeLabs/wasm-jpeg-ijg) | Demo from Chrome Dev Summit of using Web Assembly to optimize images in a browser | C | 57 | Apache License 2.0 | 2017-12-18 | 2023-07-15 |
-| [webpack-libs-optimizations](https://github.com/GoogleChromeLabs/webpack-libs-optimizations) | Using a library in your webpack project? Here’s how to optimize it | None | 3366 | Apache License 2.0 | 2018-01-19 | 2024-07-19 |
+| [webpack-libs-optimizations](https://github.com/GoogleChromeLabs/webpack-libs-optimizations) | Using a library in your webpack project? Here’s how to optimize it | None | 3367 | Apache License 2.0 | 2018-01-19 | 2024-07-20 |
 | [first-input-delay](https://github.com/GoogleChromeLabs/first-input-delay) | A JavaScript library for measuring First Input Delay (FID) in the browser. | JavaScript | 349 | Apache License 2.0 | 2018-01-26 | 2023-12-13 |
 | [pptraas.com](https://github.com/GoogleChromeLabs/pptraas.com) | Puppeteer as a service | JavaScript | 456 | Apache License 2.0 | 2018-01-31 | 2024-04-30 |
 | [react-shrine](https://github.com/GoogleChromeLabs/react-shrine) | "Shrine" Progressive Web App sample built with React | JavaScript | 331 | Apache License 2.0 | 2018-02-07 | 2024-04-06 |
@@ -436,7 +436,7 @@
 | [FastPageLoadDemo](https://github.com/GoogleChromeLabs/FastPageLoadDemo) | None | HTML | 12 | Apache License 2.0 | 2018-02-15 | 2024-03-20 |
 | [clooney](https://github.com/GoogleChromeLabs/clooney) | Clooney is an actor library for the web. Use workers without thinking about workers. | JavaScript | 1421 | Apache License 2.0 | 2018-02-21 | 2024-06-19 |
 | [timezone-app](https://github.com/GoogleChromeLabs/timezone-app) | None | None | 3 | - | 2018-03-05 | 2023-01-27 |
-| [squoosh](https://github.com/GoogleChromeLabs/squoosh) | Make images smaller using best-in-class codecs, right in the browser. | TypeScript | 21414 | Apache License 2.0 | 2018-03-07 | 2024-07-20 |
+| [squoosh](https://github.com/GoogleChromeLabs/squoosh) | Make images smaller using best-in-class codecs, right in the browser. | TypeScript | 21421 | Apache License 2.0 | 2018-03-07 | 2024-07-21 |
 | [shadow-selection-polyfill](https://github.com/GoogleChromeLabs/shadow-selection-polyfill) | Polyfill for shadowRoot.getSelection() in Safari | JavaScript | 27 | Apache License 2.0 | 2018-04-19 | 2024-06-18 |
 | [so-pwa](https://github.com/GoogleChromeLabs/so-pwa) | A progressive web app to read Stack Overflow content. | JavaScript | 260 | Apache License 2.0 | 2018-04-19 | 2024-06-30 |
 | [perftools-runner](https://github.com/GoogleChromeLabs/perftools-runner) | Google Performance Tools runner using Puppeteer | JavaScript | 94 | Apache License 2.0 | 2018-05-01 | 2024-04-16 |
@@ -466,9 +466,9 @@
 | [lighthouse-keeper](https://github.com/GoogleChromeLabs/lighthouse-keeper) | Collects and displays Lighthouse data over time | JavaScript | 86 | Apache License 2.0 | 2018-10-10 | 2024-06-14 |
 | [flyhome](https://github.com/GoogleChromeLabs/flyhome) | A little web app to demonstrate dynamic manifests creating a "Single Serving Site". | None | 6 | Apache License 2.0 | 2018-10-18 | 2024-03-05 |
 | [go-hackernews](https://github.com/GoogleChromeLabs/go-hackernews) | A Hacker News client written in Go | Go | 83 | Apache License 2.0 | 2018-10-19 | 2023-10-01 |
-| [carlo](https://github.com/GoogleChromeLabs/carlo) | Web rendering surface for Node applications | JavaScript | 9314 | Apache License 2.0 | 2018-10-28 | 2024-07-20 |
+| [carlo](https://github.com/GoogleChromeLabs/carlo) | Web rendering surface for Node applications | JavaScript | 9315 | Apache License 2.0 | 2018-10-28 | 2024-07-20 |
 | [affilicats](https://github.com/GoogleChromeLabs/affilicats) | 🐈 Progressive Web App demo that showcases flaky network resilience measures (📶 or 🚫📶). | JavaScript | 68 | Apache License 2.0 | 2018-10-29 | 2024-02-18 |
-| [jsbi](https://github.com/GoogleChromeLabs/jsbi) | JSBI is a pure-JavaScript implementation of the official ECMAScript BigInt proposal. | JavaScript | 898 | Apache License 2.0 | 2018-11-08 | 2024-07-02 |
+| [jsbi](https://github.com/GoogleChromeLabs/jsbi) | JSBI is a pure-JavaScript implementation of the official ECMAScript BigInt proposal. | JavaScript | 899 | Apache License 2.0 | 2018-11-08 | 2024-07-20 |
 | [babel-plugin-transform-jsbi-to-bigint](https://github.com/GoogleChromeLabs/babel-plugin-transform-jsbi-to-bigint) | Compile JSBI code that works in today’s environments to native BigInt code. | JavaScript | 39 | Apache License 2.0 | 2018-11-21 | 2024-07-03 |
 | [quicklink](https://github.com/GoogleChromeLabs/quicklink) | ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time | JavaScript | 10971 | Apache License 2.0 | 2018-11-23 | 2024-07-18 |
 | [tour-of-thrones](https://github.com/GoogleChromeLabs/tour-of-thrones) | A Game of Thrones app built with Angular | TypeScript | 10 | Apache License 2.0 | 2018-12-03 | 2024-02-16 |
@@ -581,7 +581,7 @@
 | [block-file-types](https://github.com/GoogleChromeLabs/block-file-types) | None | JavaScript | 4 | Apache License 2.0 | 2023-03-24 | 2023-08-18 |
 | [third-party-capital](https://github.com/GoogleChromeLabs/third-party-capital) | A library that provides best practices for loading popular third-parties | PHP | 107 | Apache License 2.0 | 2023-04-04 | 2024-07-18 |
 | [io23-scroll-driven-animations-codelab](https://github.com/GoogleChromeLabs/io23-scroll-driven-animations-codelab) | None | HTML | 4 | Apache License 2.0 | 2023-04-14 | 2023-10-09 |
-| [chrome-for-testing](https://github.com/GoogleChromeLabs/chrome-for-testing) | None | JavaScript | 571 | Apache License 2.0 | 2023-04-25 | 2024-07-19 |
+| [chrome-for-testing](https://github.com/GoogleChromeLabs/chrome-for-testing) | None | JavaScript | 573 | Apache License 2.0 | 2023-04-25 | 2024-07-21 |
 | [export-practice-sets-to-csv-or-sheets](https://github.com/GoogleChromeLabs/export-practice-sets-to-csv-or-sheets) | None | JavaScript | 3 | Apache License 2.0 | 2023-04-29 | 2024-04-06 |
 | [passkeys-demo](https://github.com/GoogleChromeLabs/passkeys-demo) | passkeys-demo is a demo web application developers can have a look and try themselves to learn how to develop a similar experience. | JavaScript | 70 | Apache License 2.0 | 2023-05-30 | 2024-07-18 |
 | [extension-update-testing-tool](https://github.com/GoogleChromeLabs/extension-update-testing-tool) | Tool for testing the update flow for Chrome Extensions during development, including permission grants. | JavaScript | 142 | Apache License 2.0 | 2023-05-30 | 2024-07-15 |
@@ -612,7 +612,7 @@
 | [cicd-images](https://github.com/GoogleCloudBuild/cicd-images) | None | Go | 0 | Apache License 2.0 | 2024-01-16 | 2024-07-17 |
 | [hadoop-connectors](https://github.com/GoogleCloudDataproc/hadoop-connectors) | Libraries and tools for interoperability between Hadoop-related open-source software and Google Cloud Platform. | Java | 277 | Apache License 2.0 | 2014-05-12 | 2024-07-17 |
 | [bdutil](https://github.com/GoogleCloudDataproc/bdutil) | [DEPRECATED] Script used to manage Hadoop and Spark instances on Google Compute Engine | Shell | 109 | Apache License 2.0 | 2015-01-10 | 2024-01-05 |
-| [initialization-actions](https://github.com/GoogleCloudDataproc/initialization-actions) | Run in all nodes of your cluster before the cluster starts - lets you customize your cluster | Shell | 586 | Apache License 2.0 | 2015-10-12 | 2024-07-18 |
+| [initialization-actions](https://github.com/GoogleCloudDataproc/initialization-actions) | Run in all nodes of your cluster before the cluster starts - lets you customize your cluster | Shell | 586 | Apache License 2.0 | 2015-10-12 | 2024-07-20 |
 | [cloud-dataproc](https://github.com/GoogleCloudDataproc/cloud-dataproc) | Cloud Dataproc: Samples and Utils | Jupyter Notebook | 194 | Apache License 2.0 | 2016-11-02 | 2024-07-16 |
 | [spark-spanner-connector](https://github.com/GoogleCloudDataproc/spark-spanner-connector) | Cloud Spanner Connector for Apache Spark | Java | 16 | Apache License 2.0 | 2018-06-27 | 2023-11-28 |
 | [spark-bigquery-connector](https://github.com/GoogleCloudDataproc/spark-bigquery-connector) | BigQuery data source for Apache Spark: Read data from BigQuery into DataFrames, write DataFrames into BigQuery tables. | Java | 358 | Apache License 2.0 | 2019-02-26 | 2024-07-03 |
@@ -761,7 +761,7 @@
 | [deactivate_tunnel](https://github.com/GoogleCloudPlatform/deactivate_tunnel) | Deactivates a VPN tunnel on the Google Cloud Platform.  | Python | 4 | Apache License 2.0 | 2015-04-22 | 2024-03-02 |
 | [CodeIgniter](https://github.com/GoogleCloudPlatform/CodeIgniter) | Open Source PHP Framework for GAE (originally from EllisLab) | HTML | 3 | MIT License | 2015-04-26 | 2023-01-27 |
 | [appengine-python-blobstore-cors-upload](https://github.com/GoogleCloudPlatform/appengine-python-blobstore-cors-upload) | How to use CORS headers to upload to blobstore from appengine.  | Python | 7 | Apache License 2.0 | 2015-04-29 | 2023-01-27 |
-| [python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples) | Code samples used on cloud.google.com | Jupyter Notebook | 7104 | Apache License 2.0 | 2015-05-04 | 2024-07-19 |
+| [python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples) | Code samples used on cloud.google.com | Jupyter Notebook | 7105 | Apache License 2.0 | 2015-05-04 | 2024-07-20 |
 | [nodejs-docs-samples](https://github.com/GoogleCloudPlatform/nodejs-docs-samples) | Node.js samples for Google Cloud Platform products. | JavaScript | 2791 | Apache License 2.0 | 2015-05-04 | 2024-07-20 |
 | [nodejs-getting-started](https://github.com/GoogleCloudPlatform/nodejs-getting-started) | A tutorial for creating a complete application using Node.js on Google Cloud Platform | JavaScript | 802 | Apache License 2.0 | 2015-05-08 | 2024-06-20 |
 | [jenkins-gcp-leader](https://github.com/GoogleCloudPlatform/jenkins-gcp-leader) | None | Shell | 27 | Apache License 2.0 | 2015-05-12 | 2023-01-03 |
@@ -798,7 +798,7 @@
 | [cloud-trace-java](https://github.com/GoogleCloudPlatform/cloud-trace-java) | None | Java | 48 | Apache License 2.0 | 2015-09-01 | 2024-03-31 |
 | [golang-samples](https://github.com/GoogleCloudPlatform/golang-samples) | Sample apps and code written for Google Cloud in the Go programming language. | Go | 4223 | Apache License 2.0 | 2015-09-28 | 2024-07-19 |
 | [dotnet-docs-samples](https://github.com/GoogleCloudPlatform/dotnet-docs-samples) | .NET code samples used on https://cloud.google.com | C# | 728 | Apache License 2.0 | 2015-10-01 | 2024-07-18 |
-| [cloud-sql-proxy](https://github.com/GoogleCloudPlatform/cloud-sql-proxy) | A utility for connecting securely to your Cloud SQL instances | Go | 1246 | Apache License 2.0 | 2015-10-01 | 2024-07-18 |
+| [cloud-sql-proxy](https://github.com/GoogleCloudPlatform/cloud-sql-proxy) | A utility for connecting securely to your Cloud SQL instances | Go | 1248 | Apache License 2.0 | 2015-10-01 | 2024-07-20 |
 | [cloud-debug-python](https://github.com/GoogleCloudPlatform/cloud-debug-python) | Python Cloud Debugger | Python | 92 | Apache License 2.0 | 2015-10-02 | 2024-01-23 |
 | [LabelCat](https://github.com/GoogleCloudPlatform/LabelCat) | Uses Google Prediction API to label GitHub Issues as they are created. | JavaScript | 27 | Apache License 2.0 | 2015-10-09 | 2023-01-28 |
 | [dataflow-precipitation-pipeline](https://github.com/GoogleCloudPlatform/dataflow-precipitation-pipeline) | None | Java | 6 | Apache License 2.0 | 2015-10-12 | 2023-01-27 |
@@ -847,7 +847,7 @@
 | [ios-docs-samples](https://github.com/GoogleCloudPlatform/ios-docs-samples) | iOS samples that demonstrate APIs and services of Google Cloud Platform. | Swift | 326 | Apache License 2.0 | 2016-03-18 | 2024-06-13 |
 | [cloud-sql-jdbc-socket-factory](https://github.com/GoogleCloudPlatform/cloud-sql-jdbc-socket-factory) | A collection of Java libraries for connecting securely to Cloud SQL | Java | 226 | Apache License 2.0 | 2016-03-23 | 2024-07-17 |
 | [datalab-samples](https://github.com/GoogleCloudPlatform/datalab-samples) | None | Jupyter Notebook | 279 | Apache License 2.0 | 2016-04-12 | 2024-03-19 |
-| [training-data-analyst](https://github.com/GoogleCloudPlatform/training-data-analyst) | Labs and demos for courses for GCP Training (http://cloud.google.com/training). | Jupyter Notebook | 7664 | Apache License 2.0 | 2016-04-17 | 2024-07-19 |
+| [training-data-analyst](https://github.com/GoogleCloudPlatform/training-data-analyst) | Labs and demos for courses for GCP Training (http://cloud.google.com/training). | Jupyter Notebook | 7666 | Apache License 2.0 | 2016-04-17 | 2024-07-20 |
 | [nodejs-repo-tools](https://github.com/GoogleCloudPlatform/nodejs-repo-tools) | A tool used to maintain and test Google GitHub repositories. | JavaScript | 47 | Apache License 2.0 | 2016-04-25 | 2023-08-28 |
 | [firebase-appengine-backend](https://github.com/GoogleCloudPlatform/firebase-appengine-backend) | None | Java | 41 | Apache License 2.0 | 2016-04-27 | 2023-01-28 |
 | [firebase-android-client](https://github.com/GoogleCloudPlatform/firebase-android-client) | None | Java | 32 | Apache License 2.0 | 2016-04-27 | 2023-07-27 |
@@ -873,7 +873,7 @@
 | [pubsub](https://github.com/GoogleCloudPlatform/pubsub) | This repository contains open-source projects managed by the owners of Google Cloud Pub/Sub. | Java | 244 | Apache License 2.0 | 2016-08-11 | 2024-07-19 |
 | [unstructured-text-demo](https://github.com/GoogleCloudPlatform/unstructured-text-demo) | None | JavaScript | 7 | Other | 2016-08-12 | 2024-01-30 |
 | [jenkins-stacksmith-plugin](https://github.com/GoogleCloudPlatform/jenkins-stacksmith-plugin) | None | Java | 1 | Apache License 2.0 | 2016-08-15 | 2023-03-28 |
-| [awesome-google-cloud](https://github.com/GoogleCloudPlatform/awesome-google-cloud) | A curated list of awesome stuff for Google Cloud. | None | 758 | Creative Commons Attribution 4.0 International | 2016-08-17 | 2024-07-06 |
+| [awesome-google-cloud](https://github.com/GoogleCloudPlatform/awesome-google-cloud) | A curated list of awesome stuff for Google Cloud. | None | 759 | Creative Commons Attribution 4.0 International | 2016-08-17 | 2024-07-20 |
 | [machine-learning-browser-extension](https://github.com/GoogleCloudPlatform/machine-learning-browser-extension) | None | JavaScript | 33 | Apache License 2.0 | 2016-08-17 | 2024-07-10 |
 | [openjdk-runtime](https://github.com/GoogleCloudPlatform/openjdk-runtime) | Google Cloud Platform OpenJDK Docker image | Shell | 61 | Apache License 2.0 | 2016-08-18 | 2023-12-01 |
 | [jetty-runtime](https://github.com/GoogleCloudPlatform/jetty-runtime) | Google Cloud Platform Jetty Docker image | Java | 44 | Apache License 2.0 | 2016-08-18 | 2023-10-05 |
@@ -886,7 +886,7 @@
 | [web-docs-samples](https://github.com/GoogleCloudPlatform/web-docs-samples) | None | JavaScript | 41 | Apache License 2.0 | 2016-09-20 | 2023-07-27 |
 | [endpoints-framework-gradle-plugin](https://github.com/GoogleCloudPlatform/endpoints-framework-gradle-plugin) | None | Java | 18 | Apache License 2.0 | 2016-09-27 | 2023-04-27 |
 | [endpoints-framework-maven-plugin](https://github.com/GoogleCloudPlatform/endpoints-framework-maven-plugin) | None | Java | 4 | Apache License 2.0 | 2016-09-27 | 2022-11-14 |
-| [cloudml-samples](https://github.com/GoogleCloudPlatform/cloudml-samples) | Cloud ML Engine repo. Please visit the new Vertex AI samples repo at https://github.com/GoogleCloudPlatform/vertex-ai-samples | Python | 1513 | Apache License 2.0 | 2016-09-29 | 2024-07-13 |
+| [cloudml-samples](https://github.com/GoogleCloudPlatform/cloudml-samples) | Cloud ML Engine repo. Please visit the new Vertex AI samples repo at https://github.com/GoogleCloudPlatform/vertex-ai-samples | Python | 1514 | Apache License 2.0 | 2016-09-29 | 2024-07-20 |
 | [firebase-ios-samples](https://github.com/GoogleCloudPlatform/firebase-ios-samples) | None | Swift | 15 | Apache License 2.0 | 2016-10-04 | 2022-11-18 |
 | [policyscanner](https://github.com/GoogleCloudPlatform/policyscanner) | Now part of Forseti Security! | Java | 19 | Apache License 2.0 | 2016-10-05 | 2023-07-27 |
 | [continuous-deployment-bitbucket](https://github.com/GoogleCloudPlatform/continuous-deployment-bitbucket) | None | Python | 69 | Apache License 2.0 | 2016-10-05 | 2024-04-09 |
@@ -949,7 +949,7 @@
 | [puppet-google](https://github.com/GoogleCloudPlatform/puppet-google) | None | None | 10 | Apache License 2.0 | 2017-07-06 | 2023-03-07 |
 | [chef-google](https://github.com/GoogleCloudPlatform/chef-google) | None | Ruby | 9 | Apache License 2.0 | 2017-07-06 | 2023-01-27 |
 | [tensorflow-object-detection-example](https://github.com/GoogleCloudPlatform/tensorflow-object-detection-example) | None | Python | 187 | Apache License 2.0 | 2017-07-07 | 2024-04-22 |
-| [k8s-stackdriver](https://github.com/GoogleCloudPlatform/k8s-stackdriver) | None | Go | 389 | Apache License 2.0 | 2017-07-10 | 2024-07-18 |
+| [k8s-stackdriver](https://github.com/GoogleCloudPlatform/k8s-stackdriver) | None | Go | 389 | Apache License 2.0 | 2017-07-10 | 2024-07-20 |
 | [google-cloud-gemserver](https://github.com/GoogleCloudPlatform/google-cloud-gemserver) | CLI to deploy a private gem server to Google App Engine Flex | Ruby | 46 | Apache License 2.0 | 2017-07-13 | 2024-05-29 |
 | [stackdriver-trace-php-extension](https://github.com/GoogleCloudPlatform/stackdriver-trace-php-extension) | PHP Extension For Collecting Request Tracing Data | C | 12 | Apache License 2.0 | 2017-07-14 | 2023-03-28 |
 | [opentsdb-bigtable](https://github.com/GoogleCloudPlatform/opentsdb-bigtable) | None | Shell | 28 | Apache License 2.0 | 2017-07-28 | 2023-12-07 |
@@ -1081,7 +1081,7 @@
 | [cloud-debug-proxy-common](https://github.com/GoogleCloudPlatform/cloud-debug-proxy-common) | None | TypeScript | 3 | Apache License 2.0 | 2018-07-26 | 2023-07-27 |
 | [cloud-debug-proxy-chrome-devtools](https://github.com/GoogleCloudPlatform/cloud-debug-proxy-chrome-devtools) | None | TypeScript | 6 | Apache License 2.0 | 2018-07-26 | 2023-07-27 |
 | [dlp-dataflow-deidentification](https://github.com/GoogleCloudPlatform/dlp-dataflow-deidentification) | Multi Cloud Data Tokenization Solution By Using Dataflow and Cloud DLP | Java | 88 | Apache License 2.0 | 2018-07-31 | 2024-07-11 |
-| [microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) | Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC. | Go | 16364 | Apache License 2.0 | 2018-08-03 | 2024-07-20 |
+| [microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) | Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC. | Go | 16366 | Apache License 2.0 | 2018-08-03 | 2024-07-21 |
 | [k8s-cloud-provider](https://github.com/GoogleCloudPlatform/k8s-cloud-provider) | Support code for implementing a Kubernetes cloud provider for Google Cloud Platform | Go | 35 | Apache License 2.0 | 2018-08-06 | 2024-07-17 |
 | [healthcare-api-token-generator](https://github.com/GoogleCloudPlatform/healthcare-api-token-generator) | Enables developers to programmatically generate OAuth 2 access tokens for use with Apigee and the Google Cloud Healthcare API | JavaScript | 13 | Apache License 2.0 | 2018-08-23 | 2023-10-13 |
 | [next18-ai-in-motion](https://github.com/GoogleCloudPlatform/next18-ai-in-motion) | Sample code for the AI in Motion demo | Java | 11 | Apache License 2.0 | 2018-08-24 | 2023-03-28 |
@@ -1124,7 +1124,7 @@
 | [serverless-store-demo](https://github.com/GoogleCloudPlatform/serverless-store-demo) | A web e-commerce demo app showcasing serverless capabilities of Google Cloud Platform. | Python | 182 | Apache License 2.0 | 2019-01-22 | 2024-04-27 |
 | [dialogflow-chatbot](https://github.com/GoogleCloudPlatform/dialogflow-chatbot) | None | Jupyter Notebook | 28 | Apache License 2.0 | 2019-01-22 | 2024-04-30 |
 | [tensorflow-inference-tensorrt5-t4-gpu](https://github.com/GoogleCloudPlatform/tensorflow-inference-tensorrt5-t4-gpu) | None | Shell | 5 | Apache License 2.0 | 2019-01-22 | 2023-01-28 |
-| [google-cloud-spanner-hibernate](https://github.com/GoogleCloudPlatform/google-cloud-spanner-hibernate) | The official Google Cloud Spanner Dialect for Hibernate ORM | Java | 49 | GNU Lesser General Public License v2.1 | 2019-01-23 | 2024-07-18 |
+| [google-cloud-spanner-hibernate](https://github.com/GoogleCloudPlatform/google-cloud-spanner-hibernate) | The official Google Cloud Spanner Dialect for Hibernate ORM | Java | 50 | GNU Lesser General Public License v2.1 | 2019-01-23 | 2024-07-20 |
 | [marketplace-testrunner](https://github.com/GoogleCloudPlatform/marketplace-testrunner) | None | Go | 7 | Apache License 2.0 | 2019-01-23 | 2023-03-28 |
 | [solutions-db2wh](https://github.com/GoogleCloudPlatform/solutions-db2wh) | Deploy IBM Db2 Warehouse on GCP | Shell | 4 | Apache License 2.0 | 2019-01-24 | 2023-01-27 |
 | [composer-infra-python](https://github.com/GoogleCloudPlatform/composer-infra-python) | None | Python | 9 | Apache License 2.0 | 2019-01-25 | 2023-09-04 |
@@ -1159,7 +1159,7 @@
 | [tulip](https://github.com/GoogleCloudPlatform/tulip) | None | TypeScript | 47 | Apache License 2.0 | 2019-03-28 | 2023-03-28 |
 | [terraform-sqlserver-alwayson](https://github.com/GoogleCloudPlatform/terraform-sqlserver-alwayson) | None | PowerShell | 11 | Apache License 2.0 | 2019-03-28 | 2024-07-06 |
 | [bigquery-ml-templates](https://github.com/GoogleCloudPlatform/bigquery-ml-templates) | BigQuery ML SQL templates for common marketing use cases | Python | 168 | Apache License 2.0 | 2019-03-28 | 2024-07-16 |
-| [stackdriver-metrics-export](https://github.com/GoogleCloudPlatform/stackdriver-metrics-export) | None | Python | 36 | Apache License 2.0 | 2019-03-28 | 2024-02-07 |
+| [stackdriver-metrics-export](https://github.com/GoogleCloudPlatform/stackdriver-metrics-export) | None | Python | 37 | Apache License 2.0 | 2019-03-28 | 2024-07-20 |
 | [config-validator](https://github.com/GoogleCloudPlatform/config-validator) | Golang library which provides functionality to evaluate GCP resources against Rego-based policies | Go | 45 | Apache License 2.0 | 2019-03-28 | 2024-06-15 |
 | [policy-library](https://github.com/GoogleCloudPlatform/policy-library) | A library of constraint templates and sample constraints for Constraint Framework tools | TypeScript | 223 | Apache License 2.0 | 2019-03-28 | 2024-06-21 |
 | [solutions-serverless-web-monitoring](https://github.com/GoogleCloudPlatform/solutions-serverless-web-monitoring) | None | Python | 22 | Apache License 2.0 | 2019-03-29 | 2024-07-18 |
@@ -1191,7 +1191,7 @@
 | [ai-platform-text-classifier-shap](https://github.com/GoogleCloudPlatform/ai-platform-text-classifier-shap) | Text classification demo from our Next '19 breakout session | Jupyter Notebook | 79 | Apache License 2.0 | 2019-04-23 | 2024-05-11 |
 | [guest-test-infra](https://github.com/GoogleCloudPlatform/guest-test-infra) | Compute Engine Guest OS - Test infrastructure | Jsonnet | 25 | Apache License 2.0 | 2019-04-24 | 2024-07-19 |
 | [cloudjourneysidecar](https://github.com/GoogleCloudPlatform/cloudjourneysidecar) | None | Go | 4 | Apache License 2.0 | 2019-04-29 | 2022-12-30 |
-| [terraformer](https://github.com/GoogleCloudPlatform/terraformer) | CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code | Go | 12155 | Apache License 2.0 | 2019-05-01 | 2024-07-20 |
+| [terraformer](https://github.com/GoogleCloudPlatform/terraformer) | CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code | Go | 12158 | Apache License 2.0 | 2019-05-01 | 2024-07-21 |
 | [flask-oauth-cors](https://github.com/GoogleCloudPlatform/flask-oauth-cors) | Authentication and CORS helper for Python cloud functions | Python | 11 | Apache License 2.0 | 2019-05-02 | 2023-12-22 |
 | [cloud-foundation-fabric](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric) | End-to-end modular samples and landing zones toolkit for Terraform on GCP. | HCL | 1416 | Apache License 2.0 | 2019-05-03 | 2024-07-20 |
 | [air-draw-demo](https://github.com/GoogleCloudPlatform/air-draw-demo) | None | Kotlin | 16 | Apache License 2.0 | 2019-05-05 | 2023-06-21 |
@@ -1306,7 +1306,7 @@
 | [solutions-pubsub-websockets](https://github.com/GoogleCloudPlatform/solutions-pubsub-websockets) | None | JavaScript | 7 | Apache License 2.0 | 2020-02-11 | 2023-08-04 |
 | [crbt](https://github.com/GoogleCloudPlatform/crbt) | Cloud Run Bootstrap Tool | JavaScript | 9 | Apache License 2.0 | 2020-02-13 | 2023-08-28 |
 | [inspec-gcp-pci-profile](https://github.com/GoogleCloudPlatform/inspec-gcp-pci-profile) | GCP PCI-DSS 3.2.1 InSpec Profile | Ruby | 17 | Apache License 2.0 | 2020-02-14 | 2023-12-07 |
-| [mlops-on-gcp](https://github.com/GoogleCloudPlatform/mlops-on-gcp) | None | Jupyter Notebook | 756 | Apache License 2.0 | 2020-02-16 | 2024-07-18 |
+| [mlops-on-gcp](https://github.com/GoogleCloudPlatform/mlops-on-gcp) | None | Jupyter Notebook | 757 | Apache License 2.0 | 2020-02-16 | 2024-07-20 |
 | [cloudbowl-microservice-game](https://github.com/GoogleCloudPlatform/cloudbowl-microservice-game) | None | Scala | 46 | Apache License 2.0 | 2020-02-18 | 2024-07-15 |
 | [gke-policy-library](https://github.com/GoogleCloudPlatform/gke-policy-library) | Google Kubernetes Engine Policy Library | None | 51 | Apache License 2.0 | 2020-02-21 | 2024-07-12 |
 | [solutions-terraform-jenkins-gitops](https://github.com/GoogleCloudPlatform/solutions-terraform-jenkins-gitops) | Demonstrates the use of Jenkins and Terraform to manage Infrastructure as Code using GitOps practices | HCL | 60 | Apache License 2.0 | 2020-02-24 | 2024-06-18 |
@@ -1368,7 +1368,7 @@
 | [anthos-service-mesh-samples](https://github.com/GoogleCloudPlatform/anthos-service-mesh-samples) | None | None | 38 | Apache License 2.0 | 2020-06-10 | 2024-07-15 |
 | [healthcare-api-dicom-viewer](https://github.com/GoogleCloudPlatform/healthcare-api-dicom-viewer) | Tool to view DICOM data served by Google Cloud Healthcare API | JavaScript | 15 | Apache License 2.0 | 2020-06-10 | 2024-01-31 |
 | [dataflow-video-analytics](https://github.com/GoogleCloudPlatform/dataflow-video-analytics) | Video Clip Analytics By Using Dataflow and Video AI For Object Tracking | Java | 34 | - | 2020-06-11 | 2024-05-17 |
-| [asl-ml-immersion](https://github.com/GoogleCloudPlatform/asl-ml-immersion) | This repos contains notebooks for the Advanced Solutions Lab: ML Immersion | Jupyter Notebook | 1676 | Apache License 2.0 | 2020-06-12 | 2024-07-19 |
+| [asl-ml-immersion](https://github.com/GoogleCloudPlatform/asl-ml-immersion) | This repos contains notebooks for the Advanced Solutions Lab: ML Immersion | Jupyter Notebook | 1680 | Apache License 2.0 | 2020-06-12 | 2024-07-20 |
 | [redis-dataflow-realtime-analytics](https://github.com/GoogleCloudPlatform/redis-dataflow-realtime-analytics) | Build a real-time website analytics dashboard on GCP using Dataflow, Cloud Memorystore (Redis) and Spring Boot | Java | 26 | Apache License 2.0 | 2020-06-15 | 2024-03-05 |
 | [functions-framework-conformance](https://github.com/GoogleCloudPlatform/functions-framework-conformance) | A Tool for Validating Conformance to the Functions Framework Contract | Go | 20 | Apache License 2.0 | 2020-06-16 | 2023-04-19 |
 | [docker-ci-helper](https://github.com/GoogleCloudPlatform/docker-ci-helper) | None | Shell | 10 | Apache License 2.0 | 2020-06-16 | 2024-05-03 |
@@ -1444,7 +1444,7 @@
 | [appengine-python-standard](https://github.com/GoogleCloudPlatform/appengine-python-standard) | Google App Engine services SDK for Python 3 | Python | 66 | Apache License 2.0 | 2021-01-06 | 2024-05-29 |
 | [cloud-run-proxy](https://github.com/GoogleCloudPlatform/cloud-run-proxy) | Local proxy for authenticating requests to Cloud Run | Go | 123 | Apache License 2.0 | 2021-01-08 | 2024-05-22 |
 | [declarative-resource-client-library](https://github.com/GoogleCloudPlatform/declarative-resource-client-library) | None | Go | 32 | Apache License 2.0 | 2021-01-08 | 2024-07-04 |
-| [datacatalog-tag-engine](https://github.com/GoogleCloudPlatform/datacatalog-tag-engine) | Tag Engine automates the process of creating, updating, deleting, and populating metadata in bulk with Google Cloud's Data Catalog. Tag Engine is licensed under the Apache 2 license terms. Please make sure to read, understand and agree to the terms of the LICENSE and CONTRIBUTING files before proceeding. | Python | 47 | Apache License 2.0 | 2021-01-11 | 2024-07-18 |
+| [datacatalog-tag-engine](https://github.com/GoogleCloudPlatform/datacatalog-tag-engine) | Tag Engine automates the process of creating, updating, deleting, and populating metadata in bulk with Google Cloud's Data Catalog. Tag Engine is licensed under the Apache 2 license terms. Please make sure to read, understand and agree to the terms of the LICENSE and CONTRIBUTING files before proceeding. | Python | 48 | Apache License 2.0 | 2021-01-11 | 2024-07-20 |
 | [gdcv-bare-metal-ref-arch](https://github.com/GoogleCloudPlatform/gdcv-bare-metal-ref-arch) | None | Shell | 15 | Apache License 2.0 | 2021-01-14 | 2024-02-02 |
 | [dart-samples](https://github.com/GoogleCloudPlatform/dart-samples) | A collection of samples on using Dart with Google Cloud Platform. | None | 5 | Apache License 2.0 | 2021-01-15 | 2023-10-13 |
 | [knfsd-cache-utils](https://github.com/GoogleCloudPlatform/knfsd-cache-utils) | A set of utilities for building, deploying and operating a high performance NFS Cache in Google Cloud. This is designed to be used for certain HPC and burst compute use-cases where there is a requirement for a high performance NFS cache between a NFS Server and its downstream NFS Clients. | Go | 66 | Apache License 2.0 | 2021-01-18 | 2024-06-17 |
@@ -1505,7 +1505,7 @@
 | [cloud-spanner-samples](https://github.com/GoogleCloudPlatform/cloud-spanner-samples) | None | Java | 11 | Apache License 2.0 | 2021-05-19 | 2024-06-03 |
 | [terraform-google-secure-cicd](https://github.com/GoogleCloudPlatform/terraform-google-secure-cicd) | Builds a secure CI/CD pipeline on Google Cloud | HCL | 89 | Apache License 2.0 | 2021-05-20 | 2024-06-08 |
 | [activeassist-serverless-pipeline](https://github.com/GoogleCloudPlatform/activeassist-serverless-pipeline) | None | JavaScript | 3 | Apache License 2.0 | 2021-05-25 | 2023-03-28 |
-| [vertex-ai-samples](https://github.com/GoogleCloudPlatform/vertex-ai-samples) | Notebooks, code samples, sample apps, and other resources that demonstrate how to use, develop and manage machine learning and generative AI workflows using Google Cloud Vertex AI. | Jupyter Notebook | 1542 | Apache License 2.0 | 2021-05-27 | 2024-07-20 |
+| [vertex-ai-samples](https://github.com/GoogleCloudPlatform/vertex-ai-samples) | Notebooks, code samples, sample apps, and other resources that demonstrate how to use, develop and manage machine learning and generative AI workflows using Google Cloud Vertex AI. | Jupyter Notebook | 1543 | Apache License 2.0 | 2021-05-27 | 2024-07-20 |
 | [serverless-exec-ruby](https://github.com/GoogleCloudPlatform/serverless-exec-ruby) | None | Ruby | 6 | Apache License 2.0 | 2021-05-27 | 2023-04-30 |
 | [firebase-extensions](https://github.com/GoogleCloudPlatform/firebase-extensions) | None | TypeScript | 72 | Apache License 2.0 | 2021-06-01 | 2024-07-18 |
 | [notebooks-extended-uis](https://github.com/GoogleCloudPlatform/notebooks-extended-uis) | None | Smarty | 7 | Apache License 2.0 | 2021-06-02 | 2023-03-28 |
@@ -1538,7 +1538,7 @@
 | [migrate-to-containers](https://github.com/GoogleCloudPlatform/migrate-to-containers) | Migrate to Containers samples and best practices | Shell | 43 | Apache License 2.0 | 2021-07-27 | 2024-06-11 |
 | [secure-image-pipeline](https://github.com/GoogleCloudPlatform/secure-image-pipeline) | None | HCL | 19 | Apache License 2.0 | 2021-07-28 | 2024-07-18 |
 | [stet](https://github.com/GoogleCloudPlatform/stet) | Split-Trust Encryption Tool for ubiquitous data encryption. | Go | 33 | Apache License 2.0 | 2021-08-03 | 2024-05-29 |
-| [pgadapter](https://github.com/GoogleCloudPlatform/pgadapter) | PostgreSQL wire-protocol proxy for Cloud Spanner | Java | 51 | Apache License 2.0 | 2021-08-13 | 2024-07-16 |
+| [pgadapter](https://github.com/GoogleCloudPlatform/pgadapter) | PostgreSQL wire-protocol proxy for Cloud Spanner | Java | 52 | Apache License 2.0 | 2021-08-13 | 2024-07-20 |
 | [dfcx-scrapi](https://github.com/GoogleCloudPlatform/dfcx-scrapi) | A high level scripting API for bot builders, developers, and maintainers. | Python | 76 | Apache License 2.0 | 2021-08-17 | 2024-07-19 |
 | [dlp-pdf-redaction](https://github.com/GoogleCloudPlatform/dlp-pdf-redaction) | This solution provides an automated, serverless way to redact sensitive data from PDF files using Google Cloud Services like Data Loss Prevention (DLP), Cloud Workflows, and Cloud Run. | HCL | 41 | Apache License 2.0 | 2021-08-18 | 2024-07-19 |
 | [reporting-api-forwarder](https://github.com/GoogleCloudPlatform/reporting-api-forwarder) | None | HCL | 4 | Apache License 2.0 | 2021-08-19 | 2024-07-02 |
@@ -1590,7 +1590,7 @@
 | [media-architectures-on-gcp](https://github.com/GoogleCloudPlatform/media-architectures-on-gcp) | None | None | 5 | Apache License 2.0 | 2022-01-13 | 2023-03-28 |
 | [firestore-migration-tooling](https://github.com/GoogleCloudPlatform/firestore-migration-tooling) | This repo has tools and sample code to help you start migrating from other databases to FireStore. | Python | 6 | Apache License 2.0 | 2022-01-21 | 2024-03-28 |
 | [git-gerrit-subcommand](https://github.com/GoogleCloudPlatform/git-gerrit-subcommand) | None | Racket | 12 | Apache License 2.0 | 2022-01-27 | 2024-04-24 |
-| [envoy-processor-examples](https://github.com/GoogleCloudPlatform/envoy-processor-examples) | OBSOLETE | None | 14 | Apache License 2.0 | 2022-01-28 | 2024-03-19 |
+| [envoy-processor-examples](https://github.com/GoogleCloudPlatform/envoy-processor-examples) | OBSOLETE | None | 13 | Apache License 2.0 | 2022-01-28 | 2024-07-21 |
 | [jit-access](https://github.com/GoogleCloudPlatform/jit-access) | Just-In-Time Access is a self-service web application that lets you manage just-in-time privileged access to Google Cloud projects. JIT Access runs on App Engine and Cloud Run. | Java | 236 | Apache License 2.0 | 2022-02-01 | 2024-07-18 |
 | [dialogflow-cx-bot-language-translation](https://github.com/GoogleCloudPlatform/dialogflow-cx-bot-language-translation) | None | Jupyter Notebook | 24 | Apache License 2.0 | 2022-02-07 | 2024-06-25 |
 | [bqml-xgboost-predictor](https://github.com/GoogleCloudPlatform/bqml-xgboost-predictor) | None | Python | 3 | Apache License 2.0 | 2022-02-10 | 2023-11-30 |
@@ -1600,15 +1600,15 @@
 | [gke-rbac-best-practices](https://github.com/GoogleCloudPlatform/gke-rbac-best-practices) | None | None | 2 | Apache License 2.0 | 2022-02-22 | 2023-08-31 |
 | [bigquery-record-manager](https://github.com/GoogleCloudPlatform/bigquery-record-manager) | None | Python | 11 | Apache License 2.0 | 2022-02-23 | 2023-11-15 |
 | [contact-center-ai-samples](https://github.com/GoogleCloudPlatform/contact-center-ai-samples) | Samples, tutorials, and demos for Conversational AI on Google Cloud | Jupyter Notebook | 44 | Apache License 2.0 | 2022-02-23 | 2024-07-19 |
-| [document-ai-samples](https://github.com/GoogleCloudPlatform/document-ai-samples) | Sample applications and demos for Document AI, the end-to-end document processing platform on Google Cloud | Jupyter Notebook | 209 | Apache License 2.0 | 2022-02-23 | 2024-07-19 |
+| [document-ai-samples](https://github.com/GoogleCloudPlatform/document-ai-samples) | Sample applications and demos for Document AI, the end-to-end document processing platform on Google Cloud | Jupyter Notebook | 210 | Apache License 2.0 | 2022-02-23 | 2024-07-20 |
 | [container-developer-workshop](https://github.com/GoogleCloudPlatform/container-developer-workshop) | None | Shell | 9 | Apache License 2.0 | 2022-02-28 | 2023-03-28 |
-| [alloydb-go-connector](https://github.com/GoogleCloudPlatform/alloydb-go-connector) | A Go library for connecting securely to your AlloyDB instances | Go | 54 | Apache License 2.0 | 2022-03-03 | 2024-07-19 |
+| [alloydb-go-connector](https://github.com/GoogleCloudPlatform/alloydb-go-connector) | A Go library for connecting securely to your AlloyDB instances | Go | 55 | Apache License 2.0 | 2022-03-03 | 2024-07-20 |
 | [alloydb-auth-proxy](https://github.com/GoogleCloudPlatform/alloydb-auth-proxy) | A utility for connecting securely to your AlloyDB instances | Go | 57 | Apache License 2.0 | 2022-03-03 | 2024-07-19 |
 | [pacemaker-alerts-cloud-logging](https://github.com/GoogleCloudPlatform/pacemaker-alerts-cloud-logging) | None | Shell | 5 | Apache License 2.0 | 2022-03-03 | 2023-11-08 |
-| [cortex-data-foundation](https://github.com/GoogleCloudPlatform/cortex-data-foundation) | Data Foundation - Google Cloud Cortex Framework | Python | 155 | Apache License 2.0 | 2022-03-04 | 2024-07-18 |
+| [cortex-data-foundation](https://github.com/GoogleCloudPlatform/cortex-data-foundation) | Data Foundation - Google Cloud Cortex Framework | Python | 156 | Apache License 2.0 | 2022-03-04 | 2024-07-20 |
 | [cortex-reporting](https://github.com/GoogleCloudPlatform/cortex-reporting) | None | Python | 28 | Apache License 2.0 | 2022-03-04 | 2024-06-27 |
 | [cortex-ml-models](https://github.com/GoogleCloudPlatform/cortex-ml-models) | None | Shell | 7 | Apache License 2.0 | 2022-03-04 | 2024-05-15 |
-| [cortex-dag-generator](https://github.com/GoogleCloudPlatform/cortex-dag-generator) | None | Python | 17 | Apache License 2.0 | 2022-03-04 | 2024-05-15 |
+| [cortex-dag-generator](https://github.com/GoogleCloudPlatform/cortex-dag-generator) | None | Python | 18 | Apache License 2.0 | 2022-03-04 | 2024-07-20 |
 | [jobs-demos](https://github.com/GoogleCloudPlatform/jobs-demos) | Cloud Run Jobs Demos - A collection of samples to show you how and when to run a container to completion without a server | Python | 65 | Apache License 2.0 | 2022-03-17 | 2024-07-19 |
 | [java-recaptcha-password-check-helpers](https://github.com/GoogleCloudPlatform/java-recaptcha-password-check-helpers) | None | Java | 6 | Apache License 2.0 | 2022-03-21 | 2024-07-11 |
 | [vertex-pipelines-end-to-end-samples](https://github.com/GoogleCloudPlatform/vertex-pipelines-end-to-end-samples) | None | Python | 219 | Apache License 2.0 | 2022-03-21 | 2024-07-13 |
@@ -1624,7 +1624,7 @@
 | [immersive-stream-for-xr-templates](https://github.com/GoogleCloudPlatform/immersive-stream-for-xr-templates) | None | PowerShell | 62 | Apache License 2.0 | 2022-05-04 | 2024-06-16 |
 | [deploystack](https://github.com/GoogleCloudPlatform/deploystack) | An extension to Google Cloud's Open In Cloud Shell that turns a terraform project into a one click deployable on Google Cloud | Go | 22 | Apache License 2.0 | 2022-05-05 | 2024-04-10 |
 | [ci-for-data-in-bigquery](https://github.com/GoogleCloudPlatform/ci-for-data-in-bigquery) | None | Python | 24 | Apache License 2.0 | 2022-05-10 | 2024-05-31 |
-| [terraform-google-secret-manager](https://github.com/GoogleCloudPlatform/terraform-google-secret-manager) | Creates one or more Google Secret Manager secrets and manages basic permissions for them | HCL | 35 | Apache License 2.0 | 2022-05-11 | 2024-07-19 |
+| [terraform-google-secret-manager](https://github.com/GoogleCloudPlatform/terraform-google-secret-manager) | Creates one or more Google Secret Manager secrets and manages basic permissions for them | HCL | 36 | Apache License 2.0 | 2022-05-11 | 2024-07-21 |
 | [stac-m3-2022](https://github.com/GoogleCloudPlatform/stac-m3-2022) | None | Python | 4 | Apache License 2.0 | 2022-05-12 | 2023-03-28 |
 | [recaptcha-enterprise-mobile-sdk](https://github.com/GoogleCloudPlatform/recaptcha-enterprise-mobile-sdk) | None | Swift | 26 | Apache License 2.0 | 2022-05-18 | 2024-06-24 |
 | [reg-reporting-blueprint](https://github.com/GoogleCloudPlatform/reg-reporting-blueprint) | None | Python | 21 | Apache License 2.0 | 2022-05-19 | 2024-06-02 |
@@ -1651,7 +1651,7 @@
 | [t5x-on-vertex-ai](https://github.com/GoogleCloudPlatform/t5x-on-vertex-ai) | This repository compiles prescriptive guidance and code samples demonstrating how to operationalize Google Research T5X framework on Google Cloud Vertex AI. | Jupyter Notebook | 50 | Apache License 2.0 | 2022-07-18 | 2024-07-13 |
 | [gce-license-tracker](https://github.com/GoogleCloudPlatform/gce-license-tracker) | Tracks VM and sole-tenant node usage for the purpose of license reporting | C# | 7 | Apache License 2.0 | 2022-07-18 | 2024-07-10 |
 | [scientific-computing-examples](https://github.com/GoogleCloudPlatform/scientific-computing-examples) | Open Source examples using Google Cloud to solve various Scientific and Technical Computing problems. | Jupyter Notebook | 13 | Apache License 2.0 | 2022-07-20 | 2024-07-18 |
-| [devrel-demos](https://github.com/GoogleCloudPlatform/devrel-demos) | None | Jupyter Notebook | 38 | Apache License 2.0 | 2022-08-02 | 2024-07-19 |
+| [devrel-demos](https://github.com/GoogleCloudPlatform/devrel-demos) | None | Jupyter Notebook | 39 | Apache License 2.0 | 2022-08-02 | 2024-07-21 |
 | [terraform-google-load-balanced-vms](https://github.com/GoogleCloudPlatform/terraform-google-load-balanced-vms) | Creates a Managed Instance Group with a loadbalancer | HCL | 23 | Apache License 2.0 | 2022-08-03 | 2024-07-12 |
 | [terraform-google-three-tier-web-app](https://github.com/GoogleCloudPlatform/terraform-google-three-tier-web-app) | Deploys a three tier web application using Cloud Run and Cloud SQL | HCL | 76 | Apache License 2.0 | 2022-08-04 | 2024-07-10 |
 | [opentelemetry-collector-builder-sample](https://github.com/GoogleCloudPlatform/opentelemetry-collector-builder-sample) | None | Makefile | 13 | Apache License 2.0 | 2022-08-08 | 2024-04-14 |
@@ -1708,11 +1708,11 @@
 | [deploystack-wordpress-on-cloudrun](https://github.com/GoogleCloudPlatform/deploystack-wordpress-on-cloudrun) | None | HCL | 19 | Apache License 2.0 | 2022-11-06 | 2024-03-05 |
 | [terraform-google-cloud-deploy](https://github.com/GoogleCloudPlatform/terraform-google-cloud-deploy) | Create Cloud Deploy pipelines and targets | HCL | 13 | Apache License 2.0 | 2022-11-07 | 2024-06-19 |
 | [gce-rescue](https://github.com/GoogleCloudPlatform/gce-rescue) | GCE Rescue is a command-line tool to boot Google Cloud Platform VMs in Rescue Mode.  Topics | Python | 34 | Apache License 2.0 | 2022-11-08 | 2024-07-01 |
-| [google-cloud-ai-demos](https://github.com/GoogleCloudPlatform/google-cloud-ai-demos) | None | TypeScript | 74 | Apache License 2.0 | 2022-11-09 | 2024-07-10 |
+| [google-cloud-ai-demos](https://github.com/GoogleCloudPlatform/google-cloud-ai-demos) | None | TypeScript | 75 | Apache License 2.0 | 2022-11-09 | 2024-07-21 |
 | [dataplex-labs](https://github.com/GoogleCloudPlatform/dataplex-labs) | None | Python | 55 | Apache License 2.0 | 2022-11-11 | 2024-06-21 |
 | [datalake-modernization-workshops](https://github.com/GoogleCloudPlatform/datalake-modernization-workshops) | None | Jupyter Notebook | 13 | Apache License 2.0 | 2022-11-11 | 2024-07-09 |
 | [bigquery-geotools](https://github.com/GoogleCloudPlatform/bigquery-geotools) | None | Java | 13 | Apache License 2.0 | 2022-11-11 | 2024-03-11 |
-| [gcs-fuse-csi-driver](https://github.com/GoogleCloudPlatform/gcs-fuse-csi-driver) | The Google Cloud Storage FUSE Container Storage Interface (CSI) Plugin. | Go | 101 | Apache License 2.0 | 2022-11-15 | 2024-07-19 |
+| [gcs-fuse-csi-driver](https://github.com/GoogleCloudPlatform/gcs-fuse-csi-driver) | The Google Cloud Storage FUSE Container Storage Interface (CSI) Plugin. | Go | 102 | Apache License 2.0 | 2022-11-15 | 2024-07-21 |
 | [solutions-terraform-scc-notifications-gchat](https://github.com/GoogleCloudPlatform/solutions-terraform-scc-notifications-gchat) | Send SCC Notifications to Google Chat | HCL | 8 | Apache License 2.0 | 2022-11-16 | 2023-05-08 |
 | [ai-infra-cluster-provisioning](https://github.com/GoogleCloudPlatform/ai-infra-cluster-provisioning) | None | HCL | 35 | Apache License 2.0 | 2022-11-18 | 2024-07-12 |
 | [eventarc-web-feed](https://github.com/GoogleCloudPlatform/eventarc-web-feed) | A serverless and extensible event-driven system for reacting to legacy web feed events | HCL | 7 | Apache License 2.0 | 2022-11-18 | 2023-03-28 |
@@ -1724,7 +1724,7 @@
 | [terraform-google-waap](https://github.com/GoogleCloudPlatform/terraform-google-waap) | Deploys the WAAP solution on Google Cloud | HCL | 24 | Apache License 2.0 | 2022-12-02 | 2024-06-24 |
 | [agent-assist-integrations](https://github.com/GoogleCloudPlatform/agent-assist-integrations) | None | JavaScript | 9 | Apache License 2.0 | 2022-12-07 | 2024-06-11 |
 | [kubeflow-gke-docs](https://github.com/GoogleCloudPlatform/kubeflow-gke-docs) | Documentation for Kubeflow on Google Cloud | Python | 8 | Creative Commons Attribution 4.0 International | 2022-12-12 | 2024-06-16 |
-| [ramble](https://github.com/GoogleCloudPlatform/ramble) | A multi-platform experimentation framework written in python. | Python | 38 | Other | 2022-12-15 | 2024-07-19 |
+| [ramble](https://github.com/GoogleCloudPlatform/ramble) | A multi-platform experimentation framework written in python. | Python | 38 | Other | 2022-12-15 | 2024-07-21 |
 | [click-to-deploy-solutions](https://github.com/GoogleCloudPlatform/click-to-deploy-solutions) | This repository has Google Cloud solutions that you can deploy with a single click. | HCL | 67 | Apache License 2.0 | 2022-12-16 | 2024-07-15 |
 | [windows-storage-scripts](https://github.com/GoogleCloudPlatform/windows-storage-scripts) | None | C++ | 5 | Apache License 2.0 | 2022-12-19 | 2024-07-20 |
 | [terraform-google-cloud-armor](https://github.com/GoogleCloudPlatform/terraform-google-cloud-armor) | Deploy Cloud Armor security policy | HCL | 34 | Apache License 2.0 | 2022-12-29 | 2024-06-27 |
@@ -1795,7 +1795,7 @@
 | [terraform-ml-image-annotation-gcf](https://github.com/GoogleCloudPlatform/terraform-ml-image-annotation-gcf) | Deploys an app for ml image annotation using gcf | TypeScript | 20 | Apache License 2.0 | 2023-04-28 | 2024-07-10 |
 | [terraform-google-out-of-band-security](https://github.com/GoogleCloudPlatform/terraform-google-out-of-band-security) | Creates a 3P out-of-band security appliance deployment | HCL | 4 | Apache License 2.0 | 2023-05-01 | 2024-07-10 |
 | [specialized-training-content](https://github.com/GoogleCloudPlatform/specialized-training-content) | None | Jupyter Notebook | 7 | Apache License 2.0 | 2023-05-02 | 2024-06-27 |
-| [generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) | Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI | Jupyter Notebook | 6366 | Apache License 2.0 | 2023-05-05 | 2024-07-20 |
+| [generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) | Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI | Jupyter Notebook | 6373 | Apache License 2.0 | 2023-05-05 | 2024-07-21 |
 | [kafka-private-service-connect](https://github.com/GoogleCloudPlatform/kafka-private-service-connect) | None | HCL | 7 | Apache License 2.0 | 2023-05-10 | 2024-03-09 |
 | [recaptcha-enterprise-flutter](https://github.com/GoogleCloudPlatform/recaptcha-enterprise-flutter) | None | Dart | 19 | Apache License 2.0 | 2023-05-12 | 2024-05-30 |
 | [scala-o11y-cui-showcase](https://github.com/GoogleCloudPlatform/scala-o11y-cui-showcase) | None | Scala | 4 | Apache License 2.0 | 2023-05-15 | 2024-04-25 |
@@ -1823,7 +1823,7 @@
 | [terraform-cloud-deployment-gke](https://github.com/GoogleCloudPlatform/terraform-cloud-deployment-gke) | Deploy a change to a live stateful service (Go on GKE) | TypeScript | 12 | Apache License 2.0 | 2023-07-17 | 2024-07-17 |
 | [migrationcenter-utils](https://github.com/GoogleCloudPlatform/migrationcenter-utils) | Useful scripts, and other utilities for Migration Center. | Go | 6 | Apache License 2.0 | 2023-07-18 | 2024-06-20 |
 | [terraform-google-tags](https://github.com/GoogleCloudPlatform/terraform-google-tags) | Create and manage Google Cloud Tags | HCL | 6 | Apache License 2.0 | 2023-07-18 | 2024-05-20 |
-| [core-solution-services](https://github.com/GoogleCloudPlatform/core-solution-services) | None | Python | 19 | Apache License 2.0 | 2023-07-20 | 2024-07-19 |
+| [core-solution-services](https://github.com/GoogleCloudPlatform/core-solution-services) | None | Python | 19 | Apache License 2.0 | 2023-07-20 | 2024-07-20 |
 | [identity-labs-google-cloud](https://github.com/GoogleCloudPlatform/identity-labs-google-cloud) | None | Shell | 5 | Apache License 2.0 | 2023-07-20 | 2023-09-07 |
 | [solutions-genai-llm-workshop](https://github.com/GoogleCloudPlatform/solutions-genai-llm-workshop) | Generative AI Language (PaLM2 + Langchain) Workshop sample codes | Python | 65 | Apache License 2.0 | 2023-07-21 | 2024-07-17 |
 | [Sensitive-Data-Protection-for-Vertex-AI-PaLM2](https://github.com/GoogleCloudPlatform/Sensitive-Data-Protection-for-Vertex-AI-PaLM2) | Sample notebook for Sensitive Data Protection of Generative AI on Google Cloud | Jupyter Notebook | 23 | Apache License 2.0 | 2023-07-25 | 2024-07-13 |
@@ -1834,7 +1834,7 @@
 | [multi-provider-dns-with-clouddns](https://github.com/GoogleCloudPlatform/multi-provider-dns-with-clouddns) | None | Python | 9 | Apache License 2.0 | 2023-08-14 | 2024-06-20 |
 | [google-cloud-abap](https://github.com/GoogleCloudPlatform/google-cloud-abap) | ABAP SDK for Google Cloud and BigQuery Connector for SAP enable customers to easily consume Google Products and Services natively from their SAP Landscape.  | ABAP | 11 | Apache License 2.0 | 2023-08-21 | 2024-07-01 |
 | [applied-ai-engineering-samples](https://github.com/GoogleCloudPlatform/applied-ai-engineering-samples) | This repository compiles code samples and notebooks demonstrating how to use Generative AI on Google Cloud Vertex AI. | Jupyter Notebook | 282 | Apache License 2.0 | 2023-08-25 | 2024-07-19 |
-| [genai-databases-retrieval-app](https://github.com/GoogleCloudPlatform/genai-databases-retrieval-app) | None | Python | 172 | Apache License 2.0 | 2023-08-25 | 2024-07-17 |
+| [genai-databases-retrieval-app](https://github.com/GoogleCloudPlatform/genai-databases-retrieval-app) | None | Python | 173 | Apache License 2.0 | 2023-08-25 | 2024-07-20 |
 | [gke-2-scc](https://github.com/GoogleCloudPlatform/gke-2-scc) | A lightweight integration to stream GKE Control Plane Audit Logs into Security Command Center | HCL | 4 | Apache License 2.0 | 2023-08-29 | 2024-02-29 |
 | [solutions-workshops](https://github.com/GoogleCloudPlatform/solutions-workshops) | Source code and resources for workshops created by the Google Cloud Solutions Architecture team. | Java | 5 | Apache License 2.0 | 2023-08-30 | 2024-07-15 |
 | [datastream-bigquery-migration-toolkit](https://github.com/GoogleCloudPlatform/datastream-bigquery-migration-toolkit) | None | Python | 4 | Apache License 2.0 | 2023-08-30 | 2024-04-17 |
@@ -1863,7 +1863,7 @@
 | [dataflow-ordered-processing](https://github.com/GoogleCloudPlatform/dataflow-ordered-processing) | None | Java | 3 | Apache License 2.0 | 2023-11-15 | 2024-05-28 |
 | [bundler_for_fhir_profile_validation_resources](https://github.com/GoogleCloudPlatform/bundler_for_fhir_profile_validation_resources) | None | Python | 3 | Apache License 2.0 | 2023-11-15 | 2024-01-31 |
 | [dataproc-trino-autoscaler](https://github.com/GoogleCloudPlatform/dataproc-trino-autoscaler) | Trino Autoscaler on Dataproc automates the scaling of Dataproc cluster based on real-time resource utilization by Trino workloads | Java | 5 | Apache License 2.0 | 2023-11-17 | 2024-07-17 |
-| [cloud-solutions](https://github.com/GoogleCloudPlatform/cloud-solutions) | Mono repo for open-sourcing Cloud Solutions Architects projects | Java | 21 | Apache License 2.0 | 2023-11-17 | 2024-07-17 |
+| [cloud-solutions](https://github.com/GoogleCloudPlatform/cloud-solutions) | Mono repo for open-sourcing Cloud Solutions Architects projects | Java | 22 | Apache License 2.0 | 2023-11-17 | 2024-07-20 |
 | [terraform-google-dbt-composer-blueprint](https://github.com/GoogleCloudPlatform/terraform-google-dbt-composer-blueprint) | None | HCL | 5 | Apache License 2.0 | 2023-11-21 | 2024-05-31 |
 | [solutionbuilder-terraform-google-three-tier-web-app](https://github.com/GoogleCloudPlatform/solutionbuilder-terraform-google-three-tier-web-app) | None | Go | 1 | Apache License 2.0 | 2023-11-23 | 2024-04-06 |
 | [solutionbuilder-terraform-genai-doc-summarization](https://github.com/GoogleCloudPlatform/solutionbuilder-terraform-genai-doc-summarization) | None | Python | 4 | Apache License 2.0 | 2023-11-23 | 2024-04-22 |
@@ -1915,7 +1915,7 @@
 | [otlp-k8s-ingest](https://github.com/GoogleCloudPlatform/otlp-k8s-ingest) | None | Makefile | 5 | Apache License 2.0 | 2024-04-05 | 2024-07-19 |
 | [terraform-google-vertex-ai](https://github.com/GoogleCloudPlatform/terraform-google-vertex-ai) | Deploy Vertex AI resources | HCL | 4 | Apache License 2.0 | 2024-04-08 | 2024-07-12 |
 | [assured-workloads-terraform](https://github.com/GoogleCloudPlatform/assured-workloads-terraform) | None | HCL | 13 | Apache License 2.0 | 2024-04-29 | 2024-06-11 |
-| [gke-vsa](https://github.com/GoogleCloudPlatform/gke-vsa) | None | None | 8 | Creative Commons Zero v1.0 Universal | 2024-04-29 | 2024-07-19 |
+| [gke-vsa](https://github.com/GoogleCloudPlatform/gke-vsa) | None | None | 8 | Creative Commons Zero v1.0 Universal | 2024-04-29 | 2024-07-20 |
 | [gcp-lb-controller-rs](https://github.com/GoogleCloudPlatform/gcp-lb-controller-rs) | None | Rust | 2 | Apache License 2.0 | 2024-05-07 | 2024-07-08 |
 | [chaos-engineering](https://github.com/GoogleCloudPlatform/chaos-engineering) | None | HCL | 5 | Apache License 2.0 | 2024-05-08 | 2024-07-20 |
 | [terraform-google-autokey](https://github.com/GoogleCloudPlatform/terraform-google-autokey) | Deploys KMS Autokey resource to simplify creation and management of customer encryption keys (CMEK) by automating provisioning and assignment. | HCL | 4 | Apache License 2.0 | 2024-05-09 | 2024-07-12 |
@@ -1994,13 +1994,13 @@
 | [training-data-analyst](https://github.com/GoogleCloudPlatformTraining/training-data-analyst) | Labs and demos for courses in the Data Engineer track of GCP Training (http://cloud.google.com/training). | JavaScript | 61 | Apache License 2.0 | 2018-01-31 | 2024-06-16 |
 | [gke-logging-sinks-demo](https://github.com/GoogleCloudPlatformTraining/gke-logging-sinks-demo) | This project describes the steps required to deploy a sample application to Kubernetes Engine that forwards log events to Stackdriver Logging. As a part of the exercise, you will create a Cloud Storage bucket and a BigQuery dataset for exporting log data. | Shell | 4 | Apache License 2.0 | 2019-07-01 | 2019-12-03 |
 | [base-images-docker](https://github.com/GoogleContainerTools/base-images-docker) | Base images for Google Docker containers. | Starlark | 418 | Apache License 2.0 | 2014-04-09 | 2024-06-30 |
-| [distroless](https://github.com/GoogleContainerTools/distroless) | 🥑  Language focused docker images, minus the operating system.   | Starlark | 18234 | Apache License 2.0 | 2017-04-18 | 2024-07-20 |
+| [distroless](https://github.com/GoogleContainerTools/distroless) | 🥑  Language focused docker images, minus the operating system.   | Starlark | 18235 | Apache License 2.0 | 2017-04-18 | 2024-07-21 |
 | [minikube-build-tools-for-java](https://github.com/GoogleContainerTools/minikube-build-tools-for-java) | Minikube lifecycle management tools for Gradle and Maven. | Java | 57 | Apache License 2.0 | 2017-07-12 | 2023-03-27 |
 | [container-diff](https://github.com/GoogleContainerTools/container-diff) | container-diff: Diff your Docker containers | Go | 3750 | Apache License 2.0 | 2017-08-07 | 2024-07-10 |
 | [container-structure-test](https://github.com/GoogleContainerTools/container-structure-test) | validate the structure of your container images | Go | 2287 | Apache License 2.0 | 2017-10-23 | 2024-07-19 |
 | [jib](https://github.com/GoogleContainerTools/jib) | 🏗 Build container images for your Java applications. | Java | 13516 | Apache License 2.0 | 2018-01-22 | 2024-07-19 |
-| [skaffold](https://github.com/GoogleContainerTools/skaffold) | Easy and Repeatable Kubernetes Development | Go | 14840 | Apache License 2.0 | 2018-01-23 | 2024-07-19 |
-| [kaniko](https://github.com/GoogleContainerTools/kaniko) | Build Container Images In Kubernetes | Go | 14331 | Apache License 2.0 | 2018-01-29 | 2024-07-19 |
+| [skaffold](https://github.com/GoogleContainerTools/skaffold) | Easy and Repeatable Kubernetes Development | Go | 14843 | Apache License 2.0 | 2018-01-23 | 2024-07-21 |
+| [kaniko](https://github.com/GoogleContainerTools/kaniko) | Build Container Images In Kubernetes | Go | 14335 | Apache License 2.0 | 2018-01-29 | 2024-07-21 |
 | [container-debug-support](https://github.com/GoogleContainerTools/container-debug-support) | Language-runtime support files for in-container debugging | Go | 93 | Apache License 2.0 | 2018-06-06 | 2024-03-28 |
 | [google-container-tools-intellij](https://github.com/GoogleContainerTools/google-container-tools-intellij) | Plugin to support Kubernetes development in the IntelliJ family of IDEs - in development | Kotlin | 56 | Apache License 2.0 | 2018-08-06 | 2023-03-27 |
 | [kubehost](https://github.com/GoogleContainerTools/kubehost) | Expose web services directly on GKE nodes during development. | Shell | 115 | Apache License 2.0 | 2018-10-01 | 2024-04-06 |
@@ -2163,7 +2163,7 @@
 | [which-source](https://github.com/Googlers-Repo/which-source) | A binariy that excludes root related binaries | C++ | 0 | GNU General Public License v3.0 | 2023-10-10 | 2023-10-10 |
 | [.github](https://github.com/Googlers-Repo/.github) | None | None | 0 | GNU General Public License v3.0 | 2023-11-17 | 2024-05-12 |
 | [magisk-modules-repo-util](https://github.com/Googlers-Repo/magisk-modules-repo-util) | A Util for Magisk Modules Repo | Python | 8 | GNU General Public License v3.0 | 2024-01-14 | 2024-07-04 |
-| [gmr](https://github.com/Googlers-Repo/gmr) | Googlers Magisk Repo | None | 7 | - | 2024-01-14 | 2024-07-20 |
+| [gmr](https://github.com/Googlers-Repo/gmr) | Googlers Magisk Repo | None | 7 | - | 2024-01-14 | 2024-07-21 |
 | [mmar](https://github.com/Googlers-Repo/mmar) | Magisk Modules Alt Repo | None | 2 | - | 2024-01-16 | 2024-06-24 |
 | [wpd](https://github.com/Googlers-Repo/wpd) | WiFi Password Viewer for MMRL | JavaScript | 3 | - | 2024-02-23 | 2024-06-30 |
 | [modconf-examples](https://github.com/Googlers-Repo/modconf-examples) | Repository to show some ModConf's I built in MMRL | JavaScript | 1 | - | 2024-05-13 | 2024-07-07 |
@@ -2251,12 +2251,12 @@
 | [.allstar](https://github.com/actions-on-google/.allstar) | None | None | 1 | - | 2022-10-26 | 2024-02-08 |
 | [.github](https://github.com/actions-on-google/.github) | None | None | 0 | - | 2022-10-26 | 2023-12-28 |
 | [android.github.io](https://github.com/android/android.github.io) | None | HTML | 107 | - | 2013-06-14 | 2024-07-09 |
-| [testing-samples](https://github.com/android/testing-samples) | A collection of samples demonstrating different frameworks and techniques for automated testing | Java | 9151 | Apache License 2.0 | 2014-10-11 | 2024-07-19 |
+| [testing-samples](https://github.com/android/testing-samples) | A collection of samples demonstrating different frameworks and techniques for automated testing | Java | 9152 | Apache License 2.0 | 2014-10-11 | 2024-07-20 |
 | [location-samples](https://github.com/android/location-samples) | Multiple samples showing the best practices in location APIs on Android. | Kotlin | 2705 | Apache License 2.0 | 2014-10-14 | 2024-07-19 |
 | [performance-samples](https://github.com/android/performance-samples) | Samples to show APIs and best practices in Performance on Android | Kotlin | 1219 | Apache License 2.0 | 2015-02-27 | 2024-07-17 |
-| [uamp](https://github.com/android/uamp) | A sample audio app for Android | Kotlin | 13055 | Apache License 2.0 | 2015-03-10 | 2024-07-19 |
+| [uamp](https://github.com/android/uamp) | A sample audio app for Android | Kotlin | 13056 | Apache License 2.0 | 2015-03-10 | 2024-07-21 |
 | [topeka](https://github.com/android/topeka) | A fun to play quiz that showcases material design on Android | Kotlin | 5168 | Apache License 2.0 | 2015-05-08 | 2024-07-19 |
-| [ndk-samples](https://github.com/android/ndk-samples) | Android NDK samples with Android Studio | C++ | 9982 | Apache License 2.0 | 2015-05-16 | 2024-07-19 |
+| [ndk-samples](https://github.com/android/ndk-samples) | Android NDK samples with Android Studio | C++ | 9983 | Apache License 2.0 | 2015-05-16 | 2024-07-20 |
 | [android-test](https://github.com/android/android-test) | An extensive framework for testing Android apps | Java | 1143 | Apache License 2.0 | 2015-08-21 | 2024-07-19 |
 | [play-billing-samples](https://github.com/android/play-billing-samples) | Samples for Google Play In-app Billing | Kotlin | 2363 | Apache License 2.0 | 2015-08-29 | 2024-07-14 |
 | [ndk](https://github.com/android/ndk) | The Android Native Development Kit | None | 1924 | - | 2015-12-16 | 2024-07-17 |
@@ -2264,7 +2264,7 @@
 | [codelab-android-accessibility](https://github.com/android/codelab-android-accessibility) | Basic Android Accessibility: making sure everyone can use what you create! | Java | 110 | Apache License 2.0 | 2016-05-11 | 2024-07-07 |
 | [codelab-constraint-layout](https://github.com/android/codelab-constraint-layout) | Constraint Layout Codelab | Java | 471 | Apache License 2.0 | 2016-05-11 | 2024-07-05 |
 | [codelab-complications-data-source](https://github.com/android/codelab-complications-data-source) | Exposing data to watch face Complications on Android Wear | Kotlin | 19 | Apache License 2.0 | 2016-05-11 | 2024-03-12 |
-| [architecture-components-samples](https://github.com/android/architecture-components-samples) | Samples for Android Architecture Components.  | Kotlin | 23361 | Apache License 2.0 | 2017-05-09 | 2024-07-19 |
+| [architecture-components-samples](https://github.com/android/architecture-components-samples) | Samples for Android Architecture Components.  | Kotlin | 23364 | Apache License 2.0 | 2017-05-09 | 2024-07-21 |
 | [codelab-exoplayer-intro](https://github.com/android/codelab-exoplayer-intro) | Media Streaming with ExoPlayer codelab | Kotlin | 210 | Apache License 2.0 | 2017-05-09 | 2024-07-11 |
 | [codelab-android-network-security-config](https://github.com/android/codelab-android-network-security-config) | Android Network Security Configuration codelab | Java | 75 | Apache License 2.0 | 2017-05-09 | 2024-03-31 |
 | [codelab-android-lifecycles](https://github.com/android/codelab-android-lifecycles) | None | Java | 625 | Apache License 2.0 | 2017-05-10 | 2024-07-03 |
@@ -2277,7 +2277,7 @@
 | [android-ktx](https://github.com/android/android-ktx) | A set of Kotlin extensions for Android app development. | None | 7477 | - | 2017-11-28 | 2024-07-17 |
 | [codelab-android-room-with-a-view](https://github.com/android/codelab-android-room-with-a-view) | None | Java | 746 | Apache License 2.0 | 2017-12-12 | 2024-06-28 |
 | [xAnd11](https://github.com/android/xAnd11) | None | Kotlin | 57 | Apache License 2.0 | 2018-01-31 | 2024-06-20 |
-| [databinding-samples](https://github.com/android/databinding-samples) | None | Kotlin | 1668 | Apache License 2.0 | 2018-02-21 | 2024-07-17 |
+| [databinding-samples](https://github.com/android/databinding-samples) | None | Kotlin | 1669 | Apache License 2.0 | 2018-02-21 | 2024-07-20 |
 | [codelab-android-paging](https://github.com/android/codelab-android-paging) | Jetpack Paging codelab | Kotlin | 492 | Apache License 2.0 | 2018-04-14 | 2024-07-14 |
 | [codelab-activity_transitionapi](https://github.com/android/codelab-activity_transitionapi) | Codelab walks you through tracking activity transition changes (start/stop run, walk, idle, drive, etc.). | Java | 24 | Other | 2018-05-08 | 2024-07-19 |
 | [codelab-android-navigation](https://github.com/android/codelab-android-navigation) | None | Kotlin | 633 | Apache License 2.0 | 2018-05-08 | 2024-06-11 |
@@ -2285,21 +2285,21 @@
 | [codelab-mlkit-android](https://github.com/android/codelab-mlkit-android) | None | Kotlin | 178 | Other | 2018-05-08 | 2024-04-28 |
 | [codelab-slices-basic-codelab](https://github.com/android/codelab-slices-basic-codelab) | None | Kotlin | 29 | Apache License 2.0 | 2018-05-09 | 2024-05-10 |
 | [KEEP](https://github.com/android/KEEP) | Kotlin Evolution and Enhancement Process | None | 14 | - | 2018-05-10 | 2023-03-27 |
-| [sunflower](https://github.com/android/sunflower) | A gardening app illustrating Android development best practices with migrating a View-based app to Jetpack Compose. | Kotlin | 17590 | Apache License 2.0 | 2018-05-23 | 2024-07-19 |
-| [snippets](https://github.com/android/snippets) | Main repository for snippets surfaced on developer.android.com. | Kotlin | 549 | Apache License 2.0 | 2018-06-20 | 2024-07-19 |
+| [sunflower](https://github.com/android/sunflower) | A gardening app illustrating Android development best practices with migrating a View-based app to Jetpack Compose. | Kotlin | 17590 | Apache License 2.0 | 2018-05-23 | 2024-07-20 |
+| [snippets](https://github.com/android/snippets) | Main repository for snippets surfaced on developer.android.com. | Kotlin | 548 | Apache License 2.0 | 2018-06-20 | 2024-07-20 |
 | [codelab-android-stamp-collector-app](https://github.com/android/codelab-android-stamp-collector-app) | None | Java | 5 | Other | 2018-07-10 | 2023-08-16 |
 | [codelab-kotlin-coroutines](https://github.com/android/codelab-kotlin-coroutines) | Kotlin Coroutines codelab | Kotlin | 548 | Apache License 2.0 | 2018-09-24 | 2024-07-02 |
 | [codelab-android-databinding](https://github.com/android/codelab-android-databinding) | None | Kotlin | 102 | Apache License 2.0 | 2018-10-23 | 2024-06-09 |
 | [codelab-android-dynamic-features](https://github.com/android/codelab-android-dynamic-features) | None | Kotlin | 119 | Apache License 2.0 | 2019-01-22 | 2024-07-16 |
-| [storage-samples](https://github.com/android/storage-samples) | Multiple samples showing the best practices in storage APIs on Android. | Kotlin | 1510 | Apache License 2.0 | 2019-04-22 | 2024-07-19 |
+| [storage-samples](https://github.com/android/storage-samples) | Multiple samples showing the best practices in storage APIs on Android. | Kotlin | 1511 | Apache License 2.0 | 2019-04-22 | 2024-07-20 |
 | [codelab-android-direct-share](https://github.com/android/codelab-android-direct-share) | None | Kotlin | 9 | Apache License 2.0 | 2019-05-03 | 2024-03-19 |
-| [camera-samples](https://github.com/android/camera-samples) | Multiple samples showing the best practices in camera APIs on Android. | Kotlin | 4893 | Apache License 2.0 | 2019-05-05 | 2024-07-20 |
+| [camera-samples](https://github.com/android/camera-samples) | Multiple samples showing the best practices in camera APIs on Android. | Kotlin | 4894 | Apache License 2.0 | 2019-05-05 | 2024-07-21 |
 | [codelab-while-in-use-location](https://github.com/android/codelab-while-in-use-location) | Codelab: | Kotlin | 81 | Apache License 2.0 | 2019-05-07 | 2024-06-27 |
 | [codelab-fido2](https://github.com/android/codelab-fido2) | None | Kotlin | 78 | Apache License 2.0 | 2019-05-17 | 2024-05-20 |
 | [wear-os-samples](https://github.com/android/wear-os-samples) | Multiple samples showing best practices in app and watch face development on Wear OS. | Kotlin | 1071 | Apache License 2.0 | 2019-06-14 | 2024-07-19 |
 | [tv-samples](https://github.com/android/tv-samples) | Multiple samples showing best practices in app development on Android TV. | Kotlin | 1021 | Apache License 2.0 | 2019-06-14 | 2024-07-18 |
 | [security-samples](https://github.com/android/security-samples) | Multiple samples showing the best practices in security APIs on Android. | Kotlin | 928 | Apache License 2.0 | 2019-07-23 | 2024-07-12 |
-| [renderscript-samples](https://github.com/android/renderscript-samples) | Multiple samples showing renderscript best practices in Android. | C++ | 211 | Apache License 2.0 | 2019-08-08 | 2024-07-19 |
+| [renderscript-samples](https://github.com/android/renderscript-samples) | Multiple samples showing renderscript best practices in Android. | C++ | 212 | Apache License 2.0 | 2019-08-08 | 2024-07-20 |
 | [animation-samples](https://github.com/android/animation-samples) | Multiple samples showing the best practices in animation on Android. | Java | 2564 | Apache License 2.0 | 2019-08-08 | 2024-07-19 |
 | [codelab-java-friendly-kotlin](https://github.com/android/codelab-java-friendly-kotlin) | None | Kotlin | 9 | Apache License 2.0 | 2019-09-03 | 2024-03-13 |
 | [graphics-samples](https://github.com/android/graphics-samples) | Multiple samples showing the best practices in graphics on Android. | Kotlin | 306 | Apache License 2.0 | 2019-09-06 | 2024-07-11 |
@@ -2307,14 +2307,14 @@
 | [fit-samples](https://github.com/android/fit-samples) | Multiple samples showing the best practices using the Fit APIs on Android. | Kotlin | 151 | Apache License 2.0 | 2019-09-06 | 2024-05-02 |
 | [identity-samples](https://github.com/android/identity-samples) | Multiple samples showing the best practices in identity on Android. | Kotlin | 327 | Apache License 2.0 | 2019-09-06 | 2024-07-19 |
 | [sensors-samples](https://github.com/android/sensors-samples) | Multiple samples showing the best practices in sensors on Android. | Java | 132 | Apache License 2.0 | 2019-09-06 | 2024-07-19 |
-| [user-interface-samples](https://github.com/android/user-interface-samples) | Multiple samples showing the best practices in the user interface on Android. | Kotlin | 4344 | Apache License 2.0 | 2019-09-06 | 2024-07-19 |
+| [user-interface-samples](https://github.com/android/user-interface-samples) | Multiple samples showing the best practices in the user interface on Android. | Kotlin | 4345 | Apache License 2.0 | 2019-09-06 | 2024-07-21 |
 | [input-samples](https://github.com/android/input-samples) | Multiple samples showing the best practices in input on Android. | Java | 289 | Apache License 2.0 | 2019-09-06 | 2024-07-18 |
 | [connectivity-samples](https://github.com/android/connectivity-samples) | Multiple samples showing the best practices in connectivity on Android. | Java | 1627 | Apache License 2.0 | 2019-09-06 | 2024-07-20 |
 | [views-widgets-samples](https://github.com/android/views-widgets-samples) | Multiple samples showing the best practices in views-widgets on Android. | Java | 5038 | Apache License 2.0 | 2019-09-06 | 2024-07-17 |
 | [app-bundle-samples](https://github.com/android/app-bundle-samples) | Multiple samples showing the best practices in app bundles on Android. | C++ | 696 | Apache License 2.0 | 2019-09-06 | 2024-07-15 |
 | [media-samples](https://github.com/android/media-samples) | Multiple samples showing the best practices in media APIs on Android (audio, video, etc.). | Java | 1249 | Apache License 2.0 | 2019-09-24 | 2024-07-17 |
 | [permissions-samples](https://github.com/android/permissions-samples) | Multiple samples showing the best practices in permissions on Android. | Kotlin | 589 | Apache License 2.0 | 2019-09-26 | 2024-07-17 |
-| [compose-samples](https://github.com/android/compose-samples) | Official Jetpack Compose samples. | Kotlin | 19418 | Apache License 2.0 | 2019-09-27 | 2024-07-20 |
+| [compose-samples](https://github.com/android/compose-samples) | Official Jetpack Compose samples. | Kotlin | 19421 | Apache License 2.0 | 2019-09-27 | 2024-07-21 |
 | [codelab-android-dagger](https://github.com/android/codelab-android-dagger) | None | Kotlin | 180 | Apache License 2.0 | 2019-10-22 | 2024-06-27 |
 | [.github](https://github.com/android/.github) | Repo hosting default community health files. | None | 11 | Apache License 2.0 | 2019-12-18 | 2024-03-09 |
 | [tuningfork](https://github.com/android/tuningfork) | Android Performance Tuner is a library to help developers measure frame rendering time across different devices and game stages. This plugin will help developers integrate Android Performance Tuner into their game. | C# | 51 | Other | 2020-01-28 | 2024-07-13 |
@@ -2335,7 +2335,7 @@
 | [android-dev-challenge-compose](https://github.com/android/android-dev-challenge-compose) | Template repository for the ADS22 Speed Challenge | Kotlin | 52 | Apache License 2.0 | 2021-02-15 | 2024-06-20 |
 | [codelab-android-foldable](https://github.com/android/codelab-android-foldable) | None | Kotlin | 21 | Apache License 2.0 | 2021-02-24 | 2024-04-23 |
 | [trackr](https://github.com/android/trackr) | None | Kotlin | 661 | Apache License 2.0 | 2021-03-05 | 2024-07-13 |
-| [renderscript-intrinsics-replacement-toolkit](https://github.com/android/renderscript-intrinsics-replacement-toolkit) | None | Assembly | 332 | Apache License 2.0 | 2021-04-16 | 2024-07-19 |
+| [renderscript-intrinsics-replacement-toolkit](https://github.com/android/renderscript-intrinsics-replacement-toolkit) | None | Assembly | 333 | Apache License 2.0 | 2021-04-16 | 2024-07-20 |
 | [codelab-watchnext-for-movie-tv-episodes](https://github.com/android/codelab-watchnext-for-movie-tv-episodes) | None | Kotlin | 2 | Apache License 2.0 | 2021-04-26 | 2024-05-14 |
 | [codelab-android-sleep](https://github.com/android/codelab-android-sleep) | None | Kotlin | 7 | Apache License 2.0 | 2021-04-26 | 2024-07-19 |
 | [codelab-wear-tiles](https://github.com/android/codelab-wear-tiles) | None | Kotlin | 17 | Apache License 2.0 | 2021-05-18 | 2024-07-11 |
@@ -2351,19 +2351,19 @@
 | [codelab-handling-back-navigation](https://github.com/android/codelab-handling-back-navigation) | None | Kotlin | 11 | Other | 2022-03-28 | 2024-03-25 |
 | [add-adaptive-layouts](https://github.com/android/add-adaptive-layouts) | None | Kotlin | 17 | Apache License 2.0 | 2022-04-06 | 2024-01-24 |
 | [privacy-sandbox-samples](https://github.com/android/privacy-sandbox-samples) | None | Java | 126 | Apache License 2.0 | 2022-04-12 | 2024-07-17 |
-| [nowinandroid](https://github.com/android/nowinandroid) | A fully functional Android app built entirely with Kotlin and Jetpack Compose | Kotlin | 16026 | Apache License 2.0 | 2022-04-19 | 2024-07-20 |
+| [nowinandroid](https://github.com/android/nowinandroid) | A fully functional Android app built entirely with Kotlin and Jetpack Compose | Kotlin | 16031 | Apache License 2.0 | 2022-04-19 | 2024-07-21 |
 | [codelab-android-camera2-preview](https://github.com/android/codelab-android-camera2-preview) | None | Kotlin | 12 | Apache License 2.0 | 2022-04-28 | 2024-06-05 |
 | [codelab-cronet-basics](https://github.com/android/codelab-cronet-basics) | This repository contains the starting point and solution to the Cronet Basics Android codelab. | Kotlin | 7 | Apache License 2.0 | 2022-05-04 | 2023-10-31 |
 | [codelab-android-performance](https://github.com/android/codelab-android-performance) | None | Kotlin | 21 | Apache License 2.0 | 2022-07-07 | 2024-07-05 |
 | [midi-samples](https://github.com/android/midi-samples) | Samples showing best practices for MIDI on Android. | Kotlin | 43 | Apache License 2.0 | 2022-08-15 | 2024-05-18 |
-| [architecture-templates](https://github.com/android/architecture-templates) | None | None | 2612 | Apache License 2.0 | 2022-09-06 | 2024-07-20 |
+| [architecture-templates](https://github.com/android/architecture-templates) | None | None | 2613 | Apache License 2.0 | 2022-09-06 | 2024-07-20 |
 | [rr](https://github.com/android/rr) | Android mirror of the rr debugger. | C++ | 18 | Other | 2022-09-29 | 2024-03-09 |
-| [kotlin-multiplatform-samples](https://github.com/android/kotlin-multiplatform-samples) | Samples showcasing the experimental Kotlin Multiplatform Jetpack libraries | Kotlin | 875 | Apache License 2.0 | 2022-10-05 | 2024-07-18 |
+| [kotlin-multiplatform-samples](https://github.com/android/kotlin-multiplatform-samples) | Samples showcasing the experimental Kotlin Multiplatform Jetpack libraries | Kotlin | 876 | Apache License 2.0 | 2022-10-05 | 2024-07-20 |
 | [.allstar](https://github.com/android/.allstar) | None | None | 3 | - | 2022-10-26 | 2024-02-08 |
 | [privacy-codelab](https://github.com/android/privacy-codelab) | None | Kotlin | 16 | Apache License 2.0 | 2022-10-26 | 2024-05-10 |
 | [app-actions-samples](https://github.com/android/app-actions-samples) | Samples demonstrating the use of App Actions | Kotlin | 61 | Apache License 2.0 | 2022-12-13 | 2024-07-16 |
 | [large-screen-codelabs](https://github.com/android/large-screen-codelabs) | None | Kotlin | 35 | Apache License 2.0 | 2023-02-13 | 2024-07-05 |
-| [platform-samples](https://github.com/android/platform-samples) | A collection of samples of different Android OS platform APIs. | Kotlin | 973 | Apache License 2.0 | 2023-04-04 | 2024-07-19 |
+| [platform-samples](https://github.com/android/platform-samples) | A collection of samples of different Android OS platform APIs. | Kotlin | 974 | Apache License 2.0 | 2023-04-04 | 2024-07-20 |
 | [deep-links](https://github.com/android/deep-links) | None | Kotlin | 18 | - | 2023-04-11 | 2024-06-10 |
 | [android-health-connect-codelab](https://github.com/android/android-health-connect-codelab) | None | Kotlin | 32 | Apache License 2.0 | 2023-04-12 | 2024-06-12 |
 | [car-codelabs](https://github.com/android/car-codelabs) | None | Kotlin | 17 | Apache License 2.0 | 2023-05-01 | 2024-07-02 |
@@ -2376,8 +2376,8 @@
 | [adpf-unreal-plugin](https://github.com/android/adpf-unreal-plugin) | None | C++ | 8 | Apache License 2.0 | 2024-03-18 | 2024-07-09 |
 | [getting-started-with-vulkan-on-android-codelab](https://github.com/android/getting-started-with-vulkan-on-android-codelab) | None | C++ | 3 | Apache License 2.0 | 2024-04-01 | 2024-06-15 |
 | [vkquality](https://github.com/android/vkquality) | None | C++ | 8 | Apache License 2.0 | 2024-05-21 | 2024-07-10 |
-| [angular.js](https://github.com/angular/angular.js) | AngularJS - HTML enhanced for web apps! | JavaScript | 58896 | MIT License | 2010-01-06 | 2024-07-20 |
-| [angular-seed](https://github.com/angular/angular-seed) | Seed project for angular apps.  | JavaScript | 13047 | MIT License | 2010-12-24 | 2024-07-19 |
+| [angular.js](https://github.com/angular/angular.js) | AngularJS - HTML enhanced for web apps! | JavaScript | 58896 | MIT License | 2010-01-06 | 2024-07-21 |
+| [angular-seed](https://github.com/angular/angular-seed) | Seed project for angular apps.  | JavaScript | 13045 | MIT License | 2010-12-24 | 2024-07-20 |
 | [angular-jquery-ui](https://github.com/angular/angular-jquery-ui) | jQueryUI widgets wrapped as angular widgets | JavaScript | 88 | - | 2011-01-14 | 2024-02-26 |
 | [angularjs.org](https://github.com/angular/angularjs.org) | code for angularjs.org site | JavaScript | 258 | MIT License | 2011-02-08 | 2024-04-30 |
 | [angular-phonecat](https://github.com/angular/angular-phonecat) | Tutorial on building an angular application. | JavaScript | 3124 | MIT License | 2011-03-07 | 2024-07-17 |
@@ -2389,7 +2389,7 @@
 | [code.angularjs.org](https://github.com/angular/code.angularjs.org) | code.angularjs.org | None | 153 | - | 2012-08-29 | 2024-04-16 |
 | [dashboard.angularjs.org](https://github.com/angular/dashboard.angularjs.org) | AngularJS Dashboard | JavaScript | 89 | - | 2012-09-05 | 2024-02-26 |
 | [bower-angular](https://github.com/angular/bower-angular) | Bower package for AngularJS | CSS | 224 | MIT License | 2012-09-10 | 2024-04-23 |
-| [protractor](https://github.com/angular/protractor) | E2E test framework for Angular apps | JavaScript | 8753 | MIT License | 2013-01-16 | 2024-07-12 |
+| [protractor](https://github.com/angular/protractor) | E2E test framework for Angular apps | JavaScript | 8754 | MIT License | 2013-01-16 | 2024-07-21 |
 | [bower-angular-resource](https://github.com/angular/bower-angular-resource) | angular-resource bower repo | JavaScript | 92 | MIT License | 2013-01-24 | 2024-02-26 |
 | [bower-angular-cookies](https://github.com/angular/bower-angular-cookies) | angular-cookies bower repo | JavaScript | 86 | MIT License | 2013-01-24 | 2024-02-26 |
 | [bower-angular-sanitize](https://github.com/angular/bower-angular-sanitize) | angular-sanitize bower repo | JavaScript | 99 | MIT License | 2013-01-24 | 2024-05-15 |
@@ -2432,7 +2432,7 @@
 | [material-icons](https://github.com/angular/material-icons) | Common resources for material design in AngularJS | None | 66 | - | 2014-08-18 | 2024-02-26 |
 | [bower-material](https://github.com/angular/bower-material) | This repository is used for publishing the AngularJS Material v1.x library | JavaScript | 506 | MIT License | 2014-08-19 | 2024-07-12 |
 | [Angular2.design](https://github.com/angular/Angular2.design) | Place to discuss design ideas for Angular v2.0 | Dart | 23 | MIT License | 2014-08-29 | 2024-02-26 |
-| [angular](https://github.com/angular/angular) | Deliver web apps with confidence 🚀 | TypeScript | 95298 | MIT License | 2014-09-18 | 2024-07-20 |
+| [angular](https://github.com/angular/angular) | Deliver web apps with confidence 🚀 | TypeScript | 95306 | MIT License | 2014-09-18 | 2024-07-21 |
 | [bower-angular-aria](https://github.com/angular/bower-angular-aria) | angular-aria.js bower repo | JavaScript | 24 | MIT License | 2014-09-22 | 2024-05-15 |
 | [ng-europe-2014](https://github.com/angular/ng-europe-2014) | None | JavaScript | 2 | - | 2014-10-10 | 2024-02-26 |
 | [atscript-playground](https://github.com/angular/atscript-playground) | A repo to play with AtScript. | JavaScript | 141 | - | 2014-10-30 | 2024-02-26 |
@@ -2453,7 +2453,7 @@
 | [code.material.angularjs.org](https://github.com/angular/code.material.angularjs.org) | Documentation site for AngularJS Material | HTML | 50 | MIT License | 2015-05-14 | 2024-02-26 |
 | [angularjs.org-healthchecks](https://github.com/angular/angularjs.org-healthchecks) | None | JavaScript | 2 | - | 2015-05-23 | 2024-02-26 |
 | [tactical](https://github.com/angular/tactical) | Data access library for Angular | TypeScript | 93 | - | 2015-06-02 | 2024-02-26 |
-| [angular-cli](https://github.com/angular/angular-cli) | CLI tool for Angular | TypeScript | 26677 | MIT License | 2015-06-04 | 2024-07-20 |
+| [angular-cli](https://github.com/angular/angular-cli) | CLI tool for Angular | TypeScript | 26682 | MIT License | 2015-06-04 | 2024-07-21 |
 | [react-native-renderer](https://github.com/angular/react-native-renderer) | Use Angular and React Native to build applications for Android and iOS | TypeScript | 787 | MIT License | 2015-06-17 | 2024-07-19 |
 | [universal](https://github.com/angular/universal) | Server-side rendering and Prerendering for Angular | TypeScript | 4031 | MIT License | 2015-06-24 | 2024-07-12 |
 | [ts-minify](https://github.com/angular/ts-minify) | A tool to aid minification of Typescript code, using Typescript's type information. | TypeScript | 120 | Apache License 2.0 | 2015-07-14 | 2024-02-26 |
@@ -2470,12 +2470,12 @@
 | [protractor-ng-hint-plugin](https://github.com/angular/protractor-ng-hint-plugin) | Adds run-time hinting to AngularJS projects | JavaScript | 2 | MIT License | 2015-11-06 | 2024-02-26 |
 | [protractor-accessibility-plugin](https://github.com/angular/protractor-accessibility-plugin) | Runs a set of accessibility audits | JavaScript | 266 | MIT License | 2015-11-06 | 2024-06-18 |
 | [protractor-timeline-plugin](https://github.com/angular/protractor-timeline-plugin) | Gathers test timeline information and presents the output visually | JavaScript | 18 | MIT License | 2015-11-08 | 2024-02-26 |
-| [flex-layout](https://github.com/angular/flex-layout) | Provides HTML UI layout for Angular applications; using Flexbox and a Responsive API  | TypeScript | 5904 | MIT License | 2015-11-18 | 2024-07-18 |
+| [flex-layout](https://github.com/angular/flex-layout) | Provides HTML UI layout for Angular applications; using Flexbox and a Responsive API  | TypeScript | 5903 | MIT License | 2015-11-18 | 2024-07-20 |
 | [angular2-seed](https://github.com/angular/angular2-seed) | None | TypeScript | 1008 | MIT License | 2015-12-07 | 2024-04-22 |
-| [components](https://github.com/angular/components) | Component infrastructure and Material Design components for Angular | TypeScript | 24233 | MIT License | 2016-01-04 | 2024-07-20 |
+| [components](https://github.com/angular/components) | Component infrastructure and Material Design components for Angular | TypeScript | 24235 | MIT License | 2016-01-04 | 2024-07-20 |
 | [ts-api-guardian](https://github.com/angular/ts-api-guardian) | None | TypeScript | 15 | MIT License | 2016-01-06 | 2024-02-26 |
 | [answers-app](https://github.com/angular/answers-app) | None | TypeScript | 36 | MIT License | 2016-01-11 | 2024-02-26 |
-| [angularfire](https://github.com/angular/angularfire) | Angular + Firebase = ❤️ | TypeScript | 7643 | MIT License | 2016-01-11 | 2024-07-19 |
+| [angularfire](https://github.com/angular/angularfire) | Angular + Firebase = ❤️ | TypeScript | 7641 | MIT License | 2016-01-11 | 2024-07-20 |
 | [google3](https://github.com/angular/google3) | None | JavaScript | 2 | - | 2016-01-12 | 2024-02-26 |
 | [mobile-toolkit](https://github.com/angular/mobile-toolkit) | Tools for building progressive web apps with Angular | JavaScript | 1338 | MIT License | 2016-01-25 | 2024-06-27 |
 | [angular-electron](https://github.com/angular/angular-electron) | Angular2 + Electron | TypeScript | 605 | - | 2016-02-10 | 2024-02-26 |
@@ -2510,7 +2510,7 @@
 | [mobile-codelab](https://github.com/angular/mobile-codelab) | None | TypeScript | 1 | MIT License | 2016-07-27 | 2024-03-20 |
 | [protractor-cookbook](https://github.com/angular/protractor-cookbook) | Examples for using Protractor in various common scenarios. | TypeScript | 130 | MIT License | 2016-08-01 | 2023-08-22 |
 | [angular-ko](https://github.com/angular/angular-ko) | None | HTML | 36 | MIT License | 2016-08-10 | 2024-03-20 |
-| [angular-ja](https://github.com/angular/angular-ja) | repository for Japanese localization of angular.io | TypeScript | 211 | MIT License | 2016-08-10 | 2024-07-20 |
+| [angular-ja](https://github.com/angular/angular-ja) | repository for Japanese localization of angular.io | TypeScript | 211 | MIT License | 2016-08-10 | 2024-07-21 |
 | [karma-zonejs](https://github.com/angular/karma-zonejs) | zone.js loader for karma | None | 9 | MIT License | 2016-08-13 | 2024-03-20 |
 | [platform-webworker-builds](https://github.com/angular/platform-webworker-builds) | @angular/platform-webworker build artifacts | JavaScript | 8 | - | 2016-08-31 | 2024-03-20 |
 | [platform-webworker-dynamic-builds](https://github.com/angular/platform-webworker-dynamic-builds) | @angular/platform-webworker-dynamic build artifacts | JavaScript | 7 | - | 2016-08-31 | 2024-03-20 |
@@ -2581,10 +2581,10 @@
 | [angular-ssr-builds](https://github.com/angular/angular-ssr-builds) | None | JavaScript | 0 | - | 2023-08-30 | 2024-07-19 |
 | [dev-infra-private-docs-builds](https://github.com/angular/dev-infra-private-docs-builds) | None | JavaScript | 1 | - | 2023-11-27 | 2024-07-19 |
 | [angular-build-builds](https://github.com/angular/angular-build-builds) | None | JavaScript | 0 | MIT License | 2024-04-17 | 2024-07-19 |
-| [bazel](https://github.com/bazelbuild/bazel) | a fast, scalable, multi-language and extensible build system | Java | 22760 | Apache License 2.0 | 2014-06-12 | 2024-07-20 |
+| [bazel](https://github.com/bazelbuild/bazel) | a fast, scalable, multi-language and extensible build system | Java | 22762 | Apache License 2.0 | 2014-06-12 | 2024-07-21 |
 | [examples](https://github.com/bazelbuild/examples) | Examples for Bazel | Starlark | 806 | Apache License 2.0 | 2015-04-24 | 2024-07-17 |
 | [vim-ft-bzl](https://github.com/bazelbuild/vim-ft-bzl) | None | Vim script | 27 | Apache License 2.0 | 2015-08-06 | 2023-08-28 |
-| [continuous-integration](https://github.com/bazelbuild/continuous-integration) | Bazel's Continuous Integration Setup | Python | 253 | Apache License 2.0 | 2015-10-06 | 2024-07-16 |
+| [continuous-integration](https://github.com/bazelbuild/continuous-integration) | Bazel's Continuous Integration Setup | Python | 253 | Apache License 2.0 | 2015-10-06 | 2024-07-20 |
 | [rules_scala](https://github.com/bazelbuild/rules_scala) | Scala rules for Bazel | Starlark | 359 | Apache License 2.0 | 2016-02-17 | 2024-07-19 |
 | [rules_closure](https://github.com/bazelbuild/rules_closure) | Closure rules for Bazel | Java | 153 | Apache License 2.0 | 2016-03-11 | 2024-06-28 |
 | [rules_appengine](https://github.com/bazelbuild/rules_appengine) | AppEngine rules for Bazel | Starlark | 30 | Apache License 2.0 | 2016-03-15 | 2024-07-01 |
@@ -2599,11 +2599,11 @@
 | [eclipse](https://github.com/bazelbuild/eclipse) | Eclipse For Bazel (deprecated, see https://github.com/salesforce/bazel-eclipse instead) | Java | 32 | Apache License 2.0 | 2016-06-02 | 2023-10-02 |
 | [tulsi](https://github.com/bazelbuild/tulsi) | An Xcode Project Generator For Bazel  | Swift | 547 | Apache License 2.0 | 2016-06-02 | 2024-06-02 |
 | [buildtools](https://github.com/bazelbuild/buildtools) | A bazel BUILD file formatter and editor | Go | 996 | Apache License 2.0 | 2016-06-09 | 2024-07-13 |
-| [intellij](https://github.com/bazelbuild/intellij) | IntelliJ plugin for Bazel projects | Java | 756 | Apache License 2.0 | 2016-07-08 | 2024-07-19 |
+| [intellij](https://github.com/bazelbuild/intellij) | IntelliJ plugin for Bazel projects | Java | 757 | Apache License 2.0 | 2016-07-08 | 2024-07-20 |
 | [rules_gwt](https://github.com/bazelbuild/rules_gwt) | Bazel rules for GWT | Starlark | 19 | Apache License 2.0 | 2016-07-29 | 2024-06-14 |
 | [rules_perl](https://github.com/bazelbuild/rules_perl) | Perl rules for Bazel | Starlark | 23 | Apache License 2.0 | 2016-08-15 | 2024-06-10 |
 | [rules_webtesting](https://github.com/bazelbuild/rules_webtesting) | Bazel rules to allow testing against a browser with WebDriver. | Go | 95 | Apache License 2.0 | 2016-09-09 | 2024-06-03 |
-| [vim-bazel](https://github.com/bazelbuild/vim-bazel) | Vim support for Bazel | Vim script | 143 | Apache License 2.0 | 2016-12-14 | 2024-07-12 |
+| [vim-bazel](https://github.com/bazelbuild/vim-bazel) | Vim support for Bazel | Vim script | 144 | Apache License 2.0 | 2016-12-14 | 2024-07-20 |
 | [rules_apple](https://github.com/bazelbuild/rules_apple) | Bazel rules to build apps for Apple platforms. | Starlark | 496 | Apache License 2.0 | 2017-03-29 | 2024-07-18 |
 | [rules_docker](https://github.com/bazelbuild/rules_docker) | Rules for building and handling Docker images with Bazel | Starlark | 1070 | Apache License 2.0 | 2017-03-30 | 2024-07-19 |
 | [bazel-blog](https://github.com/bazelbuild/bazel-blog) | Content of the Bazel blog | HTML | 19 | Apache License 2.0 | 2017-04-25 | 2024-04-29 |
@@ -2612,7 +2612,7 @@
 | [rules_typescript](https://github.com/bazelbuild/rules_typescript) | MOVED to https://github.com/bazelbuild/rules_nodejs/tree/3.x/third_party/github.com/bazelbuild/rules_typescript | TypeScript | 275 | Apache License 2.0 | 2017-05-22 | 2024-02-03 |
 | [migration-tooling](https://github.com/bazelbuild/migration-tooling) | Migration tools for Bazel | Java | 44 | Apache License 2.0 | 2017-06-07 | 2024-04-24 |
 | [bazel-toolchains](https://github.com/bazelbuild/bazel-toolchains) | Repository that hosts Bazel toolchain configs for remote execution and related support tools. | Go | 183 | Apache License 2.0 | 2017-06-29 | 2024-06-27 |
-| [bazel-buildfarm](https://github.com/bazelbuild/bazel-buildfarm) | Bazel remote caching and execution service | Java | 640 | Apache License 2.0 | 2017-07-06 | 2024-07-17 |
+| [bazel-buildfarm](https://github.com/bazelbuild/bazel-buildfarm) | Bazel remote caching and execution service | Java | 641 | Apache License 2.0 | 2017-07-06 | 2024-07-20 |
 | [rules_angular](https://github.com/bazelbuild/rules_angular) | OBSOLETE see https://github.com/angular/angular/tree/master/packages/bazel | Python | 5 | Apache License 2.0 | 2017-07-20 | 2023-03-10 |
 | [rules_nodejs](https://github.com/bazelbuild/rules_nodejs) | NodeJS toolchain for Bazel. | Starlark | 722 | Apache License 2.0 | 2017-08-22 | 2024-07-11 |
 | [sandboxfs](https://github.com/bazelbuild/sandboxfs) | A virtual file system for sandboxing | Rust | 367 | Apache License 2.0 | 2017-08-25 | 2024-07-20 |
@@ -2622,7 +2622,7 @@
 | [bazel-integration-testing](https://github.com/bazelbuild/bazel-integration-testing) | Framework for integration tests that call Bazel | Java | 32 | Apache License 2.0 | 2017-09-29 | 2023-01-27 |
 | [bazel-skylib](https://github.com/bazelbuild/bazel-skylib) | Common useful functions and rules for Bazel | Starlark | 375 | Apache License 2.0 | 2017-10-10 | 2024-07-16 |
 | [rules_jvm_external](https://github.com/bazelbuild/rules_jvm_external) | Bazel rules to resolve, fetch and export Maven artifacts | Starlark | 317 | Apache License 2.0 | 2017-11-14 | 2024-07-17 |
-| [bazel-gazelle](https://github.com/bazelbuild/bazel-gazelle) | Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets. | Go | 1152 | Apache License 2.0 | 2017-11-30 | 2024-07-18 |
+| [bazel-gazelle](https://github.com/bazelbuild/bazel-gazelle) | Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets. | Go | 1153 | Apache License 2.0 | 2017-11-30 | 2024-07-20 |
 | [rules_pkg](https://github.com/bazelbuild/rules_pkg) | Bazel rules for creating packages of many types (zip, tar, deb, rpm, ...) | Starlark | 215 | Apache License 2.0 | 2017-12-21 | 2024-07-19 |
 | [rules_android](https://github.com/bazelbuild/rules_android) | Android rules for Bazel | Starlark | 174 | Apache License 2.0 | 2018-01-30 | 2024-07-17 |
 | [rules_kotlin](https://github.com/bazelbuild/rules_kotlin) | Bazel rules for Kotlin | Kotlin | 328 | Apache License 2.0 | 2018-01-31 | 2024-07-17 |
@@ -2633,9 +2633,9 @@
 | [emacs-bazel-mode](https://github.com/bazelbuild/emacs-bazel-mode) | Emacs mode for Bazel | Emacs Lisp | 78 | Apache License 2.0 | 2018-07-19 | 2024-07-10 |
 | [tools_android](https://github.com/bazelbuild/tools_android) | Tools for use with building Android apps with Bazel | Starlark | 24 | Apache License 2.0 | 2018-08-02 | 2024-02-17 |
 | [tools_remote](https://github.com/bazelbuild/tools_remote) | None | Java | 28 | Apache License 2.0 | 2018-08-14 | 2024-03-06 |
-| [starlark](https://github.com/bazelbuild/starlark) | Starlark Language | Starlark | 2384 | Apache License 2.0 | 2018-08-16 | 2024-07-19 |
+| [starlark](https://github.com/bazelbuild/starlark) | Starlark Language | Starlark | 2383 | Apache License 2.0 | 2018-08-16 | 2024-07-20 |
 | [homebrew-tap](https://github.com/bazelbuild/homebrew-tap) | This repository contains a collection of Homebrew (aka, Brew) "formulae" for Bazel | None | 24 | Apache License 2.0 | 2018-08-22 | 2024-04-07 |
-| [vscode-bazel](https://github.com/bazelbuild/vscode-bazel) | Bazel support for Visual Studio Code | TypeScript | 232 | Apache License 2.0 | 2018-09-10 | 2024-07-09 |
+| [vscode-bazel](https://github.com/bazelbuild/vscode-bazel) | Bazel support for Visual Studio Code | TypeScript | 233 | Apache License 2.0 | 2018-09-10 | 2024-07-20 |
 | [bazelisk](https://github.com/bazelbuild/bazelisk) | A user-friendly launcher for Bazel. | Go | 1975 | Apache License 2.0 | 2018-09-20 | 2024-07-19 |
 | [codelabs](https://github.com/bazelbuild/codelabs) | None | Shell | 39 | Apache License 2.0 | 2018-10-08 | 2024-06-05 |
 | [apple_support](https://github.com/bazelbuild/apple_support) | Apple support for Bazel rules | Starlark | 75 | Apache License 2.0 | 2018-12-08 | 2024-07-15 |
@@ -2685,7 +2685,7 @@
 | [caterpillar](https://github.com/chromium/caterpillar) | Project to investigate porting Chrome Apps to websites. | Python | 59 | Apache License 2.0 | 2016-01-05 | 2024-07-19 |
 | [hstspreload](https://github.com/chromium/hstspreload) | 🔒🔍 A Go package to scan sites against requirements for Chromium-maintained HSTS preload list. | Go | 115 | BSD 3-Clause "New" or "Revised" License | 2016-03-17 | 2024-04-19 |
 | [permission.site](https://github.com/chromium/permission.site) | A site to test the interaction of web APIs and browser permissions. | JavaScript | 1172 | BSD 3-Clause "New" or "Revised" License | 2016-04-04 | 2024-07-19 |
-| [hstspreload.org](https://github.com/chromium/hstspreload.org) | :lock: Chromium's HSTS preload list submission website. | Go | 769 | BSD 3-Clause "New" or "Revised" License | 2016-04-26 | 2024-07-10 |
+| [hstspreload.org](https://github.com/chromium/hstspreload.org) | :lock: Chromium's HSTS preload list submission website. | Go | 770 | BSD 3-Clause "New" or "Revised" License | 2016-04-26 | 2024-07-20 |
 | [permissions.request](https://github.com/chromium/permissions.request) | A polyfill for the navigator.permissions.request() API | TypeScript | 15 | Apache License 2.0 | 2016-08-03 | 2023-11-12 |
 | [mus-preso](https://github.com/chromium/mus-preso) | Public mus presentations | JavaScript | 35 | - | 2017-01-27 | 2023-11-12 |
 | [crashpad](https://github.com/chromium/crashpad) | A crash-reporting system | C++ | 408 | Apache License 2.0 | 2017-05-04 | 2024-07-19 |
@@ -2693,7 +2693,7 @@
 | [codesearch-py](https://github.com/chromium/codesearch-py) | Python library for accessing Chromium CodeSearch via https://cs.chromium.org | Python | 25 | BSD 3-Clause "New" or "Revised" License | 2017-05-05 | 2024-06-27 |
 | [vim-codesearch](https://github.com/chromium/vim-codesearch) | Vim integration for Chromium Codesearch at https://cs.chromium.org | Python | 40 | Other | 2017-05-05 | 2023-11-12 |
 | [gyp](https://github.com/chromium/gyp) | GYP is a Meta-Build system: a build system that generates other build systems. | Python | 84 | BSD 3-Clause "New" or "Revised" License | 2018-02-02 | 2024-05-13 |
-| [chromium](https://github.com/chromium/chromium) | The official GitHub mirror of the Chromium source | C++ | 18275 | BSD 3-Clause "New" or "Revised" License | 2018-02-05 | 2024-07-20 |
+| [chromium](https://github.com/chromium/chromium) | The official GitHub mirror of the Chromium source | C++ | 18276 | BSD 3-Clause "New" or "Revised" License | 2018-02-05 | 2024-07-21 |
 | [trickuri](https://github.com/chromium/trickuri) | None | HTML | 142 | Apache License 2.0 | 2018-10-05 | 2023-12-30 |
 | [suspicious-site-reporter](https://github.com/chromium/suspicious-site-reporter) | Extension for reporting suspicious sites to Safe Browsing. | JavaScript | 96 | Apache License 2.0 | 2019-06-18 | 2024-07-09 |
 | [chromium-ads-detection](https://github.com/chromium/chromium-ads-detection) | None | None | 28 | Apache License 2.0 | 2019-10-29 | 2024-06-04 |
@@ -2711,17 +2711,17 @@
 | [markdown](https://github.com/dart-lang/markdown) | A Dart markdown library | Dart | 442 | BSD 3-Clause "New" or "Revised" License | 2013-02-19 | 2024-07-15 |
 | [coverage](https://github.com/dart-lang/coverage) | Dart coverage data manipulation and formatting | Dart | 103 | BSD 3-Clause "New" or "Revised" License | 2014-02-20 | 2024-07-08 |
 | [appengine](https://github.com/dart-lang/appengine) | Dart support for App Engine managed VMs | Dart | 93 | BSD 3-Clause "New" or "Revised" License | 2014-04-29 | 2024-07-01 |
-| [mockito](https://github.com/dart-lang/mockito) | Mockito-inspired mock library for Dart | Dart | 623 | Apache License 2.0 | 2014-07-14 | 2024-07-08 |
+| [mockito](https://github.com/dart-lang/mockito) | Mockito-inspired mock library for Dart | Dart | 624 | Apache License 2.0 | 2014-07-14 | 2024-07-20 |
 | [gcloud](https://github.com/dart-lang/gcloud) | High-level interfaces to Google Cloud Platform APIs | Dart | 126 | BSD 3-Clause "New" or "Revised" License | 2014-08-14 | 2024-07-01 |
 | [homebrew-dart](https://github.com/dart-lang/homebrew-dart) | Dart team's official tap for homebrew. | Ruby | 152 | BSD 3-Clause "New" or "Revised" License | 2014-08-29 | 2024-07-18 |
 | [html](https://github.com/dart-lang/html) | Dart port of html5lib. For parsing HTML/HTML5 with Dart. Works in the client and on the server. | Dart | 272 | Other | 2014-09-22 | 2024-07-19 |
 | [pub_semver](https://github.com/dart-lang/pub_semver) | A package for working with Pub/semver-style versions and version constraints | Dart | 64 | BSD 3-Clause "New" or "Revised" License | 2014-09-25 | 2024-07-01 |
 | [dart_style](https://github.com/dart-lang/dart_style) | An opinionated formatter/linter for Dart code | Dart | 640 | BSD 3-Clause "New" or "Revised" License | 2014-09-26 | 2024-07-17 |
-| [dartdoc](https://github.com/dart-lang/dartdoc) | API documentation tool for Dart. | Dart | 467 | BSD 3-Clause "New" or "Revised" License | 2014-11-11 | 2024-07-17 |
+| [dartdoc](https://github.com/dart-lang/dartdoc) | API documentation tool for Dart. | Dart | 468 | BSD 3-Clause "New" or "Revised" License | 2014-11-11 | 2024-07-20 |
 | [pub-dev](https://github.com/dart-lang/pub-dev) | The pub.dev website | Dart | 768 | BSD 3-Clause "New" or "Revised" License | 2014-12-15 | 2024-07-19 |
 | [oauth2](https://github.com/dart-lang/oauth2) | An OAuth2 client library for Dart. | Dart | 212 | BSD 3-Clause "New" or "Revised" License | 2014-12-17 | 2024-07-02 |
 | [glob](https://github.com/dart-lang/glob) | Bash-style filename globbing for Dart. | Dart | 56 | BSD 3-Clause "New" or "Revised" License | 2014-12-17 | 2024-07-01 |
-| [http](https://github.com/dart-lang/http) | A composable API for making HTTP requests in Dart. | Dart | 1006 | BSD 3-Clause "New" or "Revised" License | 2014-12-17 | 2024-07-19 |
+| [http](https://github.com/dart-lang/http) | A composable API for making HTTP requests in Dart. | Dart | 1007 | BSD 3-Clause "New" or "Revised" License | 2014-12-17 | 2024-07-20 |
 | [http_multi_server](https://github.com/dart-lang/http_multi_server) | A dart:io HttpServer wrapper that handles requests from multiple servers. | Dart | 28 | BSD 3-Clause "New" or "Revised" License | 2014-12-17 | 2024-07-01 |
 | [http_parser](https://github.com/dart-lang/http_parser) | A platform-independent Dart package for parsing and serializing HTTP formats. | Dart | 38 | BSD 3-Clause "New" or "Revised" License | 2014-12-18 | 2024-07-14 |
 | [json_rpc_2](https://github.com/dart-lang/json_rpc_2) | A Dart implementation of the JSON-RPC 2.0 spec. | Dart | 70 | BSD 3-Clause "New" or "Revised" License | 2014-12-18 | 2024-07-09 |
@@ -2730,16 +2730,16 @@
 | [source_span](https://github.com/dart-lang/source_span) | A library for identifying source spans and locations. | Dart | 28 | BSD 3-Clause "New" or "Revised" License | 2014-12-18 | 2024-07-01 |
 | [stack_trace](https://github.com/dart-lang/stack_trace) | A package for manipulating stack traces and printing them readably. | Dart | 127 | BSD 3-Clause "New" or "Revised" License | 2014-12-18 | 2024-07-08 |
 | [string_scanner](https://github.com/dart-lang/string_scanner) | A class for parsing strings using a sequence of patterns. | Dart | 60 | BSD 3-Clause "New" or "Revised" License | 2014-12-18 | 2024-07-09 |
-| [watcher](https://github.com/dart-lang/watcher) | A file system watcher library for Dart. | Dart | 135 | BSD 3-Clause "New" or "Revised" License | 2014-12-18 | 2024-07-16 |
-| [yaml](https://github.com/dart-lang/yaml) | A Dart YAML parser. | Dart | 165 | MIT License | 2014-12-18 | 2024-07-01 |
+| [watcher](https://github.com/dart-lang/watcher) | A file system watcher library for Dart. | Dart | 136 | BSD 3-Clause "New" or "Revised" License | 2014-12-18 | 2024-07-20 |
+| [yaml](https://github.com/dart-lang/yaml) | A Dart YAML parser. | Dart | 165 | MIT License | 2014-12-18 | 2024-07-20 |
 | [matcher](https://github.com/dart-lang/matcher) | A declarative API for specifying expectations. | Dart | 69 | BSD 3-Clause "New" or "Revised" License | 2014-12-18 | 2024-07-01 |
-| [test](https://github.com/dart-lang/test) | A library for writing unit tests in Dart. | Dart | 492 | - | 2014-12-18 | 2024-07-20 |
+| [test](https://github.com/dart-lang/test) | A library for writing unit tests in Dart. | Dart | 493 | - | 2014-12-18 | 2024-07-20 |
 | [csslib](https://github.com/dart-lang/csslib) | A library for parsing CSS. | Dart | 92 | BSD 3-Clause "New" or "Revised" License | 2014-12-19 | 2024-07-01 |
 | [args](https://github.com/dart-lang/args) | A command-line argument parsing library for Dart. | Dart | 210 | BSD 3-Clause "New" or "Revised" License | 2014-12-19 | 2024-07-11 |
-| [shelf](https://github.com/dart-lang/shelf) | Web server middleware for Dart | Dart | 895 | BSD 3-Clause "New" or "Revised" License | 2014-12-19 | 2024-07-20 |
+| [shelf](https://github.com/dart-lang/shelf) | Web server middleware for Dart | Dart | 896 | BSD 3-Clause "New" or "Revised" License | 2014-12-19 | 2024-07-20 |
 | [logging](https://github.com/dart-lang/logging) | A Dart package for debug and error logging. | Dart | 320 | BSD 3-Clause "New" or "Revised" License | 2014-12-19 | 2024-07-02 |
 | [source_maps](https://github.com/dart-lang/source_maps) | A package to programmatically manipulate source maps. | Dart | 16 | BSD 3-Clause "New" or "Revised" License | 2014-12-19 | 2024-07-01 |
-| [dart-pad](https://github.com/dart-lang/dart-pad) | An online Dart editor with support for console, web, and Flutter apps | Dart | 1670 | BSD 3-Clause "New" or "Revised" License | 2015-01-06 | 2024-07-20 |
+| [dart-pad](https://github.com/dart-lang/dart-pad) | An online Dart editor with support for console, web, and Flutter apps | Dart | 1669 | BSD 3-Clause "New" or "Revised" License | 2015-01-06 | 2024-07-20 |
 | [linter](https://github.com/dart-lang/linter) | Linter for Dart. | Dart | 627 | BSD 3-Clause "New" or "Revised" License | 2015-01-13 | 2024-07-03 |
 | [source_gen](https://github.com/dart-lang/source_gen) | Automatic source code generation for Dart | Dart | 482 | BSD 3-Clause "New" or "Revised" License | 2015-01-30 | 2024-07-15 |
 | [cli_util](https://github.com/dart-lang/cli_util) | A library to help in building Dart command-line apps | Dart | 60 | BSD 3-Clause "New" or "Revised" License | 2015-02-03 | 2024-07-08 |
@@ -2749,20 +2749,20 @@
 | [async](https://github.com/dart-lang/async) | A Dart package that contains tools to work with asynchronous computations. | Dart | 319 | BSD 3-Clause "New" or "Revised" License | 2015-02-24 | 2024-07-15 |
 | [collection](https://github.com/dart-lang/collection) | The collection package for Dart contains a number of separate libraries with utility functions and classes that makes working with collections easier. | Dart | 365 | BSD 3-Clause "New" or "Revised" License | 2015-02-24 | 2024-07-08 |
 | [typed_data](https://github.com/dart-lang/typed_data) | Utility functions and classes that makes working with typed data lists easier in Dart | Dart | 35 | BSD 3-Clause "New" or "Revised" License | 2015-02-24 | 2024-07-01 |
-| [crypto](https://github.com/dart-lang/crypto) | A set of cryptographic functions implemented in pure Dart. | Dart | 264 | BSD 3-Clause "New" or "Revised" License | 2015-02-24 | 2024-07-01 |
+| [crypto](https://github.com/dart-lang/crypto) | A set of cryptographic functions implemented in pure Dart. | Dart | 265 | BSD 3-Clause "New" or "Revised" License | 2015-02-24 | 2024-07-20 |
 | [http2](https://github.com/dart-lang/http2) | A HTTP/2 implementation for dart. | Dart | 153 | BSD 3-Clause "New" or "Revised" License | 2015-03-19 | 2024-07-01 |
 | [test_reflective_loader](https://github.com/dart-lang/test_reflective_loader) | Discover tests and test suites using reflection | Dart | 5 | BSD 3-Clause "New" or "Revised" License | 2015-04-20 | 2024-07-01 |
 | [source_map_stack_trace](https://github.com/dart-lang/source_map_stack_trace) | Convert stack traces generated by dart2js-compiled code into readable native Dart stack traces | Dart | 8 | BSD 3-Clause "New" or "Revised" License | 2015-04-29 | 2024-07-01 |
 | [package_config](https://github.com/dart-lang/package_config) | Support for working with Package Resolution Configuration files | Dart | 15 | BSD 3-Clause "New" or "Revised" License | 2015-05-13 | 2024-07-01 |
-| [pub](https://github.com/dart-lang/pub) | The pub command line tool | Dart | 1034 | BSD 3-Clause "New" or "Revised" License | 2015-05-15 | 2024-07-19 |
-| [sdk](https://github.com/dart-lang/sdk) | The Dart SDK, including the VM, dart2js, core libraries, and more. | Dart | 9980 | BSD 3-Clause "New" or "Revised" License | 2015-05-16 | 2024-07-20 |
+| [pub](https://github.com/dart-lang/pub) | The pub command line tool | Dart | 1035 | BSD 3-Clause "New" or "Revised" License | 2015-05-15 | 2024-07-20 |
+| [sdk](https://github.com/dart-lang/sdk) | The Dart SDK, including the VM, dart2js, core libraries, and more. | Dart | 9980 | BSD 3-Clause "New" or "Revised" License | 2015-05-16 | 2024-07-21 |
 | [co19](https://github.com/dart-lang/co19) | A Dart language and library conformance test suite | Dart | 37 | BSD 3-Clause "New" or "Revised" License | 2015-05-21 | 2024-07-19 |
 | [convert](https://github.com/dart-lang/convert) | Conversion utilities | Dart | 74 | BSD 3-Clause "New" or "Revised" License | 2015-09-22 | 2024-07-17 |
 | [pana](https://github.com/dart-lang/pana) | Package ANAlysis for Dart | Dart | 200 | BSD 3-Clause "New" or "Revised" License | 2015-09-24 | 2024-07-18 |
 | [stream_channel](https://github.com/dart-lang/stream_channel) | An abstraction for two-way communication channels. | Dart | 48 | BSD 3-Clause "New" or "Revised" License | 2016-01-20 | 2024-07-01 |
-| [build](https://github.com/dart-lang/build) | A build system for Dart written in Dart | Dart | 770 | BSD 3-Clause "New" or "Revised" License | 2016-01-20 | 2024-07-20 |
+| [build](https://github.com/dart-lang/build) | A build system for Dart written in Dart | Dart | 771 | BSD 3-Clause "New" or "Revised" License | 2016-01-20 | 2024-07-20 |
 | [boolean_selector](https://github.com/dart-lang/boolean_selector) | A flexible syntax for boolean expressions. | Dart | 23 | BSD 3-Clause "New" or "Revised" License | 2016-02-17 | 2024-07-01 |
-| [web_socket_channel](https://github.com/dart-lang/web_socket_channel) | StreamChannel wrappers for WebSockets. | Dart | 411 | BSD 3-Clause "New" or "Revised" License | 2016-02-24 | 2024-07-17 |
+| [web_socket_channel](https://github.com/dart-lang/web_socket_channel) | StreamChannel wrappers for WebSockets. | Dart | 410 | BSD 3-Clause "New" or "Revised" License | 2016-02-24 | 2024-07-20 |
 | [bazel_worker](https://github.com/dart-lang/bazel_worker) | Dart integration for Bazel build system | Dart | 24 | BSD 3-Clause "New" or "Revised" License | 2016-04-11 | 2024-07-01 |
 | [site-www](https://github.com/dart-lang/site-www) | Source for Dart website | Dart | 939 | Other | 2016-07-11 | 2024-07-20 |
 | [code_builder](https://github.com/dart-lang/code_builder) | A fluent API for generating valid Dart source code | Dart | 423 | BSD 3-Clause "New" or "Revised" License | 2016-08-18 | 2024-07-01 |
@@ -2804,11 +2804,11 @@
 | [native_synchronization](https://github.com/dart-lang/native_synchronization) | Low-level synchronization primitives built using dart:ffi. | Dart | 26 | BSD 3-Clause "New" or "Revised" License | 2023-07-11 | 2024-07-01 |
 | [core](https://github.com/dart-lang/core) | This repository is home to core Dart packages. | None | 0 | BSD 3-Clause "New" or "Revised" License | 2024-06-10 | 2024-06-11 |
 | [macros](https://github.com/dart-lang/macros) | A Dart mono-repo for macro development. | Dart | 20 | BSD 3-Clause "New" or "Revised" License | 2024-06-13 | 2024-07-01 |
-| [php-jwt](https://github.com/firebase/php-jwt) | PHP package for JWT | PHP | 9301 | BSD 3-Clause "New" or "Revised" License | 2012-12-31 | 2024-07-20 |
+| [php-jwt](https://github.com/firebase/php-jwt) | PHP package for JWT | PHP | 9303 | BSD 3-Clause "New" or "Revised" License | 2012-12-31 | 2024-07-20 |
 | [finagle](https://github.com/firebase/finagle) | A fault tolerant, protocol-agnostic RPC system | Scala | 2 | Apache License 2.0 | 2013-09-23 | 2023-01-27 |
 | [geofire-js](https://github.com/firebase/geofire-js) | GeoFire for JavaScript - Realtime location queries with Firebase | TypeScript | 1441 | MIT License | 2013-09-25 | 2024-06-29 |
 | [superstatic](https://github.com/firebase/superstatic) | Superstatic: a static file server for fancy apps. | JavaScript | 1095 | MIT License | 2013-10-11 | 2024-06-29 |
-| [firebase-tools](https://github.com/firebase/firebase-tools) | The Firebase Command Line Tools | TypeScript | 3977 | MIT License | 2013-12-23 | 2024-07-18 |
+| [firebase-tools](https://github.com/firebase/firebase-tools) | The Firebase Command Line Tools | TypeScript | 3978 | MIT License | 2013-12-23 | 2024-07-20 |
 | [geofire-objc](https://github.com/firebase/geofire-objc) | GeoFire for Objective-C - Realtime location queries with Firebase | Objective-C | 435 | MIT License | 2014-07-08 | 2024-04-30 |
 | [ok](https://github.com/firebase/ok) | HTTPS CDN Proxy Healthy Check | None | 4 | MIT License | 2014-07-08 | 2024-03-12 |
 | [geofire-java](https://github.com/firebase/geofire-java) | GeoFire for Java - Realtime location queries with Firebase | Java | 670 | MIT License | 2014-07-13 | 2024-06-26 |
@@ -2818,17 +2818,17 @@
 | [chef-google_auth_proxy](https://github.com/firebase/chef-google_auth_proxy) | Chef Provider for Google Auth Proxy | Ruby | 3 | MIT License | 2015-06-19 | 2023-01-28 |
 | [nagios](https://github.com/firebase/nagios) | Development repository for Chef Nagios cookbook | Ruby | 5 | Apache License 2.0 | 2015-07-01 | 2023-01-28 |
 | [FirebaseUI-Android](https://github.com/firebase/FirebaseUI-Android) | Optimized UI components for Firebase | Java | 4609 | Apache License 2.0 | 2015-07-09 | 2024-07-18 |
-| [FirebaseUI-iOS](https://github.com/firebase/FirebaseUI-iOS) | iOS UI bindings for Firebase. | Objective-C | 1495 | Apache License 2.0 | 2015-07-09 | 2024-07-17 |
+| [FirebaseUI-iOS](https://github.com/firebase/FirebaseUI-iOS) | iOS UI bindings for Firebase. | Objective-C | 1496 | Apache License 2.0 | 2015-07-09 | 2024-07-20 |
 | [leveldb](https://github.com/firebase/leveldb) | LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. | C++ | 12 | BSD 3-Clause "New" or "Revised" License | 2015-09-17 | 2024-06-24 |
 | [chef-user](https://github.com/firebase/chef-user) | A convenient Chef LWRP to manage user accounts and SSH keys | Ruby | 4 | - | 2015-11-14 | 2023-01-28 |
 | [quickstart-android](https://github.com/firebase/quickstart-android) | Firebase Quickstart Samples for Android | Java | 8778 | Apache License 2.0 | 2016-04-26 | 2024-07-19 |
 | [quickstart-ios](https://github.com/firebase/quickstart-ios) | Firebase Quickstart Samples for iOS | Swift | 2764 | Apache License 2.0 | 2016-04-26 | 2024-07-17 |
-| [quickstart-js](https://github.com/firebase/quickstart-js) | Firebase Quickstart Samples for Web | TypeScript | 5049 | Apache License 2.0 | 2016-04-26 | 2024-07-18 |
+| [quickstart-js](https://github.com/firebase/quickstart-js) | Firebase Quickstart Samples for Web | TypeScript | 5050 | Apache License 2.0 | 2016-04-26 | 2024-07-21 |
 | [codelab-friendlychat-web](https://github.com/firebase/codelab-friendlychat-web) | The source for the Firebase codelab for building a cross-platform chat app | JavaScript | 1744 | Apache License 2.0 | 2016-04-26 | 2024-07-17 |
 | [quickstart-cpp](https://github.com/firebase/quickstart-cpp) | Firebase Quickstart Samples for C++ | C++ | 206 | Apache License 2.0 | 2016-04-26 | 2024-07-19 |
 | [quickstart-nodejs](https://github.com/firebase/quickstart-nodejs) | None | JavaScript | 888 | Apache License 2.0 | 2016-04-26 | 2024-07-11 |
 | [quickstart-java](https://github.com/firebase/quickstart-java) | Quickstart samples for Firebase Java Admin SDK | Java | 232 | Apache License 2.0 | 2016-04-26 | 2024-06-13 |
-| [firebaseui-web](https://github.com/firebase/firebaseui-web) | FirebaseUI is an open-source JavaScript library for Web that provides simple, customizable UI bindings on top of Firebase SDKs to eliminate boilerplate code and promote best practices. | JavaScript | 4531 | Apache License 2.0 | 2016-05-11 | 2024-07-19 |
+| [firebaseui-web](https://github.com/firebase/firebaseui-web) | FirebaseUI is an open-source JavaScript library for Web that provides simple, customizable UI bindings on top of Firebase SDKs to eliminate boilerplate code and promote best practices. | JavaScript | 4532 | Apache License 2.0 | 2016-05-11 | 2024-07-21 |
 | [kitchen-google](https://github.com/firebase/kitchen-google) | Google Compute Engine driver for Test-Kitchen. | Ruby | 6 | Other | 2016-06-16 | 2023-01-28 |
 | [quickstart-unity](https://github.com/firebase/quickstart-unity) | Firebase Quickstart Samples for Unity | C# | 821 | Apache License 2.0 | 2016-09-08 | 2024-07-18 |
 | [firebase-functions](https://github.com/firebase/firebase-functions) | Firebase SDK for Cloud Functions | TypeScript | 1015 | MIT License | 2016-09-22 | 2024-07-17 |
@@ -2841,7 +2841,7 @@
 | [quickstart-python](https://github.com/firebase/quickstart-python) | None | Jupyter Notebook | 114 | Apache License 2.0 | 2017-03-27 | 2024-06-17 |
 | [nginx](https://github.com/firebase/nginx) | This repo is a PUBLIC FORK | C | 7 | BSD 2-Clause "Simplified" License | 2017-03-30 | 2024-03-12 |
 | [leveldb-library-podspec](https://github.com/firebase/leveldb-library-podspec) | None | Ruby | 5 | MIT License | 2017-04-11 | 2024-03-12 |
-| [firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) | Firebase SDK for Apple App Development | C++ | 5480 | Apache License 2.0 | 2017-04-22 | 2024-07-20 |
+| [firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) | Firebase SDK for Apple App Development | C++ | 5479 | Apache License 2.0 | 2017-04-22 | 2024-07-21 |
 | [firebase-js-sdk](https://github.com/firebase/firebase-js-sdk) | Firebase Javascript SDK | TypeScript | 4777 | Other | 2017-04-24 | 2024-07-19 |
 | [oss-bot](https://github.com/firebase/oss-bot) | Robot friend for open source repositories | TypeScript | 36 | Apache License 2.0 | 2017-04-28 | 2024-03-12 |
 | [snippets-android](https://github.com/firebase/snippets-android) | Android snippets for firebase.google.com | Java | 760 | Apache License 2.0 | 2017-06-27 | 2024-07-16 |
@@ -2858,7 +2858,7 @@
 | [friendlyeats-web](https://github.com/firebase/friendlyeats-web) | None | JavaScript | 443 | Apache License 2.0 | 2017-10-02 | 2024-07-20 |
 | [friendlyeats-ios](https://github.com/firebase/friendlyeats-ios) | None | Swift | 127 | Apache License 2.0 | 2017-10-02 | 2024-05-23 |
 | [firebase-testlab-instr-lib](https://github.com/firebase/firebase-testlab-instr-lib) | None | Java | 13 | Apache License 2.0 | 2017-10-11 | 2024-03-12 |
-| [firebaseui-web-react](https://github.com/firebase/firebaseui-web-react) | React Wrapper for firebaseUI Web | JavaScript | 1257 | Apache License 2.0 | 2017-10-28 | 2024-07-19 |
+| [firebaseui-web-react](https://github.com/firebase/firebaseui-web-react) | React Wrapper for firebaseUI Web | JavaScript | 1258 | Apache License 2.0 | 2017-10-28 | 2024-07-20 |
 | [appquality-codelab-ios](https://github.com/firebase/appquality-codelab-ios) | Firebase iOS App Quality Codelab | Objective-C | 11 | Apache License 2.0 | 2017-12-21 | 2024-03-12 |
 | [snippets-rules](https://github.com/firebase/snippets-rules) | Snippets for security rules on firebase.google.com | TypeScript | 44 | Apache License 2.0 | 2018-01-04 | 2024-06-29 |
 | [firebaseopensource.com](https://github.com/firebase/firebaseopensource.com) | Source for firebase open source site | TypeScript | 118 | Apache License 2.0 | 2018-01-05 | 2024-04-05 |
@@ -2866,12 +2866,12 @@
 | [rtdb-to-csv](https://github.com/firebase/rtdb-to-csv) | None | JavaScript | 10 | Apache License 2.0 | 2018-03-21 | 2024-03-12 |
 | [firebase-functions-test](https://github.com/firebase/firebase-functions-test) | None | TypeScript | 232 | MIT License | 2018-03-28 | 2024-07-13 |
 | [firebase-admin-dotnet](https://github.com/firebase/firebase-admin-dotnet) | Firebase Admin .NET SDK | C# | 358 | Apache License 2.0 | 2018-08-15 | 2024-07-18 |
-| [firebase-android-sdk](https://github.com/firebase/firebase-android-sdk) | Firebase Android SDK | Java | 2235 | Apache License 2.0 | 2018-08-31 | 2024-07-19 |
+| [firebase-android-sdk](https://github.com/firebase/firebase-android-sdk) | Firebase Android SDK | Java | 2236 | Apache License 2.0 | 2018-08-31 | 2024-07-20 |
 | [firebase-bower](https://github.com/firebase/firebase-bower) | Firebase Web Client | JavaScript | 35 | - | 2018-09-13 | 2024-03-12 |
 | [SpecsStaging](https://github.com/firebase/SpecsStaging) | SpecsStaging | None | 11 | Apache License 2.0 | 2019-01-10 | 2024-07-20 |
 | [firebase-cpp-sdk](https://github.com/firebase/firebase-cpp-sdk) | Firebase C++ SDK | C++ | 272 | Apache License 2.0 | 2019-03-12 | 2024-07-17 |
 | [geofire-android](https://github.com/firebase/geofire-android) | GeoFire for Android apps | Java | 134 | Apache License 2.0 | 2019-06-13 | 2024-07-10 |
-| [flutterfire](https://github.com/firebase/flutterfire) | 🔥 A collection of Firebase plugins for Flutter apps. | Dart | 8520 | BSD 3-Clause "New" or "Revised" License | 2019-08-14 | 2024-07-19 |
+| [flutterfire](https://github.com/firebase/flutterfire) | 🔥 A collection of Firebase plugins for Flutter apps. | Dart | 8519 | BSD 3-Clause "New" or "Revised" License | 2019-08-14 | 2024-07-20 |
 | [extensions](https://github.com/firebase/extensions) | Source code for official Firebase extensions | TypeScript | 884 | Apache License 2.0 | 2019-08-20 | 2024-07-19 |
 | [emulators-codelab](https://github.com/firebase/emulators-codelab) | None | JavaScript | 45 | Apache License 2.0 | 2019-08-20 | 2024-03-12 |
 | [fastlane-plugin-firebase_app_distribution](https://github.com/firebase/fastlane-plugin-firebase_app_distribution) | fastlane plugin for Firebase App Distribution. https://firebase.google.com/docs/app-distribution | Ruby | 164 | MIT License | 2019-09-06 | 2024-06-26 |
@@ -2882,17 +2882,17 @@
 | [grpc](https://github.com/firebase/grpc) | The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#) | None | 5 | Apache License 2.0 | 2020-08-11 | 2024-07-09 |
 | [boringssl](https://github.com/firebase/boringssl) | Mirror of BoringSSL | None | 3 | Other | 2020-08-11 | 2024-03-12 |
 | [ocmock](https://github.com/firebase/ocmock) | Mock objects for Objective-C | None | 7 | Apache License 2.0 | 2020-08-11 | 2024-03-12 |
-| [SpecsReleasing](https://github.com/firebase/SpecsReleasing) | None | Ruby | 1 | Apache License 2.0 | 2020-09-11 | 2024-07-20 |
+| [SpecsReleasing](https://github.com/firebase/SpecsReleasing) | None | Ruby | 1 | Apache License 2.0 | 2020-09-11 | 2024-07-21 |
 | [firebase-unity-sdk](https://github.com/firebase/firebase-unity-sdk) | The Firebase SDK for Unity | C# | 202 | Apache License 2.0 | 2020-09-25 | 2024-07-18 |
 | [abseil-cpp-SwiftPM](https://github.com/firebase/abseil-cpp-SwiftPM) | None | C++ | 13 | Apache License 2.0 | 2020-10-07 | 2024-03-08 |
 | [grpc-SwiftPM](https://github.com/firebase/grpc-SwiftPM) | None | C++ | 3 | Apache License 2.0 | 2020-10-07 | 2023-02-03 |
 | [boringSSL-SwiftPM](https://github.com/firebase/boringSSL-SwiftPM) | None | C++ | 12 | Other | 2020-10-07 | 2024-03-22 |
 | [nanopb](https://github.com/firebase/nanopb) | Protocol Buffers with small code size | C | 8 | zlib License | 2020-10-27 | 2024-06-26 |
 | [SpecsDev](https://github.com/firebase/SpecsDev) | None | None | 6 | Apache License 2.0 | 2021-02-18 | 2024-03-28 |
-| [SpecsTesting](https://github.com/firebase/SpecsTesting) | None | Ruby | 13 | Apache License 2.0 | 2021-04-05 | 2024-07-20 |
+| [SpecsTesting](https://github.com/firebase/SpecsTesting) | None | Ruby | 13 | Apache License 2.0 | 2021-04-05 | 2024-07-21 |
 | [.github](https://github.com/firebase/.github) | Default configuration for Firebase repos | None | 8 | - | 2021-09-22 | 2024-04-13 |
 | [firebase-docs](https://github.com/firebase/firebase-docs) | None | TypeScript | 14 | Apache License 2.0 | 2021-11-30 | 2024-07-18 |
-| [quickstart-flutter](https://github.com/firebase/quickstart-flutter) | None | Dart | 133 | Apache License 2.0 | 2022-03-07 | 2024-07-08 |
+| [quickstart-flutter](https://github.com/firebase/quickstart-flutter) | None | Dart | 132 | Apache License 2.0 | 2022-03-07 | 2024-07-21 |
 | [snippets-flutter](https://github.com/firebase/snippets-flutter) | None | Dart | 42 | Apache License 2.0 | 2022-03-07 | 2024-06-28 |
 | [crashlytics-testapps](https://github.com/firebase/crashlytics-testapps) | None | Java | 2 | Apache License 2.0 | 2022-05-31 | 2024-05-22 |
 | [firebase-functions-python](https://github.com/firebase/firebase-functions-python) | None | Python | 130 | Apache License 2.0 | 2022-08-25 | 2024-07-18 |
@@ -2901,23 +2901,23 @@
 | [level-up-with-firebase](https://github.com/firebase/level-up-with-firebase) | None | C# | 31 | Apache License 2.0 | 2022-12-16 | 2024-07-13 |
 | [firebase-release-dashboard](https://github.com/firebase/firebase-release-dashboard) | None | JavaScript | 4 | Apache License 2.0 | 2023-06-08 | 2024-04-22 |
 | [FirebaseUI-Flutter](https://github.com/firebase/FirebaseUI-Flutter) | None | Dart | 93 | Apache License 2.0 | 2023-07-11 | 2024-07-12 |
-| [genkit](https://github.com/firebase/genkit) | An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to integrate, test, and deploy sophisticated AI features to Firebase or Google Cloud. | TypeScript | 416 | Apache License 2.0 | 2024-04-29 | 2024-07-20 |
-| [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond | Dart | 163636 | BSD 3-Clause "New" or "Revised" License | 2015-03-06 | 2024-07-20 |
+| [genkit](https://github.com/firebase/genkit) | An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to integrate, test, and deploy sophisticated AI features to Firebase or Google Cloud. | TypeScript | 419 | Apache License 2.0 | 2024-04-29 | 2024-07-21 |
+| [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond | Dart | 163648 | BSD 3-Clause "New" or "Revised" License | 2015-03-06 | 2024-07-21 |
 | [engine](https://github.com/flutter/engine) | The Flutter engine | C++ | 7273 | BSD 3-Clause "New" or "Revised" License | 2015-07-16 | 2024-07-20 |
-| [website](https://github.com/flutter/website) | Flutter documentation web site | Dart | 2758 | Other | 2015-09-03 | 2024-07-20 |
+| [website](https://github.com/flutter/website) | Flutter documentation web site | Dart | 2758 | Other | 2015-09-03 | 2024-07-21 |
 | [cocoon](https://github.com/flutter/cocoon) | Flutter's build coordinator and aggregator | Dart | 198 | BSD 3-Clause "New" or "Revised" License | 2016-07-13 | 2024-07-17 |
-| [flutter-intellij](https://github.com/flutter/flutter-intellij) | Flutter Plugin for IntelliJ | Java | 1952 | BSD 3-Clause "New" or "Revised" License | 2016-07-25 | 2024-07-19 |
+| [flutter-intellij](https://github.com/flutter/flutter-intellij) | Flutter Plugin for IntelliJ | Java | 1953 | BSD 3-Clause "New" or "Revised" License | 2016-07-25 | 2024-07-20 |
 | [buildroot](https://github.com/flutter/buildroot) | Build environment for the Flutter engine | Python | 129 | BSD 3-Clause "New" or "Revised" License | 2016-08-09 | 2024-07-18 |
 | [assets-for-api-docs](https://github.com/flutter/assets-for-api-docs) | Static assets for embedding into docs.flutter.io | Dart | 116 | BSD 3-Clause "New" or "Revised" License | 2017-04-06 | 2024-07-15 |
 | [plugins](https://github.com/flutter/plugins) | Plugins for Flutter maintained by the Flutter team | Dart | 17407 | BSD 3-Clause "New" or "Revised" License | 2017-04-18 | 2024-07-20 |
-| [packages](https://github.com/flutter/packages) | A collection of useful packages maintained by the Flutter team | Dart | 4167 | BSD 3-Clause "New" or "Revised" License | 2017-08-01 | 2024-07-20 |
+| [packages](https://github.com/flutter/packages) | A collection of useful packages maintained by the Flutter team | Dart | 4170 | BSD 3-Clause "New" or "Revised" License | 2017-08-01 | 2024-07-21 |
 | [git](https://github.com/flutter/git) | A fork of Git containing Windows-specific patches. | C | 12 | Other | 2017-12-19 | 2024-01-04 |
 | [goldens](https://github.com/flutter/goldens) | None | Shell | 41 | BSD 3-Clause "New" or "Revised" License | 2018-05-01 | 2024-05-06 |
-| [samples](https://github.com/flutter/samples) | A collection of Flutter examples and demos | Dart | 16870 | Other | 2018-06-08 | 2024-07-20 |
+| [samples](https://github.com/flutter/samples) | A collection of Flutter examples and demos | Dart | 16873 | Other | 2018-06-08 | 2024-07-20 |
 | [codelabs](https://github.com/flutter/codelabs) | Flutter codelab examples | C | 1795 | BSD 3-Clause "New" or "Revised" License | 2018-07-30 | 2024-07-18 |
-| [devtools](https://github.com/flutter/devtools) | Performance tools for Flutter | Dart | 1535 | BSD 3-Clause "New" or "Revised" License | 2018-08-06 | 2024-07-19 |
+| [devtools](https://github.com/flutter/devtools) | Performance tools for Flutter | Dart | 1536 | BSD 3-Clause "New" or "Revised" License | 2018-08-06 | 2024-07-20 |
 | [platform_tests](https://github.com/flutter/platform_tests) | Tools & tests to verify Flutter's fidelity on specific platforms | Dart | 40 | BSD 3-Clause "New" or "Revised" License | 2019-02-27 | 2024-07-15 |
-| [tests](https://github.com/flutter/tests) | Contributed tests for Flutter | Dart | 261 | - | 2019-03-21 | 2024-07-19 |
+| [tests](https://github.com/flutter/tests) | Contributed tests for Flutter | Dart | 263 | - | 2019-03-21 | 2024-07-21 |
 | [flutter.github.io](https://github.com/flutter/flutter.github.io) | Root of flutter.github.io | HTML | 13 | - | 2019-05-02 | 2024-05-06 |
 | [flutter_clock](https://github.com/flutter/flutter_clock) | None | Dart | 543 | BSD 3-Clause "New" or "Revised" License | 2019-11-15 | 2024-06-17 |
 | [web_installers](https://github.com/flutter/web_installers) | Web install scripts for CI for Flutter Web | Dart | 42 | BSD 3-Clause "New" or "Revised" License | 2020-02-19 | 2023-12-13 |
@@ -2929,24 +2929,24 @@
 | [impeller](https://github.com/flutter/impeller) | Affects Flow | None | 161 | - | 2021-04-20 | 2024-06-27 |
 | [.github](https://github.com/flutter/.github) | Default community health files for Flutter | None | 29 | - | 2021-09-30 | 2024-07-17 |
 | [put-flutter-to-work](https://github.com/flutter/put-flutter-to-work) | A Flutter add-to-app demo you can try with your own apps | Dart | 320 | BSD 3-Clause "New" or "Revised" License | 2022-02-08 | 2024-07-16 |
-| [pinball](https://github.com/flutter/pinball) | Google I/O 2022 Pinball game built with Flutter and Firebase | Dart | 2178 | MIT License | 2022-02-23 | 2024-07-18 |
+| [pinball](https://github.com/flutter/pinball) | Google I/O 2022 Pinball game built with Flutter and Firebase | Dart | 2179 | MIT License | 2022-02-23 | 2024-07-20 |
 | [news_toolkit](https://github.com/flutter/news_toolkit) | A news template application built in Flutter, by Google and Very Good Ventures. Learn more at: https://flutter.github.io/news_toolkit | Dart | 1241 | BSD 3-Clause "New" or "Revised" License | 2022-04-13 | 2024-07-19 |
 | [holobooth](https://github.com/flutter/holobooth) | Jump into a new reality to bring Dash and Sparky to life! | Dart | 248 | MIT License | 2022-09-01 | 2024-07-13 |
-| [io_flip](https://github.com/flutter/io_flip) | Google I/O 2023 FLIP AI-designed card game built with Flutter & Firebase | Dart | 648 | BSD 3-Clause "New" or "Revised" License | 2023-02-10 | 2024-07-16 |
-| [super_dash](https://github.com/flutter/super_dash) | None | HTML | 296 | BSD 3-Clause "New" or "Revised" License | 2023-08-15 | 2024-07-19 |
+| [io_flip](https://github.com/flutter/io_flip) | Google I/O 2023 FLIP AI-designed card game built with Flutter & Firebase | Dart | 647 | BSD 3-Clause "New" or "Revised" License | 2023-02-10 | 2024-07-20 |
+| [super_dash](https://github.com/flutter/super_dash) | None | HTML | 297 | BSD 3-Clause "New" or "Revised" License | 2023-08-15 | 2024-07-21 |
 | [games](https://github.com/flutter/games) | Home of the Flutter Casual Games Toolkit and other Flutter gaming templates | Dart | 543 | Other | 2023-10-18 | 2024-07-16 |
 | [gerrit](https://github.com/gerrit-review/gerrit) | Gerrit Code Review (mirror only). DO NOT SUBMIT PULL REQUESTS HERE. Use https://gerrit-review.googlesource.com instead. | Java | 408 | Apache License 2.0 | 2015-03-19 | 2024-04-08 |
 | [gddo](https://github.com/golang/gddo) | Go Doc Dot Org | Go | 1104 | BSD 3-Clause "New" or "Revised" License | 2011-06-18 | 2024-06-29 |
 | [lint](https://github.com/golang/lint) | [mirror] This is a linter for Go source code. (deprecated) | Go | 3974 | BSD 3-Clause "New" or "Revised" License | 2013-06-02 | 2024-06-28 |
-| [glog](https://github.com/golang/glog) | Leveled execution logs for Go | Go | 3517 | Apache License 2.0 | 2013-07-16 | 2024-07-15 |
-| [groupcache](https://github.com/golang/groupcache) | groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases. | Go | 12848 | Apache License 2.0 | 2013-07-22 | 2024-07-19 |
+| [glog](https://github.com/golang/glog) | Leveled execution logs for Go | Go | 3518 | Apache License 2.0 | 2013-07-16 | 2024-07-20 |
+| [groupcache](https://github.com/golang/groupcache) | groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases. | Go | 12849 | Apache License 2.0 | 2013-07-22 | 2024-07-21 |
 | [appengine](https://github.com/golang/appengine) | Go App Engine packages | Go | 665 | Apache License 2.0 | 2014-02-11 | 2024-06-24 |
-| [oauth2](https://github.com/golang/oauth2) | Go OAuth2 | Go | 5246 | BSD 3-Clause "New" or "Revised" License | 2014-04-14 | 2024-07-19 |
+| [oauth2](https://github.com/golang/oauth2) | Go OAuth2 | Go | 5248 | BSD 3-Clause "New" or "Revised" License | 2014-04-14 | 2024-07-20 |
 | [example](https://github.com/golang/example) | Go example projects | Go | 2518 | BSD 3-Clause "New" or "Revised" License | 2014-07-28 | 2024-07-16 |
-| [go](https://github.com/golang/go) | The Go programming language | Go | 121426 | BSD 3-Clause "New" or "Revised" License | 2014-08-19 | 2024-07-20 |
+| [go](https://github.com/golang/go) | The Go programming language | Go | 121445 | BSD 3-Clause "New" or "Revised" License | 2014-08-19 | 2024-07-21 |
 | [winstrap](https://github.com/golang/winstrap) | Bootstrapping tools for windows builders | Go | 49 | BSD 3-Clause "New" or "Revised" License | 2014-09-04 | 2024-06-17 |
 | [review](https://github.com/golang/review) | [mirror] Tool for working with Gerrit code reviews | Go | 145 | BSD 3-Clause "New" or "Revised" License | 2014-10-28 | 2024-07-16 |
-| [protobuf](https://github.com/golang/protobuf) | Go support for Google's protocol buffers | Go | 9659 | BSD 3-Clause "New" or "Revised" License | 2014-11-23 | 2024-07-18 |
+| [protobuf](https://github.com/golang/protobuf) | Go support for Google's protocol buffers | Go | 9659 | BSD 3-Clause "New" or "Revised" License | 2014-11-23 | 2024-07-20 |
 | [tools](https://github.com/golang/tools) | [mirror] Go Tools | Go | 7304 | BSD 3-Clause "New" or "Revised" License | 2014-11-25 | 2024-07-19 |
 | [geo](https://github.com/golang/geo) | S2 geometry library in Go | Go | 1653 | Apache License 2.0 | 2014-12-03 | 2024-07-19 |
 | [benchmarks](https://github.com/golang/benchmarks) | Benchmarks for the perf dashboard | Go | 178 | BSD 3-Clause "New" or "Revised" License | 2014-12-04 | 2024-07-17 |
@@ -2955,7 +2955,7 @@
 | [exp](https://github.com/golang/exp) | [mirror] Experimental and deprecated packages | Go | 836 | BSD 3-Clause "New" or "Revised" License | 2014-12-04 | 2024-07-19 |
 | [image](https://github.com/golang/image) | [mirror] Go supplementary image libraries | Go | 522 | BSD 3-Clause "New" or "Revised" License | 2014-12-04 | 2024-07-16 |
 | [mobile](https://github.com/golang/mobile) | [mirror] Go on Mobile | Go | 5752 | BSD 3-Clause "New" or "Revised" License | 2014-12-04 | 2024-07-19 |
-| [net](https://github.com/golang/net) | [mirror] Go supplementary network libraries | Go | 2835 | BSD 3-Clause "New" or "Revised" License | 2014-12-04 | 2024-07-16 |
+| [net](https://github.com/golang/net) | [mirror] Go supplementary network libraries | Go | 2836 | BSD 3-Clause "New" or "Revised" License | 2014-12-04 | 2024-07-21 |
 | [sys](https://github.com/golang/sys) | [mirror] Go packages for low-level interaction with the operating system | Go | 1254 | BSD 3-Clause "New" or "Revised" License | 2014-12-04 | 2024-07-17 |
 | [talks](https://github.com/golang/talks) | Go talks | None | 695 | - | 2014-12-04 | 2024-06-18 |
 | [text](https://github.com/golang/text) | [mirror] Go text processing support | Go | 744 | BSD 3-Clause "New" or "Revised" License | 2014-12-04 | 2024-07-19 |
@@ -2963,11 +2963,11 @@
 | [gofrontend](https://github.com/golang/gofrontend) | Go compiler frontend (gccgo) | Go | 850 | BSD 3-Clause "New" or "Revised" License | 2015-01-07 | 2024-07-18 |
 | [build](https://github.com/golang/build) | [mirror] Go's continuous build and release infrastructure (no stability promises) | Go | 626 | BSD 3-Clause "New" or "Revised" License | 2015-01-21 | 2024-07-16 |
 | [playground](https://github.com/golang/playground) | [mirror] The Go Playground | Go | 738 | BSD 3-Clause "New" or "Revised" License | 2015-01-21 | 2024-07-16 |
-| [tour](https://github.com/golang/tour) | [mirror] A Tour of Go | Go | 1532 | BSD 3-Clause "New" or "Revised" License | 2015-02-10 | 2024-07-16 |
-| [snappy](https://github.com/golang/snappy) | The Snappy compression format in the Go programming language. | Go | 1505 | BSD 3-Clause "New" or "Revised" License | 2015-05-12 | 2024-07-19 |
-| [mock](https://github.com/golang/mock) | GoMock is a mocking framework for the Go programming language. | Go | 9260 | Apache License 2.0 | 2015-06-12 | 2024-07-19 |
+| [tour](https://github.com/golang/tour) | [mirror] A Tour of Go | Go | 1533 | BSD 3-Clause "New" or "Revised" License | 2015-02-10 | 2024-07-21 |
+| [snappy](https://github.com/golang/snappy) | The Snappy compression format in the Go programming language. | Go | 1507 | BSD 3-Clause "New" or "Revised" License | 2015-05-12 | 2024-07-21 |
+| [mock](https://github.com/golang/mock) | GoMock is a mocking framework for the Go programming language. | Go | 9261 | Apache License 2.0 | 2015-06-12 | 2024-07-20 |
 | [leveldb](https://github.com/golang/leveldb) | The LevelDB key-value database in the Go programming language. | Go | 1144 | BSD 3-Clause "New" or "Revised" License | 2015-07-20 | 2024-07-15 |
-| [proposal](https://github.com/golang/proposal) | Go Project Design Documents | Go | 3307 | BSD 3-Clause "New" or "Revised" License | 2015-07-29 | 2024-07-19 |
+| [proposal](https://github.com/golang/proposal) | Go Project Design Documents | Go | 3308 | BSD 3-Clause "New" or "Revised" License | 2015-07-29 | 2024-07-20 |
 | [freetype](https://github.com/golang/freetype) | The Freetype font rasterizer in the Go programming language. | Go | 782 | Other | 2015-08-11 | 2024-07-17 |
 | [arch](https://github.com/golang/arch) | [mirror] architecture code | Go | 145 | BSD 3-Clause "New" or "Revised" License | 2015-08-27 | 2024-07-16 |
 | [sublime-config](https://github.com/golang/sublime-config) | A library for Go environment configuration in Sublime Text | Python | 85 | BSD 3-Clause "New" or "Revised" License | 2015-09-07 | 2024-06-17 |
@@ -2986,7 +2986,7 @@
 | [xerrors](https://github.com/golang/xerrors) | None | Go | 277 | BSD 3-Clause "New" or "Revised" License | 2019-01-25 | 2024-07-17 |
 | [mod](https://github.com/golang/mod) | [mirror] Go module mechanics libraries | Go | 187 | BSD 3-Clause "New" or "Revised" License | 2019-05-10 | 2024-07-18 |
 | [vscode-go](https://github.com/golang/vscode-go) | Go extension for Visual Studio Code | TypeScript | 3802 | Other | 2020-03-06 | 2024-07-18 |
-| [pkgsite](https://github.com/golang/pkgsite) | [mirror] Home of the pkg.go.dev website | Go | 1144 | BSD 3-Clause "New" or "Revised" License | 2020-05-19 | 2024-07-17 |
+| [pkgsite](https://github.com/golang/pkgsite) | [mirror] Home of the pkg.go.dev website | Go | 1145 | BSD 3-Clause "New" or "Revised" License | 2020-05-19 | 2024-07-21 |
 | [vulndb](https://github.com/golang/vulndb) | [mirror] The Go Vulnerability Database | Go | 555 | Other | 2021-04-16 | 2024-07-19 |
 | [vuln](https://github.com/golang/vuln) | [mirror] the database client and tools for the Go vulnerability database | Go | 372 | BSD 3-Clause "New" or "Revised" License | 2021-11-02 | 2024-07-18 |
 | [.allstar](https://github.com/golang/.allstar) | None | None | 2 | - | 2022-10-26 | 2024-06-17 |
@@ -2995,7 +2995,7 @@
 | [govulncheck-action](https://github.com/golang/govulncheck-action) | [mirror] GitHub action for govulncheck | None | 89 | BSD 3-Clause "New" or "Revised" License | 2023-05-04 | 2024-06-29 |
 | [telemetry](https://github.com/golang/telemetry) | [mirror] Go Telemetry services and libraries | Go | 37 | BSD 3-Clause "New" or "Revised" License | 2023-05-05 | 2024-07-19 |
 | [wiki](https://github.com/golang/wiki) | [mirror] Go Wiki | None | 28 | - | 2023-10-04 | 2024-07-19 |
-| [oscar](https://github.com/golang/oscar) | [mirror] Open source contributor agent architecture repo. | Go | 32 | BSD 3-Clause "New" or "Revised" License | 2024-07-03 | 2024-07-19 |
+| [oscar](https://github.com/golang/oscar) | [mirror] Open source contributor agent architecture repo. | Go | 33 | BSD 3-Clause "New" or "Revised" License | 2024-07-03 | 2024-07-20 |
 | [truth](https://github.com/google/truth) | Fluent assertions for Java and Android | Java | 2709 | Apache License 2.0 | 2011-06-22 | 2024-07-18 |
 | [ruby-openid-apps-discovery](https://github.com/google/ruby-openid-apps-discovery) | None | Ruby | 36 | - | 2012-01-23 | 2023-03-29 |
 | [autoparse](https://github.com/google/autoparse) | A dynamically generated parsing system using JSON Schema. | Ruby | 143 | Apache License 2.0 | 2012-01-23 | 2023-09-10 |
@@ -3020,7 +3020,7 @@
 | [cpp-netlib](https://github.com/google/cpp-netlib) | The C++ Network Library Project -- header-only, cross-platform, standards compliant networking library. | C++ | 343 | Boost Software License 1.0 | 2013-01-23 | 2024-06-07 |
 | [dagger](https://github.com/google/dagger) | A fast dependency injector for Android and Java. | Java | 17358 | Apache License 2.0 | 2013-02-01 | 2024-07-19 |
 | [ios-webkit-debug-proxy](https://github.com/google/ios-webkit-debug-proxy) | A DevTools proxy (Chrome Remote Debugging Protocol) for iOS devices (Safari Remote Web Inspector). | C | 5905 | BSD 3-Clause "New" or "Revised" License | 2013-02-12 | 2024-07-19 |
-| [google.github.io](https://github.com/google/google.github.io) | None | HTML | 453 | - | 2013-02-27 | 2024-07-16 |
+| [google.github.io](https://github.com/google/google.github.io) | None | HTML | 454 | - | 2013-02-27 | 2024-07-21 |
 | [kratu](https://github.com/google/kratu) | None | JavaScript | 284 | Apache License 2.0 | 2013-03-04 | 2024-04-02 |
 | [build-debian-cloud](https://github.com/google/build-debian-cloud) | Script to create Debian Squeeze & Wheezy Amazon Machine Images (AMIs) and Google Compute Engine images | Shell | 35 | Other | 2013-03-18 | 2024-07-18 |
 | [traceur-compiler](https://github.com/google/traceur-compiler) | Traceur is a JavaScript.next-to-JavaScript-of-today compiler | JavaScript | 8175 | Apache License 2.0 | 2013-03-27 | 2024-07-19 |
@@ -3034,8 +3034,8 @@
 | [lisp-koans](https://github.com/google/lisp-koans) | Common Lisp Koans is a language learning exercise in the same vein as the ruby koans, python koans and others.   It is a port of the prior koans with some modifications to highlight lisp-specific features.  Structured as ordered groups of broken unit tests, the project guides the learner progressively through many Common Lisp language features.  | Common Lisp | 3097 | Apache License 2.0 | 2013-05-15 | 2024-07-19 |
 | [concatenate.js](https://github.com/google/concatenate.js) | None | JavaScript | 92 | Apache License 2.0 | 2013-05-19 | 2024-01-09 |
 | [dart-collab](https://github.com/google/dart-collab) | An operational transform library for Dart | Dart | 48 | Apache License 2.0 | 2013-05-22 | 2024-05-11 |
-| [auto](https://github.com/google/auto) | A collection of source code generators for Java. | Java | 10402 | Apache License 2.0 | 2013-05-22 | 2024-07-19 |
-| [go-github](https://github.com/google/go-github) | Go library for accessing the GitHub v3 API | Go | 10188 | BSD 3-Clause "New" or "Revised" License | 2013-05-24 | 2024-07-20 |
+| [auto](https://github.com/google/auto) | A collection of source code generators for Java. | Java | 10400 | Apache License 2.0 | 2013-05-22 | 2024-07-20 |
+| [go-github](https://github.com/google/go-github) | Go library for accessing the GitHub v3 API | Go | 10195 | BSD 3-Clause "New" or "Revised" License | 2013-05-24 | 2024-07-21 |
 | [streamy-dart](https://github.com/google/streamy-dart) | None | Dart | 60 | Apache License 2.0 | 2013-06-17 | 2023-03-29 |
 | [prerender-test](https://github.com/google/prerender-test) | None | JavaScript | 13 | Apache License 2.0 | 2013-06-18 | 2024-06-13 |
 | [google-api-ruby-client-samples](https://github.com/google/google-api-ruby-client-samples) | Samples for the Google API Ruby Client | None | 327 | - | 2013-06-19 | 2024-04-07 |
@@ -3052,7 +3052,7 @@
 | [webdriver.dart](https://github.com/google/webdriver.dart) | Dart WebDriver client | Dart | 134 | Apache License 2.0 | 2013-07-22 | 2024-07-04 |
 | [mockable_filesystem.dart](https://github.com/google/mockable_filesystem.dart) | Utility library that can be used to write code that can in turn be tested with mocked files and directories. | Dart | 11 | BSD 3-Clause "New" or "Revised" License | 2013-07-24 | 2023-03-29 |
 | [dart-gif-encoder](https://github.com/google/dart-gif-encoder) | None | Dart | 28 | Apache License 2.0 | 2013-07-25 | 2024-06-13 |
-| [gumbo-parser](https://github.com/google/gumbo-parser) | An HTML5 parsing library in pure C99 | HTML | 5161 | Apache License 2.0 | 2013-08-02 | 2024-07-19 |
+| [gumbo-parser](https://github.com/google/gumbo-parser) | An HTML5 parsing library in pure C99 | HTML | 5160 | Apache License 2.0 | 2013-08-02 | 2024-07-20 |
 | [quiver-dart](https://github.com/google/quiver-dart) | A set of utility libraries for Dart | Dart | 1004 | Apache License 2.0 | 2013-08-14 | 2024-07-18 |
 | [closure-library](https://github.com/google/closure-library) | Google's common JavaScript library | JavaScript | 4858 | Apache License 2.0 | 2013-08-16 | 2024-07-18 |
 | [patchfield](https://github.com/google/patchfield) | Audio infrastructure for Android | Java | 277 | Apache License 2.0 | 2013-08-20 | 2024-07-05 |
@@ -3076,12 +3076,12 @@
 | [grinder.dart](https://github.com/google/grinder.dart) | Dart workflows, automated | Dart | 262 | BSD 3-Clause "New" or "Revised" License | 2013-10-01 | 2024-07-17 |
 | [zimu](https://github.com/google/zimu) | None | C | 5 | Apache License 2.0 | 2013-10-02 | 2023-01-28 |
 | [self-hosted-rss-to-email](https://github.com/google/self-hosted-rss-to-email) | None | Go | 28 | Apache License 2.0 | 2013-10-03 | 2023-03-29 |
-| [capsicum-linux](https://github.com/google/capsicum-linux) | Linux kernel with Capsicum support | C | 203 | Other | 2013-10-03 | 2024-01-03 |
+| [capsicum-linux](https://github.com/google/capsicum-linux) | Linux kernel with Capsicum support | C | 204 | Other | 2013-10-03 | 2024-07-20 |
 | [capsicum-test](https://github.com/google/capsicum-test) | Test suite for Capsicum | C++ | 41 | BSD 2-Clause "Simplified" License | 2013-10-03 | 2024-04-30 |
 | [url_diff](https://github.com/google/url_diff) | None | Python | 96 | Apache License 2.0 | 2013-10-07 | 2024-06-04 |
 | [jimfs](https://github.com/google/jimfs) | An in-memory file system for Java 7+ | Java | 2410 | Apache License 2.0 | 2013-10-21 | 2024-07-18 |
 | [appengine_xblock_runtime](https://github.com/google/appengine_xblock_runtime) | None | Python | 19 | Apache License 2.0 | 2013-10-24 | 2023-03-29 |
-| [blockly](https://github.com/google/blockly) | The web-based visual programming editor. | TypeScript | 12275 | Apache License 2.0 | 2013-10-25 | 2024-07-19 |
+| [blockly](https://github.com/google/blockly) | The web-based visual programming editor. | TypeScript | 12278 | Apache License 2.0 | 2013-10-25 | 2024-07-21 |
 | [gfw-toolkit](https://github.com/google/gfw-toolkit) | Enterprise command-line scripts and samples for Google Apps Admin SDK. | Python | 30 | Apache License 2.0 | 2013-10-30 | 2023-09-28 |
 | [libkml](https://github.com/google/libkml) | Reference implementation of OGC KML 2.2 | C++ | 94 | Other | 2013-11-07 | 2024-06-07 |
 | [coursebuilder_xblock_module](https://github.com/google/coursebuilder_xblock_module) | None | Python | 17 | Apache License 2.0 | 2013-11-07 | 2023-03-29 |
@@ -3089,14 +3089,14 @@
 | [container-rfc](https://github.com/google/container-rfc) | An RFC for a standard container format | None | 11 | - | 2013-11-13 | 2023-08-23 |
 | [liquidfun](https://github.com/google/liquidfun) | 2D physics engine for games | C++ | 4680 | - | 2013-11-26 | 2024-07-19 |
 | [pytypedecl](https://github.com/google/pytypedecl) | None | Python | 66 | Other | 2013-12-03 | 2023-04-25 |
-| [grr](https://github.com/google/grr) | GRR Rapid Response: remote live forensics for incident response | Python | 4695 | Apache License 2.0 | 2013-12-04 | 2024-07-19 |
+| [grr](https://github.com/google/grr) | GRR Rapid Response: remote live forensics for incident response | Python | 4707 | Apache License 2.0 | 2013-12-04 | 2024-07-21 |
 | [vim-maktaba](https://github.com/google/vim-maktaba) | Consistent Vimscript | Vim Script | 589 | Apache License 2.0 | 2013-12-05 | 2024-07-19 |
 | [vim-glaive](https://github.com/google/vim-glaive) | None | Vim Script | 77 | Apache License 2.0 | 2013-12-06 | 2024-07-01 |
-| [benchmark](https://github.com/google/benchmark) | A microbenchmark support library | C++ | 8651 | Apache License 2.0 | 2013-12-12 | 2024-07-20 |
+| [benchmark](https://github.com/google/benchmark) | A microbenchmark support library | C++ | 8654 | Apache License 2.0 | 2013-12-12 | 2024-07-21 |
 | [angular_node_bind.dart](https://github.com/google/angular_node_bind.dart) | Utilities to allow Angular templates to use Node.bind() | Dart | 25 | BSD 3-Clause "New" or "Revised" License | 2013-12-12 | 2023-03-29 |
 | [grafika](https://github.com/google/grafika) | Grafika test app | Java | 6045 | Apache License 2.0 | 2013-12-19 | 2024-07-19 |
 | [wheelbarrow](https://github.com/google/wheelbarrow) | None | Python | 11 | - | 2014-01-06 | 2023-01-27 |
-| [skia](https://github.com/google/skia) | Skia is a complete 2D graphic library for drawing Text, Geometries, and Images. | C++ | 8954 | BSD 3-Clause "New" or "Revised" License | 2014-01-09 | 2024-07-20 |
+| [skia](https://github.com/google/skia) | Skia is a complete 2D graphic library for drawing Text, Geometries, and Images. | C++ | 8954 | BSD 3-Clause "New" or "Revised" License | 2014-01-09 | 2024-07-21 |
 | [skia-buildbot](https://github.com/google/skia-buildbot) | Build, Test, and Analysis Tools for Skia Infrastructure | Go | 133 | BSD 3-Clause "New" or "Revised" License | 2014-01-09 | 2024-07-19 |
 | [instant-hangouts](https://github.com/google/instant-hangouts) | Easily add Google+ Hangouts to any web page. | JavaScript | 185 | Apache License 2.0 | 2014-01-10 | 2024-03-23 |
 | [extra-keyboards-for-chrome-os](https://github.com/google/extra-keyboards-for-chrome-os) | Extra keyboard layouts and input methods for Chrome OS | JavaScript | 193 | Apache License 2.0 | 2014-01-21 | 2024-06-11 |
@@ -3106,7 +3106,7 @@
 | [favcolor-ios](https://github.com/google/favcolor-ios) | None | None | 5 | - | 2014-01-23 | 2023-03-29 |
 | [systemjs](https://github.com/google/systemjs) | A minimal System loader | JavaScript | 64 | MIT License | 2014-01-28 | 2024-01-09 |
 | [radioreceiver](https://github.com/google/radioreceiver) | An application to listen to broadcast stereo FM and AM radio from your Chrome browser or your ChromeBook computer using a $15 USB digital TV tuner. | JavaScript | 391 | Apache License 2.0 | 2014-01-30 | 2024-05-21 |
-| [j2objc](https://github.com/google/j2objc) | A Java to iOS Objective-C translation tool and runtime. | Java | 5989 | Apache License 2.0 | 2014-01-30 | 2024-07-19 |
+| [j2objc](https://github.com/google/j2objc) | A Java to iOS Objective-C translation tool and runtime. | Java | 5988 | Apache License 2.0 | 2014-01-30 | 2024-07-20 |
 | [pygtrie](https://github.com/google/pygtrie) | Python library implementing a trie data structure. | Python | 811 | Apache License 2.0 | 2014-02-03 | 2024-06-12 |
 | [course-builder](https://github.com/google/course-builder) | None | None | 5 | - | 2014-02-04 | 2023-03-29 |
 | [page-timer](https://github.com/google/page-timer) | A personal time-tracking Chrome extension | JavaScript | 99 | Apache License 2.0 | 2014-02-10 | 2024-07-12 |
@@ -3117,7 +3117,7 @@
 | [grr-doc](https://github.com/google/grr-doc) | Documentation for the GRR Rapid Reponse framework | Python | 299 | Apache License 2.0 | 2014-02-20 | 2024-05-10 |
 | [Refaster](https://github.com/google/Refaster) | None | Java | 54 | Apache License 2.0 | 2014-02-21 | 2024-06-20 |
 | [vroom](https://github.com/google/vroom) | Launch vim tests | Python | 273 | Apache License 2.0 | 2014-02-24 | 2024-07-01 |
-| [snappy](https://github.com/google/snappy) | A fast compressor/decompressor | C++ | 6057 | Other | 2014-03-03 | 2024-07-19 |
+| [snappy](https://github.com/google/snappy) | A fast compressor/decompressor | C++ | 6056 | Other | 2014-03-03 | 2024-07-20 |
 | [favcolor-findidp](https://github.com/google/favcolor-findidp) | None | None | 5 | - | 2014-03-10 | 2023-03-29 |
 | [googleapps-password-generator](https://github.com/google/googleapps-password-generator) | None | None | 26 | Apache License 2.0 | 2014-03-14 | 2023-03-29 |
 | [vim-ft-vroom](https://github.com/google/vim-ft-vroom) | None | VimL | 12 | Apache License 2.0 | 2014-03-17 | 2023-09-14 |
@@ -3128,12 +3128,12 @@
 | [pyringe](https://github.com/google/pyringe) | Debugger capable of attaching to and injecting code into python processes. | Python | 1636 | Other | 2014-03-26 | 2024-06-29 |
 | [quiver-log](https://github.com/google/quiver-log) | Logging utility for Dart | Dart | 23 | Apache License 2.0 | 2014-03-26 | 2023-03-29 |
 | [autofdo](https://github.com/google/autofdo) | AutoFDO | C++ | 497 | Apache License 2.0 | 2014-04-01 | 2024-07-20 |
-| [iosched](https://github.com/google/iosched) | The Google I/O Android App | Kotlin | 21802 | Apache License 2.0 | 2014-04-01 | 2024-07-19 |
+| [iosched](https://github.com/google/iosched) | The Google I/O Android App | Kotlin | 21803 | Apache License 2.0 | 2014-04-01 | 2024-07-21 |
 | [souper](https://github.com/google/souper) | A superoptimizer for LLVM IR | C++ | 2094 | Apache License 2.0 | 2014-04-05 | 2024-07-19 |
-| [web-starter-kit](https://github.com/google/web-starter-kit) | Web Starter Kit - a workflow for multi-device websites | HTML | 18432 | Apache License 2.0 | 2014-04-07 | 2024-07-19 |
+| [web-starter-kit](https://github.com/google/web-starter-kit) | Web Starter Kit - a workflow for multi-device websites | HTML | 18433 | Apache License 2.0 | 2014-04-07 | 2024-07-20 |
 | [realtime-help](https://github.com/google/realtime-help) | None | Python | 20 | Apache License 2.0 | 2014-04-09 | 2023-03-29 |
 | [closure-compiler](https://github.com/google/closure-compiler) | A JavaScript checker and optimizer. | Java | 7313 | Apache License 2.0 | 2014-04-16 | 2024-07-19 |
-| [closure-templates](https://github.com/google/closure-templates) | A client- and server-side templating system that helps you dynamically build reusable HTML and UI elements | Java | 635 | Apache License 2.0 | 2014-04-16 | 2024-07-19 |
+| [closure-templates](https://github.com/google/closure-templates) | A client- and server-side templating system that helps you dynamically build reusable HTML and UI elements | Java | 635 | Apache License 2.0 | 2014-04-16 | 2024-07-20 |
 | [gdal-autotest2](https://github.com/google/gdal-autotest2) | None | None | 4 | - | 2014-04-16 | 2023-03-29 |
 | [ohmu](https://github.com/google/ohmu) | Compiler intermediate language for static analysis. | C++ | 106 | Apache License 2.0 | 2014-04-23 | 2024-01-31 |
 | [lab_device_proxy](https://github.com/google/lab_device_proxy) | Executes adb and idevice commands on a remote host. | Python | 38 | BSD 3-Clause "New" or "Revised" License | 2014-04-23 | 2024-03-20 |
@@ -3146,7 +3146,7 @@
 | [gtest-parallel](https://github.com/google/gtest-parallel) | Run Google Test suites in parallel. | Python | 411 | Apache License 2.0 | 2014-05-15 | 2024-07-11 |
 | [rekall](https://github.com/google/rekall) | Rekall Memory Forensic Framework | Python | 1910 | GNU General Public License v2.0 | 2014-05-16 | 2024-07-17 |
 | [photo-sphere](https://github.com/google/photo-sphere) | None | None | 4 | - | 2014-05-16 | 2023-03-29 |
-| [flatbuffers](https://github.com/google/flatbuffers) | FlatBuffers: Memory Efficient Serialization Library | C++ | 22594 | Apache License 2.0 | 2014-05-19 | 2024-07-19 |
+| [flatbuffers](https://github.com/google/flatbuffers) | FlatBuffers: Memory Efficient Serialization Library | C++ | 22597 | Apache License 2.0 | 2014-05-19 | 2024-07-21 |
 | [rekall-profiles](https://github.com/google/rekall-profiles) | Public Profile Repository for Rekall Memory Forensic. | HTML | 100 | Apache License 2.0 | 2014-05-20 | 2023-10-21 |
 | [certificate-transparency](https://github.com/google/certificate-transparency) | Auditing for TLS certificates. | C++ | 867 | Apache License 2.0 | 2014-05-20 | 2024-06-30 |
 | [certificate-transparency-rfcs](https://github.com/google/certificate-transparency-rfcs) | Certificate Transparency RFC | Python | 79 | - | 2014-05-22 | 2023-09-17 |
@@ -3156,21 +3156,21 @@
 | [nsscache](https://github.com/google/nsscache) | asynchronously synchronise local NSS databases with remote directory services | Python | 142 | GNU General Public License v2.0 | 2014-05-27 | 2024-07-11 |
 | [cronutils](https://github.com/google/cronutils) | utilities to assist running periodic batch processing jobs | C | 116 | Apache License 2.0 | 2014-05-27 | 2024-06-10 |
 | [mtail](https://github.com/google/mtail) | extract internal monitoring data from application logs for collection in a timeseries database | Go | 3804 | Apache License 2.0 | 2014-05-27 | 2024-07-19 |
-| [guice](https://github.com/google/guice) | Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 11 and above, brought to you by Google. | Java | 12427 | Apache License 2.0 | 2014-05-28 | 2024-07-20 |
-| [guava](https://github.com/google/guava) | Google core libraries for Java | Java | 49727 | Apache License 2.0 | 2014-05-29 | 2024-07-20 |
+| [guice](https://github.com/google/guice) | Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 11 and above, brought to you by Google. | Java | 12429 | Apache License 2.0 | 2014-05-28 | 2024-07-20 |
+| [guava](https://github.com/google/guava) | Google core libraries for Java | Java | 49739 | Apache License 2.0 | 2014-05-29 | 2024-07-21 |
 | [kernel-sanitizers](https://github.com/google/kernel-sanitizers) | Linux Kernel Sanitizers, fast bug-detectors for the Linux kernel | Python | 431 | - | 2014-06-03 | 2024-07-04 |
 | [LiquidFunPaint](https://github.com/google/LiquidFunPaint) | None | Java | 164 | Apache License 2.0 | 2014-06-06 | 2024-01-11 |
 | [u2f-ref-code](https://github.com/google/u2f-ref-code) | U2F reference implementations | JavaScript | 584 | BSD 3-Clause "New" or "Revised" License | 2014-06-06 | 2024-07-10 |
-| [cadvisor](https://github.com/google/cadvisor) | Analyzes resource usage and performance characteristics of running containers. | Go | 16687 | Other | 2014-06-09 | 2024-07-19 |
+| [cadvisor](https://github.com/google/cadvisor) | Analyzes resource usage and performance characteristics of running containers. | Go | 16691 | Other | 2014-06-09 | 2024-07-21 |
 | [deepboost](https://github.com/google/deepboost) | None | C++ | 156 | Apache License 2.0 | 2014-06-12 | 2024-04-28 |
-| [ExoPlayer](https://github.com/google/ExoPlayer) | An extensible media player for Android | Java | 21652 | Apache License 2.0 | 2014-06-13 | 2024-07-19 |
+| [ExoPlayer](https://github.com/google/ExoPlayer) | An extensible media player for Android | Java | 21652 | Apache License 2.0 | 2014-06-13 | 2024-07-20 |
 | [fruit](https://github.com/google/fruit) | Fruit, a dependency injection framework for C++ | C++ | 1779 | Apache License 2.0 | 2014-06-16 | 2024-07-18 |
 | [chrome-language-immersion](https://github.com/google/chrome-language-immersion) | Experience a new language while you browse the web. | JavaScript | 45 | Other | 2014-06-16 | 2024-01-09 |
-| [timesketch](https://github.com/google/timesketch) | Collaborative forensic timeline analysis | Python | 2538 | Apache License 2.0 | 2014-06-19 | 2024-07-19 |
+| [timesketch](https://github.com/google/timesketch) | Collaborative forensic timeline analysis | Python | 2539 | Apache License 2.0 | 2014-06-19 | 2024-07-20 |
 | [domaintest](https://github.com/google/domaintest) | Domain Test service for new TLDs. | Java | 70 | Apache License 2.0 | 2014-06-19 | 2023-08-23 |
 | [codeworld](https://github.com/google/codeworld) | Educational computer programming environment using Haskell | Haskell | 1241 | Apache License 2.0 | 2014-06-19 | 2024-05-30 |
 | [xsecurelock](https://github.com/google/xsecurelock) | X11 screen lock utility with security in mind | C | 863 | Apache License 2.0 | 2014-06-20 | 2024-07-14 |
-| [battery-historian](https://github.com/google/battery-historian) | Battery Historian is a tool to analyze battery consumers using Android "bugreport" files. | Go | 5302 | Other | 2014-06-20 | 2024-07-20 |
+| [battery-historian](https://github.com/google/battery-historian) | Battery Historian is a tool to analyze battery consumers using Android "bugreport" files. | Go | 5303 | Other | 2014-06-20 | 2024-07-20 |
 | [midi-dump-tools](https://github.com/google/midi-dump-tools) | A collection of tools that dump MIDI to a variety of formats | C | 27 | Apache License 2.0 | 2014-06-27 | 2023-08-28 |
 | [pyrios](https://github.com/google/pyrios) | None | Go | 57 | Apache License 2.0 | 2014-06-27 | 2023-03-29 |
 | [catnip](https://github.com/google/catnip) | Catnip Sandbox | Python | 25 | Apache License 2.0 | 2014-06-30 | 2023-03-29 |
@@ -3211,7 +3211,7 @@
 | [rct-automation](https://github.com/google/rct-automation) | Radio automation software (not an official google product) | C++ | 24 | Apache License 2.0 | 2014-08-15 | 2023-06-07 |
 | [vim-ft-go](https://github.com/google/vim-ft-go) | None | Vim script | 54 | BSD 3-Clause "New" or "Revised" License | 2014-08-18 | 2024-07-01 |
 | [macops](https://github.com/google/macops) | Utilities, tools, and scripts for managing and tracking a fleet of Macintoshes in a corporate environment | Python | 812 | Apache License 2.0 | 2014-08-18 | 2024-07-10 |
-| [re2](https://github.com/google/re2) | RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library. | C++ | 8792 | BSD 3-Clause "New" or "Revised" License | 2014-08-18 | 2024-07-20 |
+| [re2](https://github.com/google/re2) | RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library. | C++ | 8794 | BSD 3-Clause "New" or "Revised" License | 2014-08-18 | 2024-07-21 |
 | [novm](https://github.com/google/novm) | Experimental KVM-based VMM for containers, written in Go. | Go | 1676 | Apache License 2.0 | 2014-08-20 | 2024-06-01 |
 | [Idris-dev](https://github.com/google/Idris-dev) | A Dependently Typed Functional Programming Language | None | 9 | Other | 2014-08-21 | 2023-03-29 |
 | [error-prone](https://github.com/google/error-prone) | Catch common Java mistakes as compile-time errors | Java | 6778 | Apache License 2.0 | 2014-08-21 | 2024-07-20 |
@@ -3230,14 +3230,14 @@
 | [hat-backup](https://github.com/google/hat-backup) | Backend-agnostic snapshotting backup system | Rust | 252 | Apache License 2.0 | 2014-08-27 | 2024-06-10 |
 | [python-atfork](https://github.com/google/python-atfork) | None | Python | 23 | Apache License 2.0 | 2014-08-27 | 2023-07-29 |
 | [gae-secure-scaffold-python](https://github.com/google/gae-secure-scaffold-python) | None | Python | 111 | Apache License 2.0 | 2014-08-27 | 2023-06-26 |
-| [leveldb](https://github.com/google/leveldb) | LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. | C++ | 35809 | BSD 3-Clause "New" or "Revised" License | 2014-08-27 | 2024-07-20 |
+| [leveldb](https://github.com/google/leveldb) | LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. | C++ | 35811 | BSD 3-Clause "New" or "Revised" License | 2014-08-27 | 2024-07-21 |
 | [error-prone-javac](https://github.com/google/error-prone-javac) | A mirror of the OpenJDK langtools repository | Java | 36 | GNU General Public License v2.0 | 2014-08-27 | 2023-05-19 |
 | [xpaf](https://github.com/google/xpaf) | None | C++ | 154 | Apache License 2.0 | 2014-08-29 | 2024-06-06 |
 | [java-thread-sanitizer](https://github.com/google/java-thread-sanitizer) | None | Java | 74 | Apache License 2.0 | 2014-08-29 | 2024-05-14 |
 | [libaddressinput](https://github.com/google/libaddressinput) | Google’s postal address library, powering Android and Chromium | C++ | 573 | Apache License 2.0 | 2014-08-29 | 2024-07-17 |
 | [recki-ct](https://github.com/google/recki-ct) | None | PHP | 550 | Apache License 2.0 | 2014-08-29 | 2024-06-26 |
 | [turing-doodle](https://github.com/google/turing-doodle) | None | JavaScript | 164 | Apache License 2.0 | 2014-09-03 | 2024-06-13 |
-| [sanitizers](https://github.com/google/sanitizers) | AddressSanitizer, ThreadSanitizer, MemorySanitizer | C | 11091 | Other | 2014-09-03 | 2024-07-20 |
+| [sanitizers](https://github.com/google/sanitizers) | AddressSanitizer, ThreadSanitizer, MemorySanitizer | C | 11126 | Other | 2014-09-03 | 2024-07-21 |
 | [linear-book-scanner](https://github.com/google/linear-book-scanner) | None | Python | 73 | Apache License 2.0 | 2014-09-03 | 2024-05-11 |
 | [kv-s3105c](https://github.com/google/kv-s3105c) | None | C | 5 | Apache License 2.0 | 2014-09-03 | 2023-03-29 |
 | [syzygy](https://github.com/google/syzygy) | Syzygy Transformation Toolchain | C++ | 355 | Apache License 2.0 | 2014-09-03 | 2024-07-17 |
@@ -3274,17 +3274,17 @@
 | [sensor-data-collection-library](https://github.com/google/sensor-data-collection-library) | None | Java | 45 | Apache License 2.0 | 2014-10-07 | 2023-04-17 |
 | [thread-weaver](https://github.com/google/thread-weaver) | A Java framework for testing multithreaded code. | Java | 304 | Apache License 2.0 | 2014-10-07 | 2024-07-17 |
 | [google-authenticator-android](https://github.com/google/google-authenticator-android) | Open source fork of the Google Authenticator Android app | Java | 1579 | Apache License 2.0 | 2014-10-08 | 2024-07-19 |
-| [google-authenticator](https://github.com/google/google-authenticator) | Open source version of Google Authenticator (except the Android app) | Java | 5173 | Apache License 2.0 | 2014-10-08 | 2024-07-19 |
-| [material-design-icons](https://github.com/google/material-design-icons) | Material Design icons by Google (Material Symbols) | None | 50204 | Apache License 2.0 | 2014-10-08 | 2024-07-20 |
+| [google-authenticator](https://github.com/google/google-authenticator) | Open source version of Google Authenticator (except the Android app) | Java | 5174 | Apache License 2.0 | 2014-10-08 | 2024-07-20 |
+| [material-design-icons](https://github.com/google/material-design-icons) | Material Design icons by Google (Material Symbols) | None | 50204 | Apache License 2.0 | 2014-10-08 | 2024-07-21 |
 | [autopiper](https://github.com/google/autopiper) | None | C++ | 45 | Apache License 2.0 | 2014-10-08 | 2023-09-15 |
 | [woff2](https://github.com/google/woff2) | None | C++ | 1451 | MIT License | 2014-10-09 | 2024-07-19 |
-| [brotli](https://github.com/google/brotli) | Brotli compression format | TypeScript | 13351 | MIT License | 2014-10-09 | 2024-07-19 |
+| [brotli](https://github.com/google/brotli) | Brotli compression format | TypeScript | 13352 | MIT License | 2014-10-09 | 2024-07-20 |
 | [santa](https://github.com/google/santa) | A binary authorization and monitoring system for macOS | Objective-C++ | 4375 | Apache License 2.0 | 2014-10-09 | 2024-07-19 |
 | [ashier](https://github.com/google/ashier) | Automating Terminal Interactions with Templates | Python | 29 | Apache License 2.0 | 2014-10-10 | 2023-09-08 |
 | [github-issue-mover](https://github.com/google/github-issue-mover) | Making it easy to migrate issues between repos. | Dart | 614 | Apache License 2.0 | 2014-10-13 | 2024-07-20 |
 | [codemirror.dart](https://github.com/google/codemirror.dart) | A Dart wrapper around the CodeMirror text editor. | Dart | 88 | BSD 3-Clause "New" or "Revised" License | 2014-10-13 | 2024-05-07 |
 | [stenographer](https://github.com/google/stenographer) | Stenographer is a packet capture solution which aims to quickly spool all packets to disk, then provide simple, fast access to subsets of those packets.  Discussion/announcements at stenographer@googlegroups.com | Go | 1788 | Apache License 2.0 | 2014-10-13 | 2024-07-17 |
-| [fplutil](https://github.com/google/fplutil) | fplutil is a set of small libraries and tools that can be useful when developing applications for Android and other platforms. | Python | 331 | Apache License 2.0 | 2014-10-13 | 2024-01-25 |
+| [fplutil](https://github.com/google/fplutil) | fplutil is a set of small libraries and tools that can be useful when developing applications for Android and other platforms. | Python | 332 | Apache License 2.0 | 2014-10-13 | 2024-07-20 |
 | [mysql-tools](https://github.com/google/mysql-tools) | None | Python | 207 | Apache License 2.0 | 2014-10-15 | 2024-06-04 |
 | [universal-dash-transmuxer](https://github.com/google/universal-dash-transmuxer) | UDT (Dash Transmuxer) Project: Can transmux DASH -> HLS or other formats. | C++ | 54 | Apache License 2.0 | 2014-10-15 | 2024-05-03 |
 | [cauliflowervest](https://github.com/google/cauliflowervest) | App Engine-based escrow solution for enterprise management of disk encryption technologies for OS X (FileVault 2), Windows (BitLocker), and Linux (LUKS). | Python | 278 | Apache License 2.0 | 2014-10-16 | 2024-06-16 |
@@ -3310,7 +3310,7 @@
 | [i18n_sanitycheck](https://github.com/google/i18n_sanitycheck) | None | Java | 13 | Apache License 2.0 | 2014-11-25 | 2023-07-24 |
 | [acai](https://github.com/google/acai) | Testing library for JUnit4 and Guice. | Java | 75 | Apache License 2.0 | 2014-11-25 | 2024-03-31 |
 | [ioweb2015](https://github.com/google/ioweb2015) | I/O Web App 2015 | JavaScript | 688 | Apache License 2.0 | 2014-12-01 | 2024-04-30 |
-| [libphonenumber](https://github.com/google/libphonenumber) | Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. | C++ | 16278 | Apache License 2.0 | 2014-12-03 | 2024-07-20 |
+| [libphonenumber](https://github.com/google/libphonenumber) | Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. | C++ | 16281 | Apache License 2.0 | 2014-12-03 | 2024-07-21 |
 | [AppSpeedIndex](https://github.com/google/AppSpeedIndex) | None | Python | 12 | BSD 3-Clause "New" or "Revised" License | 2014-12-03 | 2023-03-29 |
 | [compare-codecs](https://github.com/google/compare-codecs) | None | Python | 49 | Apache License 2.0 | 2014-12-08 | 2024-05-21 |
 | [todo-tracks](https://github.com/google/todo-tracks) | Web dashboard for tracking the TODOs in a Git repo | Go | 176 | Apache License 2.0 | 2014-12-08 | 2024-05-15 |
@@ -3329,30 +3329,30 @@
 | [rowhammer-test](https://github.com/google/rowhammer-test) | Test DRAM for bit flips caused by the rowhammer problem | C++ | 953 | - | 2015-01-06 | 2024-07-11 |
 | [coursebuilder-android-container-module](https://github.com/google/coursebuilder-android-container-module) | None | Python | 22 | Apache License 2.0 | 2015-01-09 | 2023-03-29 |
 | [file-system-stress-testing](https://github.com/google/file-system-stress-testing) | A tool that can be used to stress test POSIX filesystems. | C | 98 | Apache License 2.0 | 2015-01-13 | 2024-06-04 |
-| [material-design-lite](https://github.com/google/material-design-lite) | Material Design Components in HTML/CSS/JS | HTML | 32282 | Apache License 2.0 | 2015-01-14 | 2024-07-20 |
-| [reflectable.dart](https://github.com/google/reflectable.dart) | Reflectable is a Dart library that allows programmers to eliminate certain usages of dynamic reflection by specialization of reflective code to an equivalent implementation using only static techniques. The use of dynamic reflection is constrained in order to ensure that the specialized code can be generated and will have a reasonable size. | Dart | 376 | BSD 3-Clause "New" or "Revised" License | 2015-01-16 | 2024-07-17 |
+| [material-design-lite](https://github.com/google/material-design-lite) | Material Design Components in HTML/CSS/JS | HTML | 32283 | Apache License 2.0 | 2015-01-14 | 2024-07-21 |
+| [reflectable.dart](https://github.com/google/reflectable.dart) | Reflectable is a Dart library that allows programmers to eliminate certain usages of dynamic reflection by specialization of reflective code to an equivalent implementation using only static techniques. The use of dynamic reflection is constrained in order to ensure that the specialized code can be generated and will have a reasonable size. | Dart | 377 | BSD 3-Clause "New" or "Revised" License | 2015-01-16 | 2024-07-20 |
 | [vim-codefmt](https://github.com/google/vim-codefmt) | Vim plugin for syntax-aware code formatting | Vim Script | 1103 | Apache License 2.0 | 2015-01-20 | 2024-07-08 |
 | [shipshape](https://github.com/google/shipshape) | Program analysis platform | Go | 269 | Apache License 2.0 | 2015-01-21 | 2024-05-30 |
-| [google-api-java-client-samples](https://github.com/google/google-api-java-client-samples) | None | Java | 739 | - | 2015-01-23 | 2024-06-15 |
+| [google-api-java-client-samples](https://github.com/google/google-api-java-client-samples) | None | Java | 740 | - | 2015-01-23 | 2024-07-21 |
 | [google-drive-proxy](https://github.com/google/google-drive-proxy) | Google Drive Proxy is a Windows service that provides a simpler interface to the Google Drive API for other applications. It transparently handles authentication, synchronization and managing a cache of downloaded files. | C# | 81 | Apache License 2.0 | 2015-01-23 | 2024-04-09 |
 | [arrow-logo](https://github.com/google/arrow-logo) | None | Dart | 14 | Apache License 2.0 | 2015-01-23 | 2023-03-29 |
 | [webview-local-server](https://github.com/google/webview-local-server) | None | Java | 109 | Apache License 2.0 | 2015-01-27 | 2023-11-30 |
 | [spatial-media](https://github.com/google/spatial-media) | Specifications and tools for 360º video and spatial audio. | Python | 1803 | Other | 2015-02-11 | 2024-07-18 |
 | [apitools](https://github.com/google/apitools) | None | Python | 133 | Apache License 2.0 | 2015-02-11 | 2024-06-11 |
-| [fonts](https://github.com/google/fonts) | Font files available from Google Fonts, and a public issue tracker for all things Google Fonts | HTML | 17876 | - | 2015-02-11 | 2024-07-20 |
+| [fonts](https://github.com/google/fonts) | Font files available from Google Fonts, and a public issue tracker for all things Google Fonts | HTML | 17876 | - | 2015-02-11 | 2024-07-21 |
 | [encrypted-bigquery-client](https://github.com/google/encrypted-bigquery-client) | An experimental version of the BQ client which adds client-side encryption | Python | 174 | Apache License 2.0 | 2015-02-11 | 2024-04-24 |
 | [box2d.dart](https://github.com/google/box2d.dart) | A Dart port of Java's Box2D libraries. | Dart | 112 | BSD 3-Clause "New" or "Revised" License | 2015-02-11 | 2024-01-24 |
 | [allocation-instrumenter](https://github.com/google/allocation-instrumenter) | A Java agent that rewrites bytecode to instrument allocation sites | Java | 477 | Apache License 2.0 | 2015-02-12 | 2024-05-07 |
 | [mr4c](https://github.com/google/mr4c) | None | Java | 906 | Apache License 2.0 | 2015-02-17 | 2024-05-11 |
 | [re2j](https://github.com/google/re2j) | linear time regular expression matching in Java | Java | 1166 | Other | 2015-02-18 | 2024-07-14 |
-| [or-tools](https://github.com/google/or-tools) | Google's Operations Research tools: | C++ | 10816 | Apache License 2.0 | 2015-02-21 | 2024-07-20 |
+| [or-tools](https://github.com/google/or-tools) | Google's Operations Research tools: | C++ | 10818 | Apache License 2.0 | 2015-02-21 | 2024-07-21 |
 | [cloud-cup](https://github.com/google/cloud-cup) | None | JavaScript | 22 | MIT License | 2015-02-21 | 2023-03-29 |
 | [cloud-cup-android](https://github.com/google/cloud-cup-android) | Firebase Android client of the a multi device game | Java | 49 | Apache License 2.0 | 2015-02-21 | 2024-05-12 |
 | [citizen-x](https://github.com/google/citizen-x) | None | None | 5 | - | 2015-02-21 | 2023-03-29 |
 | [reboot-somalia](https://github.com/google/reboot-somalia) | None | None | 3 | - | 2015-02-21 | 2023-03-29 |
 | [network-visualizer-x](https://github.com/google/network-visualizer-x) | None | None | 5 | - | 2015-02-21 | 2023-03-29 |
 | [deliberate](https://github.com/google/deliberate) | None | None | 4 | - | 2015-02-22 | 2023-03-29 |
-| [glog](https://github.com/google/glog) | C++ implementation of the Google logging module | C++ | 6929 | BSD 3-Clause "New" or "Revised" License | 2015-02-23 | 2024-07-20 |
+| [glog](https://github.com/google/glog) | C++ implementation of the Google logging module | C++ | 6930 | BSD 3-Clause "New" or "Revised" License | 2015-02-23 | 2024-07-21 |
 | [ringdroid](https://github.com/google/ringdroid) | None | Java | 836 | - | 2015-02-24 | 2024-07-02 |
 | [play-work](https://github.com/google/play-work) | None | Java | 82 | Apache License 2.0 | 2015-02-27 | 2024-07-05 |
 | [comid](https://github.com/google/comid) | CodeMirror in Dart | Dart | 15 | MIT License | 2015-03-04 | 2023-03-29 |
@@ -3386,7 +3386,7 @@
 | [nfc-smart-tag](https://github.com/google/nfc-smart-tag) | Automatically exported from code.google.com/p/nfc-smart-tag | Java | 12 | Apache License 2.0 | 2015-03-17 | 2023-05-05 |
 | [password-alert](https://github.com/google/password-alert) | A Chrome Extension to help protect against phishing attacks. | JavaScript | 304 | Apache License 2.0 | 2015-03-17 | 2024-07-17 |
 | [gcm](https://github.com/google/gcm) | Google Cloud Messaging - client libraries and sample implementations | Java | 820 | Apache License 2.0 | 2015-03-17 | 2024-07-07 |
-| [yapf](https://github.com/google/yapf) | A formatter for Python files | Python | 13701 | Apache License 2.0 | 2015-03-18 | 2024-07-20 |
+| [yapf](https://github.com/google/yapf) | A formatter for Python files | Python | 13700 | Apache License 2.0 | 2015-03-18 | 2024-07-20 |
 | [pytype](https://github.com/google/pytype) | A static type analyzer for Python code | Python | 4676 | Other | 2015-03-18 | 2024-07-19 |
 | [ipaddr-py](https://github.com/google/ipaddr-py) | Google's Python IP address manipulation library | Python | 195 | Apache License 2.0 | 2015-03-18 | 2024-06-26 |
 | [gson](https://github.com/google/gson) | A Java serialization/deserialization library to convert Java Objects into JSON and back | Java | 23153 | Apache License 2.0 | 2015-03-19 | 2024-07-20 |
@@ -3426,7 +3426,7 @@
 | [gtm-oauth](https://github.com/google/gtm-oauth) | Google Toolbox for Mac - OAuth Controllers | Objective-C | 24 | Apache License 2.0 | 2015-04-21 | 2024-01-12 |
 | [google-toolbox-for-mac](https://github.com/google/google-toolbox-for-mac) | Google Toolbox for Mac | Objective-C | 1136 | Apache License 2.0 | 2015-04-21 | 2024-07-10 |
 | [earthengine-api](https://github.com/google/earthengine-api) | Python and JavaScript bindings for calling the Earth Engine API. | JavaScript | 2593 | Apache License 2.0 | 2015-04-22 | 2024-07-20 |
-| [mozc](https://github.com/google/mozc) | Mozc - a Japanese Input Method Editor designed for multi-platform | C++ | 2332 | Other | 2015-04-22 | 2024-07-20 |
+| [mozc](https://github.com/google/mozc) | Mozc - a Japanese Input Method Editor designed for multi-platform | C++ | 2333 | Other | 2015-04-22 | 2024-07-21 |
 | [json-sans-eval](https://github.com/google/json-sans-eval) | Automatically exported from code.google.com/p/json-sans-eval | HTML | 7 | - | 2015-04-22 | 2023-03-29 |
 | [py-html-contextual-escaping](https://github.com/google/py-html-contextual-escaping) | Automatically exported from code.google.com/p/py-html-contextual-escaping | Python | 4 | - | 2015-04-22 | 2023-03-29 |
 | [jacs](https://github.com/google/jacs) | None | Python | 12 | Apache License 2.0 | 2015-04-22 | 2023-03-29 |
@@ -3439,10 +3439,10 @@
 | [voter-info-tool](https://github.com/google/voter-info-tool) | Automatically exported from code.google.com/p/voter-info-tool | JavaScript | 7 | Apache License 2.0 | 2015-05-05 | 2023-01-27 |
 | [webkit_inspection_protocol.dart](https://github.com/google/webkit_inspection_protocol.dart) | A client for the Webkit Inspection Protocol (WIP). | Dart | 30 | BSD 3-Clause "New" or "Revised" License | 2015-05-06 | 2024-07-01 |
 | [navc](https://github.com/google/navc) | C code indexer using language semantic from clang | Go | 63 | Apache License 2.0 | 2015-05-06 | 2024-01-13 |
-| [honggfuzz](https://github.com/google/honggfuzz) | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | C | 3017 | Apache License 2.0 | 2015-05-07 | 2024-07-18 |
+| [honggfuzz](https://github.com/google/honggfuzz) | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | C | 3018 | Apache License 2.0 | 2015-05-07 | 2024-07-20 |
 | [google-visualization-issues](https://github.com/google/google-visualization-issues) | None | None | 288 | - | 2015-05-09 | 2024-07-18 |
-| [MOE](https://github.com/google/MOE) | Make Opensource Easy - tools for synchronizing repositories | Java | 419 | Apache License 2.0 | 2015-05-10 | 2024-06-07 |
-| [google-java-format](https://github.com/google/google-java-format) | Reformats Java source code to comply with Google Java Style. | Java | 5488 | Other | 2015-05-11 | 2024-07-19 |
+| [MOE](https://github.com/google/MOE) | Make Opensource Easy - tools for synchronizing repositories | Java | 420 | Apache License 2.0 | 2015-05-10 | 2024-07-21 |
+| [google-java-format](https://github.com/google/google-java-format) | Reformats Java source code to comply with Google Java Style. | Java | 5489 | Other | 2015-05-11 | 2024-07-20 |
 | [gmail-oauth2-tools](https://github.com/google/gmail-oauth2-tools) | Tools and sample code for authenticating to Gmail with OAuth2 | Python | 406 | Apache License 2.0 | 2015-05-12 | 2024-07-20 |
 | [service_worker.dart](https://github.com/google/service_worker.dart) | An implementation of service workers in Dart | Dart | 9 | BSD 3-Clause "New" or "Revised" License | 2015-05-12 | 2023-10-03 |
 | [librato.dart](https://github.com/google/librato.dart) | A Dart library to upload metrics data to librato.com. | Dart | 4 | BSD 3-Clause "New" or "Revised" License | 2015-05-12 | 2023-03-29 |
@@ -3450,7 +3450,7 @@
 | [nsjail](https://github.com/google/nsjail) | A lightweight process isolation tool that utilizes Linux namespaces, cgroups, rlimits and seccomp-bpf syscall filters, leveraging the Kafel BPF language for enhanced security. | C++ | 2866 | Apache License 2.0 | 2015-05-14 | 2024-07-19 |
 | [caliper](https://github.com/google/caliper) | Micro-benchmarking library for Java | Java | 808 | Apache License 2.0 | 2015-05-19 | 2024-07-12 |
 | [watchpresenter](https://github.com/google/watchpresenter) | Pass your slides on Google Drive using your phone or watch | Java | 23 | Apache License 2.0 | 2015-05-19 | 2023-03-30 |
-| [styleguide](https://github.com/google/styleguide) | Style guides for Google-originated open-source projects | HTML | 36992 | Apache License 2.0 | 2015-05-20 | 2024-07-20 |
+| [styleguide](https://github.com/google/styleguide) | Style guides for Google-originated open-source projects | HTML | 36994 | Apache License 2.0 | 2015-05-20 | 2024-07-21 |
 | [zooshi](https://github.com/google/zooshi) | Multi-platform game where you feed well dressed animals with sushi | C++ | 293 | Apache License 2.0 | 2015-05-21 | 2024-02-25 |
 | [gojiraw](https://github.com/google/gojiraw) | GO JIffy-fast RAW-draw | Go | 16 | Apache License 2.0 | 2015-05-22 | 2023-05-31 |
 | [shlex](https://github.com/google/shlex) | Automatically exported from code.google.com/p/go-shlex | Go | 174 | Apache License 2.0 | 2015-05-28 | 2024-07-19 |
@@ -3491,7 +3491,7 @@
 | [built_json.dart](https://github.com/google/built_json.dart) | Deleted, use built_value instead. | None | 19 | BSD 3-Clause "New" or "Revised" License | 2015-07-15 | 2023-03-29 |
 | [transit](https://github.com/google/transit) | None | None | 557 | Apache License 2.0 | 2015-07-15 | 2024-07-18 |
 | [simplecfg](https://github.com/google/simplecfg) | Simple CFG module for ExtendJ | Java | 11 | Apache License 2.0 | 2015-07-20 | 2024-01-13 |
-| [googletest](https://github.com/google/googletest) | GoogleTest - Google Testing and Mocking Framework | C++ | 33798 | BSD 3-Clause "New" or "Revised" License | 2015-07-28 | 2024-07-20 |
+| [googletest](https://github.com/google/googletest) | GoogleTest - Google Testing and Mocking Framework | C++ | 33796 | BSD 3-Clause "New" or "Revised" License | 2015-07-28 | 2024-07-21 |
 | [cluster-data](https://github.com/google/cluster-data) | Borg cluster traces from Google | TeX | 863 | - | 2015-07-29 | 2024-07-18 |
 | [wear-screeninfo](https://github.com/google/wear-screeninfo) | Android Wear ScreenInfo | Java | 30 | Apache License 2.0 | 2015-08-04 | 2023-09-28 |
 | [wear-displaylock](https://github.com/google/wear-displaylock) | None | Java | 4 | Apache License 2.0 | 2015-08-04 | 2022-12-29 |
@@ -3512,8 +3512,8 @@
 | [gtm-oauth2](https://github.com/google/gtm-oauth2) | Google Toolbox for Mac - OAuth 2 Controllers | Objective-C | 125 | Apache License 2.0 | 2015-08-11 | 2024-05-07 |
 | [google-api-objectivec-client](https://github.com/google/google-api-objectivec-client) |  Google APIs Client Library for Objective-C | None | 300 | Apache License 2.0 | 2015-08-11 | 2024-03-12 |
 | [farmhash](https://github.com/google/farmhash) | Automatically exported from code.google.com/p/farmhash | C++ | 620 | MIT License | 2015-08-14 | 2024-07-17 |
-| [cityhash](https://github.com/google/cityhash) | Automatically exported from code.google.com/p/cityhash | Shell | 1076 | MIT License | 2015-08-14 | 2024-07-19 |
-| [binnavi](https://github.com/google/binnavi) | BinNavi is a binary analysis IDE that allows to inspect, navigate, edit and annotate control flow graphs and call graphs of disassembled code. | Java | 2869 | Apache License 2.0 | 2015-08-19 | 2024-07-18 |
+| [cityhash](https://github.com/google/cityhash) | Automatically exported from code.google.com/p/cityhash | Shell | 1077 | MIT License | 2015-08-14 | 2024-07-20 |
+| [binnavi](https://github.com/google/binnavi) | BinNavi is a binary analysis IDE that allows to inspect, navigate, edit and annotate control flow graphs and call graphs of disassembled code. | Java | 2868 | Apache License 2.0 | 2015-08-19 | 2024-07-20 |
 | [dart-glfw](https://github.com/google/dart-glfw) | Dart bindings for GLFW, a multiplatform library for creating windows with OpenGL contexts. | C++ | 36 | BSD 3-Clause "New" or "Revised" License | 2015-08-19 | 2024-01-10 |
 | [dart-gl](https://github.com/google/dart-gl) | OpenGL ES 2.0 Dart Native Extension | C++ | 90 | BSD 3-Clause "New" or "Revised" License | 2015-08-19 | 2024-01-02 |
 | [git-phabricator-mirror](https://github.com/google/git-phabricator-mirror) | Mirror source code metadata between git-notes and Phabricator | Go | 28 | Apache License 2.0 | 2015-08-21 | 2024-07-05 |
@@ -3537,7 +3537,7 @@
 | [multibox](https://github.com/google/multibox) | None | None | 307 | Other | 2015-09-13 | 2024-02-29 |
 | [Safelight](https://github.com/google/Safelight) | Safelight is a web application that aids in developing Halide programs. It currently works for x86-64 Linux and Mac OS machines running the PNaCl binary distribution of Halide. | JavaScript | 21 | Apache License 2.0 | 2015-09-14 | 2024-01-07 |
 | [cctz](https://github.com/google/cctz) | CCTZ is a C++ library for translating between absolute and civil times using the rules of a time zone. | C++ | 586 | Apache License 2.0 | 2015-09-14 | 2024-07-09 |
-| [turbinia](https://github.com/google/turbinia) | Automation and Scaling of Digital Forensics Tools | Python | 725 | Apache License 2.0 | 2015-09-15 | 2024-07-18 |
+| [turbinia](https://github.com/google/turbinia) | Automation and Scaling of Digital Forensics Tools | Python | 726 | Apache License 2.0 | 2015-09-15 | 2024-07-20 |
 | [usbinfo](https://github.com/google/usbinfo) | None | Python | 39 | Other | 2015-09-17 | 2023-11-20 |
 | [copr-sundry](https://github.com/google/copr-sundry) | Collection of rpm spec files for various packages. | Shell | 15 | Apache License 2.0 | 2015-09-20 | 2024-04-09 |
 | [language-jsonnet](https://github.com/google/language-jsonnet) | Jsonnet language support for the Atom text editor | None | 25 | Apache License 2.0 | 2015-09-23 | 2024-01-14 |
@@ -3555,7 +3555,7 @@
 | [macops-molcodesignchecker](https://github.com/google/macops-molcodesignchecker) | Simple Objective-C code signature validation | Objective-C | 30 | Apache License 2.0 | 2015-10-09 | 2023-12-05 |
 | [ngx_brotli](https://github.com/google/ngx_brotli) | NGINX module for Brotli compression | C | 2065 | BSD 2-Clause "Simplified" License | 2015-10-09 | 2024-07-19 |
 | [santa-tracker-web](https://github.com/google/santa-tracker-web) | The source code to Santa Tracker's website, by Google | JavaScript | 610 | Other | 2015-10-12 | 2024-06-07 |
-| [syzkaller](https://github.com/google/syzkaller) | syzkaller is an unsupervised coverage-guided kernel fuzzer | Go | 5226 | Apache License 2.0 | 2015-10-12 | 2024-07-19 |
+| [syzkaller](https://github.com/google/syzkaller) | syzkaller is an unsupervised coverage-guided kernel fuzzer | Go | 5228 | Apache License 2.0 | 2015-10-12 | 2024-07-21 |
 | [android-classyshark](https://github.com/google/android-classyshark) | Android and Java bytecode viewer | Java | 7500 | Apache License 2.0 | 2015-10-12 | 2024-07-20 |
 | [checkers](https://github.com/google/checkers) | None | Python | 16 | Apache License 2.0 | 2015-10-13 | 2023-03-29 |
 | [strabo](https://github.com/google/strabo) | None | Elixir | 60 | Apache License 2.0 | 2015-10-13 | 2023-06-28 |
@@ -3592,7 +3592,7 @@
 | [image-compression](https://github.com/google/image-compression) | None | C++ | 76 | Apache License 2.0 | 2015-11-13 | 2024-07-02 |
 | [python-subprocess32](https://github.com/google/python-subprocess32) | A backport of the Python 3 subprocess module for use on Python 2. | Python | 169 | Other | 2015-11-13 | 2024-06-28 |
 | [closure-compiler-npm](https://github.com/google/closure-compiler-npm) | Package for managing and documenting closure-compiler for use via npm | JavaScript | 330 | Apache License 2.0 | 2015-11-16 | 2024-07-17 |
-| [s2geometry](https://github.com/google/s2geometry) | Computational geometry and spatial indexing on the sphere | C++ | 2236 | Apache License 2.0 | 2015-11-16 | 2024-07-19 |
+| [s2geometry](https://github.com/google/s2geometry) | Computational geometry and spatial indexing on the sphere | C++ | 2237 | Apache License 2.0 | 2015-11-16 | 2024-07-20 |
 | [chartjs.dart](https://github.com/google/chartjs.dart) | ARCHIVED/UNMAINTAINED Dart API for Chart.js | Dart | 143 | Other | 2015-11-16 | 2024-06-27 |
 | [flatui](https://github.com/google/flatui) | Efficient Immediate Mode UI for Games | C++ | 638 | Apache License 2.0 | 2015-11-18 | 2024-07-11 |
 | [fplbase](https://github.com/google/fplbase) | Cross platform low level rendering and I/O library | C++ | 197 | Apache License 2.0 | 2015-11-18 | 2024-07-17 |
@@ -3605,7 +3605,7 @@
 | [checkers_classic](https://github.com/google/checkers_classic) | None | Python | 7 | Apache License 2.0 | 2015-11-25 | 2023-03-29 |
 | [closure-builder](https://github.com/google/closure-builder) | NPM based Closure build system to easily compile Soy template files together with Closure JavaScript files without the need to configure anything.  | JavaScript | 64 | Apache License 2.0 | 2015-11-25 | 2023-05-30 |
 | [coding-with-chrome](https://github.com/google/coding-with-chrome) | An Open Source Educational IDE. | JavaScript | 508 | Other | 2015-11-30 | 2024-07-10 |
-| [seesaw](https://github.com/google/seesaw) | Seesaw v2 is a Linux Virtual Server (LVS) based load balancing platform. | Go | 5623 | Apache License 2.0 | 2015-12-04 | 2024-07-19 |
+| [seesaw](https://github.com/google/seesaw) | Seesaw v2 is a Linux Virtual Server (LVS) based load balancing platform. | Go | 5624 | Apache License 2.0 | 2015-12-04 | 2024-07-20 |
 | [google-id-token](https://github.com/google/google-id-token) | Automatically exported from code.google.com/p/google-id-token | Ruby | 75 | Apache License 2.0 | 2015-12-04 | 2023-12-13 |
 | [chord](https://github.com/google/chord) | A framework for developers to create cross-device wearable interaction by scripting. | JavaScript | 26 | Apache License 2.0 | 2015-12-05 | 2023-10-17 |
 | [google-maven-parents](https://github.com/google/google-maven-parents) | Automatically exported from code.google.com/p/google-maven-repository | None | 6 | - | 2015-12-07 | 2024-03-12 |
@@ -3634,7 +3634,7 @@
 | [ion](https://github.com/google/ion) | Ion | C++ | 1431 | Apache License 2.0 | 2016-01-25 | 2024-07-11 |
 | [opentest4j](https://github.com/google/opentest4j) | Open Test Alliance for the JVM | Java | 5 | Apache License 2.0 | 2016-01-26 | 2023-03-29 |
 | [libgep](https://github.com/google/libgep) | Generic, Protobuf-Based Client-Server Protocol | C++ | 55 | Apache License 2.0 | 2016-01-29 | 2024-02-01 |
-| [pprof](https://github.com/google/pprof) | pprof is a tool for visualization and analysis of profiling data | Go | 7715 | Apache License 2.0 | 2016-01-29 | 2024-07-19 |
+| [pprof](https://github.com/google/pprof) | pprof is a tool for visualization and analysis of profiling data | Go | 7715 | Apache License 2.0 | 2016-01-29 | 2024-07-21 |
 | [butteraugli](https://github.com/google/butteraugli) | butteraugli estimates the psychovisual difference between two images | C++ | 1955 | Apache License 2.0 | 2016-02-04 | 2024-07-18 |
 | [EarlGrey](https://github.com/google/EarlGrey) | :tea: iOS UI Automation Test Framework | Objective-C | 5609 | Apache License 2.0 | 2016-02-04 | 2024-07-17 |
 | [blockly-repo](https://github.com/google/blockly-repo) | None | None | 9 | Apache License 2.0 | 2016-02-04 | 2023-03-29 |
@@ -3652,17 +3652,17 @@
 | [tarpc](https://github.com/google/tarpc) | An RPC framework for Rust with a focus on ease of use. | Rust | 3097 | MIT License | 2016-02-11 | 2024-07-19 |
 | [offline-content-packager](https://github.com/google/offline-content-packager) | **This is not an official Google product.** - Nkata is the Nigerian Igbo word for "basket". This is a content packaging tool, a configurable script that takes inputed media such as text and video, creates HTML shell pages around them, and bundles them into a navigable web-like experience with an index for use in an education setting without an Internet connection. Output (.zips, ISOs) can be burned onto external storage for loading onto unconnected machines.  | None | 33 | Apache License 2.0 | 2016-02-11 | 2024-01-04 |
 | [kythe-cloud9](https://github.com/google/kythe-cloud9) | A kythe plugin for cloud9 IDE. | JavaScript | 6 | Apache License 2.0 | 2016-02-11 | 2023-03-29 |
-| [uuid](https://github.com/google/uuid) | Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services. | Go | 5158 | BSD 3-Clause "New" or "Revised" License | 2016-02-12 | 2024-07-19 |
+| [uuid](https://github.com/google/uuid) | Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services. | Go | 5158 | BSD 3-Clause "New" or "Revised" License | 2016-02-12 | 2024-07-20 |
 | [hops](https://github.com/google/hops) | Automatically exported from code.google.com/p/hops | C++ | 11 | Apache License 2.0 | 2016-02-17 | 2023-03-29 |
 | [highwayhash](https://github.com/google/highwayhash) | Fast strong hash functions: SipHash/HighwayHash | C++ | 1508 | Apache License 2.0 | 2016-02-17 | 2024-07-15 |
 | [AppUpdateTrackerLib](https://github.com/google/AppUpdateTrackerLib) | None | Java | 7 | Apache License 2.0 | 2016-02-18 | 2023-09-08 |
 | [resolver-library](https://github.com/google/resolver-library) | Automatically exported from code.google.com/p/resolver-library | Python | 7 | - | 2016-02-18 | 2023-03-29 |
-| [go-jsonnet](https://github.com/google/go-jsonnet) | None | Go | 1575 | Apache License 2.0 | 2016-02-19 | 2024-07-19 |
+| [go-jsonnet](https://github.com/google/go-jsonnet) | None | Go | 1576 | Apache License 2.0 | 2016-02-19 | 2024-07-21 |
 | [flutter-data](https://github.com/google/flutter-data) | None | Dart | 10 | BSD 3-Clause "New" or "Revised" License | 2016-02-19 | 2023-03-29 |
 | [vim-selector](https://github.com/google/vim-selector) | None | Vim script | 16 | Apache License 2.0 | 2016-02-19 | 2023-01-27 |
 | [horenso](https://github.com/google/horenso) | 探しやすいコードで漢字直接入力 | Perl | 62 | Apache License 2.0 | 2016-02-22 | 2024-01-22 |
 | [logger](https://github.com/google/logger) | Cross platform Go logging library. | Go | 893 | Apache License 2.0 | 2016-02-23 | 2024-07-11 |
-| [subcommands](https://github.com/google/subcommands) | Go subcommand library. | Go | 744 | Apache License 2.0 | 2016-02-23 | 2024-07-17 |
+| [subcommands](https://github.com/google/subcommands) | Go subcommand library. | Go | 745 | Apache License 2.0 | 2016-02-23 | 2024-07-21 |
 | [audit-normalmap](https://github.com/google/audit-normalmap) | None | C | 13 | Apache License 2.0 | 2016-02-25 | 2023-03-29 |
 | [walt](https://github.com/google/walt) | A device for measuring latency of physical sensors and outputs on phones and computers | Java | 439 | Apache License 2.0 | 2016-02-26 | 2024-05-29 |
 | [breakpad](https://github.com/google/breakpad) | Mirror of Google Breakpad project | C++ | 2575 | Other | 2016-02-29 | 2024-07-19 |
@@ -3672,7 +3672,7 @@
 | [nomulus](https://github.com/google/nomulus) | Top-level domain name registry service on Google Cloud Platform | Java | 1679 | Apache License 2.0 | 2016-02-29 | 2024-07-18 |
 | [macops-MOMenu](https://github.com/google/macops-MOMenu) | MOMenu is a statusbar item with a plug-in architecture. | Objective-C | 47 | Apache License 2.0 | 2016-02-29 | 2023-03-29 |
 | [googet](https://github.com/google/googet) | GooGet package manager | Go | 96 | Apache License 2.0 | 2016-03-01 | 2024-07-12 |
-| [boringssl](https://github.com/google/boringssl) | Mirror of BoringSSL | C | 1767 | Other | 2016-03-05 | 2024-07-19 |
+| [boringssl](https://github.com/google/boringssl) | Mirror of BoringSSL | C | 1768 | Other | 2016-03-05 | 2024-07-20 |
 | [arc-xcode-test-engine](https://github.com/google/arc-xcode-test-engine) | An Xcode test engine for use with Phabricator's arc command line tool. | PHP | 33 | Apache License 2.0 | 2016-03-14 | 2023-07-21 |
 | [agata](https://github.com/google/agata) | A simple UI layer for visualizing Google Analytics v4 hits on Android apps | JavaScript | 13 | Apache License 2.0 | 2016-03-18 | 2023-03-29 |
 | [openssl-tests](https://github.com/google/openssl-tests) | Running BoringSSL tests against OpenSSL | Makefile | 13 | Apache License 2.0 | 2016-03-18 | 2023-03-29 |
@@ -3696,12 +3696,12 @@
 | [dorusu-js](https://github.com/google/dorusu-js) | This repository is no longer maintained. Please see https://github.com/grpc/grpc-node which is now aims to provide a pure js gRPC library as well. | JavaScript | 40 | BSD 3-Clause "New" or "Revised" License | 2016-04-26 | 2023-03-29 |
 | [sparrowhawk](https://github.com/google/sparrowhawk) | None | Shell | 204 | Apache License 2.0 | 2016-04-27 | 2024-02-29 |
 | [mirandum](https://github.com/google/mirandum) | None | Python | 12 | Apache License 2.0 | 2016-04-27 | 2023-03-29 |
-| [google-api-objectivec-client-for-rest](https://github.com/google/google-api-objectivec-client-for-rest) | Google APIs Client Library for Objective-C for REST | Objective-C | 754 | Apache License 2.0 | 2016-04-28 | 2024-07-18 |
+| [google-api-objectivec-client-for-rest](https://github.com/google/google-api-objectivec-client-for-rest) | Google APIs Client Library for Objective-C for REST | Objective-C | 755 | Apache License 2.0 | 2016-04-28 | 2024-07-21 |
 | [martian-java](https://github.com/google/martian-java) | Configure a Martian Proxy from Java | Java | 11 | Apache License 2.0 | 2016-04-28 | 2023-05-22 |
 | [zoekt](https://github.com/google/zoekt) | Fast trigram based code search   | None | 1675 | - | 2016-04-29 | 2024-07-19 |
-| [py-decorators-tutorial](https://github.com/google/py-decorators-tutorial) | None | Jupyter Notebook | 30 | Apache License 2.0 | 2016-05-02 | 2024-02-26 |
+| [py-decorators-tutorial](https://github.com/google/py-decorators-tutorial) | None | Jupyter Notebook | 31 | Apache License 2.0 | 2016-05-02 | 2024-07-21 |
 | [proto-lens](https://github.com/google/proto-lens) | API for protocol buffers using modern Haskell language and library patterns. | Haskell | 455 | BSD 3-Clause "New" or "Revised" License | 2016-05-03 | 2024-07-19 |
-| [flexbox-layout](https://github.com/google/flexbox-layout) | Flexbox for Android  | Kotlin | 18214 | Apache License 2.0 | 2016-05-04 | 2024-07-19 |
+| [flexbox-layout](https://github.com/google/flexbox-layout) | Flexbox for Android  | Kotlin | 18215 | Apache License 2.0 | 2016-05-04 | 2024-07-20 |
 | [safebrowsing](https://github.com/google/safebrowsing) | Safe Browsing API Go Client | Go | 466 | Apache License 2.0 | 2016-05-04 | 2024-07-19 |
 | [paper-gui](https://github.com/google/paper-gui) | A clone of dat.GUI using nice Polymer paper elements. | HTML | 49 | Apache License 2.0 | 2016-05-05 | 2024-05-17 |
 | [reagera](https://github.com/google/reagera) | Minimal implementation of predictable state in Java, inspired by Elm and Redux. | Java | 13 | Apache License 2.0 | 2016-05-06 | 2024-01-13 |
@@ -3718,7 +3718,7 @@
 | [dynamex-proto](https://github.com/google/dynamex-proto) | None | Protocol Buffer | 7 | Apache License 2.0 | 2016-05-31 | 2023-03-29 |
 | [bluesky-watchface](https://github.com/google/bluesky-watchface) | None | C | 11 | Apache License 2.0 | 2016-06-01 | 2023-03-29 |
 | [ctfscoreboard](https://github.com/google/ctfscoreboard) | Scoreboard for Capture The Flag competitions. | Python | 163 | Apache License 2.0 | 2016-06-02 | 2024-02-27 |
-| [cld3](https://github.com/google/cld3) | None | C++ | 766 | Apache License 2.0 | 2016-06-02 | 2024-07-18 |
+| [cld3](https://github.com/google/cld3) | None | C++ | 767 | Apache License 2.0 | 2016-06-02 | 2024-07-20 |
 | [git-appraise-web](https://github.com/google/git-appraise-web) | Web UI for git-appraise | HTML | 215 | Apache License 2.0 | 2016-06-07 | 2024-07-19 |
 | [cordova-plugin-browsertab](https://github.com/google/cordova-plugin-browsertab) | A Cordova plugin that provides an interface to in-app browser tabs that exist on some mobile platforms, such as SFSafariViewController on iOS and CustomTabs on Android. | Java | 117 | Apache License 2.0 | 2016-06-07 | 2024-05-26 |
 | [compact_enc_det](https://github.com/google/compact_enc_det) | compact_enc_det - Compact Encoding Detection | C | 211 | Apache License 2.0 | 2016-06-08 | 2024-07-19 |
@@ -3735,7 +3735,7 @@
 | [closure-compiler-js](https://github.com/google/closure-compiler-js) | Package for the JS version of closure-compiler for use via NPM | JavaScript | 1842 | Apache License 2.0 | 2016-07-15 | 2024-06-14 |
 | [idris-protobuf](https://github.com/google/idris-protobuf) | A partial implementation of Protocol Buffers in Idris | Idris | 29 | Apache License 2.0 | 2016-07-15 | 2023-03-29 |
 | [slowfs](https://github.com/google/slowfs) | A FUSE filesystem written in Go to simulate physical media for testing purposes | Go | 52 | Apache License 2.0 | 2016-07-20 | 2023-03-29 |
-| [oss-fuzz](https://github.com/google/oss-fuzz) | OSS-Fuzz - continuous fuzzing for open source software. | Shell | 10159 | Apache License 2.0 | 2016-07-20 | 2024-07-20 |
+| [oss-fuzz](https://github.com/google/oss-fuzz) | OSS-Fuzz - continuous fuzzing for open source software. | Shell | 10161 | Apache License 2.0 | 2016-07-20 | 2024-07-21 |
 | [certificate-transparency-java](https://github.com/google/certificate-transparency-java) | Auditing for TLS certificates, Java code. | Java | 39 | Apache License 2.0 | 2016-07-21 | 2024-04-18 |
 | [civics_cdf_validator](https://github.com/google/civics_cdf_validator) | None | Python | 29 | - | 2016-07-28 | 2024-06-18 |
 | [unimorph](https://github.com/google/unimorph) | None | HTML | 19 | Other | 2016-07-29 | 2023-01-27 |
@@ -3782,18 +3782,18 @@
 | [geovelo](https://github.com/google/geovelo) | None | JavaScript | 45 | Apache License 2.0 | 2016-10-18 | 2024-03-12 |
 | [beautiful-audio-editor](https://github.com/google/beautiful-audio-editor) | An experimental audio editor that runs on JavaScript and the Web Audio API. | JavaScript | 90 | Apache License 2.0 | 2016-10-20 | 2024-06-19 |
 | [netstack](https://github.com/google/netstack) | IPv4 and IPv6 userland network stack | Go | 3081 | Apache License 2.0 | 2016-10-20 | 2024-07-19 |
-| [guetzli](https://github.com/google/guetzli) | Perceptual JPEG encoder | C++ | 12892 | Apache License 2.0 | 2016-10-21 | 2024-07-19 |
+| [guetzli](https://github.com/google/guetzli) | Perceptual JPEG encoder | C++ | 12891 | Apache License 2.0 | 2016-10-21 | 2024-07-20 |
 | [request-test](https://github.com/google/request-test) | None | Python | 6 | Apache License 2.0 | 2016-10-24 | 2023-03-29 |
 | [macops-MOLFCMClient](https://github.com/google/macops-MOLFCMClient) | None | Objective-C | 12 | Other | 2016-10-27 | 2023-03-29 |
 | [everythingisconnected](https://github.com/google/everythingisconnected) | A Wikidata puzzle game | JavaScript | 18 | Apache License 2.0 | 2016-10-28 | 2023-09-10 |
 | [rtc-video-quality](https://github.com/google/rtc-video-quality) | Compare (Real-Time) Video Codec Performance | Python | 115 | Apache License 2.0 | 2016-11-03 | 2024-06-24 |
 | [meterstick](https://github.com/google/meterstick) | A concise syntax to describe and execute routine data analysis tasks | Jupyter Notebook | 102 | Apache License 2.0 | 2016-11-03 | 2024-07-03 |
 | [github-owners-bot](https://github.com/google/github-owners-bot) | None | JavaScript | 48 | Apache License 2.0 | 2016-11-03 | 2024-07-01 |
-| [bloaty](https://github.com/google/bloaty) | Bloaty: a size profiler for binaries | C++ | 4630 | Apache License 2.0 | 2016-11-07 | 2024-07-19 |
+| [bloaty](https://github.com/google/bloaty) | Bloaty: a size profiler for binaries | C++ | 4633 | Apache License 2.0 | 2016-11-07 | 2024-07-21 |
 | [mobly](https://github.com/google/mobly) | E2E test framework for tests with complex environment requirements. | Python | 628 | Apache License 2.0 | 2016-11-07 | 2024-07-12 |
 | [indexable-pwa-samples](https://github.com/google/indexable-pwa-samples) | A sample ExpressJS PWA that explores and demonstrates the best practices for implementing a PWA in regards to indexability of content. | JavaScript | 56 | Apache License 2.0 | 2016-11-08 | 2024-02-18 |
 | [google-authenticator-libpam](https://github.com/google/google-authenticator-libpam) | None | C | 1747 | Apache License 2.0 | 2016-11-08 | 2024-07-19 |
-| [gops](https://github.com/google/gops) | A tool to list and diagnose Go processes currently running on your system | Go | 6653 | BSD 3-Clause "New" or "Revised" License | 2016-11-10 | 2024-07-19 |
+| [gops](https://github.com/google/gops) | A tool to list and diagnose Go processes currently running on your system | Go | 6654 | BSD 3-Clause "New" or "Revised" License | 2016-11-10 | 2024-07-20 |
 | [indexed-db-as-promised](https://github.com/google/indexed-db-as-promised) | A thin wrapper around IndexedDB, making it much more pleasant | JavaScript | 25 | Apache License 2.0 | 2016-11-11 | 2023-03-29 |
 | [gotrace](https://github.com/google/gotrace) | None | None | 21 | - | 2016-11-11 | 2023-03-29 |
 | [ngx_token_binding](https://github.com/google/ngx_token_binding) | NGINX module for Token Binding | C | 43 | Apache License 2.0 | 2016-11-14 | 2024-01-07 |
@@ -3811,10 +3811,10 @@
 | [smilesparser](https://github.com/google/smilesparser) | None | Python | 12 | Apache License 2.0 | 2016-12-01 | 2023-03-29 |
 | [CodeCity](https://github.com/google/CodeCity) | Google's Code City is a social programming environment. It offers a comic book inspired virtual world where programmers can write code collaboratively. | JavaScript | 184 | Apache License 2.0 | 2016-12-04 | 2024-07-02 |
 | [fest](https://github.com/google/fest) | None | None | 9 | Apache License 2.0 | 2016-12-05 | 2023-03-29 |
-| [draco](https://github.com/google/draco) | Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics. | C++ | 6388 | Apache License 2.0 | 2016-12-05 | 2024-07-19 |
+| [draco](https://github.com/google/draco) | Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics. | C++ | 6390 | Apache License 2.0 | 2016-12-05 | 2024-07-20 |
 | [pblog](https://github.com/google/pblog) | Pblog is a small, low overhead, structured logging library | C | 28 | Other | 2016-12-08 | 2024-06-13 |
 | [mcafp](https://github.com/google/mcafp) | None | Python | 39 | Apache License 2.0 | 2016-12-09 | 2024-01-04 |
-| [conscrypt](https://github.com/google/conscrypt) | Conscrypt is a Java Security Provider that implements parts of the Java Cryptography Extension and Java Secure Socket Extension. | Java | 1256 | Apache License 2.0 | 2016-12-12 | 2024-07-17 |
+| [conscrypt](https://github.com/google/conscrypt) | Conscrypt is a Java Security Provider that implements parts of the Java Cryptography Extension and Java Secure Socket Extension. | Java | 1257 | Apache License 2.0 | 2016-12-12 | 2024-07-21 |
 | [sprockets](https://github.com/google/sprockets) | Sprockets is a framework for conformance testing based on state transitions. | Python | 10 | Apache License 2.0 | 2016-12-15 | 2023-03-29 |
 | [EXEgesis](https://github.com/google/EXEgesis) | None | C++ | 281 | Apache License 2.0 | 2016-12-16 | 2024-06-12 |
 | [source_transformer.dart](https://github.com/google/source_transformer.dart) | Patterns for easily re-writing source code | Dart | 9 | BSD 3-Clause "New" or "Revised" License | 2016-12-17 | 2023-05-11 |
@@ -3838,7 +3838,7 @@
 | [glazier](https://github.com/google/glazier) | A tool for automating the installation of the Microsoft Windows operating system on various device platforms. | Python | 1214 | Apache License 2.0 | 2017-01-23 | 2024-07-10 |
 | [makerspace-auth](https://github.com/google/makerspace-auth) | Designs for our makerspace access control devices | Python | 64 | Apache License 2.0 | 2017-01-24 | 2024-06-23 |
 | [volley](https://github.com/google/volley) | None | Java | 3369 | Apache License 2.0 | 2017-01-24 | 2024-07-14 |
-| [xdelta3-decoder-js](https://github.com/google/xdelta3-decoder-js) | None | C | 11 | Apache License 2.0 | 2017-01-24 | 2023-01-27 |
+| [xdelta3-decoder-js](https://github.com/google/xdelta3-decoder-js) | None | C | 12 | Apache License 2.0 | 2017-01-24 | 2024-07-21 |
 | [kiwi-solver](https://github.com/google/kiwi-solver) | Kiwi is a minimalist and extendable Constraint Programming (CP) solver. | Java | 44 | Apache License 2.0 | 2017-01-25 | 2024-06-09 |
 | [file.dart](https://github.com/google/file.dart) | A generic file system abstraction for Dart. | Dart | 123 | - | 2017-01-25 | 2024-07-09 |
 | [pyu2f](https://github.com/google/pyu2f) | pyu2f is a python based U2F host library for Linux, Windows, and MacOS. It provides functionality for interacting with a U2F device over USB. | Python | 81 | Apache License 2.0 | 2017-02-01 | 2023-12-02 |
@@ -3852,16 +3852,16 @@
 | [mug](https://github.com/google/mug) | A small Java 8 library (string manipulation, stream utils) | Java | 365 | Apache License 2.0 | 2017-02-14 | 2024-07-13 |
 | [dropzone-polyfill](https://github.com/google/dropzone-polyfill) | Polyfill for the removed HTML5 dropzone attribute | HTML | 5 | Apache License 2.0 | 2017-02-17 | 2023-03-29 |
 | [ot-crdt-papers](https://github.com/google/ot-crdt-papers) | None | JavaScript | 249 | Apache License 2.0 | 2017-02-17 | 2024-07-02 |
-| [python-fire](https://github.com/google/python-fire) | Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object. | Python | 26628 | Other | 2017-02-21 | 2024-07-20 |
+| [python-fire](https://github.com/google/python-fire) | Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object. | Python | 26627 | Other | 2017-02-21 | 2024-07-21 |
 | [mechahamster](https://github.com/google/mechahamster) | Mecha Hamster is a game where you roll through customizable environments that you can share with your friends. | C# | 499 | Apache License 2.0 | 2017-02-22 | 2024-07-18 |
 | [xmpmeta](https://github.com/google/xmpmeta) | None | C++ | 17 | Apache License 2.0 | 2017-02-24 | 2023-01-27 |
 | [tflow2](https://github.com/google/tflow2) | This software is currently maintained at https://github.com/taktv6/tflow2 | Go | 38 | Apache License 2.0 | 2017-02-24 | 2022-12-29 |
 | [codeu_project_2017](https://github.com/google/codeu_project_2017) | CODEU is a program created by Google to develop the skills of future software engineers. This project is a playground for those looking to develop their coding and software engineering skills. | Java | 97 | Apache License 2.0 | 2017-02-28 | 2024-04-17 |
 | [easybundler](https://github.com/google/easybundler) | A code generator for Android Bundles | Java | 54 | Apache License 2.0 | 2017-03-01 | 2024-04-22 |
-| [seq2seq](https://github.com/google/seq2seq) | A general-purpose encoder-decoder framework for Tensorflow | Python | 5598 | Apache License 2.0 | 2017-03-02 | 2024-07-18 |
+| [seq2seq](https://github.com/google/seq2seq) | A general-purpose encoder-decoder framework for Tensorflow | Python | 5599 | Apache License 2.0 | 2017-03-02 | 2024-07-20 |
 | [eventid-js](https://github.com/google/eventid-js) | Monotonically increasing per machine, globally unique eventids for JavaScript | TypeScript | 74 | Apache License 2.0 | 2017-03-04 | 2024-01-13 |
 | [infra-structured-map](https://github.com/google/infra-structured-map) | None | Java | 7 | Other | 2017-03-05 | 2023-07-24 |
-| [sentencepiece](https://github.com/google/sentencepiece) | Unsupervised text tokenizer for Neural Network-based text generation. | C++ | 9862 | Apache License 2.0 | 2017-03-07 | 2024-07-20 |
+| [sentencepiece](https://github.com/google/sentencepiece) | Unsupervised text tokenizer for Neural Network-based text generation. | C++ | 9863 | Apache License 2.0 | 2017-03-07 | 2024-07-21 |
 | [containerregistry](https://github.com/google/containerregistry) | A set of Python libraries and tools for interacting with a Docker Registry. | Python | 203 | Apache License 2.0 | 2017-03-09 | 2024-06-30 |
 | [brotli-wheels](https://github.com/google/brotli-wheels) | Brotli wheels | None | 10 | MIT License | 2017-03-09 | 2024-06-07 |
 | [OctoPrint-LEDStripControl](https://github.com/google/OctoPrint-LEDStripControl) | OctoPrint plugin that intercepts M150 GCode commands and controls local GPIOs connected to LEDs. | Python | 63 | Apache License 2.0 | 2017-03-10 | 2023-03-29 |
@@ -3874,10 +3874,10 @@
 | [amp-pwa-demo](https://github.com/google/amp-pwa-demo) | A simple, dependency-free blog that uses a Progressive Web App (PWA) to show Accellerated Mobile Pages (AMP). | JavaScript | 112 | Apache License 2.0 | 2017-03-20 | 2024-01-12 |
 | [tacotron](https://github.com/google/tacotron) | Audio samples accompanying publications related to Tacotron, an end-to-end speech synthesis model. | HTML | 527 | Other | 2017-03-20 | 2024-05-03 |
 | [ubntools](https://github.com/google/ubntools) | Tools to do fun things with ubiquity gear | Go | 18 | Apache License 2.0 | 2017-03-20 | 2023-06-22 |
-| [earthenterprise](https://github.com/google/earthenterprise) | Google Earth Enterprise - Open Source | C++ | 2661 | Apache License 2.0 | 2017-03-20 | 2024-07-20 |
+| [earthenterprise](https://github.com/google/earthenterprise) | Google Earth Enterprise - Open Source | C++ | 2662 | Apache License 2.0 | 2017-03-20 | 2024-07-20 |
 | [GeoexperimentsResearch](https://github.com/google/GeoexperimentsResearch) | An open-source implementation of the geo experiment analysis methodology developed at Google. Disclaimer: This is not an official Google product. | R | 125 | Apache License 2.0 | 2017-03-21 | 2024-05-16 |
 | [DirectXShaderCompiler](https://github.com/google/DirectXShaderCompiler) | This repo hosts the source for the DirectX Shader Compiler which is based on LLVM/Clang. | C++ | 52 | Other | 2017-03-21 | 2024-03-12 |
-| [xrtl](https://github.com/google/xrtl) | Cross-platform Real-Time Rendering Library | C++ | 127 | Apache License 2.0 | 2017-03-29 | 2024-03-26 |
+| [xrtl](https://github.com/google/xrtl) | Cross-platform Real-Time Rendering Library | C++ | 128 | Apache License 2.0 | 2017-03-29 | 2024-07-21 |
 | [virtual-tutors](https://github.com/google/virtual-tutors) | None | HTML | 6 | Apache License 2.0 | 2017-03-29 | 2023-09-28 |
 | [energystrategies](https://github.com/google/energystrategies) | None | TypeScript | 14 | Apache License 2.0 | 2017-03-31 | 2023-03-29 |
 | [codeu_coding_assessment_2017](https://github.com/google/codeu_coding_assessment_2017) | This project allows students to demonstrate their coding skills before entering CodeU. Students will complete this JSON-lite object and JSON-lite parser. | Java | 9 | Apache License 2.0 | 2017-03-31 | 2023-06-17 |
@@ -3895,8 +3895,8 @@
 | [ndash](https://github.com/google/ndash) | None | C++ | 39 | Apache License 2.0 | 2017-04-19 | 2024-06-25 |
 | [capture-thread](https://github.com/google/capture-thread) | Lock-free framework for loggers, tracers, and mockers in multithreaded C++ programs. | C++ | 99 | Apache License 2.0 | 2017-04-19 | 2024-06-20 |
 | [aiyprojects-raspbian](https://github.com/google/aiyprojects-raspbian) |  API libraries, samples, and system images for AIY Projects (Voice Kit and Vision Kit) | Python | 1611 | Apache License 2.0 | 2017-04-20 | 2024-07-10 |
-| [tamperchrome](https://github.com/google/tamperchrome) | Tamper Dev is an extension that allows you to intercept and edit HTTP/HTTPS requests and responses as they happen without the need of a proxy. Works across all operating systems (including Chrome OS). | TypeScript | 4166 | Apache License 2.0 | 2017-04-20 | 2024-07-19 |
-| [security-research-pocs](https://github.com/google/security-research-pocs) | Proof-of-concept codes created as part of security research done by Google Security Team. | C++ | 1851 | Apache License 2.0 | 2017-04-21 | 2024-07-16 |
+| [tamperchrome](https://github.com/google/tamperchrome) | Tamper Dev is an extension that allows you to intercept and edit HTTP/HTTPS requests and responses as they happen without the need of a proxy. Works across all operating systems (including Chrome OS). | TypeScript | 4166 | Apache License 2.0 | 2017-04-20 | 2024-07-20 |
+| [security-research-pocs](https://github.com/google/security-research-pocs) | Proof-of-concept codes created as part of security research done by Google Security Team. | C++ | 1849 | Apache License 2.0 | 2017-04-21 | 2024-07-21 |
 | [myelin-acorn-electron-hardware](https://github.com/google/myelin-acorn-electron-hardware) | Phillip Pearson's retro hardware projects for the Acorn Electron | Python | 53 | Apache License 2.0 | 2017-04-21 | 2024-05-26 |
 | [effcee](https://github.com/google/effcee) | Effcee is a C++ library for stateful pattern matching of strings, inspired by LLVM's FileCheck | C++ | 89 | Apache License 2.0 | 2017-04-21 | 2024-07-11 |
 | [goexpect](https://github.com/google/goexpect) | Expect for Go | Go | 757 | BSD 3-Clause "New" or "Revised" License | 2017-04-24 | 2024-07-12 |
@@ -3907,9 +3907,9 @@
 | [automation-inspector](https://github.com/google/automation-inspector) | None | JavaScript | 27 | Apache License 2.0 | 2017-05-01 | 2024-07-12 |
 | [kmsan](https://github.com/google/kmsan) | KernelMemorySanitizer, a detector of uses of uninitialized memory in the Linux kernel | C | 402 | Other | 2017-05-02 | 2024-07-02 |
 | [chatbase-node](https://github.com/google/chatbase-node) | Quickly integrate your Node.js chatbot with Chatbase Analytics | JavaScript | 77 | Apache License 2.0 | 2017-05-04 | 2023-11-28 |
-| [gousb](https://github.com/google/gousb) | gousb provides low-level interface for accessing USB devices | Go | 814 | Apache License 2.0 | 2017-05-05 | 2024-07-16 |
+| [gousb](https://github.com/google/gousb) | gousb provides low-level interface for accessing USB devices | Go | 815 | Apache License 2.0 | 2017-05-05 | 2024-07-20 |
 | [eslint-closure](https://github.com/google/eslint-closure) | ESLint Plugin and Config for the Google JavaScript Style Guide | JavaScript | 31 | Apache License 2.0 | 2017-05-05 | 2024-03-13 |
-| [certificate-transparency-go](https://github.com/google/certificate-transparency-go) | Auditing for TLS certificates (Go code) | Go | 866 | Apache License 2.0 | 2017-05-08 | 2024-07-19 |
+| [certificate-transparency-go](https://github.com/google/certificate-transparency-go) | Auditing for TLS certificates (Go code) | Go | 867 | Apache License 2.0 | 2017-05-08 | 2024-07-20 |
 | [chkstream](https://github.com/google/chkstream) | Checked exception support in Java 8 streams via decorator. | Python | 16 | GNU General Public License v2.0 | 2017-05-08 | 2024-04-18 |
 | [crclib.dart](https://github.com/google/crclib.dart) | None | Dart | 21 | Apache License 2.0 | 2017-05-08 | 2023-04-13 |
 | [jsinterop-generator](https://github.com/google/jsinterop-generator) | Generates Java annotated with JsInterop from JavaScript extern sources | Java | 74 | Apache License 2.0 | 2017-05-12 | 2024-06-25 |
@@ -3956,7 +3956,7 @@
 | [tcp_killer](https://github.com/google/tcp_killer) | Shuts down a TCP connection on Linux or macOS. Local and remote endpoint arguments can be copied from the output of 'netstat -lanW'. | Python | 209 | Apache License 2.0 | 2017-06-29 | 2024-07-09 |
 | [bamboo-soy](https://github.com/google/bamboo-soy) | An intellij plugin supporting Closure Template language (Soy) | Java | 48 | Apache License 2.0 | 2017-07-05 | 2023-12-28 |
 | [fscryptctl](https://github.com/google/fscryptctl) | Small C tool for Linux filesystem encryption | C | 112 | Apache License 2.0 | 2017-07-05 | 2024-07-05 |
-| [go-cmp](https://github.com/google/go-cmp) | Package for comparing Go values in tests | Go | 4109 | BSD 3-Clause "New" or "Revised" License | 2017-07-07 | 2024-07-19 |
+| [go-cmp](https://github.com/google/go-cmp) | Package for comparing Go values in tests | Go | 4110 | BSD 3-Clause "New" or "Revised" License | 2017-07-07 | 2024-07-20 |
 | [nanopb-podspec](https://github.com/google/nanopb-podspec) | Manage CocoaPods nanopb distribution | Ruby | 4 | Other | 2017-07-07 | 2024-07-09 |
 | [pubkeystore](https://github.com/google/pubkeystore) | SSH Pubkey Registry | Go | 22 | Apache License 2.0 | 2017-07-08 | 2023-03-29 |
 | [testrunner-rosemary](https://github.com/google/testrunner-rosemary) | None | Java | 2 | Apache License 2.0 | 2017-07-10 | 2023-01-28 |
@@ -3979,7 +3979,7 @@
 | [sync3k-server](https://github.com/google/sync3k-server) | None | Scala | 20 | Apache License 2.0 | 2017-07-31 | 2023-06-12 |
 | [sync3k-client](https://github.com/google/sync3k-client) | None | TypeScript | 18 | Apache License 2.0 | 2017-07-31 | 2023-03-29 |
 | [ts-gulp](https://github.com/google/ts-gulp) | None | None | 2 | - | 2017-07-31 | 2023-01-27 |
-| [gts](https://github.com/google/gts) | ☂️ TypeScript style guide, formatter, and linter.   | TypeScript | 5015 | Apache License 2.0 | 2017-07-31 | 2024-07-20 |
+| [gts](https://github.com/google/gts) | ☂️ TypeScript style guide, formatter, and linter.   | TypeScript | 5016 | Apache License 2.0 | 2017-07-31 | 2024-07-20 |
 | [concourse-resources](https://github.com/google/concourse-resources) | Resources for Concourse | Go | 28 | Other | 2017-08-02 | 2023-03-29 |
 | [inverting-proxy](https://github.com/google/inverting-proxy) | Reverse proxy that inverts the direction of traffic | Go | 250 | Apache License 2.0 | 2017-08-04 | 2024-07-03 |
 | [crc32c](https://github.com/google/crc32c) | CRC32C implementation with support for CPU-specific acceleration instructions | C++ | 442 | BSD 3-Clause "New" or "Revised" License | 2017-08-04 | 2024-06-19 |
@@ -4002,7 +4002,7 @@
 | [generativemloncloud](https://github.com/google/generativemloncloud) | None | Python | 57 | Other | 2017-08-30 | 2024-05-14 |
 | [pawn](https://github.com/google/pawn) | Extract BIOS firmware from Intel-based workstations and laptops | C++ | 305 | Apache License 2.0 | 2017-08-30 | 2024-07-17 |
 | [ds-trix-addon](https://github.com/google/ds-trix-addon) | None | JavaScript | 15 | Apache License 2.0 | 2017-08-31 | 2023-03-29 |
-| [cel-spec](https://github.com/google/cel-spec) | Common Expression Language -- specification and binary representation | Go | 2670 | Apache License 2.0 | 2017-09-04 | 2024-07-20 |
+| [cel-spec](https://github.com/google/cel-spec) | Common Expression Language -- specification and binary representation | Go | 2672 | Apache License 2.0 | 2017-09-04 | 2024-07-21 |
 | [shell-encryption](https://github.com/google/shell-encryption) | None | C++ | 111 | Apache License 2.0 | 2017-09-05 | 2024-07-11 |
 | [new-project](https://github.com/google/new-project) | This repository contains a template you can use to seed a repository for a new open source project. | None | 209 | Apache License 2.0 | 2017-09-07 | 2024-06-26 |
 | [microscopeimagequality](https://github.com/google/microscopeimagequality) | None | Python | 89 | Apache License 2.0 | 2017-09-07 | 2024-05-03 |
@@ -4016,7 +4016,7 @@
 | [gumbel_sinkhorn](https://github.com/google/gumbel_sinkhorn) | None | Python | 73 | Apache License 2.0 | 2017-09-18 | 2024-07-03 |
 | [gtd-txt](https://github.com/google/gtd-txt) | Getting Things Done in plain text | Shell | 21 | Apache License 2.0 | 2017-09-20 | 2024-01-23 |
 | [bitutils](https://github.com/google/bitutils) | scripts to ease working with binary numbers | Python | 15 | Apache License 2.0 | 2017-09-20 | 2023-03-29 |
-| [orbit](https://github.com/google/orbit) | C/C++ Performance Profiler | C++ | 4114 | BSD 2-Clause "Simplified" License | 2017-09-21 | 2024-07-20 |
+| [orbit](https://github.com/google/orbit) | C/C++ Performance Profiler | C++ | 4115 | BSD 2-Clause "Simplified" License | 2017-09-21 | 2024-07-20 |
 | [mipsqa](https://github.com/google/mipsqa) | None | Python | 26 | Apache License 2.0 | 2017-09-22 | 2024-01-04 |
 | [OctoPrint-HeaterTimeout](https://github.com/google/OctoPrint-HeaterTimeout) | OctoPrint Plugin that automatically shuts down heaters after a specified idle timeout. | Python | 12 | Apache License 2.0 | 2017-09-25 | 2023-03-29 |
 | [amp-client-id-library](https://github.com/google/amp-client-id-library) | None | JavaScript | 10 | Apache License 2.0 | 2017-09-25 | 2023-03-29 |
@@ -4042,7 +4042,7 @@
 | [streaming_hdp](https://github.com/google/streaming_hdp) | None | Go | 3 | Apache License 2.0 | 2017-10-20 | 2023-03-29 |
 | [upvote_py2](https://github.com/google/upvote_py2) | A multi-platform binary whitelisting solution | Python | 451 | Apache License 2.0 | 2017-10-24 | 2024-07-08 |
 | [tangent](https://github.com/google/tangent) | Source-to-Source Debuggable Derivatives in Pure Python | Python | 2308 | Apache License 2.0 | 2017-10-26 | 2024-05-02 |
-| [bottery](https://github.com/google/bottery) | None | JavaScript | 3295 | Apache License 2.0 | 2017-10-30 | 2024-06-20 |
+| [bottery](https://github.com/google/bottery) | None | JavaScript | 3296 | Apache License 2.0 | 2017-10-30 | 2024-07-20 |
 | [rerast](https://github.com/google/rerast) | A tool for transforming Rust code using rules | Rust | 712 | Apache License 2.0 | 2017-10-31 | 2024-06-28 |
 | [dimsum](https://github.com/google/dimsum) | Portable C++ SIMD library | C++ | 173 | Apache License 2.0 | 2017-10-31 | 2024-07-11 |
 | [certtostore](https://github.com/google/certtostore) | Hardware Backed Keys and Certificate Store Management on Windows | Go | 76 | Apache License 2.0 | 2017-11-01 | 2024-07-18 |
@@ -4060,7 +4060,7 @@
 | [ffn](https://github.com/google/ffn) | Flood-Filling Networks for instance segmentation in 3d volumes. | Python | 309 | Apache License 2.0 | 2017-11-10 | 2024-07-11 |
 | [jsinterop-base](https://github.com/google/jsinterop-base) | Utilities for GWT and J2CL to interact with JavaScript beyond JsInterop | Java | 67 | Apache License 2.0 | 2017-11-10 | 2024-06-25 |
 | [pinotify](https://github.com/google/pinotify) | None | Java | 5 | Apache License 2.0 | 2017-11-12 | 2023-11-17 |
-| [wuffs](https://github.com/google/wuffs) | Wrangling Untrusted File Formats Safely | C | 4071 | Other | 2017-11-13 | 2024-07-18 |
+| [wuffs](https://github.com/google/wuffs) | Wrangling Untrusted File Formats Safely | C | 4073 | Other | 2017-11-13 | 2024-07-20 |
 | [har-sanitizer](https://github.com/google/har-sanitizer) | None | Python | 67 | Apache License 2.0 | 2017-11-13 | 2024-02-26 |
 | [swift](https://github.com/google/swift) | The Swift Programming Language | None | 839 | - | 2017-11-13 | 2024-06-21 |
 | [swift-clang](https://github.com/google/swift-clang) | None | C++ | 7 | - | 2017-11-13 | 2023-03-29 |
@@ -4080,17 +4080,17 @@
 | [dana](https://github.com/google/dana) | Test/benchmark regression and comparison system with dashboard | JavaScript | 107 | Apache License 2.0 | 2017-11-18 | 2024-04-27 |
 | [crunchy](https://github.com/google/crunchy) | CrunchyCrypt - Safe and Simple Cryptography | C++ | 126 | Apache License 2.0 | 2017-11-21 | 2024-04-02 |
 | [fleetspeak](https://github.com/google/fleetspeak) | None | Go | 135 | Apache License 2.0 | 2017-11-21 | 2024-07-09 |
-| [deepvariant](https://github.com/google/deepvariant) | DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data. | Python | 3129 | BSD 3-Clause "New" or "Revised" License | 2017-11-23 | 2024-07-19 |
+| [deepvariant](https://github.com/google/deepvariant) | DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data. | Python | 3130 | BSD 3-Clause "New" or "Revised" License | 2017-11-23 | 2024-07-20 |
 | [pbvi](https://github.com/google/pbvi) | None | Python | 6 | Apache License 2.0 | 2017-11-23 | 2023-03-29 |
 | [pyaedj](https://github.com/google/pyaedj) | None | Python | 8 | Apache License 2.0 | 2017-11-27 | 2023-03-29 |
 | [pasta](https://github.com/google/pasta) | Library to refactor python code through AST manipulation. | Python | 337 | Apache License 2.0 | 2017-11-28 | 2024-07-08 |
 | [idaidle](https://github.com/google/idaidle) | A plugin for the commercial IDA Pro disassembler that warns users if they leave their instance idling for too long. | CMake | 31 | Apache License 2.0 | 2017-11-30 | 2024-05-31 |
-| [clasp](https://github.com/google/clasp) | 🔗 Command Line Apps Script Projects | TypeScript | 4491 | Apache License 2.0 | 2017-12-05 | 2024-07-19 |
+| [clasp](https://github.com/google/clasp) | 🔗 Command Line Apps Script Projects | TypeScript | 4493 | Apache License 2.0 | 2017-12-05 | 2024-07-20 |
 | [stumblybot](https://github.com/google/stumblybot) | Simple robot that executes voice commands through Google Assistant. | Python | 24 | Apache License 2.0 | 2017-12-05 | 2023-03-29 |
 | [web-activities](https://github.com/google/web-activities) | None | JavaScript | 50 | Apache License 2.0 | 2017-12-05 | 2024-07-12 |
 | [unigem-objective-c](https://github.com/google/unigem-objective-c) | Unicode Gems, a Mac app, an iOS app, and an iOS keyboard for letter-like unicode. | Objective-C | 24 | Apache License 2.0 | 2017-12-05 | 2023-08-09 |
 | [joint_vae](https://github.com/google/joint_vae) | Code to build VAE models that are jointly conditioned. | OpenEdge ABL | 35 | Apache License 2.0 | 2017-12-06 | 2024-01-04 |
-| [rejoiner](https://github.com/google/rejoiner) | Generates a unified GraphQL schema from gRPC microservices and other Protobuf sources | Java | 3671 | Apache License 2.0 | 2017-12-06 | 2024-07-18 |
+| [rejoiner](https://github.com/google/rejoiner) | Generates a unified GraphQL schema from gRPC microservices and other Protobuf sources | Java | 3672 | Apache License 2.0 | 2017-12-06 | 2024-07-20 |
 | [codemirror-mode-jsonnet](https://github.com/google/codemirror-mode-jsonnet) | None | JavaScript | 18 | Apache License 2.0 | 2017-12-07 | 2023-03-29 |
 | [code-review-bot](https://github.com/google/code-review-bot) | Code review bot and CLA verifier | Go | 98 | Apache License 2.0 | 2017-12-08 | 2024-06-25 |
 | [in-silico-labeling](https://github.com/google/in-silico-labeling) | Code for In silico labeling: Predicting fluorescent labels in unlabeled images | Python | 258 | Apache License 2.0 | 2017-12-11 | 2024-04-22 |
@@ -4125,7 +4125,7 @@
 | [functional-objc](https://github.com/google/functional-objc) | Functional operators for Objective-C | Objective-C | 348 | Apache License 2.0 | 2018-01-19 | 2024-05-21 |
 | [promises](https://github.com/google/promises) | Promises is a modern framework that provides a synchronization construct for Swift and Objective-C. | Objective-C | 3791 | Apache License 2.0 | 2018-01-19 | 2024-07-19 |
 | [hugeml](https://github.com/google/hugeml) | None | None | 6 | - | 2018-01-19 | 2023-03-29 |
-| [libnop](https://github.com/google/libnop) | libnop: C++ Native Object Protocols | C++ | 555 | Other | 2018-01-22 | 2024-05-13 |
+| [libnop](https://github.com/google/libnop) | libnop: C++ Native Object Protocols | C++ | 554 | Other | 2018-01-22 | 2024-07-20 |
 | [differentiable-atomistic-potentials](https://github.com/google/differentiable-atomistic-potentials) | Automatically differentiable atomistic potentials for molecular simulations | Python | 54 | Apache License 2.0 | 2018-01-23 | 2023-03-29 |
 | [diff-match-patch](https://github.com/google/diff-match-patch) | Diff Match Patch is a high-performance library in multiple languages that manipulates plain text. | Python | 7307 | Apache License 2.0 | 2018-01-23 | 2024-07-19 |
 | [burst-denoising](https://github.com/google/burst-denoising) | None | Python | 242 | Apache License 2.0 | 2018-01-24 | 2024-02-13 |
@@ -4204,7 +4204,7 @@
 | [makerspace-lipo-charger](https://github.com/google/makerspace-lipo-charger) | None | Makefile | 8 | Creative Commons Attribution 4.0 International | 2018-04-10 | 2023-03-29 |
 | [git-presubmit-linter](https://github.com/google/git-presubmit-linter) | None | Shell | 38 | Apache License 2.0 | 2018-04-11 | 2024-06-19 |
 | [synthmark](https://github.com/google/synthmark) | Audio performance benchmark for jitter, theoretical latency, etc. | C++ | 53 | Apache License 2.0 | 2018-04-12 | 2024-04-09 |
-| [flogger](https://github.com/google/flogger) | A Fluent Logging API for Java | Java | 1450 | Apache License 2.0 | 2018-04-12 | 2024-07-18 |
+| [flogger](https://github.com/google/flogger) | A Fluent Logging API for Java | Java | 1451 | Apache License 2.0 | 2018-04-12 | 2024-07-20 |
 | [randen](https://github.com/google/randen) | Fast backtracking-resistant random generator: https://arxiv.org/abs/1810.02227 | C++ | 333 | Apache License 2.0 | 2018-04-13 | 2024-02-18 |
 | [dbm-trix-addon](https://github.com/google/dbm-trix-addon) | None | JavaScript | 5 | Apache License 2.0 | 2018-04-18 | 2023-03-29 |
 | [dcm-trix-addon](https://github.com/google/dcm-trix-addon) | None | JavaScript | 10 | Apache License 2.0 | 2018-04-18 | 2023-03-29 |
@@ -4217,15 +4217,15 @@
 | [asylo-site](https://github.com/google/asylo-site) | Asylo Website | HTML | 21 | Apache License 2.0 | 2018-04-25 | 2024-02-02 |
 | [aperture_supervision](https://github.com/google/aperture_supervision) | None | Python | 31 | Apache License 2.0 | 2018-04-25 | 2023-10-07 |
 | [maddpg-replication](https://github.com/google/maddpg-replication) | None | Jupyter Notebook | 24 | Apache License 2.0 | 2018-04-26 | 2024-01-28 |
-| [jwt_verify_lib](https://github.com/google/jwt_verify_lib) | Provide c++ library to verify JWT tokens | C++ | 41 | Apache License 2.0 | 2018-04-26 | 2024-07-11 |
-| [gvisor](https://github.com/google/gvisor) | Application Kernel for Containers | Go | 15362 | Apache License 2.0 | 2018-04-26 | 2024-07-20 |
-| [google-ctf](https://github.com/google/google-ctf) | Google CTF | Python | 4429 | Apache License 2.0 | 2018-04-27 | 2024-07-19 |
+| [jwt_verify_lib](https://github.com/google/jwt_verify_lib) | Provide c++ library to verify JWT tokens | C++ | 40 | Apache License 2.0 | 2018-04-26 | 2024-07-21 |
+| [gvisor](https://github.com/google/gvisor) | Application Kernel for Containers | Go | 15364 | Apache License 2.0 | 2018-04-26 | 2024-07-20 |
+| [google-ctf](https://github.com/google/google-ctf) | Google CTF | Python | 4430 | Apache License 2.0 | 2018-04-27 | 2024-07-21 |
 | [pikov](https://github.com/google/pikov) | Tool to create and edit Pikov pixel art Markov chain animations. | Jupyter Notebook | 16 | Apache License 2.0 | 2018-04-27 | 2023-03-29 |
 | [minions](https://github.com/google/minions) | Distributed filesystem scanner | Go | 128 | Apache License 2.0 | 2018-04-30 | 2024-06-12 |
 | [galogen](https://github.com/google/galogen) | OpenGL Loader Generator | C++ | 51 | Apache License 2.0 | 2018-04-30 | 2024-06-05 |
 | [statechart](https://github.com/google/statechart) | C++ StateChart Library | C++ | 115 | Apache License 2.0 | 2018-05-01 | 2024-06-27 |
 | [cabal2bazel](https://github.com/google/cabal2bazel) | Haskell Bazel rules and cabal2bazel import tool. | Starlark | 41 | Apache License 2.0 | 2018-05-03 | 2023-10-22 |
-| [bundletool](https://github.com/google/bundletool) | Bundletool is a command-line tool to manipulate Android App Bundles | Java | 3430 | Apache License 2.0 | 2018-05-04 | 2024-07-19 |
+| [bundletool](https://github.com/google/bundletool) | Bundletool is a command-line tool to manipulate Android App Bundles | Java | 3431 | Apache License 2.0 | 2018-05-04 | 2024-07-21 |
 | [badwolf-drivers](https://github.com/google/badwolf-drivers) | None | Go | 21 | Apache License 2.0 | 2018-05-05 | 2023-05-31 |
 | [android-management-api-samples](https://github.com/google/android-management-api-samples) | None | Jupyter Notebook | 30 | Apache License 2.0 | 2018-05-07 | 2024-07-03 |
 | [rally](https://github.com/google/rally) | None | Java | 37 | Apache License 2.0 | 2018-05-09 | 2023-03-29 |
@@ -4256,7 +4256,7 @@
 | [asr-recipes](https://github.com/google/asr-recipes) | None | Shell | 15 | Apache License 2.0 | 2018-06-22 | 2023-03-29 |
 | [cssi-labs](https://github.com/google/cssi-labs) | None | HTML | 33 | Apache License 2.0 | 2018-06-23 | 2023-11-09 |
 | [play-services-plugins](https://github.com/google/play-services-plugins) | Plugins to help with using Google Play services SDK. | Java | 459 | Apache License 2.0 | 2018-06-27 | 2024-07-07 |
-| [pybadges](https://github.com/google/pybadges) | A Python library for creating Github-style badges | Python | 464 | Apache License 2.0 | 2018-06-27 | 2024-07-17 |
+| [pybadges](https://github.com/google/pybadges) | A Python library for creating Github-style badges | Python | 465 | Apache License 2.0 | 2018-06-27 | 2024-07-20 |
 | [gin-config](https://github.com/google/gin-config) | Gin provides a lightweight configuration framework for Python | Python | 2018 | Apache License 2.0 | 2018-06-27 | 2024-07-19 |
 | [weighted-dict](https://github.com/google/weighted-dict) | None | Python | 19 | Apache License 2.0 | 2018-06-28 | 2022-12-29 |
 | [sg2im](https://github.com/google/sg2im) | Code for "Image Generation from Scene Graphs", Johnson et al, CVPR 2018 | Python | 1292 | Apache License 2.0 | 2018-06-29 | 2024-07-17 |
@@ -4281,7 +4281,7 @@
 | [0x0g-2018-badge](https://github.com/google/0x0g-2018-badge) | None | C | 18 | Apache License 2.0 | 2018-07-31 | 2023-08-10 |
 | [payjs](https://github.com/google/payjs) | None | JavaScript | 7 | Apache License 2.0 | 2018-08-01 | 2024-03-03 |
 | [adiantum](https://github.com/google/adiantum) | Adiantum and HPolyC specification and test vectors | C | 469 | MIT License | 2018-08-02 | 2024-06-26 |
-| [filament](https://github.com/google/filament) | Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2 | C++ | 17404 | Apache License 2.0 | 2018-08-03 | 2024-07-20 |
+| [filament](https://github.com/google/filament) | Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2 | C++ | 17407 | Apache License 2.0 | 2018-08-03 | 2024-07-20 |
 | [graph-gen](https://github.com/google/graph-gen) | None | Python | 5 | Apache License 2.0 | 2018-08-03 | 2023-03-29 |
 | [patrick](https://github.com/google/patrick) | Parameterized testing in R is kind of cool! | R | 133 | Apache License 2.0 | 2018-08-06 | 2024-06-04 |
 | [node-dependency-analysis](https://github.com/google/node-dependency-analysis) | None | TypeScript | 15 | Apache License 2.0 | 2018-08-08 | 2023-03-29 |
@@ -4296,7 +4296,7 @@
 | [platform_benchmarks](https://github.com/google/platform_benchmarks) | None | None | 17 | - | 2018-08-23 | 2023-12-05 |
 | [dokka](https://github.com/google/dokka) | Documentation Engine for Kotlin | Kotlin | 15 | Apache License 2.0 | 2018-08-24 | 2023-08-26 |
 | [sa360-flightsfeed](https://github.com/google/sa360-flightsfeed) | Generate SA360 compatible feeds for airlines on BigQuery  :rocket: | JavaScript | 11 | Apache License 2.0 | 2018-08-27 | 2023-03-29 |
-| [java-photoslibrary](https://github.com/google/java-photoslibrary) | Java client library for the Google Photos Library API | Java | 106 | Apache License 2.0 | 2018-08-29 | 2024-04-04 |
+| [java-photoslibrary](https://github.com/google/java-photoslibrary) | Java client library for the Google Photos Library API | Java | 107 | Apache License 2.0 | 2018-08-29 | 2024-07-20 |
 | [kunit-docs](https://github.com/google/kunit-docs) | None | HTML | 26 | Apache License 2.0 | 2018-08-29 | 2023-08-22 |
 | [wikiloop-datasets](https://github.com/google/wikiloop-datasets) | None | None | 6 | Other | 2018-08-30 | 2022-12-29 |
 | [TrustScore](https://github.com/google/TrustScore) | To Trust Or Not To Trust A Classifier. A measure of uncertainty for any trained (possibly black-box) classifier which is more effective than the classifier's own implied confidence (e.g. softmax probability for a neural network). | Jupyter Notebook | 173 | Apache License 2.0 | 2018-09-03 | 2024-05-27 |
@@ -4312,7 +4312,7 @@
 | [nodejs-wiki](https://github.com/google/nodejs-wiki) | None | JavaScript | 15 | Apache License 2.0 | 2018-09-25 | 2023-03-29 |
 | [starlark-rust](https://github.com/google/starlark-rust) | Starlark (https://github.com/bazelbuild/starlark) in Rust | None | 190 | Apache License 2.0 | 2018-09-27 | 2023-04-08 |
 | [mundane](https://github.com/google/mundane) | Mundane is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant (in that order). | Rust | 1073 | MIT License | 2018-10-02 | 2024-06-12 |
-| [speaker-id](https://github.com/google/speaker-id) | This repository contains audio samples and supplementary materials accompanying publications by the "Speaker, Voice and Language" team at Google. | Python | 334 | Apache License 2.0 | 2018-10-05 | 2024-07-18 |
+| [speaker-id](https://github.com/google/speaker-id) | This repository contains audio samples and supplementary materials accompanying publications by the "Speaker, Voice and Language" team at Google. | Python | 335 | Apache License 2.0 | 2018-10-05 | 2024-07-20 |
 | [BucketServer](https://github.com/google/BucketServer) | Serve GCS Bucket content anonymously from Windows, Linux and MacOS | Go | 6 | Apache License 2.0 | 2018-10-05 | 2023-03-29 |
 | [svalbard](https://github.com/google/svalbard) | Svalbard is a distributed backup system for long-term protection of secret data. | Go | 35 | Apache License 2.0 | 2018-10-05 | 2024-01-13 |
 | [stereo-magnification](https://github.com/google/stereo-magnification) | Code accompanying the SIGGRAPH 2018 paper "Stereo Magnification: Learning View Synthesis using Multiplane Images" | Python | 387 | Apache License 2.0 | 2018-10-09 | 2024-06-01 |
@@ -4321,12 +4321,12 @@
 | [docsy](https://github.com/google/docsy) | A set of Hugo doc templates for launching open source content. | HTML | 2510 | Apache License 2.0 | 2018-10-15 | 2024-07-19 |
 | [vscode-bigquery](https://github.com/google/vscode-bigquery) | A Visual Studio Code plugin for running BigQuery queries. | TypeScript | 148 | Apache License 2.0 | 2018-10-16 | 2024-04-14 |
 | [copper](https://github.com/google/copper) | Copper is a module aimed at providing low-level hardware abstraction layers (HAL) as Python modules. | Python | 15 | Apache License 2.0 | 2018-10-16 | 2024-04-21 |
-| [model-viewer](https://github.com/google/model-viewer) | Easily display interactive 3D models on the web and in AR!  | TypeScript | 6738 | Apache License 2.0 | 2018-10-18 | 2024-07-20 |
+| [model-viewer](https://github.com/google/model-viewer) | Easily display interactive 3D models on the web and in AR!  | TypeScript | 6741 | Apache License 2.0 | 2018-10-18 | 2024-07-21 |
 | [uis-rnn](https://github.com/google/uis-rnn) | This is the library for the Unbounded Interleaved-State Recurrent Neural Network (UIS-RNN) algorithm, corresponding to the paper Fully Supervised Speaker Diarization. | Python | 1545 | Apache License 2.0 | 2018-10-23 | 2024-07-16 |
-| [starlark-go](https://github.com/google/starlark-go) | Starlark in Go: the Starlark configuration language, implemented in Go | Go | 2271 | BSD 3-Clause "New" or "Revised" License | 2018-10-23 | 2024-07-18 |
+| [starlark-go](https://github.com/google/starlark-go) | Starlark in Go: the Starlark configuration language, implemented in Go | Go | 2272 | BSD 3-Clause "New" or "Revised" License | 2018-10-23 | 2024-07-21 |
 | [GiftStick](https://github.com/google/GiftStick) | 1-Click push forensics evidence to the cloud | Python | 136 | Apache License 2.0 | 2018-10-23 | 2024-06-25 |
 | [realestate10k](https://github.com/google/realestate10k) | Code for the RealEstate10K Dataset webpage. | HTML | 5 | Apache License 2.0 | 2018-10-25 | 2024-07-19 |
-| [jax](https://github.com/google/jax) | Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more | Python | 29229 | Apache License 2.0 | 2018-10-25 | 2024-07-20 |
+| [jax](https://github.com/google/jax) | Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more | Python | 29232 | Apache License 2.0 | 2018-10-25 | 2024-07-21 |
 | [neural-logic-machines](https://github.com/google/neural-logic-machines) | Implementation for the Neural Logic Machines (NLM). | Python | 278 | Apache License 2.0 | 2018-10-30 | 2024-07-07 |
 | [renameio](https://github.com/google/renameio) | Package renameio provides a way to atomically create or replace a file or symbolic link. | Go | 605 | Apache License 2.0 | 2018-10-30 | 2024-07-18 |
 | [node-gles](https://github.com/google/node-gles) | None | C++ | 323 | Apache License 2.0 | 2018-10-30 | 2024-07-20 |
@@ -4345,9 +4345,9 @@
 | [tock-on-titan](https://github.com/google/tock-on-titan) | Ports of Tock OS to Titan chips. | Rust | 52 | Apache License 2.0 | 2018-11-19 | 2024-07-01 |
 | [proto-task-queue](https://github.com/google/proto-task-queue) | None | Python | 8 | Apache License 2.0 | 2018-11-19 | 2023-03-29 |
 | [bazel_rules_install](https://github.com/google/bazel_rules_install) | Bazel rules for installing build results. Similar to `make install`. | Starlark | 37 | Apache License 2.0 | 2018-11-26 | 2024-06-20 |
-| [wire](https://github.com/google/wire) | Compile-time Dependency Injection for Go | Go | 12652 | Apache License 2.0 | 2018-11-28 | 2024-07-20 |
+| [wire](https://github.com/google/wire) | Compile-time Dependency Injection for Go | Go | 12654 | Apache License 2.0 | 2018-11-28 | 2024-07-20 |
 | [opuscpp](https://github.com/google/opuscpp) | c++ wrapper around libopus | C++ | 25 | Apache License 2.0 | 2018-11-29 | 2024-05-10 |
-| [schema-dts](https://github.com/google/schema-dts) | JSON-LD TypeScript types for Schema.org vocabulary | TypeScript | 862 | Apache License 2.0 | 2018-11-29 | 2024-07-20 |
+| [schema-dts](https://github.com/google/schema-dts) | JSON-LD TypeScript types for Schema.org vocabulary | TypeScript | 863 | Apache License 2.0 | 2018-11-29 | 2024-07-20 |
 | [magic-github-proxy](https://github.com/google/magic-github-proxy) | An access-limiting stateless GitHub API Proxy | Python | 148 | Apache License 2.0 | 2018-11-29 | 2024-07-08 |
 | [hrx](https://github.com/google/hrx) | HRX (Human-Readable Archive): a plain text archive format | CSS | 36 | Apache License 2.0 | 2018-12-03 | 2024-06-21 |
 | [gvisor-containerd-shim](https://github.com/google/gvisor-containerd-shim) | containerd shim for gVisor | Go | 79 | Apache License 2.0 | 2018-12-04 | 2024-03-12 |
@@ -4382,7 +4382,7 @@
 | [mysql-ripple](https://github.com/google/mysql-ripple) | Ripple, a server that can serve as a middleman in MySQL replication | C++ | 369 | Apache License 2.0 | 2019-01-25 | 2024-03-25 |
 | [knative-gcp](https://github.com/google/knative-gcp) | GCP event implementations to use with Knative Eventing. | Go | 159 | Apache License 2.0 | 2019-01-28 | 2024-05-10 |
 | [go-cabfile](https://github.com/google/go-cabfile) | None | Go | 8 | Apache License 2.0 | 2019-01-28 | 2024-05-06 |
-| [clusterfuzz](https://github.com/google/clusterfuzz) | Scalable fuzzing infrastructure. | Python | 5242 | Apache License 2.0 | 2019-01-29 | 2024-07-19 |
+| [clusterfuzz](https://github.com/google/clusterfuzz) | Scalable fuzzing infrastructure. | Python | 5242 | Apache License 2.0 | 2019-01-29 | 2024-07-20 |
 | [graph_distillation](https://github.com/google/graph_distillation) | Graph Distillation for Action Detection | Python | 66 | Apache License 2.0 | 2019-01-29 | 2024-07-12 |
 | [certificate-maker](https://github.com/google/certificate-maker) | An experimental tool for turning HTML templates into PDF files. | JavaScript | 124 | Apache License 2.0 | 2019-01-30 | 2024-07-18 |
 | [harpia](https://github.com/google/harpia) | Inhouse Kubernetes Cluster | Shell | 14 | Apache License 2.0 | 2019-02-01 | 2023-03-29 |
@@ -4406,7 +4406,7 @@
 | [peoplemath](https://github.com/google/peoplemath) | Web application for team planning | TypeScript | 125 | Apache License 2.0 | 2019-02-22 | 2024-07-04 |
 | [vc-defer](https://github.com/google/vc-defer) | vc-defer makes (some) Emacs VC operations fast(er). | Emacs Lisp | 13 | GNU General Public License v3.0 | 2019-02-23 | 2023-02-27 |
 | [pprof-nodejs](https://github.com/google/pprof-nodejs) | pprof support for Node.js | JavaScript | 251 | Apache License 2.0 | 2019-02-25 | 2024-07-06 |
-| [GSCXScanner](https://github.com/google/GSCXScanner) | iOS Accessibility Scanner | Objective-C | 138 | Apache License 2.0 | 2019-02-27 | 2024-06-27 |
+| [GSCXScanner](https://github.com/google/GSCXScanner) | iOS Accessibility Scanner | Objective-C | 137 | Apache License 2.0 | 2019-02-27 | 2024-07-20 |
 | [vulncode-db](https://github.com/google/vulncode-db) | Vulncode-DB project | Python | 570 | Apache License 2.0 | 2019-03-05 | 2024-07-16 |
 | [gov-meetings-made-searchable](https://github.com/google/gov-meetings-made-searchable) | Make the contents of public meetings searchable and discoverable. | Python | 28 | Apache License 2.0 | 2019-03-06 | 2024-04-16 |
 | [sandboxed-api](https://github.com/google/sandboxed-api) | Generate sandboxes for C/C++ libraries automatically | C++ | 1651 | Apache License 2.0 | 2019-03-07 | 2024-07-13 |
@@ -4419,7 +4419,7 @@
 | [dart-neats](https://github.com/google/dart-neats) | neat dart packages. | Dart | 450 | Apache License 2.0 | 2019-03-22 | 2024-07-11 |
 | [crfs](https://github.com/google/crfs) | CRFS: Container Registry Filesystem | Go | 1355 | BSD 3-Clause "New" or "Revised" License | 2019-03-22 | 2024-07-17 |
 | [fidi](https://github.com/google/fidi) | None | C++ | 9 | Apache License 2.0 | 2019-03-26 | 2023-12-22 |
-| [go-attestation](https://github.com/google/go-attestation) | None | Go | 340 | Apache License 2.0 | 2019-03-28 | 2024-07-08 |
+| [go-attestation](https://github.com/google/go-attestation) | None | Go | 341 | Apache License 2.0 | 2019-03-28 | 2024-07-20 |
 | [codewords](https://github.com/google/codewords) | None | TypeScript | 10 | Apache License 2.0 | 2019-03-29 | 2023-11-17 |
 | [gvisor-website](https://github.com/google/gvisor-website) | The gVisor project website. | HTML | 17 | Apache License 2.0 | 2019-03-30 | 2023-03-29 |
 | [php-crc32](https://github.com/google/php-crc32) | PHP CRC32 implementations (support all crc32 polynomials, and hardware acceleration) | PHP | 184 | Apache License 2.0 | 2019-04-02 | 2024-04-03 |
@@ -4436,7 +4436,7 @@
 | [usbmon](https://github.com/google/usbmon) | List and monitor USB devices connected to Linux host. Also as Collectd plugin. | C | 48 | Apache License 2.0 | 2019-04-15 | 2024-07-08 |
 | [licensecheck](https://github.com/google/licensecheck) | The licensecheck package classifies license files and heuristically determines how well they correspond to known open source licenses. | Go | 446 | BSD 3-Clause "New" or "Revised" License | 2019-04-15 | 2024-07-12 |
 | [zetasql](https://github.com/google/zetasql) | ZetaSQL - Analyzer Framework for SQL | C++ | 2165 | Apache License 2.0 | 2019-04-16 | 2024-07-19 |
-| [fuzzing](https://github.com/google/fuzzing) | Tutorials, examples, discussions, research proposals, and other resources related to fuzzing | C++ | 3400 | Apache License 2.0 | 2019-04-16 | 2024-07-19 |
+| [fuzzing](https://github.com/google/fuzzing) | Tutorials, examples, discussions, research proposals, and other resources related to fuzzing | C++ | 3402 | Apache License 2.0 | 2019-04-16 | 2024-07-21 |
 | [grassland](https://github.com/google/grassland) | Node middleware that exposes a Git to a CDN | TypeScript | 8 | Apache License 2.0 | 2019-04-16 | 2023-03-29 |
 | [TensorNetwork](https://github.com/google/TensorNetwork) | A library for easy and efficient manipulation of tensor networks. | Python | 1789 | Apache License 2.0 | 2019-04-25 | 2024-07-16 |
 | [pjflate](https://github.com/google/pjflate) | None | Java | 5 | Apache License 2.0 | 2019-04-27 | 2024-01-13 |
@@ -4462,7 +4462,7 @@
 | [dart_cli_pkg](https://github.com/google/dart_cli_pkg) | A set of Grinder tasks that make it easy to release a Dart command-line application | Dart | 58 | Apache License 2.0 | 2019-06-03 | 2024-07-10 |
 | [go-replayers](https://github.com/google/go-replayers) | None | Go | 404 | Apache License 2.0 | 2019-06-05 | 2024-07-19 |
 | [site-kit-wp](https://github.com/google/site-kit-wp) | Site Kit is a one-stop solution for WordPress users to use everything Google has to offer to make them successful on the web. | JavaScript | 1218 | Apache License 2.0 | 2019-06-11 | 2024-07-19 |
-| [robotstxt](https://github.com/google/robotstxt) | The repository contains Google's robots.txt parser and matcher as a C++ library (compliant to C++11). | C++ | 3374 | Apache License 2.0 | 2019-06-11 | 2024-07-19 |
+| [robotstxt](https://github.com/google/robotstxt) | The repository contains Google's robots.txt parser and matcher as a C++ library (compliant to C++11). | C++ | 3373 | Apache License 2.0 | 2019-06-11 | 2024-07-20 |
 | [go-metrics-stackdriver](https://github.com/google/go-metrics-stackdriver) | This library provides a stackdriver sink for applications instrumented with the go-metrics library | Go | 31 | Apache License 2.0 | 2019-06-12 | 2024-03-26 |
 | [distributed-git-forks](https://github.com/google/distributed-git-forks) | Distributed management of git forks | Shell | 21 | Apache License 2.0 | 2019-06-13 | 2023-07-23 |
 | [inject-common](https://github.com/google/inject-common) | Utilities for implementers and consumers of the javax.inject APIs. | Java | 10 | Apache License 2.0 | 2019-06-18 | 2024-06-21 |
@@ -4489,7 +4489,7 @@
 | [bulkan](https://github.com/google/bulkan) | None | TypeScript | 6 | Other | 2019-07-18 | 2023-03-29 |
 | [usd_from_gltf](https://github.com/google/usd_from_gltf) | None | C++ | 544 | Apache License 2.0 | 2019-07-19 | 2024-06-18 |
 | [tweakr](https://github.com/google/tweakr) | A Library for Remote Debugging, Autogenerating Settings/Preference UIs, and Wizard-of-Ozing | JavaScript | 21 | Apache License 2.0 | 2019-07-23 | 2024-07-03 |
-| [tf-quant-finance](https://github.com/google/tf-quant-finance) | High-performance TensorFlow library for quantitative finance. | Python | 4381 | Apache License 2.0 | 2019-07-24 | 2024-07-19 |
+| [tf-quant-finance](https://github.com/google/tf-quant-finance) | High-performance TensorFlow library for quantitative finance. | Python | 4382 | Apache License 2.0 | 2019-07-24 | 2024-07-20 |
 | [schedviz](https://github.com/google/schedviz) | A tool for gathering and visualizing kernel scheduling traces on Linux machines | Go | 515 | Apache License 2.0 | 2019-07-24 | 2024-06-27 |
 | [jse4conf](https://github.com/google/jse4conf) | None | Java | 5 | Apache License 2.0 | 2019-07-24 | 2023-03-29 |
 | [AFL](https://github.com/google/AFL) | american fuzzy lop - a security-oriented fuzzer | C | 3517 | Apache License 2.0 | 2019-07-25 | 2024-07-18 |
@@ -4502,18 +4502,18 @@
 | [gocw](https://github.com/google/gocw) | go library for ChipWhisperer hardware security platform | Go | 18 | Apache License 2.0 | 2019-07-31 | 2023-08-18 |
 | [emboss](https://github.com/google/emboss) | Emboss is a tool for generating code that reads and writes binary data structures. | Python | 67 | Apache License 2.0 | 2019-08-01 | 2024-07-19 |
 | [blockly-samples](https://github.com/google/blockly-samples) | Plugins, codelabs, and examples related to the Blockly library. | JavaScript | 815 | Apache License 2.0 | 2019-08-01 | 2024-07-19 |
-| [earthengine-community](https://github.com/google/earthengine-community) | Tutorials and content created by Earth Engine users, for Earth Engine users | Jupyter Notebook | 546 | Apache License 2.0 | 2019-08-05 | 2024-07-19 |
+| [earthengine-community](https://github.com/google/earthengine-community) | Tutorials and content created by Earth Engine users, for Earth Engine users | Jupyter Notebook | 547 | Apache License 2.0 | 2019-08-05 | 2024-07-20 |
 | [ml-fairness-gym](https://github.com/google/ml-fairness-gym) | None | Python | 311 | Apache License 2.0 | 2019-08-06 | 2024-07-05 |
 | [qkeras](https://github.com/google/qkeras) | QKeras: a quantization deep learning library for Tensorflow Keras | Python | 526 | Apache License 2.0 | 2019-08-06 | 2024-07-13 |
 | [fusion-tables-archive-visualizer](https://github.com/google/fusion-tables-archive-visualizer) | None | TypeScript | 32 | Apache License 2.0 | 2019-08-07 | 2023-03-29 |
 | [fusion-tables-drive-export](https://github.com/google/fusion-tables-drive-export) | None | TypeScript | 6 | Apache License 2.0 | 2019-08-07 | 2023-03-29 |
-| [edward2](https://github.com/google/edward2) | A simple probabilistic programming language. | Jupyter Notebook | 668 | Apache License 2.0 | 2019-08-07 | 2024-07-18 |
+| [edward2](https://github.com/google/edward2) | A simple probabilistic programming language. | Jupyter Notebook | 669 | Apache License 2.0 | 2019-08-07 | 2024-07-20 |
 | [intellij-protocol-buffer-editor](https://github.com/google/intellij-protocol-buffer-editor) | Protocol Buffers support for IntelliJ | Java | 21 | Apache License 2.0 | 2019-08-08 | 2023-05-05 |
 | [live-transcribe-speech-engine](https://github.com/google/live-transcribe-speech-engine) | Live Transcribe is an Android application that provides real-time captioning for people who are deaf or hard of hearing. This repository contains the Android client libraries for communicating with Google's Cloud Speech API that are used in Live Transcribe. | Java | 1414 | Apache License 2.0 | 2019-08-08 | 2024-07-18 |
 | [grpc-kapt](https://github.com/google/grpc-kapt) | Annotation driven gRPC clients & servers in Kotlin | Kotlin | 27 | Apache License 2.0 | 2019-08-08 | 2023-08-21 |
 | [lintush](https://github.com/google/lintush) | Interactive CLI for conventional commit messages 🦄 | JavaScript | 58 | Apache License 2.0 | 2019-08-13 | 2024-03-21 |
 | [wikiloop-explorer](https://github.com/google/wikiloop-explorer) | None | Vue | 8 | Apache License 2.0 | 2019-08-14 | 2024-03-12 |
-| [android-emulator-container-scripts](https://github.com/google/android-emulator-container-scripts) | None | Python | 1828 | - | 2019-08-14 | 2024-07-19 |
+| [android-emulator-container-scripts](https://github.com/google/android-emulator-container-scripts) | None | Python | 1829 | - | 2019-08-14 | 2024-07-20 |
 | [sredocs](https://github.com/google/sredocs) | None | Go | 45 | Apache License 2.0 | 2019-08-14 | 2023-07-29 |
 | [libsxg](https://github.com/google/libsxg) | Signed HTTP Exchange library | C | 54 | Apache License 2.0 | 2019-08-15 | 2024-02-22 |
 | [cpix_cc](https://github.com/google/cpix_cc) | A C++ implementation of CPIX specification for the exchange of encryption keys and DRM information. | C++ | 15 | Apache License 2.0 | 2019-08-16 | 2024-01-02 |
@@ -4524,7 +4524,7 @@
 | [creative-screenshots](https://github.com/google/creative-screenshots) | None | TypeScript | 16 | Apache License 2.0 | 2019-08-21 | 2024-04-16 |
 | [boundedwait](https://github.com/google/boundedwait) | None | Go | 6 | Apache License 2.0 | 2019-08-21 | 2023-03-29 |
 | [rust-async-coap](https://github.com/google/rust-async-coap) | A flexible, asynchronous library for using and serving CoAP resources in Rust. | Rust | 49 | Apache License 2.0 | 2019-08-21 | 2024-05-13 |
-| [tcmalloc](https://github.com/google/tcmalloc) | None | C++ | 4231 | Apache License 2.0 | 2019-08-23 | 2024-07-19 |
+| [tcmalloc](https://github.com/google/tcmalloc) | None | C++ | 4232 | Apache License 2.0 | 2019-08-23 | 2024-07-21 |
 | [night-sight](https://github.com/google/night-sight) | This is a github to host the webpage for: Handheld Mobile Photography in Very Low Light | None | 80 | Apache License 2.0 | 2019-08-23 | 2024-06-13 |
 | [tcli](https://github.com/google/tcli) | None | Python | 8 | Apache License 2.0 | 2019-08-26 | 2024-07-01 |
 | [webpackager](https://github.com/google/webpackager) | None | Go | 70 | Apache License 2.0 | 2019-08-26 | 2024-02-22 |
@@ -4537,16 +4537,16 @@
 | [fleetspeak-doc](https://github.com/google/fleetspeak-doc) | None | None | 3 | Apache License 2.0 | 2019-09-02 | 2023-03-29 |
 | [minetest_pnr](https://github.com/google/minetest_pnr) | Place & Router for Minetest | Rust | 17 | Apache License 2.0 | 2019-09-03 | 2023-11-14 |
 | [go-cmdtest](https://github.com/google/go-cmdtest) | This package simplifies testing of command-line interfaces. | Go | 166 | Apache License 2.0 | 2019-09-03 | 2024-06-30 |
-| [marl](https://github.com/google/marl) | A hybrid thread / fiber task scheduler written in C++ 11 | C++ | 1818 | Apache License 2.0 | 2019-09-03 | 2024-07-18 |
+| [marl](https://github.com/google/marl) | A hybrid thread / fiber task scheduler written in C++ 11 | C++ | 1817 | Apache License 2.0 | 2019-09-03 | 2024-07-20 |
 | [differential-privacy](https://github.com/google/differential-privacy) | Google's differential privacy libraries. | Go | 3002 | Apache License 2.0 | 2019-09-04 | 2024-07-19 |
-| [eng-practices](https://github.com/google/eng-practices) | Google's Engineering Practices documentation | None | 19866 | Other | 2019-09-04 | 2024-07-19 |
+| [eng-practices](https://github.com/google/eng-practices) | Google's Engineering Practices documentation | None | 19866 | Other | 2019-09-04 | 2024-07-21 |
 | [flutter_minimal_store](https://github.com/google/flutter_minimal_store) | None | Dart | 24 | Apache License 2.0 | 2019-09-05 | 2023-10-08 |
-| [highway](https://github.com/google/highway) | Performance-portable, length-agnostic SIMD with runtime dispatch | C++ | 3999 | Apache License 2.0 | 2019-09-06 | 2024-07-18 |
+| [highway](https://github.com/google/highway) | Performance-portable, length-agnostic SIMD with runtime dispatch | C++ | 4002 | Apache License 2.0 | 2019-09-06 | 2024-07-21 |
 | [llvm-propeller](https://github.com/google/llvm-propeller) | PROPELLER: Profile Guided Optimizing Large Scale LLVM-based Relinker | Shell | 336 | Apache License 2.0 | 2019-09-09 | 2024-07-17 |
 | [oculi](https://github.com/google/oculi) | A Google Cloud-based pipeline for tagging image and video ads based on their content, enabling advanced creative analysis. | Jupyter Notebook | 55 | Apache License 2.0 | 2019-09-09 | 2024-06-06 |
 | [scaaml](https://github.com/google/scaaml) | None | Python | 110 | Apache License 2.0 | 2019-09-09 | 2024-07-15 |
 | [poseshield-tfjs](https://github.com/google/poseshield-tfjs) | None | Vue | 14 | Apache License 2.0 | 2019-09-09 | 2024-02-21 |
-| [XNNPACK](https://github.com/google/XNNPACK) | High-efficiency floating-point neural network inference operators for mobile, server, and Web | C | 1771 | Other | 2019-09-13 | 2024-07-19 |
+| [XNNPACK](https://github.com/google/XNNPACK) | High-efficiency floating-point neural network inference operators for mobile, server, and Web | C | 1772 | Other | 2019-09-13 | 2024-07-21 |
 | [jsinterop-annotations](https://github.com/google/jsinterop-annotations) | JsInterop java annotations for J2CL and GWT | Java | 16 | Apache License 2.0 | 2019-09-18 | 2024-06-25 |
 | [walk](https://github.com/google/walk) | Plan 9 style utilities to replace find(1) | C | 71 | Apache License 2.0 | 2019-09-19 | 2024-07-02 |
 | [transperf](https://github.com/google/transperf) | a tool for testing transport protocol performance over emulated network scenarios | Python | 199 | Apache License 2.0 | 2019-09-19 | 2024-06-30 |
@@ -4582,7 +4582,7 @@
 | [jarvan](https://github.com/google/jarvan) | None | Python | 3 | Apache License 2.0 | 2019-11-07 | 2023-03-29 |
 | [sa360-bigquery-bootstrapper](https://github.com/google/sa360-bigquery-bootstrapper) | None | Python | 6 | Apache License 2.0 | 2019-11-08 | 2024-04-16 |
 | [cppdap](https://github.com/google/cppdap) | C++ library for the Debug Adapter Protocol | C++ | 145 | Apache License 2.0 | 2019-11-08 | 2024-07-18 |
-| [android-emulator-hypervisor-driver](https://github.com/google/android-emulator-hypervisor-driver) | None | C | 763 | Other | 2019-11-11 | 2024-07-18 |
+| [android-emulator-hypervisor-driver](https://github.com/google/android-emulator-hypervisor-driver) | None | C | 764 | Other | 2019-11-11 | 2024-07-20 |
 | [go-licenses](https://github.com/google/go-licenses) | A lightweight tool to report on the licenses used by a Go package and its dependencies. Highlight! Versioned external URL to licenses can be found at the same time. | Go | 799 | Apache License 2.0 | 2019-11-12 | 2024-07-20 |
 | [adcase](https://github.com/google/adcase) | None | Python | 5 | Apache License 2.0 | 2019-11-13 | 2023-03-29 |
 | [rust_icu](https://github.com/google/rust_icu) | rust_icu: rust bindings for ICU (International Components for Unicode) library | Rust | 112 | Apache License 2.0 | 2019-11-14 | 2024-07-07 |
@@ -4600,7 +4600,7 @@
 | [memcpy-gemm](https://github.com/google/memcpy-gemm) | None | C++ | 15 | Apache License 2.0 | 2019-12-05 | 2023-10-19 |
 | [visqol](https://github.com/google/visqol) | Perceptual Quality Estimator for speech and audio | C++ | 647 | Apache License 2.0 | 2019-12-06 | 2024-07-19 |
 | [multi-task-architecture-search](https://github.com/google/multi-task-architecture-search) | None | Python | 11 | Apache License 2.0 | 2019-12-09 | 2023-06-25 |
-| [perfetto](https://github.com/google/perfetto) | Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of https://android.googlesource.com/platform/external/perfetto/) | C++ | 2634 | Apache License 2.0 | 2019-12-10 | 2024-07-20 |
+| [perfetto](https://github.com/google/perfetto) | Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of https://android.googlesource.com/platform/external/perfetto/) | C++ | 2636 | Apache License 2.0 | 2019-12-10 | 2024-07-21 |
 | [eidos-audition](https://github.com/google/eidos-audition) | Collection of auditory models. | C++ | 30 | GNU General Public License v3.0 | 2019-12-12 | 2024-04-11 |
 | [gpu-runtime](https://github.com/google/gpu-runtime) | None | C++ | 14 | Apache License 2.0 | 2019-12-17 | 2023-09-19 |
 | [OpenSK](https://github.com/google/OpenSK) | OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards. | Rust | 2944 | Apache License 2.0 | 2019-12-17 | 2024-07-18 |
@@ -4616,7 +4616,7 @@
 | [hrepl](https://github.com/google/hrepl) | Interactive development for Bazel/Haskell rules | Haskell | 47 | Apache License 2.0 | 2020-01-06 | 2024-02-13 |
 | [git-rebaser](https://github.com/google/git-rebaser) | None | Python | 12 | Apache License 2.0 | 2020-01-07 | 2023-03-29 |
 | [j2cl-protobuf](https://github.com/google/j2cl-protobuf) | Protocol Buffers implementation for J2CL | JavaScript | 24 | Apache License 2.0 | 2020-01-09 | 2023-10-07 |
-| [flax](https://github.com/google/flax) | Flax is a neural network library for JAX that is designed for flexibility. | Python | 5823 | Apache License 2.0 | 2020-01-10 | 2024-07-19 |
+| [flax](https://github.com/google/flax) | Flax is a neural network library for JAX that is designed for flexibility. | Python | 5826 | Apache License 2.0 | 2020-01-10 | 2024-07-21 |
 | [applied-computing-series](https://github.com/google/applied-computing-series) | None | Python | 12 | Apache License 2.0 | 2020-01-13 | 2023-03-29 |
 | [allied-oscillators](https://github.com/google/allied-oscillators) | None | JavaScript | 7 | Apache License 2.0 | 2020-01-16 | 2023-03-29 |
 | [localized-narratives](https://github.com/google/localized-narratives) | Localized Narratives | HTML | 78 | Apache License 2.0 | 2020-01-23 | 2024-07-04 |
@@ -4630,7 +4630,7 @@
 | [argh](https://github.com/google/argh) | Rust derive-based argument parsing optimized for code size | Rust | 1607 | BSD 3-Clause "New" or "Revised" License | 2020-01-30 | 2024-07-17 |
 | [pwlfit](https://github.com/google/pwlfit) | None | Jupyter Notebook | 31 | Apache License 2.0 | 2020-01-31 | 2024-02-23 |
 | [sqlcommenter](https://github.com/google/sqlcommenter) | None | PHP | 585 | Apache License 2.0 | 2020-01-31 | 2024-07-18 |
-| [fuzzbench](https://github.com/google/fuzzbench) | FuzzBench - Fuzzer benchmarking as a service. | Python | 1074 | Apache License 2.0 | 2020-02-04 | 2024-07-19 |
+| [fuzzbench](https://github.com/google/fuzzbench) | FuzzBench - Fuzzer benchmarking as a service. | Python | 1075 | Apache License 2.0 | 2020-02-04 | 2024-07-21 |
 | [cloud-forensics-utils](https://github.com/google/cloud-forensics-utils) | Python library to carry out DFIR analysis on the Cloud | Python | 453 | Apache License 2.0 | 2020-02-04 | 2024-07-15 |
 | [cel-policy-templates-go](https://github.com/google/cel-policy-templates-go) | Fast, templated, policy evaluation for networking, access, and admission control | Go | 69 | Apache License 2.0 | 2020-02-04 | 2024-07-12 |
 | [dv360-api](https://github.com/google/dv360-api) | None | JavaScript | 34 | Apache License 2.0 | 2020-02-10 | 2023-07-31 |
@@ -4639,7 +4639,7 @@
 | [iot-environment-sensors](https://github.com/google/iot-environment-sensors) | None | C++ | 12 | Apache License 2.0 | 2020-02-19 | 2024-03-29 |
 | [NeuroNER-CSPMC](https://github.com/google/NeuroNER-CSPMC) | None | Python | 10 | MIT License | 2020-02-20 | 2023-06-16 |
 | [guava-js-umd](https://github.com/google/guava-js-umd) | Fork of guava-js that wraps it as a UMD module | JavaScript | 4 | Apache License 2.0 | 2020-02-21 | 2024-06-02 |
-| [kctf](https://github.com/google/kctf) | kCTF is a Kubernetes-based infrastructure for CTF competitions. For documentation, see | Go | 649 | Apache License 2.0 | 2020-02-24 | 2024-07-16 |
+| [kctf](https://github.com/google/kctf) | kCTF is a Kubernetes-based infrastructure for CTF competitions. For documentation, see | Go | 650 | Apache License 2.0 | 2020-02-24 | 2024-07-21 |
 | [spindle-dv360](https://github.com/google/spindle-dv360) | QA dashboard for DV360 advertisers | Python | 12 | Apache License 2.0 | 2020-02-24 | 2023-04-12 |
 | [dart-basics](https://github.com/google/dart-basics) | A Dart library containing convenient extension methods on basic Dart objects. | Dart | 161 | BSD 3-Clause "New" or "Revised" License | 2020-02-24 | 2024-07-17 |
 | [gae-secure-scaffold-python3](https://github.com/google/gae-secure-scaffold-python3) | Secure scaffold for Google App Engine static and dynamic Python websites | Python | 31 | Apache License 2.0 | 2020-02-25 | 2024-05-14 |
@@ -4658,7 +4658,7 @@
 | [certificate-transparency-community-site](https://github.com/google/certificate-transparency-community-site) | Certificate Transparency Community Website | HTML | 100 | Apache License 2.0 | 2020-03-16 | 2024-07-11 |
 | [emoticon-composer-font](https://github.com/google/emoticon-composer-font) | Composable emoticons | HTML | 9 | Apache License 2.0 | 2020-03-16 | 2024-06-27 |
 | [android-fhir](https://github.com/google/android-fhir) | The Android FHIR SDK is a set of Kotlin libraries for building offline-capable, mobile-first healthcare applications using the HL7® FHIR® standard on Android. | Kotlin | 471 | Apache License 2.0 | 2020-03-17 | 2024-07-19 |
-| [play-unity-plugins](https://github.com/google/play-unity-plugins) | The Google Play Plugins for Unity provide C# APIs for accessing various Play services | C# | 425 | Other | 2020-03-18 | 2024-07-19 |
+| [play-unity-plugins](https://github.com/google/play-unity-plugins) | The Google Play Plugins for Unity provide C# APIs for accessing various Play services | C# | 426 | Other | 2020-03-18 | 2024-07-20 |
 | [fleetspeak-rs](https://github.com/google/fleetspeak-rs) | A Fleetspeak connector library for the Rust programming language. | Rust | 7 | MIT License | 2020-03-18 | 2024-04-23 |
 | [mysteryofthreebots](https://github.com/google/mysteryofthreebots) | None | TypeScript | 41 | Apache License 2.0 | 2020-03-26 | 2024-06-25 |
 | [dfdewey](https://github.com/google/dfdewey) | None | Python | 19 | Apache License 2.0 | 2020-03-29 | 2024-03-13 |
@@ -4675,7 +4675,7 @@
 | [tock](https://github.com/google/tock) | A secure embedded operating system for microcontrollers | Rust | 9 | Other | 2020-04-22 | 2024-01-26 |
 | [json5format](https://github.com/google/json5format) | JSON5 (a.k.a., "JSON for Humans") formatter that preserves contextual comments | Rust | 92 | BSD 3-Clause "New" or "Revised" License | 2020-04-22 | 2024-07-16 |
 | [covid19-face-shield](https://github.com/google/covid19-face-shield) | A design for a Face Shield that is intended for medical use to address short-term medical supply shortages as a result of the COVID-19 public health emergency. | None | 9 | Apache License 2.0 | 2020-04-23 | 2023-03-29 |
-| [nearby](https://github.com/google/nearby) | 🐿️ A collection of projects focused on connectivity that enable building cross-device experiences. | C++ | 696 | Apache License 2.0 | 2020-04-23 | 2024-07-19 |
+| [nearby](https://github.com/google/nearby) | 🐿️ A collection of projects focused on connectivity that enable building cross-device experiences. | C++ | 699 | Apache License 2.0 | 2020-04-23 | 2024-07-21 |
 | [slowjam](https://github.com/google/slowjam) | SlowJam: latency profiler for Go programs | HTML | 232 | Apache License 2.0 | 2020-04-23 | 2024-07-08 |
 | [kilt](https://github.com/google/kilt) | An experimental patchset management tool. | Go | 11 | Apache License 2.0 | 2020-04-23 | 2024-01-14 |
 | [goblet](https://github.com/google/goblet) | Git caching proxy | Go | 149 | Apache License 2.0 | 2020-04-24 | 2024-07-13 |
@@ -4691,10 +4691,10 @@
 | [segy-stack](https://github.com/google/segy-stack) | A library with C++ and Python API to read 3D Post-stack seismic data in SEG-Y format. | C++ | 20 | Apache License 2.0 | 2020-04-30 | 2023-04-06 |
 | [exposure-notifications-android](https://github.com/google/exposure-notifications-android) | Exposure Notifications Android Reference Design | Java | 529 | Apache License 2.0 | 2020-05-04 | 2024-06-28 |
 | [simhospital](https://github.com/google/simhospital) | None | Go | 658 | Apache License 2.0 | 2020-05-05 | 2024-07-15 |
-| [accompanist](https://github.com/google/accompanist) | A collection of extension libraries for Jetpack Compose | Kotlin | 7324 | Apache License 2.0 | 2020-05-05 | 2024-07-19 |
-| [skywater-pdk](https://github.com/google/skywater-pdk) | Open source process design kit for usage with SkyWater Technology Foundry's 130nm node. | Python | 2911 | Apache License 2.0 | 2020-05-06 | 2024-07-19 |
+| [accompanist](https://github.com/google/accompanist) | A collection of extension libraries for Jetpack Compose | Kotlin | 7326 | Apache License 2.0 | 2020-05-05 | 2024-07-20 |
+| [skywater-pdk](https://github.com/google/skywater-pdk) | Open source process design kit for usage with SkyWater Technology Foundry's 130nm node. | Python | 2912 | Apache License 2.0 | 2020-05-06 | 2024-07-20 |
 | [CTAP2-test-tool](https://github.com/google/CTAP2-test-tool) | Test tool for CTAP2 authenticators | C++ | 57 | Apache License 2.0 | 2020-05-07 | 2024-05-20 |
-| [xls](https://github.com/google/xls) | XLS: Accelerated HW Synthesis | C++ | 1158 | Apache License 2.0 | 2020-05-07 | 2024-07-20 |
+| [xls](https://github.com/google/xls) | XLS: Accelerated HW Synthesis | C++ | 1157 | Apache License 2.0 | 2020-05-07 | 2024-07-20 |
 | [StrawNet](https://github.com/google/StrawNet) | Audio samples accompanying StrawNet publication | HTML | 3 | Apache License 2.0 | 2020-05-08 | 2023-03-29 |
 | [swift-benchmark](https://github.com/google/swift-benchmark) | A swift library to benchmark code snippets. | Swift | 919 | Apache License 2.0 | 2020-05-08 | 2024-07-04 |
 | [HardwarePrototypingToolkit](https://github.com/google/HardwarePrototypingToolkit) | None | None | 3 | Apache License 2.0 | 2020-05-08 | 2024-04-21 |
@@ -4703,7 +4703,7 @@
 | [resultstoreui](https://github.com/google/resultstoreui) | None | Python | 10 | Apache License 2.0 | 2020-05-13 | 2024-01-14 |
 | [ui-exp-dg](https://github.com/google/ui-exp-dg) | Dumping ground for some experiments with UI technologies, Swift, Kotlin, Dart, iOS, Web, etc | Dart | 14 | BSD 3-Clause "New" or "Revised" License | 2020-05-14 | 2023-12-30 |
 | [makani](https://github.com/google/makani) | Makani was a project to develop a commercial-scale airborne wind turbine, culminating in a flight test of the Makani M600 off the coast of Norway. All Makani software has now been open-sourced. This repository contains the working Makani flight simulator, controller (autopilot), visualizer, and command center flight monitoring tools. Additionally, almost all avionics firmware is also included, albeit potentially not in a buildable state, due to the removal of some third-party proprietary code. We hope that this code will be inspirational and useful to the kite-based windpower and wider communities. | C++ | 1177 | Apache License 2.0 | 2020-05-18 | 2024-07-13 |
-| [go-safeweb](https://github.com/google/go-safeweb) | Secure-by-default HTTP servers in Go. | Go | 655 | Apache License 2.0 | 2020-05-19 | 2024-07-12 |
+| [go-safeweb](https://github.com/google/go-safeweb) | Secure-by-default HTTP servers in Go. | Go | 656 | Apache License 2.0 | 2020-05-19 | 2024-07-21 |
 | [portrait-shadow-manipulation](https://github.com/google/portrait-shadow-manipulation) | None | Jupyter Notebook | 292 | Apache License 2.0 | 2020-05-19 | 2024-06-21 |
 | [shopping-markup](https://github.com/google/shopping-markup) | Data driven insights for retailers. | Python | 45 | Apache License 2.0 | 2020-05-20 | 2024-06-28 |
 | [sky-optimization](https://github.com/google/sky-optimization) | Repository and website for Sky Optimization: Semantically aware image processing of skies in low-light photography | None | 52 | Apache License 2.0 | 2020-05-21 | 2024-05-07 |
@@ -4732,7 +4732,7 @@
 | [bms-toolkit](https://github.com/google/bms-toolkit) | Toolkit for installing and creating an initial database on Bare Metal Solution | Shell | 56 | Apache License 2.0 | 2020-06-11 | 2024-07-19 |
 | [wikiloop-analysis](https://github.com/google/wikiloop-analysis) | None | Python | 3 | Apache License 2.0 | 2020-06-11 | 2022-12-29 |
 | [making_with_ml](https://github.com/google/making_with_ml) | None | Jupyter Notebook | 339 | Apache License 2.0 | 2020-06-14 | 2024-07-17 |
-| [security-research](https://github.com/google/security-research) | This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code. | C | 3176 | Apache License 2.0 | 2020-06-15 | 2024-07-20 |
+| [security-research](https://github.com/google/security-research) | This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code. | C | 3177 | Apache License 2.0 | 2020-06-15 | 2024-07-20 |
 | [ldif](https://github.com/google/ldif) | 3D Shape Representation with Local Deep Implicit Functions. | Python | 311 | Apache License 2.0 | 2020-06-15 | 2024-07-15 |
 | [dv360-automation](https://github.com/google/dv360-automation) | Example code snippets for automating workflow with the Display & Video 360 API | Jupyter Notebook | 15 | Apache License 2.0 | 2020-06-16 | 2024-06-12 |
 | [where-is-my-watch](https://github.com/google/where-is-my-watch) | None | None | 1 | - | 2020-06-16 | 2023-01-27 |
@@ -4753,7 +4753,7 @@
 | [causal-panel-synthetic-data](https://github.com/google/causal-panel-synthetic-data) | None | R | 9 | Apache License 2.0 | 2020-06-24 | 2023-08-19 |
 | [cloud-network-reachabilty](https://github.com/google/cloud-network-reachabilty) | None | None | 2 | - | 2020-06-25 | 2023-08-19 |
 | [cloud-network-reachability](https://github.com/google/cloud-network-reachability) | None | None | 4 | Apache License 2.0 | 2020-06-25 | 2023-03-29 |
-| [safehtml](https://github.com/google/safehtml) | Safe HTML for Go | Go | 347 | BSD 3-Clause "New" or "Revised" License | 2020-06-29 | 2024-07-19 |
+| [safehtml](https://github.com/google/safehtml) | Safe HTML for Go | Go | 348 | BSD 3-Clause "New" or "Revised" License | 2020-06-29 | 2024-07-20 |
 | [xtoproto](https://github.com/google/xtoproto) | Automatically generate a Protocol Buffer definition and csv-to-proto converter from an example CSV file. See website for interactive playground | Go | 55 | Apache License 2.0 | 2020-06-29 | 2024-07-18 |
 | [madi](https://github.com/google/madi) | None | Python | 73 | Apache License 2.0 | 2020-06-30 | 2024-06-01 |
 | [lasso](https://github.com/google/lasso) | A simple service for running hundreds of lighthouse tests in parallel via Google Cloud Tasks and Cloud Run. Includes options for blocking specific requests e.g. 3rd party tags. | JavaScript | 26 | Apache License 2.0 | 2020-07-01 | 2024-06-12 |
@@ -4779,7 +4779,7 @@
 | [llvm-bazel](https://github.com/google/llvm-bazel) | None | Starlark | 169 | Apache License 2.0 | 2020-07-23 | 2024-07-08 |
 | [peg-typed](https://github.com/google/peg-typed) | None | Kotlin | 4 | Apache License 2.0 | 2020-07-23 | 2023-12-19 |
 | [tensorflow-recorder](https://github.com/google/tensorflow-recorder) | TFRecorder makes it easy to create TensorFlow records (TFRecords) from Pandas DataFrames and CSVs files containing images or structured data. | Python | 181 | Apache License 2.0 | 2020-07-24 | 2024-07-15 |
-| [latexify_py](https://github.com/google/latexify_py) | A library to generate LaTeX expression from Python code. | Python | 7105 | Apache License 2.0 | 2020-07-25 | 2024-07-18 |
+| [latexify_py](https://github.com/google/latexify_py) | A library to generate LaTeX expression from Python code. | Python | 7107 | Apache License 2.0 | 2020-07-25 | 2024-07-20 |
 | [process_runner](https://github.com/google/process_runner) | None | Dart | 20 | BSD 3-Clause "New" or "Revised" License | 2020-07-29 | 2024-07-12 |
 | [knowledge-base-gmail-addon](https://github.com/google/knowledge-base-gmail-addon) | None | JavaScript | 5 | Apache License 2.0 | 2020-07-29 | 2023-03-29 |
 | [dv-3po](https://github.com/google/dv-3po) | None | JavaScript | 4 | Apache License 2.0 | 2020-07-31 | 2023-08-19 |
@@ -4815,7 +4815,7 @@
 | [article-recommender](https://github.com/google/article-recommender) | None | Python | 9 | Apache License 2.0 | 2020-09-09 | 2023-03-29 |
 | [gke-auditor](https://github.com/google/gke-auditor) | None | Java | 73 | Apache License 2.0 | 2020-09-10 | 2024-02-17 |
 | [formal-ml](https://github.com/google/formal-ml) | None | Lean | 22 | Apache License 2.0 | 2020-09-10 | 2024-03-11 |
-| [CommonLoopUtils](https://github.com/google/CommonLoopUtils) | CLU lets you write beautiful training loops in JAX. | Jupyter Notebook | 307 | Apache License 2.0 | 2020-09-11 | 2024-07-19 |
+| [CommonLoopUtils](https://github.com/google/CommonLoopUtils) | CLU lets you write beautiful training loops in JAX. | Jupyter Notebook | 308 | Apache License 2.0 | 2020-09-11 | 2024-07-20 |
 | [ga360-bqml-toolkit](https://github.com/google/ga360-bqml-toolkit) | None | Jupyter Notebook | 7 | Apache License 2.0 | 2020-09-11 | 2023-04-20 |
 | [file-based-test-driver](https://github.com/google/file-based-test-driver) | None | C++ | 12 | Apache License 2.0 | 2020-09-11 | 2024-05-08 |
 | [sample-sql-translator](https://github.com/google/sample-sql-translator) | None | Python | 46 | Apache License 2.0 | 2020-09-13 | 2024-05-27 |
@@ -4824,7 +4824,7 @@
 | [libprio-cc](https://github.com/google/libprio-cc) | None | C++ | 6 | Apache License 2.0 | 2020-09-18 | 2023-03-29 |
 | [llvm-project](https://github.com/google/llvm-project) | The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org. | None | 7 | - | 2020-09-18 | 2024-03-30 |
 | [aistreams](https://github.com/google/aistreams) | None | C++ | 6 | Apache License 2.0 | 2020-09-22 | 2023-03-29 |
-| [ksp](https://github.com/google/ksp) | Kotlin Symbol Processing API | Kotlin | 2740 | Apache License 2.0 | 2020-09-22 | 2024-07-19 |
+| [ksp](https://github.com/google/ksp) | Kotlin Symbol Processing API | Kotlin | 2741 | Apache License 2.0 | 2020-09-22 | 2024-07-21 |
 | [mimosa](https://github.com/google/mimosa) | Multiple input multiple output switch (MIMOSA) hardware. | C++ | 21 | Apache License 2.0 | 2020-09-22 | 2023-08-05 |
 | [slo-generator](https://github.com/google/slo-generator) | SLO Generator computes SLIs, SLOs, Error Budgets and Burn Rates from supported backends, then exports an SLO report to supported targets. | Python | 470 | Apache License 2.0 | 2020-09-25 | 2024-07-15 |
 | [outrigger](https://github.com/google/outrigger) | None | JavaScript | 4 | Apache License 2.0 | 2020-09-29 | 2023-03-29 |
@@ -4837,7 +4837,7 @@
 | [across](https://github.com/google/across) | ACROSS - Attributing Contributor Roles in Open Source Software | HTML | 16 | Apache License 2.0 | 2020-10-09 | 2024-02-29 |
 | [healthcare-text-annotation](https://github.com/google/healthcare-text-annotation) | None | None | 38 | Apache License 2.0 | 2020-10-09 | 2024-03-04 |
 | [libprotobuf-mutator-asn1](https://github.com/google/libprotobuf-mutator-asn1) | Library for structured fuzzing of ASN.1 DER/BER | C++ | 14 | Apache License 2.0 | 2020-10-14 | 2024-01-04 |
-| [vpn-libraries](https://github.com/google/vpn-libraries) | The VPN client libraries provide a reference implementation for a secure, encrypted tunnel for connected devices. Full Public report: https://research.nccgroup.com/2021/04/08/public-report-vpn-by-google-one-technical-security-privacy-assessment/ | C++ | 552 | Apache License 2.0 | 2020-10-15 | 2024-07-18 |
+| [vpn-libraries](https://github.com/google/vpn-libraries) | The VPN client libraries provide a reference implementation for a secure, encrypted tunnel for connected devices. Full Public report: https://research.nccgroup.com/2021/04/08/public-report-vpn-by-google-one-technical-security-privacy-assessment/ | C++ | 551 | Apache License 2.0 | 2020-10-15 | 2024-07-20 |
 | [plusfish](https://github.com/google/plusfish) | Plusfish is a classic web application vulnerability scanner/fuzzer and aimed at security professionals | C++ | 26 | Apache License 2.0 | 2020-10-16 | 2024-07-18 |
 | [pre-commit-tool-hooks](https://github.com/google/pre-commit-tool-hooks) | Hooks for use with http://pre-commit.com/ tooling | Python | 28 | Apache License 2.0 | 2020-10-16 | 2024-05-20 |
 | [picatrix](https://github.com/google/picatrix) | Picatrix is a library designed to help security analysts in a notebook environment, such as colab or jupyter. | Python | 43 | Apache License 2.0 | 2020-10-17 | 2024-03-25 |
@@ -4908,7 +4908,7 @@
 | [monster-mash](https://github.com/google/monster-mash) | None | C++ | 1292 | Apache License 2.0 | 2021-01-28 | 2024-07-12 |
 | [GCP-deployment-scripts-for-PI-Core](https://github.com/google/GCP-deployment-scripts-for-PI-Core) | None | PowerShell | 4 | Apache License 2.0 | 2021-02-01 | 2023-03-29 |
 | [fuchsiaware](https://github.com/google/fuchsiaware) | None | TypeScript | 18 | Apache License 2.0 | 2021-02-01 | 2023-10-23 |
-| [chrometracing](https://github.com/google/chrometracing) | libraries for various programming languages that make it easy to generate per-process trace files that can be loaded into chrome://tracing | Go | 33 | Apache License 2.0 | 2021-02-04 | 2024-06-02 |
+| [chrometracing](https://github.com/google/chrometracing) | libraries for various programming languages that make it easy to generate per-process trace files that can be loaded into chrome://tracing | Go | 34 | Apache License 2.0 | 2021-02-04 | 2024-07-20 |
 | [nerfactor](https://github.com/google/nerfactor) | Neural Factorization of Shape and Reflectance Under an Unknown Illumination | Python | 434 | Apache License 2.0 | 2021-02-04 | 2024-07-09 |
 | [open-dice](https://github.com/google/open-dice) | None | C++ | 9 | Apache License 2.0 | 2021-02-05 | 2024-07-15 |
 | [re2-wasm](https://github.com/google/re2-wasm) | None | TypeScript | 61 | Apache License 2.0 | 2021-02-05 | 2024-04-27 |
@@ -4931,7 +4931,7 @@
 | [autobidding-readiness-monitor](https://github.com/google/autobidding-readiness-monitor) | None | Python | 6 | Apache License 2.0 | 2021-03-08 | 2023-08-19 |
 | [megalista](https://github.com/google/megalista) | First Party data integration solution built for marketing teams to enable audience and conversion onboarding into Google Marketing products (Google Ads, Campaign Manager, Google Analytics). | Python | 122 | Apache License 2.0 | 2021-03-09 | 2024-07-16 |
 | [CFU-Playground](https://github.com/google/CFU-Playground) | Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below. | Verilog | 455 | Apache License 2.0 | 2021-03-09 | 2024-07-16 |
-| [pigweed](https://github.com/google/pigweed) | Modern software development for embedded systems | C++ | 256 | Apache License 2.0 | 2021-03-09 | 2024-07-20 |
+| [pigweed](https://github.com/google/pigweed) | Modern software development for embedded systems | C++ | 258 | Apache License 2.0 | 2021-03-09 | 2024-07-20 |
 | [k8s-digester](https://github.com/google/k8s-digester) | Add digests to container and init container images in Kubernetes pod and pod template specs. Use either as a mutating admission webhook, or as a client-side KRM function with kpt or kustomize. | Go | 109 | Apache License 2.0 | 2021-03-09 | 2024-07-17 |
 | [mediapy](https://github.com/google/mediapy) | This Python library makes it easy to display images and videos in a notebook. | Jupyter Notebook | 372 | Apache License 2.0 | 2021-03-11 | 2024-07-19 |
 | [skywater-pdk-actions](https://github.com/google/skywater-pdk-actions) | GitHub Actions for usage with Google's 130nm manufacturable PDK for SkyWater Technology found @ https://github.com/google/skywater-pdk | Python | 12 | Apache License 2.0 | 2021-03-12 | 2023-11-08 |
@@ -4943,7 +4943,7 @@
 | [lecam-gan](https://github.com/google/lecam-gan) | Regularizing Generative Adversarial Networks under Limited Data (CVPR 2021) | Jupyter Notebook | 163 | Apache License 2.0 | 2021-03-19 | 2024-03-12 |
 | [lyra](https://github.com/google/lyra) | A Very Low-Bitrate Codec for Speech Compression | C++ | 3803 | Apache License 2.0 | 2021-03-19 | 2024-07-17 |
 | [jax-cfd](https://github.com/google/jax-cfd) | Computational Fluid Dynamics in JAX | Jupyter Notebook | 689 | Apache License 2.0 | 2021-03-22 | 2024-07-19 |
-| [oss-fuzz-vulns](https://github.com/google/oss-fuzz-vulns) | OSS-Fuzz vulnerabilities for OSV. | Python | 126 | Creative Commons Attribution 4.0 International | 2021-03-23 | 2024-07-19 |
+| [oss-fuzz-vulns](https://github.com/google/oss-fuzz-vulns) | OSS-Fuzz vulnerabilities for OSV. | Python | 126 | Creative Commons Attribution 4.0 International | 2021-03-23 | 2024-07-20 |
 | [security-annotation-tools](https://github.com/google/security-annotation-tools) | None | Kotlin | 6 | Apache License 2.0 | 2021-03-23 | 2023-07-23 |
 | [merror](https://github.com/google/merror) | MError is a library for error handling in C++ without exceptions. It requires C++17 and only works for gcc or clang compilers. | C++ | 5 | Apache License 2.0 | 2021-03-23 | 2024-02-21 |
 | [GoogleSignIn-iOS](https://github.com/google/GoogleSignIn-iOS) | Enables iOS and macOS apps to sign in with Google. | Objective-C | 457 | Apache License 2.0 | 2021-03-24 | 2024-07-18 |
@@ -4980,7 +4980,7 @@
 | [JacquardSDKiOS](https://github.com/google/JacquardSDKiOS) | Jacquard™ by Google weaves new digital experiences into the things you love, wear, and use every day to give you the power to do more and be more. Jacquard SDK is a way to connect Jacquard interactions within your apps. Create an app and bring it to life with gestures, lights and haptics through the Jacquard SDK. | Swift | 16 | Apache License 2.0 | 2021-05-03 | 2023-03-29 |
 | [JacquardSDKAndroid](https://github.com/google/JacquardSDKAndroid) | Jacquard™ by Google weaves new digital experiences into the things you love, wear, and use every day to give you the power to do more and be more. Jacquard SDK is a way to connect Jacquard interactions within your apps. Create an app and bring it to life with gestures, lights and haptics through the Jacquard SDK. | Java | 18 | Apache License 2.0 | 2021-05-03 | 2024-07-15 |
 | [polymorphicDSL](https://github.com/google/polymorphicDSL) | None | Java | 9 | Apache License 2.0 | 2021-05-04 | 2024-03-31 |
-| [zx](https://github.com/google/zx) | A tool for writing better scripts | JavaScript | 42391 | Apache License 2.0 | 2021-05-05 | 2024-07-20 |
+| [zx](https://github.com/google/zx) | A tool for writing better scripts | JavaScript | 42393 | Apache License 2.0 | 2021-05-05 | 2024-07-21 |
 | [ehr-predictions](https://github.com/google/ehr-predictions) | None | Python | 94 | Apache License 2.0 | 2021-05-05 | 2024-06-26 |
 | [fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) | An FHE compiler for C++ | C++ | 3485 | Apache License 2.0 | 2021-05-05 | 2024-07-18 |
 | [modernstorage](https://github.com/google/modernstorage) | ModernStorage is a group of libraries that provide an abstraction layer over storage on Android to simplify its interactions | Kotlin | 1239 | Apache License 2.0 | 2021-05-06 | 2024-07-16 |
@@ -5007,7 +5007,7 @@
 | [maldoca](https://github.com/google/maldoca) | Malicious Microsoft Office document analyzer | C++ | 65 | Apache License 2.0 | 2021-05-26 | 2024-06-14 |
 | [dv360-spend-monitoring-tool](https://github.com/google/dv360-spend-monitoring-tool) | None | JavaScript | 5 | Apache License 2.0 | 2021-05-31 | 2024-05-23 |
 | [BEGIN-dataset](https://github.com/google/BEGIN-dataset) | A benchmark dataset for evaluating dialog system and natural language generation metrics. | None | 32 | Other | 2021-06-01 | 2024-01-04 |
-| [brax](https://github.com/google/brax) | Massively parallel rigidbody physics simulation on accelerator hardware. | Jupyter Notebook | 2158 | Apache License 2.0 | 2021-06-02 | 2024-07-20 |
+| [brax](https://github.com/google/brax) | Massively parallel rigidbody physics simulation on accelerator hardware. | Jupyter Notebook | 2157 | Apache License 2.0 | 2021-06-02 | 2024-07-20 |
 | [prediction_framework](https://github.com/google/prediction_framework) | None | Python | 37 | Apache License 2.0 | 2021-06-03 | 2024-02-27 |
 | [cronet.dart](https://github.com/google/cronet.dart) | This package binds to Cronet's native API to expose them in Dart. | Dart | 118 | BSD 3-Clause "New" or "Revised" License | 2021-06-07 | 2024-05-21 |
 | [ga-serverless-streaming](https://github.com/google/ga-serverless-streaming) | None | Python | 13 | Apache License 2.0 | 2021-06-07 | 2023-07-11 |
@@ -5076,9 +5076,9 @@
 | [ota-analyzer](https://github.com/google/ota-analyzer) | None | JavaScript | 7 | Apache License 2.0 | 2021-09-03 | 2024-07-09 |
 | [data-pills](https://github.com/google/data-pills) | None | Jupyter Notebook | 16 | Apache License 2.0 | 2021-09-03 | 2023-12-28 |
 | [grpc-java-bazel-minimal](https://github.com/google/grpc-java-bazel-minimal) | None | Java | 7 | Apache License 2.0 | 2021-09-06 | 2024-01-05 |
-| [assertor](https://github.com/google/assertor) | Fluent assertion library for Rust with readable messages. | Rust | 67 | Apache License 2.0 | 2021-09-06 | 2024-07-16 |
+| [assertor](https://github.com/google/assertor) | Fluent assertion library for Rust with readable messages. | Rust | 67 | Apache License 2.0 | 2021-09-06 | 2024-07-20 |
 | [dwh-assessment-extraction-tool](https://github.com/google/dwh-assessment-extraction-tool) | None | Java | 14 | Apache License 2.0 | 2021-09-07 | 2024-01-30 |
-| [s2a-go](https://github.com/google/s2a-go) | None | Go | 17 | Apache License 2.0 | 2021-09-07 | 2024-07-19 |
+| [s2a-go](https://github.com/google/s2a-go) | None | Go | 17 | Apache License 2.0 | 2021-09-07 | 2024-07-21 |
 | [hypernerf](https://github.com/google/hypernerf) | Code for "HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields". | Python | 873 | Apache License 2.0 | 2021-09-09 | 2024-07-18 |
 | [android-auto-companion-ios](https://github.com/google/android-auto-companion-ios) | None | Swift | 12 | Apache License 2.0 | 2021-09-09 | 2024-04-28 |
 | [dv360_feature_adoption](https://github.com/google/dv360_feature_adoption) | None | JavaScript | 4 | Apache License 2.0 | 2021-09-10 | 2024-06-12 |
@@ -5096,7 +5096,7 @@
 | [actions-on-google-template-sdk](https://github.com/google/actions-on-google-template-sdk) | None | None | 13 | Apache License 2.0 | 2021-10-06 | 2024-02-14 |
 | [conversion-audit](https://github.com/google/conversion-audit) | None | TypeScript | 4 | Apache License 2.0 | 2021-10-07 | 2024-05-06 |
 | [android-auto-companion-android](https://github.com/google/android-auto-companion-android) | None | Kotlin | 18 | Apache License 2.0 | 2021-10-08 | 2023-10-06 |
-| [private-compute-services](https://github.com/google/private-compute-services) | None | Java | 297 | Apache License 2.0 | 2021-10-15 | 2024-07-19 |
+| [private-compute-services](https://github.com/google/private-compute-services) | None | Java | 297 | Apache License 2.0 | 2021-10-15 | 2024-07-20 |
 | [balloon-learning-environment](https://github.com/google/balloon-learning-environment) | The Balloon Learning Environment - flying stratospheric balloons with deep reinforcement learning. | Python | 117 | Apache License 2.0 | 2021-10-18 | 2024-06-23 |
 | [ChromeBrowserEnterprise](https://github.com/google/ChromeBrowserEnterprise) | Google Chrome Browser Cloud Management APIs | C# | 27 | Apache License 2.0 | 2021-10-19 | 2024-06-26 |
 | [private-retrieval](https://github.com/google/private-retrieval) | None | Java | 27 | Apache License 2.0 | 2021-10-19 | 2024-06-22 |
@@ -5149,7 +5149,7 @@
 | [rax](https://github.com/google/rax) | Rax is a Learning-to-Rank library written in JAX. | Python | 312 | Apache License 2.0 | 2022-01-13 | 2024-07-10 |
 | [cwisstable](https://github.com/google/cwisstable) | Single-header C11 port of https://abseil.io SwissTable | C++ | 109 | Apache License 2.0 | 2022-01-15 | 2024-07-09 |
 | [budget-protector](https://github.com/google/budget-protector) | None | JavaScript | 4 | Apache License 2.0 | 2022-01-20 | 2023-08-17 |
-| [horologist](https://github.com/google/horologist) | Horologist is a group of libraries that aim to supplement Wear OS developers with features that are commonly required by developers but not yet available. | Kotlin | 551 | Apache License 2.0 | 2022-01-24 | 2024-07-18 |
+| [horologist](https://github.com/google/horologist) | Horologist is a group of libraries that aim to supplement Wear OS developers with features that are commonly required by developers but not yet available. | Kotlin | 552 | Apache License 2.0 | 2022-01-24 | 2024-07-21 |
 | [sxg-validator](https://github.com/google/sxg-validator) | None | JavaScript | 2 | Apache License 2.0 | 2022-01-24 | 2023-03-29 |
 | [cloud-android-orchestration](https://github.com/google/cloud-android-orchestration) | None | Go | 21 | Apache License 2.0 | 2022-01-25 | 2024-07-12 |
 | [multispecies-whale-detection](https://github.com/google/multispecies-whale-detection) | None | Python | 5 | Apache License 2.0 | 2022-01-27 | 2023-04-09 |
@@ -5161,7 +5161,7 @@
 | [lightweight_mmm](https://github.com/google/lightweight_mmm) | LightweightMMM 🦇 is a lightweight Bayesian Marketing Mix Modeling (MMM) library that allows users to easily train MMMs and obtain channel attribution information. | Python | 839 | Apache License 2.0 | 2022-02-10 | 2024-07-20 |
 | [wide_bnn_sampling](https://github.com/google/wide_bnn_sampling) | None | Python | 6 | Apache License 2.0 | 2022-02-10 | 2024-06-27 |
 | [fledge-key-value-server](https://github.com/google/fledge-key-value-server) | None | None | 2 | Apache License 2.0 | 2022-02-10 | 2023-09-07 |
-| [summit-ast](https://github.com/google/summit-ast) | Summit-AST translates parsed Apex source code into an abstract syntax tree | Kotlin | 36 | Apache License 2.0 | 2022-02-11 | 2024-07-18 |
+| [summit-ast](https://github.com/google/summit-ast) | Summit-AST translates parsed Apex source code into an abstract syntax tree | Kotlin | 37 | Apache License 2.0 | 2022-02-11 | 2024-07-21 |
 | [ads-api-report-fetcher](https://github.com/google/ads-api-report-fetcher) | Google Ads API Report Fetcher (gaarf) | Python | 36 | Apache License 2.0 | 2022-02-11 | 2024-07-18 |
 | [ad_language_monitor](https://github.com/google/ad_language_monitor) | None | JavaScript | 4 | Apache License 2.0 | 2022-02-11 | 2023-08-05 |
 | [earthengine-jupyter](https://github.com/google/earthengine-jupyter) | Tools for working with the Earth Engine from a Jupyter development environment | Jupyter Notebook | 82 | Apache License 2.0 | 2022-02-15 | 2024-06-12 |
@@ -5247,8 +5247,8 @@
 | [kiosk-app-reference-implementation](https://github.com/google/kiosk-app-reference-implementation) | None | Kotlin | 14 | Apache License 2.0 | 2022-06-13 | 2024-03-06 |
 | [libhoth](https://github.com/google/libhoth) | Library and tools to interact with a hoth-class root-of-trust chip.  Current owner: cjevans@google.com | C | 9 | Apache License 2.0 | 2022-06-13 | 2024-07-17 |
 | [poweranalysis](https://github.com/google/poweranalysis) | Power/Precision Analysis to Determine Minimum Sample Size and Effect | R | 7 | Apache License 2.0 | 2022-06-13 | 2023-05-01 |
-| [praxis](https://github.com/google/praxis) | None | Python | 165 | Apache License 2.0 | 2022-06-14 | 2024-07-19 |
-| [paxml](https://github.com/google/paxml) | Pax is a Jax-based machine learning framework for training large scale models. Pax allows for advanced and fully configurable experimentation and parallelization, and has demonstrated industry leading model flop utilization rates. | Python | 436 | Apache License 2.0 | 2022-06-14 | 2024-07-18 |
+| [praxis](https://github.com/google/praxis) | None | Python | 166 | Apache License 2.0 | 2022-06-14 | 2024-07-20 |
+| [paxml](https://github.com/google/paxml) | Pax is a Jax-based machine learning framework for training large scale models. Pax allows for advanced and fully configurable experimentation and parallelization, and has demonstrated industry leading model flop utilization rates. | Python | 437 | Apache License 2.0 | 2022-06-14 | 2024-07-20 |
 | [causalexpanalysis](https://github.com/google/causalexpanalysis) | Causal and Experiment Analysis | R | 18 | Apache License 2.0 | 2022-06-15 | 2024-02-04 |
 | [agamotto](https://github.com/google/agamotto) | Machine Learning to gather insights from physical locations | Python | 17 | Apache License 2.0 | 2022-06-21 | 2024-06-28 |
 | [jira-to-issues](https://github.com/google/jira-to-issues) | None | TypeScript | 16 | Apache License 2.0 | 2022-06-22 | 2023-10-01 |
@@ -5303,7 +5303,7 @@
 | [tec-web-assignments](https://github.com/google/tec-web-assignments) | None | JavaScript | 11 | Apache License 2.0 | 2022-08-29 | 2023-05-05 |
 | [containerdbg](https://github.com/google/containerdbg) | None | C | 73 | Apache License 2.0 | 2022-08-30 | 2024-04-30 |
 | [fhir-py](https://github.com/google/fhir-py) | Python utilities for working with FHIR, including libraries to build simple, flat FHIR views in BigQuery. | Python | 73 | Apache License 2.0 | 2022-08-30 | 2024-07-16 |
-| [safetext](https://github.com/google/safetext) | None | Go | 139 | Apache License 2.0 | 2022-08-30 | 2024-07-17 |
+| [safetext](https://github.com/google/safetext) | None | Go | 141 | Apache License 2.0 | 2022-08-30 | 2024-07-20 |
 | [gtasks-md](https://github.com/google/gtasks-md) | A tool for editing Google Tasks as a Markdown document | Python | 41 | Apache License 2.0 | 2022-08-31 | 2024-07-04 |
 | [calliope-paper-robot](https://github.com/google/calliope-paper-robot) | This open source project provides an easy to build and easy to setup paper robot for the Calliope Mini board.  | None | 10 | Apache License 2.0 | 2022-09-01 | 2023-12-01 |
 | [python-card-framework](https://github.com/google/python-card-framework) | None | Python | 14 | Apache License 2.0 | 2022-09-01 | 2024-04-12 |
@@ -5311,7 +5311,7 @@
 | [ga4-gtm-utilities](https://github.com/google/ga4-gtm-utilities) | None | JavaScript | 64 | Apache License 2.0 | 2022-09-02 | 2024-05-16 |
 | [business_intelligence_group](https://github.com/google/business_intelligence_group) | None | Jupyter Notebook | 11 | Apache License 2.0 | 2022-09-05 | 2024-07-03 |
 | [speedy](https://github.com/google/speedy) | Speedy Non-linear Speech Speedup Algorithm | C++ | 25 | Apache License 2.0 | 2022-09-07 | 2024-06-23 |
-| [zerocopy](https://github.com/google/zerocopy) | None | Rust | 1040 | Apache License 2.0 | 2022-09-08 | 2024-07-18 |
+| [zerocopy](https://github.com/google/zerocopy) | None | Rust | 1045 | Apache License 2.0 | 2022-09-08 | 2024-07-21 |
 | [stm32-bootloader-client-rs](https://github.com/google/stm32-bootloader-client-rs) | None | Rust | 10 | Apache License 2.0 | 2022-09-08 | 2024-03-20 |
 | [baby-alligator](https://github.com/google/baby-alligator) | None | JavaScript | 2 | Apache License 2.0 | 2022-09-09 | 2024-04-13 |
 | [t5patches](https://github.com/google/t5patches) | T5Patches is a set of tools for fast and targeted editing of generative language models built with T5X. | Python | 11 | Apache License 2.0 | 2022-09-09 | 2024-05-31 |
@@ -5371,13 +5371,13 @@
 | [belief-localization](https://github.com/google/belief-localization) | This repository includes code for the paper "Does Localization Inform Editing? Surprising Differences in Where Knowledge Is Stored vs. Can Be Injected in Language Models." | None | 51 | Apache License 2.0 | 2022-12-19 | 2024-05-07 |
 | [saka](https://github.com/google/saka) | None | Python | 6 | Apache License 2.0 | 2022-12-20 | 2023-04-18 |
 | [fsl-gaming](https://github.com/google/fsl-gaming) | Fantasy Sports League game with Cloud Spanner as backend. | JavaScript | 21 | Apache License 2.0 | 2022-12-20 | 2024-05-29 |
-| [comprehensive-rust](https://github.com/google/comprehensive-rust) | This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust. | Rust | 26788 | Apache License 2.0 | 2022-12-21 | 2024-07-20 |
+| [comprehensive-rust](https://github.com/google/comprehensive-rust) | This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust. | Rust | 26793 | Apache License 2.0 | 2022-12-21 | 2024-07-21 |
 | [metamath.js](https://github.com/google/metamath.js) | A metamath parser, verifier and renderer in JS | JavaScript | 12 | Apache License 2.0 | 2022-12-21 | 2024-06-27 |
 | [vertex-ai-benchmarker](https://github.com/google/vertex-ai-benchmarker) | None | Java | 9 | Apache License 2.0 | 2022-12-22 | 2024-05-28 |
 | [looker-studio-dashboard-cloner](https://github.com/google/looker-studio-dashboard-cloner) | None | TypeScript | 27 | Apache License 2.0 | 2022-12-27 | 2024-07-12 |
 | [project_cartesian](https://github.com/google/project_cartesian) | None | Python | 18 | Apache License 2.0 | 2022-12-28 | 2024-01-26 |
 | [tabuli](https://github.com/google/tabuli) | None | C++ | 31 | Apache License 2.0 | 2022-12-29 | 2024-05-21 |
-| [pybind11k](https://github.com/google/pybind11k) | None | C++ | 68 | Other | 2023-01-02 | 2024-07-02 |
+| [pybind11k](https://github.com/google/pybind11k) | None | C++ | 68 | Other | 2023-01-02 | 2024-07-21 |
 | [taxonomy_wizard](https://github.com/google/taxonomy_wizard) | None | Python | 12 | Apache License 2.0 | 2023-01-04 | 2024-07-01 |
 | [pmax_best_practices_dashboard](https://github.com/google/pmax_best_practices_dashboard) | None | Shell | 32 | Other | 2023-01-08 | 2024-07-09 |
 | [example-demos-for-msft-workloads](https://github.com/google/example-demos-for-msft-workloads) | None | HCL | 15 | Apache License 2.0 | 2023-01-09 | 2024-04-22 |
@@ -5397,7 +5397,7 @@
 | [vandalir](https://github.com/google/vandalir) | None | LLVM | 41 | MIT License | 2023-01-24 | 2024-05-10 |
 | [android-riscv64](https://github.com/google/android-riscv64) | Issues and discussions around RISC-V support in AOSP. | None | 200 | Apache License 2.0 | 2023-01-27 | 2024-07-10 |
 | [pdl-language](https://github.com/google/pdl-language) | Syntax highlighting for Packet Description Language, as used for various Android networking components. | None | 22 | Apache License 2.0 | 2023-01-31 | 2023-07-07 |
-| [project-eager](https://github.com/google/project-eager) | None | Jupyter Notebook | 17 | Apache License 2.0 | 2023-02-03 | 2024-05-15 |
+| [project-eager](https://github.com/google/project-eager) | None | Jupyter Notebook | 18 | Apache License 2.0 | 2023-02-03 | 2024-07-20 |
 | [swissgl](https://github.com/google/swissgl) | SwissGL is a minimalistic wrapper on top of WebGL2 JS API. It's designed to reduce the amount of boilerplate code required to manage GLSL shaders, textures and framebuffers when making procedural visualizations or simulations. | JavaScript | 1128 | Apache License 2.0 | 2023-02-06 | 2024-07-14 |
 | [compute-virtual-ethernet-dpdk](https://github.com/google/compute-virtual-ethernet-dpdk) | None | C | 8 | BSD 3-Clause "New" or "Revised" License | 2023-02-06 | 2024-06-14 |
 | [tekton-slsa-demo](https://github.com/google/tekton-slsa-demo) | None | Shell | 9 | Apache License 2.0 | 2023-02-06 | 2024-05-06 |
@@ -5411,11 +5411,11 @@
 | [video-localized-narratives](https://github.com/google/video-localized-narratives) | None | HTML | 55 | Apache License 2.0 | 2023-02-17 | 2024-07-09 |
 | [rust-deadlock-avoidance](https://github.com/google/rust-deadlock-avoidance) | None | Rust | 42 | Other | 2023-02-17 | 2024-06-21 |
 | [keep-sorted](https://github.com/google/keep-sorted) | keep-sorted is a language-agnostic formatter that sorts lines between two markers in a larger file. | Go | 98 | Apache License 2.0 | 2023-02-23 | 2024-07-19 |
-| [abseil-cpp-binary](https://github.com/google/abseil-cpp-binary) | Binary distribution of the Abseil library. | Swift | 8 | Apache License 2.0 | 2023-02-25 | 2024-07-17 |
+| [abseil-cpp-binary](https://github.com/google/abseil-cpp-binary) | Binary distribution of the Abseil library. | Swift | 8 | Apache License 2.0 | 2023-02-25 | 2024-07-20 |
 | [deps.dev](https://github.com/google/deps.dev) | Resources for the deps.dev API | Go | 234 | Apache License 2.0 | 2023-02-28 | 2024-07-15 |
-| [grpc-binary](https://github.com/google/grpc-binary) | Binary distribution of the gRPC library. | Swift | 7 | Apache License 2.0 | 2023-02-28 | 2024-07-17 |
+| [grpc-binary](https://github.com/google/grpc-binary) | Binary distribution of the gRPC library. | Swift | 7 | Apache License 2.0 | 2023-02-28 | 2024-07-20 |
 | [dactionboard](https://github.com/google/dactionboard) | Comprehensive reporting for Google Ads Video Action campaigns | Shell | 11 | Apache License 2.0 | 2023-02-28 | 2024-06-06 |
-| [maxtext](https://github.com/google/maxtext) | A simple, performant and scalable Jax LLM! | Python | 1382 | Apache License 2.0 | 2023-02-28 | 2024-07-20 |
+| [maxtext](https://github.com/google/maxtext) | A simple, performant and scalable Jax LLM! | Python | 1384 | Apache License 2.0 | 2023-02-28 | 2024-07-21 |
 | [dreambooth](https://github.com/google/dreambooth) | None | None | 794 | Creative Commons Attribution 4.0 International | 2023-03-01 | 2024-07-18 |
 | [omnimatte-sp](https://github.com/google/omnimatte-sp) | None | Python | 11 | Apache License 2.0 | 2023-03-01 | 2023-05-07 |
 | [seatera](https://github.com/google/seatera) | None | Python | 16 | Apache License 2.0 | 2023-03-02 | 2024-02-15 |
@@ -5425,7 +5425,7 @@
 | [automated-native-creatives](https://github.com/google/automated-native-creatives) | ⚙️ Manage your Native Creatives efficiently and automated. | TypeScript | 15 | Apache License 2.0 | 2023-03-08 | 2024-04-17 |
 | [flutter-stager](https://github.com/google/flutter-stager) | None | Dart | 246 | Apache License 2.0 | 2023-03-08 | 2024-07-17 |
 | [support-case-notifications](https://github.com/google/support-case-notifications) | None | Shell | 13 | Apache License 2.0 | 2023-03-08 | 2024-05-14 |
-| [coding-competitions-archive](https://github.com/google/coding-competitions-archive) | Google Coding Competitions problem archive | HTML | 866 | Apache License 2.0 | 2023-03-09 | 2024-07-19 |
+| [coding-competitions-archive](https://github.com/google/coding-competitions-archive) | Google Coding Competitions problem archive | HTML | 869 | Apache License 2.0 | 2023-03-09 | 2024-07-21 |
 | [anonymous-tokens](https://github.com/google/anonymous-tokens) | None | C++ | 36 | Apache License 2.0 | 2023-03-09 | 2024-07-12 |
 | [briolette](https://github.com/google/briolette) | Briolette is an experimental framework for researching offline digital currency designs. | Rust | 52 | Apache License 2.0 | 2023-03-10 | 2024-07-16 |
 | [xarray-tensorstore](https://github.com/google/xarray-tensorstore) | None | Python | 47 | Apache License 2.0 | 2023-03-12 | 2024-07-19 |
@@ -5449,12 +5449,12 @@
 | [shopping_insider](https://github.com/google/shopping_insider) | None | Python | 22 | Apache License 2.0 | 2023-03-28 | 2024-07-09 |
 | [net_http](https://github.com/google/net_http) | None | C++ | 23 | Apache License 2.0 | 2023-03-28 | 2024-02-19 |
 | [ad-manager-alerter](https://github.com/google/ad-manager-alerter) | None | Python | 21 | Apache License 2.0 | 2023-03-28 | 2024-07-02 |
-| [visualblocks](https://github.com/google/visualblocks) | Visual Blocks for ML is a Google visual programming framework that lets you create ML pipelines in a no-code graph editor. You – and your users – can quickly prototype workflows by connecting drag-and-drop ML components, including models, user inputs, processors, and visualizations. | Python | 1125 | Apache License 2.0 | 2023-03-29 | 2024-07-19 |
+| [visualblocks](https://github.com/google/visualblocks) | Visual Blocks for ML is a Google visual programming framework that lets you create ML pipelines in a no-code graph editor. You – and your users – can quickly prototype workflows by connecting drag-and-drop ML components, including models, user inputs, processors, and visualizations. | Python | 1127 | Apache License 2.0 | 2023-03-29 | 2024-07-21 |
 | [vertex-ai-nas](https://github.com/google/vertex-ai-nas) | With Vertex AI NAS, you can search for optimal neural architectures in terms of accuracy, latency, memory, a combination of these, or a custom metric. | Python | 25 | Apache License 2.0 | 2023-03-30 | 2024-06-11 |
 | [mpact-sim-codelabs](https://github.com/google/mpact-sim-codelabs) | None | C++ | 2 | Apache License 2.0 | 2023-03-31 | 2024-06-07 |
 | [mpact-riscv](https://github.com/google/mpact-riscv) | None | C++ | 8 | Apache License 2.0 | 2023-03-31 | 2024-06-17 |
 | [tour-of-wgsl](https://github.com/google/tour-of-wgsl) | None | TypeScript | 95 | BSD 3-Clause "New" or "Revised" License | 2023-04-03 | 2024-07-12 |
-| [generative-ai-docs](https://github.com/google/generative-ai-docs) | Documentation for Google's Gen AI site - including the Gemini API and Gemma | Jupyter Notebook | 1491 | Apache License 2.0 | 2023-04-06 | 2024-07-19 |
+| [generative-ai-docs](https://github.com/google/generative-ai-docs) | Documentation for Google's Gen AI site - including the Gemini API and Gemma | Jupyter Notebook | 1492 | Apache License 2.0 | 2023-04-06 | 2024-07-21 |
 | [automotive-design-compose](https://github.com/google/automotive-design-compose) | Automotive Design for Compose is an extension to Jetpack Compose that allows every screen, component, and overlay of your Android App to be defined in Figma, and lets you see the latest changes to your Figma design in your app, immediately! | Rust | 106 | Apache License 2.0 | 2023-04-07 | 2024-07-19 |
 | [speech_intelligibility_index](https://github.com/google/speech_intelligibility_index) | A Python implementation of the Speech Intelligibility Index | Python | 36 | Apache License 2.0 | 2023-04-10 | 2024-07-17 |
 | [kinda-tidy](https://github.com/google/kinda-tidy) | None | Python | 7 | Apache License 2.0 | 2023-04-10 | 2024-03-06 |
@@ -5463,7 +5463,7 @@
 | [arm-gic](https://github.com/google/arm-gic) | A Rust driver for the Arm Generic Interrupt Controller version 3 or 4 (GICv3 and GICv4). | Rust | 19 | Other | 2023-04-12 | 2024-07-01 |
 | [sbat-rs](https://github.com/google/sbat-rs) | Rust tools for working with UEFI SBAT | Rust | 13 | Apache License 2.0 | 2023-04-12 | 2024-06-12 |
 | [receipts-to-riches-part1](https://github.com/google/receipts-to-riches-part1) | None | C# | 5 | Apache License 2.0 | 2023-04-13 | 2023-09-06 |
-| [heir](https://github.com/google/heir) | A compiler for homomorphic encryption | C++ | 237 | Apache License 2.0 | 2023-04-17 | 2024-07-19 |
+| [heir](https://github.com/google/heir) | A compiler for homomorphic encryption | C++ | 238 | Apache License 2.0 | 2023-04-17 | 2024-07-20 |
 | [anonymous-counting-tokens](https://github.com/google/anonymous-counting-tokens) | None | C++ | 18 | Apache License 2.0 | 2023-04-18 | 2024-03-23 |
 | [cloud-tpu-monitoring-debugging](https://github.com/google/cloud-tpu-monitoring-debugging) | None | HCL | 8 | Apache License 2.0 | 2023-04-18 | 2024-03-24 |
 | [model-verifier-in-kotlin](https://github.com/google/model-verifier-in-kotlin) | None | Kotlin | 5 | Apache License 2.0 | 2023-04-19 | 2023-08-03 |
@@ -5512,12 +5512,12 @@
 | [airio](https://github.com/google/airio) | None | Python | 13 | Apache License 2.0 | 2023-07-13 | 2024-07-03 |
 | [file-header](https://github.com/google/file-header) | None | Rust | 11 | Apache License 2.0 | 2023-07-18 | 2024-02-14 |
 | [app-check](https://github.com/google/app-check) | Google-internal core components of Firebase App Check. | Objective-C | 16 | Apache License 2.0 | 2023-07-20 | 2024-07-17 |
-| [libultrahdr](https://github.com/google/libultrahdr) | Ultra HDR is a true HDR image format, and is backcompatible.  libultrahdr is the reference codec for the Ultra HDR format.  The codecs that support the format can render the HDR intent of the image on HDR displays;  other codecs can still decode and display the SDR intent of the image. | C++ | 131 | Apache License 2.0 | 2023-07-20 | 2024-07-19 |
+| [libultrahdr](https://github.com/google/libultrahdr) | Ultra HDR is a true HDR image format, and is backcompatible.  libultrahdr is the reference codec for the Ultra HDR format.  The codecs that support the format can render the HDR intent of the image on HDR displays;  other codecs can still decode and display the SDR intent of the image. | C++ | 132 | Apache License 2.0 | 2023-07-20 | 2024-07-21 |
 | [dfiq](https://github.com/google/dfiq) | DFIQ is a collection of investigative questions and the approaches for answering them | Python | 239 | Apache License 2.0 | 2023-07-21 | 2024-07-18 |
 | [grrshell](https://github.com/google/grrshell) | None | Python | 4 | Apache License 2.0 | 2023-07-24 | 2024-07-05 |
 | [safearchive](https://github.com/google/safearchive) | None | Go | 56 | Apache License 2.0 | 2023-07-24 | 2024-07-17 |
 | [vk-layer-for-rust](https://github.com/google/vk-layer-for-rust) | None | Rust | 7 | Apache License 2.0 | 2023-07-24 | 2024-07-17 |
-| [capslock](https://github.com/google/capslock) | None | Go | 614 | BSD 3-Clause "New" or "Revised" License | 2023-07-24 | 2024-07-18 |
+| [capslock](https://github.com/google/capslock) | None | Go | 639 | BSD 3-Clause "New" or "Revised" License | 2023-07-24 | 2024-07-21 |
 | [safeopen](https://github.com/google/safeopen) | None | Go | 85 | Apache License 2.0 | 2023-07-26 | 2024-07-17 |
 | [interop-ios-for-google-sdks](https://github.com/google/interop-ios-for-google-sdks) | Google-internal interfaces that allow Google SDKs to reliably interoperate with one another via weak dependencies. | Objective-C | 10 | Apache License 2.0 | 2023-07-26 | 2024-05-29 |
 | [rust-p9](https://github.com/google/rust-p9) | None | Rust | 26 | BSD 3-Clause "New" or "Revised" License | 2023-07-27 | 2024-06-21 |
@@ -5536,10 +5536,10 @@
 | [sound-checker](https://github.com/google/sound-checker) | None | Kotlin | 10 | Apache License 2.0 | 2023-08-16 | 2024-07-12 |
 | [storybench](https://github.com/google/storybench) | None | Python | 47 | Apache License 2.0 | 2023-08-17 | 2024-07-02 |
 | [hi-lassie](https://github.com/google/hi-lassie) | None | Python | 18 | Apache License 2.0 | 2023-08-21 | 2024-06-18 |
-| [magika](https://github.com/google/magika) | Detect file content types with deep learning | Python | 7567 | Apache License 2.0 | 2023-08-22 | 2024-07-19 |
+| [magika](https://github.com/google/magika) | Detect file content types with deep learning | Python | 7569 | Apache License 2.0 | 2023-08-22 | 2024-07-20 |
 | [Xee](https://github.com/google/Xee) | An Xarray extension for Google Earth Engine | Python | 234 | Apache License 2.0 | 2023-08-23 | 2024-07-18 |
 | [uem_poc](https://github.com/google/uem_poc) | None | TypeScript | 2 | Apache License 2.0 | 2023-08-23 | 2024-06-07 |
-| [kube-startup-cpu-boost](https://github.com/google/kube-startup-cpu-boost) | Kube Startup CPU Boost is a controller that increases CPU resource requests and limits during Kubernetes workload startup time | Go | 130 | Apache License 2.0 | 2023-08-24 | 2024-07-14 |
+| [kube-startup-cpu-boost](https://github.com/google/kube-startup-cpu-boost) | Kube Startup CPU Boost is a controller that increases CPU resource requests and limits during Kubernetes workload startup time | Go | 131 | Apache License 2.0 | 2023-08-24 | 2024-07-20 |
 | [langfun](https://github.com/google/langfun) | OO for LLMs | Python | 94 | Apache License 2.0 | 2023-08-29 | 2024-07-19 |
 | [yaml-ui-editor](https://github.com/google/yaml-ui-editor) | YAML UI editor application with Git repository storage | Java | 20 | Apache License 2.0 | 2023-08-30 | 2024-06-22 |
 | [ondc-opencommerce](https://github.com/google/ondc-opencommerce) | None | Go | 18 | Apache License 2.0 | 2023-09-04 | 2024-06-22 |
@@ -5548,7 +5548,7 @@
 | [toucan](https://github.com/google/toucan) | None | C++ | 8 | Apache License 2.0 | 2023-09-13 | 2024-07-18 |
 | [deshell](https://github.com/google/deshell) | Playbook for converting shell code to a real language (e.g. C++/Rust) | None | 2 | Creative Commons Attribution 4.0 International | 2023-09-15 | 2024-06-04 |
 | [arolla](https://github.com/google/arolla) | None | C++ | 12 | Apache License 2.0 | 2023-09-18 | 2024-07-19 |
-| [maxdiffusion](https://github.com/google/maxdiffusion) | None | Python | 126 | Apache License 2.0 | 2023-09-18 | 2024-07-19 |
+| [maxdiffusion](https://github.com/google/maxdiffusion) | None | Python | 126 | Apache License 2.0 | 2023-09-18 | 2024-07-21 |
 | [bindiff](https://github.com/google/bindiff) | Quickly find differences and similarities in disassembled code | Java | 2050 | Apache License 2.0 | 2023-09-20 | 2024-07-20 |
 | [fishy-pdf](https://github.com/google/fishy-pdf) | None | Python | 9 | Apache License 2.0 | 2023-09-23 | 2024-05-29 |
 | [english--](https://github.com/google/english--) | None | JavaScript | 4 | Apache License 2.0 | 2023-09-25 | 2023-11-09 |
@@ -5561,7 +5561,7 @@
 | [mobly-windows](https://github.com/google/mobly-windows) | Mobly Windows controller module for using Python code to operate Windows devices in Mobly tests. | Python | 4 | Apache License 2.0 | 2023-10-10 | 2024-05-02 |
 | [cairn](https://github.com/google/cairn) | None | C++ | 3 | Apache License 2.0 | 2023-10-10 | 2024-07-17 |
 | [deepsomatic](https://github.com/google/deepsomatic) | DeepSomatic is an analysis pipeline that uses a deep neural network to call somatic variants from tumor-normal sequencing data. | None | 97 | BSD 3-Clause "New" or "Revised" License | 2023-10-11 | 2024-07-10 |
-| [mesop](https://github.com/google/mesop) | Build delightful web apps quickly in Python | Python | 4664 | Apache License 2.0 | 2023-10-13 | 2024-07-20 |
+| [mesop](https://github.com/google/mesop) | Build delightful web apps quickly in Python | Python | 4681 | Apache License 2.0 | 2023-10-13 | 2024-07-21 |
 | [valid-avatar-library](https://github.com/google/valid-avatar-library) | We present VALID, a validated avatar library for inclusivity and diversity created by the University of Central Florida and Google. The library features 210 fully rigged 3D avatars representing the seven ethnicities recommended by U.S. Census Bureau research. And perceptually validated by 132 participants from 33 countries. | ShaderLab | 46 | MIT License | 2023-10-17 | 2024-07-20 |
 | [web-game-samples](https://github.com/google/web-game-samples) | None | JavaScript | 18 | Apache License 2.0 | 2023-10-23 | 2024-07-10 |
 | [dsg](https://github.com/google/dsg) | None | HTML | 1 | - | 2023-10-26 | 2023-10-30 |
@@ -5570,7 +5570,7 @@
 | [strangemeadowlark](https://github.com/google/strangemeadowlark) | None | Rust | 2 | Apache License 2.0 | 2023-11-01 | 2024-06-19 |
 | [fhir-dbt-utils](https://github.com/google/fhir-dbt-utils) | Utility functions to support analytics over FHIR in BigQuery or Apache Spark | Shell | 10 | Apache License 2.0 | 2023-11-07 | 2024-03-31 |
 | [forest-data-partnership](https://github.com/google/forest-data-partnership) | None | Jupyter Notebook | 6 | MIT License | 2023-11-10 | 2024-07-09 |
-| [genc](https://github.com/google/genc) | None | C++ | 38 | Apache License 2.0 | 2023-11-11 | 2024-07-19 |
+| [genc](https://github.com/google/genc) | None | C++ | 40 | Apache License 2.0 | 2023-11-11 | 2024-07-20 |
 | [ic-modeling-python](https://github.com/google/ic-modeling-python) | None | Python | 1 | Apache License 2.0 | 2023-11-11 | 2024-01-12 |
 | [jaxcam](https://github.com/google/jaxcam) | None | Python | 5 | Apache License 2.0 | 2023-11-13 | 2024-05-31 |
 | [amot](https://github.com/google/amot) | None | Shell | 2 | Apache License 2.0 | 2023-11-14 | 2024-04-19 |
@@ -5580,7 +5580,7 @@
 | [asml](https://github.com/google/asml) | Application Security Maturity Levels (ASML) | None | 5 | Other | 2023-11-29 | 2024-02-28 |
 | [github-webhook-pubsub-bridge](https://github.com/google/github-webhook-pubsub-bridge) | None | Go | 1 | Apache License 2.0 | 2023-12-02 | 2024-06-13 |
 | [watchface](https://github.com/google/watchface) | None | Java | 25 | Apache License 2.0 | 2023-12-02 | 2024-07-18 |
-| [generative-ai-go](https://github.com/google/generative-ai-go) | Go SDK for Google Generative AI | Go | 495 | Apache License 2.0 | 2023-12-04 | 2024-07-19 |
+| [generative-ai-go](https://github.com/google/generative-ai-go) | Go SDK for Google Generative AI | Go | 496 | Apache License 2.0 | 2023-12-04 | 2024-07-20 |
 | [deeppolisher](https://github.com/google/deeppolisher) | Transformer-based sequence correction method for genome assembly polishing | Jupyter Notebook | 23 | BSD 3-Clause "New" or "Revised" License | 2023-12-11 | 2024-07-15 |
 | [bughunters](https://github.com/google/bughunters) | None | None | 19 | Apache License 2.0 | 2023-12-13 | 2024-07-15 |
 | [bayesnf](https://github.com/google/bayesnf) | Bayesian Neural Field models for prediction in large-scale spatiotemporal datasets | Python | 22 | Apache License 2.0 | 2023-12-13 | 2024-07-15 |
@@ -5600,16 +5600,16 @@
 | [pcie_lmt](https://github.com/google/pcie_lmt) | None | Go | 1 | Apache License 2.0 | 2024-02-01 | 2024-05-24 |
 | [closure-net](https://github.com/google/closure-net) | None | None | 1 | Apache License 2.0 | 2024-02-02 | 2024-05-01 |
 | [page-alloc-bench](https://github.com/google/page-alloc-bench) | None | Go | 1 | GNU General Public License v2.0 | 2024-02-09 | 2024-03-13 |
-| [gemma.cpp](https://github.com/google/gemma.cpp) | lightweight, standalone C++ inference engine for Google's Gemma models. | C++ | 5796 | Apache License 2.0 | 2024-02-13 | 2024-07-20 |
+| [gemma.cpp](https://github.com/google/gemma.cpp) | lightweight, standalone C++ inference engine for Google's Gemma models. | C++ | 5801 | Apache License 2.0 | 2024-02-13 | 2024-07-21 |
 | [omaha-client](https://github.com/google/omaha-client) | None | Rust | 3 | Apache License 2.0 | 2024-02-16 | 2024-07-12 |
 | [xr-objects](https://github.com/google/xr-objects) | XR-Objects is an open-source prototype that anchors contextual interactions onto analog objects to not only convey information but also to initiate digital actions, such as querying LLMs for details or executing tasks. Creating an early form of Augmented Object Intelligence. | C# | 6 | Other | 2024-02-17 | 2024-07-10 |
 | [ringli](https://github.com/google/ringli) | None | C++ | 7 | Apache License 2.0 | 2024-02-19 | 2024-06-20 |
 | [mint-line-follower](https://github.com/google/mint-line-follower) | None | Python | 0 | Apache License 2.0 | 2024-02-20 | 2024-02-22 |
-| [gemma_pytorch](https://github.com/google/gemma_pytorch) | The official PyTorch implementation of Google's Gemma models | Python | 5176 | Apache License 2.0 | 2024-02-20 | 2024-07-20 |
+| [gemma_pytorch](https://github.com/google/gemma_pytorch) | The official PyTorch implementation of Google's Gemma models | Python | 5179 | Apache License 2.0 | 2024-02-20 | 2024-07-21 |
 | [dfindexeddb](https://github.com/google/dfindexeddb) | None | Python | 7 | Apache License 2.0 | 2024-02-20 | 2024-07-11 |
 | [tree-sitter-fidl](https://github.com/google/tree-sitter-fidl) | FIDL grammar for tree-sitter | C | 2 | Apache License 2.0 | 2024-02-21 | 2024-02-23 |
 | [JetStream](https://github.com/google/JetStream) | JetStream is a throughput and memory optimized engine for LLM inference on XLA devices, starting with TPUs (and GPUs in future -- PRs welcome). | Python | 169 | Apache License 2.0 | 2024-03-01 | 2024-07-19 |
-| [dexmod](https://github.com/google/dexmod) | None | Python | 40 | Apache License 2.0 | 2024-03-04 | 2024-07-17 |
+| [dexmod](https://github.com/google/dexmod) | None | Python | 41 | Apache License 2.0 | 2024-03-04 | 2024-07-21 |
 | [cloud-accelerator-diagnostics](https://github.com/google/cloud-accelerator-diagnostics) | None | Python | 2 | Apache License 2.0 | 2024-03-04 | 2024-06-27 |
 | [imageinwords](https://github.com/google/imageinwords) | Data release for the ImageInWords (IIW) paper. | JavaScript | 184 | - | 2024-03-06 | 2024-07-15 |
 | [foteli](https://github.com/google/foteli) | None | C++ | 3 | Apache License 2.0 | 2024-03-07 | 2024-05-16 |
@@ -5630,7 +5630,7 @@
 | [common-multicloud-runtime](https://github.com/google/common-multicloud-runtime) | None | None | 0 | - | 2024-04-09 | 2024-04-10 |
 | [osv-scalibr](https://github.com/google/osv-scalibr) | None | Go | 77 | Apache License 2.0 | 2024-04-10 | 2024-07-20 |
 | [ditto-mocks](https://github.com/google/ditto-mocks) | None | Apex | 80 | Apache License 2.0 | 2024-04-11 | 2024-07-16 |
-| [alioth](https://github.com/google/alioth) | Experimental KVM-based type-2 hypervisor in Rust implemented from scratch. | Rust | 118 | Apache License 2.0 | 2024-04-25 | 2024-07-19 |
+| [alioth](https://github.com/google/alioth) | Experimental KVM-based type-2 hypervisor in Rust implemented from scratch. | Rust | 118 | Apache License 2.0 | 2024-04-25 | 2024-07-21 |
 | [merchant-api-samples](https://github.com/google/merchant-api-samples) | None | Java | 0 | Apache License 2.0 | 2024-04-30 | 2024-07-11 |
 | [docci](https://github.com/google/docci) | None | HTML | 1 | - | 2024-04-30 | 2024-07-18 |
 | [mobly-wifi](https://github.com/google/mobly-wifi) | None | Python | 4 | Apache License 2.0 | 2024-05-03 | 2024-07-09 |
@@ -5644,7 +5644,7 @@
 | [oss-rebuild](https://github.com/google/oss-rebuild) | Securing open-source package ecosystems by originating, validating, and augmenting build attestations. | Go | 18 | Apache License 2.0 | 2024-05-22 | 2024-07-20 |
 | [rbrotli-enc](https://github.com/google/rbrotli-enc) | None | Rust | 6 | Apache License 2.0 | 2024-05-23 | 2024-07-11 |
 | [gwpsan](https://github.com/google/gwpsan) | GWPSan: Sampling-Based Sanitizer Framework | C++ | 290 | Apache License 2.0 | 2024-05-28 | 2024-07-18 |
-| [jpegli](https://github.com/google/jpegli) | None | C++ | 31 | BSD 3-Clause "New" or "Revised" License | 2024-05-29 | 2024-07-19 |
+| [jpegli](https://github.com/google/jpegli) | None | C++ | 33 | BSD 3-Clause "New" or "Revised" License | 2024-05-29 | 2024-07-21 |
 | [gcp-scc-iac-validation-utils](https://github.com/google/gcp-scc-iac-validation-utils) | Utility scripts for handling the response from `gcloud scc iac-validation-reports create` command. | Go | 1 | Apache License 2.0 | 2024-05-30 | 2024-07-01 |
 | [blockly-keyboard-experimentation](https://github.com/google/blockly-keyboard-experimentation) | None | JavaScript | 1 | Apache License 2.0 | 2024-06-07 | 2024-07-19 |
 | [spiqa](https://github.com/google/spiqa) | None | Python | 13 | Apache License 2.0 | 2024-06-12 | 2024-07-19 |
@@ -5656,8 +5656,8 @@
 | [py-lab-hal](https://github.com/google/py-lab-hal) | None | Python | 0 | Apache License 2.0 | 2024-06-23 | 2024-07-16 |
 | [pseudo-identity-provider](https://github.com/google/pseudo-identity-provider) | None | Go | 1 | Apache License 2.0 | 2024-06-24 | 2024-07-14 |
 | [haloquest](https://github.com/google/haloquest) | None | Jupyter Notebook | 2 | Apache License 2.0 | 2024-07-12 | 2024-07-17 |
-| [mediapipe](https://github.com/google-ai-edge/mediapipe) | Cross-platform, customizable ML solutions for live and streaming media. | C++ | 26285 | Apache License 2.0 | 2019-06-13 | 2024-07-20 |
-| [mediapipe-samples](https://github.com/google-ai-edge/mediapipe-samples) | None | Jupyter Notebook | 1391 | Apache License 2.0 | 2022-10-21 | 2024-07-20 |
+| [mediapipe](https://github.com/google-ai-edge/mediapipe) | Cross-platform, customizable ML solutions for live and streaming media. | C++ | 26287 | Apache License 2.0 | 2019-06-13 | 2024-07-21 |
+| [mediapipe-samples](https://github.com/google-ai-edge/mediapipe-samples) | None | Jupyter Notebook | 1393 | Apache License 2.0 | 2022-10-21 | 2024-07-21 |
 | [model-explorer](https://github.com/google-ai-edge/model-explorer) | A modern model graph visualizer and debugger | JavaScript | 936 | Apache License 2.0 | 2024-01-05 | 2024-07-19 |
 | [models-samples](https://github.com/google-ai-edge/models-samples) | None | Jupyter Notebook | 1 | Apache License 2.0 | 2024-05-01 | 2024-05-20 |
 | [ai-edge-torch](https://github.com/google-ai-edge/ai-edge-torch) | Supporting PyTorch models with the Google AI Edge TFLite runtime. | Jupyter Notebook | 220 | Apache License 2.0 | 2024-05-13 | 2024-07-20 |
@@ -5741,7 +5741,7 @@
 | [luastyle](https://github.com/google-deepmind/luastyle) | Style guide for Lua code. | None | 4 | - | 2015-12-01 | 2023-01-27 |
 | [unsup-queries-data](https://github.com/google-deepmind/unsup-queries-data) | Unsupervised Data Generated for GeoQuery and SAIL Datasets | None | 46 | GNU General Public License v2.0 | 2016-11-05 | 2023-06-10 |
 | [card2code](https://github.com/google-deepmind/card2code) | A code generation dataset for generating the code that implements Hearthstone and Magic The Gathering card effects. | None | 241 | Other | 2016-11-10 | 2024-06-21 |
-| [lab](https://github.com/google-deepmind/lab) | A customisable 3D platform for agent-based AI research | C | 7067 | Other | 2016-11-30 | 2024-07-19 |
+| [lab](https://github.com/google-deepmind/lab) | A customisable 3D platform for agent-based AI research | C | 7068 | Other | 2016-11-30 | 2024-07-20 |
 | [learning-to-learn](https://github.com/google-deepmind/learning-to-learn) | Learning to Learn in TensorFlow | Python | 4066 | Apache License 2.0 | 2016-12-06 | 2024-07-19 |
 | [spaceship_dataset](https://github.com/google-deepmind/spaceship_dataset) | Dataset for the spaceship task from "Metacontrol for Adaptive Imagination-Based Optimization" | None | 55 | Apache License 2.0 | 2017-02-23 | 2024-04-08 |
 | [dnc](https://github.com/google-deepmind/dnc) | A TensorFlow implementation of the Differentiable Neural Computer. | Python | 2492 | Apache License 2.0 | 2017-03-28 | 2024-07-16 |
@@ -5756,7 +5756,7 @@
 | [pycolab](https://github.com/google-deepmind/pycolab) | A highly-customisable gridworld game engine with some batteries included. Make your own gridworld games to test reinforcement learning agents! | Python | 659 | Apache License 2.0 | 2017-11-14 | 2024-07-13 |
 | [objecthash-proto](https://github.com/google-deepmind/objecthash-proto) | ObjectHash for protocol buffers | Go | 88 | Apache License 2.0 | 2017-12-20 | 2023-05-17 |
 | [narrativeqa](https://github.com/google-deepmind/narrativeqa) | This repository contains the NarrativeQA dataset. It includes the list of documents with Wikipedia summaries, links to full stories, and questions and answers. | Shell | 449 | Apache License 2.0 | 2017-12-20 | 2024-07-13 |
-| [dm_control](https://github.com/google-deepmind/dm_control) | Google DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo. | Python | 3650 | Apache License 2.0 | 2017-12-29 | 2024-07-20 |
+| [dm_control](https://github.com/google-deepmind/dm_control) | Google DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo. | Python | 3651 | Apache License 2.0 | 2017-12-29 | 2024-07-20 |
 | [logical-entailment-dataset](https://github.com/google-deepmind/logical-entailment-dataset) | This repository contains an entailment dataset for propositional logic, and code for generating that dataset. It also contains code for parsing the dataset in python. | Haskell | 64 | Apache License 2.0 | 2018-02-16 | 2024-07-11 |
 | [gqn-datasets](https://github.com/google-deepmind/gqn-datasets) | Datasets used to train Generative Query Networks (GQNs) in the ‘Neural Scene Representation and Rendering’ paper. | Python | 273 | Apache License 2.0 | 2018-03-12 | 2024-07-19 |
 | [loopix-messaging](https://github.com/google-deepmind/loopix-messaging) | Anonymous messaging using mix networks | Go | 42 | Apache License 2.0 | 2018-04-25 | 2024-07-18 |
@@ -5775,14 +5775,14 @@
 | [boxoban-levels](https://github.com/google-deepmind/boxoban-levels) | This repository contains levels for boxoban, a box-pushing puzzle game inspired by Sokoban. | None | 60 | Apache License 2.0 | 2018-10-26 | 2024-07-19 |
 | [multidim-image-augmentation](https://github.com/google-deepmind/multidim-image-augmentation) | This package provides TensorFlow Ops for multidimensional volumetric image augmentation. | C++ | 129 | Apache License 2.0 | 2018-11-22 | 2024-07-02 |
 | [interval-bound-propagation](https://github.com/google-deepmind/interval-bound-propagation) | This repository contains a simple implementation of Interval Bound Propagation (IBP) using TensorFlow: https://arxiv.org/abs/1810.12715 | Python | 148 | Apache License 2.0 | 2018-11-23 | 2024-07-10 |
-| [streetlearn](https://github.com/google-deepmind/streetlearn) | A C++/Python implementation of the StreetLearn environment based on images from Street View, as well as a TensorFlow implementation of goal-driven navigation agents solving the task published in “Learning to Navigate in Cities Without a Map”, NeurIPS 2018 | C++ | 284 | Apache License 2.0 | 2018-12-12 | 2024-04-28 |
+| [streetlearn](https://github.com/google-deepmind/streetlearn) | A C++/Python implementation of the StreetLearn environment based on images from Street View, as well as a TensorFlow implementation of goal-driven navigation agents solving the task published in “Learning to Navigate in Cities Without a Map”, NeurIPS 2018 | C++ | 285 | Apache License 2.0 | 2018-12-12 | 2024-07-20 |
 | [lamb](https://github.com/google-deepmind/lamb) | LAnguage Modelling Benchmarks | Python | 137 | Apache License 2.0 | 2018-12-14 | 2024-04-17 |
 | [3d-shapes](https://github.com/google-deepmind/3d-shapes) | This repository contains the 3D shapes dataset, used in Kim, Hyunjik and Mnih, Andriy. "Disentangling by Factorising." In Proceedings of the 35th International Conference on Machine Learning (ICML). 2018. to assess the disentanglement properties of unsupervised learning methods. | Jupyter Notebook | 124 | Apache License 2.0 | 2019-01-14 | 2024-07-18 |
-| [deepmind-research](https://github.com/google-deepmind/deepmind-research) | This repository contains implementations and illustrative code to accompany DeepMind publications | Jupyter Notebook | 12969 | Apache License 2.0 | 2019-01-15 | 2024-07-18 |
-| [grid-cells](https://github.com/google-deepmind/grid-cells) | Implementation of the supervised learning experiments in Vector-based navigation using grid-like representations in artificial agents, as published at https://www.nature.com/articles/s41586-018-0102-6 | Python | 242 | Apache License 2.0 | 2019-01-15 | 2024-07-09 |
+| [deepmind-research](https://github.com/google-deepmind/deepmind-research) | This repository contains implementations and illustrative code to accompany DeepMind publications | Jupyter Notebook | 12970 | Apache License 2.0 | 2019-01-15 | 2024-07-20 |
+| [grid-cells](https://github.com/google-deepmind/grid-cells) | Implementation of the supervised learning experiments in Vector-based navigation using grid-like representations in artificial agents, as published at https://www.nature.com/articles/s41586-018-0102-6 | Python | 243 | Apache License 2.0 | 2019-01-15 | 2024-07-21 |
 | [hanabi-learning-environment](https://github.com/google-deepmind/hanabi-learning-environment) | hanabi_learning_environment is a research platform for Hanabi experiments. | Python | 639 | Apache License 2.0 | 2019-01-31 | 2024-07-14 |
 | [leo](https://github.com/google-deepmind/leo) | Implementation of Meta-Learning with Latent Embedding Optimization | Python | 303 | Apache License 2.0 | 2019-03-06 | 2024-05-27 |
-| [mathematics_dataset](https://github.com/google-deepmind/mathematics_dataset) | This dataset code generates mathematical question and answer pairs, from a range of question types at roughly school-level difficulty. | Python | 1760 | Apache License 2.0 | 2019-03-27 | 2024-07-17 |
+| [mathematics_dataset](https://github.com/google-deepmind/mathematics_dataset) | This dataset code generates mathematical question and answer pairs, from a range of question types at roughly school-level difficulty. | Python | 1761 | Apache License 2.0 | 2019-03-27 | 2024-07-20 |
 | [spectral_inference_networks](https://github.com/google-deepmind/spectral_inference_networks) | Implementation of Spectral Inference Networks, ICLR 2019 | Python | 170 | Apache License 2.0 | 2019-04-23 | 2024-07-17 |
 | [Temporal-3D-Pose-Kinetics](https://github.com/google-deepmind/Temporal-3D-Pose-Kinetics) | Exploiting temporal context for 3D human pose estimation in the wild: 3D poses for the Kinetics dataset | Python | 215 | Apache License 2.0 | 2019-04-29 | 2024-07-15 |
 | [wasserstein_fairness](https://github.com/google-deepmind/wasserstein_fairness) | An implementation of Wasserstein Fair Classification, a conference paper submitted to UAI 2019. | Python | 20 | Apache License 2.0 | 2019-07-01 | 2024-07-09 |
@@ -5809,7 +5809,7 @@
 | [dm_construction](https://github.com/google-deepmind/dm_construction) | None | Python | 27 | Apache License 2.0 | 2020-06-05 | 2023-06-09 |
 | [optax](https://github.com/google-deepmind/optax) | Optax is a gradient processing and optimization library for JAX. | Python | 1574 | Apache License 2.0 | 2020-06-12 | 2024-07-18 |
 | [chex](https://github.com/google-deepmind/chex) | None | Python | 747 | Apache License 2.0 | 2020-08-06 | 2024-07-16 |
-| [dqn_zoo](https://github.com/google-deepmind/dqn_zoo) | DQN Zoo is a collection of reference implementations of reinforcement learning agents developed at DeepMind based on the Deep Q-Network (DQN) agent. | Python | 441 | Apache License 2.0 | 2020-09-22 | 2024-07-15 |
+| [dqn_zoo](https://github.com/google-deepmind/dqn_zoo) | DQN Zoo is a collection of reference implementations of reinforcement learning agents developed at DeepMind based on the Deep Q-Network (DQN) agent. | Python | 442 | Apache License 2.0 | 2020-09-22 | 2024-07-20 |
 | [ferminet](https://github.com/google-deepmind/ferminet) | An implementation of the Fermionic Neural Network for ab-initio electronic structure calculations | Python | 654 | Apache License 2.0 | 2020-10-06 | 2024-07-15 |
 | [jax_verify](https://github.com/google-deepmind/jax_verify) | Neural network verification in JAX | Python | 139 | Apache License 2.0 | 2020-10-19 | 2024-07-10 |
 | [jaxline](https://github.com/google-deepmind/jaxline) | None | Python | 147 | Apache License 2.0 | 2020-10-23 | 2024-06-26 |
@@ -5824,12 +5824,12 @@
 | [launchpad](https://github.com/google-deepmind/launchpad) | None | Python | 307 | Apache License 2.0 | 2021-02-18 | 2024-05-23 |
 | [distrax](https://github.com/google-deepmind/distrax) | None | Python | 521 | Apache License 2.0 | 2021-04-01 | 2024-07-18 |
 | [jmp](https://github.com/google-deepmind/jmp) | JMP is a Mixed Precision library for JAX. | Python | 179 | Apache License 2.0 | 2021-04-12 | 2024-06-17 |
-| [android_env](https://github.com/google-deepmind/android_env) | RL research on Android devices. | Python | 974 | Apache License 2.0 | 2021-04-21 | 2024-07-14 |
-| [xmanager](https://github.com/google-deepmind/xmanager) | A platform for managing machine learning experiments | Python | 809 | Apache License 2.0 | 2021-04-26 | 2024-07-17 |
+| [android_env](https://github.com/google-deepmind/android_env) | RL research on Android devices. | Python | 975 | Apache License 2.0 | 2021-04-21 | 2024-07-21 |
+| [xmanager](https://github.com/google-deepmind/xmanager) | A platform for managing machine learning experiments | Python | 810 | Apache License 2.0 | 2021-04-26 | 2024-07-20 |
 | [cartesian-frames](https://github.com/google-deepmind/cartesian-frames) | A formalisation of Cartesian Frames, a perspective on embedded agency, in the HOL theorem prover. | Standard ML | 17 | Apache License 2.0 | 2021-05-17 | 2023-08-28 |
-| [dmvr](https://github.com/google-deepmind/dmvr) | None | Python | 63 | Apache License 2.0 | 2021-05-20 | 2024-07-16 |
-| [dm_robotics](https://github.com/google-deepmind/dm_robotics) | Libraries, tools and tasks created and used at DeepMind Robotics. | Python | 321 | Apache License 2.0 | 2021-05-28 | 2024-07-19 |
-| [alphafold](https://github.com/google-deepmind/alphafold) | Open source code for AlphaFold. | Python | 12149 | Apache License 2.0 | 2021-06-17 | 2024-07-19 |
+| [dmvr](https://github.com/google-deepmind/dmvr) | None | Python | 64 | Apache License 2.0 | 2021-05-20 | 2024-07-20 |
+| [dm_robotics](https://github.com/google-deepmind/dm_robotics) | Libraries, tools and tasks created and used at DeepMind Robotics. | Python | 322 | Apache License 2.0 | 2021-05-28 | 2024-07-21 |
+| [alphafold](https://github.com/google-deepmind/alphafold) | Open source code for AlphaFold. | Python | 12147 | Apache License 2.0 | 2021-06-17 | 2024-07-21 |
 | [enn](https://github.com/google-deepmind/enn) | None | Python | 284 | Apache License 2.0 | 2021-06-28 | 2024-07-15 |
 | [dm_pix](https://github.com/google-deepmind/dm_pix) | PIX is an image processing library in JAX, for JAX. | Python | 376 | Apache License 2.0 | 2021-06-30 | 2024-07-08 |
 | [meltingpot](https://github.com/google-deepmind/meltingpot) | A suite of test scenarios for multi-agent reinforcement learning. | Python | 562 | Apache License 2.0 | 2021-07-16 | 2024-07-19 |
@@ -5838,7 +5838,7 @@
 | [envlogger](https://github.com/google-deepmind/envlogger) | A tool for recording RL trajectories. | Python | 91 | Apache License 2.0 | 2021-07-28 | 2024-07-17 |
 | [annealed_flow_transport](https://github.com/google-deepmind/annealed_flow_transport) | None | Python | 47 | Apache License 2.0 | 2021-08-12 | 2024-06-14 |
 | [clrs](https://github.com/google-deepmind/clrs) | None | Jupyter Notebook | 411 | Apache License 2.0 | 2021-08-26 | 2024-07-18 |
-| [mujoco](https://github.com/google-deepmind/mujoco) | Multi-Joint dynamics with Contact. A general purpose physics simulator. | Jupyter Notebook | 7575 | Apache License 2.0 | 2021-08-27 | 2024-07-20 |
+| [mujoco](https://github.com/google-deepmind/mujoco) | Multi-Joint dynamics with Contact. A general purpose physics simulator. | Jupyter Notebook | 7579 | Apache License 2.0 | 2021-08-27 | 2024-07-21 |
 | [rgb_stacking](https://github.com/google-deepmind/rgb_stacking) | None | Python | 116 | Apache License 2.0 | 2021-10-01 | 2024-06-27 |
 | [discretisation_drift](https://github.com/google-deepmind/discretisation_drift) | None | Jupyter Notebook | 8 | Apache License 2.0 | 2021-10-01 | 2024-06-17 |
 | [neural_testbed](https://github.com/google-deepmind/neural_testbed) | None | Jupyter Notebook | 189 | Apache License 2.0 | 2021-10-04 | 2024-07-15 |
@@ -5887,7 +5887,7 @@
 | [zipfian_environments](https://github.com/google-deepmind/zipfian_environments) | None | Python | 28 | Apache License 2.0 | 2022-07-28 | 2024-03-19 |
 | [alphastar](https://github.com/google-deepmind/alphastar) | None | Python | 376 | Apache License 2.0 | 2022-08-05 | 2024-07-18 |
 | [conformal_training](https://github.com/google-deepmind/conformal_training) | This repository contains a Jax implementation of conformal training corresponding to the ICLR'22 paper "learning optimal conformal classifiers". | Python | 114 | Apache License 2.0 | 2022-08-12 | 2024-05-29 |
-| [mujoco_menagerie](https://github.com/google-deepmind/mujoco_menagerie) | A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind. | Jupyter Notebook | 1154 | Other | 2022-09-05 | 2024-07-19 |
+| [mujoco_menagerie](https://github.com/google-deepmind/mujoco_menagerie) | A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind. | Jupyter Notebook | 1156 | Other | 2022-09-05 | 2024-07-20 |
 | [s6](https://github.com/google-deepmind/s6) | None | C++ | 145 | - | 2022-09-08 | 2024-07-18 |
 | [alphatensor](https://github.com/google-deepmind/alphatensor) | None | Python | 2654 | Apache License 2.0 | 2022-09-22 | 2024-07-20 |
 | [PGMax](https://github.com/google-deepmind/PGMax) | Loopy belief propagation for factor graphs on discrete variables in JAX | Python | 123 | Apache License 2.0 | 2022-09-22 | 2024-06-17 |
@@ -5897,7 +5897,7 @@
 | [csuite](https://github.com/google-deepmind/csuite) | None | Python | 41 | Apache License 2.0 | 2022-10-18 | 2024-05-02 |
 | [linac](https://github.com/google-deepmind/linac) | None | Jupyter Notebook | 8 | Apache License 2.0 | 2022-10-20 | 2022-12-03 |
 | [.github](https://github.com/google-deepmind/.github) | None | None | 1 | - | 2022-10-26 | 2022-10-26 |
-| [tapnet](https://github.com/google-deepmind/tapnet) | Tracking Any Point (TAP) | Jupyter Notebook | 1175 | Apache License 2.0 | 2022-11-03 | 2024-07-19 |
+| [tapnet](https://github.com/google-deepmind/tapnet) | Tracking Any Point (TAP) | Jupyter Notebook | 1177 | Apache License 2.0 | 2022-11-03 | 2024-07-20 |
 | [dm_nevis](https://github.com/google-deepmind/dm_nevis) | NEVIS'22: Benchmarking the next generation of never-ending learners | Python | 96 | Apache License 2.0 | 2022-11-07 | 2024-06-24 |
 | [inverse_design](https://github.com/google-deepmind/inverse_design) | None | Python | 15 | Apache License 2.0 | 2022-11-16 | 2024-03-28 |
 | [tracr](https://github.com/google-deepmind/tracr) | None | Python | 486 | Apache License 2.0 | 2022-12-01 | 2024-07-14 |
@@ -5924,30 +5924,30 @@
 | [understanding_deep_generative_models_with_generalized_empirical_likelihood](https://github.com/google-deepmind/understanding_deep_generative_models_with_generalized_empirical_likelihood) | None | Jupyter Notebook | 33 | Apache License 2.0 | 2023-06-27 | 2024-06-06 |
 | [codoc](https://github.com/google-deepmind/codoc) | None | Python | 113 | Apache License 2.0 | 2023-07-06 | 2024-07-19 |
 | [ccbo](https://github.com/google-deepmind/ccbo) | This repo contains the code associated to the paper:  "Constrained Causal Bayesian Optimization" by Aglietti Virginia, Alan Malek, Ira Ktena, and Silvia Chiappa. International Conference on Machine Learning. PMLR, 2023. | Python | 12 | Apache License 2.0 | 2023-07-07 | 2024-06-06 |
-| [graphcast](https://github.com/google-deepmind/graphcast) | None | Python | 4406 | Apache License 2.0 | 2023-07-14 | 2024-07-20 |
+| [graphcast](https://github.com/google-deepmind/graphcast) | None | Python | 4407 | Apache License 2.0 | 2023-07-14 | 2024-07-20 |
 | [synjax](https://github.com/google-deepmind/synjax) | None | Python | 238 | Apache License 2.0 | 2023-08-04 | 2024-07-18 |
 | [threednel](https://github.com/google-deepmind/threednel) | None | Python | 15 | Other | 2023-08-11 | 2024-06-27 |
 | [tsuite](https://github.com/google-deepmind/tsuite) | None | Python | 3 | Apache License 2.0 | 2023-08-29 | 2023-10-19 |
 | [alphamissense](https://github.com/google-deepmind/alphamissense) | None | Python | 477 | Apache License 2.0 | 2023-09-13 | 2024-07-18 |
 | [sam_edge](https://github.com/google-deepmind/sam_edge) | None | Python | 12 | Apache License 2.0 | 2023-09-29 | 2024-04-13 |
 | [opro](https://github.com/google-deepmind/opro) | official code for "Large Language Models as Optimizers" | Python | 328 | Apache License 2.0 | 2023-10-02 | 2024-07-19 |
-| [alphageometry](https://github.com/google-deepmind/alphageometry) | None | Python | 3832 | Apache License 2.0 | 2023-10-09 | 2024-07-20 |
-| [open_x_embodiment](https://github.com/google-deepmind/open_x_embodiment) | None | Jupyter Notebook | 663 | Apache License 2.0 | 2023-10-20 | 2024-07-19 |
+| [alphageometry](https://github.com/google-deepmind/alphageometry) | None | Python | 3836 | Apache License 2.0 | 2023-10-09 | 2024-07-21 |
+| [open_x_embodiment](https://github.com/google-deepmind/open_x_embodiment) | None | Jupyter Notebook | 664 | Apache License 2.0 | 2023-10-20 | 2024-07-21 |
 | [language_modeling_is_compression](https://github.com/google-deepmind/language_modeling_is_compression) | None | Python | 76 | Apache License 2.0 | 2023-10-26 | 2024-07-18 |
 | [emotions_courtship](https://github.com/google-deepmind/emotions_courtship) | None | Jupyter Notebook | 2 | Apache License 2.0 | 2023-10-26 | 2024-04-22 |
 | [csil](https://github.com/google-deepmind/csil) | Coherent Soft Imitation Learning | Jupyter Notebook | 10 | Apache License 2.0 | 2023-11-01 | 2024-06-14 |
 | [objaverse_annotations](https://github.com/google-deepmind/objaverse_annotations) | None | None | 5 | Apache License 2.0 | 2023-11-01 | 2024-07-06 |
-| [language_to_reward_2023](https://github.com/google-deepmind/language_to_reward_2023) | None | Python | 93 | Apache License 2.0 | 2023-11-02 | 2024-07-14 |
+| [language_to_reward_2023](https://github.com/google-deepmind/language_to_reward_2023) | None | Python | 94 | Apache License 2.0 | 2023-11-02 | 2024-07-20 |
 | [pix2act](https://github.com/google-deepmind/pix2act) | None | Python | 45 | Apache License 2.0 | 2023-11-13 | 2024-06-21 |
-| [concordia](https://github.com/google-deepmind/concordia) | A library for generative social simulation | Python | 443 | Apache License 2.0 | 2023-11-21 | 2024-07-19 |
+| [concordia](https://github.com/google-deepmind/concordia) | A library for generative social simulation | Python | 444 | Apache License 2.0 | 2023-11-21 | 2024-07-20 |
 | [funsearch](https://github.com/google-deepmind/funsearch) | None | Jupyter Notebook | 671 | Apache License 2.0 | 2023-11-23 | 2024-07-17 |
-| [debate](https://github.com/google-deepmind/debate) | Formalizing stochastic doubly-efficient debate | Lean | 83 | Apache License 2.0 | 2023-11-24 | 2024-07-19 |
+| [debate](https://github.com/google-deepmind/debate) | Formalizing stochastic doubly-efficient debate | Lean | 84 | Apache License 2.0 | 2023-11-24 | 2024-07-20 |
 | [materials_discovery](https://github.com/google-deepmind/materials_discovery) | None | Python | 841 | Apache License 2.0 | 2023-11-28 | 2024-07-18 |
 | [pbde](https://github.com/google-deepmind/pbde) | None | Jupyter Notebook | 6 | Apache License 2.0 | 2023-11-30 | 2024-06-19 |
 | [uncertain_ground_truth](https://github.com/google-deepmind/uncertain_ground_truth) | Dermatology ddx dataset, Jax implementations of Monte Carlo conformal prediction, plausibility regions and statistical annotation aggregation from our recent work on uncertain ground truth (TMLR'23 and ArXiv pre-print). | Python | 334 | Apache License 2.0 | 2023-12-05 | 2024-07-09 |
 | [geomatch](https://github.com/google-deepmind/geomatch) | None | Python | 9 | Apache License 2.0 | 2023-12-07 | 2024-05-08 |
 | [neural_networks_solomonoff_induction](https://github.com/google-deepmind/neural_networks_solomonoff_induction) | Learning Universal Predictors | Python | 60 | Apache License 2.0 | 2023-12-08 | 2024-07-18 |
-| [robovqa](https://github.com/google-deepmind/robovqa) | None | Jupyter Notebook | 10 | Apache License 2.0 | 2023-12-12 | 2024-07-17 |
+| [robovqa](https://github.com/google-deepmind/robovqa) | None | Jupyter Notebook | 11 | Apache License 2.0 | 2023-12-12 | 2024-07-20 |
 | [privately-counting-distinct-elements](https://github.com/google-deepmind/privately-counting-distinct-elements) | Code accompanying "Counting Distinct Elements Under Person-Level Differential Privacy" | Python | 0 | Apache License 2.0 | 2024-01-02 | 2024-01-31 |
 | [asyncdiloco](https://github.com/google-deepmind/asyncdiloco) | None | Jupyter Notebook | 36 | Apache License 2.0 | 2024-01-15 | 2024-07-13 |
 | [nfg_transformer](https://github.com/google-deepmind/nfg_transformer) | None | Python | 5 | Apache License 2.0 | 2024-02-14 | 2024-06-06 |
@@ -5963,11 +5963,11 @@
 | [augmentations_medical_images](https://github.com/google-deepmind/augmentations_medical_images) | None | Jupyter Notebook | 6 | Apache License 2.0 | 2024-03-21 | 2024-05-08 |
 | [codesembench](https://github.com/google-deepmind/codesembench) | None | Python | 12 | Apache License 2.0 | 2024-03-22 | 2024-03-27 |
 | [onetwo](https://github.com/google-deepmind/onetwo) | None | Python | 142 | Apache License 2.0 | 2024-03-25 | 2024-07-19 |
-| [recurrentgemma](https://github.com/google-deepmind/recurrentgemma) | Open weights language model from Google DeepMind, based on Griffin. | Python | 575 | Apache License 2.0 | 2024-03-25 | 2024-07-19 |
+| [recurrentgemma](https://github.com/google-deepmind/recurrentgemma) | Open weights language model from Google DeepMind, based on Griffin. | Python | 576 | Apache License 2.0 | 2024-03-25 | 2024-07-20 |
 | [long-form-factuality](https://github.com/google-deepmind/long-form-factuality) | Benchmarking long-form factuality in large language models. Original code for our paper "Long-form factuality in large language models". | Python | 499 | Other | 2024-03-25 | 2024-07-19 |
 | [starling](https://github.com/google-deepmind/starling) | None | None | 0 | - | 2024-03-31 | 2024-03-31 |
-| [penzai](https://github.com/google-deepmind/penzai) | A JAX research toolkit for building, editing, and visualizing neural networks. | Python | 1561 | Apache License 2.0 | 2024-04-04 | 2024-07-20 |
-| [xtr](https://github.com/google-deepmind/xtr) | XTR: Rethinking the Role of Token Retrieval in Multi-Vector Retrieval | Jupyter Notebook | 27 | Apache License 2.0 | 2024-04-05 | 2024-07-09 |
+| [penzai](https://github.com/google-deepmind/penzai) | A JAX research toolkit for building, editing, and visualizing neural networks. | Python | 1562 | Apache License 2.0 | 2024-04-04 | 2024-07-21 |
+| [xtr](https://github.com/google-deepmind/xtr) | XTR: Rethinking the Role of Token Retrieval in Multi-Vector Retrieval | Jupyter Notebook | 28 | Apache License 2.0 | 2024-04-05 | 2024-07-20 |
 | [searchless_chess](https://github.com/google-deepmind/searchless_chess) | Grandmaster-Level Chess Without Search | Python | 44 | Apache License 2.0 | 2024-04-09 | 2024-07-15 |
 | [reward-ensembles](https://github.com/google-deepmind/reward-ensembles) | None | None | 7 | Apache License 2.0 | 2024-04-10 | 2024-07-12 |
 | [iris](https://github.com/google-deepmind/iris) | None | Python | 1 | Apache License 2.0 | 2024-04-10 | 2024-05-30 |
@@ -5985,10 +5985,10 @@
 | [icml2024-roundtrip-correctness](https://github.com/google-deepmind/icml2024-roundtrip-correctness) | None | Python | 4 | Apache License 2.0 | 2024-06-18 | 2024-06-27 |
 | [tanq](https://github.com/google-deepmind/tanq) | None | Python | 4 | Apache License 2.0 | 2024-06-20 | 2024-06-22 |
 | [magiclens](https://github.com/google-deepmind/magiclens) | [ICML'24 Oral] "MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions" | Python | 73 | Apache License 2.0 | 2024-06-20 | 2024-07-18 |
-| [omninocs](https://github.com/google-deepmind/omninocs) | A large-scale NOCS dataset. | Jupyter Notebook | 40 | Apache License 2.0 | 2024-07-12 | 2024-07-19 |
+| [omninocs](https://github.com/google-deepmind/omninocs) | A large-scale NOCS dataset. | Jupyter Notebook | 41 | Apache License 2.0 | 2024-07-12 | 2024-07-21 |
 | [calm](https://github.com/google-deepmind/calm) | None | Python | 9 | Apache License 2.0 | 2024-07-16 | 2024-07-19 |
 | [advanced-android-testing](https://github.com/google-developer-training/advanced-android-testing) | Android Testing Codelab | Kotlin | 994 | Apache License 2.0 | 2015-10-16 | 2024-07-19 |
-| [pwa-training-labs](https://github.com/google-developer-training/pwa-training-labs) | Open-source training labs for building Progressive Web Apps | HTML | 584 | Apache License 2.0 | 2016-09-22 | 2024-07-16 |
+| [pwa-training-labs](https://github.com/google-developer-training/pwa-training-labs) | Open-source training labs for building Progressive Web Apps | HTML | 585 | Apache License 2.0 | 2016-09-22 | 2024-07-21 |
 | [android-fundamentals](https://github.com/google-developer-training/android-fundamentals) | None | Java | 656 | Other | 2016-12-01 | 2024-07-19 |
 | [android-fundamentals-starter-apps](https://github.com/google-developer-training/android-fundamentals-starter-apps) | None | Java | 93 | Other | 2016-12-01 | 2024-02-16 |
 | [pwa-ecommerce-demo](https://github.com/google-developer-training/pwa-ecommerce-demo) | Sample front-end shopping app | JavaScript | 79 | Apache License 2.0 | 2017-02-13 | 2023-04-03 |
@@ -6073,12 +6073,12 @@
 | [basic-android-kotlin-compose-training-juice-tracker](https://github.com/google-developer-training/basic-android-kotlin-compose-training-juice-tracker) | None | Kotlin | 19 | Apache License 2.0 | 2023-01-26 | 2024-07-13 |
 | [web-fundamentals-security-codelab](https://github.com/google-developer-training/web-fundamentals-security-codelab) | None | JavaScript | 1 | Apache License 2.0 | 2023-01-26 | 2023-01-27 |
 | [generative-ai-swift](https://github.com/google-gemini/generative-ai-swift) | The official Swift library for the Google Gemini API | Swift | 874 | Apache License 2.0 | 2023-04-25 | 2024-07-19 |
-| [generative-ai-python](https://github.com/google-gemini/generative-ai-python) | The official Python library for the Google Gemini API | Python | 1219 | Apache License 2.0 | 2023-05-03 | 2024-07-20 |
-| [generative-ai-android](https://github.com/google-gemini/generative-ai-android) | The official Android library for the Google Gemini API | Kotlin | 649 | Apache License 2.0 | 2023-12-04 | 2024-07-19 |
+| [generative-ai-python](https://github.com/google-gemini/generative-ai-python) | The official Python library for the Google Gemini API | Python | 1221 | Apache License 2.0 | 2023-05-03 | 2024-07-21 |
+| [generative-ai-android](https://github.com/google-gemini/generative-ai-android) | The official Android library for the Google Gemini API | Kotlin | 651 | Apache License 2.0 | 2023-12-04 | 2024-07-21 |
 | [generative-ai-js](https://github.com/google-gemini/generative-ai-js) | The official Node.js / Typescript library for the Google Gemini API | TypeScript | 546 | Apache License 2.0 | 2023-12-04 | 2024-07-19 |
-| [generative-ai-dart](https://github.com/google-gemini/generative-ai-dart) | The official Dart library for the Google Gemini API | Dart | 517 | Apache License 2.0 | 2023-12-11 | 2024-07-20 |
+| [generative-ai-dart](https://github.com/google-gemini/generative-ai-dart) | The official Dart library for the Google Gemini API | Dart | 518 | Apache License 2.0 | 2023-12-11 | 2024-07-20 |
 | [.github](https://github.com/google-gemini/.github) | None | None | 1 | - | 2024-03-01 | 2024-05-27 |
-| [cookbook](https://github.com/google-gemini/cookbook) | Examples and guides for using the Gemini API. | Jupyter Notebook | 4272 | Apache License 2.0 | 2024-03-13 | 2024-07-20 |
+| [cookbook](https://github.com/google-gemini/cookbook) | Examples and guides for using the Gemini API. | Jupyter Notebook | 4280 | Apache License 2.0 | 2024-03-13 | 2024-07-21 |
 | [workshops](https://github.com/google-gemini/workshops) | None | CSS | 4 | Apache License 2.0 | 2024-04-09 | 2024-06-26 |
 | [.allstar](https://github.com/google-gemini/.allstar) | None | None | 1 | - | 2024-04-18 | 2024-05-06 |
 | [angular-database-schema-sample](https://github.com/google-gemini/angular-database-schema-sample) | None | TypeScript | 0 | Apache License 2.0 | 2024-04-30 | 2024-07-11 |
@@ -6092,14 +6092,14 @@
 | [angular-rock-paper-scissors-sample](https://github.com/google-gemini/angular-rock-paper-scissors-sample) | None | TypeScript | 2 | Apache License 2.0 | 2024-05-07 | 2024-07-19 |
 | [angular-journal-buddy-sample](https://github.com/google-gemini/angular-journal-buddy-sample) | None | TypeScript | 0 | Apache License 2.0 | 2024-05-09 | 2024-06-10 |
 | [angular-language-learning-sample](https://github.com/google-gemini/angular-language-learning-sample) | None | TypeScript | 2 | Apache License 2.0 | 2024-05-09 | 2024-07-19 |
-| [gemma-cookbook](https://github.com/google-gemini/gemma-cookbook) | A collection of guides and examples for the Gemma open models from Google. | Jupyter Notebook | 283 | Apache License 2.0 | 2024-05-27 | 2024-07-20 |
+| [gemma-cookbook](https://github.com/google-gemini/gemma-cookbook) | A collection of guides and examples for the Gemma open models from Google. | Jupyter Notebook | 285 | Apache License 2.0 | 2024-05-27 | 2024-07-20 |
 | [setup-gcloud](https://github.com/google-github-actions/setup-gcloud) | A GitHub Action for installing and configuring the gcloud CLI. | TypeScript | 1700 | Apache License 2.0 | 2019-11-05 | 2024-07-19 |
 | [test-infra](https://github.com/google-github-actions/test-infra) | Test infrastructure for Google Github Actions. | HCL | 6 | - | 2020-10-30 | 2024-06-17 |
 | [deploy-appengine](https://github.com/google-github-actions/deploy-appengine) | A GitHub Action that deploys source code to Google App Engine. | TypeScript | 244 | - | 2020-10-31 | 2024-06-28 |
 | [deploy-cloudrun](https://github.com/google-github-actions/deploy-cloudrun) | A GitHub Action for deploying services to Google Cloud Run. | TypeScript | 438 | Apache License 2.0 | 2020-10-31 | 2024-07-19 |
-| [upload-cloud-storage](https://github.com/google-github-actions/upload-cloud-storage) | A GitHub Action for uploading files to a Google Cloud Storage (GCS) bucket. | TypeScript | 208 | Apache License 2.0 | 2020-10-31 | 2024-07-19 |
+| [upload-cloud-storage](https://github.com/google-github-actions/upload-cloud-storage) | A GitHub Action for uploading files to a Google Cloud Storage (GCS) bucket. | TypeScript | 207 | Apache License 2.0 | 2020-10-31 | 2024-07-20 |
 | [get-gke-credentials](https://github.com/google-github-actions/get-gke-credentials) | A GitHub Action that configure authentication to a GKE cluster. | TypeScript | 98 | Apache License 2.0 | 2020-10-31 | 2024-07-02 |
-| [get-secretmanager-secrets](https://github.com/google-github-actions/get-secretmanager-secrets) | A GitHub Action for accessing secrets from Google Secret Manager and making them available as outputs. | TypeScript | 140 | Apache License 2.0 | 2020-10-31 | 2024-07-19 |
+| [get-secretmanager-secrets](https://github.com/google-github-actions/get-secretmanager-secrets) | A GitHub Action for accessing secrets from Google Secret Manager and making them available as outputs. | TypeScript | 140 | Apache License 2.0 | 2020-10-31 | 2024-07-20 |
 | [deploy-cloud-functions](https://github.com/google-github-actions/deploy-cloud-functions) | A GitHub Action that deploys source code to Google Cloud Functions. | TypeScript | 303 | Apache License 2.0 | 2020-10-31 | 2024-07-16 |
 | [.github](https://github.com/google-github-actions/.github) | Default files for google-github-actions | JavaScript | 4 | - | 2021-02-12 | 2024-05-23 |
 | [actions-docs](https://github.com/google-github-actions/actions-docs) | Generate documentation for GitHub Actions | None | 0 | - | 2021-04-09 | 2023-11-30 |
@@ -6111,9 +6111,9 @@
 | [actions-utils](https://github.com/google-github-actions/actions-utils) | An NPM package for Google GitHub Actions utils. | TypeScript | 6 | Apache License 2.0 | 2021-12-16 | 2024-06-03 |
 | [example-workflows](https://github.com/google-github-actions/example-workflows) | Repository to demonstrate example workflows. | Go | 59 | Apache License 2.0 | 2022-04-14 | 2024-07-08 |
 | [run-vertexai-notebook](https://github.com/google-github-actions/run-vertexai-notebook) | A GitHub Action for running a Google Cloud Vertex AI notebook. | None | 20 | Apache License 2.0 | 2022-06-08 | 2024-06-18 |
-| [.allstar](https://github.com/google-github-actions/.allstar) | None | None | 0 | - | 2022-10-26 | 2022-10-26 |
+| [.allstar](https://github.com/google-github-actions/.allstar) | None | None | 0 | - | 2022-10-26 | 2024-07-20 |
 | [create-cloud-deploy-release](https://github.com/google-github-actions/create-cloud-deploy-release) | A GitHub Action for creating releases via Cloud Deploy. | TypeScript | 17 | Apache License 2.0 | 2022-12-01 | 2024-06-21 |
-| [send-google-chat-webhook](https://github.com/google-github-actions/send-google-chat-webhook) | A GitHub Action for sending a message to Google Chat via a webhook. | Go | 4 | Apache License 2.0 | 2023-07-19 | 2024-07-04 |
+| [send-google-chat-webhook](https://github.com/google-github-actions/send-google-chat-webhook) | A GitHub Action for sending a message to Google Chat via a webhook. | Go | 4 | Apache License 2.0 | 2023-07-19 | 2024-07-20 |
 | [analyze-code-security-scc](https://github.com/google-github-actions/analyze-code-security-scc) | A GitHub Action to analyze Terraform and IaC configurations in Security Command Center. | TypeScript | 2 | Apache License 2.0 | 2024-01-08 | 2024-07-06 |
 | [deploy-gke](https://github.com/google-github-actions/deploy-gke) | A GitHub Action to deploy workloads to Google Kubernetes Engine. | Shell | 3 | Apache License 2.0 | 2024-03-12 | 2024-07-12 |
 | [release-please-action](https://github.com/google-github-actions/release-please-action) | Archived version of release-please | TypeScript | 4 | Apache License 2.0 | 2024-05-13 | 2024-06-15 |
@@ -6229,16 +6229,16 @@
 | [compose-pay-button](https://github.com/google-pay/compose-pay-button) | An Android library that provides a Jetpack Compose wrapper on top of the Google Pay Button API. | Kotlin | 20 | Apache License 2.0 | 2023-05-09 | 2024-07-16 |
 | [live-integrations-adyen](https://github.com/google-pay/live-integrations-adyen) | None | JavaScript | 0 | Apache License 2.0 | 2023-09-04 | 2023-09-21 |
 | [batch-ppo](https://github.com/google-research/batch-ppo) | Efficient Batched Reinforcement Learning in TensorFlow | Python | 967 | Apache License 2.0 | 2017-09-08 | 2024-07-14 |
-| [google-research](https://github.com/google-research/google-research) | Google Research | Jupyter Notebook | 33470 | Apache License 2.0 | 2018-10-04 | 2024-07-20 |
+| [google-research](https://github.com/google-research/google-research) | Google Research | Jupyter Notebook | 33474 | Apache License 2.0 | 2018-10-04 | 2024-07-21 |
 | [language](https://github.com/google-research/language) | Shared repository for open-sourced projects from the Google AI Language team. | Python | 1585 | Apache License 2.0 | 2018-10-16 | 2024-07-18 |
 | [data-driven-advection](https://github.com/google-research/data-driven-advection) | None | Jupyter Notebook | 185 | Apache License 2.0 | 2018-10-23 | 2024-05-22 |
-| [bert](https://github.com/google-research/bert) | TensorFlow code and pre-trained models for BERT | Python | 37519 | Apache License 2.0 | 2018-10-25 | 2024-07-20 |
+| [bert](https://github.com/google-research/bert) | TensorFlow code and pre-trained models for BERT | Python | 37525 | Apache License 2.0 | 2018-10-25 | 2024-07-21 |
 | [policy-learning-landscape](https://github.com/google-research/policy-learning-landscape) | Explore the optimization landscape for direct policy learning reinforcement learning. | Jupyter Notebook | 50 | Apache License 2.0 | 2018-10-30 | 2024-05-27 |
 | [lottery-ticket-hypothesis](https://github.com/google-research/lottery-ticket-hypothesis) | A reimplementation of "The Lottery Ticket Hypothesis" (Frankle and Carbin) on MNIST. | Python | 705 | Apache License 2.0 | 2018-11-02 | 2024-07-15 |
 | [autoconj](https://github.com/google-research/autoconj) | Recognizing and exploiting conjugacy without a domain-specific language | Python | 36 | Apache License 2.0 | 2018-12-01 | 2024-01-04 |
 | [exoplanet-ml](https://github.com/google-research/exoplanet-ml) | Machine learning models and utilities for exoplanet science. | Python | 293 | Apache License 2.0 | 2018-12-04 | 2024-06-13 |
-| [nasbench](https://github.com/google-research/nasbench) | NASBench: A Neural Architecture Search Dataset and Benchmark | Python | 679 | Apache License 2.0 | 2018-12-21 | 2024-07-15 |
-| [arxiv-latex-cleaner](https://github.com/google-research/arxiv-latex-cleaner) | arXiv LaTeX Cleaner: Easily clean the LaTeX code of your paper to submit to arXiv | Python | 5037 | Apache License 2.0 | 2019-01-08 | 2024-07-20 |
+| [nasbench](https://github.com/google-research/nasbench) | NASBench: A Neural Architecture Search Dataset and Benchmark | Python | 678 | Apache License 2.0 | 2018-12-21 | 2024-07-20 |
+| [arxiv-latex-cleaner](https://github.com/google-research/arxiv-latex-cleaner) | arXiv LaTeX Cleaner: Easily clean the LaTeX code of your paper to submit to arXiv | Python | 5042 | Apache License 2.0 | 2019-01-08 | 2024-07-21 |
 | [tensorflow_constrained_optimization](https://github.com/google-research/tensorflow_constrained_optimization) | None | Python | 301 | Other | 2019-01-24 | 2024-07-02 |
 | [disentanglement_lib](https://github.com/google-research/disentanglement_lib) | disentanglement_lib is an open-source library for research on learning disentangled representations. | Python | 1364 | Apache License 2.0 | 2019-02-09 | 2024-07-17 |
 | [computation-thru-dynamics](https://github.com/google-research/computation-thru-dynamics) | Understanding computation in artificial and biological recurrent networks through the lens of dynamical systems. | Jupyter Notebook | 366 | Apache License 2.0 | 2019-02-12 | 2024-07-17 |
@@ -6267,14 +6267,14 @@
 | [swift-tfp](https://github.com/google-research/swift-tfp) | Find shape errors before you run your code! | Swift | 148 | Apache License 2.0 | 2019-10-07 | 2024-07-08 |
 | [seed_rl](https://github.com/google-research/seed_rl) | SEED RL: Scalable and Efficient Deep-RL with Accelerated Central Inference. Implements IMPALA and R2D2 algorithms in TF2 with SEED's architecture. | Python | 793 | Apache License 2.0 | 2019-10-14 | 2024-07-18 |
 | [receptive_field](https://github.com/google-research/receptive_field) | Compute receptive fields of your favorite convnets | Python | 428 | Apache License 2.0 | 2019-10-14 | 2024-07-16 |
-| [text-to-text-transfer-transformer](https://github.com/google-research/text-to-text-transfer-transformer) | Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer" | Python | 6036 | Apache License 2.0 | 2019-10-17 | 2024-07-19 |
+| [text-to-text-transfer-transformer](https://github.com/google-research/text-to-text-transfer-transformer) | Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer" | Python | 6037 | Apache License 2.0 | 2019-10-17 | 2024-07-20 |
 | [neural-structural-optimization](https://github.com/google-research/neural-structural-optimization) | Neural reparameterization improves structural optimization | Jupyter Notebook | 117 | Apache License 2.0 | 2019-10-20 | 2024-05-10 |
 | [s4l](https://github.com/google-research/s4l) | Tensorflow implementation of S4L: Self-Supervised Semi-Supervised Learning | Python | 95 | Apache License 2.0 | 2019-10-23 | 2024-02-29 |
 | [dex-lang](https://github.com/google-research/dex-lang) | Research language for array processing in the Haskell/ML family | Haskell | 1564 | BSD 3-Clause "New" or "Revised" License | 2019-10-25 | 2024-07-19 |
 | [lasertagger](https://github.com/google-research/lasertagger) | None | Python | 606 | Apache License 2.0 | 2019-10-31 | 2024-05-27 |
 | [rigl](https://github.com/google-research/rigl) | End-to-end training of sparse deep neural networks with little-to-no performance loss.  | Python | 313 | Apache License 2.0 | 2019-11-25 | 2024-07-12 |
-| [albert](https://github.com/google-research/albert) | ALBERT: A Lite BERT for Self-supervised Learning of Language Representations | Python | 3223 | Apache License 2.0 | 2019-11-26 | 2024-07-11 |
-| [dreamer](https://github.com/google-research/dreamer) | Dream to Control: Learning Behaviors by Latent Imagination | Python | 596 | Apache License 2.0 | 2019-11-29 | 2024-07-15 |
+| [albert](https://github.com/google-research/albert) | ALBERT: A Lite BERT for Self-supervised Learning of Language Representations | Python | 3224 | Apache License 2.0 | 2019-11-26 | 2024-07-20 |
+| [dreamer](https://github.com/google-research/dreamer) | Dream to Control: Learning Behaviors by Latent Imagination | Python | 597 | Apache License 2.0 | 2019-11-29 | 2024-07-20 |
 | [augmix](https://github.com/google-research/augmix) | AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty | Python | 966 | Apache License 2.0 | 2019-12-05 | 2024-07-09 |
 | [rl-reliability-metrics](https://github.com/google-research/rl-reliability-metrics) | The RL Reliability Metrics library provides a set of metrics for measuring the reliability of reinforcement learning (RL) algorithms, as well as statistical tools for comparing algorithms and for computing confidence intervals on these metrics. | Python | 158 | Apache License 2.0 | 2019-12-06 | 2024-07-09 |
 | [libsoftwaresync](https://github.com/google-research/libsoftwaresync) | :camera: :camera: :camera: :camera: :camera: Wireless software synchronization of multiple distributed smartphone cameras. | Java | 143 | Apache License 2.0 | 2019-12-12 | 2024-07-12 |
@@ -6290,8 +6290,8 @@
 | [electra](https://github.com/google-research/electra) | ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators | Python | 2315 | Apache License 2.0 | 2020-03-10 | 2024-07-15 |
 | [simclr](https://github.com/google-research/simclr) | SimCLRv2 - Big Self-Supervised Models are Strong Semi-Supervised Learners | Jupyter Notebook | 4019 | Apache License 2.0 | 2020-03-10 | 2024-07-19 |
 | [realworldrl_suite](https://github.com/google-research/realworldrl_suite) | Real-World RL Benchmark Suite | Python | 339 | Apache License 2.0 | 2020-03-23 | 2024-06-21 |
-| [pegasus](https://github.com/google-research/pegasus) | None | Python | 1599 | Apache License 2.0 | 2020-03-25 | 2024-07-15 |
-| [tapas](https://github.com/google-research/tapas) | End-to-end neural table-text understanding models. | Python | 1126 | Apache License 2.0 | 2020-03-31 | 2024-07-18 |
+| [pegasus](https://github.com/google-research/pegasus) | None | Python | 1600 | Apache License 2.0 | 2020-03-25 | 2024-07-20 |
+| [tapas](https://github.com/google-research/tapas) | End-to-end neural table-text understanding models. | Python | 1127 | Apache License 2.0 | 2020-03-31 | 2024-07-21 |
 | [xtreme](https://github.com/google-research/xtreme) | XTREME is a benchmark for the evaluation of the cross-lingual generalization ability of pre-trained multilingual models that covers 40 typologically diverse languages and includes nine tasks. | Python | 623 | Apache License 2.0 | 2020-04-07 | 2024-07-18 |
 | [evoflow](https://github.com/google-research/evoflow) | None | Jupyter Notebook | 32 | Apache License 2.0 | 2020-04-17 | 2024-06-05 |
 | [cryptanalytic-model-extraction](https://github.com/google-research/cryptanalytic-model-extraction) | None | Python | 41 | Apache License 2.0 | 2020-04-23 | 2024-06-23 |
@@ -6307,7 +6307,7 @@
 | [generic-adaptive-restarts](https://github.com/google-research/generic-adaptive-restarts) | None | Julia | 6 | Apache License 2.0 | 2020-06-24 | 2024-05-24 |
 | [agent-based-epidemic-sim](https://github.com/google-research/agent-based-epidemic-sim) | None | Jupyter Notebook | 45 | Apache License 2.0 | 2020-06-27 | 2024-06-29 |
 | [torchsde](https://github.com/google-research/torchsde) | Differentiable SDE solvers with GPU support and efficient sensitivity analysis.  | Python | 1529 | Apache License 2.0 | 2020-07-06 | 2024-07-19 |
-| [kubric](https://github.com/google-research/kubric) | A data generation pipeline for creating semi-realistic synthetic multi-object videos with rich annotations such as instance segmentation masks, depth maps, and optical flow. | Jupyter Notebook | 2238 | Apache License 2.0 | 2020-07-22 | 2024-07-20 |
+| [kubric](https://github.com/google-research/kubric) | A data generation pipeline for creating semi-realistic synthetic multi-object videos with rich annotations such as instance segmentation masks, depth maps, and optical flow. | Jupyter Notebook | 2239 | Apache License 2.0 | 2020-07-22 | 2024-07-20 |
 | [sputnik](https://github.com/google-research/sputnik) | A library of GPU kernels for sparse matrix operations. | C++ | 238 | Apache License 2.0 | 2020-07-23 | 2024-07-18 |
 | [reverse-engineering-neural-networks](https://github.com/google-research/reverse-engineering-neural-networks) | A collection of tools for reverse engineering neural networks. | Jupyter Notebook | 138 | Apache License 2.0 | 2020-07-23 | 2024-06-07 |
 | [keyboard_oracle](https://github.com/google-research/keyboard_oracle) | A dynamic 'keyboard' made using Flutter. The keyboard uses what the user has already typed to predict what is most likely to come next and displays these predictions as buttons. | Dart | 9 | Apache License 2.0 | 2020-08-03 | 2024-07-14 |
@@ -6329,13 +6329,13 @@
 | [social_cascades](https://github.com/google-research/social_cascades) | None | Python | 16 | Apache License 2.0 | 2020-10-07 | 2024-06-19 |
 | [math-opt-benchmark](https://github.com/google-research/math-opt-benchmark) | None | C++ | 5 | Apache License 2.0 | 2020-10-08 | 2024-07-10 |
 | [pisac](https://github.com/google-research/pisac) | Tensorflow 2 source code for the PI-SAC agent from "Predictive Information Accelerates Learning in RL" (NeurIPS 2020) | Python | 40 | Apache License 2.0 | 2020-10-13 | 2024-05-27 |
-| [vision_transformer](https://github.com/google-research/vision_transformer) | None | Jupyter Notebook | 9785 | Apache License 2.0 | 2020-10-21 | 2024-07-19 |
+| [vision_transformer](https://github.com/google-research/vision_transformer) | None | Jupyter Notebook | 9787 | Apache License 2.0 | 2020-10-21 | 2024-07-21 |
 | [tf-opt](https://github.com/google-research/tf-opt) | None | C++ | 37 | Apache License 2.0 | 2020-10-22 | 2024-03-24 |
-| [multilingual-t5](https://github.com/google-research/multilingual-t5) | None | Python | 1236 | Apache License 2.0 | 2020-10-22 | 2024-07-15 |
+| [multilingual-t5](https://github.com/google-research/multilingual-t5) | None | Python | 1235 | Apache License 2.0 | 2020-10-22 | 2024-07-20 |
 | [noisy-fewshot-learning](https://github.com/google-research/noisy-fewshot-learning) | None | Python | 23 | Apache License 2.0 | 2020-10-29 | 2024-01-04 |
 | [mozolm](https://github.com/google-research/mozolm) | MozoLM: A language model (LM) serving library | C++ | 42 | Apache License 2.0 | 2020-10-30 | 2024-01-04 |
 | [understanding-transfer-learning](https://github.com/google-research/understanding-transfer-learning) | None | Python | 41 | Apache License 2.0 | 2020-11-04 | 2024-01-04 |
-| [long-range-arena](https://github.com/google-research/long-range-arena) | Long Range Arena for Benchmarking Efficient Transformers | Python | 703 | Apache License 2.0 | 2020-11-07 | 2024-07-18 |
+| [long-range-arena](https://github.com/google-research/long-range-arena) | Long Range Arena for Benchmarking Efficient Transformers | Python | 704 | Apache License 2.0 | 2020-11-07 | 2024-07-20 |
 | [graph-attribution](https://github.com/google-research/graph-attribution) | Codebase for Evaluating Attribution for Graph Neural Networks. | Jupyter Notebook | 73 | Apache License 2.0 | 2020-11-13 | 2024-06-14 |
 | [soft-dtw-divergences](https://github.com/google-research/soft-dtw-divergences) | An implementation of soft-DTW divergences. | Python | 131 | Apache License 2.0 | 2020-11-18 | 2024-05-14 |
 | [ruse](https://github.com/google-research/ruse) | None | Python | 4 | Apache License 2.0 | 2020-11-21 | 2023-01-27 |
@@ -6368,7 +6368,7 @@
 | [deadunits](https://github.com/google-research/deadunits) | None | Python | 4 | Apache License 2.0 | 2021-03-31 | 2021-11-05 |
 | [crossbeam](https://github.com/google-research/crossbeam) | None | Python | 40 | Apache License 2.0 | 2021-04-05 | 2024-07-14 |
 | [DP-FTRL](https://github.com/google-research/DP-FTRL) | DP-FTRL from "Practical and Private (Deep) Learning without Sampling or Shuffling" for centralized training. | Python | 22 | Apache License 2.0 | 2021-04-09 | 2024-07-18 |
-| [python-graphs](https://github.com/google-research/python-graphs) | A static analysis library for computing graph representations of Python programs suitable for use with graph neural networks. | Python | 323 | Apache License 2.0 | 2021-04-12 | 2024-07-03 |
+| [python-graphs](https://github.com/google-research/python-graphs) | A static analysis library for computing graph representations of Python programs suitable for use with graph neural networks. | Python | 324 | Apache License 2.0 | 2021-04-12 | 2024-07-20 |
 | [socialgood](https://github.com/google-research/socialgood) | None | Jupyter Notebook | 10 | Apache License 2.0 | 2021-04-19 | 2024-05-21 |
 | [selfstudy-adversarial-robustness](https://github.com/google-research/selfstudy-adversarial-robustness) | None | Python | 117 | Apache License 2.0 | 2021-04-29 | 2024-07-19 |
 | [deeplab2](https://github.com/google-research/deeplab2) | DeepLab2 is a TensorFlow library for deep labeling, aiming to provide a unified and state-of-the-art TensorFlow codebase for dense pixel labeling tasks. | Python | 992 | Apache License 2.0 | 2021-05-12 | 2024-07-18 |
@@ -6376,7 +6376,7 @@
 | [runtime-error-prediction](https://github.com/google-research/runtime-error-prediction) | This is the repository for the paper Static Prediction of Runtime Errors by Learning to Execute Programs with External Resource Descriptions, and for the Python Runtime Errors (PRE) dataset. | Python | 25 | Apache License 2.0 | 2021-05-13 | 2024-04-23 |
 | [crest](https://github.com/google-research/crest) | Repo for CReST: A Class-Rebalancing Self-Training Framework for Imbalanced Semi-Supervised Learning | Python | 93 | Apache License 2.0 | 2021-05-18 | 2024-06-03 |
 | [mint](https://github.com/google-research/mint) | Multi-modal Content Creation Model Training Infrastructure including the FACT model (AI Choreographer) implementation.  | Python | 496 | Apache License 2.0 | 2021-05-19 | 2024-07-10 |
-| [raksha](https://github.com/google-research/raksha) | None | C++ | 31 | Apache License 2.0 | 2021-05-20 | 2024-07-05 |
+| [raksha](https://github.com/google-research/raksha) | None | C++ | 32 | Apache License 2.0 | 2021-05-20 | 2024-07-20 |
 | [byt5](https://github.com/google-research/byt5) | None | Python | 477 | Apache License 2.0 | 2021-05-26 | 2024-07-16 |
 | [nested-transformer](https://github.com/google-research/nested-transformer) | Nested Hierarchical Transformer https://arxiv.org/pdf/2105.12723.pdf | Jupyter Notebook | 189 | Apache License 2.0 | 2021-06-01 | 2024-03-28 |
 | [fnc](https://github.com/google-research/fnc) | None | Python | 23 | Apache License 2.0 | 2021-06-01 | 2024-06-26 |
@@ -6385,9 +6385,9 @@
 | [automemcpy](https://github.com/google-research/automemcpy) | None | C++ | 20 | Apache License 2.0 | 2021-06-24 | 2024-06-06 |
 | [xmcgan_image_generation](https://github.com/google-research/xmcgan_image_generation) | None | Python | 98 | - | 2021-06-24 | 2024-05-08 |
 | [localmot](https://github.com/google-research/localmot) | None | Python | 19 | Apache License 2.0 | 2021-06-26 | 2024-01-20 |
-| [scenic](https://github.com/google-research/scenic) | Scenic: A Jax Library for Computer Vision Research and Beyond | Python | 3154 | Apache License 2.0 | 2021-07-12 | 2024-07-19 |
+| [scenic](https://github.com/google-research/scenic) | Scenic: A Jax Library for Computer Vision Research and Beyond | Python | 3155 | Apache License 2.0 | 2021-07-12 | 2024-07-21 |
 | [cross-replication-reliability](https://github.com/google-research/cross-replication-reliability) | None | Java | 5 | Apache License 2.0 | 2021-07-12 | 2023-11-16 |
-| [deduplicate-text-datasets](https://github.com/google-research/deduplicate-text-datasets) | None | Rust | 1052 | Apache License 2.0 | 2021-07-16 | 2024-07-19 |
+| [deduplicate-text-datasets](https://github.com/google-research/deduplicate-text-datasets) | None | Rust | 1054 | Apache License 2.0 | 2021-07-16 | 2024-07-20 |
 | [adamatch](https://github.com/google-research/adamatch) | None | Python | 61 | Apache License 2.0 | 2021-07-20 | 2024-07-02 |
 | [sunds](https://github.com/google-research/sunds) | None | Python | 24 | Apache License 2.0 | 2021-07-26 | 2024-06-10 |
 | [rlds](https://github.com/google-research/rlds) | None | Jupyter Notebook | 251 | Apache License 2.0 | 2021-08-09 | 2024-07-19 |
@@ -6403,14 +6403,14 @@
 | [ibc](https://github.com/google-research/ibc) | Official implementation of Implicit Behavioral Cloning, as described in our CoRL 2021 paper, see more at https://implicitbc.github.io/ | Python | 298 | Apache License 2.0 | 2021-09-14 | 2024-07-16 |
 | [smore](https://github.com/google-research/smore) | None | Python | 162 | Apache License 2.0 | 2021-09-23 | 2024-07-01 |
 | [vmf_embeddings](https://github.com/google-research/vmf_embeddings) | None | Python | 10 | Apache License 2.0 | 2021-10-06 | 2024-07-10 |
-| [vmoe](https://github.com/google-research/vmoe) | None | Jupyter Notebook | 541 | Apache License 2.0 | 2021-10-08 | 2024-07-20 |
+| [vmoe](https://github.com/google-research/vmoe) | None | Jupyter Notebook | 543 | Apache License 2.0 | 2021-10-08 | 2024-07-21 |
 | [heatnet](https://github.com/google-research/heatnet) | None | Python | 9 | GNU General Public License v3.0 | 2021-10-08 | 2023-10-16 |
 | [compressive-visual-representations](https://github.com/google-research/compressive-visual-representations) | Tensorflow 2 implementations of the C-SimCLR and C-BYOL self-supervised visual representation methods from "Compressive Visual Representations" (NeurIPS 2021) | Python | 35 | Apache License 2.0 | 2021-10-18 | 2024-02-22 |
 | [hyperbo](https://github.com/google-research/hyperbo) | Pre-trained Gaussian processes for Bayesian optimization | Python | 70 | Apache License 2.0 | 2021-10-19 | 2024-06-16 |
-| [t5x](https://github.com/google-research/t5x) | None | Python | 2590 | Apache License 2.0 | 2021-11-01 | 2024-07-19 |
+| [t5x](https://github.com/google-research/t5x) | None | Python | 2592 | Apache License 2.0 | 2021-11-01 | 2024-07-20 |
 | [circuit_training](https://github.com/google-research/circuit_training) | None | Python | 710 | Apache License 2.0 | 2021-11-02 | 2024-07-16 |
 | [slip](https://github.com/google-research/slip) | SLIP is a sandbox environment for engineering protein sequences with synthetic fitness functions. | Python | 18 | - | 2021-11-24 | 2024-06-07 |
-| [jax3d](https://github.com/google-research/jax3d) | None | Python | 722 | Apache License 2.0 | 2021-12-02 | 2024-07-16 |
+| [jax3d](https://github.com/google-research/jax3d) | None | Python | 723 | Apache License 2.0 | 2021-12-02 | 2024-07-20 |
 | [plur](https://github.com/google-research/plur) | PLUR (Programming-Language Understanding and Repair) is a collection of source code datasets suitable for graph-based machine learning. We provide scripts for downloading, processing, and loading the datasets. This is done by offering a unified API and data structures for all datasets. | Python | 88 | Apache License 2.0 | 2021-12-02 | 2024-03-25 |
 | [l2p](https://github.com/google-research/l2p) | Learning to Prompt (L2P) for Continual Learning @ CVPR22 and DualPrompt: Complementary Prompting for Rehearsal-free Continual Learning @ ECCV22 | Python | 387 | Apache License 2.0 | 2021-12-03 | 2024-07-13 |
 | [head2toe](https://github.com/google-research/head2toe) | None | Python | 81 | Apache License 2.0 | 2021-12-06 | 2024-05-07 |
@@ -6428,10 +6428,10 @@
 | [sofima](https://github.com/google-research/sofima) | Scalable Optical Flow-based Image Montaging and Alignment | Jupyter Notebook | 51 | Apache License 2.0 | 2022-02-11 | 2024-07-18 |
 | [connectomics](https://github.com/google-research/connectomics) | None | Python | 27 | Apache License 2.0 | 2022-02-11 | 2024-07-18 |
 | [longt5](https://github.com/google-research/longt5) | None | Python | 173 | Apache License 2.0 | 2022-02-24 | 2024-07-13 |
-| [pix2seq](https://github.com/google-research/pix2seq) | Pix2Seq codebase: multi-tasks with generative modeling (autoregressive and diffusion) | Jupyter Notebook | 839 | Apache License 2.0 | 2022-03-08 | 2024-07-16 |
+| [pix2seq](https://github.com/google-research/pix2seq) | Pix2Seq codebase: multi-tasks with generative modeling (autoregressive and diffusion) | Jupyter Notebook | 840 | Apache License 2.0 | 2022-03-08 | 2024-07-20 |
 | [maxim](https://github.com/google-research/maxim) | [CVPR 2022 Oral] Official repository for "MAXIM: Multi-Axis MLP for Image Processing". SOTA for denoising, deblurring, deraining, dehazing, and enhancement. | Python | 977 | Apache License 2.0 | 2022-03-15 | 2024-07-14 |
 | [visu3d](https://github.com/google-research/visu3d) | 3d without friction (Torch, TF, Jax, Numpy) | Python | 143 | Apache License 2.0 | 2022-03-18 | 2024-07-11 |
-| [perch](https://github.com/google-research/perch) | None | Python | 156 | Apache License 2.0 | 2022-03-18 | 2024-07-18 |
+| [perch](https://github.com/google-research/perch) | None | Python | 157 | Apache License 2.0 | 2022-03-18 | 2024-07-21 |
 | [slot-attention-video](https://github.com/google-research/slot-attention-video) | None | Python | 143 | Apache License 2.0 | 2022-03-21 | 2024-07-02 |
 | [dialog-inpainting](https://github.com/google-research/dialog-inpainting) | None | None | 96 | Apache License 2.0 | 2022-03-22 | 2024-05-29 |
 | [causal-agents](https://github.com/google-research/causal-agents) | None | None | 32 | Apache License 2.0 | 2022-03-22 | 2024-07-07 |
@@ -6441,12 +6441,12 @@
 | [vdm](https://github.com/google-research/vdm) | None | Jupyter Notebook | 284 | Apache License 2.0 | 2022-03-29 | 2024-07-13 |
 | [graphworld](https://github.com/google-research/graphworld) | None | Python | 169 | Apache License 2.0 | 2022-03-30 | 2024-07-18 |
 | [sparse_dp_histograms](https://github.com/google-research/sparse_dp_histograms) | None | Jupyter Notebook | 7 | Apache License 2.0 | 2022-04-04 | 2024-05-07 |
-| [big_vision](https://github.com/google-research/big_vision) | Official codebase used to develop Vision Transformer, SigLIP, MLP-Mixer, LiT and more. | Jupyter Notebook | 2050 | Apache License 2.0 | 2022-04-04 | 2024-07-20 |
+| [big_vision](https://github.com/google-research/big_vision) | Official codebase used to develop Vision Transformer, SigLIP, MLP-Mixer, LiT and more. | Jupyter Notebook | 2053 | Apache License 2.0 | 2022-04-04 | 2024-07-21 |
 | [maskgit](https://github.com/google-research/maskgit) | Official Jax Implementation of MaskGIT | Jupyter Notebook | 406 | Apache License 2.0 | 2022-04-06 | 2024-07-17 |
 | [t5x_retrieval](https://github.com/google-research/t5x_retrieval) | None | Python | 93 | Apache License 2.0 | 2022-04-22 | 2024-07-19 |
 | [url-nlp](https://github.com/google-research/url-nlp) | None | Python | 176 | - | 2022-04-28 | 2024-07-18 |
 | [imagenet-mistakes](https://github.com/google-research/imagenet-mistakes) | None | Jupyter Notebook | 18 | Apache License 2.0 | 2022-05-04 | 2024-07-19 |
-| [arco-era5](https://github.com/google-research/arco-era5) | Recipes for reproducing Analysis-Ready & Cloud Optimized (ARCO) ERA5 datasets. | Python | 262 | Apache License 2.0 | 2022-05-05 | 2024-07-19 |
+| [arco-era5](https://github.com/google-research/arco-era5) | Recipes for reproducing Analysis-Ready & Cloud Optimized (ARCO) ERA5 datasets. | Python | 264 | Apache License 2.0 | 2022-05-05 | 2024-07-21 |
 | [perceiver-ar](https://github.com/google-research/perceiver-ar) | None | Python | 230 | Apache License 2.0 | 2022-05-26 | 2024-07-09 |
 | [meliad](https://github.com/google-research/meliad) | None | Python | 236 | Apache License 2.0 | 2022-05-26 | 2024-07-11 |
 | [skai](https://github.com/google-research/skai) | SKAI is a machine learning based tool for performing automatic building damage assessments on aerial imagery of disaster sites. | Python | 97 | Apache License 2.0 | 2022-06-01 | 2024-07-16 |
@@ -6488,11 +6488,11 @@
 | [language-table](https://github.com/google-research/language-table) | Suite of human-collected datasets and a multi-task continuous control benchmark for open vocabulary visuolinguomotor learning. | Jupyter Notebook | 247 | Apache License 2.0 | 2022-11-04 | 2024-07-19 |
 | [discs](https://github.com/google-research/discs) | DISCS: The code base for the Benchmark for Discrete Sampling | Python | 43 | Apache License 2.0 | 2022-11-14 | 2024-06-11 |
 | [composed_image_retrieval](https://github.com/google-research/composed_image_retrieval) | None | Shell | 155 | Apache License 2.0 | 2022-11-15 | 2024-07-18 |
-| [magvit](https://github.com/google-research/magvit) | Official JAX implementation of MAGVIT: Masked Generative Video Transformer | Python | 908 | Apache License 2.0 | 2022-12-01 | 2024-07-19 |
-| [robotics_transformer](https://github.com/google-research/robotics_transformer) | None | Python | 1256 | Apache License 2.0 | 2022-12-05 | 2024-07-19 |
+| [magvit](https://github.com/google-research/magvit) | Official JAX implementation of MAGVIT: Masked Generative Video Transformer | Python | 909 | Apache License 2.0 | 2022-12-01 | 2024-07-21 |
+| [robotics_transformer](https://github.com/google-research/robotics_transformer) | None | Python | 1257 | Apache License 2.0 | 2022-12-05 | 2024-07-21 |
 | [masksketch](https://github.com/google-research/masksketch) | None | Python | 50 | Apache License 2.0 | 2022-12-14 | 2024-07-12 |
 | [unified_functional_hashing](https://github.com/google-research/unified_functional_hashing) | None | Python | 11 | Apache License 2.0 | 2022-12-16 | 2023-07-24 |
-| [tuning_playbook](https://github.com/google-research/tuning_playbook) | A playbook for systematically maximizing the performance of deep learning models. | None | 25889 | Other | 2023-01-18 | 2024-07-20 |
+| [tuning_playbook](https://github.com/google-research/tuning_playbook) | A playbook for systematically maximizing the performance of deep learning models. | None | 25899 | Other | 2023-01-18 | 2024-07-21 |
 | [trc](https://github.com/google-research/trc) | None | None | 8 | Apache License 2.0 | 2023-01-27 | 2023-08-15 |
 | [noise2music](https://github.com/google-research/noise2music) | None | TeX | 53 | Apache License 2.0 | 2023-02-08 | 2024-05-13 |
 | [r_u_sure](https://github.com/google-research/r_u_sure) | Code accompanying the paper "R-U-SURE? Uncertainty-Aware Code Suggestions By Maximizing Utility Across Random User Intents" | Jupyter Notebook | 18 | Apache License 2.0 | 2023-02-10 | 2024-02-14 |
@@ -6503,7 +6503,7 @@
 | [medical-research-foundations](https://github.com/google-research/medical-research-foundations) | None | None | 3 | - | 2023-03-02 | 2024-05-07 |
 | [precondition](https://github.com/google-research/precondition) | None | Python | 26 | Apache License 2.0 | 2023-03-06 | 2024-07-14 |
 | [pynsy](https://github.com/google-research/pynsy) | Heavyweight Python dynamic analysis framework | Python | 11 | Apache License 2.0 | 2023-03-16 | 2024-04-21 |
-| [robopianist](https://github.com/google-research/robopianist) | [CoRL '23] Dexterous piano playing with deep reinforcement learning. | Python | 546 | Apache License 2.0 | 2023-03-17 | 2024-07-17 |
+| [robopianist](https://github.com/google-research/robopianist) | [CoRL '23] Dexterous piano playing with deep reinforcement learning. | Python | 547 | Apache License 2.0 | 2023-03-17 | 2024-07-20 |
 | [jaxpruner](https://github.com/google-research/jaxpruner) | None | Python | 201 | Apache License 2.0 | 2023-03-19 | 2024-07-16 |
 | [medical-ai-research-foundations](https://github.com/google-research/medical-ai-research-foundations) | None | Python | 179 | Apache License 2.0 | 2023-04-04 | 2024-07-16 |
 | [simfluence](https://github.com/google-research/simfluence) | None | None | 8 | Apache License 2.0 | 2023-04-18 | 2024-06-22 |
@@ -6511,10 +6511,10 @@
 | [human-scene-transformer](https://github.com/google-research/human-scene-transformer) | Human Scene Transformer: A framework for trajectory prediction and wrappers for reframing the JRDB dataset for the prediction task. | Python | 36 | Apache License 2.0 | 2023-04-26 | 2024-07-15 |
 | [xtreme-up](https://github.com/google-research/xtreme-up) | None | Python | 50 | Apache License 2.0 | 2023-05-19 | 2024-07-14 |
 | [e3x](https://github.com/google-research/e3x) | E3x is a JAX library for constructing efficient E(3)-equivariant deep learning architectures built on top of Flax. | Python | 75 | Apache License 2.0 | 2023-05-23 | 2024-07-12 |
-| [distilling-step-by-step](https://github.com/google-research/distilling-step-by-step) | None | Python | 362 | Apache License 2.0 | 2023-05-24 | 2024-07-16 |
-| [spherical-cnn](https://github.com/google-research/spherical-cnn) | None | Python | 99 | Apache License 2.0 | 2023-05-25 | 2024-07-02 |
+| [distilling-step-by-step](https://github.com/google-research/distilling-step-by-step) | None | Python | 363 | Apache License 2.0 | 2023-05-24 | 2024-07-20 |
+| [spherical-cnn](https://github.com/google-research/spherical-cnn) | None | Python | 100 | Apache License 2.0 | 2023-05-25 | 2024-07-20 |
 | [cad-estate](https://github.com/google-research/cad-estate) | None | Python | 103 | Apache License 2.0 | 2023-06-07 | 2024-07-17 |
-| [fooling-feature-visualizations](https://github.com/google-research/fooling-feature-visualizations) | Code for "Don't trust your eyes: on the (un)reliability of feature visualizations" | Jupyter Notebook | 28 | Apache License 2.0 | 2023-06-12 | 2024-02-28 |
+| [fooling-feature-visualizations](https://github.com/google-research/fooling-feature-visualizations) | Code for "Don't trust your eyes: on the (un)reliability of feature visualizations" | Jupyter Notebook | 29 | Apache License 2.0 | 2023-06-12 | 2024-07-20 |
 | [kauldron](https://github.com/google-research/kauldron) | Modular, scalable codebase to train ML models | Python | 35 | Apache License 2.0 | 2023-06-19 | 2024-07-19 |
 | [multi-morph-checklist](https://github.com/google-research/multi-morph-checklist) | None | Jupyter Notebook | 9 | Apache License 2.0 | 2023-07-11 | 2023-10-25 |
 | [CVD-paper-mobile-camera-example](https://github.com/google-research/CVD-paper-mobile-camera-example) | None | Kotlin | 7 | Apache License 2.0 | 2023-08-02 | 2024-07-04 |
@@ -6534,10 +6534,10 @@
 | [swirl-fem](https://github.com/google-research/swirl-fem) | None | Python | 1 | Apache License 2.0 | 2024-03-20 | 2024-05-15 |
 | [crosslingual-knowledge-barriers](https://github.com/google-research/crosslingual-knowledge-barriers) | Code for the paper "Crosslingual Capabilities and Knowledge Barriers in Multilingual Large Language Models". | Python | 6 | Apache License 2.0 | 2024-04-04 | 2024-07-15 |
 | [spade_anomaly_detection](https://github.com/google-research/spade_anomaly_detection) | Semi-supervised anomaly detection method | Python | 30 | Apache License 2.0 | 2024-04-08 | 2024-07-17 |
-| [lanistr](https://github.com/google-research/lanistr) | None | Python | 34 | Other | 2024-04-25 | 2024-07-19 |
-| [timesfm](https://github.com/google-research/timesfm) | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. | Python | 3194 | Apache License 2.0 | 2024-04-29 | 2024-07-20 |
-| [omniglue](https://github.com/google-research/omniglue) | Code release for CVPR'24 submission 'OmniGlue' | Python | 458 | Apache License 2.0 | 2024-05-07 | 2024-07-19 |
-| [android_world](https://github.com/google-research/android_world) | AndroidWorld is an environment and benchmark for autonomous agents | Python | 57 | Apache License 2.0 | 2024-05-13 | 2024-07-18 |
+| [lanistr](https://github.com/google-research/lanistr) | None | Python | 35 | Other | 2024-04-25 | 2024-07-20 |
+| [timesfm](https://github.com/google-research/timesfm) | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. | Python | 3203 | Apache License 2.0 | 2024-04-29 | 2024-07-21 |
+| [omniglue](https://github.com/google-research/omniglue) | Code release for CVPR'24 submission 'OmniGlue' | Python | 460 | Apache License 2.0 | 2024-05-07 | 2024-07-21 |
+| [android_world](https://github.com/google-research/android_world) | AndroidWorld is an environment and benchmark for autonomous agents | Python | 58 | Apache License 2.0 | 2024-05-13 | 2024-07-21 |
 | [firebench](https://github.com/google-research/firebench) | None | Python | 9 | Apache License 2.0 | 2024-05-31 | 2024-07-19 |
 | [talk-like-a-graph](https://github.com/google-research/talk-like-a-graph) | None | Python | 5 | Apache License 2.0 | 2024-07-10 | 2024-07-15 |
 | [relation-extraction-corpus](https://github.com/google-research-datasets/relation-extraction-corpus) | Automatically exported from code.google.com/p/relation-extraction-corpus | None | 56 | - | 2015-12-14 | 2024-03-23 |
@@ -6716,7 +6716,7 @@
 | [googleads-java-lib](https://github.com/googleads/googleads-java-lib) | Google Ad Manager SOAP API Client Library for Java | Java | 225 | Apache License 2.0 | 2013-11-12 | 2024-07-16 |
 | [googleads-perl-lib](https://github.com/googleads/googleads-perl-lib) | AdWords API Perl Client Library | Perl | 6 | Apache License 2.0 | 2013-11-12 | 2023-09-28 |
 | [googleads-mobile-ios-examples](https://github.com/googleads/googleads-mobile-ios-examples) | googleads-mobile-ios | Objective-C | 949 | Apache License 2.0 | 2013-12-04 | 2024-07-19 |
-| [googleads-mobile-android-examples](https://github.com/googleads/googleads-mobile-android-examples) | googleads-mobile-android | Java | 1681 | Apache License 2.0 | 2013-12-04 | 2024-07-19 |
+| [googleads-mobile-android-examples](https://github.com/googleads/googleads-mobile-android-examples) | googleads-mobile-android | Java | 1681 | Apache License 2.0 | 2013-12-04 | 2024-07-21 |
 | [googleads-mobile-unity](https://github.com/googleads/googleads-mobile-unity) | Official Unity Plugin for the Google Mobile Ads SDK | C# | 1341 | Apache License 2.0 | 2013-12-04 | 2024-07-20 |
 | [google-media-framework-ios](https://github.com/googleads/google-media-framework-ios) | The Google Media Framework (GMF) is a lightweight media player designed to make video playback and integration with the Google IMA SDK on iOS easier. | Objective-C | 75 | Apache License 2.0 | 2013-12-06 | 2024-02-19 |
 | [googleads-ima-html5](https://github.com/googleads/googleads-ima-html5) | Samples for the HTML5 IMA SDK. | JavaScript | 258 | Apache License 2.0 | 2013-12-20 | 2024-07-01 |
@@ -6758,11 +6758,11 @@
 | [googleads-consent-sdk-android](https://github.com/googleads/googleads-consent-sdk-android) | Consent SDK | Java | 102 | Apache License 2.0 | 2018-05-10 | 2024-05-26 |
 | [googleads-consent-sdk-ios](https://github.com/googleads/googleads-consent-sdk-ios) | Consent SDK | Objective-C | 32 | Apache License 2.0 | 2018-05-10 | 2024-05-10 |
 | [googleads-dynamic-ad-insertion](https://github.com/googleads/googleads-dynamic-ad-insertion) | None | JavaScript | 10 | Other | 2018-06-01 | 2024-05-16 |
-| [google-ads-python](https://github.com/googleads/google-ads-python) | Google Ads API Client Library for Python | Python | 483 | Apache License 2.0 | 2018-08-03 | 2024-07-17 |
+| [google-ads-python](https://github.com/googleads/google-ads-python) | Google Ads API Client Library for Python | Python | 485 | Apache License 2.0 | 2018-08-03 | 2024-07-21 |
 | [googleads-ima-tvos-client-side](https://github.com/googleads/googleads-ima-tvos-client-side) | None | Objective-C | 7 | - | 2018-12-27 | 2024-07-01 |
 | [publisher-ads-lighthouse-plugin](https://github.com/googleads/publisher-ads-lighthouse-plugin) | Publisher Ads Audits for Lighthouse is a tool to improve ad speed and overall quality through a series of automated audits. This tool will aid in resolving discovered problems, providing a tool to be used to evaluate effectiveness of iterative changes while suggesting actionable feedback. | JavaScript | 98 | Apache License 2.0 | 2019-01-25 | 2024-06-10 |
 | [googleads-mobile-ios-native-templates](https://github.com/googleads/googleads-mobile-ios-native-templates) | None | Objective-C | 15 | Apache License 2.0 | 2019-03-18 | 2023-09-28 |
-| [googleads-mobile-android-native-templates](https://github.com/googleads/googleads-mobile-android-native-templates) | None | Java | 120 | Apache License 2.0 | 2019-03-19 | 2024-07-15 |
+| [googleads-mobile-android-native-templates](https://github.com/googleads/googleads-mobile-android-native-templates) | None | Java | 121 | Apache License 2.0 | 2019-03-19 | 2024-07-21 |
 | [googleads-ima-tizen-dai](https://github.com/googleads/googleads-ima-tizen-dai) | None | JavaScript | 4 | Apache License 2.0 | 2019-03-29 | 2024-02-12 |
 | [google-ads-doctor](https://github.com/googleads/google-ads-doctor) | None | Go | 31 | Apache License 2.0 | 2019-04-04 | 2023-10-09 |
 | [admob-firebase-codelabs-unity](https://github.com/googleads/admob-firebase-codelabs-unity) | None | C# | 5 | Apache License 2.0 | 2019-05-01 | 2024-04-17 |
@@ -6776,7 +6776,7 @@
 | [googleads-mobile-flutter](https://github.com/googleads/googleads-mobile-flutter) | A Flutter plugin for the Google Mobile Ads SDK | Java | 332 | Apache License 2.0 | 2021-02-17 | 2024-07-20 |
 | [admob-inline-ads-in-flutter](https://github.com/googleads/admob-inline-ads-in-flutter) | None | Dart | 40 | Apache License 2.0 | 2021-02-22 | 2024-05-24 |
 | [googleads-displayvideo-examples](https://github.com/googleads/googleads-displayvideo-examples) | Display & Video 360 (DV360) API code samples. | Java | 11 | Apache License 2.0 | 2021-03-11 | 2024-07-09 |
-| [swift-package-manager-google-mobile-ads](https://github.com/googleads/swift-package-manager-google-mobile-ads) | None | Swift | 127 | Apache License 2.0 | 2021-08-06 | 2024-07-16 |
+| [swift-package-manager-google-mobile-ads](https://github.com/googleads/swift-package-manager-google-mobile-ads) | None | Swift | 128 | Apache License 2.0 | 2021-08-06 | 2024-07-20 |
 | [swift-package-manager-google-user-messaging-platform](https://github.com/googleads/swift-package-manager-google-user-messaging-platform) | None | Swift | 6 | Apache License 2.0 | 2021-08-06 | 2024-06-26 |
 | [admob-appopen-unity](https://github.com/googleads/admob-appopen-unity) | None | C# | 3 | Apache License 2.0 | 2021-09-23 | 2024-01-04 |
 | [authorized-buyers-marketplace-api-samples](https://github.com/googleads/authorized-buyers-marketplace-api-samples) | None | C# | 3 | Apache License 2.0 | 2021-11-24 | 2023-09-28 |
@@ -6797,7 +6797,7 @@
 | [google-analytics-magic-script](https://github.com/googleanalytics/google-analytics-magic-script) | None | JavaScript | 32 | - | 2013-05-06 | 2024-03-25 |
 | [google-analytics-super-proxy](https://github.com/googleanalytics/google-analytics-super-proxy) | Publicly share your Google Analytics reporting data. | Python | 224 | Other | 2013-07-19 | 2024-07-08 |
 | [analytics-samples-config](https://github.com/googleanalytics/analytics-samples-config) | Google Analytics Sample Code for Configuration APIs | JavaScript | 27 | - | 2014-03-25 | 2024-01-04 |
-| [ga-dev-tools](https://github.com/googleanalytics/ga-dev-tools) | A showcase of demos and tools built with the various Google Analytics APIs and Libraries. | TypeScript | 1380 | Other | 2014-06-18 | 2024-07-20 |
+| [ga-dev-tools](https://github.com/googleanalytics/ga-dev-tools) | A showcase of demos and tools built with the various Google Analytics APIs and Libraries. | TypeScript | 1381 | Other | 2014-06-18 | 2024-07-21 |
 | [google-analytics-plugin-for-unity](https://github.com/googleanalytics/google-analytics-plugin-for-unity) | Google Analytics plugin for the Unity game creation system | C# | 388 | Apache License 2.0 | 2014-08-04 | 2024-07-20 |
 | [javascript-api-utils](https://github.com/googleanalytics/javascript-api-utils) | None | JavaScript | 44 | Other | 2014-10-10 | 2024-03-12 |
 | [hello-world-android-app](https://github.com/googleanalytics/hello-world-android-app) | None | Java | 48 | Apache License 2.0 | 2015-04-14 | 2023-01-28 |
@@ -6831,15 +6831,15 @@
 | [nodejs-mp](https://github.com/googleanalytics/nodejs-mp) | None | None | 0 | - | 2023-02-22 | 2023-02-22 |
 | [signet](https://github.com/googleapis/signet) | Signet is an OAuth 1.0 / OAuth 2.0 implementation. | Ruby | 373 | Apache License 2.0 | 2012-01-23 | 2024-07-16 |
 | [google-api-ruby-client](https://github.com/googleapis/google-api-ruby-client) | REST client for Google APIs | Ruby | 2774 | Apache License 2.0 | 2012-01-26 | 2024-07-16 |
-| [google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client) | Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.  | TypeScript | 11281 | Apache License 2.0 | 2013-03-06 | 2024-07-20 |
+| [google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client) | Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.  | TypeScript | 11282 | Apache License 2.0 | 2013-03-06 | 2024-07-21 |
 | [google-cloud-datastore](https://github.com/googleapis/google-cloud-datastore) | Low-level, Protobuf-based Java and Python client libraries for Cloud Datastore. Check out google-cloud-java and google-cloud-python first! | Python | 213 | Apache License 2.0 | 2013-05-14 | 2024-07-17 |
 | [google-api-php-client](https://github.com/googleapis/google-api-php-client) | A PHP client library for accessing Google APIs | PHP | 9208 | Apache License 2.0 | 2013-08-16 | 2024-07-19 |
 | [oauth2client](https://github.com/googleapis/oauth2client) | This is a Python library for accessing resources protected by OAuth 2.0. | Python | 798 | Apache License 2.0 | 2013-11-07 | 2024-06-25 |
-| [google-api-python-client](https://github.com/googleapis/google-api-python-client) | 🐍 The official Python client library for Google's discovery based APIs. | Python | 7577 | Apache License 2.0 | 2014-01-08 | 2024-07-18 |
-| [google-cloud-python](https://github.com/googleapis/google-cloud-python) | Google Cloud Client Library for Python | Python | 4744 | Apache License 2.0 | 2014-01-28 | 2024-07-19 |
+| [google-api-python-client](https://github.com/googleapis/google-api-python-client) | 🐍 The official Python client library for Google's discovery based APIs. | Python | 7580 | Apache License 2.0 | 2014-01-08 | 2024-07-21 |
+| [google-cloud-python](https://github.com/googleapis/google-cloud-python) | Google Cloud Client Library for Python | Python | 4745 | Apache License 2.0 | 2014-01-28 | 2024-07-20 |
 | [java-bigtable-hbase](https://github.com/googleapis/java-bigtable-hbase) | Java libraries and HBase client extensions for accessing Google Cloud Bigtable | Java | 173 | Apache License 2.0 | 2014-04-04 | 2024-07-18 |
-| [google-cloud-node](https://github.com/googleapis/google-cloud-node) | Google Cloud Client Library for Node.js | TypeScript | 2873 | Apache License 2.0 | 2014-05-06 | 2024-07-20 |
-| [google-cloud-go](https://github.com/googleapis/google-cloud-go) | Google Cloud Client Libraries for Go. | Go | 3660 | Apache License 2.0 | 2014-05-09 | 2024-07-19 |
+| [google-cloud-node](https://github.com/googleapis/google-cloud-node) | Google Cloud Client Library for Node.js | TypeScript | 2872 | Apache License 2.0 | 2014-05-06 | 2024-07-20 |
+| [google-cloud-go](https://github.com/googleapis/google-cloud-go) | Google Cloud Client Libraries for Go. | Go | 3661 | Apache License 2.0 | 2014-05-09 | 2024-07-20 |
 | [google-cloud-ruby](https://github.com/googleapis/google-cloud-ruby) | Google Cloud Client Library for Ruby | Ruby | 1345 | Apache License 2.0 | 2014-05-30 | 2024-07-18 |
 | [nodejs-datastore-kvstore](https://github.com/googleapis/nodejs-datastore-kvstore) | **THIS REPOSITORY AND PACKAGE WILL BE DEPRECATED IN JULY 2024**  Use @google-cloud/datastore as a Key/Value store. | TypeScript | 41 | Apache License 2.0 | 2014-10-14 | 2024-06-26 |
 | [google-auth-library-php](https://github.com/googleapis/google-auth-library-php) | Google Auth Library for PHP | PHP | 1307 | Apache License 2.0 | 2014-10-16 | 2024-07-16 |
@@ -6851,13 +6851,13 @@
 | [node-gtoken](https://github.com/googleapis/node-gtoken) | :key: Google Auth Service Account Tokens for Node.js  | TypeScript | 110 | MIT License | 2014-11-07 | 2024-07-06 |
 | [google-api-go-client](https://github.com/googleapis/google-api-go-client) | Auto-generated Google APIs for Go. | Go | 3909 | BSD 3-Clause "New" or "Revised" License | 2014-11-24 | 2024-07-18 |
 | [google-http-java-client](https://github.com/googleapis/google-http-java-client) | Google HTTP Client Library for Java | Java | 1381 | Apache License 2.0 | 2015-01-09 | 2024-07-19 |
-| [google-auth-library-nodejs](https://github.com/googleapis/google-auth-library-nodejs) | 🔑 Google Auth Library for Node.js | TypeScript | 1678 | Apache License 2.0 | 2015-02-11 | 2024-07-18 |
+| [google-auth-library-nodejs](https://github.com/googleapis/google-auth-library-nodejs) | 🔑 Google Auth Library for Node.js | TypeScript | 1679 | Apache License 2.0 | 2015-02-11 | 2024-07-20 |
 | [google-auth-library-java](https://github.com/googleapis/google-auth-library-java) | Open source Auth client library for Java | Java | 405 | BSD 3-Clause "New" or "Revised" License | 2015-02-12 | 2024-07-16 |
 | [nodejs-datastore-session](https://github.com/googleapis/nodejs-datastore-session) | **THIS REPOSITORY AND PACKAGE WILL BE DEPRECATED IN JULY 2024**  Session storage for express.js using Google Cloud Datastore | TypeScript | 44 | Apache License 2.0 | 2015-03-18 | 2024-06-26 |
-| [googleapis](https://github.com/googleapis/googleapis) | Public interface definitions of Google APIs. | Starlark | 6649 | Apache License 2.0 | 2015-03-25 | 2024-07-19 |
+| [googleapis](https://github.com/googleapis/googleapis) | Public interface definitions of Google APIs. | Starlark | 6648 | Apache License 2.0 | 2015-03-25 | 2024-07-21 |
 | [google-api-dotnet-client](https://github.com/googleapis/google-api-dotnet-client) | Google APIs Client Library for .NET | C# | 1319 | Apache License 2.0 | 2015-04-14 | 2024-07-17 |
 | [cloud-debug-nodejs](https://github.com/googleapis/cloud-debug-nodejs) | Node.js agent for Google Cloud Debugger: investigate your code’s behavior in production | TypeScript | 168 | Apache License 2.0 | 2015-04-27 | 2024-04-24 |
-| [google-cloud-dotnet](https://github.com/googleapis/google-cloud-dotnet) | Google Cloud Client Libraries for .NET | C# | 918 | Apache License 2.0 | 2015-05-19 | 2024-07-19 |
+| [google-cloud-dotnet](https://github.com/googleapis/google-cloud-dotnet) | Google Cloud Client Libraries for .NET | C# | 917 | Apache License 2.0 | 2015-05-19 | 2024-07-21 |
 | [retry-request](https://github.com/googleapis/retry-request) | **THIS REPOSITORY AND PACKAGE WILL BE DEPRECATED IN JULY 2024**  Retry a request with built-in exponential backoff. | JavaScript | 66 | MIT License | 2015-07-07 | 2024-07-02 |
 | [nodejs-gce-images](https://github.com/googleapis/nodejs-gce-images) | ***THIS REPOSITORY AND PACKAGE WILL BE DEPRECATED IN JULY 2024** Get a list of globally available Google Compute Engine images | TypeScript | 19 | MIT License | 2015-08-11 | 2024-06-14 |
 | [cloud-trace-nodejs](https://github.com/googleapis/cloud-trace-nodejs) | Node.js agent for Cloud Trace: automatically gather latency data about your application | TypeScript | 277 | Apache License 2.0 | 2015-08-21 | 2024-03-21 |
@@ -6927,7 +6927,7 @@
 | [nodejs-logging-winston](https://github.com/googleapis/nodejs-logging-winston) | Node.js client integration between Stackdriver Logging and Winston. | TypeScript | 104 | Apache License 2.0 | 2017-07-26 | 2024-05-31 |
 | [nodejs-monitoring](https://github.com/googleapis/nodejs-monitoring) | This repository is deprecated. All of its content and history has been moved to googleapis/google-cloud-node. | None | 70 | Apache License 2.0 | 2017-07-26 | 2024-05-31 |
 | [nodejs-prediction](https://github.com/googleapis/nodejs-prediction) | Node.js client for Google Cloud Prediction: Analyze your data to add various features to your applications, such as customer sentiment analysis, spam detection, recommendation systems, and more. | None | 6 | Apache License 2.0 | 2017-07-26 | 2023-07-27 |
-| [nodejs-pubsub](https://github.com/googleapis/nodejs-pubsub) | Node.js client for Google Cloud Pub/Sub: Ingest event streams from anywhere, at any scale, for simple, reliable, real-time stream analytics. | TypeScript | 517 | Apache License 2.0 | 2017-07-26 | 2024-07-17 |
+| [nodejs-pubsub](https://github.com/googleapis/nodejs-pubsub) | Node.js client for Google Cloud Pub/Sub: Ingest event streams from anywhere, at any scale, for simple, reliable, real-time stream analytics. | TypeScript | 516 | Apache License 2.0 | 2017-07-26 | 2024-07-20 |
 | [nodejs-resource-manager](https://github.com/googleapis/nodejs-resource-manager) | This repository is deprecated. All of its content and history has been moved to googleapis/google-cloud-node. | None | 22 | Apache License 2.0 | 2017-07-26 | 2023-07-27 |
 | [nodejs-firestore](https://github.com/googleapis/nodejs-firestore) | Node.js client for Google Cloud Firestore: a NoSQL document database built for automatic scaling, high performance, and ease of application development. | JavaScript | 636 | Apache License 2.0 | 2017-07-26 | 2024-07-09 |
 | [nodejs-speech](https://github.com/googleapis/nodejs-speech) | This repository is deprecated. All of its content and history has been moved to googleapis/google-cloud-node. | None | 688 | Apache License 2.0 | 2017-07-26 | 2024-06-27 |
@@ -6941,7 +6941,7 @@
 | [python-dialogflow](https://github.com/googleapis/python-dialogflow) | This library has moved to https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-dialogflow | None | 393 | Apache License 2.0 | 2017-10-24 | 2024-06-27 |
 | [nodejs-cloud-container](https://github.com/googleapis/nodejs-cloud-container) | This repository is deprecated. All of its content and history has been moved to googleapis/google-cloud-node. | None | 39 | Apache License 2.0 | 2017-11-21 | 2023-12-04 |
 | [nodejs-bigquery-data-transfer](https://github.com/googleapis/nodejs-bigquery-data-transfer) | This repository is deprecated. All of its content and history has been moved to googleapis/google-cloud-node. | None | 11 | Apache License 2.0 | 2017-11-22 | 2023-07-20 |
-| [google-cloud-cpp](https://github.com/googleapis/google-cloud-cpp) | C++ Client Libraries for Google Cloud Services | C++ | 534 | Apache License 2.0 | 2017-11-24 | 2024-07-19 |
+| [google-cloud-cpp](https://github.com/googleapis/google-cloud-cpp) | C++ Client Libraries for Google Cloud Services | C++ | 534 | Apache License 2.0 | 2017-11-24 | 2024-07-20 |
 | [nodejs-dataproc](https://github.com/googleapis/nodejs-dataproc) | This repository is deprecated. All of its content and history has been moved to googleapis/google-cloud-node. | None | 14 | Apache License 2.0 | 2017-12-18 | 2023-07-27 |
 | [google-cloud-php-bigtable](https://github.com/googleapis/google-cloud-php-bigtable) | None | PHP | 12 | Apache License 2.0 | 2017-12-19 | 2024-07-08 |
 | [google-cloud-php-bigquerydatatransfer](https://github.com/googleapis/google-cloud-php-bigquerydatatransfer) | None | PHP | 2 | Apache License 2.0 | 2017-12-19 | 2024-06-01 |
@@ -7255,7 +7255,7 @@
 | [java-assured-workloads](https://github.com/googleapis/java-assured-workloads) | This library has moved to https://github.com/googleapis/google-cloud-java/tree/main/java-assured-workloads. | None | 2 | Apache License 2.0 | 2020-09-15 | 2023-09-16 |
 | [java-workflows](https://github.com/googleapis/java-workflows) | This library has moved to https://github.com/googleapis/google-cloud-java/tree/main/java-workflows. | None | 2 | Apache License 2.0 | 2020-09-16 | 2023-09-16 |
 | [nodejs-security-private-ca](https://github.com/googleapis/nodejs-security-private-ca) | This repository is deprecated. All of its content and history has been moved to googleapis/google-cloud-node. | None | 2 | Apache License 2.0 | 2020-09-23 | 2023-07-20 |
-| [python-aiplatform](https://github.com/googleapis/python-aiplatform) | A Python SDK for Vertex AI, a fully managed, end-to-end platform for data science and machine learning. | Python | 589 | Apache License 2.0 | 2020-09-23 | 2024-07-19 |
+| [python-aiplatform](https://github.com/googleapis/python-aiplatform) | A Python SDK for Vertex AI, a fully managed, end-to-end platform for data science and machine learning. | Python | 590 | Apache License 2.0 | 2020-09-23 | 2024-07-21 |
 | [nodejs-ai-platform](https://github.com/googleapis/nodejs-ai-platform) | This repository is deprecated. All of its content and history has been moved to googleapis/google-cloud-node. | None | 31 | Apache License 2.0 | 2020-09-23 | 2023-07-20 |
 | [java-aiplatform](https://github.com/googleapis/java-aiplatform) | This library has moved to https://github.com/googleapis/google-cloud-java/tree/main/java-aiplatform. | None | 16 | Apache License 2.0 | 2020-09-23 | 2024-06-03 |
 | [python-assured-workloads](https://github.com/googleapis/python-assured-workloads) | This library has moved to https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-assured-workloads | None | 1 | Apache License 2.0 | 2020-09-24 | 2023-09-14 |
@@ -7633,7 +7633,7 @@
 | [google-cloud-php-servicehealth](https://github.com/googleapis/google-cloud-php-servicehealth) | None | PHP | 0 | Apache License 2.0 | 2024-01-15 | 2024-06-01 |
 | [langchain-google-bigtable-python](https://github.com/googleapis/langchain-google-bigtable-python) | None | Python | 2 | Apache License 2.0 | 2024-01-16 | 2024-07-18 |
 | [langchain-google-cloud-sql-mysql-python](https://github.com/googleapis/langchain-google-cloud-sql-mysql-python) | None | Python | 14 | Apache License 2.0 | 2024-01-16 | 2024-07-19 |
-| [langchain-google-cloud-sql-pg-python](https://github.com/googleapis/langchain-google-cloud-sql-pg-python) | None | Python | 23 | Apache License 2.0 | 2024-01-16 | 2024-07-19 |
+| [langchain-google-cloud-sql-pg-python](https://github.com/googleapis/langchain-google-cloud-sql-pg-python) | None | Python | 24 | Apache License 2.0 | 2024-01-16 | 2024-07-20 |
 | [langchain-google-cloud-sql-mssql-python](https://github.com/googleapis/langchain-google-cloud-sql-mssql-python) | None | Python | 3 | Apache License 2.0 | 2024-01-16 | 2024-07-19 |
 | [langchain-google-firestore-python](https://github.com/googleapis/langchain-google-firestore-python) | None | Python | 16 | Apache License 2.0 | 2024-01-16 | 2024-07-18 |
 | [langchain-google-spanner-python](https://github.com/googleapis/langchain-google-spanner-python) | None | Python | 9 | Apache License 2.0 | 2024-01-16 | 2024-07-19 |
@@ -7693,7 +7693,7 @@
 | [storage-oauth2-tool-python](https://github.com/googlearchive/storage-oauth2-tool-python) | Python command line tool for obtaining OAuth 2.0 access credentials. | Python | 12 | Apache License 2.0 | 2012-12-05 | 2023-01-28 |
 | [compute-appengine-demo-suite-python](https://github.com/googlearchive/compute-appengine-demo-suite-python) | The Compute Engine demo suite contains a variety of demos showing how to use Google Compute Engine. The demos are available live at http://gce-demos.appspot.com. | Python | 36 | Apache License 2.0 | 2012-12-05 | 2023-08-21 |
 | [firefeed](https://github.com/googlearchive/firefeed) | None | JavaScript | 458 | MIT License | 2012-12-07 | 2024-02-01 |
-| [storage-getting-started-javascript](https://github.com/googlearchive/storage-getting-started-javascript) | This is a simple web-based example of calling the Google Cloud Storage API in JavaScript. | HTML | 83 | - | 2012-12-11 | 2023-08-22 |
+| [storage-getting-started-javascript](https://github.com/googlearchive/storage-getting-started-javascript) | This is a simple web-based example of calling the Google Cloud Storage API in JavaScript. | HTML | 84 | - | 2012-12-11 | 2024-07-20 |
 | [apps-resource-loader](https://github.com/googlearchive/apps-resource-loader) | None | JavaScript | 64 | Apache License 2.0 | 2012-12-12 | 2023-09-08 |
 | [bigquery-appengine-datastore-import-sample](https://github.com/googlearchive/bigquery-appengine-datastore-import-sample) | Demonstrates how to extract and transform data from the Datastore into a format suitable for ingestion by Google BigQuery, via the App Engine MapReduce library. | Python | 16 | Apache License 2.0 | 2012-12-13 | 2023-01-28 |
 | [appengine-goplus](https://github.com/googlearchive/appengine-goplus) | Getting Started with Go, App Engine and Google+ API | Go | 44 | Apache License 2.0 | 2012-12-15 | 2023-01-28 |
@@ -8356,7 +8356,7 @@
 | [style-guide](https://github.com/googlearchive/style-guide) | https://www.polymer-project.org/1.0/tools/documentation.html | HTML | 8 | - | 2015-04-16 | 2023-01-28 |
 | [platinum-push-messaging](https://github.com/googlearchive/platinum-push-messaging) | Push Notifications with Polymer | HTML | 24 | - | 2015-04-17 | 2023-01-28 |
 | [ag-data-grid](https://github.com/googlearchive/ag-data-grid) | None | HTML | 0 | - | 2015-04-22 | 2023-01-28 |
-| [code-prettify](https://github.com/googlearchive/code-prettify) | An embeddable script that makes source-code snippets in HTML prettier. | JavaScript | 5781 | Apache License 2.0 | 2015-04-22 | 2024-07-18 |
+| [code-prettify](https://github.com/googlearchive/code-prettify) | An embeddable script that makes source-code snippets in HTML prettier. | JavaScript | 5782 | Apache License 2.0 | 2015-04-22 | 2024-07-21 |
 | [paper-scaffold](https://github.com/googlearchive/paper-scaffold) | A general application layout containing a header, toolbar, menu, title and areas for application content | HTML | 4 | - | 2015-04-26 | 2023-01-28 |
 | [serve-waterfall](https://github.com/googlearchive/serve-waterfall) | None | JavaScript | 0 | BSD 3-Clause "New" or "Revised" License | 2015-04-27 | 2023-01-28 |
 | [iron-signals](https://github.com/googlearchive/iron-signals) | Publish-subscribe functionality | HTML | 14 | - | 2015-04-27 | 2023-01-28 |
@@ -8611,7 +8611,7 @@
 | [gcsbeat](https://github.com/googlearchive/gcsbeat) | An Elastic Beat to ingest data from Google Cloud Storage | Go | 19 | Other | 2018-03-30 | 2023-09-18 |
 | [pubsubbeat](https://github.com/googlearchive/pubsubbeat) | An Elastic Beat to ingest data from Google Pub/Sub | Go | 41 | Other | 2018-04-02 | 2023-09-18 |
 | [gmemegen](https://github.com/googlearchive/gmemegen) | None | Python | 19 | Apache License 2.0 | 2018-04-05 | 2023-01-28 |
-| [android-dynamic-features](https://github.com/googlearchive/android-dynamic-features) | Migrated: | Kotlin | 461 | Apache License 2.0 | 2018-05-06 | 2024-04-12 |
+| [android-dynamic-features](https://github.com/googlearchive/android-dynamic-features) | Migrated: | Kotlin | 460 | Apache License 2.0 | 2018-05-06 | 2024-07-20 |
 | [android-SliceViewer](https://github.com/googlearchive/android-SliceViewer) | Migrated: | Kotlin | 128 | Apache License 2.0 | 2018-05-08 | 2023-12-06 |
 | [fireflicks](https://github.com/googlearchive/fireflicks) | Admin SDK codelab samples | TypeScript | 14 | Apache License 2.0 | 2018-05-30 | 2023-01-28 |
 | [cannonball-ios](https://github.com/googlearchive/cannonball-ios) | Cannonball—the magnetic poetry app | Swift | 5 | Apache License 2.0 | 2018-06-19 | 2023-01-28 |
@@ -8838,7 +8838,7 @@
 | [webvr-speaktogo](https://github.com/googlecreativelab/webvr-speaktogo) | Explore the world with your voice. | JavaScript | 34 | - | 2017-03-31 | 2024-05-01 |
 | [dat.fire](https://github.com/googlecreativelab/dat.fire) | None | JavaScript | 6 | Other | 2017-03-31 | 2023-01-27 |
 | [webvr-musicalforest](https://github.com/googlecreativelab/webvr-musicalforest) | Join users from around the world in a musical forest. A WebVR Experiment. | JavaScript | 164 | Apache License 2.0 | 2017-04-12 | 2024-06-14 |
-| [quickdraw-dataset](https://github.com/googlecreativelab/quickdraw-dataset) | Documentation on how to access and use the Quick, Draw! Dataset. | None | 6054 | Other | 2017-05-09 | 2024-07-20 |
+| [quickdraw-dataset](https://github.com/googlecreativelab/quickdraw-dataset) | Documentation on how to access and use the Quick, Draw! Dataset. | None | 6055 | Other | 2017-05-09 | 2024-07-21 |
 | [aiexperiments-sound-maker](https://github.com/googlecreativelab/aiexperiments-sound-maker) | Make unusual new sounds with machine learning. | JavaScript | 255 | Apache License 2.0 | 2017-05-10 | 2024-06-27 |
 | [things-with-firebase-at-io2017](https://github.com/googlecreativelab/things-with-firebase-at-io2017) | The Android Things projects used in the Experiments Tent at Google I/O 2017 | Java | 22 | Other | 2017-05-13 | 2023-08-27 |
 | [inside-music](https://github.com/googlecreativelab/inside-music) | Inside Music lets you step inside of a song, seeing its individual pieces to give you a closer look at how music is made. | JavaScript | 384 | Apache License 2.0 | 2017-08-16 | 2024-07-13 |
@@ -8868,7 +8868,7 @@
 | [quickdraw-component](https://github.com/googlecreativelab/quickdraw-component) | Use any of the of the 50 million Quick, Draw! doodles in your web-based project with one line of markup | JavaScript | 104 | Apache License 2.0 | 2018-11-15 | 2024-05-22 |
 | [creatability-seeing-music](https://github.com/googlecreativelab/creatability-seeing-music) | Experience music visually. | JavaScript | 100 | GNU General Public License v3.0 | 2019-04-02 | 2024-06-25 |
 | [posenet-sketchbook](https://github.com/googlecreativelab/posenet-sketchbook) | PoseNet Sketchbook is a collection of open source, interactive web experiments designed to allude to the artistic possibilities of using PoseNet (running on tensorflow.js) to create a relationship between movement and machine. | JavaScript | 206 | Apache License 2.0 | 2019-05-01 | 2024-06-04 |
-| [teachablemachine-community](https://github.com/googlecreativelab/teachablemachine-community) | Example code snippets and machine learning code for Teachable Machine | TypeScript | 1475 | Apache License 2.0 | 2019-06-17 | 2024-07-19 |
+| [teachablemachine-community](https://github.com/googlecreativelab/teachablemachine-community) | Example code snippets and machine learning code for Teachable Machine | TypeScript | 1476 | Apache License 2.0 | 2019-06-17 | 2024-07-21 |
 | [pattern-radio](https://github.com/googlecreativelab/pattern-radio) | Code for patternradio.withgoogle.com | JavaScript | 26 | Apache License 2.0 | 2019-07-30 | 2024-06-19 |
 | [digital-wellbeing-experiments-toolkit](https://github.com/googlecreativelab/digital-wellbeing-experiments-toolkit) | Code components for starting your own Digital Wellbeing experiments | Kotlin | 337 | Apache License 2.0 | 2019-08-16 | 2024-07-01 |
 | [aog-canvas-quiz](https://github.com/googlecreativelab/aog-canvas-quiz) | Canvas Quiz is a starter kit for developers to make custom, voice-enabled question-answer games for the Google Assistant. | JavaScript | 40 | Apache License 2.0 | 2019-09-11 | 2024-01-16 |
@@ -8887,9 +8887,9 @@
 | [.github](https://github.com/googlecreativelab/.github) | None | None | 1 | - | 2022-10-26 | 2023-12-28 |
 | [community-connectors](https://github.com/googledatastudio/community-connectors) | This repository contains open source content for Google Data Studio. | JavaScript | 551 | Apache License 2.0 | 2017-10-11 | 2024-07-19 |
 | [ds-data-registry](https://github.com/googledatastudio/ds-data-registry) | A registry of data sources, categories, and organizations to use with Data Studio Community Connectors. | Shell | 81 | Apache License 2.0 | 2018-04-13 | 2024-07-08 |
-| [experimental-visualizations](https://github.com/googledatastudio/experimental-visualizations) | None | TypeScript | 89 | Apache License 2.0 | 2018-04-29 | 2024-05-20 |
+| [experimental-visualizations](https://github.com/googledatastudio/experimental-visualizations) | None | TypeScript | 90 | Apache License 2.0 | 2018-04-29 | 2024-07-21 |
 | [community-visualizations](https://github.com/googledatastudio/community-visualizations) | None | None | 67 | Apache License 2.0 | 2018-09-06 | 2024-06-27 |
-| [tooling](https://github.com/googledatastudio/tooling) | None | TypeScript | 67 | Apache License 2.0 | 2019-02-19 | 2024-07-07 |
+| [tooling](https://github.com/googledatastudio/tooling) | None | TypeScript | 68 | Apache License 2.0 | 2019-02-19 | 2024-07-20 |
 | [example-connectors](https://github.com/googledatastudio/example-connectors) | None | JavaScript | 56 | - | 2019-03-29 | 2024-07-17 |
 | [cc-gke-usage-metering](https://github.com/googledatastudio/cc-gke-usage-metering) | None | TypeScript | 5 | Apache License 2.0 | 2020-06-03 | 2024-01-26 |
 | [.allstar](https://github.com/googledatastudio/.allstar) | None | None | 1 | - | 2022-10-26 | 2024-02-08 |
@@ -8900,11 +8900,11 @@
 | [namecheck](https://github.com/googlefonts/namecheck) | None | Python | 9 | Apache License 2.0 | 2015-01-09 | 2024-04-12 |
 | [ufo2ft](https://github.com/googlefonts/ufo2ft) | A bridge from UFOs to FontTools objects (and therefore, OTFs and TTFs). | Python | 148 | MIT License | 2015-01-21 | 2024-07-16 |
 | [lint](https://github.com/googlefonts/lint) | Java tool to check a directory is ready for inclusion in github.com/google/fonts | Java | 2 | Apache License 2.0 | 2015-03-08 | 2023-01-26 |
-| [roboto](https://github.com/googlefonts/roboto) | The Roboto family of fonts | Python | 3833 | Apache License 2.0 | 2015-04-11 | 2024-07-18 |
+| [roboto](https://github.com/googlefonts/roboto) | The Roboto family of fonts | Python | 3834 | Apache License 2.0 | 2015-04-11 | 2024-07-20 |
 | [gf-docs](https://github.com/googlefonts/gf-docs) | Documentation for things related to github.com/google/fonts | None | 99 | Apache License 2.0 | 2015-04-14 | 2024-06-18 |
 | [lusitana](https://github.com/googlefonts/lusitana) | Font family inspired by the type found in the 1572 first edition of "The Lusiads." | None | 3 | - | 2015-04-17 | 2023-01-27 |
 | [compreffor](https://github.com/googlefonts/compreffor) | A CFF table subroutinizer for FontTools | Python | 23 | Apache License 2.0 | 2015-06-01 | 2023-08-22 |
-| [noto-emoji](https://github.com/googlefonts/noto-emoji) | Noto Emoji fonts | Python | 3684 | Apache License 2.0 | 2015-06-05 | 2024-07-19 |
+| [noto-emoji](https://github.com/googlefonts/noto-emoji) | Noto Emoji fonts | Python | 3683 | Apache License 2.0 | 2015-06-05 | 2024-07-20 |
 | [sfntly](https://github.com/googlefonts/sfntly) | A Library for Using, Editing, and Creating SFNT-based Fonts | Java | 450 | - | 2015-06-15 | 2024-07-14 |
 | [abeezee](https://github.com/googlefonts/abeezee) | None | None | 7 | SIL Open Font License 1.1 | 2015-06-15 | 2023-10-19 |
 | [rubik](https://github.com/googlefonts/rubik) | Rubik fonts | Shell | 197 | SIL Open Font License 1.1 | 2015-07-14 | 2024-06-27 |
@@ -8919,7 +8919,7 @@
 | [Work-Sans](https://github.com/googlefonts/Work-Sans) | A grotesque sans. | Python | 0 | SIL Open Font License 1.1 | 2016-02-01 | 2021-03-02 |
 | [fontdiff](https://github.com/googlefonts/fontdiff) | tool for finding visual differences between two font versions | C++ | 135 | Other | 2016-03-15 | 2024-06-23 |
 | [fontreport](https://github.com/googlefonts/fontreport) | Tool to create PDF files containing glyph images and information about a font. | Python | 62 | Apache License 2.0 | 2016-05-02 | 2024-02-17 |
-| [Inconsolata](https://github.com/googlefonts/Inconsolata) | Development repo of Inconsolata Fonts by Raph Levien | Rust | 1326 | SIL Open Font License 1.1 | 2016-05-23 | 2024-07-20 |
+| [Inconsolata](https://github.com/googlefonts/Inconsolata) | Development repo of Inconsolata Fonts by Raph Levien | Rust | 1327 | SIL Open Font License 1.1 | 2016-05-23 | 2024-07-20 |
 | [spacemono](https://github.com/googlefonts/spacemono) | Original monospace display typeface family | None | 361 | SIL Open Font License 1.1 | 2016-06-14 | 2024-06-19 |
 | [jura](https://github.com/googlefonts/jura) | Jura font: http://danieljohnson.name/fonts/jura | None | 3 | - | 2016-06-28 | 2021-03-01 |
 | [BevanFont](https://github.com/googlefonts/BevanFont) | Git Repository for the Bevan Font Family | PureBasic | 2 | SIL Open Font License 1.1 | 2016-07-04 | 2022-01-19 |
@@ -8947,7 +8947,7 @@
 | [amstelvar](https://github.com/googlefonts/amstelvar) | a parametric variable font by David Berlow | None | 333 | SIL Open Font License 1.1 | 2016-12-03 | 2024-07-16 |
 | [AmaticSC](https://github.com/googlefonts/AmaticSC) | Update of Vernon Adam's Amatic SC and Hafontia's Amatica SC | None | 5 | SIL Open Font License 1.1 | 2017-01-17 | 2023-11-07 |
 | [SourceSerifProGFVersion](https://github.com/googlefonts/SourceSerifProGFVersion) | Source Serif Pro Family for Google Fonts | Python | 1 | - | 2017-01-25 | 2021-03-02 |
-| [OswaldFont](https://github.com/googlefonts/OswaldFont) | repo for the Oswald font family | HTML | 70 | SIL Open Font License 1.1 | 2017-01-25 | 2024-06-27 |
+| [OswaldFont](https://github.com/googlefonts/OswaldFont) | repo for the Oswald font family | HTML | 71 | SIL Open Font License 1.1 | 2017-01-25 | 2024-07-20 |
 | [MuktaGFVersion](https://github.com/googlefonts/MuktaGFVersion) | Mukta families for Google Fonts | Python | 1 | - | 2017-01-26 | 2021-03-02 |
 | [pangolin](https://github.com/googlefonts/pangolin) | None | None | 2 | SIL Open Font License 1.1 | 2017-02-13 | 2021-03-02 |
 | [anaheimFont](https://github.com/googlefonts/anaheimFont) | Anaheim by Vernon Adams | PureBasic | 2 | SIL Open Font License 1.1 | 2017-03-13 | 2024-04-18 |
@@ -8962,7 +8962,7 @@
 | [robotoslab](https://github.com/googlefonts/robotoslab) | Roboto Slab Typeface by Google | Python | 57 | Apache License 2.0 | 2017-04-18 | 2024-03-16 |
 | [gf-glyphs-scripts](https://github.com/googlefonts/gf-glyphs-scripts) | Scripts for Glyphs | Python | 21 | - | 2017-04-24 | 2024-07-10 |
 | [fontbakery-dashboard](https://github.com/googlefonts/fontbakery-dashboard) | A library-scale web dashboard for Font Bakery, no longer developed | JavaScript | 28 | Apache License 2.0 | 2017-05-09 | 2023-09-02 |
-| [paytoneFont](https://github.com/googlefonts/paytoneFont) | Repo for the Paytone Font family | None | 2 | Other | 2017-06-05 | 2024-02-16 |
+| [paytoneFont](https://github.com/googlefonts/paytoneFont) | Repo for the Paytone Font family | None | 1 | Other | 2017-06-05 | 2024-07-20 |
 | [VocesFont](https://github.com/googlefonts/VocesFont) | Voces font by Ana Paula Megda and Pablo Ugerman | HTML | 1 | SIL Open Font License 1.1 | 2017-06-07 | 2021-03-02 |
 | [GreatVibesFont](https://github.com/googlefonts/GreatVibesFont) | Great Vibes by Robert E. Leuschke | HTML | 3 | SIL Open Font License 1.1 | 2017-06-07 | 2021-06-22 |
 | [SacramentoFont](https://github.com/googlefonts/SacramentoFont) | Sacramento Font by Astigmatic (AOETI) | None | 2 | SIL Open Font License 1.1 | 2017-06-09 | 2021-03-02 |
@@ -8995,7 +8995,7 @@
 | [neuton](https://github.com/googlefonts/neuton) | Neuton is a healthy modern alternative to Times, attempting a classy blend of simplification, curvature, and angles. | HTML | 0 | - | 2018-05-30 | 2021-03-02 |
 | [ibarrareal](https://github.com/googlefonts/ibarrareal) | Ibarra Real Fonts | Shell | 39 | Other | 2018-06-28 | 2024-03-10 |
 | [kreon](https://github.com/googlefonts/kreon) | Kreon font sources | Makefile | 6 | SIL Open Font License 1.1 | 2018-06-28 | 2023-07-31 |
-| [majormono](https://github.com/googlefonts/majormono) | None | Python | 34 | SIL Open Font License 1.1 | 2018-06-29 | 2024-07-03 |
+| [majormono](https://github.com/googlefonts/majormono) | None | Python | 35 | SIL Open Font License 1.1 | 2018-06-29 | 2024-07-20 |
 | [Libre-Clarendon](https://github.com/googlefonts/Libre-Clarendon) | Libre Clarendon Fonts | Python | 4 | SIL Open Font License 1.1 | 2018-07-13 | 2021-03-01 |
 | [notable](https://github.com/googlefonts/notable) | Notable fonts | None | 1 | SIL Open Font License 1.1 | 2018-07-30 | 2021-03-02 |
 | [gf-dispatcher](https://github.com/googlefonts/gf-dispatcher) | Simple tool that takes a font release through all the steps to file a google/fonts PR | Python | 1 | - | 2018-08-09 | 2021-03-01 |
@@ -9054,7 +9054,7 @@
 | [rcjk-tools](https://github.com/googlefonts/rcjk-tools) | None | Python | 3 | Apache License 2.0 | 2020-09-11 | 2024-06-25 |
 | [Benne](https://github.com/googlefonts/Benne) | Open Source Kannada font | None | 2 | SIL Open Font License 1.1 | 2020-09-18 | 2024-04-09 |
 | [fontbakery-ui](https://github.com/googlefonts/fontbakery-ui) | None | Python | 6 | Apache License 2.0 | 2020-10-10 | 2023-06-14 |
-| [karla](https://github.com/googlefonts/karla) | None | Python | 22 | SIL Open Font License 1.1 | 2020-10-23 | 2024-07-18 |
+| [karla](https://github.com/googlefonts/karla) | None | Python | 23 | SIL Open Font License 1.1 | 2020-10-23 | 2024-07-20 |
 | [Gulzar](https://github.com/googlefonts/Gulzar) | Nastaliq font | Python | 38 | SIL Open Font License 1.1 | 2020-11-16 | 2024-03-21 |
 | [variable-components-spec](https://github.com/googlefonts/variable-components-spec) | None | None | 9 | - | 2020-11-20 | 2024-03-23 |
 | [carlito](https://github.com/googlefonts/carlito) | None | None | 17 | SIL Open Font License 1.1 | 2021-01-04 | 2024-05-13 |
@@ -9160,7 +9160,7 @@
 | [zen-oldmincho](https://github.com/googlefonts/zen-oldmincho) | ZenFonts.jp Old Mincho | Python | 36 | SIL Open Font License 1.1 | 2021-06-11 | 2024-05-28 |
 | [cls_calculator](https://github.com/googlefonts/cls_calculator) | Computes a set of CSS values suitable for use in a CLS fallback face. | HTML | 2 | Apache License 2.0 | 2021-06-11 | 2022-05-16 |
 | [fez](https://github.com/googlefonts/fez) | Font Engineering made eaZy | Python | 14 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2023-09-07 |
-| [how-to-hint-variable-fonts](https://github.com/googlefonts/how-to-hint-variable-fonts) | A how-to guide to TrueType hinting variable fonts, with VTT | None | 35 | Apache License 2.0 | 2021-06-18 | 2024-01-23 |
+| [how-to-hint-variable-fonts](https://github.com/googlefonts/how-to-hint-variable-fonts) | A how-to guide to TrueType hinting variable fonts, with VTT | None | 36 | Apache License 2.0 | 2021-06-18 | 2024-07-21 |
 | [chws_tool](https://github.com/googlefonts/chws_tool) | Add OpenType chws/vchw features to fonts. | HTML | 21 | Apache License 2.0 | 2021-06-25 | 2024-06-17 |
 | [birthstone-bounce](https://github.com/googlefonts/birthstone-bounce) | None | Makefile | 0 | SIL Open Font License 1.1 | 2021-06-30 | 2021-09-17 |
 | [dynapuff](https://github.com/googlefonts/dynapuff) | Fun blobby display font | Python | 14 | Other | 2021-08-04 | 2024-04-08 |
@@ -9182,7 +9182,7 @@
 | [arizonia](https://github.com/googlefonts/arizonia) | None | None | 3 | SIL Open Font License 1.1 | 2021-11-18 | 2022-06-19 |
 | [babylonica](https://github.com/googlefonts/babylonica) | None | None | 1 | SIL Open Font License 1.1 | 2021-11-18 | 2023-02-26 |
 | [beau-rivage](https://github.com/googlefonts/beau-rivage) | None | None | 0 | SIL Open Font License 1.1 | 2021-11-18 | 2022-02-18 |
-| [fontra](https://github.com/googlefonts/fontra) | A browser-based font editor | JavaScript | 449 | GNU General Public License v3.0 | 2021-11-22 | 2024-07-20 |
+| [fontra](https://github.com/googlefonts/fontra) | A browser-based font editor | JavaScript | 449 | GNU General Public License v3.0 | 2021-11-22 | 2024-07-21 |
 | [glyphsets](https://github.com/googlefonts/glyphsets) | None | Python | 77 | Apache License 2.0 | 2021-12-14 | 2024-07-19 |
 | [Crimson](https://github.com/googlefonts/Crimson) | The Crimson Text typeface | HTML | 14 | SIL Open Font License 1.1 | 2021-12-16 | 2024-04-24 |
 | [emojicompat](https://github.com/googlefonts/emojicompat) | Utility to add emojicompat metadata to an emoji font | Python | 3 | Apache License 2.0 | 2021-12-23 | 2023-06-15 |
@@ -9227,7 +9227,7 @@
 | [geologica](https://github.com/googlefonts/geologica) | None | Shell | 47 | SIL Open Font License 1.1 | 2023-03-07 | 2024-07-17 |
 | [compatilator](https://github.com/googlefonts/compatilator) | None | Python | 0 | - | 2023-03-11 | 2024-06-10 |
 | [Bruno-ace](https://github.com/googlefonts/Bruno-ace) | None | Python | 1 | SIL Open Font License 1.1 | 2023-03-21 | 2023-08-13 |
-| [roboto-flex-avar2](https://github.com/googlefonts/roboto-flex-avar2) | Alpha version of Roboto Flex with avar2 data | Python | 3 | SIL Open Font License 1.1 | 2023-03-22 | 2024-07-19 |
+| [roboto-flex-avar2](https://github.com/googlefonts/roboto-flex-avar2) | Alpha version of Roboto Flex with avar2 data | Python | 3 | SIL Open Font License 1.1 | 2023-03-22 | 2024-07-20 |
 | [comme](https://github.com/googlefonts/comme) | None | CMake | 3 | SIL Open Font License 1.1 | 2023-03-23 | 2024-06-01 |
 | [emery-3](https://github.com/googlefonts/emery-3) | None | Python | 4 | SIL Open Font License 1.1 | 2023-03-28 | 2024-07-12 |
 | [monofett](https://github.com/googlefonts/monofett) | None | HTML | 0 | SIL Open Font License 1.1 | 2023-04-20 | 2024-06-25 |
@@ -9269,7 +9269,7 @@
 | [gpu-path-rendering-paper](https://github.com/googlefonts/gpu-path-rendering-paper) | None | TeX | 3 | Apache License 2.0 | 2023-09-19 | 2023-10-18 |
 | [fontc-action](https://github.com/googlefonts/fontc-action) | A GitHub Action that compiles font binaries from source files with the fontc compiler | JavaScript | 5 | Apache License 2.0 | 2023-09-26 | 2024-05-22 |
 | [redditsans](https://github.com/googlefonts/redditsans) | Reddit Sans. The typeface of the internet. | Pug | 10 | Other | 2023-10-06 | 2023-10-18 |
-| [gf-dashboard](https://github.com/googlefonts/gf-dashboard) | None | Python | 0 | - | 2023-10-09 | 2024-07-20 |
+| [gf-dashboard](https://github.com/googlefonts/gf-dashboard) | None | Python | 0 | - | 2023-10-09 | 2024-07-21 |
 | [diffenator3](https://github.com/googlefonts/diffenator3) | Diffenator2, but Rustier | Rust | 3 | - | 2023-10-31 | 2024-07-19 |
 | [amstelvar-avar2](https://github.com/googlefonts/amstelvar-avar2) | R&D version of Amstelvar with avar2 to replace gvar data | HTML | 0 | SIL Open Font License 1.1 | 2023-11-07 | 2024-07-17 |
 | [sancreek](https://github.com/googlefonts/sancreek) | None | None | 1 | SIL Open Font License 1.1 | 2023-11-15 | 2023-11-16 |
@@ -9812,9 +9812,9 @@
 | [localizing-paragraph-memorization](https://github.com/googleinterns/localizing-paragraph-memorization) | None | Jupyter Notebook | 14 | Apache License 2.0 | 2024-02-02 | 2024-07-18 |
 | [android-maps-utils](https://github.com/googlemaps/android-maps-utils) | Maps SDK for Android Utility Library | Java | 3542 | Apache License 2.0 | 2013-05-17 | 2024-07-16 |
 | [google-maps-ios-utils](https://github.com/googlemaps/google-maps-ios-utils) | Google Maps SDK for iOS Utility Library | Objective-C | 708 | Apache License 2.0 | 2013-08-30 | 2024-07-19 |
-| [google-maps-services-java](https://github.com/googlemaps/google-maps-services-java) | Java client library for Google Maps API Web Services | Java | 1698 | Apache License 2.0 | 2014-08-15 | 2024-07-17 |
+| [google-maps-services-java](https://github.com/googlemaps/google-maps-services-java) | Java client library for Google Maps API Web Services | Java | 1699 | Apache License 2.0 | 2014-08-15 | 2024-07-21 |
 | [google-maps-services-python](https://github.com/googlemaps/google-maps-services-python) | Python client library for Google Maps API Web Services | Python | 4436 | Apache License 2.0 | 2014-08-15 | 2024-07-19 |
-| [google-maps-services-go](https://github.com/googlemaps/google-maps-services-go) | Go client library for Google Maps API Web Services | Go | 718 | Apache License 2.0 | 2015-01-13 | 2024-07-19 |
+| [google-maps-services-go](https://github.com/googlemaps/google-maps-services-go) | Go client library for Google Maps API Web Services | Go | 719 | Apache License 2.0 | 2015-01-13 | 2024-07-20 |
 | [roads-api-samples](https://github.com/googlemaps/roads-api-samples) | Sample Android app demonstrating usage of the GMP Roads API | Java | 116 | Apache License 2.0 | 2015-03-18 | 2024-03-12 |
 | [js-samples](https://github.com/googlemaps/js-samples) | Samples for the Google Maps JavaScript v3 API | TypeScript | 733 | Other | 2015-08-05 | 2024-07-15 |
 | [v3-utility-library](https://github.com/googlemaps/v3-utility-library) | Utility libraries for Google Maps JavaScript API v3 | JavaScript | 1097 | Apache License 2.0 | 2015-08-11 | 2024-06-25 |
@@ -9860,7 +9860,7 @@
 | [on-demand-rides-deliveries-samples](https://github.com/googlemaps/on-demand-rides-deliveries-samples) | None | None | 15 | Apache License 2.0 | 2021-12-10 | 2024-05-28 |
 | [eslint-plugin-googlemaps](https://github.com/googlemaps/eslint-plugin-googlemaps) | ESLint rules for Google Maps Platform. | TypeScript | 4 | Apache License 2.0 | 2021-12-14 | 2023-03-20 |
 | [android-maps-compose](https://github.com/googlemaps/android-maps-compose) | Jetpack Compose composables for the Maps SDK for Android | Kotlin | 1108 | Apache License 2.0 | 2022-02-03 | 2024-07-19 |
-| [last-mile-fleet-solution-samples](https://github.com/googlemaps/last-mile-fleet-solution-samples) | None | Java | 56 | Apache License 2.0 | 2022-04-05 | 2024-07-19 |
+| [last-mile-fleet-solution-samples](https://github.com/googlemaps/last-mile-fleet-solution-samples) | None | Java | 57 | Apache License 2.0 | 2022-04-05 | 2024-07-21 |
 | [react-routing-playground](https://github.com/googlemaps/react-routing-playground) | None | JavaScript | 9 | Apache License 2.0 | 2022-04-21 | 2024-01-24 |
 | [angular-on-demand-rides-deliveries-samples](https://github.com/googlemaps/angular-on-demand-rides-deliveries-samples) | None | TypeScript | 7 | Apache License 2.0 | 2022-04-27 | 2024-07-12 |
 | [js-github-policy-bot](https://github.com/googlemaps/js-github-policy-bot) | Enforce polices for repositories in the googlemaps organization. | TypeScript | 3 | Apache License 2.0 | 2022-04-27 | 2024-07-15 |
@@ -9872,7 +9872,7 @@
 | [.allstar](https://github.com/googlemaps/.allstar) | None | None | 1 | - | 2022-10-26 | 2024-02-08 |
 | [fleet-events-reference-solution](https://github.com/googlemaps/fleet-events-reference-solution) | None | Java | 5 | Apache License 2.0 | 2023-01-25 | 2024-02-23 |
 | [gmp-firebase-extensions](https://github.com/googlemaps/gmp-firebase-extensions) | None | TypeScript | 6 | Apache License 2.0 | 2023-04-27 | 2024-06-12 |
-| [extended-component-library](https://github.com/googlemaps/extended-component-library) | A set of Web Components from Google Maps Platform | TypeScript | 107 | Apache License 2.0 | 2023-05-02 | 2024-07-13 |
+| [extended-component-library](https://github.com/googlemaps/extended-component-library) | A set of Web Components from Google Maps Platform | TypeScript | 108 | Apache License 2.0 | 2023-05-02 | 2024-07-20 |
 | [js-adv-markers-utils](https://github.com/googlemaps/js-adv-markers-utils) | None | TypeScript | 11 | Apache License 2.0 | 2023-08-15 | 2024-06-24 |
 | [ios-maps-sdk](https://github.com/googlemaps/ios-maps-sdk) | Google Maps SDK for iOS | Swift | 47 | Apache License 2.0 | 2023-11-15 | 2024-07-14 |
 | [ios-places-sdk](https://github.com/googlemaps/ios-places-sdk) | None | Swift | 9 | Apache License 2.0 | 2023-11-16 | 2024-07-19 |
@@ -9904,7 +9904,7 @@
 | [.allstar](https://github.com/googlemaps-samples/.allstar) | None | None | 0 | - | 2023-01-04 | 2023-01-04 |
 | [.github](https://github.com/googlemaps-samples/.github) | None | None | 0 | - | 2023-01-04 | 2023-01-04 |
 | [js-solar-potential](https://github.com/googlemaps-samples/js-solar-potential) | Source code for the Solar Potential demo using the Solar API from Google Maps Platform | Svelte | 58 | Apache License 2.0 | 2023-08-16 | 2024-07-19 |
-| [js-3d-area-explorer](https://github.com/googlemaps-samples/js-3d-area-explorer) | None | JavaScript | 11 | Apache License 2.0 | 2023-12-01 | 2024-06-04 |
+| [js-3d-area-explorer](https://github.com/googlemaps-samples/js-3d-area-explorer) | None | JavaScript | 12 | Apache License 2.0 | 2023-12-01 | 2024-07-20 |
 | [js-3d-storytelling](https://github.com/googlemaps-samples/js-3d-storytelling) | None | JavaScript | 5 | Apache License 2.0 | 2024-01-11 | 2024-07-06 |
 | [codelab-maps-platform-101-compose](https://github.com/googlemaps-samples/codelab-maps-platform-101-compose) | None | Kotlin | 3 | Other | 2024-03-25 | 2024-07-01 |
 | [codelab-maps-platform-101-react-js](https://github.com/googlemaps-samples/codelab-maps-platform-101-react-js) | None | TypeScript | 1 | Apache License 2.0 | 2024-04-26 | 2024-07-09 |
@@ -9913,18 +9913,18 @@
 | [java-route-optimization-fleetengine](https://github.com/googlemaps-samples/java-route-optimization-fleetengine) | None | Java | 1 | Apache License 2.0 | 2024-07-01 | 2024-07-02 |
 | [bochspwn](https://github.com/googleprojectzero/bochspwn) | A Bochs-based instrumentation project designed to log kernel memory references, to identify "double fetches" and other OS vulnerabilities | C++ | 315 | Apache License 2.0 | 2013-08-01 | 2024-07-09 |
 | [symboliclink-testing-tools](https://github.com/googleprojectzero/symboliclink-testing-tools) | None | C++ | 739 | Apache License 2.0 | 2015-03-19 | 2024-07-16 |
-| [sandbox-attacksurface-analysis-tools](https://github.com/googleprojectzero/sandbox-attacksurface-analysis-tools) | Set of tools to analyze Windows sandboxes for exposed attack surface. | C# | 2000 | Apache License 2.0 | 2015-10-23 | 2024-07-19 |
+| [sandbox-attacksurface-analysis-tools](https://github.com/googleprojectzero/sandbox-attacksurface-analysis-tools) | Set of tools to analyze Windows sandboxes for exposed attack surface. | C# | 2002 | Apache License 2.0 | 2015-10-23 | 2024-07-20 |
 | [winafl](https://github.com/googleprojectzero/winafl) | A fork of AFL for fuzzing Windows binaries | C | 2290 | Apache License 2.0 | 2016-07-07 | 2024-07-18 |
 | [functionsimsearch](https://github.com/googleprojectzero/functionsimsearch) | Some C++ example code to demonstrate how to perform code similarity searches using SimHashing. | C++ | 556 | Apache License 2.0 | 2017-06-16 | 2024-07-16 |
-| [domato](https://github.com/googleprojectzero/domato) | DOM fuzzer | Python | 1661 | Apache License 2.0 | 2017-09-21 | 2024-07-16 |
+| [domato](https://github.com/googleprojectzero/domato) | DOM fuzzer | Python | 1662 | Apache License 2.0 | 2017-09-21 | 2024-07-20 |
 | [p0tools](https://github.com/googleprojectzero/p0tools) | Project Zero Docs and Tools | C++ | 693 | Apache License 2.0 | 2018-05-10 | 2024-07-19 |
 | [reil](https://github.com/googleprojectzero/reil) | None | C++ | 58 | Apache License 2.0 | 2018-06-29 | 2023-12-21 |
 | [BrokenType](https://github.com/googleprojectzero/BrokenType) | TrueType and OpenType font fuzzing toolset | C++ | 427 | Apache License 2.0 | 2018-08-14 | 2024-05-08 |
 | [bochspwn-reloaded](https://github.com/googleprojectzero/bochspwn-reloaded) | A Bochs-based instrumentation performing kernel memory taint tracking to detect disclosure of uninitialized memory to ring 3 | C++ | 280 | Apache License 2.0 | 2018-08-22 | 2024-07-06 |
-| [halfempty](https://github.com/googleprojectzero/halfempty) | A fast, parallel test case minimization tool. | C | 930 | Apache License 2.0 | 2018-09-24 | 2024-07-18 |
+| [halfempty](https://github.com/googleprojectzero/halfempty) | A fast, parallel test case minimization tool. | C | 934 | Apache License 2.0 | 2018-09-24 | 2024-07-21 |
 | [Street-Party](https://github.com/googleprojectzero/Street-Party) | Street Party is a suite of tools that allows the RTP streams of video conferencing implementations to be viewed and modified. | C++ | 240 | Apache License 2.0 | 2018-12-13 | 2024-06-05 |
 | [CompareCoverage](https://github.com/googleprojectzero/CompareCoverage) | Clang instrumentation module for tracing variable and buffer comparisons in C/C++ and saving the coverage data to .sancov files | C++ | 200 | Apache License 2.0 | 2019-02-12 | 2024-06-07 |
-| [fuzzilli](https://github.com/googleprojectzero/fuzzilli) | A JavaScript Engine Fuzzer | Swift | 1827 | Apache License 2.0 | 2019-03-20 | 2024-07-19 |
+| [fuzzilli](https://github.com/googleprojectzero/fuzzilli) | A JavaScript Engine Fuzzer | Swift | 1827 | Apache License 2.0 | 2019-03-20 | 2024-07-21 |
 | [iOS-messaging-tools](https://github.com/googleprojectzero/iOS-messaging-tools) | None | Python | 365 | Apache License 2.0 | 2019-08-07 | 2024-07-18 |
 | [DrSancov](https://github.com/googleprojectzero/DrSancov) | DynamoRIO plugin to get ASAN and SanitizerCoverage compatible output for closed-source executables | C++ | 202 | Apache License 2.0 | 2019-09-02 | 2024-07-08 |
 | [ktrw](https://github.com/googleprojectzero/ktrw) | An iOS kernel debugger based on a KTRR bypass for A11 iPhones; works with LLDB and IDA Pro. | C | 653 | Apache License 2.0 | 2019-10-28 | 2024-07-16 |
@@ -9932,7 +9932,7 @@
 | [TinyInst](https://github.com/googleprojectzero/TinyInst) | A lightweight dynamic instrumentation library | C++ | 1147 | Apache License 2.0 | 2020-06-04 | 2024-07-16 |
 | [Jackalope](https://github.com/googleprojectzero/Jackalope) | Binary, coverage-guided fuzzer for Windows, macOS, Linux and Android | C++ | 1047 | Apache License 2.0 | 2020-12-15 | 2024-07-19 |
 | [0days-in-the-wild](https://github.com/googleprojectzero/0days-in-the-wild) | Repository for information about 0-days exploited in-the-wild. | HTML | 734 | Apache License 2.0 | 2021-02-23 | 2024-07-16 |
-| [SockFuzzer](https://github.com/googleprojectzero/SockFuzzer) | None | C | 354 | Other | 2021-04-22 | 2024-07-16 |
+| [SockFuzzer](https://github.com/googleprojectzero/SockFuzzer) | None | C | 355 | Other | 2021-04-22 | 2024-07-21 |
 | [Hyntrospect](https://github.com/googleprojectzero/Hyntrospect) | None | PowerShell | 177 | Apache License 2.0 | 2021-05-13 | 2024-07-16 |
 | [.allstar](https://github.com/googleprojectzero/.allstar) | None | None | 1 | - | 2022-10-26 | 2024-05-11 |
 | [.github](https://github.com/googleprojectzero/.github) | None | None | 1 | - | 2022-10-26 | 2023-12-28 |
@@ -9981,7 +9981,7 @@
 | [google-signin-unity](https://github.com/googlesamples/google-signin-unity) | Google Sign-In API plugin for Unity game engine.  Works with Android and iOS. | C++ | 405 | Other | 2017-10-12 | 2024-07-20 |
 | [android-TensorFlowCloudMachineLearningEngineStylizer](https://github.com/googlesamples/android-TensorFlowCloudMachineLearningEngineStylizer) | None | Java | 14 | Apache License 2.0 | 2018-02-21 | 2023-12-09 |
 | [assistant-sdk-nodejs](https://github.com/googlesamples/assistant-sdk-nodejs) | None | JavaScript | 93 | Apache License 2.0 | 2018-05-07 | 2024-05-04 |
-| [google-photos](https://github.com/googlesamples/google-photos) | Samples for the Google Photos Library API 📸 | JavaScript | 492 | Apache License 2.0 | 2018-05-08 | 2024-07-17 |
+| [google-photos](https://github.com/googlesamples/google-photos) | Samples for the Google Photos Library API 📸 | JavaScript | 493 | Apache License 2.0 | 2018-05-08 | 2024-07-20 |
 | [arcore-illusive-images](https://github.com/googlesamples/arcore-illusive-images) | None | C# | 62 | Apache License 2.0 | 2018-05-08 | 2024-07-08 |
 | [arcore-lightboard](https://github.com/googlesamples/arcore-lightboard) | None | C# | 96 | Apache License 2.0 | 2018-05-10 | 2024-04-04 |
 | [sceneform-samples](https://github.com/googlesamples/sceneform-samples) | Sceneform samples for 3D rendering for ARCore in Java. | Java | 87 | Apache License 2.0 | 2018-08-08 | 2023-12-07 |
@@ -10023,11 +10023,11 @@
 | [seurat-unreal-plugin](https://github.com/googlevr/seurat-unreal-plugin) | Seurat is a scene simplification technology designed to process very complex 3D scenes into a representation that renders efficiently on mobile 6DoF VR systems.  | C++ | 54 | Apache License 2.0 | 2018-05-04 | 2024-01-27 |
 | [seurat](https://github.com/googlevr/seurat) | Seurat is a scene simplification technology designed to process very complex 3D scenes into a representation that renders efficiently on mobile 6DoF VR systems. | C++ | 870 | Apache License 2.0 | 2018-05-04 | 2024-07-18 |
 | [cardboard](https://github.com/googlevr/cardboard) | Open source Cardboard SDK and samples | C++ | 1471 | Other | 2019-10-02 | 2024-07-18 |
-| [tilt-brush](https://github.com/googlevr/tilt-brush) | None | C# | 2222 | Apache License 2.0 | 2020-04-13 | 2024-07-19 |
+| [tilt-brush](https://github.com/googlevr/tilt-brush) | None | C# | 2223 | Apache License 2.0 | 2020-04-13 | 2024-07-20 |
 | [cardboard-xr-plugin](https://github.com/googlevr/cardboard-xr-plugin) | Google Cardboard XR Plugin for Unity | C# | 284 | Apache License 2.0 | 2020-05-07 | 2024-07-18 |
 | [.allstar](https://github.com/googlevr/.allstar) | None | None | 0 | - | 2022-10-26 | 2024-02-08 |
 | [.github](https://github.com/googlevr/.github) | None | None | 0 | - | 2022-10-26 | 2023-12-28 |
-| [blocks](https://github.com/googlevr/blocks) | An archived repository of the Google Blocks source code: a VR creation app originally released for the HTC Vive and Oculus Rift | C++ | 55 | Apache License 2.0 | 2024-06-14 | 2024-07-20 |
+| [blocks](https://github.com/googlevr/blocks) | An archived repository of the Google Blocks source code: a VR creation app originally released for the HTC Vive and Oculus Rift | C++ | 59 | Apache License 2.0 | 2024-06-14 | 2024-07-21 |
 | [apps-script-samples](https://github.com/googleworkspace/apps-script-samples) | Apps Script samples for Google Workspace products. | JavaScript | 4448 | Apache License 2.0 | 2013-06-13 | 2024-07-19 |
 | [drive-utils](https://github.com/googleworkspace/drive-utils) | Google Drive API utility functions. | JavaScript | 190 | Apache License 2.0 | 2013-09-18 | 2024-07-10 |
 | [android-samples](https://github.com/googleworkspace/android-samples) | Android samples for Google Workspace APIs | Java | 634 | Apache License 2.0 | 2013-11-05 | 2024-07-19 |
@@ -10043,7 +10043,7 @@
 | [add-ons-samples](https://github.com/googleworkspace/add-ons-samples) | Sample Google Workspace Add-ons | JavaScript | 265 | Apache License 2.0 | 2017-10-24 | 2024-06-06 |
 | [google-chat-samples](https://github.com/googleworkspace/google-chat-samples) | Chat Bot Samples for Google Chat. | JavaScript | 477 | Apache License 2.0 | 2018-02-07 | 2024-07-19 |
 | [hangouts-chat-apps-script-codelab](https://github.com/googleworkspace/hangouts-chat-apps-script-codelab) | None | JavaScript | 55 | Apache License 2.0 | 2018-02-28 | 2024-03-12 |
-| [browser-samples](https://github.com/googleworkspace/browser-samples) | Web samples for Google Workspace APIs | HTML | 324 | Apache License 2.0 | 2018-03-13 | 2024-07-19 |
+| [browser-samples](https://github.com/googleworkspace/browser-samples) | Web samples for Google Workspace APIs | HTML | 323 | Apache License 2.0 | 2018-03-13 | 2024-07-20 |
 | [ruby-samples](https://github.com/googleworkspace/ruby-samples) | 💎 Ruby samples for Google Workspace APIs | Ruby | 78 | Apache License 2.0 | 2018-03-13 | 2024-07-03 |
 | [php-samples](https://github.com/googleworkspace/php-samples) | PHP samples for Google Workspace APIs | PHP | 287 | Apache License 2.0 | 2018-03-13 | 2024-07-12 |
 | [node-samples](https://github.com/googleworkspace/node-samples) | Node samples for Google Workspace APIs. | JavaScript | 460 | Apache License 2.0 | 2018-03-13 | 2024-07-19 |
@@ -10072,13 +10072,13 @@
 | [group-based-role-assignment-migration-util](https://github.com/googleworkspace/group-based-role-assignment-migration-util) | None | Python | 2 | Apache License 2.0 | 2023-10-24 | 2024-01-16 |
 | [redriveapp](https://github.com/googleworkspace/redriveapp) | ReDriveApp (short for "Recommended" or "Replacement" DriveApp). AppsScript class that provides equivalent methods offered by the built-in DriveApp, but that does not require use of full '/drive' OAuth scope (which is a "Restricted" scope"). Instead, uses only these Recommended (non-sensitive) and/or Sensitive scopes. | JavaScript | 9 | Apache License 2.0 | 2024-01-18 | 2024-06-04 |
 | [slides-advisor-add-on](https://github.com/googleworkspace/slides-advisor-add-on) | None | JavaScript | 13 | Apache License 2.0 | 2024-02-07 | 2024-06-28 |
-| [meet](https://github.com/googleworkspace/meet) | None | None | 0 | Other | 2024-02-21 | 2024-05-26 |
+| [meet](https://github.com/googleworkspace/meet) | None | None | 0 | Other | 2024-02-21 | 2024-07-20 |
 | [python-classroom-addon](https://github.com/googleworkspace/python-classroom-addon) | Reference implementation of a Google Classroom add-on, written in Python and broken into steps corresponding to a walkthrough tutorial https://developers.google.com/classroom/add-ons/walkthroughs/walkthroughs-overview. | Python | 2 | Apache License 2.0 | 2024-05-03 | 2024-06-13 |
 | [java-classroom-addon](https://github.com/googleworkspace/java-classroom-addon) | About Reference implementation of a Google Classroom add-on, written in Java and broken into steps corresponding to a walkthrough tutorial https://developers.google.com/classroom/add-ons/walkthroughs/walkthroughs-overview. | Java | 2 | Apache License 2.0 | 2024-05-21 | 2024-06-13 |
 | [drive-cse-upload](https://github.com/googleworkspace/drive-cse-upload) | None | Python | 0 | Apache License 2.0 | 2024-07-08 | 2024-07-15 |
-| [istio](https://github.com/istio/istio) | Connect, secure, control, and observe services. | Go | 35426 | Apache License 2.0 | 2016-11-18 | 2024-07-20 |
+| [istio](https://github.com/istio/istio) | Connect, secure, control, and observe services. | Go | 35431 | Apache License 2.0 | 2016-11-18 | 2024-07-21 |
 | [old_mixer_repo](https://github.com/istio/old_mixer_repo) | Deprecated home of Istio's Mixer and its adapters, now in istio/istio's mixer dir | Go | 67 | Apache License 2.0 | 2016-11-19 | 2023-12-11 |
-| [proxy](https://github.com/istio/proxy) | The Istio proxy components. | C++ | 786 | Apache License 2.0 | 2016-12-01 | 2024-07-19 |
+| [proxy](https://github.com/istio/proxy) | The Istio proxy components. | C++ | 786 | Apache License 2.0 | 2016-12-01 | 2024-07-21 |
 | [old_pilot_repo](https://github.com/istio/old_pilot_repo) | Deprecated home of Istio's Pilot, now in istio/istio's pilot dir | Go | 137 | Apache License 2.0 | 2016-12-06 | 2023-05-21 |
 | [api](https://github.com/istio/api) | API definitions for the Istio project | Go | 447 | Apache License 2.0 | 2016-12-15 | 2024-07-18 |
 | [old_mixerclient_repo](https://github.com/istio/old_mixerclient_repo) | Deprecated home of the C++ client library for Mixer's API, now in istio/proxy | C++ | 15 | Apache License 2.0 | 2016-12-16 | 2023-12-19 |
@@ -10118,14 +10118,14 @@
 | [.github](https://github.com/istio/.github) | None | None | 0 | - | 2022-10-26 | 2023-02-16 |
 | [istio-events](https://github.com/istio/istio-events) | None | HTML | 0 | - | 2023-08-15 | 2023-08-15 |
 | [k8s-at-home.github.io](https://github.com/k8s-at-home/k8s-at-home.github.io) | None | HTML | 12 | - | 2020-02-22 | 2022-11-20 |
-| [charts](https://github.com/k8s-at-home/charts) | ⚠️ Deprecated : Helm charts for applications you run at home | Smarty | 1448 | Apache License 2.0 | 2020-08-29 | 2024-07-19 |
+| [charts](https://github.com/k8s-at-home/charts) | ⚠️ Deprecated : Helm charts for applications you run at home | Smarty | 1449 | Apache License 2.0 | 2020-08-29 | 2024-07-20 |
 | [library-charts](https://github.com/k8s-at-home/library-charts) | ⚠️ Deprecated :  Helm library charts for the k8s@home Helm charts | Smarty | 179 | Apache License 2.0 | 2021-03-03 | 2024-07-10 |
-| [tensorflow](https://github.com/tensorflow/tensorflow) | An Open Source Machine Learning Framework for Everyone | C++ | 184173 | Apache License 2.0 | 2015-11-07 | 2024-07-20 |
+| [tensorflow](https://github.com/tensorflow/tensorflow) | An Open Source Machine Learning Framework for Everyone | C++ | 184190 | Apache License 2.0 | 2015-11-07 | 2024-07-21 |
 | [skflow](https://github.com/tensorflow/skflow) | Simplified interface for TensorFlow (mimicking Scikit Learn) for Deep Learning | Python | 3177 | Apache License 2.0 | 2015-11-18 | 2024-06-25 |
 | [serving](https://github.com/tensorflow/serving) | A flexible, high-performance serving system for machine learning models | C++ | 6130 | Apache License 2.0 | 2016-01-26 | 2024-07-18 |
-| [rust](https://github.com/tensorflow/rust) | Rust language bindings for TensorFlow | Rust | 5074 | Apache License 2.0 | 2016-02-05 | 2024-07-20 |
-| [models](https://github.com/tensorflow/models) | Models and examples built with TensorFlow | Python | 76802 | Other | 2016-02-05 | 2024-07-19 |
-| [playground](https://github.com/tensorflow/playground) | Play with neural networks! | TypeScript | 11852 | Apache License 2.0 | 2016-04-04 | 2024-07-20 |
+| [rust](https://github.com/tensorflow/rust) | Rust language bindings for TensorFlow | Rust | 5076 | Apache License 2.0 | 2016-02-05 | 2024-07-20 |
+| [models](https://github.com/tensorflow/models) | Models and examples built with TensorFlow | Python | 76806 | Other | 2016-02-05 | 2024-07-20 |
+| [playground](https://github.com/tensorflow/playground) | Play with neural networks! | TypeScript | 11854 | Apache License 2.0 | 2016-04-04 | 2024-07-21 |
 | [benchmarks](https://github.com/tensorflow/benchmarks) |  A benchmark framework for Tensorflow | Python | 1140 | Apache License 2.0 | 2016-10-12 | 2024-06-22 |
 | [ecosystem](https://github.com/tensorflow/ecosystem) | Integration of TensorFlow with other open-source frameworks | Scala | 1370 | Apache License 2.0 | 2016-10-14 | 2024-07-19 |
 | [haskell](https://github.com/tensorflow/haskell) | Haskell bindings for TensorFlow | Haskell | 1568 | Apache License 2.0 | 2016-10-16 | 2024-07-06 |
@@ -10133,16 +10133,16 @@
 | [embedding-projector-standalone](https://github.com/tensorflow/embedding-projector-standalone) | None | HTML | 288 | - | 2016-11-10 | 2024-07-18 |
 | [fold](https://github.com/tensorflow/fold) | Deep learning with dynamic computation graphs in TensorFlow | Python | 1820 | Apache License 2.0 | 2017-01-18 | 2024-07-19 |
 | [transform](https://github.com/tensorflow/transform) | Input pipeline framework | Python | 983 | Apache License 2.0 | 2017-02-10 | 2024-06-25 |
-| [tensorboard](https://github.com/tensorflow/tensorboard) | TensorFlow's Visualization Toolkit | TypeScript | 6618 | Apache License 2.0 | 2017-05-15 | 2024-07-19 |
-| [tensor2tensor](https://github.com/tensorflow/tensor2tensor) | Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research. | Python | 15175 | Apache License 2.0 | 2017-06-15 | 2024-07-19 |
-| [nmt](https://github.com/tensorflow/nmt) | TensorFlow Neural Machine Translation Tutorial | Python | 6350 | Apache License 2.0 | 2017-06-29 | 2024-07-19 |
+| [tensorboard](https://github.com/tensorflow/tensorboard) | TensorFlow's Visualization Toolkit | TypeScript | 6619 | Apache License 2.0 | 2017-05-15 | 2024-07-20 |
+| [tensor2tensor](https://github.com/tensorflow/tensor2tensor) | Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research. | Python | 15176 | Apache License 2.0 | 2017-06-15 | 2024-07-21 |
+| [nmt](https://github.com/tensorflow/nmt) | TensorFlow Neural Machine Translation Tutorial | Python | 6351 | Apache License 2.0 | 2017-06-29 | 2024-07-21 |
 | [metadata](https://github.com/tensorflow/metadata) | Utilities for passing TensorFlow-related metadata between tools | Python | 104 | Apache License 2.0 | 2017-06-30 | 2024-06-19 |
-| [tpu](https://github.com/tensorflow/tpu) | Reference models and tools for Cloud TPUs. | Jupyter Notebook | 5201 | Apache License 2.0 | 2017-07-11 | 2024-07-18 |
+| [tpu](https://github.com/tensorflow/tpu) | Reference models and tools for Cloud TPUs. | Jupyter Notebook | 5202 | Apache License 2.0 | 2017-07-11 | 2024-07-21 |
 | [tensorboard-plugin-example](https://github.com/tensorflow/tensorboard-plugin-example) | None | Python | 134 | Apache License 2.0 | 2017-07-20 | 2024-01-04 |
-| [tfjs-core](https://github.com/tensorflow/tfjs-core) | WebGL-accelerated ML // linear algebra // automatic differentiation for JavaScript. | TypeScript | 8483 | Apache License 2.0 | 2017-08-02 | 2024-07-19 |
+| [tfjs-core](https://github.com/tensorflow/tfjs-core) | WebGL-accelerated ML // linear algebra // automatic differentiation for JavaScript. | TypeScript | 8484 | Apache License 2.0 | 2017-08-02 | 2024-07-20 |
 | [workshops](https://github.com/tensorflow/workshops) | A few exercises for use at events. | Jupyter Notebook | 1453 | Apache License 2.0 | 2017-08-17 | 2024-07-10 |
 | [lattice](https://github.com/tensorflow/lattice) | Lattice methods in TensorFlow | Python | 518 | Apache License 2.0 | 2017-09-22 | 2024-05-10 |
-| [probability](https://github.com/tensorflow/probability) | Probabilistic reasoning and statistical analysis in TensorFlow | Jupyter Notebook | 4161 | Apache License 2.0 | 2017-10-23 | 2024-07-20 |
+| [probability](https://github.com/tensorflow/probability) | Probabilistic reasoning and statistical analysis in TensorFlow | Jupyter Notebook | 4162 | Apache License 2.0 | 2017-10-23 | 2024-07-20 |
 | [tensorstore](https://github.com/tensorflow/tensorstore) | None | C++ | 25 | Apache License 2.0 | 2018-01-19 | 2023-07-19 |
 | [tfjs-converter](https://github.com/tensorflow/tfjs-converter) | Convert TensorFlow SavedModel and Keras models to TensorFlow.js | TypeScript | 697 | Apache License 2.0 | 2018-01-22 | 2024-07-20 |
 | [lucid](https://github.com/tensorflow/lucid) | A collection of infrastructure and tools for research in neural network interpretability. | Jupyter Notebook | 4637 | Apache License 2.0 | 2018-01-25 | 2024-07-16 |
@@ -10152,13 +10152,13 @@
 | [profiler-ui](https://github.com/tensorflow/profiler-ui) | [Deprecated] The TensorFlow Profiler (TFProf) UI provides a visual interface for profiling TensorFlow models. | HTML | 134 | Apache License 2.0 | 2018-02-07 | 2024-04-22 |
 | [tfjs-node](https://github.com/tensorflow/tfjs-node) | TensorFlow powered JavaScript library for training and deploying ML models on Node.js. | TypeScript | 1048 | Apache License 2.0 | 2018-02-12 | 2024-07-19 |
 | [tfjs-layers](https://github.com/tensorflow/tfjs-layers) | TensorFlow.js high-level layers API | TypeScript | 283 | Other | 2018-02-26 | 2024-03-03 |
-| [tfjs](https://github.com/tensorflow/tfjs) | A WebGL accelerated JavaScript library for training and deploying ML models. | TypeScript | 18287 | Apache License 2.0 | 2018-03-05 | 2024-07-19 |
+| [tfjs](https://github.com/tensorflow/tfjs) | A WebGL accelerated JavaScript library for training and deploying ML models. | TypeScript | 18288 | Apache License 2.0 | 2018-03-05 | 2024-07-20 |
 | [tfjs-website](https://github.com/tensorflow/tfjs-website) | WebGL-accelerated ML // linear algebra // automatic differentiation for JavaScript. | CSS | 70 | Apache License 2.0 | 2018-03-05 | 2024-06-04 |
-| [tfjs-examples](https://github.com/tensorflow/tfjs-examples) | Examples built with TensorFlow.js | JavaScript | 6495 | Apache License 2.0 | 2018-03-05 | 2024-07-19 |
+| [tfjs-examples](https://github.com/tensorflow/tfjs-examples) | Examples built with TensorFlow.js | JavaScript | 6496 | Apache License 2.0 | 2018-03-05 | 2024-07-21 |
 | [hub](https://github.com/tensorflow/hub) | A library for transfer learning by reusing parts of TensorFlow models. | Python | 3454 | Apache License 2.0 | 2018-03-12 | 2024-07-18 |
-| [model-analysis](https://github.com/tensorflow/model-analysis) | Model analysis tools for TensorFlow | Python | 1248 | Apache License 2.0 | 2018-03-23 | 2024-07-17 |
-| [tfjs-models](https://github.com/tensorflow/tfjs-models) | Pretrained models for TensorFlow.js | TypeScript | 13900 | Apache License 2.0 | 2018-04-03 | 2024-07-19 |
-| [docs](https://github.com/tensorflow/docs) | TensorFlow documentation | Jupyter Notebook | 6076 | Apache License 2.0 | 2018-04-12 | 2024-07-17 |
+| [model-analysis](https://github.com/tensorflow/model-analysis) | Model analysis tools for TensorFlow | Python | 1249 | Apache License 2.0 | 2018-03-23 | 2024-07-20 |
+| [tfjs-models](https://github.com/tensorflow/tfjs-models) | Pretrained models for TensorFlow.js | TypeScript | 13898 | Apache License 2.0 | 2018-04-03 | 2024-07-21 |
+| [docs](https://github.com/tensorflow/docs) | TensorFlow documentation | Jupyter Notebook | 6077 | Apache License 2.0 | 2018-04-12 | 2024-07-21 |
 | [moonlight](https://github.com/tensorflow/moonlight) | Optical music recognition in TensorFlow | Python | 323 | Apache License 2.0 | 2018-04-17 | 2024-06-30 |
 | [tfjs-data](https://github.com/tensorflow/tfjs-data) | Simple APIs to load and prepare data for use in machine learning models | TypeScript | 66 | Apache License 2.0 | 2018-04-23 | 2024-01-04 |
 | [swift](https://github.com/tensorflow/swift) | Swift for TensorFlow | Jupyter Notebook | 6124 | Apache License 2.0 | 2018-04-24 | 2024-07-19 |
@@ -10172,7 +10172,7 @@
 | [tcav](https://github.com/tensorflow/tcav) | Code for the TCAV ML interpretability project | Jupyter Notebook | 624 | Apache License 2.0 | 2018-07-03 | 2024-07-08 |
 | [examples](https://github.com/tensorflow/examples) | TensorFlow examples | Jupyter Notebook | 7856 | Apache License 2.0 | 2018-07-16 | 2024-07-19 |
 | [lingvo](https://github.com/tensorflow/lingvo) | Lingvo | Python | 2802 | Apache License 2.0 | 2018-07-24 | 2024-07-16 |
-| [estimator](https://github.com/tensorflow/estimator) | TensorFlow Estimator | Python | 297 | Apache License 2.0 | 2018-07-31 | 2024-06-25 |
+| [estimator](https://github.com/tensorflow/estimator) | TensorFlow Estimator | Python | 298 | Apache License 2.0 | 2018-07-31 | 2024-07-20 |
 | [tfjs-vis](https://github.com/tensorflow/tfjs-vis) | A set of utilities for in browser visualization with TensorFlow.js | TypeScript | 362 | - | 2018-08-09 | 2024-06-08 |
 | [datasets](https://github.com/tensorflow/datasets) | TFDS is a collection of datasets ready to use with TensorFlow, Jax, ... | Python | 4242 | Apache License 2.0 | 2018-09-10 | 2024-07-19 |
 | [mesh](https://github.com/tensorflow/mesh) | Mesh TensorFlow: Model Parallelism Made Easier | Python | 1566 | Apache License 2.0 | 2018-09-20 | 2024-07-18 |
@@ -10184,13 +10184,13 @@
 | [agents](https://github.com/tensorflow/agents) | TF-Agents: A reliable, scalable and easy to use TensorFlow library for Contextual Bandits and Reinforcement Learning. | Python | 2761 | Apache License 2.0 | 2018-11-17 | 2024-07-19 |
 | [addons](https://github.com/tensorflow/addons) | Useful extra functionality for TensorFlow 2.x maintained by SIG-addons | Python | 1687 | Apache License 2.0 | 2018-11-26 | 2024-07-19 |
 | [ranking](https://github.com/tensorflow/ranking) | Learning to Rank in TensorFlow | Python | 2727 | Apache License 2.0 | 2018-12-03 | 2024-07-17 |
-| [privacy](https://github.com/tensorflow/privacy) | Library for training machine learning models with privacy for training data | Python | 1907 | Apache License 2.0 | 2018-12-21 | 2024-07-19 |
+| [privacy](https://github.com/tensorflow/privacy) | Library for training machine learning models with privacy for training data | Python | 1908 | Apache License 2.0 | 2018-12-21 | 2024-07-21 |
 | [graphics](https://github.com/tensorflow/graphics) | TensorFlow Graphics: Differentiable Graphics Layers for TensorFlow | Python | 2745 | Apache License 2.0 | 2019-01-08 | 2024-07-11 |
-| [tfx](https://github.com/tensorflow/tfx) |  TFX is an end-to-end platform for deploying production ML pipelines | Python | 2092 | Apache License 2.0 | 2019-02-04 | 2024-07-19 |
+| [tfx](https://github.com/tensorflow/tfx) |  TFX is an end-to-end platform for deploying production ML pipelines | Python | 2093 | Apache License 2.0 | 2019-02-04 | 2024-07-20 |
 | [swift-apis](https://github.com/tensorflow/swift-apis) | Swift for TensorFlow Deep Learning Library | Swift | 793 | Apache License 2.0 | 2019-02-12 | 2024-07-19 |
 | [ngraph-bridge](https://github.com/tensorflow/ngraph-bridge) | TensorFlow-nGraph bridge | C++ | 137 | Other | 2019-02-20 | 2024-06-12 |
 | [autograph](https://github.com/tensorflow/autograph) | None | Python | 49 | Apache License 2.0 | 2019-02-27 | 2024-05-18 |
-| [mlir](https://github.com/tensorflow/mlir) | "Multi-Level Intermediate Representation" Compiler Infrastructure | None | 1727 | - | 2019-03-29 | 2024-07-09 |
+| [mlir](https://github.com/tensorflow/mlir) | "Multi-Level Intermediate Representation" Compiler Infrastructure | None | 1729 | - | 2019-03-29 | 2024-07-21 |
 | [gan](https://github.com/tensorflow/gan) | Tooling for GANs in TensorFlow | Jupyter Notebook | 923 | Apache License 2.0 | 2019-04-29 | 2024-07-16 |
 | [tfjs-wechat](https://github.com/tensorflow/tfjs-wechat) | WeChat Mini-program plugin for TensorFlow.js | TypeScript | 539 | - | 2019-05-09 | 2024-07-04 |
 | [text](https://github.com/tensorflow/text) | Making text a first-class citizen in TensorFlow. | C++ | 1210 | Apache License 2.0 | 2019-05-29 | 2024-07-17 |
@@ -10213,11 +10213,11 @@
 | [mlir-hlo](https://github.com/tensorflow/mlir-hlo) | None | MLIR | 382 | - | 2020-07-18 | 2024-07-20 |
 | [model-card-toolkit](https://github.com/tensorflow/model-card-toolkit) | A toolkit that streamlines and automates the generation of model cards  | Python | 412 | Apache License 2.0 | 2020-07-24 | 2024-07-14 |
 | [model-remediation](https://github.com/tensorflow/model-remediation) | Model Remediation is a library that provides solutions for machine learning practitioners working to create and train models in a way that reduces or eliminates user harm resulting from underlying performance biases. | Python | 42 | Apache License 2.0 | 2020-10-23 | 2024-05-09 |
-| [recommenders-addons](https://github.com/tensorflow/recommenders-addons) | Additional utils and helpers to extend TensorFlow when build recommendation systems, contributed and maintained by SIG Recommenders. | Cuda | 570 | Apache License 2.0 | 2020-11-20 | 2024-07-20 |
+| [recommenders-addons](https://github.com/tensorflow/recommenders-addons) | Additional utils and helpers to extend TensorFlow when build recommendation systems, contributed and maintained by SIG Recommenders. | Cuda | 571 | Apache License 2.0 | 2020-11-20 | 2024-07-20 |
 | [tfx-addons](https://github.com/tensorflow/tfx-addons) | Developers helping developers.  TFX-Addons is a collection of community projects to build new components, examples, libraries, and tools for TFX.  The projects are organized under the auspices of the special interest group, SIG TFX-Addons.  Join  the group at http://goo.gle/tfx-addons-group | Jupyter Notebook | 125 | Apache License 2.0 | 2021-03-16 | 2024-07-09 |
 | [java-ndarray](https://github.com/tensorflow/java-ndarray) | None | Java | 70 | Apache License 2.0 | 2021-03-19 | 2024-06-19 |
-| [tflite-micro](https://github.com/tensorflow/tflite-micro) | Infrastructure to enable deployment of ML models to low-power resource-constrained embedded targets (including microcontrollers and digital signal processors). | C++ | 1763 | Apache License 2.0 | 2021-04-08 | 2024-07-19 |
-| [tflite-micro-arduino-examples](https://github.com/tensorflow/tflite-micro-arduino-examples) | None | C++ | 189 | Apache License 2.0 | 2021-04-08 | 2024-07-10 |
+| [tflite-micro](https://github.com/tensorflow/tflite-micro) | Infrastructure to enable deployment of ML models to low-power resource-constrained embedded targets (including microcontrollers and digital signal processors). | C++ | 1764 | Apache License 2.0 | 2021-04-08 | 2024-07-20 |
+| [tflite-micro-arduino-examples](https://github.com/tensorflow/tflite-micro-arduino-examples) | None | C++ | 190 | Apache License 2.0 | 2021-04-08 | 2024-07-21 |
 | [decision-forests](https://github.com/tensorflow/decision-forests) | A collection of state-of-the-art algorithms for the training, serving and interpretation of Decision Forest models in Keras. | Python | 655 | Apache License 2.0 | 2021-04-22 | 2024-07-19 |
 | [gnn](https://github.com/tensorflow/gnn) | TensorFlow GNN is a library to build Graph Neural Networks on the TensorFlow platform. | Python | 1313 | Apache License 2.0 | 2021-08-10 | 2024-07-16 |
 | [sig-tfjs](https://github.com/tensorflow/sig-tfjs) | None | TypeScript | 13 | Apache License 2.0 | 2021-09-08 | 2023-07-19 |

@@ -1,14 +1,14 @@
 # Sony
 
-共 75 个项目，近半年内活跃项目 60 个，1 个团队， 14847 个 Star。
+共 75 个项目，近半年内活跃项目 60 个，1 个团队， 14849 个 Star。
 
 语言 Top 3：Python, JavaScript, C++
 
-统计时间：2024-07-20 08:06:16
+统计时间：2024-07-21 08:06:37
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 2835 | MIT License | 2015-05-29 | 2024-07-17 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 2837 | MIT License | 2015-05-29 | 2024-07-20 |
 | [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 3825 | MIT License | 2015-05-29 | 2024-07-19 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 |
