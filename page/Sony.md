@@ -1,10 +1,10 @@
 # Sony
 
-共 75 个项目，近半年内活跃项目 60 个，1 个团队， 14849 个 Star。
+共 75 个项目，近半年内活跃项目 60 个，1 个团队， 14853 个 Star。
 
 语言 Top 3：Python, JavaScript, C++
 
-统计时间：2024-07-21 08:06:37
+统计时间：2024-07-22 08:08:15
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -39,11 +39,11 @@
 | [ai-research-code](https://github.com/sony/ai-research-code) | None | Python | 343 | Apache License 2.0 | 2020-04-14 | 2024-07-19 |
 | [nnabla-nas](https://github.com/sony/nnabla-nas) | Neural Architecture Search for Neural Network Libraries | Python | 54 | Apache License 2.0 | 2020-06-15 | 2024-06-07 |
 | [micro-notifier](https://github.com/sony/micro-notifier) | Simplified Pusher Clone | Go | 10 | MIT License | 2020-09-06 | 2024-05-07 |
-| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1167 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2024-07-18 |
+| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1168 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2024-07-21 |
 | [lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) | None | Python | 0 | MIT License | 2021-03-25 | 2021-05-13 |
 | [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 116 | Apache License 2.0 | 2021-06-11 | 2024-07-03 |
 | [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 80 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2024-07-15 |
-| [model_optimization](https://github.com/sony/model_optimization) | Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks. | Python | 288 | Apache License 2.0 | 2021-06-21 | 2024-07-18 |
+| [model_optimization](https://github.com/sony/model_optimization) | Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks. | Python | 288 | Apache License 2.0 | 2021-06-21 | 2024-07-21 |
 | [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 410 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2024-07-19 |
 | [flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) | Flutter plugins for embedded Linux (eLinux) | C++ | 43 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2024-06-27 |
 | [ds-research-code](https://github.com/sony/ds-research-code) | None | Python | 0 | - | 2021-07-19 | 2023-02-07 |
@@ -57,7 +57,7 @@
 | [polar-densification](https://github.com/sony/polar-densification) | None | Python | 22 | MIT License | 2022-09-13 | 2024-07-17 |
 | [nnabla-js](https://github.com/sony/nnabla-js) | None | TypeScript | 1 | Apache License 2.0 | 2022-09-16 | 2023-02-01 |
 | [DiffRoll](https://github.com/sony/DiffRoll) | PyTorch implementation of DiffRoll, a diffusion-based generative automatic music transcription (AMT) model | Jupyter Notebook | 66 | MIT License | 2022-10-11 | 2024-07-13 |
-| [creativeai](https://github.com/sony/creativeai) | None | CSS | 58 | - | 2022-11-21 | 2024-07-01 |
+| [creativeai](https://github.com/sony/creativeai) | None | CSS | 59 | - | 2022-11-21 | 2024-07-22 |
 | [NDJIR](https://github.com/sony/NDJIR) | NDJIR: Neural Direct and Joint Inverse Rendering for Geometry, Lights, and Materials of Real Object | Python | 42 | Apache License 2.0 | 2022-12-14 | 2024-03-27 |
 | [CLIPSep](https://github.com/sony/CLIPSep) | None | Python | 31 | MIT License | 2023-01-24 | 2024-03-26 |
 | [audio-visual-seld-dcase2023](https://github.com/sony/audio-visual-seld-dcase2023) | Baseline method for audio-visual sound event localization and detection task of DCASE 2023 challenge | Python | 35 | MIT License | 2023-02-20 | 2024-07-02 |
@@ -65,10 +65,10 @@
 | [Instruct3Dto3D-doc](https://github.com/sony/Instruct3Dto3D-doc) | Official documentation of Instruct 3D-to-3D | HTML | 2 | - | 2023-03-23 | 2023-06-19 |
 | [pixel-guided-diffusion](https://github.com/sony/pixel-guided-diffusion) | Fine-grained Image Editing by Pixel-wise Guidance Using Diffusion Models | Python | 33 | Apache License 2.0 | 2023-04-06 | 2024-06-03 |
 | [ARCv2_Ghidra](https://github.com/sony/ARCv2_Ghidra) | None | None | 0 | Apache License 2.0 | 2023-04-26 | 2023-04-26 |
-| [gibbsddrm](https://github.com/sony/gibbsddrm) | None | Python | 19 | MIT License | 2023-04-26 | 2024-05-14 |
+| [gibbsddrm](https://github.com/sony/gibbsddrm) | None | Python | 21 | MIT License | 2023-04-26 | 2024-07-22 |
 | [fp-diffusion](https://github.com/sony/fp-diffusion) | None | Jupyter Notebook | 16 | Apache License 2.0 | 2023-04-26 | 2024-07-12 |
 | [mct_quantizers](https://github.com/sony/mct_quantizers) | None | Python | 17 | Apache License 2.0 | 2023-05-09 | 2024-06-19 |
-| [diffiner](https://github.com/sony/diffiner) | None | Python | 57 | MIT License | 2023-05-30 | 2024-07-04 |
+| [diffiner](https://github.com/sony/diffiner) | None | Python | 57 | MIT License | 2023-05-30 | 2024-07-22 |
 | [hFT-Transformer](https://github.com/sony/hFT-Transformer) | Pytorch implementation of automatic music transcription method that uses a two-level hierarchical frequency-time Transformer architecture (hFT-Transformer). | Python | 65 | MIT License | 2023-06-26 | 2024-05-01 |
 | [san](https://github.com/sony/san) | PyTorch implementation of slicing adversarial network (SAN) | Python | 72 | - | 2023-06-28 | 2024-07-20 |
 | [bigvsan](https://github.com/sony/bigvsan) | Pytorch implementation of BigVSAN | Python | 190 | MIT License | 2023-09-01 | 2024-07-15 |

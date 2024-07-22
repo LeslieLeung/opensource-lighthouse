@@ -1,21 +1,21 @@
 # Microsoft
 
-共 15477 个项目，近半年内活跃项目 10074 个，29 个团队， 4249644 个 Star。
+共 15477 个项目，近半年内活跃项目 10074 个，29 个团队， 4251069 个 Star。
 
 语言 Top 3：C#, Python, PowerShell
 
-统计时间：2024-07-21 08:06:37
+统计时间：2024-07-22 08:08:15
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) | This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.  | C# | 5186 | MIT License | 2011-12-06 | 2024-07-21 |
-| [azure-sdk-for-java](https://github.com/Azure/azure-sdk-for-java) | This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/java/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-java.  | Java | 2261 | MIT License | 2011-12-06 | 2024-07-21 |
+| [azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) | This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.  | C# | 5187 | MIT License | 2011-12-06 | 2024-07-22 |
+| [azure-sdk-for-java](https://github.com/Azure/azure-sdk-for-java) | This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/java/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-java.  | Java | 2261 | MIT License | 2011-12-06 | 2024-07-22 |
 | [azure-sdk-for-node](https://github.com/Azure/azure-sdk-for-node) | Azure SDK for Node.js - Documentation | JavaScript | 1187 | MIT License | 2011-12-09 | 2024-06-25 |
 | [iisnode](https://github.com/Azure/iisnode) | Hosting node.js applications in IIS on Windows | C++ | 656 | Other | 2011-12-13 | 2024-07-11 |
 | [azure-sdk-for-php](https://github.com/Azure/azure-sdk-for-php) | Microsoft Azure SDK for PHP | PHP | 414 | Apache License 2.0 | 2012-02-02 | 2024-03-01 |
 | [node-sqlserver](https://github.com/Azure/node-sqlserver) | None | C++ | 623 | Other | 2012-03-02 | 2024-03-03 |
 | [azure-sdk-for-media-services](https://github.com/Azure/azure-sdk-for-media-services) | Azure SDK for Media Services | C# | 65 | - | 2012-03-12 | 2023-04-13 |
-| [azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python) | This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.  | Python | 4387 | MIT License | 2012-04-24 | 2024-07-21 |
+| [azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python) | This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.  | Python | 4387 | MIT License | 2012-04-24 | 2024-07-22 |
 | [azure-sdk-for-ruby](https://github.com/Azure/azure-sdk-for-ruby) | Ruby SDK for Azure Resource Manager: build and manage your Azure cloud infrastructure (Compute, Virtual Networks, Storage, etc...) using Ruby. | Ruby | 274 | MIT License | 2012-04-24 | 2024-06-11 |
 | [azure-sdk-for-php-samples](https://github.com/Azure/azure-sdk-for-php-samples) | PHP Sample for articles on azure.microsoft.com | PHP | 49 | Apache License 2.0 | 2012-06-06 | 2024-05-07 |
 | [WALinuxAgent](https://github.com/Azure/WALinuxAgent) | Microsoft Azure Linux Guest Agent  | Python | 528 | Apache License 2.0 | 2012-06-06 | 2024-07-05 |
@@ -34,12 +34,12 @@
 | [azure-storage-net](https://github.com/Azure/azure-storage-net) | Microsoft Azure Storage Libraries for .NET | C# | 446 | Apache License 2.0 | 2013-10-23 | 2024-06-14 |
 | [azure-storage-cpp](https://github.com/Azure/azure-storage-cpp) | Microsoft Azure Storage Client Library for C++ | C++ | 131 | Apache License 2.0 | 2013-10-23 | 2024-06-20 |
 | [azure-storage-java](https://github.com/Azure/azure-storage-java) | Microsoft Azure Storage Library for Java | None | 189 | MIT License | 2013-10-23 | 2024-07-19 |
-| [vagrant-azure](https://github.com/Azure/vagrant-azure) | Enable Vagrant to manage virtual machines in Microsoft Azure | Ruby | 314 | MIT License | 2014-03-06 | 2024-07-16 |
+| [vagrant-azure](https://github.com/Azure/vagrant-azure) | Enable Vagrant to manage virtual machines in Microsoft Azure | Ruby | 315 | MIT License | 2014-03-06 | 2024-07-22 |
 | [azure.github.io](https://github.com/Azure/azure.github.io) | The Jekyll based azure.github.io site | HTML | 21 | Other | 2014-03-11 | 2023-05-25 |
 | [azure-websites-java-remote-debugging](https://github.com/Azure/azure-websites-java-remote-debugging) | None | Java | 13 | Other | 2014-05-01 | 2023-10-12 |
 | [azure-storage-android](https://github.com/Azure/azure-storage-android) | Microsoft Azure Storage Library for Android | Java | 80 | Apache License 2.0 | 2014-05-07 | 2024-07-19 |
 | [azure-storage-node](https://github.com/Azure/azure-storage-node) | Microsoft Azure Storage SDK for Node.js | JavaScript | 495 | Apache License 2.0 | 2014-05-07 | 2024-07-03 |
-| [azure-linux-extensions](https://github.com/Azure/azure-linux-extensions) | Linux Virtual Machine Extensions for Azure | Python | 299 | Apache License 2.0 | 2014-05-16 | 2024-07-20 |
+| [azure-linux-extensions](https://github.com/Azure/azure-linux-extensions) | Linux Virtual Machine Extensions for Azure | Python | 300 | Apache License 2.0 | 2014-05-16 | 2024-07-22 |
 | [node-inspector](https://github.com/Azure/node-inspector) | Node.js debugger based on Blink Developer Tools | JavaScript | 10 | BSD 2-Clause "Simplified" License | 2014-05-20 | 2024-01-16 |
 | [mobile-services-samples](https://github.com/Azure/mobile-services-samples) | None | JavaScript | 93 | Apache License 2.0 | 2014-05-29 | 2024-01-04 |
 | [azure-docker-extension](https://github.com/Azure/azure-docker-extension) | Docker VM Extension for Microsoft Azure :whale:  | Go | 102 | Apache License 2.0 | 2014-06-06 | 2023-01-28 |
@@ -49,13 +49,13 @@
 | [azure-cosmosdb-node](https://github.com/Azure/azure-cosmosdb-node) | We recently announced deprecation of JS v1 SDK and this repo. Starting September 2020 Microsoft will not provide support for this library. Existing applications using library will continue to work as-is. We strongly recommend upgrading to @azure/cosmos library. | JavaScript | 142 | MIT License | 2014-08-07 | 2023-04-13 |
 | [azure-cosmos-dotnet-v2](https://github.com/Azure/azure-cosmos-dotnet-v2) | Contains samples and utilities relating to the Azure Cosmos DB .NET SDK | None | 579 | MIT License | 2014-08-07 | 2024-06-18 |
 | [azure-cosmos-python](https://github.com/Azure/azure-cosmos-python) | 🚨🚨🚨This SDK is now maintained at https://github.com/Azure/azure-sdk-for-python 🚨🚨🚨 | Python | 149 | MIT License | 2014-08-07 | 2024-06-15 |
-| [azure-sdk-for-go](https://github.com/Azure/azure-sdk-for-go) | This repository is for active development of the Azure SDK for Go. For consumers of the SDK we recommend visiting our public developer docs at: | Go | 1567 | MIT License | 2014-08-11 | 2024-07-19 |
+| [azure-sdk-for-go](https://github.com/Azure/azure-sdk-for-go) | This repository is for active development of the Azure SDK for Go. For consumers of the SDK we recommend visiting our public developer docs at: | Go | 1567 | MIT License | 2014-08-11 | 2024-07-22 |
 | [azure-webjobs-sdk-samples](https://github.com/Azure/azure-webjobs-sdk-samples) | Microsoft Azure WebJobs SDK Samples | C# | 136 | - | 2014-08-18 | 2024-01-20 |
 | [AzureQuickStartsProjects](https://github.com/Azure/AzureQuickStartsProjects) | A collection of quickstart projects demonstrating core Microsoft Azure services and their APIs. | C# | 60 | MIT License | 2014-08-24 | 2024-06-04 |
 | [azure-kubernetes-visualizer](https://github.com/Azure/azure-kubernetes-visualizer) | azure-kubernetes-visualizer | JavaScript | 117 | - | 2014-08-26 | 2024-02-20 |
 | [azure-webjobs-sdk-dashboard-tests](https://github.com/Azure/azure-webjobs-sdk-dashboard-tests) | None | C# | 3 | Other | 2014-08-27 | 2023-01-28 |
 | [azure-documentdb-java](https://github.com/Azure/azure-documentdb-java) | Java Sync SDK for SQL API of Azure Cosmos DB | Java | 47 | MIT License | 2014-09-09 | 2023-05-30 |
-| [azure-powershell](https://github.com/Azure/azure-powershell) | Microsoft Azure PowerShell | C# | 4134 | Other | 2014-09-10 | 2024-07-20 |
+| [azure-powershell](https://github.com/Azure/azure-powershell) | Microsoft Azure PowerShell | C# | 4135 | Other | 2014-09-10 | 2024-07-22 |
 | [azure-media-services-samples](https://github.com/Azure/azure-media-services-samples) | This repository is deprecated, please find the new one here: | None | 22 | - | 2014-09-26 | 2023-06-02 |
 | [Azure-Media-Services-Explorer](https://github.com/Azure/Azure-Media-Services-Explorer) | Azure Media Services Explorer Tool | C# | 211 | Other | 2014-09-26 | 2024-07-02 |
 | [durabletask](https://github.com/Azure/durabletask) | Durable Task Framework allows users to write long running persistent workflows in C# using the async/await capabilities. | C# | 1478 | Apache License 2.0 | 2014-10-07 | 2024-07-19 |
@@ -73,7 +73,7 @@
 | [api-management-samples](https://github.com/Azure/api-management-samples) | None | JavaScript | 136 | MIT License | 2015-01-27 | 2024-06-04 |
 | [azure-documentdb-datamigrationtool](https://github.com/Azure/azure-documentdb-datamigrationtool) | Azure DocumentDB Data Migration Tool | None | 388 | MIT License | 2015-02-13 | 2024-05-23 |
 | [azure-mobile-services-quickstarts](https://github.com/Azure/azure-mobile-services-quickstarts) | Mobile Services is being deprecated - Use Mobile Apps instead | JavaScript | 17 | Apache License 2.0 | 2015-02-16 | 2023-01-28 |
-| [autorest](https://github.com/Azure/autorest) | OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python | TypeScript | 4547 | MIT License | 2015-02-20 | 2024-07-19 |
+| [autorest](https://github.com/Azure/autorest) | OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python | TypeScript | 4548 | MIT License | 2015-02-20 | 2024-07-21 |
 | [mobile-services-dynamics-connector](https://github.com/Azure/mobile-services-dynamics-connector) | None | C# | 12 | Apache License 2.0 | 2015-03-05 | 2023-01-28 |
 | [azure-iot-protocol-gateway](https://github.com/Azure/azure-iot-protocol-gateway) | Azure IoT protocol gateway enables protocol translation for Azure IoT Hub | C# | 225 | Other | 2015-03-10 | 2024-07-14 |
 | [go-pkcs12](https://github.com/Azure/go-pkcs12) | PCKS#12 implementation for Go | Go | 29 | MIT License | 2015-03-19 | 2023-09-24 |
@@ -81,7 +81,7 @@
 | [Azure-Websites-Migration-Tool](https://github.com/Azure/Azure-Websites-Migration-Tool) | Azure Websites Migration Tool for Windows | C# | 24 | Apache License 2.0 | 2015-04-17 | 2023-01-27 |
 | [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) | Azure Quickstart Templates | Bicep | 13854 | MIT License | 2015-04-22 | 2024-07-21 |
 | [azure-stream-analytics](https://github.com/Azure/azure-stream-analytics) | Azure Stream Analytics | C# | 224 | MIT License | 2015-04-23 | 2024-05-08 |
-| [azure-resource-manager-schemas](https://github.com/Azure/azure-resource-manager-schemas) | Schemas used to author and validate Resource Manager Templates. These schemas power the intellisense and syntax completion in our ARM Tools VSCode extension, as well as the Export Template API | TypeScript | 604 | MIT License | 2015-04-24 | 2024-07-20 |
+| [azure-resource-manager-schemas](https://github.com/Azure/azure-resource-manager-schemas) | Schemas used to author and validate Resource Manager Templates. These schemas power the intellisense and syntax completion in our ARM Tools VSCode extension, as well as the Export Template API | TypeScript | 605 | MIT License | 2015-04-24 | 2024-07-21 |
 | [AzureDataLake](https://github.com/Azure/AzureDataLake) | Samples and Docs for Azure Data Lake Store and Analytics | None | 140 | MIT License | 2015-04-28 | 2024-06-04 |
 | [azure-mobile-engagement-samples](https://github.com/Azure/azure-mobile-engagement-samples) | None | Objective-C | 8 | - | 2015-04-30 | 2024-07-19 |
 | [azure-mobile-engagement-cordova](https://github.com/Azure/azure-mobile-engagement-cordova) | None | Rich Text Format | 9 | MIT License | 2015-04-30 | 2024-07-19 |
@@ -99,7 +99,7 @@
 | [Azure-MachineLearning-ClientLibrary-R](https://github.com/Azure/Azure-MachineLearning-ClientLibrary-R) | None | HTML | 21 | MIT License | 2015-06-30 | 2024-07-19 |
 | [Azure-Apache-Migration-Tool](https://github.com/Azure/Azure-Apache-Migration-Tool) | Azure Apache Migration Tool | Perl | 7 | Apache License 2.0 | 2015-07-03 | 2024-05-02 |
 | [azure-storage-python](https://github.com/Azure/azure-storage-python) | Microsoft Azure Storage Library for Python | Python | 338 | MIT License | 2015-07-13 | 2024-04-26 |
-| [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs) | The source for REST API specifications for Microsoft Azure. | TypeScript | 2522 | MIT License | 2015-07-14 | 2024-07-19 |
+| [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs) | The source for REST API specifications for Microsoft Azure. | TypeScript | 2522 | MIT License | 2015-07-14 | 2024-07-22 |
 | [go-autorest](https://github.com/Azure/go-autorest) | This package implements an HTTP request pipeline suitable for use across multiple go-routines and provides the shared routines relied on by AutoRest generated Go code. | Go | 217 | Apache License 2.0 | 2015-07-20 | 2024-07-03 |
 | [azure-event-hubs](https://github.com/Azure/azure-event-hubs) | ☁️ Cloud-scale telemetry ingestion from any stream of data with Azure Event Hubs | None | 285 | MIT License | 2015-07-21 | 2024-03-26 |
 | [azure-iot-remote-monitoring](https://github.com/Azure/azure-iot-remote-monitoring) | Azure IoT Remote Monitoring preconfigured solution | C# | 249 | Other | 2015-07-23 | 2024-07-02 |
@@ -131,14 +131,14 @@
 | [azure-support-scripts](https://github.com/Azure/azure-support-scripts) | Public repository for Azure Support scripts and artifacts | PowerShell | 45 | Other | 2015-11-25 | 2024-02-03 |
 | [azure-umqtt-c](https://github.com/Azure/azure-umqtt-c) | General purpose library for communication over the mqtt protocol | C | 50 | Other | 2015-12-03 | 2024-06-07 |
 | [azure-iot-arduino](https://github.com/Azure/azure-iot-arduino) | Azure IoT library for the Arduino | C | 167 | Other | 2015-12-04 | 2024-05-20 |
-| [azure-vm-scripts](https://github.com/Azure/azure-vm-scripts) | Repository of custom scripts for managing Azure virtual machines and related infrastructure. | PowerShell | 24 | MIT License | 2016-01-05 | 2024-02-08 |
+| [azure-vm-scripts](https://github.com/Azure/azure-vm-scripts) | Repository of custom scripts for managing Azure virtual machines and related infrastructure. | PowerShell | 25 | MIT License | 2016-01-05 | 2024-07-22 |
 | [azure-storage-php](https://github.com/Azure/azure-storage-php) | Microsoft Azure Storage Library for PHP | PHP | 217 | MIT License | 2016-01-06 | 2024-05-08 |
 | [ref-docs](https://github.com/Azure/ref-docs) | Azure Reference Documentation for SDKs and Command Lines | Python | 9 | MIT License | 2016-01-12 | 2023-10-12 |
 | [azure-extensions-cli](https://github.com/Azure/azure-extensions-cli) | This tool is intended only for publishers of Azure VM extensions | Go | 10 | - | 2016-01-27 | 2023-03-28 |
 | [parse-server-example](https://github.com/Azure/parse-server-example) | Example server using Express and the parse-server module. | Batchfile | 34 | - | 2016-01-30 | 2024-07-19 |
 | [azure-functions-ux](https://github.com/Azure/azure-functions-ux) | Azure Functions UX | TypeScript | 280 | Apache License 2.0 | 2016-02-01 | 2024-07-19 |
 | [finance-analytics](https://github.com/Azure/finance-analytics) | A collection of content (collateral bundle) for the banking, financial services and insurance industries. | None | 4 | - | 2016-02-02 | 2024-07-19 |
-| [azure-cli](https://github.com/Azure/azure-cli) | Azure Command-Line Interface | Python | 3923 | MIT License | 2016-02-04 | 2024-07-21 |
+| [azure-cli](https://github.com/Azure/azure-cli) | Azure Command-Line Interface | Python | 3923 | MIT License | 2016-02-04 | 2024-07-22 |
 | [sonic-tam](https://github.com/Azure/sonic-tam) | None | None | 1 | Other | 2016-02-10 | 2023-03-28 |
 | [azure-iot-hub-vs-cs](https://github.com/Azure/azure-iot-hub-vs-cs) | Visual Studio extension to ease the use of the Azure IoT client SDK | C# | 27 | Other | 2016-02-12 | 2023-10-12 |
 | [hdinsight-phoenix-sharp](https://github.com/Azure/hdinsight-phoenix-sharp) | .NET driver for Apache Phoenix and Phoenix Query Server | C# | 22 | Apache License 2.0 | 2016-02-16 | 2024-07-19 |
@@ -157,13 +157,13 @@
 | [azure-mobile-engagement-app-ios](https://github.com/Azure/azure-mobile-engagement-app-ios) | Contains the source code for the Azure Mobile Engagement iOS App | Swift | 14 | - | 2016-03-08 | 2024-07-19 |
 | [azure-mobile-engagement-unity](https://github.com/Azure/azure-mobile-engagement-unity) | Unity SDK for Azure Mobile Engagement | Rich Text Format | 13 | MIT License | 2016-03-08 | 2024-07-19 |
 | [umock-c](https://github.com/Azure/umock-c) | A pure C mocking library | C | 32 | MIT License | 2016-03-15 | 2024-07-18 |
-| [azure-container-networking](https://github.com/Azure/azure-container-networking) | Azure Container Networking Solutions for Linux and Windows Containers | Go | 362 | MIT License | 2016-03-15 | 2024-07-19 |
+| [azure-container-networking](https://github.com/Azure/azure-container-networking) | Azure Container Networking Solutions for Linux and Windows Containers | Go | 362 | MIT License | 2016-03-15 | 2024-07-21 |
 | [batch-jenkins](https://github.com/Azure/batch-jenkins) | We are working on Jenkins plugin and this will enable Azure Batch service to power Jenkin workload | Java | 3 | MIT License | 2016-03-17 | 2023-10-12 |
 | [unixODBC-MSSQL](https://github.com/Azure/unixODBC-MSSQL) | unixODBC Driver Manager for the Microsoft ODBC Driver | C | 6 | Other | 2016-03-17 | 2023-01-28 |
 | [tfs-matlab-connector](https://github.com/Azure/tfs-matlab-connector) | TFS Source Control integration with MATLAB samples. | Java | 1 | Other | 2016-03-23 | 2024-07-19 |
 | [azure-iot-library](https://github.com/Azure/azure-iot-library) | Library of projects each with an npm package used across Azure IoT microservice repos. | TypeScript | 12 | Other | 2016-03-24 | 2023-08-02 |
 | [azure-odata-sql-js](https://github.com/Azure/azure-odata-sql-js) | Converts OData query strings to SQL statements | JavaScript | 24 | - | 2016-03-25 | 2024-07-01 |
-| [Azure-Functions](https://github.com/Azure/Azure-Functions) | None | PowerShell | 1101 | - | 2016-04-05 | 2024-07-19 |
+| [Azure-Functions](https://github.com/Azure/Azure-Functions) | None | PowerShell | 1102 | - | 2016-04-05 | 2024-07-21 |
 | [azure-ruby-asm-core](https://github.com/Azure/azure-ruby-asm-core) | Azure Ruby SDK Service Management Core HTTP | Ruby | 6 | - | 2016-04-12 | 2023-11-06 |
 | [autorest-clientruntime-for-java](https://github.com/Azure/autorest-clientruntime-for-java) | The runtime libraries for AutoRest generated Java clients. | Java | 20 | MIT License | 2016-04-16 | 2024-05-28 |
 | [iot-edge-v1](https://github.com/Azure/iot-edge-v1) | Azure IoT Edge | C | 525 | Other | 2016-04-19 | 2024-07-18 |
@@ -176,10 +176,10 @@
 | [azure-functions-performance-test](https://github.com/Azure/azure-functions-performance-test) | Platform providing features to test Azure Functions performance according to implemented tests scenarios. | C# | 16 | MIT License | 2016-06-30 | 2024-06-13 |
 | [azure-batch-apps-migration](https://github.com/Azure/azure-batch-apps-migration) | Information for customers migrating from Azure Batch Apps to Azure Batch | None | 2 | MIT License | 2016-06-30 | 2023-01-28 |
 | [blog-mrs-spark-samples](https://github.com/Azure/blog-mrs-spark-samples) | None | HiveQL | 3 | - | 2016-07-06 | 2024-06-13 |
-| [custom-script-extension-linux](https://github.com/Azure/custom-script-extension-linux) | Azure Custom Script Virtual Machine Extension :new: | Go | 105 | Apache License 2.0 | 2016-07-06 | 2024-05-21 |
+| [custom-script-extension-linux](https://github.com/Azure/custom-script-extension-linux) | Azure Custom Script Virtual Machine Extension :new: | Go | 106 | Apache License 2.0 | 2016-07-06 | 2024-07-22 |
 | [azure-data-lake-store-python](https://github.com/Azure/azure-data-lake-store-python) | Microsoft Azure Data Lake Store Filesystem Library for Python | Python | 68 | MIT License | 2016-07-08 | 2024-07-04 |
 | [azure-data-lake-store-java](https://github.com/Azure/azure-data-lake-store-java) | Microsoft Azure Data Lake Store Filesystem Library for Java | Java | 20 | Other | 2016-07-08 | 2023-03-12 |
-| [azure-docs-sdk-java](https://github.com/Azure/azure-docs-sdk-java) | ☕️ Azure SDK for Java API documentation repository. Content here is mostly auto-generated. | Python | 55 | Creative Commons Attribution 4.0 International | 2016-07-18 | 2024-07-19 |
+| [azure-docs-sdk-java](https://github.com/Azure/azure-docs-sdk-java) | ☕️ Azure SDK for Java API documentation repository. Content here is mostly auto-generated. | Python | 55 | Creative Commons Attribution 4.0 International | 2016-07-18 | 2024-07-22 |
 | [azure-docs-sdk-dotnet](https://github.com/Azure/azure-docs-sdk-dotnet) | Repository for documentation on the Azure .NET SDK. | Python | 81 | Creative Commons Attribution 4.0 International | 2016-07-18 | 2024-07-19 |
 | [blobxfer](https://github.com/Azure/blobxfer) | Azure Storage transfer tool and data movement library | Python | 149 | MIT License | 2016-07-25 | 2024-07-18 |
 | [azure-mobile-services-node](https://github.com/Azure/azure-mobile-services-node) | Node.js server library for Azure Mobile Services  | JavaScript | 2 | Other | 2016-07-25 | 2023-10-11 |
@@ -200,7 +200,7 @@
 | [az-iot-bi](https://github.com/Azure/az-iot-bi) | Business Intelligence module for Azure IoT Happy Path | JavaScript | 6 | MIT License | 2016-09-08 | 2024-07-19 |
 | [CIS-Extension-IoT-Solution-Predictive-Maintenance](https://github.com/Azure/CIS-Extension-IoT-Solution-Predictive-Maintenance) | This material provides instrucitons and an app that will modify a deployment of the IoT Predictive Maintenance Solution so that it can be scaled out with Cortana Intelligence Suite components. | None | 1 | - | 2016-09-09 | 2023-10-12 |
 | [Azure-TDSP-Utilities](https://github.com/Azure/Azure-TDSP-Utilities) | Utilities and scripts  developed as part of Microsoft's Team Data Science Process for productive data science  | HTML | 372 | Creative Commons Attribution 4.0 International | 2016-09-09 | 2024-05-21 |
-| [Azure-TDSP-ProjectTemplate](https://github.com/Azure/Azure-TDSP-ProjectTemplate) | TDSP: Data science project template repository with standardized directory structure and document templates to support efficient project execution and collaboration.  | R | 526 | Creative Commons Attribution 4.0 International | 2016-09-09 | 2024-07-17 |
+| [Azure-TDSP-ProjectTemplate](https://github.com/Azure/Azure-TDSP-ProjectTemplate) | TDSP: Data science project template repository with standardized directory structure and document templates to support efficient project execution and collaboration.  | R | 528 | Creative Commons Attribution 4.0 International | 2016-09-09 | 2024-07-21 |
 | [azure-iot-hub-nodered-nodes](https://github.com/Azure/azure-iot-hub-nodered-nodes) | nodes that allows you to connect with Azure using NodeRed | JavaScript | 5 | - | 2016-09-12 | 2023-10-12 |
 | [gulp-common](https://github.com/Azure/gulp-common) | This repo acts as a submodule and hosts gulp files shared by many other IoT sample repos.   | JavaScript | 5 | MIT License | 2016-09-12 | 2023-10-12 |
 | [Microsoft-TDSP](https://github.com/Azure/Microsoft-TDSP) | Repository for Microsoft Team Data Science Process containing documents and scripts | None | 275 | Creative Commons Attribution 4.0 International | 2016-09-12 | 2024-05-20 |
@@ -332,7 +332,7 @@
 | [azure-iot-connected-factory](https://github.com/Azure/azure-iot-connected-factory) | Azure IoT connected factory preconfigured solution  | JavaScript | 100 | Other | 2017-04-18 | 2024-06-21 |
 | [azure-functions-vs-build-sdk](https://github.com/Azure/azure-functions-vs-build-sdk) | MSBuild task for Azure Functions | C# | 96 | MIT License | 2017-04-18 | 2024-07-15 |
 | [cortana-intelligence-energy-supply-optimization](https://github.com/Azure/cortana-intelligence-energy-supply-optimization) | Resource Optimization  | TSQL | 10 | MIT License | 2017-04-19 | 2024-04-06 |
-| [DataScienceVM](https://github.com/Azure/DataScienceVM) | Tools and Docs on the Azure Data Science Virtual Machine (http://aka.ms/dsvm) | Jupyter Notebook | 175 | MIT License | 2017-04-20 | 2024-07-03 |
+| [DataScienceVM](https://github.com/Azure/DataScienceVM) | Tools and Docs on the Azure Data Science Virtual Machine (http://aka.ms/dsvm) | Jupyter Notebook | 176 | MIT License | 2017-04-20 | 2024-07-22 |
 | [petabyte-scale-ai-data-lake-dashboard](https://github.com/Azure/petabyte-scale-ai-data-lake-dashboard) | Dev Ops Dashboard for Petabyte Scale AI  Data Lake | C# | 11 | MIT License | 2017-04-20 | 2024-07-19 |
 | [azureservicefabricchina](https://github.com/Azure/azureservicefabricchina) | 分享适用于Azure Service Fabric 中国的帮助，案例，示例，模板和最佳实践。| Guidance, cases, samples, templates and best practice for quick start with Azure Service Fabric China. | PowerShell | 8 | MIT License | 2017-04-21 | 2024-07-19 |
 | [sql_python_deep_learning](https://github.com/Azure/sql_python_deep_learning) | Deep learning project made in SQL Server with python | Python | 33 | MIT License | 2017-04-24 | 2024-02-27 |
@@ -369,7 +369,7 @@
 | [azure-functions-durable-extension](https://github.com/Azure/azure-functions-durable-extension) | Durable Task Framework extension for Azure Functions | C# | 712 | MIT License | 2017-06-02 | 2024-07-12 |
 | [azure-event-hubs-reactive](https://github.com/Azure/azure-event-hubs-reactive) | Akka Reactive Streaming for Azure Event Hubs | Scala | 6 | MIT License | 2017-06-03 | 2023-07-14 |
 | [cortana-intelligence-customer360](https://github.com/Azure/cortana-intelligence-customer360) | This repository contains instructions and code to deploy a customer 360 profile solution on Azure stack using the Cortana Intelligence Suite. | Python | 23 | - | 2017-06-06 | 2023-07-14 |
-| [openapi-diff](https://github.com/Azure/openapi-diff) | Command line tool to detect breaking changes between two openapi specifications | C# | 252 | MIT License | 2017-06-06 | 2024-07-17 |
+| [openapi-diff](https://github.com/Azure/openapi-diff) | Command line tool to detect breaking changes between two openapi specifications | C# | 253 | MIT License | 2017-06-06 | 2024-07-22 |
 | [pcs-cli](https://github.com/Azure/pcs-cli) | A CLI for deploying Azure IoT PCS | TypeScript | 33 | MIT License | 2017-06-12 | 2023-10-12 |
 | [cortana-intelligence-shipping-and-distribution-forecasting](https://github.com/Azure/cortana-intelligence-shipping-and-distribution-forecasting) | Cortana Intelligence Solution for Shipping and Distribution Forecasting | R | 15 | MIT License | 2017-06-15 | 2024-06-24 |
 | [cortana-intelligence-price-analytics](https://github.com/Azure/cortana-intelligence-price-analytics) | Price analytics solution based on the double-machine-learning modeling approach | C# | 35 | MIT License | 2017-06-19 | 2024-07-19 |
@@ -392,7 +392,7 @@
 | [azure-functions-iothub-extension](https://github.com/Azure/azure-functions-iothub-extension) | IOT Hub Extension for Azure Functions | C# | 14 | MIT License | 2017-07-26 | 2024-07-19 |
 | [azure-policy](https://github.com/Azure/azure-policy) | Repository for Azure Resource Policy built-in definitions and samples | Open Policy Agent | 1473 | MIT License | 2017-07-27 | 2024-07-19 |
 | [etcd-operator](https://github.com/Azure/etcd-operator) | Temporary fork which adds Azure Blob Storage support | Go | 7 | Apache License 2.0 | 2017-07-28 | 2023-01-28 |
-| [acr-builder](https://github.com/Azure/acr-builder) | Azure Container Registry Build Runner | Go | 37 | MIT License | 2017-07-29 | 2024-07-04 |
+| [acr-builder](https://github.com/Azure/acr-builder) | Azure Container Registry Build Runner | Go | 37 | MIT License | 2017-07-29 | 2024-07-21 |
 | [container-service-for-azure-china](https://github.com/Azure/container-service-for-azure-china) | Container Service for Azure China | Shell | 417 | MIT License | 2017-08-01 | 2024-07-10 |
 | [simdem](https://github.com/Azure/simdem) | Tool for Simulating Demo's, delivering Tutorials and using documentation as tests. | Python | 34 | MIT License | 2017-08-07 | 2024-02-20 |
 | [iot-edge-opc-proxy-api-csharp](https://github.com/Azure/iot-edge-opc-proxy-api-csharp) | OPC Proxy API | None | 16 | - | 2017-08-08 | 2024-04-11 |
@@ -402,9 +402,9 @@
 | [autorest.common](https://github.com/Azure/autorest.common) | Common code shared between AutoRest (https://github.com/Azure/autorest) modeler and code generators | C# | 12 | MIT License | 2017-08-14 | 2024-04-10 |
 | [autorest.modeler](https://github.com/Azure/autorest.modeler) | Converts OpenAPI 2.0 (f.k.a. Swagger) definitions into a representation used by AutoRest (https://github.com/Azure/autorest) code generators. | C# | 12 | MIT License | 2017-08-14 | 2024-04-07 |
 | [autorest.azureresourceschema](https://github.com/Azure/autorest.azureresourceschema) | Extension for AutoRest (https://github.com/Azure/autorest) that generates Azure resource schemas | C# | 6 | MIT License | 2017-08-14 | 2024-04-10 |
-| [autorest.csharp](https://github.com/Azure/autorest.csharp) | Extension for AutoRest (https://github.com/Azure/autorest) that generates C# code | C# | 141 | MIT License | 2017-08-14 | 2024-07-19 |
+| [autorest.csharp](https://github.com/Azure/autorest.csharp) | Extension for AutoRest (https://github.com/Azure/autorest) that generates C# code | C# | 141 | MIT License | 2017-08-14 | 2024-07-22 |
 | [autorest.go](https://github.com/Azure/autorest.go) | Extension for AutoRest (https://github.com/Azure/autorest) that generates Go code | TypeScript | 65 | MIT License | 2017-08-14 | 2024-07-17 |
-| [autorest.java](https://github.com/Azure/autorest.java) | Extension for AutoRest (https://github.com/Azure/autorest) that generates Java code | Java | 33 | MIT License | 2017-08-14 | 2024-07-19 |
+| [autorest.java](https://github.com/Azure/autorest.java) | Extension for AutoRest (https://github.com/Azure/autorest) that generates Java code | Java | 33 | MIT License | 2017-08-14 | 2024-07-22 |
 | [autorest.nodejs](https://github.com/Azure/autorest.nodejs) | Extension for AutoRest (https://github.com/Azure/autorest) that generates JavaScript code | JavaScript | 7 | MIT License | 2017-08-14 | 2023-10-12 |
 | [autorest.php](https://github.com/Azure/autorest.php) | Extension for AutoRest (https://github.com/Azure/autorest) that generates PHP code | C# | 2 | MIT License | 2017-08-14 | 2024-05-17 |
 | [autorest.ruby](https://github.com/Azure/autorest.ruby) | Extension for AutoRest (https://github.com/Azure/autorest) that generates Ruby code | Ruby | 6 | MIT License | 2017-08-14 | 2023-10-11 |
@@ -416,10 +416,10 @@
 | [generator-azure-iot-edge-module](https://github.com/Azure/generator-azure-iot-edge-module) | Yeoman template for Azure IoT Edge Node.js module | JavaScript | 5 | MIT License | 2017-08-22 | 2024-05-16 |
 | [terraform-azurerm-compute](https://github.com/Azure/terraform-azurerm-compute) | Terraform Azure RM Compute Module | HCL | 172 | MIT License | 2017-08-23 | 2024-07-18 |
 | [terraform-azurerm-computegroup](https://github.com/Azure/terraform-azurerm-computegroup) | Terraform Azure RM Compute Group Module | HCL | 10 | MIT License | 2017-08-23 | 2022-09-22 |
-| [terraform-azurerm-network](https://github.com/Azure/terraform-azurerm-network) | Terraform Azure RM Module for Network | HCL | 124 | MIT License | 2017-08-23 | 2024-07-13 |
+| [terraform-azurerm-network](https://github.com/Azure/terraform-azurerm-network) | Terraform Azure RM Module for Network | HCL | 125 | MIT License | 2017-08-23 | 2024-07-22 |
 | [terraform-azurerm-loadbalancer](https://github.com/Azure/terraform-azurerm-loadbalancer) | Terraform Azure RM Module for Load Balancer | HCL | 61 | MIT License | 2017-08-23 | 2024-04-16 |
 | [terraform-azurerm-database](https://github.com/Azure/terraform-azurerm-database) | Terraform Azure RM Module for Database | HCL | 38 | MIT License | 2017-08-23 | 2024-07-21 |
-| [autorest.typescript](https://github.com/Azure/autorest.typescript) | Extension for AutoRest (https://github.com/Azure/autorest) that generates TypeScript code. The transpiled javascript code is isomorphic. It can be run in browser and in node.js environment. | TypeScript | 177 | MIT License | 2017-08-24 | 2024-07-21 |
+| [autorest.typescript](https://github.com/Azure/autorest.typescript) | Extension for AutoRest (https://github.com/Azure/autorest) that generates TypeScript code. The transpiled javascript code is isomorphic. It can be run in browser and in node.js environment. | TypeScript | 177 | MIT License | 2017-08-24 | 2024-07-22 |
 | [ADLAwithR-GettingStarted](https://github.com/Azure/ADLAwithR-GettingStarted) | Getting Started with ADLA with R | Jupyter Notebook | 12 | MIT License | 2017-08-24 | 2023-10-12 |
 | [reverse-proxy-dotnet](https://github.com/Azure/reverse-proxy-dotnet) | Reverse Proxy agent | C# | 47 | MIT License | 2017-08-26 | 2024-05-05 |
 | [ms-rest-js](https://github.com/Azure/ms-rest-js) | Runtime for isomorphic javascript libraries generated by Autorest | TypeScript | 55 | MIT License | 2017-08-30 | 2024-02-28 |
@@ -456,7 +456,7 @@
 | [autorest.swift](https://github.com/Azure/autorest.swift) | Extension for AutoRest that generates Swift code | Swift | 5 | MIT License | 2017-10-09 | 2023-07-25 |
 | [azure-libraries-for-swift](https://github.com/Azure/azure-libraries-for-swift) | Azure libraries for swift | Swift | 6 | MIT License | 2017-10-09 | 2023-10-11 |
 | [China-AI-Solutions](https://github.com/Azure/China-AI-Solutions) | Used for China Cloud Group AI Solutions  | Jupyter Notebook | 3 | MIT License | 2017-10-11 | 2024-06-13 |
-| [azure-cli-extensions](https://github.com/Azure/azure-cli-extensions) | Public Repository for Extensions of Azure CLI. | Python | 376 | MIT License | 2017-10-11 | 2024-07-19 |
+| [azure-cli-extensions](https://github.com/Azure/azure-cli-extensions) | Public Repository for Extensions of Azure CLI. | Python | 376 | MIT License | 2017-10-11 | 2024-07-22 |
 | [CloudIoTHack](https://github.com/Azure/CloudIoTHack) | An end-to-end IoT Solution Workshop | C# | 61 | MIT License | 2017-10-12 | 2024-04-11 |
 | [fta-architecturalreview](https://github.com/Azure/fta-architecturalreview) | FastTrack for Azure - Architectural Review | None | 73 | Creative Commons Attribution 4.0 International | 2017-10-12 | 2024-05-28 |
 | [fedramp-iaas-webapp](https://github.com/Azure/fedramp-iaas-webapp) | Azure Security and Compliance Blueprint - FedRAMP Web Applications Automation  | PowerShell | 22 | MIT License | 2017-10-12 | 2024-03-27 |
@@ -470,8 +470,8 @@
 | [Sia-Playbook](https://github.com/Azure/Sia-Playbook) | SRE Incident Assitant Playbook Microservice | C# | 2 | MIT License | 2017-10-23 | 2023-10-11 |
 | [azure-app-gateway-k8s-ingress](https://github.com/Azure/azure-app-gateway-k8s-ingress) | [DEPRECATED] An Ingress controller for Kubernetes using the Azure Application Gateway L7 router/load balancer to perform ingress. | None | 19 | MIT License | 2017-10-24 | 2023-03-28 |
 | [azure-kusto-python](https://github.com/Azure/azure-kusto-python) | Kusto client libraries for Python | Python | 182 | MIT License | 2017-10-25 | 2024-07-11 |
-| [AKS](https://github.com/Azure/AKS) | Azure Kubernetes Service | HTML | 1932 | - | 2017-10-25 | 2024-07-20 |
-| [azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js) | This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.  | TypeScript | 1988 | MIT License | 2017-10-25 | 2024-07-20 |
+| [AKS](https://github.com/Azure/AKS) | Azure Kubernetes Service | HTML | 1931 | - | 2017-10-25 | 2024-07-21 |
+| [azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js) | This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.  | TypeScript | 1988 | MIT License | 2017-10-25 | 2024-07-22 |
 | [azure-arch-enterprise-bi-and-reporting](https://github.com/Azure/azure-arch-enterprise-bi-and-reporting) | A reference implementation of an end to end Azure infrastructure for scalable enterprise BI and Reporting | PowerShell | 56 | Creative Commons Attribution 4.0 International | 2017-10-25 | 2024-06-18 |
 | [azure-pipeline-go](https://github.com/Azure/azure-pipeline-go) | Package pipeline implements an HTTP request/response middleware pipeline whose policy objects mutate an HTTP request's URL, query parameters, and/or headers before the request is sent over the wire. This is the Go implementation. | Go | 22 | MIT License | 2017-10-30 | 2024-05-03 |
 | [azure-storage-blob-go](https://github.com/Azure/azure-storage-blob-go) | Microsoft Azure Blob Storage Library for Go | Go | 154 | MIT License | 2017-10-30 | 2024-07-15 |
@@ -531,7 +531,7 @@
 | [azure-functions-language-worker-protobuf](https://github.com/Azure/azure-functions-language-worker-protobuf) | Protobuf definitions for the gRPC connections between the script host and the language workers | None | 33 | MIT License | 2018-01-10 | 2024-05-20 |
 | [DecisionTreeExplorer](https://github.com/Azure/DecisionTreeExplorer) | Simple Shiny App for visualizing simplicity/performance tradeoffs in decision trees | R | 10 | MIT License | 2018-01-11 | 2024-07-19 |
 | [AI-PredictiveMaintenance](https://github.com/Azure/AI-PredictiveMaintenance) | None | Python | 134 | Creative Commons Attribution 4.0 International | 2018-01-11 | 2024-07-19 |
-| [terraform](https://github.com/Azure/terraform) | Source code for the Azure Marketplace Terraform development VM package. | HCL | 666 | MIT License | 2018-01-12 | 2024-07-18 |
+| [terraform](https://github.com/Azure/terraform) | Source code for the Azure Marketplace Terraform development VM package. | HCL | 667 | MIT License | 2018-01-12 | 2024-07-22 |
 | [node-red-contrib-azure](https://github.com/Azure/node-red-contrib-azure) | Node-RED nodes to talk to Azure solutions and services | JavaScript | 21 | MIT License | 2018-01-12 | 2024-07-19 |
 | [azure-iiot-opc-ua](https://github.com/Azure/azure-iiot-opc-ua) | Azure Industrial IoT Platform | C# | 16 | - | 2018-01-14 | 2023-10-11 |
 | [azure-functions-python-worker](https://github.com/Azure/azure-functions-python-worker) | Python worker for Azure Functions. | Python | 332 | MIT License | 2018-01-16 | 2024-07-19 |
@@ -555,7 +555,7 @@
 | [terraform-azurerm-vnet](https://github.com/Azure/terraform-azurerm-vnet) | Terraform module to create/provision Azure vnet  | HCL | 135 | MIT License | 2018-02-06 | 2024-06-27 |
 | [azure-event-hubs-go](https://github.com/Azure/azure-event-hubs-go) | Golang client library for Azure Event Hubs https://azure.microsoft.com/services/event-hubs | Go | 87 | MIT License | 2018-02-06 | 2024-04-29 |
 | [service-catalog-templates](https://github.com/Azure/service-catalog-templates) | Templating and defaulting for Kubernetes Service Catalog | Go | 4 | MIT License | 2018-02-06 | 2023-10-11 |
-| [terraform-azurerm-vm](https://github.com/Azure/terraform-azurerm-vm) | Module to create a virtual machine using Terraform.  | HCL | 54 | MIT License | 2018-02-07 | 2024-07-08 |
+| [terraform-azurerm-vm](https://github.com/Azure/terraform-azurerm-vm) | Module to create a virtual machine using Terraform.  | HCL | 55 | MIT License | 2018-02-07 | 2024-07-22 |
 | [azure-hanaonazure-cli-extension](https://github.com/Azure/azure-hanaonazure-cli-extension) | Microsoft Azure Command-Line Tools SAP HANA Command Module | Python | 6 | MIT License | 2018-02-07 | 2023-06-15 |
 | [pcs-diagnostics-dotnet](https://github.com/Azure/pcs-diagnostics-dotnet) | Diagnostics microservice for PCS | C# | 2 | MIT License | 2018-02-08 | 2023-10-12 |
 | [RSL](https://github.com/Azure/RSL) | Replicated State Library. RSL is the Azure Paxos implementation which is used by multiple products in Azure and Bing. It provides the traditional Paxos functionality in a real world implementation. RSL includes support for dynamic replica set reconfiguration, including dynamic growth/srinking of the cluster, and also service-healing (replica replacement). RSL automates the durability of the state (by means of both durable journal files, and periodic snapshots). RSL allows multi-rings per process, allowing a single process to be part of multiple rings at the same time. RSL is implemented in C/C++ and provides a C# wrapper that naturally integrates with C# applications. RSL is widely used in Azure for a large number of infrastructure components, ranging from Azure Fabric Controller, to Azure Storage. | C++ | 71 | MIT License | 2018-02-09 | 2024-05-06 |
@@ -573,7 +573,7 @@
 | [hpcpack-acm](https://github.com/Azure/hpcpack-acm) | HPC Azure Cluster Management | C# | 4 | MIT License | 2018-02-24 | 2024-06-12 |
 | [AzureML-Recommendation-RRS](https://github.com/Azure/AzureML-Recommendation-RRS) | Sample Project for creating an RRS Recommendation System using AzureML | Jupyter Notebook | 4 | MIT License | 2018-02-24 | 2024-06-13 |
 | [azure-uamqp-python](https://github.com/Azure/azure-uamqp-python) | AMQP 1.0 client library for Python | Python | 56 | MIT License | 2018-02-26 | 2024-07-13 |
-| [azure-signalr](https://github.com/Azure/azure-signalr) | Azure SignalR Service SDK for .NET | C# | 415 | MIT License | 2018-02-27 | 2024-07-19 |
+| [azure-signalr](https://github.com/Azure/azure-signalr) | Azure SignalR Service SDK for .NET | C# | 415 | MIT License | 2018-02-27 | 2024-07-22 |
 | [homebrew-functions](https://github.com/Azure/homebrew-functions) | Homebrew formula for azure functions core tools | Ruby | 12 | MIT License | 2018-02-28 | 2024-06-28 |
 | [azure-sdk-for-ios](https://github.com/Azure/azure-sdk-for-ios) | iOS client SDKs for Microsoft Azure | Swift | 184 | MIT License | 2018-02-28 | 2024-07-19 |
 | [azure-sdk-for-android](https://github.com/Azure/azure-sdk-for-android) | Android client SDKs for Microsoft Azure | Java | 96 | MIT License | 2018-02-28 | 2024-07-19 |
@@ -640,7 +640,7 @@
 | [Batch](https://github.com/Azure/Batch) | Microsoft Azure Batch | None | 24 | Creative Commons Attribution 4.0 International | 2018-05-30 | 2024-07-10 |
 | [CIQS-Azure-Cli-Extension](https://github.com/Azure/CIQS-Azure-Cli-Extension) | Implementation of CIQS(Cloud Intelligence Quickstart) Azure Cli extension | Python | 1 | MIT License | 2018-06-01 | 2024-07-19 |
 | [kubernetes-keyvault-flexvol](https://github.com/Azure/kubernetes-keyvault-flexvol) | Azure keyvault integration with Kubernetes via a Flex Volume | Go | 253 | MIT License | 2018-06-04 | 2024-05-03 |
-| [Guest-Configuration-Extension](https://github.com/Azure/Guest-Configuration-Extension) | Azure Guest Configuration Virtual Machine Extension for Linux | Go | 11 | Apache License 2.0 | 2018-06-06 | 2024-07-16 |
+| [Guest-Configuration-Extension](https://github.com/Azure/Guest-Configuration-Extension) | Azure Guest Configuration Virtual Machine Extension for Linux | Go | 12 | Apache License 2.0 | 2018-06-06 | 2024-07-22 |
 | [azure-functions-python-library](https://github.com/Azure/azure-functions-python-library) | Azure Functions Python SDK | Python | 147 | MIT License | 2018-06-07 | 2024-07-18 |
 | [azureml-tap-notebooks](https://github.com/Azure/azureml-tap-notebooks) | Notebooks for the Azure ML Text Analytics Package | Jupyter Notebook | 4 | MIT License | 2018-06-11 | 2023-08-02 |
 | [dcos-engine](https://github.com/Azure/dcos-engine) | DC/OS support in Microsoft Azure | Go | 7 | MIT License | 2018-06-11 | 2023-01-28 |
@@ -654,7 +654,7 @@
 | [fluent-plugin-snmptrapalert](https://github.com/Azure/fluent-plugin-snmptrapalert) | fluentd plugin that listens to SNMP Traps from Azure VLI and Alerts | Ruby | 5 | MIT License | 2018-06-18 | 2021-06-17 |
 | [azure-iiot-services-api](https://github.com/Azure/azure-iiot-services-api) | Azure Industrial IoT OPC UA API and Samples | C# | 3 | - | 2018-06-22 | 2023-10-12 |
 | [azure-iiot-services](https://github.com/Azure/azure-iiot-services) | Azure Industrial IoT Platform | C# | 23 | - | 2018-06-22 | 2023-12-10 |
-| [iotedge](https://github.com/Azure/iotedge) | The IoT Edge OSS project | C# | 1451 | MIT License | 2018-06-25 | 2024-07-17 |
+| [iotedge](https://github.com/Azure/iotedge) | The IoT Edge OSS project | C# | 1450 | MIT License | 2018-06-25 | 2024-07-21 |
 | [azure-iotedge](https://github.com/Azure/azure-iotedge) | The Azure IoT Edge product | PowerShell | 168 | Other | 2018-06-25 | 2024-07-19 |
 | [iot-ux-fluent-css](https://github.com/Azure/iot-ux-fluent-css) | A minimal set of styles, themes and colors that are standardized across the Azure IoT organization.  | TypeScript | 9 | MIT License | 2018-06-26 | 2022-10-09 |
 | [Service-Fabric-Troubleshooting-Guides](https://github.com/Azure/Service-Fabric-Troubleshooting-Guides) | Service Fabric Trouble Shooting Guides used by Azure Customer Support Services and Product Group Site Reliability Engineers. | PowerShell | 129 | Creative Commons Attribution 4.0 International | 2018-06-26 | 2024-06-18 |
@@ -729,10 +729,10 @@
 | [cyclecloud-pbspro](https://github.com/Azure/cyclecloud-pbspro) | Example Azure CycleCloud PBSpro cluster type | Python | 11 | MIT License | 2018-08-13 | 2024-07-15 |
 | [azure-storage-cpplite](https://github.com/Azure/azure-storage-cpplite) | Lite version of C++ Client Library for Microsoft Azure Storage | C++ | 25 | MIT License | 2018-08-16 | 2024-06-20 |
 | [iotedge-lorawan-starterkit](https://github.com/Azure/iotedge-lorawan-starterkit) | Sample implementation of LoRaWAN components to connect LoRaWAN antenna gateway running IoT Edge directly with Azure IoT. | C# | 181 | Other | 2018-08-17 | 2024-05-29 |
-| [MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) | Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft | Jupyter Notebook | 4014 | MIT License | 2018-08-17 | 2024-07-19 |
+| [MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) | Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft | Jupyter Notebook | 4016 | MIT License | 2018-08-17 | 2024-07-22 |
 | [kube-advisor](https://github.com/Azure/kube-advisor) | Check if containers are using resource and request limits and other useful things. | Go | 120 | MIT License | 2018-08-17 | 2024-05-03 |
 | [golua](https://github.com/Azure/golua) | A Lua 5.3 engine implemented in Go | Go | 1842 | MIT License | 2018-08-17 | 2024-07-09 |
-| [Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) | Cloud-native SIEM for intelligent security analytics for your entire enterprise. | Jupyter Notebook | 4405 | MIT License | 2018-08-18 | 2024-07-21 |
+| [Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) | Cloud-native SIEM for intelligent security analytics for your entire enterprise. | Jupyter Notebook | 4406 | MIT License | 2018-08-18 | 2024-07-22 |
 | [logstash-output-kusto](https://github.com/Azure/logstash-output-kusto) | Logstash output for Kusto | Ruby | 13 | Apache License 2.0 | 2018-08-19 | 2024-06-26 |
 | [terraform-azurerm-routetable](https://github.com/Azure/terraform-azurerm-routetable) | This Terraform module deploys a Route Table in Azure with a route or a set of routes passed in as input parameters. The routes are newly created with explicit next hop specified as input parameters.  | HCL | 6 | MIT License | 2018-08-21 | 2023-05-31 |
 | [AvereSDK](https://github.com/Azure/AvereSDK) | The Avere SDK for managing Avere products. | Python | 6 | MIT License | 2018-08-23 | 2023-03-20 |
@@ -759,7 +759,7 @@
 | [azure-cosmos-cassandra-extensions](https://github.com/Azure/azure-cosmos-cassandra-extensions) | Azure Cosmos extensions for Cassandra (retry/etc.) | Java | 3 | MIT License | 2018-09-18 | 2024-05-30 |
 | [fabric-react-jsonschema-form](https://github.com/Azure/fabric-react-jsonschema-form) | None | TypeScript | 8 | - | 2018-09-20 | 2023-12-30 |
 | [ms-rest-browserauth](https://github.com/Azure/ms-rest-browserauth) | browser based authentication library for Azure | TypeScript | 3 | MIT License | 2018-09-20 | 2022-05-03 |
-| [azure-cosmos-tla](https://github.com/Azure/azure-cosmos-tla) | Azure Cosmos TLA+ specifications | TLA | 265 | MIT License | 2018-09-22 | 2024-07-05 |
+| [azure-cosmos-tla](https://github.com/Azure/azure-cosmos-tla) | Azure Cosmos TLA+ specifications | TLA | 264 | MIT License | 2018-09-22 | 2024-07-21 |
 | [OpenShift](https://github.com/Azure/OpenShift) | Azure Red Hat OpenShift | None | 111 | MIT License | 2018-09-24 | 2024-07-18 |
 | [Ansible](https://github.com/Azure/Ansible) | Ansible Solution Template on Azure | Shell | 7 | MIT License | 2018-09-25 | 2023-05-31 |
 | [Fleet-PRSE](https://github.com/Azure/Fleet-PRSE) | Documentation and presentations | None | 1 | Creative Commons Attribution 4.0 International | 2018-09-25 | 2023-05-31 |
@@ -779,7 +779,7 @@
 | [terraform-azurerm-vm-extension-msi](https://github.com/Azure/terraform-azurerm-vm-extension-msi) | Terraform Module for configuring an MSI extension for a VM | None | 1 | MIT License | 2018-10-11 | 2023-05-31 |
 | [iotc-device-bridge](https://github.com/Azure/iotc-device-bridge) | Sample source code for enabling IoT Central integration with other IoT platforms | JavaScript | 80 | MIT License | 2018-10-12 | 2024-06-13 |
 | [LAMP](https://github.com/Azure/LAMP) | Guidance on deploying scalable LAMP clusters on Azure | Shell | 25 | MIT License | 2018-10-15 | 2023-11-16 |
-| [CCOInsights](https://github.com/Azure/CCOInsights) | Welcome to the Continuous Cloud Optimization Power BI Dashboard GitHub Project. In this repository you will find all the guidance and files needed to deploy the Dashboard in your environment to take benefit of a single pane of glass to get insights about your Azure resources and services.  | Mathematica | 705 | MIT License | 2018-10-16 | 2024-07-19 |
+| [CCOInsights](https://github.com/Azure/CCOInsights) | Welcome to the Continuous Cloud Optimization Power BI Dashboard GitHub Project. In this repository you will find all the guidance and files needed to deploy the Dashboard in your environment to take benefit of a single pane of glass to get insights about your Azure resources and services.  | Mathematica | 706 | MIT License | 2018-10-16 | 2024-07-21 |
 | [openapi-markdown](https://github.com/Azure/openapi-markdown) | Azure OpenAPI MarkDown | TypeScript | 4 | MIT License | 2018-10-18 | 2022-11-21 |
 | [cyclecloud-openfoam](https://github.com/Azure/cyclecloud-openfoam) | CycleCloud project to enable running the OpenFOAM CFD software on Azure CycleCloud HPC clusters. | None | 1 | MIT License | 2018-10-18 | 2023-10-11 |
 | [azure-automation-go-worker](https://github.com/Azure/azure-automation-go-worker) | Go implementation of the Azure Automation hybrid worker | Go | 3 | MIT License | 2018-10-18 | 2023-06-21 |
@@ -838,7 +838,7 @@
 | [azch-frontend](https://github.com/Azure/azch-frontend) | The Frontend for the AKSWorkshop orders API | JavaScript | 4 | MIT License | 2019-01-25 | 2023-10-11 |
 | [IoT-Pi-Day](https://github.com/Azure/IoT-Pi-Day) | Workshop to build out a real-life IoT scenario by capturing IoT data and ingesting it into the Azure Cloud. | C# | 29 | MIT License | 2019-01-26 | 2023-08-24 |
 | [azure-functions-durable-python](https://github.com/Azure/azure-functions-durable-python) | Python library for using the Durable Functions bindings. | Python | 134 | MIT License | 2019-01-28 | 2024-07-05 |
-| [AzureML-Containers](https://github.com/Azure/AzureML-Containers) | Docker containers for running training scripts on AzureML | Dockerfile | 218 | MIT License | 2019-01-29 | 2024-07-16 |
+| [AzureML-Containers](https://github.com/Azure/AzureML-Containers) | Docker containers for running training scripts on AzureML | Dockerfile | 219 | MIT License | 2019-01-29 | 2024-07-22 |
 | [api-management-developer-portal](https://github.com/Azure/api-management-developer-portal) | Developer portal provided by the Azure API Management service. | TypeScript | 482 | MIT License | 2019-01-29 | 2024-07-19 |
 | [iot-plug-and-play-bridge](https://github.com/Azure/iot-plug-and-play-bridge) | IoT Plug and Play bridge | C | 60 | Other | 2019-01-31 | 2024-03-30 |
 | [nestle-acne-assessment](https://github.com/Azure/nestle-acne-assessment) | This is the source code of the collaborative project between Microsoft and Nestle Skin Health, where we developed a deep learning computer vision model to assess the acne severity level using selfie images. | None | 1 | - | 2019-02-06 | 2023-11-12 |
@@ -910,14 +910,14 @@
 | [magic-module-specs](https://github.com/Azure/magic-module-specs) | The magic module resource definitions for Azure. | Makefile | 3 | MIT License | 2019-05-21 | 2023-10-12 |
 | [autorest.cli](https://github.com/Azure/autorest.cli) | Autorest plugin to Azure CLI command modules and other tooling | TypeScript | 8 | MIT License | 2019-05-21 | 2024-05-31 |
 | [AzureContainers](https://github.com/Azure/AzureContainers) | R package for working with containers in Azure: ACI, ACR, AKS | R | 24 | Other | 2019-05-22 | 2024-07-18 |
-| [AzureVM](https://github.com/Azure/AzureVM) | R package for managing virtual machines in Azure | R | 13 | Other | 2019-05-22 | 2024-03-01 |
+| [AzureVM](https://github.com/Azure/AzureVM) | R package for managing virtual machines in Azure | R | 14 | Other | 2019-05-22 | 2024-07-22 |
 | [AzureKeyVault](https://github.com/Azure/AzureKeyVault) | R interface to Azure Key Vault | R | 13 | Other | 2019-05-22 | 2024-01-17 |
 | [AzureKusto](https://github.com/Azure/AzureKusto) | R interface to Azure Data Explorer, aka Kusto | R | 17 | Other | 2019-05-22 | 2024-01-17 |
 | [ng-deploy-azure](https://github.com/Azure/ng-deploy-azure) | Deploy Angular apps to Azure using the Angular CLI | TypeScript | 79 | MIT License | 2019-05-22 | 2023-12-30 |
 | [github-nginx-cache](https://github.com/Azure/github-nginx-cache) | Caching layer for the github API using nginx | TypeScript | 26 | MIT License | 2019-05-24 | 2024-05-22 |
 | [Industrial-IoT-Gateway-Installer](https://github.com/Azure/Industrial-IoT-Gateway-Installer) | Installer for Industrial Gateways and VMs leveraging Azure IoT Edge and OPC modules | C# | 20 | MIT License | 2019-06-02 | 2023-10-12 |
 | [terraform-azurerm-mariadb](https://github.com/Azure/terraform-azurerm-mariadb) | MariaDB module for Terraform | None | 2 | MIT License | 2019-06-03 | 2023-03-28 |
-| [repair-script-library](https://github.com/Azure/repair-script-library) | Organize and archive known repair scripts to enable anyone to easily fix their machines. The scripts are made primarily to repair VMs on the cloud. | PowerShell | 31 | MIT License | 2019-06-04 | 2024-07-21 |
+| [repair-script-library](https://github.com/Azure/repair-script-library) | Organize and archive known repair scripts to enable anyone to easily fix their machines. The scripts are made primarily to repair VMs on the cloud. | PowerShell | 32 | MIT License | 2019-06-04 | 2024-07-22 |
 | [acr-task-commands](https://github.com/Azure/acr-task-commands) | Azure Container Registry Task Commands | Dockerfile | 1 | MIT License | 2019-06-06 | 2024-06-19 |
 | [azure-iot-edge-c-module-vs](https://github.com/Azure/azure-iot-edge-c-module-vs) | Azure IoT Edge C module template for Visual Studio | C | 1 | MIT License | 2019-06-11 | 2023-10-11 |
 | [ipython-cosmos-extension](https://github.com/Azure/ipython-cosmos-extension) | IPython Extension for Cosmos SQL | Jupyter Notebook | 2 | MIT License | 2019-06-17 | 2023-03-28 |
@@ -928,8 +928,8 @@
 | [azspeech2txt](https://github.com/Azure/azspeech2txt) | Command line tools utilising Azure Speech to Text Cognitive Services using the mlhub.ai framework | Python | 5 | Creative Commons Attribution 4.0 International | 2019-06-20 | 2023-10-12 |
 | [azure-kusto-parquet-conv](https://github.com/Azure/azure-kusto-parquet-conv) | azure-kusto-parquet-conv | Rust | 4 | MIT License | 2019-06-24 | 2024-06-30 |
 | [azface](https://github.com/Azure/azface) | Azure Face API commands through the MLHub platform | Python | 1 | Creative Commons Attribution 4.0 International | 2019-06-25 | 2023-10-11 |
-| [acr-cli](https://github.com/Azure/acr-cli) | Command Line Tool for interacting with Azure Container Registry Images | Go | 48 | MIT License | 2019-06-26 | 2024-07-19 |
-| [AzureDatabricksBestPractices](https://github.com/Azure/AzureDatabricksBestPractices) | Version 1 of Technical Best Practices of Azure Databricks based on real world Customer and Technical SME inputs | None | 442 | Creative Commons Attribution 4.0 International | 2019-06-26 | 2024-07-18 |
+| [acr-cli](https://github.com/Azure/acr-cli) | Command Line Tool for interacting with Azure Container Registry Images | Go | 48 | MIT License | 2019-06-26 | 2024-07-22 |
+| [AzureDatabricksBestPractices](https://github.com/Azure/AzureDatabricksBestPractices) | Version 1 of Technical Best Practices of Azure Databricks based on real world Customer and Technical SME inputs | None | 443 | Creative Commons Attribution 4.0 International | 2019-06-26 | 2024-07-21 |
 | [aztranslate](https://github.com/Azure/aztranslate) | Azure Translate Service for MLHub.ai | Python | 2 | Creative Commons Attribution 4.0 International | 2019-06-27 | 2023-10-12 |
 | [az-vmware-cli](https://github.com/Azure/az-vmware-cli) | Azure VMware Solution Extension | None | 4 | MIT License | 2019-06-27 | 2023-10-12 |
 | [.github](https://github.com/Azure/.github) | Default Community Health Files for the Azure organization on GitHub | None | 2 | MIT License | 2019-07-02 | 2024-01-10 |
@@ -952,7 +952,7 @@
 | [pykusto](https://github.com/Azure/pykusto) | Query Kusto like a pro from the comfort of your Jupyter notebook | Python | 30 | MIT License | 2019-07-29 | 2024-01-25 |
 | [paho.mqtt.java](https://github.com/Azure/paho.mqtt.java) | A fork of the Eclipse Paho repository | None | 1 | MIT License | 2019-07-29 | 2023-10-12 |
 | [aks-periscope](https://github.com/Azure/aks-periscope) | aks-periscope aims to detect various kubernetes cluster problems | Go | 232 | MIT License | 2019-07-29 | 2024-07-16 |
-| [actions](https://github.com/Azure/actions) | Author and use Azure Actions to automate your GitHub workflows | HTML | 433 | MIT License | 2019-07-31 | 2024-07-17 |
+| [actions](https://github.com/Azure/actions) | Author and use Azure Actions to automate your GitHub workflows | HTML | 434 | MIT License | 2019-07-31 | 2024-07-21 |
 | [az-csvmware-cli](https://github.com/Azure/az-csvmware-cli) | repo containing Azure CLI extension code for Vmware solutions by CloudSimple | Python | 2 | MIT License | 2019-08-01 | 2023-03-28 |
 | [AzureVMmetadata](https://github.com/Azure/AzureVMmetadata) | R interface to VM instance metadata | R | 2 | Other | 2019-08-03 | 2023-03-28 |
 | [container-actions](https://github.com/Azure/container-actions) | Container related Github actions | JavaScript | 8 | MIT License | 2019-08-08 | 2023-10-12 |
@@ -993,17 +993,17 @@
 | [appservice-settings](https://github.com/Azure/appservice-settings) | Automate your GitHub workflows using Azure Action for AppService | JavaScript | 39 | MIT License | 2019-09-25 | 2024-07-19 |
 | [sql-action](https://github.com/Azure/sql-action) | 🚀 Deploy changes to your SQL database easily with SQL projects or SQL scripts and sql-action for GitHub workflows | TypeScript | 96 | MIT License | 2019-09-25 | 2024-07-12 |
 | [mysql](https://github.com/Azure/mysql) | Automate your GitHub workflows using Azure Action for MySQL | TypeScript | 11 | MIT License | 2019-09-25 | 2023-05-17 |
-| [login](https://github.com/Azure/login) | Connect to Azure | TypeScript | 287 | MIT License | 2019-09-25 | 2024-07-17 |
+| [login](https://github.com/Azure/login) | Connect to Azure | TypeScript | 288 | MIT License | 2019-09-25 | 2024-07-21 |
 | [azure-kusto-timedingest](https://github.com/Azure/azure-kusto-timedingest) | A small function to enable defining the creation date using an Azure function. | C# | 4 | MIT License | 2019-09-25 | 2024-02-15 |
 | [Networking](https://github.com/Azure/Networking) | Azure Networking | None | 3 | MIT License | 2019-09-25 | 2022-03-29 |
-| [SAP-on-Azure-Scripts-and-Utilities](https://github.com/Azure/SAP-on-Azure-Scripts-and-Utilities) | This repository hosts scripts and utilities that can be used to streamline deployment and operations for SAP on Azure customers | PowerShell | 155 | MIT License | 2019-10-03 | 2024-07-03 |
+| [SAP-on-Azure-Scripts-and-Utilities](https://github.com/Azure/SAP-on-Azure-Scripts-and-Utilities) | This repository hosts scripts and utilities that can be used to streamline deployment and operations for SAP on Azure customers | PowerShell | 156 | MIT License | 2019-10-03 | 2024-07-22 |
 | [Azure-Sentinel-Notebooks](https://github.com/Azure/Azure-Sentinel-Notebooks) | Interactive Azure Sentinel Notebooks provides security insights and actions to investigate anomalies and hunt for malicious behaviors. | Jupyter Notebook | 535 | MIT License | 2019-10-03 | 2024-07-16 |
 | [DiskInfo](https://github.com/Azure/DiskInfo) | Storage device telemetry data collection tool | Python | 9 | MIT License | 2019-10-04 | 2023-08-19 |
 | [sg-aks-workshop](https://github.com/Azure/sg-aks-workshop) | Security + Governance Workshop | C# | 191 | Creative Commons Attribution 4.0 International | 2019-10-07 | 2024-06-18 |
 | [azhpc-extensions](https://github.com/Azure/azhpc-extensions) | Metadata for Azure HPC Extensions | None | 13 | MIT License | 2019-10-07 | 2024-07-02 |
 | [Ignite2019_IaC_pre-day_docs](https://github.com/Azure/Ignite2019_IaC_pre-day_docs) | Ignite 2019 Infrastructure as Code pre-day docs | HCL | 11 | Creative Commons Attribution 4.0 International | 2019-10-08 | 2024-03-18 |
 | [Azure-Sentinel-BYOML](https://github.com/Azure/Azure-Sentinel-BYOML) | Azure-Sentinel-BYOML | Jupyter Notebook | 11 | MIT License | 2019-10-08 | 2024-01-23 |
-| [caf-terraform-landingzones](https://github.com/Azure/caf-terraform-landingzones) | Azure Terraform SRE framework | HCL | 760 | MIT License | 2019-10-09 | 2024-07-19 |
+| [caf-terraform-landingzones](https://github.com/Azure/caf-terraform-landingzones) | Azure Terraform SRE framework | HCL | 761 | MIT License | 2019-10-09 | 2024-07-22 |
 | [Hyperledger-Fabric-on-Azure-Kubernetes-Service](https://github.com/Azure/Hyperledger-Fabric-on-Azure-Kubernetes-Service) | We are excited to support Hyperledger Fabric(HLF) Blockchain version 1.4.4 on Azure Kubernetes Service through a solution that helps to deploy blockchain network of your choice with minimal Azure and HLF knowledge. You are only charged for the underlying infrastructure resources consumed, such as AKS cluster, storage, and networking. | TypeScript | 35 | Apache License 2.0 | 2019-10-10 | 2024-05-02 |
 | [azhpc-images](https://github.com/Azure/azhpc-images) | Azure HPC/AI VM Images | Shell | 90 | MIT License | 2019-10-11 | 2024-07-18 |
 | [AzureMonitorForVMs-ArmTemplates](https://github.com/Azure/AzureMonitorForVMs-ArmTemplates) | ARM Templates to deploy Azure Monitor for VMs | None | 6 | - | 2019-10-16 | 2024-06-17 |
@@ -1035,7 +1035,7 @@
 | [EasyAuthForK8s](https://github.com/Azure/EasyAuthForK8s) | Easily add Azure AD Authentication to any app running on Kubernetes | C# | 67 | MIT License | 2019-11-16 | 2024-07-19 |
 | [azure-sphere-wpa-supplicant](https://github.com/Azure/azure-sphere-wpa-supplicant) | Microsoft Azure Sphere WPA Supplicant modifications. | C | 3 | MIT License | 2019-11-18 | 2022-10-11 |
 | [DAICE_DatabricksSparkDevOps](https://github.com/Azure/DAICE_DatabricksSparkDevOps) | A set of example build and release pipelines for deploying Python and Scala to Azure Databricks and HDInsight | Python | 13 | MIT License | 2019-11-25 | 2024-02-29 |
-| [ARO-RP](https://github.com/Azure/ARO-RP) | Azure Red Hat OpenShift RP | Go | 98 | Apache License 2.0 | 2019-11-29 | 2024-07-19 |
+| [ARO-RP](https://github.com/Azure/ARO-RP) | Azure Red Hat OpenShift RP | Go | 98 | Apache License 2.0 | 2019-11-29 | 2024-07-22 |
 | [autorest.az](https://github.com/Azure/autorest.az) | Azure CLI Code Generator | Python | 22 | MIT License | 2019-12-05 | 2024-01-20 |
 | [autorest.compare](https://github.com/Azure/autorest.compare) | Compares the output between two AutoRest runs to check for material differences | TypeScript | 1 | MIT License | 2019-12-06 | 2023-10-11 |
 | [k8s-infra](https://github.com/Azure/k8s-infra) | Kubernetes-native infrastructure provider for Azure at scale | Go | 43 | MIT License | 2019-12-10 | 2024-05-06 |
@@ -1065,7 +1065,7 @@
 | [azure-remote-rendering-asset-tool](https://github.com/Azure/azure-remote-rendering-asset-tool) | Azure Remote Rendering Toolkit (ARRT) assists with uploading, converting, and rendering 3D models using the Azure Remote Rendering service. | C++ | 63 | MIT License | 2020-02-03 | 2024-06-04 |
 | [Azure-AI-Camp](https://github.com/Azure/Azure-AI-Camp) | Azure AI Camp - 2 day workshop on Databricks and Azure ML | Jupyter Notebook | 19 | MIT License | 2020-02-05 | 2024-05-09 |
 | [ARMTemplates](https://github.com/Azure/ARMTemplates) | None | None | 2 | Creative Commons Attribution 4.0 International | 2020-02-05 | 2023-11-01 |
-| [AgentBaker](https://github.com/Azure/AgentBaker) | Agent Baker is aiming to provide a centralized, portable k8s agent node provisioning lib as well as rich support on different OS image with optimized k8s binaries. | Go | 93 | MIT License | 2020-02-07 | 2024-07-21 |
+| [AgentBaker](https://github.com/Azure/AgentBaker) | Agent Baker is aiming to provide a centralized, portable k8s agent node provisioning lib as well as rich support on different OS image with optimized k8s binaries. | Go | 93 | MIT License | 2020-02-07 | 2024-07-22 |
 | [azure-stack-hub-powershell](https://github.com/Azure/azure-stack-hub-powershell) | None | None | 1 | MIT License | 2020-02-07 | 2023-10-12 |
 | [Commercial-Marketplace-SaaS-Accelerator](https://github.com/Azure/Commercial-Marketplace-SaaS-Accelerator) | A reference example with sample code for developers interested publishing transactable, Software as a-Service offers in the Microsoft commercial marketplace. | C# | 180 | MIT License | 2020-02-08 | 2024-07-19 |
 | [asa-in-spark](https://github.com/Azure/asa-in-spark) | This repository holds the library of running azure streaming analytics job query in spark | Java | 2 | MIT License | 2020-02-13 | 2023-10-11 |
@@ -1126,7 +1126,7 @@
 | [azure-schema-registry-for-kafka](https://github.com/Azure/azure-schema-registry-for-kafka) | Kafka support for Azure Schema Registry. | Java | 13 | MIT License | 2020-05-05 | 2024-07-06 |
 | [offline-data-collection](https://github.com/Azure/offline-data-collection) | centralized offline data collection & control  | None | 1 | MIT License | 2020-05-11 | 2023-07-15 |
 | [offline-data-collection-with-control](https://github.com/Azure/offline-data-collection-with-control) | A solution for creating centralized offline data collection with control | None | 3 | - | 2020-05-11 | 2024-07-19 |
-| [bicep](https://github.com/Azure/bicep) | Bicep is a declarative language for describing and deploying Azure resources | Bicep | 3173 | MIT License | 2020-05-13 | 2024-07-19 |
+| [bicep](https://github.com/Azure/bicep) | Bicep is a declarative language for describing and deploying Azure resources | Bicep | 3173 | MIT License | 2020-05-13 | 2024-07-22 |
 | [AzureML-Modules](https://github.com/Azure/AzureML-Modules) | Samples and docs for Azure Machine Learning Modules. | None | 4 | Creative Commons Attribution 4.0 International | 2020-05-13 | 2024-02-15 |
 | [Azure-ML-Interpretability_2020](https://github.com/Azure/Azure-ML-Interpretability_2020) | None | None | 1 | MIT License | 2020-05-13 | 2023-10-12 |
 | [2020-machine-learning-security-evasion-competition](https://github.com/Azure/2020-machine-learning-security-evasion-competition) | 2020 Machine Learning Security Evasion Competition | Python | 49 | MIT License | 2020-05-14 | 2024-06-07 |
@@ -1230,10 +1230,10 @@
 | [data-product-analytics](https://github.com/Azure/data-product-analytics) | Template to deploy a Data Product for analytics and data science use-cases into a Data Landing Zone of the Data Management & Analytics Scenario (former Enterprise-Scale Analytics). The Data Product template can be used by cross-functional teams to create insights and products for external users. | Bicep | 73 | MIT License | 2020-08-12 | 2024-06-17 |
 | [WindowsVMAgent](https://github.com/Azure/WindowsVMAgent) | None | None | 17 | MIT License | 2020-08-12 | 2024-07-05 |
 | [iot-sdk-longhaul](https://github.com/Azure/iot-sdk-longhaul) | None | Python | 0 | MIT License | 2020-08-13 | 2021-09-24 |
-| [fetch-event-source](https://github.com/Azure/fetch-event-source) | A better API for making Event Source requests, with all the features of fetch() | TypeScript | 1552 | MIT License | 2020-08-16 | 2024-07-21 |
+| [fetch-event-source](https://github.com/Azure/fetch-event-source) | A better API for making Event Source requests, with all the features of fetch() | TypeScript | 1553 | MIT License | 2020-08-16 | 2024-07-22 |
 | [iot-central-paad](https://github.com/Azure/iot-central-paad) | None | TypeScript | 14 | MIT License | 2020-08-19 | 2024-05-20 |
 | [AzureML-fastai](https://github.com/Azure/AzureML-fastai) | Example code showing how to run FastAI examples on Azure ML | Shell | 7 | MIT License | 2020-08-19 | 2024-07-19 |
-| [azureml-examples](https://github.com/Azure/azureml-examples) | Official community-driven Azure Machine Learning examples, tested with GitHub Actions. | Jupyter Notebook | 1666 | MIT License | 2020-08-21 | 2024-07-20 |
+| [azureml-examples](https://github.com/Azure/azureml-examples) | Official community-driven Azure Machine Learning examples, tested with GitHub Actions. | Jupyter Notebook | 1667 | MIT License | 2020-08-21 | 2024-07-22 |
 | [skewer](https://github.com/Azure/skewer) | A package to simplify working with Azure's Resource SKU APIs by wrapping the existing Azure SDK for Go. | Go | 1 | MIT License | 2020-08-22 | 2024-03-06 |
 | [fta-governance](https://github.com/Azure/fta-governance) | fta-governance | None | 0 | Creative Commons Attribution 4.0 International | 2020-08-24 | 2024-02-15 |
 | [fta-architecture](https://github.com/Azure/fta-architecture) | fta-architecture | None | 2 | Creative Commons Attribution 4.0 International | 2020-08-24 | 2024-02-15 |
@@ -1256,18 +1256,18 @@
 | [aks-gbb-officehours](https://github.com/Azure/aks-gbb-officehours) | Used to host information regarding the GBB-hosted, bi-weekly Public AKS Office Hours | None | 130 | Creative Commons Attribution 4.0 International | 2020-09-08 | 2024-07-06 |
 | [azure-triggers-acr](https://github.com/Azure/azure-triggers-acr) | None | HTML | 0 | MIT License | 2020-09-09 | 2024-02-22 |
 | [data-product-batch](https://github.com/Azure/data-product-batch) | Template to deploy a Data Product for Batch data processing into a Data Landing Zone of the Data Management & Analytics Scenario (former Enterprise-Scale Analytics). The Data Product template can be used by cross-functional teams to ingest, provide and create new data assets within the platform. | Bicep | 39 | MIT License | 2020-09-10 | 2024-06-30 |
-| [build-vm-image](https://github.com/Azure/build-vm-image) | Github action to create custom virtual machine images that contain artifacts built in CI workflows | JavaScript | 38 | MIT License | 2020-09-10 | 2024-06-14 |
+| [build-vm-image](https://github.com/Azure/build-vm-image) | Github action to create custom virtual machine images that contain artifacts built in CI workflows | JavaScript | 39 | MIT License | 2020-09-10 | 2024-07-22 |
 | [dapr-gbb-workshop](https://github.com/Azure/dapr-gbb-workshop) | Details regarding the customer-ready Dapr workshop created by the Microsoft Cloud Native Global Black Belt Team  | None | 30 | Creative Commons Attribution 4.0 International | 2020-09-11 | 2024-01-13 |
 | [fta-ModernServiceManagement](https://github.com/Azure/fta-ModernServiceManagement) | Content for MSM FTA 1:Many Session | None | 5 | MIT License | 2020-09-12 | 2023-07-25 |
 | [API-Management](https://github.com/Azure/API-Management) | Repository with Azure API Management release notes. | None | 135 | - | 2020-09-14 | 2024-07-19 |
 | [aad-pod-identity.io](https://github.com/Azure/aad-pod-identity.io) | Documentation site for the AAD Pod Identity project for docs, blogs, and project info. | None | 1 | Creative Commons Attribution 4.0 International | 2020-09-15 | 2023-01-28 |
 | [osm-azure](https://github.com/Azure/osm-azure) | Open Service Mesh (OSM) on Azure | Shell | 13 | MIT License | 2020-09-15 | 2022-11-03 |
-| [azure-sdk-for-rust](https://github.com/Azure/azure-sdk-for-rust) | This repository is for active development of the *unofficial* Azure SDK for Rust. This repository is *not* supported by the Azure SDK team. | Rust | 684 | MIT License | 2020-09-15 | 2024-07-18 |
+| [azure-sdk-for-rust](https://github.com/Azure/azure-sdk-for-rust) | This repository is for active development of the *unofficial* Azure SDK for Rust. This repository is *not* supported by the Azure SDK team. | Rust | 685 | MIT License | 2020-09-15 | 2024-07-21 |
 | [HDInsight](https://github.com/Azure/HDInsight) | None | None | 3 | Creative Commons Attribution 4.0 International | 2020-09-15 | 2024-01-30 |
 | [iot-plugandplay-models](https://github.com/Azure/iot-plugandplay-models) | Repository of IoT Plug and Play models using DTDL | None | 56 | MIT License | 2020-09-15 | 2024-07-01 |
 | [iot-plugandplay-models-tools](https://github.com/Azure/iot-plugandplay-models-tools) | Tools to manage the device-models repo | C# | 13 | MIT License | 2020-09-15 | 2024-02-02 |
 | [openapi-tools-common](https://github.com/Azure/openapi-tools-common) | The project contains the common utilities and libraries used for the Swagger tooling | TypeScript | 0 | MIT License | 2020-09-22 | 2022-11-24 |
-| [terraform-azurerm-caf-enterprise-scale](https://github.com/Azure/terraform-azurerm-caf-enterprise-scale) | Azure landing zones Terraform module | HCL | 792 | MIT License | 2020-09-23 | 2024-07-20 |
+| [terraform-azurerm-caf-enterprise-scale](https://github.com/Azure/terraform-azurerm-caf-enterprise-scale) | Azure landing zones Terraform module | HCL | 793 | MIT License | 2020-09-23 | 2024-07-21 |
 | [aimcore](https://github.com/Azure/aimcore) | The Azure Integration Migrator Core sorts and orders by priority the migration stage components and executes them.  Contains common interfaces used by the plug-in architecture of the BizTalk Migrator tool. | C# | 7 | Other | 2020-09-24 | 2023-09-13 |
 | [aimtool](https://github.com/Azure/aimtool) | The Azure Integration Migrator Tool contains the CLI tool and implementation of the plug-in architecture.  It converts command line options into the relevant commands needed to build the core runner and execute it. | C# | 46 | MIT License | 2020-09-24 | 2024-01-31 |
 | [aimmodel](https://github.com/Azure/aimmodel) | The Azure Integration Migrator Model repo contains the source and target modeling entities along with template configuration and Liquid rendering functionality to populate the target model with AIS templates and assets. | C# | 10 | Other | 2020-09-24 | 2023-09-13 |
@@ -1277,7 +1277,7 @@
 | [azure-storage-gst-plugin](https://github.com/Azure/azure-storage-gst-plugin) | GStreamer elements to interact with the Azure blob storage service. | C | 4 | MIT License | 2020-09-27 | 2023-12-30 |
 | [fta-japan](https://github.com/Azure/fta-japan) | FastTrack for Azure Japan | Bicep | 48 | Creative Commons Attribution 4.0 International | 2020-09-28 | 2024-06-27 |
 | [AzureMLGallery](https://github.com/Azure/AzureMLGallery) | None | None | 0 | MIT License | 2020-09-28 | 2023-01-28 |
-| [bicep-types-az](https://github.com/Azure/bicep-types-az) | Bicep type definitions for ARM resources | TypeScript | 80 | MIT License | 2020-09-29 | 2024-07-12 |
+| [bicep-types-az](https://github.com/Azure/bicep-types-az) | Bicep type definitions for ARM resources | TypeScript | 80 | MIT License | 2020-09-29 | 2024-07-21 |
 | [azhpc-diagnostics](https://github.com/Azure/azhpc-diagnostics) | Scripts that run on Azure VM's and gather variety of diagnostic information to debug common issues with VM, GPU and Infiniband. | Shell | 9 | MIT License | 2020-09-29 | 2023-12-21 |
 | [fulmar](https://github.com/Azure/fulmar) | None | None | 0 | MIT License | 2020-09-30 | 2023-10-15 |
 | [SAPonAzure-CAF-SolutionFactory](https://github.com/Azure/SAPonAzure-CAF-SolutionFactory) | The SAP on Azure CAF Solution Factory has contents to guide SAP Workload Migration to Azure in alignment to Cloud Adoption Framework. | None | 1 | Creative Commons Attribution 4.0 International | 2020-10-02 | 2024-06-13 |
@@ -1339,7 +1339,7 @@
 | [az-ps-module-versions](https://github.com/Azure/az-ps-module-versions) | None | PowerShell | 0 | MIT License | 2021-01-21 | 2024-02-15 |
 | [azure-webpubsub](https://github.com/Azure/azure-webpubsub) | Azure Web PubSub Service helps you to manage WebSocket connections and do publish and subscribe in an easy way | TypeScript | 130 | MIT License | 2021-01-22 | 2024-07-17 |
 | [api-management-self-hosted-gateway-ingress](https://github.com/Azure/api-management-self-hosted-gateway-ingress) | Samples on how to use Azure API Management self-hosted gateway as Kubernetes Ingress | Batchfile | 18 | MIT License | 2021-01-22 | 2024-07-19 |
-| [Virtual-Machine-Restore-Points](https://github.com/Azure/Virtual-Machine-Restore-Points) | None | None | 6 | GNU General Public License v3.0 | 2021-01-25 | 2024-04-05 |
+| [Virtual-Machine-Restore-Points](https://github.com/Azure/Virtual-Machine-Restore-Points) | None | None | 7 | GNU General Public License v3.0 | 2021-01-25 | 2024-07-22 |
 | [azure-storage-debian-mirror](https://github.com/Azure/azure-storage-debian-mirror) | None | None | 0 | - | 2021-01-26 | 2023-07-18 |
 | [iot-central-aad-setup](https://github.com/Azure/iot-central-aad-setup) | How to setup an Azure Active Directory application | None | 3 | - | 2021-01-27 | 2022-05-12 |
 | [iot-central-aad-app](https://github.com/Azure/iot-central-aad-app) | An interactive code walk-through on how to authenticate and authorize to use the Azure IoT Central REST APIs | JavaScript | 4 | MIT License | 2021-01-27 | 2023-01-28 |
@@ -1356,7 +1356,6 @@
 | [Microsoft.AVS.Management](https://github.com/Azure/Microsoft.AVS.Management) | AVS PowerCLI based Automation Tools for Administrators | PowerShell | 11 | MIT License | 2021-02-08 | 2024-07-17 |
 | [iot-hub-device-update](https://github.com/Azure/iot-hub-device-update) | Device Update for IoT Hub agent | C | 51 | MIT License | 2021-02-08 | 2024-07-15 |
 | [azure-table-archiver](https://github.com/Azure/azure-table-archiver) | Create and archive backups of Azure Storage Tables / Cosmos Tables, storing the archives in Azure Blob Storage.  | F# | 3 | MIT License | 2021-02-09 | 2022-11-26 |
-| [codegenapp](https://github.com/Azure/codegenapp) | None | TypeScript | 2 | MIT License | 2021-02-09 | 2021-12-20 |
 | [iot-central-compute](https://github.com/Azure/iot-central-compute) | A simple way to do compute and data transformation on data sent to Azure IoT Central using Azure Functions and a slightly modified version of the Azure IoT Central Device Bridge. | JavaScript | 2 | MIT License | 2021-02-09 | 2023-01-05 |
 | [actions-toolkit](https://github.com/Azure/actions-toolkit) | None | TypeScript | 5 | MIT License | 2021-02-09 | 2023-08-28 |
 | [azure-iot-middleware-freertos](https://github.com/Azure/azure-iot-middleware-freertos) | Azure IoT Middleware for FreeRTOS | C | 77 | MIT License | 2021-02-09 | 2024-07-12 |
@@ -1420,7 +1419,7 @@
 | [azure-sdk-for-java-assets](https://github.com/Azure/azure-sdk-for-java-assets) | None | None | 0 | MIT License | 2021-05-05 | 2023-12-15 |
 | [Synapse](https://github.com/Azure/Synapse) | For public tools and samples for Azure Synapse Analytics | HTML | 5 | MIT License | 2021-05-07 | 2023-07-25 |
 | [AzureDefender-K8S-InClusterDefense](https://github.com/Azure/AzureDefender-K8S-InClusterDefense) | None | Go | 15 | MIT License | 2021-05-08 | 2023-09-18 |
-| [gitops-connector](https://github.com/Azure/gitops-connector) | A GitOps Connector integrates a GitOps operator with CI/CD orchestrator | Python | 120 | MIT License | 2021-05-10 | 2024-07-07 |
+| [gitops-connector](https://github.com/Azure/gitops-connector) | A GitOps Connector integrates a GitOps operator with CI/CD orchestrator | Python | 121 | MIT License | 2021-05-10 | 2024-07-21 |
 | [fta-marketplace-tech](https://github.com/Azure/fta-marketplace-tech) | Content for the FTA Live: Marketplace Tech session | None | 0 | - | 2021-05-12 | 2024-02-15 |
 | [2021-machine-learning-security-evasion-competition](https://github.com/Azure/2021-machine-learning-security-evasion-competition) | None | Python | 19 | MIT License | 2021-05-12 | 2022-09-05 |
 | [aks-troubleshooting-guides](https://github.com/Azure/aks-troubleshooting-guides) | Azure Kubernetes Service Trouble Shooting Guides created and used by Azure Customer Support Services and Product Group Site Reliability Engineers. | None | 0 | MIT License | 2021-05-12 | 2023-08-30 |
@@ -1551,7 +1550,7 @@
 | [iot-central-file-upload-device](https://github.com/Azure/iot-central-file-upload-device) | IoT Central File Upload Device sample | TypeScript | 0 | MIT License | 2021-10-27 | 2022-01-07 |
 | [armstrong](https://github.com/Azure/armstrong) | A Terraform based ARM REST API testing tool. | HCL | 11 | Mozilla Public License 2.0 | 2021-10-28 | 2024-07-03 |
 | [aks-create-action](https://github.com/Azure/aks-create-action) | Github Action to create a Azure Kuberetes Service Cluster | Shell | 8 | MIT License | 2021-10-28 | 2024-02-23 |
-| [bicep-types-k8s](https://github.com/Azure/bicep-types-k8s) | Bicep type definitions for Kubernetes resources | TypeScript | 3 | MIT License | 2021-10-29 | 2024-06-30 |
+| [bicep-types-k8s](https://github.com/Azure/bicep-types-k8s) | Bicep type definitions for Kubernetes resources | TypeScript | 3 | MIT License | 2021-10-29 | 2024-07-21 |
 | [homebrew-azure-workload-identity](https://github.com/Azure/homebrew-azure-workload-identity) | Homebrew Tap for Azure Workload Identity CLI | Ruby | 0 | MIT License | 2021-10-29 | 2022-01-11 |
 | [Test-Drive-Synapse-Link-For-DataVerse](https://github.com/Azure/Test-Drive-Synapse-Link-For-DataVerse) | None | None | 8 | MIT License | 2021-10-29 | 2024-04-15 |
 | [RAI-vNext-Preview](https://github.com/Azure/RAI-vNext-Preview) | A Repository for the public preview of Responsible AI in AML vNext | Python | 7 | MIT License | 2021-11-01 | 2024-07-10 |
@@ -1562,7 +1561,7 @@
 | [ADAW](https://github.com/Azure/ADAW) | None | Bicep | 5 | MIT License | 2021-11-10 | 2023-09-14 |
 | [ArcOnAVS](https://github.com/Azure/ArcOnAVS) | None | Python | 6 | MIT License | 2021-11-11 | 2024-06-19 |
 | [ArcEnabledServersGroupPolicy](https://github.com/Azure/ArcEnabledServersGroupPolicy) | Guidance and sample code to perform at-scale onboarding of servers to Arc via Group Policy | PowerShell | 9 | MIT License | 2021-11-11 | 2024-05-16 |
-| [notation-azure-kv](https://github.com/Azure/notation-azure-kv) | Azure Provider for Notation CLI | C# | 16 | MIT License | 2021-11-12 | 2024-07-15 |
+| [notation-azure-kv](https://github.com/Azure/notation-azure-kv) | Azure Provider for Notation CLI | C# | 16 | MIT License | 2021-11-12 | 2024-07-22 |
 | [run-command-handler-linux](https://github.com/Azure/run-command-handler-linux) | RunCommand extension handler runs scripts within VMs sent by PUT RunCommand resource to a Linux VM. | Go | 2 | MIT License | 2021-11-12 | 2024-04-02 |
 | [ArchiveFeatureSupport](https://github.com/Azure/ArchiveFeatureSupport) | This repository will contain the scripts for Archive feature support | PowerShell | 0 | MIT License | 2021-11-15 | 2024-02-15 |
 | [sap-automation](https://github.com/Azure/sap-automation) | This is the repository supporting the SAP deployment automation framework on Azure | HCL | 118 | MIT License | 2021-11-16 | 2024-07-08 |
@@ -1606,13 +1605,13 @@
 | [azure-functions-durable-powershell](https://github.com/Azure/azure-functions-durable-powershell) | PowerShell SDK for writing Durable Functions apps | C# | 5 | MIT License | 2022-01-03 | 2024-06-20 |
 | [iot-central](https://github.com/Azure/iot-central) | A curated list of awesome Azure IoT Central libraries, open source repos, guides, blogs, and other resources. | None | 23 | MIT License | 2022-01-06 | 2024-07-18 |
 | [azure-functions-java-additions](https://github.com/Azure/azure-functions-java-additions) | Azure Functions Java Worker Additions | Java | 4 | MIT License | 2022-01-07 | 2024-06-14 |
-| [appservice-landing-zone-accelerator](https://github.com/Azure/appservice-landing-zone-accelerator) | The Azure App Service landing zone accelerator is an open-source collection of architectural guidance and reference implementation to accelerate deployment of Azure App Service at scale. | Bicep | 200 | MIT License | 2022-01-11 | 2024-07-03 |
+| [appservice-landing-zone-accelerator](https://github.com/Azure/appservice-landing-zone-accelerator) | The Azure App Service landing zone accelerator is an open-source collection of architectural guidance and reference implementation to accelerate deployment of Azure App Service at scale. | Bicep | 201 | MIT License | 2022-01-11 | 2024-07-21 |
 | [avdaccelerator](https://github.com/Azure/avdaccelerator) | AVD Accelerator deployment automation to simplify the setup of AVD (Azure Virtual Desktop) based on best practices | Bicep | 307 | MIT License | 2022-01-12 | 2024-07-19 |
 | [trusted-internet-connection](https://github.com/Azure/trusted-internet-connection) | Trusted Internet Connection 3.0 telemetry collection solutions for organizations hosting applications and services in Azure. | None | 3 | MIT License | 2022-01-13 | 2024-01-26 |
-| [bicep-registry-modules](https://github.com/Azure/bicep-registry-modules) | Bicep registry modules | Bicep | 430 | MIT License | 2022-01-14 | 2024-07-20 |
+| [bicep-registry-modules](https://github.com/Azure/bicep-registry-modules) | Bicep registry modules | Bicep | 430 | MIT License | 2022-01-14 | 2024-07-22 |
 | [bicep-extensibility](https://github.com/Azure/bicep-extensibility) | The service-side implementation for Bicep extensibility | C# | 18 | MIT License | 2022-01-14 | 2024-07-03 |
 | [CARML-Learn](https://github.com/Azure/CARML-Learn) | This repository hosts the CARML lab for the upcoming SPARK event | None | 16 | MIT License | 2022-01-21 | 2024-03-21 |
-| [mlops-v2](https://github.com/Azure/mlops-v2) | Azure MLOps (v2) solution accelerators. Enterprise ready templates to deploy your machine learning models on the Azure Platform.  | Shell | 480 | MIT License | 2022-01-27 | 2024-07-13 |
+| [mlops-v2](https://github.com/Azure/mlops-v2) | Azure MLOps (v2) solution accelerators. Enterprise ready templates to deploy your machine learning models on the Azure Platform.  | Shell | 481 | MIT License | 2022-01-27 | 2024-07-22 |
 | [mlops-infra-default](https://github.com/Azure/mlops-infra-default) | Azure MLOps default infrastructure. | HCL | 6 | MIT License | 2022-01-27 | 2023-03-19 |
 | [mlops-project-classical-ml](https://github.com/Azure/mlops-project-classical-ml) | Azure MLOps classical ML project. | Python | 9 | MIT License | 2022-01-27 | 2024-07-20 |
 | [caf-terraform-landingzones-platform-starter](https://github.com/Azure/caf-terraform-landingzones-platform-starter) | CAF Terraform landing zone - platform configuration starter kit | Shell | 83 | MIT License | 2022-01-28 | 2024-06-16 |
@@ -1645,7 +1644,7 @@
 | [fta-aas](https://github.com/Azure/fta-aas) | FTA as a Service | TypeScript | 24 | MIT License | 2022-03-08 | 2024-07-03 |
 | [aks-node-ca-watcher](https://github.com/Azure/aks-node-ca-watcher) | None | Go | 4 | MIT License | 2022-03-09 | 2023-05-19 |
 | [SWIMDataIngestion](https://github.com/Azure/SWIMDataIngestion) | Azure Architecture Center Contribution - Ingest Federal Aviation Administration’s (FAA) System Wide Information Management (SWIM) Program to analyze flight data | HCL | 5 | MIT License | 2022-03-13 | 2024-02-06 |
-| [azureml-assets](https://github.com/Azure/azureml-assets) | None | Python | 46 | Other | 2022-03-15 | 2024-07-21 |
+| [azureml-assets](https://github.com/Azure/azureml-assets) | None | Python | 46 | Other | 2022-03-15 | 2024-07-22 |
 | [CSU-Blogs](https://github.com/Azure/CSU-Blogs) | Content repository for csublogs.microsoft.com | None | 0 | MIT License | 2022-03-16 | 2022-03-16 |
 | [Guidance-Observability](https://github.com/Azure/Guidance-Observability) | Central repository for Azure observability guidance. | None | 0 | MIT License | 2022-03-21 | 2022-07-06 |
 | [sterling](https://github.com/Azure/sterling) | IBM Sterling Order Management on Azure | Bicep | 1 | MIT License | 2022-03-22 | 2023-02-16 |
@@ -1722,7 +1721,7 @@
 | [azure-messaging-streaming](https://github.com/Azure/azure-messaging-streaming) | Azure messaging and streaming team | None | 0 | MIT License | 2022-07-06 | 2022-07-06 |
 | [embedded-wireless-framework](https://github.com/Azure/embedded-wireless-framework) | Microsoft's Embedded Wireless Framework is a design concept that enables users to abstract application code from host port drivers and communication adapter drivers primarily in microcontroller-based projects.  | C | 62 | MIT License | 2022-07-06 | 2024-07-20 |
 | [Purview-Tools](https://github.com/Azure/Purview-Tools) | None | None | 0 | - | 2022-07-06 | 2022-07-06 |
-| [cadl-ranch](https://github.com/Azure/cadl-ranch) | Cadl Scenarios for client generations | TypeScript | 8 | MIT License | 2022-07-07 | 2024-07-19 |
+| [cadl-ranch](https://github.com/Azure/cadl-ranch) | Cadl Scenarios for client generations | TypeScript | 8 | MIT License | 2022-07-07 | 2024-07-22 |
 | [cloud-scale-data-for-devs-guide](https://github.com/Azure/cloud-scale-data-for-devs-guide) | Cloud-Scale Data for Spring Developers Quick Start Guide | Jupyter Notebook | 19 | MIT License | 2022-07-07 | 2024-03-01 |
 | [Accelerator-Power-Apps](https://github.com/Azure/Accelerator-Power-Apps) | None | None | 0 | MIT License | 2022-07-08 | 2022-07-08 |
 | [metaetcd](https://github.com/Azure/metaetcd) | Sharding proxy for etcd | Go | 15 | MIT License | 2022-07-08 | 2024-07-08 |
@@ -1738,7 +1737,7 @@
 | [spring-apps-deploy](https://github.com/Azure/spring-apps-deploy) | GitHub Actions to deploy to Azure Spring Cloud | TypeScript | 12 | MIT License | 2022-07-20 | 2024-02-06 |
 | [azureml-online-endpoint-profiler-preview](https://github.com/Azure/azureml-online-endpoint-profiler-preview) | None | Shell | 4 | MIT License | 2022-07-21 | 2023-06-09 |
 | [Azure-Maps-Style-Editor](https://github.com/Azure/Azure-Maps-Style-Editor) | This is a github repo for Azure maps style editor which is forked from Maputnik editor and made modifications to work with Azure Maps Styling service. | JavaScript | 2 | MIT License | 2022-07-21 | 2023-09-10 |
-| [azure-functions-nodejs-library](https://github.com/Azure/azure-functions-nodejs-library) | The Node.js framework for Azure Functions | TypeScript | 54 | MIT License | 2022-07-21 | 2024-07-19 |
+| [azure-functions-nodejs-library](https://github.com/Azure/azure-functions-nodejs-library) | The Node.js framework for Azure Functions | TypeScript | 55 | MIT License | 2022-07-21 | 2024-07-21 |
 | [aks-devx-tools](https://github.com/Azure/aks-devx-tools) | Create deployment files and configure GitHub Actions workflows to deploy applications to Azure Kubernetes Service (AKS). | TypeScript | 17 | MIT License | 2022-07-21 | 2024-02-20 |
 | [DataProtectionPlatformGoPluginSDK](https://github.com/Azure/DataProtectionPlatformGoPluginSDK) | Data protection platform GO Lang SDK for 1P term | None | 1 | MIT License | 2022-07-22 | 2023-01-30 |
 | [elenchus](https://github.com/Azure/elenchus) | Machine teaching with Azure SQL | Python | 7 | MIT License | 2022-07-22 | 2023-11-09 |
@@ -1755,7 +1754,7 @@
 | [aks-gpu](https://github.com/Azure/aks-gpu) | None | Shell | 2 | MIT License | 2022-08-03 | 2024-07-09 |
 | [reliable-web-app-pattern-dotnet](https://github.com/Azure/reliable-web-app-pattern-dotnet) | The Reliable Web App Pattern is a set of objectives to help your web application converge on the cloud. This repo contains a reference implementation of a reliable web application for .NET. | Bicep | 344 | MIT License | 2022-08-05 | 2024-07-18 |
 | [azure-iot-service-sdk-java](https://github.com/Azure/azure-iot-service-sdk-java) | Service SDK for JAVA | Java | 5 | Other | 2022-08-08 | 2023-09-12 |
-| [vscode-bridge-to-kubernetes](https://github.com/Azure/vscode-bridge-to-kubernetes) | VS Code extension for bridge-to-kubernetes. | TypeScript | 13 | MIT License | 2022-08-08 | 2024-03-30 |
+| [vscode-bridge-to-kubernetes](https://github.com/Azure/vscode-bridge-to-kubernetes) | VS Code extension for bridge-to-kubernetes. | TypeScript | 14 | MIT License | 2022-08-08 | 2024-07-22 |
 | [azure-kusto-samples-js](https://github.com/Azure/azure-kusto-samples-js) | Sample javascript code for Azure Data Explorer (Kusto)  | TypeScript | 1 | MIT License | 2022-08-10 | 2022-11-19 |
 | [ArcResourceBridge](https://github.com/Azure/ArcResourceBridge) | Welcome to the Azure Arc Resource Bridge repo.  | PowerShell | 4 | MIT License | 2022-08-12 | 2024-06-05 |
 | [LinuxToolBox](https://github.com/Azure/LinuxToolBox) | ToolBox for Linux managed by Azure Linux Escalation team | None | 0 | MIT License | 2022-08-12 | 2024-04-11 |
@@ -1799,7 +1798,7 @@
 | [terraform-verified-module](https://github.com/Azure/terraform-verified-module) | A template for verified Terraform module. | Go | 8 | MIT License | 2022-09-23 | 2023-12-15 |
 | [SynapseRTSEventGrid](https://github.com/Azure/SynapseRTSEventGrid) | Synapse Real Time sync based on Event grid | C# | 0 | Apache License 2.0 | 2022-09-26 | 2022-09-26 |
 | [SynapseRTSStorage](https://github.com/Azure/SynapseRTSStorage) | Synapse Real Time sync based on Storage Trigger | C# | 0 | Apache License 2.0 | 2022-09-26 | 2022-09-26 |
-| [bicep-types](https://github.com/Azure/bicep-types) | Shared libraries for reading and writing Bicep type definitions | C# | 7 | MIT License | 2022-09-26 | 2024-07-16 |
+| [bicep-types](https://github.com/Azure/bicep-types) | Shared libraries for reading and writing Bicep type definitions | C# | 7 | MIT License | 2022-09-26 | 2024-07-21 |
 | [azure-devops-templates-iac](https://github.com/Azure/azure-devops-templates-iac) | Repository of reusable Azure DevOps pipelines YAML definitions oriented with Infrastructure as Code deployments in mind. | Bicep | 26 | MIT License | 2022-09-27 | 2024-02-13 |
 | [reddog-guidance](https://github.com/Azure/reddog-guidance) | A better description will be given shortly | None | 0 | MIT License | 2022-09-28 | 2022-09-28 |
 | [CAE-Bits](https://github.com/Azure/CAE-Bits) | This repository contains code snippets, examples alongside documentation that are developed and used by the CAE team @ Microsoft that we want to make publicly available. | Bicep | 9 | MIT License | 2022-09-30 | 2023-11-18 |
@@ -1862,7 +1861,7 @@
 | [azure-sdk-for-sap-odata](https://github.com/Azure/azure-sdk-for-sap-odata) | This repository is for active development of the Azure SDK for SAP OData. | C# | 7 | MIT License | 2022-12-15 | 2024-06-15 |
 | [SQL-Migration-AzureSQL-PoC](https://github.com/Azure/SQL-Migration-AzureSQL-PoC) | This repository is created to support one-click PoC for Azure SQL | HCL | 21 | MIT License | 2022-12-16 | 2024-02-21 |
 | [IoTTrainingPack](https://github.com/Azure/IoTTrainingPack) | Supporting materials for the FTA IoT Training Pack | Bicep | 9 | MIT License | 2022-12-19 | 2024-05-29 |
-| [terraform-azurerm-virtual-machine](https://github.com/Azure/terraform-azurerm-virtual-machine) | Terraform Azure RM Virtual Machine Module | HCL | 34 | MIT License | 2022-12-23 | 2024-07-18 |
+| [terraform-azurerm-virtual-machine](https://github.com/Azure/terraform-azurerm-virtual-machine) | Terraform Azure RM Virtual Machine Module | HCL | 35 | MIT License | 2022-12-23 | 2024-07-22 |
 | [AZNFS-mount](https://github.com/Azure/AZNFS-mount) | None | Shell | 14 | MIT License | 2022-12-26 | 2024-07-20 |
 | [microsoft-365-certification-quick-evaluation](https://github.com/Azure/microsoft-365-certification-quick-evaluation) | None | TypeScript | 12 | MIT License | 2022-12-30 | 2024-05-26 |
 | [KeyVault-Secrets-Rotation-AADApp-PowerShell](https://github.com/Azure/KeyVault-Secrets-Rotation-AADApp-PowerShell) | Azure function for rotation of AAD App Client Secrets with Key Vault | PowerShell | 11 | MIT License | 2022-12-30 | 2024-05-03 |
@@ -1891,7 +1890,7 @@
 | [arcvmware-util](https://github.com/Azure/arcvmware-util) | Utility files for arc for vmware and other private clouds | PowerShell | 2 | MIT License | 2023-01-25 | 2024-07-12 |
 | [azure-functions-cosmosdb-extension](https://github.com/Azure/azure-functions-cosmosdb-extension) | Extensions to support CosmosDB functionality on Azure Functions | C# | 6 | MIT License | 2023-01-26 | 2023-04-17 |
 | [mlops-v2-cv-demo](https://github.com/Azure/mlops-v2-cv-demo) | A prebuilt Computer Vision project using the MLOps V2 Solution Accelerator | Python | 2 | MIT License | 2023-01-26 | 2024-07-09 |
-| [MS-AMP](https://github.com/Azure/MS-AMP) | Microsoft Automatic Mixed Precision Library | Python | 483 | MIT License | 2023-01-30 | 2024-07-19 |
+| [MS-AMP](https://github.com/Azure/MS-AMP) | Microsoft Automatic Mixed Precision Library | Python | 482 | MIT License | 2023-01-30 | 2024-07-22 |
 | [AutoML-Distributed-Training-For-Tabular](https://github.com/Azure/AutoML-Distributed-Training-For-Tabular) | This is the github repo to demonstrate how to use distributed training feature in AutoML to train large scale tabular dataset. | Jupyter Notebook | 3 | MIT License | 2023-01-30 | 2023-05-15 |
 | [vscode-osconfig](https://github.com/Azure/vscode-osconfig) | This extension provides a rich authoring experience for Azure Device OS Configuration documents. | TypeScript | 4 | MIT License | 2023-01-31 | 2023-06-05 |
 | [terraform-azurerm-hubnetworking](https://github.com/Azure/terraform-azurerm-hubnetworking) | Terraform verified module for deploying multi-hub & spoke architectures | HCL | 22 | MIT License | 2023-02-01 | 2024-07-11 |
@@ -1912,7 +1911,7 @@
 | [msccl-scheduler](https://github.com/Azure/msccl-scheduler) | MSCCL Scheduler | C++ | 6 | MIT License | 2023-02-27 | 2023-10-31 |
 | [spark-azure-encryption](https://github.com/Azure/spark-azure-encryption) | A set of example Java classes for handling encrypting and decrypting data via Spark UDFs | Jupyter Notebook | 1 | MIT License | 2023-03-01 | 2023-03-22 |
 | [dapr-workflows-aks-sample](https://github.com/Azure/dapr-workflows-aks-sample) | Dapr workflows sample on AKS | C# | 6 | Apache License 2.0 | 2023-03-02 | 2024-04-25 |
-| [ALZ-PowerShell-Module](https://github.com/Azure/ALZ-PowerShell-Module) | The Azure Landing Zones Accelerators PowerShell module | PowerShell | 45 | MIT License | 2023-03-02 | 2024-07-19 |
+| [ALZ-PowerShell-Module](https://github.com/Azure/ALZ-PowerShell-Module) | The Azure Landing Zones Accelerators PowerShell module | PowerShell | 46 | MIT License | 2023-03-02 | 2024-07-22 |
 | [synapse-poc](https://github.com/Azure/synapse-poc) | None | None | 3 | MIT License | 2023-03-07 | 2023-03-12 |
 | [azure-marketplace-management-extras](https://github.com/Azure/azure-marketplace-management-extras) | None | Python | 9 | MIT License | 2023-03-08 | 2024-06-30 |
 | [wingtipdpt-tmp](https://github.com/Azure/wingtipdpt-tmp) | None | None | 2 | MIT License | 2023-03-08 | 2024-05-20 |
@@ -1935,7 +1934,7 @@
 | [moby-packaging](https://github.com/Azure/moby-packaging) | None | Go | 13 | MIT License | 2023-03-27 | 2024-07-16 |
 | [capacityreservationsharing](https://github.com/Azure/capacityreservationsharing) | None | None | 0 | MIT License | 2023-03-28 | 2024-04-26 |
 | [openai-at-scale](https://github.com/Azure/openai-at-scale) | Simple ChatGPT UI application | TypeScript | 111 | MIT License | 2023-04-03 | 2024-07-18 |
-| [azure-openai-samples](https://github.com/Azure/azure-openai-samples) | Azure OpenAI Samples is a collection of code samples illustrating how to use Azure Open AI in creating AI solution for various use cases across industries. This repository is mained by a community of volunters. We welcomed your contributions.  | Jupyter Notebook | 505 | MIT License | 2023-04-04 | 2024-07-19 |
+| [azure-openai-samples](https://github.com/Azure/azure-openai-samples) | Azure OpenAI Samples is a collection of code samples illustrating how to use Azure Open AI in creating AI solution for various use cases across industries. This repository is mained by a community of volunters. We welcomed your contributions.  | Jupyter Notebook | 506 | MIT License | 2023-04-04 | 2024-07-22 |
 | [terratest-terraform-fluent](https://github.com/Azure/terratest-terraform-fluent) | Go module for Terraform module testing with fluent assertions | Go | 12 | MIT License | 2023-04-05 | 2024-05-16 |
 | [azurehpc-health-checks](https://github.com/Azure/azurehpc-health-checks) | Health checks for Azure N- and H-series VMs. | Shell | 12 | MIT License | 2023-04-07 | 2024-07-11 |
 | [mlops-workshop-code-public](https://github.com/Azure/mlops-workshop-code-public) | None | Jupyter Notebook | 0 | MIT License | 2023-04-07 | 2023-05-11 |
@@ -1943,8 +1942,8 @@
 | [ads-extension-mongo-migration-assets](https://github.com/Azure/ads-extension-mongo-migration-assets) | This repo contains asset files used in mongo migration extension like icons, readme, change log, etc. | None | 6 | Other | 2023-04-12 | 2024-07-12 |
 | [flink-connector-kusto](https://github.com/Azure/flink-connector-kusto) | Flink Connector to Kusto | Java | 2 | Apache License 2.0 | 2023-04-12 | 2024-01-10 |
 | [azure-batch-rendering](https://github.com/Azure/azure-batch-rendering) | Rendering plugins that interface with Azure Batch | C# | 1 | MIT License | 2023-04-13 | 2024-03-01 |
-| [terraform-azurerm-avm-ptn-alz](https://github.com/Azure/terraform-azurerm-avm-ptn-alz) | Terraform module to deploy Azure Landing Zones | HCL | 59 | MIT License | 2023-04-14 | 2024-07-16 |
-| [intelligent-app-workshop](https://github.com/Azure/intelligent-app-workshop) | Immersive workshop showcasing the remarkable potential of integrating SoTA foundation models to enhance product experiences and streamline backend workflows. Leverages Microsoft's Copilot stack, Semantic Kernel and Azure primitives to offer an engaging and comprehensive introduction to AI-infused app development and deployment | Python | 153 | MIT License | 2023-04-16 | 2024-07-19 |
+| [terraform-azurerm-avm-ptn-alz](https://github.com/Azure/terraform-azurerm-avm-ptn-alz) | Terraform module to deploy Azure Landing Zones | HCL | 59 | MIT License | 2023-04-14 | 2024-07-21 |
+| [intelligent-app-workshop](https://github.com/Azure/intelligent-app-workshop) | Immersive workshop showcasing the remarkable potential of integrating SoTA foundation models to enhance product experiences and streamline backend workflows. Leverages Microsoft's Copilot stack, Semantic Kernel and Azure primitives to offer an engaging and comprehensive introduction to AI-infused app development and deployment | Python | 154 | MIT License | 2023-04-16 | 2024-07-22 |
 | [terraform-azure-mdc-defender-plans-azure](https://github.com/Azure/terraform-azure-mdc-defender-plans-azure) | None | HCL | 6 | MIT License | 2023-04-18 | 2024-07-21 |
 | [eno](https://github.com/Azure/eno) | Configuration management tool for platforms built on Kubernetes | Go | 5 | MIT License | 2023-04-18 | 2024-07-19 |
 | [azure-netapp-files](https://github.com/Azure/azure-netapp-files) | Azure NetApp Files | None | 4 | MIT License | 2023-04-19 | 2024-07-16 |
@@ -1990,7 +1989,7 @@
 | [msccl-executor-nccl](https://github.com/Azure/msccl-executor-nccl) | None | C++ | 28 | Other | 2023-06-25 | 2024-07-10 |
 | [msccl](https://github.com/Azure/msccl) | Microsoft Collective Communication Library | None | 35 | MIT License | 2023-06-25 | 2024-07-18 |
 | [setup-azd](https://github.com/Azure/setup-azd) | This GitHub Action allows you to provision resources and deploy your application on Azure with Azure Developer CLI commands. The action installs the Azure Developer CLI on a user-defined Azure Developer CLI version. If the user does not specify a version, latest CLI version is used. | TypeScript | 8 | MIT License | 2023-06-26 | 2024-07-06 |
-| [GPT-RAG](https://github.com/Azure/GPT-RAG) | Sharing the learning along the way we been gathering to enable Azure OpenAI at enterprise scale in a secure manner. GPT-RAG core is a Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. | Bicep | 781 | MIT License | 2023-06-27 | 2024-07-20 |
+| [GPT-RAG](https://github.com/Azure/GPT-RAG) | Sharing the learning along the way we been gathering to enable Azure OpenAI at enterprise scale in a secure manner. GPT-RAG core is a Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. | Bicep | 783 | MIT License | 2023-06-27 | 2024-07-22 |
 | [gpt-rag-frontend](https://github.com/Azure/gpt-rag-frontend) | None | TypeScript | 28 | MIT License | 2023-06-27 | 2024-06-08 |
 | [gpt-rag-orchestrator](https://github.com/Azure/gpt-rag-orchestrator) | None | Python | 30 | MIT License | 2023-06-27 | 2024-07-17 |
 | [gpt-rag-ingestion](https://github.com/Azure/gpt-rag-ingestion) | None | Python | 45 | MIT License | 2023-06-27 | 2024-07-17 |
@@ -2029,7 +2028,7 @@
 | [llmops-gha-demo](https://github.com/Azure/llmops-gha-demo) | None | Python | 26 | MIT License | 2023-08-23 | 2024-06-17 |
 | [Build-Modern-AI-Apps](https://github.com/Azure/Build-Modern-AI-Apps) | Microsoft Official Build Modern AI Apps reference solutions and content. Demonstrate how to build Copilot applications that incorporate Hero Azure Services including Azure OpenAI Service, Azure Container Apps (or AKS) and Azure Cosmos DB for NoSQL with Vector Search. | None | 157 | MIT License | 2023-08-28 | 2024-07-18 |
 | [Vector-Search-AI-Assistant](https://github.com/Azure/Vector-Search-AI-Assistant) | Microsoft Official Build Modern AI Apps reference solutions and content. Demonstrate how to build Copilot applications that incorporate Hero Azure Services including Azure OpenAI Service, Azure Container Apps (or AKS) and Azure Cosmos DB for NoSQL with Vector Search. | C# | 139 | MIT License | 2023-08-28 | 2024-07-20 |
-| [terraform-azurerm-avm-template](https://github.com/Azure/terraform-azurerm-avm-template) | Template repo for Azure Verified Modules using Terraform | HCL | 35 | MIT License | 2023-08-29 | 2024-07-16 |
+| [terraform-azurerm-avm-template](https://github.com/Azure/terraform-azurerm-avm-template) | Template repo for Azure Verified Modules using Terraform | HCL | 35 | MIT License | 2023-08-29 | 2024-07-22 |
 | [terraform-azurerm-avm-res-test2](https://github.com/Azure/terraform-azurerm-avm-res-test2) | None | Batchfile | 0 | MIT License | 2023-08-29 | 2024-04-05 |
 | [terraform-azurerm-avm-res-compute-virtualmachinescaleset](https://github.com/Azure/terraform-azurerm-avm-res-compute-virtualmachinescaleset) | None | HCL | 1 | MIT License | 2023-08-29 | 2024-04-26 |
 | [terraform-azurerm-avm-res-keyvault-vault](https://github.com/Azure/terraform-azurerm-avm-res-keyvault-vault) | Azure Verified Module for Key Vault | HCL | 19 | MIT License | 2023-08-30 | 2024-07-07 |
@@ -2044,15 +2043,15 @@
 | [azure-provider-external-dns-e2e](https://github.com/Azure/azure-provider-external-dns-e2e) | e2e test code for external-dns azure provider | Go | 0 | MIT License | 2023-09-07 | 2023-10-23 |
 | [ServiceConnector](https://github.com/Azure/ServiceConnector) | Questions, feedback and samples for Service Connector service. | None | 1 | MIT License | 2023-09-08 | 2023-12-25 |
 | [cosmosdb-emulator-recipes](https://github.com/Azure/cosmosdb-emulator-recipes) | Here are some examples to get started with the Cosmos DB Emulator | C# | 10 | MIT License | 2023-09-08 | 2024-06-27 |
-| [kaito](https://github.com/Azure/kaito) | Kubernetes AI Toolchain Operator | Go | 352 | MIT License | 2023-09-09 | 2024-07-21 |
+| [kaito](https://github.com/Azure/kaito) | Kubernetes AI Toolchain Operator | Go | 351 | MIT License | 2023-09-09 | 2024-07-21 |
 | [gpu-provisioner](https://github.com/Azure/gpu-provisioner) | gpu-provisioner is a Karpenter Azure provider implementation. This project is used in Kaito to create a machine which is an Azure nodepool with one VM | Go | 6 | Apache License 2.0 | 2023-09-09 | 2024-07-15 |
 | [ArtistAnywhere](https://github.com/Azure/ArtistAnywhere) | Azure Artist Anywhere (AAA) is a modular and configurable Infrastructure as Code (IaC) solution deployment framework for Azure HPC Rendering & Visualization. | HCL | 2 | MIT License | 2023-09-11 | 2024-07-16 |
 | [azure-functions-nodejs-samples](https://github.com/Azure/azure-functions-nodejs-samples) | None | TypeScript | 9 | MIT License | 2023-09-11 | 2024-07-11 |
 | [cloud-for-sovereignty-quickstarts](https://github.com/Azure/cloud-for-sovereignty-quickstarts) | Microsoft Cloud for Sovereignty repository brings ready-to-use workload templates and a sample confidential application deployable in a Sovereign Landing Zone. | Bicep | 26 | MIT License | 2023-09-12 | 2024-07-17 |
-| [terraform-azurerm-avm-res-compute-virtualmachine](https://github.com/Azure/terraform-azurerm-avm-res-compute-virtualmachine) | Terraform AVM module for virtual machines | HCL | 11 | MIT License | 2023-09-12 | 2024-07-17 |
+| [terraform-azurerm-avm-res-compute-virtualmachine](https://github.com/Azure/terraform-azurerm-avm-res-compute-virtualmachine) | Terraform AVM module for virtual machines | HCL | 12 | MIT License | 2023-09-12 | 2024-07-22 |
 | [arc_jumpstart_docs](https://github.com/Azure/arc_jumpstart_docs) | A public repo for hosting the Arc Jumpstart docs | None | 24 | Creative Commons Attribution 4.0 International | 2023-09-14 | 2024-07-13 |
 | [terraform-azurerm-avm-res-network-virtualnetwork](https://github.com/Azure/terraform-azurerm-avm-res-network-virtualnetwork) | Azure Verified Module for Virtual Network | HCL | 18 | MIT License | 2023-09-15 | 2024-07-19 |
-| [aoai-apim](https://github.com/Azure/aoai-apim) | Scaling AOAI using APIM, PTUs and TPMs | Python | 84 | MIT License | 2023-09-15 | 2024-06-10 |
+| [aoai-apim](https://github.com/Azure/aoai-apim) | Scaling AOAI using APIM, PTUs and TPMs | Python | 86 | MIT License | 2023-09-15 | 2024-07-22 |
 | [forensics](https://github.com/Azure/forensics) | None | PowerShell | 7 | MIT License | 2023-09-19 | 2024-05-21 |
 | [multi-cloud-asset-inventory-preview](https://github.com/Azure/multi-cloud-asset-inventory-preview) | None | Shell | 0 | MIT License | 2023-09-20 | 2024-06-07 |
 | [USFSI-TS-Just-The-Docs-Template](https://github.com/Azure/USFSI-TS-Just-The-Docs-Template) | US FSI TS Accelerator Workshop Jekyll Just the docs template | Ruby | 0 | MIT License | 2023-09-21 | 2023-09-22 |
@@ -2097,12 +2096,12 @@
 | [Azure_Synapse_RealTimeSync_Using_AtlasTrigger_and_AzureFunction](https://github.com/Azure/Azure_Synapse_RealTimeSync_Using_AtlasTrigger_and_AzureFunction) | Integration of MongoDB Atlas with Azure Synapse for Real-time Sync using the Atlas Trigger and Azure function | Python | 0 | MIT License | 2023-11-01 | 2023-11-01 |
 | [tsi2rti](https://github.com/Azure/tsi2rti) | CMF Analytics scenario TSI to ADX or Fabric RTI migration tools  | PowerShell | 0 | MIT License | 2023-11-01 | 2024-07-03 |
 | [typespec-azure](https://github.com/Azure/typespec-azure) | About TypeSpec Azure Libraries | TypeScript | 9 | MIT License | 2023-11-01 | 2024-07-21 |
-| [go-workflow](https://github.com/Azure/go-workflow) | Workflow is library to organize steps with dependencies into DAG (Directed-Acyclic-Graph) for Go | Go | 12 | MIT License | 2023-11-02 | 2024-07-16 |
+| [go-workflow](https://github.com/Azure/go-workflow) | Workflow is library to organize steps with dependencies into DAG (Directed-Acyclic-Graph) for Go | Go | 13 | MIT License | 2023-11-02 | 2024-07-22 |
 | [AKS-Performance-and-Scale](https://github.com/Azure/AKS-Performance-and-Scale) | None | PowerShell | 5 | MIT License | 2023-11-02 | 2024-07-12 |
 | [terraform-azurerm-avm-res-network-publicipaddress](https://github.com/Azure/terraform-azurerm-avm-res-network-publicipaddress) | Repository for 'Public IP address' AVM module | HCL | 2 | MIT License | 2023-11-03 | 2024-05-23 |
 | [azure-openai-landing-zone](https://github.com/Azure/azure-openai-landing-zone) | Azure Open AI Landing Zones Reference Architectures Repository | Bicep | 57 | MIT License | 2023-11-03 | 2024-07-17 |
 | [terraform-azurerm-avm-res-network-bastionhost](https://github.com/Azure/terraform-azurerm-avm-res-network-bastionhost) | Azure Verified Module for Bastion Host | HCL | 2 | MIT License | 2023-11-06 | 2024-06-10 |
-| [karpenter-provider-azure](https://github.com/Azure/karpenter-provider-azure) | AKS Karpenter Provider | Go | 323 | Apache License 2.0 | 2023-11-06 | 2024-07-18 |
+| [karpenter-provider-azure](https://github.com/Azure/karpenter-provider-azure) | AKS Karpenter Provider | Go | 327 | Apache License 2.0 | 2023-11-06 | 2024-07-22 |
 | [terraform-azurerm-avm-res-network-natgateway](https://github.com/Azure/terraform-azurerm-avm-res-network-natgateway) | Terraform Module for Nat Gateway | HCL | 4 | MIT License | 2023-11-06 | 2024-07-17 |
 | [aihub](https://github.com/Azure/aihub) | AI Hub Executive Demo HandsOn | HTML | 37 | MIT License | 2023-11-08 | 2024-07-17 |
 | [Azure-Verified-Modules-Grept](https://github.com/Azure/Azure-Verified-Modules-Grept) | Grept rules for Azure Verified Modules(aka.ms/avm) | HCL | 2 | MIT License | 2023-11-10 | 2024-07-15 |
@@ -2155,7 +2154,7 @@
 | [enterprise-azureai](https://github.com/Azure/enterprise-azureai) | Unleash the power of Azure AI to your application developers in a secure & manageable way with Azure API Management and Azure Developer CLI. | TypeScript | 75 | MIT License | 2024-01-08 | 2024-07-19 |
 | [terraform-azurerm-avm-ptn-avd-lza-insights](https://github.com/Azure/terraform-azurerm-avm-ptn-avd-lza-insights) | AVM for Azure Virtual Desktop Insights | HCL | 1 | MIT License | 2024-01-09 | 2024-07-19 |
 | [aks-middleware](https://github.com/Azure/aks-middleware) | Public facing middleware for Service Hub | Go | 5 | MIT License | 2024-01-10 | 2024-07-19 |
-| [AVDSessionHostReplacer](https://github.com/Azure/AVDSessionHostReplacer) | None | PowerShell | 27 | MIT License | 2024-01-10 | 2024-07-19 |
+| [AVDSessionHostReplacer](https://github.com/Azure/AVDSessionHostReplacer) | None | PowerShell | 28 | MIT License | 2024-01-10 | 2024-07-21 |
 | [Cerberus-Utility](https://github.com/Azure/Cerberus-Utility) | The Cerberus Utility is an implementation of the Cerberus protocol to communicate with devices that implement it. | C | 2 | MIT License | 2024-01-10 | 2024-02-15 |
 | [terraform-azurerm-avm-res-compute-sshpublickey](https://github.com/Azure/terraform-azurerm-avm-res-compute-sshpublickey) | Public SSH Key AVM module | HCL | 0 | MIT License | 2024-01-10 | 2024-07-15 |
 | [osdu-developer](https://github.com/Azure/osdu-developer) | Enabling development for the OSDU™ data platform using the Azure Cloud. | Bicep | 5 | MIT License | 2024-01-11 | 2024-07-16 |
@@ -2172,10 +2171,10 @@
 | [Databricks360](https://github.com/Azure/Databricks360) | Databricks Guidance | Python | 4 | MIT License | 2024-01-26 | 2024-06-27 |
 | [APICenter-Analyzer](https://github.com/Azure/APICenter-Analyzer) | Analyze your API Specs with Azure API Center (Preview) | Bicep | 19 | MIT License | 2024-01-30 | 2024-07-18 |
 | [avm-gh-app](https://github.com/Azure/avm-gh-app) | To gain access, please finish setting up this repository now at:  | HCL | 0 | MIT License | 2024-01-31 | 2024-04-01 |
-| [azure-arc-for-vmware-scripts](https://github.com/Azure/azure-arc-for-vmware-scripts) | Automation Scripts for Azure Arc for VMware  | PowerShell | 0 | MIT License | 2024-01-31 | 2024-07-10 |
+| [azure-arc-for-vmware-scripts](https://github.com/Azure/azure-arc-for-vmware-scripts) | Automation Scripts for Azure Arc for VMware  | PowerShell | 0 | MIT License | 2024-01-31 | 2024-07-22 |
 | [terraform-azurerm-avm-res-network-networkwatcher](https://github.com/Azure/terraform-azurerm-avm-res-network-networkwatcher) | Azure Network Watcher AVM Module | HCL | 0 | MIT License | 2024-02-02 | 2024-07-12 |
 | [SQL-Modernisation-Hack](https://github.com/Azure/SQL-Modernisation-Hack) | None | HTML | 1 | - | 2024-02-05 | 2024-05-13 |
-| [ARO-HCP](https://github.com/Azure/ARO-HCP) | None | Go | 6 | Apache License 2.0 | 2024-02-05 | 2024-07-19 |
+| [ARO-HCP](https://github.com/Azure/ARO-HCP) | None | Go | 6 | Apache License 2.0 | 2024-02-05 | 2024-07-22 |
 | [Apps-DB-Mongo-AI](https://github.com/Azure/Apps-DB-Mongo-AI) | Apps + DB Modernizing Enterprise Apps Proof of Concept for Accelerating Solutions with Cosmos DB | C# | 2 | MIT License | 2024-02-05 | 2024-02-13 |
 | [terraform-azurerm-avm-res-recoveryservices-vault](https://github.com/Azure/terraform-azurerm-avm-res-recoveryservices-vault) | terraform-azurerm-avm-res-recoveryservices-vault | HCL | 1 | MIT License | 2024-02-05 | 2024-07-17 |
 | [terraform-azurerm-avm-res-kusto-cluster](https://github.com/Azure/terraform-azurerm-avm-res-kusto-cluster) | None | HCL | 0 | MIT License | 2024-02-06 | 2024-06-11 |
@@ -2191,7 +2190,7 @@
 | [openai-landing-zone-hack](https://github.com/Azure/openai-landing-zone-hack) | None | None | 1 | MIT License | 2024-02-20 | 2024-03-11 |
 | [httpx](https://github.com/Azure/httpx) | None | Go | 1 | MIT License | 2024-02-20 | 2024-03-06 |
 | [ISD-Skills-Guild](https://github.com/Azure/ISD-Skills-Guild) | None | None | 0 | MIT License | 2024-02-21 | 2024-05-01 |
-| [Copilot-For-Security](https://github.com/Azure/Copilot-For-Security) | Microsoft Copilot for Security is a generative AI-powered security solution that helps increase the efficiency and capabilities of defenders to improve security outcomes at machine speed and scale, while remaining compliant to responsible AI principles | PowerShell | 384 | MIT License | 2024-02-21 | 2024-07-19 |
+| [Copilot-For-Security](https://github.com/Azure/Copilot-For-Security) | Microsoft Copilot for Security is a generative AI-powered security solution that helps increase the efficiency and capabilities of defenders to improve security outcomes at machine speed and scale, while remaining compliant to responsible AI principles | PowerShell | 385 | MIT License | 2024-02-21 | 2024-07-21 |
 | [solution-accelerator-aml-many-models-v2](https://github.com/Azure/solution-accelerator-aml-many-models-v2) | solution accelerator for many-models in azureml using sdk v2 | Jupyter Notebook | 1 | MIT License | 2024-02-21 | 2024-06-04 |
 | [azure-extensions-common](https://github.com/Azure/azure-extensions-common) | This is a Rust equivalent of azure-extensions-platform. Eventually it will contain common code for all extensions in Rust. | Rust | 0 | MIT License | 2024-02-22 | 2024-02-22 |
 | [azure-ai-support](https://github.com/Azure/azure-ai-support) | Customer support tools for Azure AI | None | 0 | MIT License | 2024-02-23 | 2024-03-13 |
@@ -2224,10 +2223,10 @@
 | [retry](https://github.com/Azure/retry) | Packages for retrying function or method calls in a safe manner | Go | 0 | MIT License | 2024-03-25 | 2024-03-25 |
 | [terraform-azurerm-avm-res-network-applicationsecuritygroup](https://github.com/Azure/terraform-azurerm-avm-res-network-applicationsecuritygroup) | To gain access, please finish setting up this repository now at:  | HCL | 1 | MIT License | 2024-03-29 | 2024-07-19 |
 | [azure-sql-feedback-hub](https://github.com/Azure/azure-sql-feedback-hub) | A consolidated list of links where to report feedback and ideas on Azure SQL and related technologies | None | 6 | MIT License | 2024-04-03 | 2024-04-15 |
-| [aml-deep-learning-examples](https://github.com/Azure/aml-deep-learning-examples) | Using Azure Machine Learning | Jupyter Notebook | 3 | MIT License | 2024-04-04 | 2024-06-27 |
+| [aml-deep-learning-examples](https://github.com/Azure/aml-deep-learning-examples) | Using Azure Machine Learning | Jupyter Notebook | 4 | MIT License | 2024-04-04 | 2024-07-22 |
 | [terraform-azurerm-avm-ptn-function-app-storage-private-endpoints](https://github.com/Azure/terraform-azurerm-avm-ptn-function-app-storage-private-endpoints) | None | HCL | 1 | MIT License | 2024-04-04 | 2024-06-22 |
 | [terraform-azurerm-avm-res-cache-redis](https://github.com/Azure/terraform-azurerm-avm-res-cache-redis) | To gain access, please finish setting up this repository now at:  | HCL | 0 | MIT License | 2024-04-05 | 2024-07-15 |
-| [golden](https://github.com/Azure/golden) | None | Go | 2 | MIT License | 2024-04-09 | 2024-07-20 |
+| [golden](https://github.com/Azure/golden) | None | Go | 2 | MIT License | 2024-04-09 | 2024-07-21 |
 | [mapotf](https://github.com/Azure/mapotf) | None | Go | 4 | MIT License | 2024-04-10 | 2024-07-18 |
 | [terraform-azurerm-avm-res-insights-component](https://github.com/Azure/terraform-azurerm-avm-res-insights-component) | AVM Terraform Module for Application Insights | HCL | 1 | MIT License | 2024-04-11 | 2024-07-11 |
 | [terraform-azurerm-avm-res-network-routeserver](https://github.com/Azure/terraform-azurerm-avm-res-network-routeserver) | Azure Verified Terraform Module for route server resource | HCL | 0 | MIT License | 2024-04-16 | 2024-07-12 |
@@ -2257,13 +2256,13 @@
 | [terraform-azurerm-avm-res-sql-managedinstance](https://github.com/Azure/terraform-azurerm-avm-res-sql-managedinstance) | None | None | 0 | MIT License | 2024-05-02 | 2024-05-09 |
 | [The-LLM-Latency-Guidebook-Optimizing-Response-Times-for-GenAI-Applications](https://github.com/Azure/The-LLM-Latency-Guidebook-Optimizing-Response-Times-for-GenAI-Applications) | There are many articles that cover the principles of reducing latency optimization for LLMs, however it is often unclear how to actually implement these principles. This repository provides practical techniques for reducing the latency of GenAI applications. | Jupyter Notebook | 9 | MIT License | 2024-05-06 | 2024-07-17 |
 | [kubernetes-lab-files](https://github.com/Azure/kubernetes-lab-files) | None | C# | 0 | MIT License | 2024-05-07 | 2024-05-21 |
-| [oneesrunnerscleaner](https://github.com/Azure/oneesrunnerscleaner) | None | Go | 0 | MIT License | 2024-05-10 | 2024-05-13 |
+| [oneesrunnerscleaner](https://github.com/Azure/oneesrunnerscleaner) | None | Go | 0 | MIT License | 2024-05-10 | 2024-07-22 |
 | [terraform-azurerm-avm-ptn-network-routeserver](https://github.com/Azure/terraform-azurerm-avm-ptn-network-routeserver) | This is the AVM respository for the route server resource. | HCL | 0 | MIT License | 2024-05-13 | 2024-07-17 |
 | [azure-functions-vscode-web](https://github.com/Azure/azure-functions-vscode-web) | The VS Code for the Web experience for Azure Functions starting from the Azure Portal | None | 0 | Other | 2024-05-15 | 2024-05-23 |
 | [azure-event-hubs-emulator-installer](https://github.com/Azure/azure-event-hubs-emulator-installer) | This repository acts as a central hub for handling issues, collecting feedback, and facilitating discussions related to the Azure Event Hubs emulator. | C# | 18 | MIT License | 2024-05-20 | 2024-07-15 |
 | [aks-async](https://github.com/Azure/aks-async) | Public facing interfaces for async operations implementation. | Go | 0 | - | 2024-05-25 | 2024-06-24 |
-| [terraform-azapi-avm-res-site-manager](https://github.com/Azure/terraform-azapi-avm-res-site-manager) | terraform avm module for resource site manager | HCL | 0 | MIT License | 2024-05-27 | 2024-07-18 |
-| [azure-llm-fine-tuning](https://github.com/Azure/azure-llm-fine-tuning) | This hands-on walks you through fine-tuning an open source LLM on Azure and serving the fine-tuned model on Azure. It is intended for Data Scientists and ML engineers who have experience with fine-tuning but are unfamiliar with Azure ML. | Python | 21 | MIT License | 2024-05-30 | 2024-07-17 |
+| [terraform-azapi-avm-ptn-site-manager](https://github.com/Azure/terraform-azapi-avm-ptn-site-manager) | terraform avm module for resource site manager | HCL | 0 | MIT License | 2024-05-27 | 2024-07-22 |
+| [azure-llm-fine-tuning](https://github.com/Azure/azure-llm-fine-tuning) | This hands-on walks you through fine-tuning an open source LLM on Azure and serving the fine-tuned model on Azure. It is intended for Data Scientists and ML engineers who have experience with fine-tuning but are unfamiliar with Azure ML. | Python | 22 | MIT License | 2024-05-30 | 2024-07-22 |
 | [tattler](https://github.com/Azure/tattler) | Packages for a K8 API  Server object information pipeline | Go | 0 | MIT License | 2024-05-30 | 2024-07-18 |
 | [arm-template-parser](https://github.com/Azure/arm-template-parser) | This is a tool that leverages Microsoft libraries to parse ARM templates offline. It fills out the parameters and interprets any statements to produce an array of resources in json format. The use case for the tool is local parsing of templates as part of automation. | C# | 3 | MIT License | 2024-06-03 | 2024-07-16 |
 | [streamliner](https://github.com/Azure/streamliner) | Samples programs to receive Azure Schedule Events | None | 0 | MIT License | 2024-06-04 | 2024-06-06 |
@@ -2290,6 +2289,7 @@
 | [graphrag-accelerator](https://github.com/Azure/graphrag-accelerator) | One-click deploy of a Knowledge Graph powered RAG (GraphRAG) in Azure | None | 0 | MIT License | 2024-07-18 | 2024-07-18 |
 | [terraform-azapi-avm-res-hci](https://github.com/Azure/terraform-azapi-avm-res-hci) | None | HCL | 0 | MIT License | 2024-07-18 | 2024-07-18 |
 | [terraform-azapi-avm-res-hci-provisioners](https://github.com/Azure/terraform-azapi-avm-res-hci-provisioners) | None | HCL | 0 | MIT License | 2024-07-19 | 2024-07-19 |
+| [azure-cleanroom-samples](https://github.com/Azure/azure-cleanroom-samples) | Samples repository for Azure Clean Room | None | 0 | MIT License | 2024-07-22 | 2024-07-22 |
 | [active-directory-node-webapi](https://github.com/Azure-Samples/active-directory-node-webapi) | A NodeJS web API that is secured using Azure AD and OAuth 2.0 access tokens. | None | 105 | - | 2014-02-04 | 2023-01-28 |
 | [active-directory-php-graphapi-directoryextensions-web](https://github.com/Azure-Samples/active-directory-php-graphapi-directoryextensions-web) | A PHP web application that calls the Graph API to register new directory extensions and manipulate the extension properties  | PHP | 10 | MIT License | 2014-02-20 | 2024-07-19 |
 | [active-directory-dotnet-graphapi-directoryextensions-web](https://github.com/Azure-Samples/active-directory-dotnet-graphapi-directoryextensions-web) | An .NET 4.5 web app that uses the Azure AD Graph API to add custom properties using directory extensions. | None | 11 | - | 2014-02-20 | 2023-07-15 |
@@ -2478,7 +2478,7 @@
 | [storage-node-resource-provider-getting-started](https://github.com/Azure-Samples/storage-node-resource-provider-getting-started) | The getting started sample demonstrates how to perform common tasks using the Azure Storage Resource Provider in node.js including creating a storage account, updating a storage account, listing all storage accounts for a subscription, as well as getting the storage account properties.  | JavaScript | 0 | MIT License | 2016-06-09 | 2023-11-16 |
 | [compute-node-manage-vm](https://github.com/Azure-Samples/compute-node-manage-vm) | This sample demonstrates how to manage your Azure virtual machines using a node.js client | JavaScript | 16 | MIT License | 2016-06-10 | 2024-03-10 |
 | [network-python-manage-loadbalancer](https://github.com/Azure-Samples/network-python-manage-loadbalancer) | An example illustrating how to use Python to manage your Azure load balancers | Python | 3 | MIT License | 2016-06-10 | 2024-02-15 |
-| [virtual-machines-python-manage](https://github.com/Azure-Samples/virtual-machines-python-manage) | An example illustrating how to use Python to manage your Azure Virtual Machines | Python | 103 | MIT License | 2016-06-10 | 2024-06-17 |
+| [virtual-machines-python-manage](https://github.com/Azure-Samples/virtual-machines-python-manage) | An example illustrating how to use Python to manage your Azure Virtual Machines | Python | 104 | MIT License | 2016-06-10 | 2024-07-22 |
 | [app-service-web-python-manage](https://github.com/Azure-Samples/app-service-web-python-manage) | This sample demonstrates how to manage your WebApps using the Python SDK | Python | 6 | MIT License | 2016-06-10 | 2024-07-19 |
 | [cloud-services-for-iot](https://github.com/Azure-Samples/cloud-services-for-iot) | This sample will demonstrate how Cloud Service Providers (CSP) can deploy a Cloud Service solution for IoT (Internet of Things) | C# | 3 | MIT License | 2016-06-11 | 2023-12-07 |
 | [Cognitive-Speech-STT-iOS](https://github.com/Azure-Samples/Cognitive-Speech-STT-iOS) | iOS SDK for the Microsoft Speech-to-Text API, part of Cognitive Services | Objective-C | 49 | Other | 2016-06-13 | 2023-09-16 |
@@ -2538,7 +2538,7 @@
 | [storage-blobs-dotnet-export-import-excel-blob-to-from-db](https://github.com/Azure-Samples/storage-blobs-dotnet-export-import-excel-blob-to-from-db) | This sample demonstrates how to import the worksheet Azure Excel file blob to DB on the Azure SQL Server and how to export from DB to Azure Excel blob. | JavaScript | 2 | MIT License | 2016-08-05 | 2024-06-16 |
 | [storage-table-python-getting-started](https://github.com/Azure-Samples/storage-table-python-getting-started) | This sample demonstrates how to make a use of modules provided by Microsoft Azure Table Service in Python. | Python | 14 | MIT License | 2016-08-08 | 2023-10-12 |
 | [storage-blob-python-getting-started](https://github.com/Azure-Samples/storage-blob-python-getting-started) | This sample demonstrates how to make a use of modules provided by Microsoft Azure Blob Service in Python. | Python | 15 | MIT License | 2016-08-08 | 2023-08-02 |
-| [virtual-machines-go-manage](https://github.com/Azure-Samples/virtual-machines-go-manage) | This package demonstrates how to manage Azure virtual machines using Go | None | 5 | MIT License | 2016-08-08 | 2023-10-12 |
+| [virtual-machines-go-manage](https://github.com/Azure-Samples/virtual-machines-go-manage) | This package demonstrates how to manage Azure virtual machines using Go | None | 6 | MIT License | 2016-08-08 | 2024-07-22 |
 | [storage-dotnet-import-export-job-management](https://github.com/Azure-Samples/storage-dotnet-import-export-job-management) | This sample demonstrates how to create and manage Import Export jobs for classic resource provider using REST API. | C# | 1 | MIT License | 2016-08-09 | 2023-11-16 |
 | [documentdb-dotnet-getting-started-quickstart](https://github.com/Azure-Samples/documentdb-dotnet-getting-started-quickstart) | documentdb-dotnet-getting-started-qs | C# | 2 | MIT License | 2016-08-18 | 2023-01-28 |
 | [cloud-services-dotnet-import-set-certificate](https://github.com/Azure-Samples/cloud-services-dotnet-import-set-certificate) | This C# project demonstrates several ways about how to import certificate to cloud service instance certificate store and set account acl on it | C# | 0 | - | 2016-08-23 | 2023-01-28 |
@@ -2594,7 +2594,7 @@
 | [network-go-manage-loadbalancer](https://github.com/Azure-Samples/network-go-manage-loadbalancer) | An example illustrating how to use Go to manage your Azure load balancers | None | 3 | - | 2016-10-06 | 2023-11-16 |
 | [Cognitive-Speech-STT-ServiceLibrary](https://github.com/Azure-Samples/Cognitive-Speech-STT-ServiceLibrary) | Service SDK - C# Samples, documentation for service to service speech to text | None | 22 | - | 2016-10-07 | 2023-01-28 |
 | [storage-file-python-getting-started](https://github.com/Azure-Samples/storage-file-python-getting-started) | This sample demonstrates how to make a use of modules provided by Microsoft Azure File Service in Python. | Python | 11 | MIT License | 2016-10-09 | 2022-05-30 |
-| [virtual-machines-powershell-create](https://github.com/Azure-Samples/virtual-machines-powershell-create) | This sample demonstrates how to create Azure VM by Powershell using ARM API | PowerShell | 9 | - | 2016-10-09 | 2023-10-12 |
+| [virtual-machines-powershell-create](https://github.com/Azure-Samples/virtual-machines-powershell-create) | This sample demonstrates how to create Azure VM by Powershell using ARM API | PowerShell | 10 | - | 2016-10-09 | 2024-07-22 |
 | [hdinsight-dotnet-odbc-spark-sql](https://github.com/Azure-Samples/hdinsight-dotnet-odbc-spark-sql) | This is a sample application illustrating how to run Spark SQL queries in .NET using OBDC drivers | C# | 0 | - | 2016-10-09 | 2023-11-16 |
 | [storage-blobs-powershell-cache-control](https://github.com/Azure-Samples/storage-blobs-powershell-cache-control) | How to set storage blob cache-control Properties by PowerShell script | PowerShell | 3 | - | 2016-10-10 | 2023-11-16 |
 | [virtual-machines-powershell-auto-expired](https://github.com/Azure-Samples/virtual-machines-powershell-auto-expired) | How to set expired date of Azure Virtual Machine by PowerShell | PowerShell | 0 | - | 2016-10-10 | 2023-10-12 |
@@ -2671,7 +2671,7 @@
 | [data-lake-python-client](https://github.com/Azure-Samples/data-lake-python-client) | Sample Python app for Data Lake Analytics and Data Lake Store, built upon the Data Lake Python SDKs. | Jupyter Notebook | 4 | - | 2017-01-09 | 2023-10-12 |
 | [network-go-manage-network-interface](https://github.com/Azure-Samples/network-go-manage-network-interface) | Manage multiples network interfaces for VMs in Go- create a VM with multiple network interfaces, configure multiple network interfaces, list network interfaces, delete a network interface | Go | 1 | MIT License | 2017-01-09 | 2023-11-16 |
 | [virtual-machines-python-scheduled-events-central-logging](https://github.com/Azure-Samples/virtual-machines-python-scheduled-events-central-logging) | Use scheduled events to create a central log of all maintenance (and other) events  | Python | 5 | MIT License | 2017-01-10 | 2023-12-15 |
-| [virtual-machines-scheduled-events-discover-endpoint-for-non-vnet-vm](https://github.com/Azure-Samples/virtual-machines-scheduled-events-discover-endpoint-for-non-vnet-vm) | Repository with sample usage of the Azure Scheduled Events Service in different languages | Python | 9 | - | 2017-01-10 | 2024-04-25 |
+| [virtual-machines-scheduled-events-discover-endpoint-for-non-vnet-vm](https://github.com/Azure-Samples/virtual-machines-scheduled-events-discover-endpoint-for-non-vnet-vm) | Repository with sample usage of the Azure Scheduled Events Service in different languages | Python | 10 | - | 2017-01-10 | 2024-07-22 |
 | [service-fabric-containers](https://github.com/Azure-Samples/service-fabric-containers) | This sample demonstrate two guest executable services communicating (one C# and one Nodejs) which are then packaged into docker containers | PowerShell | 71 | MIT License | 2017-01-12 | 2022-09-19 |
 | [service-fabric-dotnet-standalone-cluster-configuration](https://github.com/Azure-Samples/service-fabric-dotnet-standalone-cluster-configuration) | Templates for Service Fabric Standalone cluster configurations. | None | 36 | - | 2017-01-18 | 2024-04-30 |
 | [vsts-dotnet-build-aspnet-core-docker-image](https://github.com/Azure-Samples/vsts-dotnet-build-aspnet-core-docker-image) | This sample demonstrates how to build ASP.NET Core application to Docker images in VSTS | C# | 1 | - | 2017-01-18 | 2023-10-12 |
@@ -2718,7 +2718,7 @@
 | [iot-hub-Feather-M0-WiFi-client-app](https://github.com/Azure-Samples/iot-hub-Feather-M0-WiFi-client-app) | Application collects weather data from a BME280 sensor and sends it to IoT hub, also take actions according to cloud-to-device message. | Arduino | 2 | MIT License | 2017-03-14 | 2023-11-22 |
 | [network-python-manage-application-gateway](https://github.com/Azure-Samples/network-python-manage-application-gateway) | An example illustrating how to use Python to manage Azure Application Gateway | Python | 0 | MIT License | 2017-03-14 | 2023-11-16 |
 | [active-directory-b2c-dotnet-webapp-and-webapi](https://github.com/Azure-Samples/active-directory-b2c-dotnet-webapp-and-webapi) | A combined sample for a .NET web application that calls a .NET web API, both secured using Azure AD B2C | JavaScript | 265 | MIT License | 2017-03-14 | 2024-06-24 |
-| [nodejs-docs-hello-world](https://github.com/Azure-Samples/nodejs-docs-hello-world) | A simple nodejs application for docs | JavaScript | 397 | MIT License | 2017-03-16 | 2024-07-20 |
+| [nodejs-docs-hello-world](https://github.com/Azure-Samples/nodejs-docs-hello-world) | A simple nodejs application for docs | JavaScript | 398 | MIT License | 2017-03-16 | 2024-07-22 |
 | [storage-dotnet-rest-api-with-auth](https://github.com/Azure-Samples/storage-dotnet-rest-api-with-auth) | How to use REST with the Azure Storage Services, including how to create the authentication headings. | C# | 30 | MIT License | 2017-03-17 | 2024-07-11 |
 | [managed-disks-powershell-getting-started](https://github.com/Azure-Samples/managed-disks-powershell-getting-started) | This repo contains sample Powershell scripts for various scenarios of using Azure Managed Disks | PowerShell | 28 | MIT License | 2017-03-18 | 2023-08-29 |
 | [iot-edge-samples](https://github.com/Azure-Samples/iot-edge-samples) | Sample modules written in different languages running on Azure IoT Edge v1. | C# | 30 | MIT License | 2017-03-19 | 2024-05-08 |
@@ -2854,7 +2854,7 @@
 | [aad-dotnet-browse-graph-and-manage-roles](https://github.com/Azure-Samples/aad-dotnet-browse-graph-and-manage-roles) | Getting started on browsing graph (users, groups and members) and managing roles using C# | C# | 3 | MIT License | 2017-06-16 | 2023-11-16 |
 | [aad-dotnet-manage-passwords](https://github.com/Azure-Samples/aad-dotnet-manage-passwords) | Getting started on managing passwords using C# | C# | 2 | MIT License | 2017-06-16 | 2023-12-15 |
 | [app-service-dotnet-deploy-image-from-acr-to-linux](https://github.com/Azure-Samples/app-service-dotnet-deploy-image-from-acr-to-linux) | Deploy a container image from Azure Container Registry to Linux containers in App Service using C# | C# | 0 | MIT License | 2017-06-16 | 2024-01-17 |
-| [virtual-machines-python-vm-data-list](https://github.com/Azure-Samples/virtual-machines-python-vm-data-list) | This sample generates a list of VMs and associated disks that allows you to examine the deployed resources. | Python | 8 | MIT License | 2017-06-16 | 2023-10-12 |
+| [virtual-machines-python-vm-data-list](https://github.com/Azure-Samples/virtual-machines-python-vm-data-list) | This sample generates a list of VMs and associated disks that allows you to examine the deployed resources. | Python | 9 | MIT License | 2017-06-16 | 2024-07-22 |
 | [azure-voting-app](https://github.com/Azure-Samples/azure-voting-app) | Sample application used on docs.microsoft.com. | Python | 19 | MIT License | 2017-06-17 | 2024-01-29 |
 | [azure-functions-create-ics-file-using-csharp-sample](https://github.com/Azure-Samples/azure-functions-create-ics-file-using-csharp-sample) | Learn how to create an ICS file using Azure Functions and C# programming language | C# | 4 | MIT License | 2017-06-19 | 2023-09-15 |
 | [powerbi-powershell](https://github.com/Azure-Samples/powerbi-powershell) | Samples for calling the Power BI REST API via PowerShell | PowerShell | 255 | MIT License | 2017-06-20 | 2024-07-08 |
@@ -3157,8 +3157,8 @@
 | [azure-iot-samples-csharp](https://github.com/Azure-Samples/azure-iot-samples-csharp) | Provides a set of easy-to-understand samples for using Azure IoT Hub and Azure IoT Hub Device Provisioning Service and Azure IoT Plug and Play using C# SDK. | C# | 195 | MIT License | 2018-04-24 | 2024-06-30 |
 | [azure-iot-samples-java](https://github.com/Azure-Samples/azure-iot-samples-java) | azure-iot-samples-java provides a set of easy-to-understand, continuously-tested samples for using Azure IoT Hub and Azure IoT Hub Device Provisioning Service using Java SDK. | None | 27 | MIT License | 2018-04-24 | 2023-10-12 |
 | [azure-iot-samples-python](https://github.com/Azure-Samples/azure-iot-samples-python) | azure-iot-samples-python provides a set of easy-to-understand, continuously-tested samples for using Azure IoT Hub and Azure IoT Hub Device Provisioning Service using Python SDK. | Python | 88 | MIT License | 2018-04-24 | 2024-06-30 |
-| [active-directory-aspnetcore-webapp-openidconnect-v2](https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2) | An ASP.NET Core Web App which lets sign-in users (including in your org, many orgs, orgs + personal accounts, sovereign clouds) and call Web APIs (including Microsoft Graph) | PowerShell | 1351 | MIT License | 2018-04-25 | 2024-07-20 |
-| [cognitive-services-speech-sdk](https://github.com/Azure-Samples/cognitive-services-speech-sdk) | Sample code for the Microsoft Cognitive Services Speech SDK | C# | 2710 | MIT License | 2018-04-26 | 2024-07-20 |
+| [active-directory-aspnetcore-webapp-openidconnect-v2](https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2) | An ASP.NET Core Web App which lets sign-in users (including in your org, many orgs, orgs + personal accounts, sovereign clouds) and call Web APIs (including Microsoft Graph) | PowerShell | 1351 | MIT License | 2018-04-25 | 2024-07-21 |
+| [cognitive-services-speech-sdk](https://github.com/Azure-Samples/cognitive-services-speech-sdk) | Sample code for the Microsoft Cognitive Services Speech SDK | C# | 2711 | MIT License | 2018-04-26 | 2024-07-22 |
 | [key-vault-java-managed-storage](https://github.com/Azure-Samples/key-vault-java-managed-storage) | Samples for use with managed storage account keys for key vault | Java | 0 | MIT License | 2018-04-26 | 2024-02-15 |
 | [data-lake-analytics-create-account-with-arm-template](https://github.com/Azure-Samples/data-lake-analytics-create-account-with-arm-template) | Create a Data Lake Analytics account using a template | None | 0 | MIT License | 2018-04-29 | 2023-11-16 |
 | [active-directory-b2c-android-appauth-ropc](https://github.com/Azure-Samples/active-directory-b2c-android-appauth-ropc) | An Android sample that demonstrates how to use AppAuth to sign into Azure AD B2C using ROPC | Java | 5 | Apache License 2.0 | 2018-04-30 | 2022-05-11 |
@@ -3178,7 +3178,7 @@
 | [active-directory-b2c-training-course](https://github.com/Azure-Samples/active-directory-b2c-training-course) | Source and tools for learning how to use Azure Active Directory B2C | C# | 16 | MIT License | 2018-05-05 | 2023-11-16 |
 | [xamarin-azure-businessreview](https://github.com/Azure-Samples/xamarin-azure-businessreview) | Demo app showing how to use several Azure services with Xamarin including Azure AD B2C, Azure Cosmos DB, Azure Functions, Azure App Services, and Azure Media Services | C# | 46 | MIT License | 2018-05-07 | 2023-11-16 |
 | [iotedge-scott-or-not](https://github.com/Azure-Samples/iotedge-scott-or-not) | Sample of running an IoT Edge application on both a Windows PC and a Raspberry Pi 3, and ability to use your own custom vision models. | Python | 22 | MIT License | 2018-05-07 | 2024-06-17 |
-| [AzureMapsCodeSamples](https://github.com/Azure-Samples/AzureMapsCodeSamples) | A set of code samples for the Azure Maps web control. | JavaScript | 309 | MIT License | 2018-05-07 | 2024-07-16 |
+| [AzureMapsCodeSamples](https://github.com/Azure-Samples/AzureMapsCodeSamples) | A set of code samples for the Azure Maps web control. | JavaScript | 310 | MIT License | 2018-05-07 | 2024-07-21 |
 | [aci-vsts-pr-reviewer-logicapps-servicebus](https://github.com/Azure-Samples/aci-vsts-pr-reviewer-logicapps-servicebus) | A VSTS pull request review service, built on Azure Container Instance, Azure Logic App and Azure Service Bus. | None | 8 | MIT License | 2018-05-10 | 2023-12-15 |
 | [key-vault-java-network-acl](https://github.com/Azure-Samples/key-vault-java-network-acl) | Vnet/IP ACL sample for Azure Key Vault using the Azure Java SDK | Java | 0 | MIT License | 2018-05-14 | 2024-02-15 |
 | [media-services-v3-rest-postman](https://github.com/Azure-Samples/media-services-v3-rest-postman) | The postman collection in this repository contains REST calls to Azure Media Services v3 APIs. | None | 1 | MIT License | 2018-05-14 | 2022-03-24 |
@@ -3287,7 +3287,7 @@
 | [active-directory-dotnetcore-console-up-v2](https://github.com/Azure-Samples/active-directory-dotnetcore-console-up-v2) | A .NET Core console application which gets an access token to call Microsoft Graph using a username and password | C# | 78 | MIT License | 2018-10-16 | 2024-07-10 |
 | [ignite-tour-lp1s1](https://github.com/Azure-Samples/ignite-tour-lp1s1) | Code for the Ignite Tour 2018/2019 | C# | 3 | MIT License | 2018-10-16 | 2023-11-16 |
 | [AI-Gallery](https://github.com/Azure-Samples/AI-Gallery) | Gallery of Azure AI assets | JavaScript | 2 | MIT License | 2018-10-16 | 2023-12-15 |
-| [iot-edge-opc-plc](https://github.com/Azure-Samples/iot-edge-opc-plc) | Sample OPC UA server with nodes that generate random and increasing data, anomalies and much more ... | C# | 214 | MIT License | 2018-10-17 | 2024-07-18 |
+| [iot-edge-opc-plc](https://github.com/Azure-Samples/iot-edge-opc-plc) | Sample OPC UA server with nodes that generate random and increasing data, anomalies and much more ... | C# | 215 | MIT License | 2018-10-17 | 2024-07-22 |
 | [iot-edge-opc-client](https://github.com/Azure-Samples/iot-edge-opc-client) | An OPC UA client able to run OPC operations on an OPC UA server | C# | 23 | MIT License | 2018-10-17 | 2024-07-10 |
 | [iot-edge-sample-java](https://github.com/Azure-Samples/iot-edge-sample-java) | Azure IoT Edge Sample project for Java | Java | 0 | - | 2018-10-17 | 2023-11-16 |
 | [iot-edge-sample-dotnet](https://github.com/Azure-Samples/iot-edge-sample-dotnet) | Azure IoT Edge Sample project for .NET | C# | 1 | - | 2018-10-17 | 2023-11-16 |
@@ -3396,7 +3396,7 @@
 | [azure-search-dotnet-samples](https://github.com/Azure-Samples/azure-search-dotnet-samples) | Azure Search .NET sample code | C# | 117 | MIT License | 2019-04-01 | 2024-05-21 |
 | [azure-search-java-samples](https://github.com/Azure-Samples/azure-search-java-samples) | Azure Search Java sample code | Java | 2 | MIT License | 2019-04-01 | 2023-08-29 |
 | [azure-search-javascript-samples](https://github.com/Azure-Samples/azure-search-javascript-samples) | Azure Search Javascript sample code | JavaScript | 23 | MIT License | 2019-04-01 | 2024-04-06 |
-| [azure-search-python-samples](https://github.com/Azure-Samples/azure-search-python-samples) | Azure Search Python sample code | Jupyter Notebook | 67 | MIT License | 2019-04-01 | 2024-07-15 |
+| [azure-search-python-samples](https://github.com/Azure-Samples/azure-search-python-samples) | Azure Search Python sample code | Jupyter Notebook | 68 | MIT License | 2019-04-01 | 2024-07-22 |
 | [azure-search-powershell-samples](https://github.com/Azure-Samples/azure-search-powershell-samples) | Azure Search Powershell sample code | PowerShell | 6 | MIT License | 2019-04-01 | 2023-05-12 |
 | [aml-hardware-accelerated-models](https://github.com/Azure-Samples/aml-hardware-accelerated-models) | Sample client code for Azure ML HW Accelerated Models Powered by Project Brainwave | Python | 6 | MIT License | 2019-04-02 | 2022-08-12 |
 | [DataPrep.Net](https://github.com/Azure-Samples/DataPrep.Net) | The Data Prep SDK is used to load, transform, and write data for machine learning workflows. You can interact with the SDK in any dotnetcore environment.  | None | 5 | MIT License | 2019-04-02 | 2023-12-15 |
@@ -3411,7 +3411,7 @@
 | [media-services-v3-dotnet](https://github.com/Azure-Samples/media-services-v3-dotnet) | The projects in this repository show how to implement different Azure Media Services scenarios using the v3 version.  | C# | 57 | MIT License | 2019-04-17 | 2023-06-13 |
 | [media-services-v3-java](https://github.com/Azure-Samples/media-services-v3-java) | Azure Media Service v3 Java SDK samples | Java | 7 | MIT License | 2019-04-18 | 2023-04-24 |
 | [DynamicsConnector](https://github.com/Azure-Samples/DynamicsConnector) | The samples show how to sync custom DB table storage with Dynamics CRM entities | C# | 5 | MIT License | 2019-04-19 | 2023-11-16 |
-| [azure-search-rest-samples](https://github.com/Azure-Samples/azure-search-rest-samples) | None | None | 53 | MIT License | 2019-04-25 | 2024-07-15 |
+| [azure-search-rest-samples](https://github.com/Azure-Samples/azure-search-rest-samples) | None | None | 54 | MIT License | 2019-04-25 | 2024-07-22 |
 | [iotedge-end2end-messageflow](https://github.com/Azure-Samples/iotedge-end2end-messageflow) | End-to-end solution for testing an Azure IoT Edge pipeline | C# | 4 | MIT License | 2019-04-25 | 2023-11-16 |
 | [azure-search-knowledge-mining](https://github.com/Azure-Samples/azure-search-knowledge-mining) | Azure Search Knowledge Mining Accelerator | CSS | 365 | MIT License | 2019-04-25 | 2024-07-20 |
 | [cognitive-services-personalizer-samples](https://github.com/Azure-Samples/cognitive-services-personalizer-samples) | Samples for the Microsoft personalizer | Java | 52 | MIT License | 2019-04-30 | 2024-05-15 |
@@ -3620,7 +3620,7 @@
 | [functions-docs-powershell](https://github.com/Azure-Samples/functions-docs-powershell) | PowerShell samples that support Azure Functions docs | PowerShell | 7 | MIT License | 2020-01-22 | 2024-03-20 |
 | [azure-maps-services-ui](https://github.com/Azure-Samples/azure-maps-services-ui) | A set of web UI controls that wrap the Azure Maps REST services. | TypeScript | 7 | MIT License | 2020-01-24 | 2024-04-15 |
 | [cosmos-management-net](https://github.com/Azure-Samples/cosmos-management-net) | Azure Management Library .net samples for Cosmos DB (Preview) | C# | 1 | MIT License | 2020-01-24 | 2023-04-07 |
-| [IoTDemos](https://github.com/Azure-Samples/IoTDemos) | Demos created by the IoT Engineering team that showcase IoT services in an end-to-end solution | CSS | 173 | MIT License | 2020-01-28 | 2024-06-18 |
+| [IoTDemos](https://github.com/Azure-Samples/IoTDemos) | Demos created by the IoT Engineering team that showcase IoT services in an end-to-end solution | CSS | 174 | MIT License | 2020-01-28 | 2024-07-21 |
 | [azure-cosmos-cassandra-extensions-java-sample](https://github.com/Azure-Samples/azure-cosmos-cassandra-extensions-java-sample) | Java code sample for handling rate limiting and retries in Cassandra API using Cosmos retry policy extension | Java | 3 | MIT License | 2020-01-30 | 2024-02-15 |
 | [azure-functions-event-grid-terraform](https://github.com/Azure-Samples/azure-functions-event-grid-terraform) | This sample shows how to create Storage Event subscriptions to Azure Functions, publish events to a custom Event Grid topic, and deploy it all with Terraform | HCL | 29 | MIT License | 2020-02-03 | 2024-02-11 |
 | [active-directory-javascript-singlepageapp-angular](https://github.com/Azure-Samples/active-directory-javascript-singlepageapp-angular) | Demonstrates how to use MSAL Angular to login, logout, protect a route, and acquire an access token for a protected resource such as Microsoft Graph. | TypeScript | 46 | - | 2020-02-06 | 2023-11-16 |
@@ -3651,7 +3651,7 @@
 | [functions-python-pytorch-tutorial](https://github.com/Azure-Samples/functions-python-pytorch-tutorial) | Use Python, PyTorch, and Azure Functions to classify an image | Python | 23 | MIT License | 2020-02-28 | 2024-05-11 |
 | [azure-cosmos-java-sql-api-samples](https://github.com/Azure-Samples/azure-cosmos-java-sql-api-samples) | Sample code for Azure Cosmos DB Java SDK for SQL API | Java | 38 | MIT License | 2020-03-03 | 2024-04-03 |
 | [TransformXMLandStoreIntoCosmosdb](https://github.com/Azure-Samples/TransformXMLandStoreIntoCosmosdb) | In this post i have used sample xml file and transformed it using Apache Spark by leveraging Azure Databricks. Finally, stored transformed data to Azure CosmosDB.  | None | 0 | MIT License | 2020-03-05 | 2024-02-15 |
-| [azure-mfa-authentication-method-analysis](https://github.com/Azure-Samples/azure-mfa-authentication-method-analysis) | Analyses Azure AD users to make recommendations on how to improve each user's MFA configuration. Can target a group by ObjectId or analyse all users in a tenant. Can add user-specific location information and produce a CSV report. | PowerShell | 47 | MIT License | 2020-03-06 | 2024-07-19 |
+| [azure-mfa-authentication-method-analysis](https://github.com/Azure-Samples/azure-mfa-authentication-method-analysis) | Analyses Azure AD users to make recommendations on how to improve each user's MFA configuration. Can target a group by ObjectId or analyse all users in a tenant. Can add user-specific location information and produce a CSV report. | PowerShell | 48 | MIT License | 2020-03-06 | 2024-07-21 |
 | [ms-identity-dotnet-desktop-tutorial](https://github.com/Azure-Samples/ms-identity-dotnet-desktop-tutorial) | Add Microsoft Identity Platform features to a .NET desktop application. | PowerShell | 39 | MIT License | 2020-03-06 | 2024-06-16 |
 | [azure-mfa-nps-extension-health-check](https://github.com/Azure-Samples/azure-mfa-nps-extension-health-check) | Script to run against Azure MFA NPS Extension servers to perform some basic checks to detect any issues. The output will be in HTML format. | PowerShell | 25 | MIT License | 2020-03-06 | 2024-04-10 |
 | [azure-media-player-samples](https://github.com/Azure-Samples/azure-media-player-samples) | Code samples for embedding Azure Media Player | HTML | 25 | MIT License | 2020-03-12 | 2024-07-19 |
@@ -4277,7 +4277,7 @@
 | [inner-loop-for-vision-on-edge-nvidia-jetson](https://github.com/Azure-Samples/inner-loop-for-vision-on-edge-nvidia-jetson) | Sample inner loop setup to build Azure IoT Edge Vision AI solutions for NVIDIA Jetson devices | Python | 6 | MIT License | 2022-07-04 | 2023-06-20 |
 | [aks-ephemeral-os-disk](https://github.com/Azure-Samples/aks-ephemeral-os-disk) | This article plus sample analyzes the available configuration settings for the ephemeral OS disk in Azure Kubernetes Service (AKS). | Bicep | 6 | MIT License | 2022-07-05 | 2024-06-13 |
 | [build-your-first-orleans-app-aspnetcore](https://github.com/Azure-Samples/build-your-first-orleans-app-aspnetcore) | The example project for the "Build your first Orleans app with ASP.NET Core 6.0" learn module. | C# | 8 | MIT License | 2022-07-05 | 2024-06-15 |
-| [nodejs-microservices](https://github.com/Azure-Samples/nodejs-microservices) | A sample application showing Node.js microservices usage with an Azure infrastructure | Shell | 25 | MIT License | 2022-07-06 | 2024-07-11 |
+| [nodejs-microservices](https://github.com/Azure-Samples/nodejs-microservices) | A sample application showing Node.js microservices usage with an Azure infrastructure | Shell | 26 | MIT License | 2022-07-06 | 2024-07-21 |
 | [ContosoAds-on-AzureContainerApps](https://github.com/Azure-Samples/ContosoAds-on-AzureContainerApps) | This sample demonstrates how ASP.NET Core 6.0 is used to build a cloud-native application that consists of a frontend web app and an API that communicate asynchronously via messaged queues. The messaging is implemented using Dapr and both frontend and API are hosted in Azure Container Apps. | None | 1 | MIT License | 2022-07-06 | 2022-07-12 |
 | [cosmos-db-table-api-dotnet-samples](https://github.com/Azure-Samples/cosmos-db-table-api-dotnet-samples) | Sample .NET applications for Azure Cosmos DB Table API | C# | 3 | MIT License | 2022-07-06 | 2023-03-22 |
 | [todo-nodejs-mongo](https://github.com/Azure-Samples/todo-nodejs-mongo) | A blueprint for getting a React web app with a Node.js API and a MongoDB database on Azure. The blueprint includes sample application code (a ToDo web app) which can be removed and replaced with your own application code. Add your own source code and leverage the Infrastructure as Code assets (written in Bicep) to get up and running quickly. | Bicep | 26 | MIT License | 2022-07-08 | 2024-07-03 |
@@ -4322,7 +4322,7 @@
 | [azure-doc-intelligence-dynamic-models-patient](https://github.com/Azure-Samples/azure-doc-intelligence-dynamic-models-patient) | None | TypeScript | 5 | MIT License | 2022-09-02 | 2024-05-16 |
 | [Passwordless-Connections-for-Java-Apps](https://github.com/Azure-Samples/Passwordless-Connections-for-Java-Apps) | Java samples leveraging Azure Active Directory authentication and computing service connections to connect to Azure Databases without managing secrets. | Java | 12 | MIT License | 2022-09-02 | 2024-01-10 |
 | [azure-cost-management-dashboard](https://github.com/Azure-Samples/azure-cost-management-dashboard) | Repository with sample project to consume Azure Cost Management APIs | C# | 20 | MIT License | 2022-09-05 | 2024-06-16 |
-| [contoso-real-estate](https://github.com/Azure-Samples/contoso-real-estate) | Intelligent enterprise-grade reference architecture for JavaScript, featuring OpenAI integration, Azure Developer CLI template and Playwright tests. | JavaScript | 829 | MIT License | 2022-09-06 | 2024-07-18 |
+| [contoso-real-estate](https://github.com/Azure-Samples/contoso-real-estate) | Intelligent enterprise-grade reference architecture for JavaScript, featuring OpenAI integration, Azure Developer CLI template and Playwright tests. | JavaScript | 831 | MIT License | 2022-09-06 | 2024-07-22 |
 | [app-templates-springboot-app-on-ARO](https://github.com/Azure-Samples/app-templates-springboot-app-on-ARO) | Containerized spring boot java app deployed on ARO | CSS | 2 | MIT License | 2022-09-06 | 2023-10-09 |
 | [aci-availability-zones](https://github.com/Azure-Samples/aci-availability-zones) | None | Bicep | 2 | MIT License | 2022-09-06 | 2024-03-31 |
 | [app-templates-springboot-microservices-on-AKS](https://github.com/Azure-Samples/app-templates-springboot-microservices-on-AKS) | Microservices based spring boot app deployed to AKS | JavaScript | 4 | Apache License 2.0 | 2022-09-06 | 2024-04-26 |
@@ -4428,7 +4428,7 @@
 | [qdrant-azure](https://github.com/Azure-Samples/qdrant-azure) | Qdrant Vector Database on Azure Cloud | Shell | 85 | MIT License | 2023-02-06 | 2024-07-18 |
 | [eventhub-custom-metrics-emitter](https://github.com/Azure-Samples/eventhub-custom-metrics-emitter) | This sample project show how to implement sending a custom metric events to Azure Event Hub | C# | 6 | MIT License | 2023-02-07 | 2024-01-03 |
 | [messaging-chat-uilibrary](https://github.com/Azure-Samples/messaging-chat-uilibrary) | GitHub repository to do a quick setup to review chat capabilities between the UI libraries (web and mobile) | None | 0 | MIT License | 2023-02-08 | 2023-02-08 |
-| [azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) | A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models  to power ChatGPT-style and Q&A experiences. | Python | 5669 | MIT License | 2023-02-08 | 2024-07-21 |
+| [azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) | A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models  to power ChatGPT-style and Q&A experiences. | Python | 5672 | MIT License | 2023-02-08 | 2024-07-22 |
 | [real-time-transcription-simple](https://github.com/Azure-Samples/real-time-transcription-simple) | How to build a real-time transcription solution | JavaScript | 10 | MIT License | 2023-02-09 | 2024-05-28 |
 | [openai-python-enterprise-logging](https://github.com/Azure-Samples/openai-python-enterprise-logging) | None | HCL | 167 | MIT License | 2023-02-09 | 2024-07-10 |
 | [js-e2e-web-app-easy-auth-app-to-app](https://github.com/Azure-Samples/js-e2e-web-app-easy-auth-app-to-app) | Azure App Service app (frontend) to Azure App Service app (backend) with JS and easy auth | JavaScript | 4 | MIT License | 2023-02-09 | 2024-04-17 |
@@ -4452,7 +4452,7 @@
 | [hdinsight-aks](https://github.com/Azure-Samples/hdinsight-aks) | Sample code repo for HDInsight on AKS | Java | 4 | MIT License | 2023-02-28 | 2024-07-03 |
 | [cargotracker-wls-aks](https://github.com/Azure-Samples/cargotracker-wls-aks) | Deploy Cargo Tracker to Oracle WebLogic Server on Azure Kubernetes Service and monitor the application using Azure Application Insights, Azure Container Insights and Azure Log Analytics. | JavaScript | 3 | MIT License | 2023-02-28 | 2024-06-12 |
 | [todo-nodejs-mongo-aks](https://github.com/Azure-Samples/todo-nodejs-mongo-aks) | A blueprint for getting a React.js web app with a Node.js API and a MongoDB database on Azure. The blueprint includes sample application code (a ToDo web app) which can be removed and replaced with your own application code. Add your own source code and leverage the Infrastructure as Code assets (written in Bicep) to get up and running quickly. | Bicep | 7 | MIT License | 2023-02-28 | 2024-07-06 |
-| [copilot-nodejs-todo](https://github.com/Azure-Samples/copilot-nodejs-todo) | Discover how to use GitHub Copilot to quickly build a Node.js application with Azure Cosmos DB and App Service. | TypeScript | 7 | MIT License | 2023-03-02 | 2024-07-15 |
+| [copilot-nodejs-todo](https://github.com/Azure-Samples/copilot-nodejs-todo) | Discover how to use GitHub Copilot to quickly build a Node.js application with Azure Cosmos DB and App Service. | TypeScript | 7 | MIT License | 2023-03-02 | 2024-07-22 |
 | [dab-swa-library-demo](https://github.com/Azure-Samples/dab-swa-library-demo) | None | JavaScript | 12 | MIT License | 2023-03-02 | 2024-07-19 |
 | [dab-swa-todo](https://github.com/Azure-Samples/dab-swa-todo) | End-to-end Jamstack Todo list application with Data API builder and Static Web Apps | Vue | 14 | MIT License | 2023-03-02 | 2024-07-19 |
 | [Dataverse-Rest-Client](https://github.com/Azure-Samples/Dataverse-Rest-Client) | A .NET SDK to perform CRUD operations against Dataverse WebAPI | C# | 4 | MIT License | 2023-03-03 | 2023-03-08 |
@@ -4468,7 +4468,7 @@
 | [cognitive-service-vision-model-customization-python-samples](https://github.com/Azure-Samples/cognitive-service-vision-model-customization-python-samples) | This is a sample repository demonstrate how to train and predict a custom model with Cognitive Service for Vision, using Python. | Python | 15 | MIT License | 2023-03-10 | 2024-05-01 |
 | [api-management-workspaces-migration](https://github.com/Azure-Samples/api-management-workspaces-migration) | Tooling to ease migration of Azure API Management service-level resources to workspaces. | C# | 7 | MIT License | 2023-03-10 | 2024-05-03 |
 | [aks-front-door-private-link-service](https://github.com/Azure-Samples/aks-front-door-private-link-service) | This sample shows how Azure Front Door Premium can be set to use a Private Link Service to expose an AKS-hosted workload via NGINX Ingress Controller configured to use a private IP address on the internal load balancer. | Bicep | 17 | MIT License | 2023-03-13 | 2024-05-25 |
-| [copilot-nodejs-todo-template](https://github.com/Azure-Samples/copilot-nodejs-todo-template) | Template for the copilot-nodejs-todo workshop | TypeScript | 3 | MIT License | 2023-03-15 | 2024-07-15 |
+| [copilot-nodejs-todo-template](https://github.com/Azure-Samples/copilot-nodejs-todo-template) | Template for the copilot-nodejs-todo workshop | TypeScript | 3 | MIT License | 2023-03-15 | 2024-07-22 |
 | [CosmosDBWatcher](https://github.com/Azure-Samples/CosmosDBWatcher) | None | Python | 1 | MIT License | 2023-03-15 | 2023-05-17 |
 | [azure-search-sample-archive](https://github.com/Azure-Samples/azure-search-sample-archive) | None | C# | 2 | MIT License | 2023-03-15 | 2024-04-24 |
 | [aca-azure-policy](https://github.com/Azure-Samples/aca-azure-policy) | This repository contains custom Azure Policies for Azure Container Apps. | Bicep | 10 | MIT License | 2023-03-22 | 2024-05-25 |
@@ -4485,7 +4485,7 @@
 | [microsoft-cloud-for-sustainability-api-sample](https://github.com/Azure-Samples/microsoft-cloud-for-sustainability-api-sample) | A repository containing a C# SDK for the Microsoft Cloud for Sustainability (MCfS) API and a sample HTTP-Trigger based C# function app client that consumes the MCfS API through the SDK. | C# | 4 | MIT License | 2023-04-05 | 2024-07-17 |
 | [zero2hero](https://github.com/Azure-Samples/zero2hero) | This is a repo with zero 2 hero journeys using GitHub Copilot on VS Code, plugins and Azure | None | 40 | MIT License | 2023-04-05 | 2024-05-18 |
 | [azure-search-openai-demo-csharp](https://github.com/Azure-Samples/azure-search-openai-demo-csharp) | A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.  | C# | 560 | MIT License | 2023-04-05 | 2024-07-17 |
-| [openai](https://github.com/Azure-Samples/openai) | The repository for all Azure OpenAI Samples complementing the OpenAI cookbook.  | Jupyter Notebook | 1001 | MIT License | 2023-04-06 | 2024-07-19 |
+| [openai](https://github.com/Azure-Samples/openai) | The repository for all Azure OpenAI Samples complementing the OpenAI cookbook.  | Jupyter Notebook | 1003 | MIT License | 2023-04-06 | 2024-07-21 |
 | [vercel-nextjs-app-azure-db-mysql](https://github.com/Azure-Samples/vercel-nextjs-app-azure-db-mysql) | This is a Next.js project that uses Prisma to connect to a Azure database for MySQL database and Tailwind CSS for styling. This template can be deployed in Vercel (https://vercel.com/). | JavaScript | 18 | MIT License | 2023-04-06 | 2024-06-28 |
 | [aks-load-testing](https://github.com/Azure-Samples/aks-load-testing) | Demonstration of a continuous Azure Load Testing integration for AKS | Python | 11 | MIT License | 2023-04-07 | 2024-04-18 |
 | [azure-search-multiple-regions](https://github.com/Azure-Samples/azure-search-multiple-regions) | Azure Cognitive Search code sample that demonstrates a pattern for multi-regional deployment for BCDR scenarios. | Bicep | 2 | MIT License | 2023-04-07 | 2024-01-04 |
@@ -4519,7 +4519,7 @@
 | [msal-managed-identity](https://github.com/Azure-Samples/msal-managed-identity) | ✨ Samples demonstrating how to use Managed Identity (MSI) with the Microsoft Authentication Library (MSAL). | C# | 4 | MIT License | 2023-05-11 | 2024-07-09 |
 | [container-apps-event-driven-jobs-tutorial](https://github.com/Azure-Samples/container-apps-event-driven-jobs-tutorial) | None | JavaScript | 6 | MIT License | 2023-05-11 | 2024-01-17 |
 | [spring-chatgpt-sample](https://github.com/Azure-Samples/spring-chatgpt-sample) | A ChatGPT like sample using Spring / Java Stack | Java | 24 | MIT License | 2023-05-15 | 2024-04-15 |
-| [openai-plugin-fastapi](https://github.com/Azure-Samples/openai-plugin-fastapi) | A simple ChatGPT Plugin running in Codespaces for dev and Azure for production. | Bicep | 434 | MIT License | 2023-05-15 | 2024-06-28 |
+| [openai-plugin-fastapi](https://github.com/Azure-Samples/openai-plugin-fastapi) | A simple ChatGPT Plugin running in Codespaces for dev and Azure for production. | Bicep | 435 | MIT License | 2023-05-15 | 2024-07-21 |
 | [cosmos-aks-keda](https://github.com/Azure-Samples/cosmos-aks-keda) | This repository shows how to use AKS, Azure Cosmos DB & KEDA to build event-driven microservices. This repo is a demo for Microsoft BUILD 2023. | C# | 3 | MIT License | 2023-05-16 | 2024-04-27 |
 | [msdocs-fastapi-postgres-codespace](https://github.com/Azure-Samples/msdocs-fastapi-postgres-codespace) | A GitHub Codespaces environment with FastApi and Postgres. | Python | 7 | MIT License | 2023-05-16 | 2024-06-14 |
 | [azure-openai-terraform-deployment-sample](https://github.com/Azure-Samples/azure-openai-terraform-deployment-sample) | None | Python | 42 | MIT License | 2023-05-16 | 2024-07-15 |
@@ -4544,7 +4544,7 @@
 | [aks-store-demo](https://github.com/Azure-Samples/aks-store-demo) | Sample microservices app for AKS demos, tutorials, and experiments | Bicep | 132 | MIT License | 2023-06-02 | 2024-07-19 |
 | [pubsub-dapr-aks-java](https://github.com/Azure-Samples/pubsub-dapr-aks-java) | This sample is to demonstrate a pub/sub messaging architecture using Dapr for a Java application running in a Kubernetes cluster. | Java | 2 | MIT License | 2023-06-02 | 2024-03-08 |
 | [aks-openai-terraform](https://github.com/Azure-Samples/aks-openai-terraform) | This article shows how to deploy an Azure Kubernetes Service(AKS) cluster and Azure OpenAI Service via Terraform and how to deploy a Terraform chatbot that authenticates against Azure OpenAI using Azure AD workload identity and calls the Chat Completion API of a ChatGPT model. | HCL | 42 | MIT License | 2023-06-05 | 2024-07-19 |
-| [chat-with-your-data-solution-accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator) | A Solution Accelerator for the RAG pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. This includes most common requirements and best practices. | Python | 683 | MIT License | 2023-06-06 | 2024-07-20 |
+| [chat-with-your-data-solution-accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator) | A Solution Accelerator for the RAG pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. This includes most common requirements and best practices. | Python | 684 | MIT License | 2023-06-06 | 2024-07-21 |
 | [azure-spring-apps-sso-client-credential](https://github.com/Azure-Samples/azure-spring-apps-sso-client-credential) | Comprehensive Security with Azure Spring Apps, Application security principal, Spring Cloud Gateway SSO, and Spring Security | Java | 4 | MIT License | 2023-06-06 | 2023-07-12 |
 | [azure-functions-services-openapi-pinecone-usecase](https://github.com/Azure-Samples/azure-functions-services-openapi-pinecone-usecase) | An example usecase of fetching data from different sources, using pinecone to store the vector and referencing OpenAPI models to present response to the queries. | Python | 5 | MIT License | 2023-06-09 | 2024-07-05 |
 | [aca-dev-service-postgres-azd](https://github.com/Azure-Samples/aca-dev-service-postgres-azd) | None | Bicep | 1 | MIT License | 2023-06-09 | 2024-05-25 |
@@ -4571,7 +4571,7 @@
 | [ASA-Samples-Restful-Application](https://github.com/Azure-Samples/ASA-Samples-Restful-Application) | A sample spring restful application running on ASA | Java | 3 | MIT License | 2023-07-17 | 2024-06-12 |
 | [RecipeGuide_CosmosDBNoSQLOpenAICognitiveSearch_Java](https://github.com/Azure-Samples/RecipeGuide_CosmosDBNoSQLOpenAICognitiveSearch_Java) | This repository provides a demo showcasing the usage of the RAG pattern for integrating Azure Open AI services with custom data in Azure Cosmos DB. The goal is to limit the responses from Open AI services based on recipes stored in Cosmos DB. | Java | 3 | MIT License | 2023-07-21 | 2024-04-14 |
 | [drupal-on-azure-container-apps](https://github.com/Azure-Samples/drupal-on-azure-container-apps) | Sample code for deploying Drupal on Azure Container Apps | Shell | 5 | MIT License | 2023-07-23 | 2024-05-16 |
-| [azure-search-dotnet-utilities](https://github.com/Azure-Samples/azure-search-dotnet-utilities) | C# code samples that help with admin or development tasks in Azure Cognitive Search. | C# | 12 | MIT License | 2023-07-25 | 2024-05-16 |
+| [azure-search-dotnet-utilities](https://github.com/Azure-Samples/azure-search-dotnet-utilities) | C# code samples that help with admin or development tasks in Azure Cognitive Search. | C# | 13 | MIT License | 2023-07-25 | 2024-07-22 |
 | [azure-cassandra-mi-python-v4-getting-started](https://github.com/Azure-Samples/azure-cassandra-mi-python-v4-getting-started) | This repository contains python sample code for connecting to Azure Managed Instance for Apache Cassandra and creating and querying data | Python | 3 | MIT License | 2023-07-26 | 2023-11-19 |
 | [app-templates-java-openai-springapps](https://github.com/Azure-Samples/app-templates-java-openai-springapps) | AI Shopping Cart - Sample Application with Azure OpenAI and Azure Spring Apps | Bicep | 14 | MIT License | 2023-07-26 | 2024-07-18 |
 | [container-apps-openai](https://github.com/Azure-Samples/container-apps-openai) | This sample shows how to create two Azure Container Apps that use OpenAI, LangChain, ChromaDB, and Chainlit using Terraform. | HCL | 126 | MIT License | 2023-07-27 | 2024-07-09 |
@@ -4602,7 +4602,7 @@
 | [quickstart-deploy-aspnet-core-app-service](https://github.com/Azure-Samples/quickstart-deploy-aspnet-core-app-service) | None | Bicep | 0 | - | 2023-08-17 | 2024-06-17 |
 | [claims-based-routing-for-saas-applications](https://github.com/Azure-Samples/claims-based-routing-for-saas-applications) | Tenant routing using claims are useful when exposing a backend to any number of frontends. A reverse proxy serves to hide some of this complexity for the frontends connecting as well as centralizing the management. This sample shows how YARP reverse proxy with dynamic configuration from App Configuration. | C# | 2 | MIT License | 2023-08-22 | 2024-03-22 |
 | [azure-communication-services-calling-event-grid](https://github.com/Azure-Samples/azure-communication-services-calling-event-grid) | Demonstrates use of EventGrid to listen to Incoming Call events and deliver the notification to devices using ANH | C# | 2 | MIT License | 2023-08-22 | 2024-04-30 |
-| [azure-search-openai-javascript](https://github.com/Azure-Samples/azure-search-openai-javascript) | A TypeScript sample app for the Retrieval Augmented Generation pattern running on Azure, using Azure AI Search for retrieval and Azure OpenAI and LangChain large language models (LLMs) to power ChatGPT-style and Q&A experiences. | TypeScript | 218 | MIT License | 2023-08-29 | 2024-07-14 |
+| [azure-search-openai-javascript](https://github.com/Azure-Samples/azure-search-openai-javascript) | A TypeScript sample app for the Retrieval Augmented Generation pattern running on Azure, using Azure AI Search for retrieval and Azure OpenAI and LangChain large language models (LLMs) to power ChatGPT-style and Q&A experiences. | TypeScript | 219 | MIT License | 2023-08-29 | 2024-07-21 |
 | [azure-flask-cosmos-mongodb-aca](https://github.com/Azure-Samples/azure-flask-cosmos-mongodb-aca) | Web app using Python Flask backend, set up for deployment to Azure Container Apps with Azure Cosmos DB (MongoDB). | CSS | 1 | MIT License | 2023-08-29 | 2024-07-15 |
 | [spring-ai-azure-workshop](https://github.com/Azure-Samples/spring-ai-azure-workshop) | Workshop material for Spring AI and Azure OpenAI Service | Java | 41 | MIT License | 2023-08-29 | 2024-07-14 |
 | [dashboard-csharp-cosmos-db-nosql](https://github.com/Azure-Samples/dashboard-csharp-cosmos-db-nosql) | None | HTML | 0 | MIT License | 2023-08-31 | 2023-09-11 |
@@ -4655,7 +4655,7 @@
 | [cassandra-mi-client-configurator](https://github.com/Azure-Samples/cassandra-mi-client-configurator) | A tool that helps automate configuration of hybrid clusters in Azure Managed Instance for Apache Cassandra | Python | 1 | MIT License | 2023-10-11 | 2023-10-24 |
 | [functions-javascript-sap-cloud-sdk-quickstart](https://github.com/Azure-Samples/functions-javascript-sap-cloud-sdk-quickstart) | Sample project showcasing SAP Cloud SDK for OData consumption from SAP S4 with Azure Functions | TypeScript | 1 | MIT License | 2023-10-13 | 2024-07-19 |
 | [dapr-microservices](https://github.com/Azure-Samples/dapr-microservices) | A collection of dapr microservices samples | C# | 0 | MIT License | 2023-10-17 | 2023-10-18 |
-| [eShopOnAzure](https://github.com/Azure-Samples/eShopOnAzure) | A variant of https://github.com/dotnet/eShop that uses Azure services | C# | 120 | MIT License | 2023-10-18 | 2024-07-16 |
+| [eShopOnAzure](https://github.com/Azure-Samples/eShopOnAzure) | A variant of https://github.com/dotnet/eShop that uses Azure services | C# | 121 | MIT License | 2023-10-18 | 2024-07-21 |
 | [azd-create-storage-account](https://github.com/Azure-Samples/azd-create-storage-account) | A sample azd template for creating a storage account. | Bicep | 0 | - | 2023-10-19 | 2023-10-19 |
 | [promptflow-github-action](https://github.com/Azure-Samples/promptflow-github-action) | A sample repository for GitHub actions for Azure ML Promptflow | None | 1 | MIT License | 2023-10-21 | 2023-10-22 |
 | [open-liberty-on-aca](https://github.com/Azure-Samples/open-liberty-on-aca) | The project demonstrates how to prepare and deploy Java application inside Open/WebSphere Liberty on Microsoft Azure Container Apps. | Java | 0 | MIT License | 2023-10-23 | 2023-10-23 |
@@ -4684,7 +4684,7 @@
 | [ai-rag-chat-evaluator](https://github.com/Azure-Samples/ai-rag-chat-evaluator) | Tools for evaluation of RAG Chat Apps using Azure AI Evaluate SDK and OpenAI  | Python | 168 | MIT License | 2023-11-21 | 2024-07-18 |
 | [msdocs-quarkus-postgresql-sample-app](https://github.com/Azure-Samples/msdocs-quarkus-postgresql-sample-app) | A simple Quarkus application that demonstrates how to build data-driven Java web apps in Azure App Service | Bicep | 1 | MIT License | 2023-11-24 | 2024-05-07 |
 | [containerapps-dapr-components-init](https://github.com/Azure-Samples/containerapps-dapr-components-init) | Sample showcasing the Azure CLI for creating Dapr components and services on ContainerApps | Bicep | 2 | MIT License | 2023-11-28 | 2023-12-13 |
-| [contoso-chat](https://github.com/Azure-Samples/contoso-chat) | This sample has the full End2End process of creating RAG application with Prompt Flow and AI Studio. It includes GPT 3.5 Turbo LLM application code, evaluations, deployment automation with AZD CLI, GitHub actions for evaluation and deployment and intent mapping for multiple LLM task mapping. | Jupyter Notebook | 376 | MIT License | 2023-11-29 | 2024-07-20 |
+| [contoso-chat](https://github.com/Azure-Samples/contoso-chat) | This sample has the full End2End process of creating RAG application with Prompt Flow and AI Studio. It includes GPT 3.5 Turbo LLM application code, evaluations, deployment automation with AZD CLI, GitHub actions for evaluation and deployment and intent mapping for multiple LLM task mapping. | Jupyter Notebook | 377 | MIT License | 2023-11-29 | 2024-07-21 |
 | [aspire-app-dev-in-a-day-ko](https://github.com/Azure-Samples/aspire-app-dev-in-a-day-ko) | .NET Aspire 애플리케이션을 개발해 보는 워크샵 자료입니다 | C# | 13 | MIT License | 2023-11-30 | 2024-07-20 |
 | [azure-edge-extensions-aio-iac-terraform](https://github.com/Azure-Samples/azure-edge-extensions-aio-iac-terraform) | Infrastructure as Code (IaC) Terraform for Azure IoT Operations (AIO) components. Includes initial infrastructure setup through Terraform, Self-Signed certificate generation, OPC PLC Simulator connected to the AIO OPC UA Broker. Azure Edge (IoT) extensions, samples, and quickstarts. | HCL | 2 | MIT License | 2023-11-30 | 2024-06-24 |
 | [azure-edge-extensions](https://github.com/Azure-Samples/azure-edge-extensions) | Azure Edge (IoT) extensions, samples, and quickstarts. | Ruby | 4 | MIT License | 2023-11-30 | 2024-07-03 |
@@ -4738,14 +4738,14 @@
 | [azure-sql-db-vectors-faiss](https://github.com/Azure-Samples/azure-sql-db-vectors-faiss) | Integrate Azure SQL database with the FAISS library for doing vector search | Python | 0 | MIT License | 2024-01-29 | 2024-05-10 |
 | [sidecar-samples](https://github.com/Azure-Samples/sidecar-samples) | None | C# | 0 | MIT License | 2024-01-30 | 2024-07-18 |
 | [openai-chat-backend-fastapi](https://github.com/Azure-Samples/openai-chat-backend-fastapi) | A backend for a chat application written in Python FastAPI framework | Bicep | 25 | MIT License | 2024-01-30 | 2024-07-11 |
-| [azure-edge-extensions-aio-environments](https://github.com/Azure-Samples/azure-edge-extensions-aio-environments) | This is a solution to build Azure IoT Operations (AIO) VM environments | PowerShell | 2 | MIT License | 2024-01-30 | 2024-07-01 |
+| [azure-edge-extensions-aio-environments](https://github.com/Azure-Samples/azure-edge-extensions-aio-environments) | This is a solution to build Azure IoT Operations (AIO) VM environments | PowerShell | 2 | MIT License | 2024-01-30 | 2024-07-22 |
 | [appservice-linux-sidecar](https://github.com/Azure-Samples/appservice-linux-sidecar) | None | C# | 1 | MIT License | 2024-02-01 | 2024-05-22 |
 | [azure-sql-db-chatbot](https://github.com/Azure-Samples/azure-sql-db-chatbot) | Implement a RAG solution and call OpenAI right from Azure SQL DB to ask questions about your data | TSQL | 15 | MIT License | 2024-02-01 | 2024-06-28 |
 | [llm-lambda-azure-converter](https://github.com/Azure-Samples/llm-lambda-azure-converter) | None | Jupyter Notebook | 6 | MIT License | 2024-02-01 | 2024-04-19 |
 | [java-docs-embedded-tomcat](https://github.com/Azure-Samples/java-docs-embedded-tomcat) | A hello world sample for the App Service quickstart, which contains a simple Tomcat web app that's programmatically loaded by an embedded Tomcat server. | Java | 0 | MIT License | 2024-02-02 | 2024-02-02 |
 | [avm-terraform-labs](https://github.com/Azure-Samples/avm-terraform-labs) | Azure Verified Modules Terraform Labs | HCL | 12 | MIT License | 2024-02-02 | 2024-05-30 |
 | [avm-bicep-labs](https://github.com/Azure-Samples/avm-bicep-labs) | None | Bicep | 10 | MIT License | 2024-02-06 | 2024-06-15 |
-| [serverless-chat-langchainjs](https://github.com/Azure-Samples/serverless-chat-langchainjs) | Build your own serverless AI Chat with Retrieval-Augmented-Generation using LangChain.js, TypeScript and Azure | TypeScript | 572 | MIT License | 2024-02-06 | 2024-07-19 |
+| [serverless-chat-langchainjs](https://github.com/Azure-Samples/serverless-chat-langchainjs) | Build your own serverless AI Chat with Retrieval-Augmented-Generation using LangChain.js, TypeScript and Azure | TypeScript | 574 | MIT License | 2024-02-06 | 2024-07-21 |
 | [azure-edge-extensions-aio-custom-vision-ai](https://github.com/Azure-Samples/azure-edge-extensions-aio-custom-vision-ai) | To gain access, please finish setting up this repository now at:  | Python | 0 | MIT License | 2024-02-06 | 2024-02-06 |
 | [Ascent](https://github.com/Azure-Samples/Ascent) | Application sample for Multi cluster deployments using metadata base targeting | Python | 0 | MIT License | 2024-02-07 | 2024-02-07 |
 | [azure-appconfig-aks](https://github.com/Azure-Samples/azure-appconfig-aks) | Kubernetes Web App with Azure App Configuration using Kubernetes provider | Bicep | 1 | MIT License | 2024-02-07 | 2024-06-11 |
@@ -4788,11 +4788,11 @@
 | [chat-with-your-api-from-promptflow](https://github.com/Azure-Samples/chat-with-your-api-from-promptflow) | A sample flow that provides a natural language interface to existing API operations | Python | 2 | MIT License | 2024-03-20 | 2024-05-06 |
 | [dotnet-aspire-connect-messaging](https://github.com/Azure-Samples/dotnet-aspire-connect-messaging) | A repository to generate the service bus resources for the .NET Aspire Connect to Messaging tutorial. | Bicep | 0 | MIT License | 2024-03-22 | 2024-03-22 |
 | [app-service-sidecar-tutorial-prereqs](https://github.com/Azure-Samples/app-service-sidecar-tutorial-prereqs) | An AZD template that deploys the Azure resources needed by the sidecar tutorial. It creates an Azure container registry, pushes two images to it, and creates an Application Insights instance. | Bicep | 1 | MIT License | 2024-03-26 | 2024-04-13 |
-| [graphrag-accelerator](https://github.com/Azure-Samples/graphrag-accelerator) | One-click deploy of a Knowledge Graph powered RAG (GraphRAG) in Azure | Python | 1138 | MIT License | 2024-03-27 | 2024-07-21 |
+| [graphrag-accelerator](https://github.com/Azure-Samples/graphrag-accelerator) | One-click deploy of a Knowledge Graph powered RAG (GraphRAG) in Azure | Python | 1162 | MIT License | 2024-03-27 | 2024-07-22 |
 | [azure-sql-db-azd](https://github.com/Azure-Samples/azure-sql-db-azd) | Deploy an Azure SQL database using Dacpac and AZD | Bicep | 0 | MIT License | 2024-03-27 | 2024-03-27 |
 | [azure-postgresql-labs](https://github.com/Azure-Samples/azure-postgresql-labs) | Repo to host demo labs | None | 0 | MIT License | 2024-03-27 | 2024-03-27 |
 | [chat-with-your-data-java-lza-app-accelerator](https://github.com/Azure-Samples/chat-with-your-data-java-lza-app-accelerator) | None | Bicep | 1 | - | 2024-04-02 | 2024-06-19 |
-| [AI-Gateway](https://github.com/Azure-Samples/AI-Gateway) | APIM ❤️ OpenAI - this repo contains a set of experiments on using GenAI capabilities of Azure API Management with Azure OpenAI and other services | Jupyter Notebook | 149 | MIT License | 2024-04-03 | 2024-07-19 |
+| [AI-Gateway](https://github.com/Azure-Samples/AI-Gateway) | APIM ❤️ OpenAI - this repo contains a set of experiments on using GenAI capabilities of Azure API Management with Azure OpenAI and other services | Jupyter Notebook | 151 | MIT License | 2024-04-03 | 2024-07-22 |
 | [eShop-AI-Lab-Build2024](https://github.com/Azure-Samples/eShop-AI-Lab-Build2024) | To gain access, please finish setting up this repository now at:  | C# | 4 | MIT License | 2024-04-05 | 2024-07-09 |
 | [azure-openai-chat-frontend](https://github.com/Azure-Samples/azure-openai-chat-frontend) | The Chat App Protocol compliant user-interface building block, for your chat-gpt like RAG pattern applications built with Azure OpenAI and Azure AI Search. | TypeScript | 17 | MIT License | 2024-04-05 | 2024-07-18 |
 | [aks-kaito-terraform](https://github.com/Azure-Samples/aks-kaito-terraform) | This project demonstrates the process of deploying Kaito on AKS using Terraform, creating a Falcon 7B Instruct model hosted on AKS using Kaito, and utilizing Chainlit to develop a chat interface that interacts with the model's inference endpoint. | HCL | 4 | MIT License | 2024-04-08 | 2024-06-04 |
@@ -4801,10 +4801,10 @@
 | [azure-sql-library-app-blazor](https://github.com/Azure-Samples/azure-sql-library-app-blazor) | Library app built with SQL Server and Data API builder as backend, and Blazor as frontend. | HTML | 2 | MIT License | 2024-04-09 | 2024-07-05 |
 | [openai-chat-your-own-data](https://github.com/Azure-Samples/openai-chat-your-own-data) | An infrastructure template that provisions the required Azure resources for a simple RAG AI solution. | Bicep | 1 | MIT License | 2024-04-10 | 2024-04-26 |
 | [azure-openai-keyless](https://github.com/Azure-Samples/azure-openai-keyless) | Provision an OpenAI account with GPT deployment and RBAC role for your user account for keyless access | Bicep | 7 | MIT License | 2024-04-10 | 2024-07-03 |
-| [agent-openai-python-prompty](https://github.com/Azure-Samples/agent-openai-python-prompty) | A creative writing multi-agent solution to help users write articles. | Python | 29 | MIT License | 2024-04-15 | 2024-07-19 |
-| [contoso-chat-csharp-prompty](https://github.com/Azure-Samples/contoso-chat-csharp-prompty) | None | Bicep | 11 | MIT License | 2024-04-15 | 2024-07-16 |
-| [summarization-openai-python-promptflow](https://github.com/Azure-Samples/summarization-openai-python-promptflow) | This solution converts speech to text and then processes and summarizes the text based on the prompt scenario. | Bicep | 10 | MIT License | 2024-04-15 | 2024-07-18 |
-| [summarization-openai-csharp-prompty](https://github.com/Azure-Samples/summarization-openai-csharp-prompty) | This solution converts speech to text and then processes and summarizes the text based on the prompt scenario. | Bicep | 4 | MIT License | 2024-04-15 | 2024-06-22 |
+| [agent-openai-python-prompty](https://github.com/Azure-Samples/agent-openai-python-prompty) | A creative writing multi-agent solution to help users write articles. | Python | 30 | MIT License | 2024-04-15 | 2024-07-22 |
+| [contoso-chat-csharp-prompty](https://github.com/Azure-Samples/contoso-chat-csharp-prompty) | None | Bicep | 12 | MIT License | 2024-04-15 | 2024-07-22 |
+| [summarization-openai-python-promptflow](https://github.com/Azure-Samples/summarization-openai-python-promptflow) | This solution converts speech to text and then processes and summarizes the text based on the prompt scenario. | Bicep | 11 | MIT License | 2024-04-15 | 2024-07-21 |
+| [summarization-openai-csharp-prompty](https://github.com/Azure-Samples/summarization-openai-csharp-prompty) | This solution converts speech to text and then processes and summarizes the text based on the prompt scenario. | Bicep | 5 | MIT License | 2024-04-15 | 2024-07-22 |
 | [agent-python-openai-prompty-langchain](https://github.com/Azure-Samples/agent-python-openai-prompty-langchain) | Function calling for vector database lookup based on user question | Bicep | 8 | MIT License | 2024-04-16 | 2024-06-29 |
 | [agent-openai-python-prompty-langchain-pinecone](https://github.com/Azure-Samples/agent-openai-python-prompty-langchain-pinecone) | Function calling for vector database lookup based on user question. | Bicep | 10 | MIT License | 2024-04-16 | 2024-07-17 |
 | [assistant-data-openai-python-promptflow](https://github.com/Azure-Samples/assistant-data-openai-python-promptflow) | Assistant API to chat with tabular data and perform analytics in natural language. | Bicep | 21 | MIT License | 2024-04-16 | 2024-07-18 |
@@ -4817,7 +4817,7 @@
 | [azure-orphan-resources-grafana-dashboard](https://github.com/Azure-Samples/azure-orphan-resources-grafana-dashboard) | This Grafana dashboard offers a centralized view of Azure orphan resources that can be safely removed to reduce the overall cost of owning your Azure subscriptions. | None | 10 | MIT License | 2024-04-22 | 2024-06-21 |
 | [ms-identity-python](https://github.com/Azure-Samples/ms-identity-python) | A helper library to power samples. This library, like all other samples hosted in Azure-Samples, is provided for demonstration purpose. | Python | 0 | Other | 2024-04-22 | 2024-05-20 |
 | [azd-apic-sap](https://github.com/Azure-Samples/azd-apic-sap) | Discover your SAP & Azure API Management APIs in one place with Azure API Center | Bicep | 1 | MIT License | 2024-04-23 | 2024-05-08 |
-| [Phi-3MiniSamples](https://github.com/Azure-Samples/Phi-3MiniSamples) | Discover how phi3-mini, a new series of models from Microsoft, enables deployment of Large Language Models (LLMs) on edge devices and IoT devices. Learn how to use Semantic Kernel, Ollama/LlamaEdge, and ONNX Runtime to access and infer phi3-mini models, and explore the possibilities of generative AI in various application scenarios | C++ | 57 | MIT License | 2024-04-23 | 2024-07-19 |
+| [Phi-3MiniSamples](https://github.com/Azure-Samples/Phi-3MiniSamples) | Discover how phi3-mini, a new series of models from Microsoft, enables deployment of Large Language Models (LLMs) on edge devices and IoT devices. Learn how to use Semantic Kernel, Ollama/LlamaEdge, and ONNX Runtime to access and infer phi3-mini models, and explore the possibilities of generative AI in various application scenarios | C++ | 59 | MIT License | 2024-04-23 | 2024-07-21 |
 | [cosmos-db-mongodb-nodejs-quickstart](https://github.com/Azure-Samples/cosmos-db-mongodb-nodejs-quickstart) | Quickstart application template for Azure Cosmos DB for MongoDB and Node.js | Bicep | 1 | MIT License | 2024-04-24 | 2024-06-14 |
 | [azd-template-artifacts](https://github.com/Azure-Samples/azd-template-artifacts) | A template ReadMe, best-practices, conventions and other resources for azd (Azure Developer CLI) templates. | None | 5 | MIT License | 2024-04-25 | 2024-07-08 |
 | [azure-openai-assistant-javascript](https://github.com/Azure-Samples/azure-openai-assistant-javascript) | Serverless Azure OpenAI Assistant Quick Start Function Calling | Bicep | 12 | MIT License | 2024-04-26 | 2024-07-11 |
@@ -4846,7 +4846,7 @@
 | [azure-postgres-index-tuning](https://github.com/Azure-Samples/azure-postgres-index-tuning) | None | None | 0 | - | 2024-05-10 | 2024-05-10 |
 | [aacs-workshops](https://github.com/Azure-Samples/aacs-workshops) | Samples for Azure AI Content Safety training modules | Jupyter Notebook | 2 | MIT License | 2024-05-10 | 2024-07-15 |
 | [azure-functions-flex-consumption-samples](https://github.com/Azure-Samples/azure-functions-flex-consumption-samples) | Samples for Azure Functions Flex Consumption | Bicep | 13 | MIT License | 2024-05-13 | 2024-07-20 |
-| [rag-postgres-openai-python](https://github.com/Azure-Samples/rag-postgres-openai-python) | A RAG app to ask questions about rows in a database table. Deployable on Azure Container Apps with PostgreSQL Flexible Server. | Python | 113 | MIT License | 2024-05-14 | 2024-07-19 |
+| [rag-postgres-openai-python](https://github.com/Azure-Samples/rag-postgres-openai-python) | A RAG app to ask questions about rows in a database table. Deployable on Azure Container Apps with PostgreSQL Flexible Server. | Python | 114 | MIT License | 2024-05-14 | 2024-07-21 |
 | [Express-EntraExternalId-Cerbos](https://github.com/Azure-Samples/Express-EntraExternalId-Cerbos) | An example application of integrating Cerbos with an Express server using Microsoft Entra External ID for authentication. | PowerShell | 1 | MIT License | 2024-05-15 | 2024-06-21 |
 | [azure-edge-extensions-lnm-mq-isa95](https://github.com/Azure-Samples/azure-edge-extensions-lnm-mq-isa95) | None | None | 2 | MIT License | 2024-05-17 | 2024-06-25 |
 | [openai-chat-app-entra-auth-local](https://github.com/Azure-Samples/openai-chat-app-entra-auth-local) | A simple chat application that integrates Microsoft Entra ID for user authentication. Designed for deployment on Azure Container Apps with the Azure Developer CLI. | Bicep | 7 | MIT License | 2024-05-17 | 2024-07-13 |
@@ -4855,7 +4855,7 @@
 | [spring-petclinic-langchain4j](https://github.com/Azure-Samples/spring-petclinic-langchain4j) | None | CSS | 6 | MIT License | 2024-05-22 | 2024-06-27 |
 | [Cosmic-Food-RAG-app](https://github.com/Azure-Samples/Cosmic-Food-RAG-app) | A chat-based recommendation application that revolutionizes the culinary experience.  | Bicep | 5 | MIT License | 2024-05-28 | 2024-07-19 |
 | [java-microservices-aca-lab](https://github.com/Azure-Samples/java-microservices-aca-lab) | None | Java | 0 | MIT License | 2024-05-30 | 2024-07-11 |
-| [azure-ai-vision](https://github.com/Azure-Samples/azure-ai-vision) | Scenario-based samples for Azure AI Vision services | C# | 3 | MIT License | 2024-06-03 | 2024-07-16 |
+| [azure-ai-vision](https://github.com/Azure-Samples/azure-ai-vision) | Scenario-based samples for Azure AI Vision services | C# | 4 | MIT License | 2024-06-03 | 2024-07-21 |
 | [communication-services-AI-whatsapp-message-analysis-sample](https://github.com/Azure-Samples/communication-services-AI-whatsapp-message-analysis-sample) | This sample application demonstrates the message analysis feature using Azure OpenAI within the Cross-Platform Messaging service of Azure Communication Services. It evaluates and understands the content of customer messages sent via platforms like WhatsApp. | HTML | 1 | MIT License | 2024-06-04 | 2024-07-17 |
 | [llama-index-javascript](https://github.com/Azure-Samples/llama-index-javascript) | This sample shows how to quickly get started with LlamaIndex.ai on Azure 🚀 | Bicep | 6 | MIT License | 2024-06-07 | 2024-07-19 |
 | [openai-chat-frontend-vanillajs](https://github.com/Azure-Samples/openai-chat-frontend-vanillajs) | A simple frontend using the AI Chat Protocol SDK to stream responses from compatible backends. Deployable to Static Web Apps. | HTML | 1 | - | 2024-06-07 | 2024-06-10 |
@@ -4916,7 +4916,7 @@
 | [example-naming-template](https://github.com/Azure-Terraform/example-naming-template) | None | Python | 3 | MIT License | 2021-01-29 | 2023-11-01 |
 | [terraform-azurerm-storage-account](https://github.com/Azure-Terraform/terraform-azurerm-storage-account) | None | HCL | 20 | - | 2021-02-03 | 2024-07-02 |
 | [terraform-helm-linkerd](https://github.com/Azure-Terraform/terraform-helm-linkerd) | None | HCL | 7 | - | 2021-02-11 | 2023-02-02 |
-| [terraform-azurerm-virtual-machine](https://github.com/Azure-Terraform/terraform-azurerm-virtual-machine) | Terraform Virtual Machine Module | HCL | 7 | MIT License | 2021-03-22 | 2023-10-24 |
+| [terraform-azurerm-virtual-machine](https://github.com/Azure-Terraform/terraform-azurerm-virtual-machine) | Terraform Virtual Machine Module | HCL | 8 | MIT License | 2021-03-22 | 2024-07-22 |
 | [terraform-azurerm-private-link-endpoint](https://github.com/Azure-Terraform/terraform-azurerm-private-link-endpoint) | None | None | 0 | - | 2021-07-22 | 2021-07-22 |
 | [availability-proxy-for-rest-services](https://github.com/AzureAD/availability-proxy-for-rest-services) | None | C# | 6 | Apache License 2.0 | 2013-03-28 | 2024-07-19 |
 | [passport-azure-ad](https://github.com/AzureAD/passport-azure-ad) | The code for Passport Azure AD has been moved to the MSAL.js repo. Please open any issues or PRs at the link below. | JavaScript | 420 | Other | 2013-05-20 | 2024-06-18 |
@@ -4938,15 +4938,15 @@
 | [azure-activedirectory-library-for-ruby](https://github.com/AzureAD/azure-activedirectory-library-for-ruby) | The ADAL for Ruby library makes it easy for Ruby applications to authenticate to AAD in order to access AAD protected web resources. | Ruby | 36 | MIT License | 2015-06-19 | 2024-06-17 |
 | [omniauth-azure-activedirectory](https://github.com/AzureAD/omniauth-azure-activedirectory) | None | Ruby | 50 | MIT License | 2015-08-06 | 2024-07-19 |
 | [azure-activedirectory-library-for-python](https://github.com/AzureAD/azure-activedirectory-library-for-python) | ADAL for Python | Python | 259 | Other | 2015-10-04 | 2024-05-15 |
-| [microsoft-authentication-library-for-dotnet](https://github.com/AzureAD/microsoft-authentication-library-for-dotnet) | Microsoft Authentication Library (MSAL) for .NET | C# | 1359 | MIT License | 2015-10-19 | 2024-07-20 |
+| [microsoft-authentication-library-for-dotnet](https://github.com/AzureAD/microsoft-authentication-library-for-dotnet) | Microsoft Authentication Library (MSAL) for .NET | C# | 1358 | MIT License | 2015-10-19 | 2024-07-22 |
 | [active-directory-b2c-wordpress-plugin-openidconnect](https://github.com/AzureAD/active-directory-b2c-wordpress-plugin-openidconnect) | A plugin for WordPress that allows users to authenticate with Azure AD B2C using OpenID Connect. | PHP | 31 | MIT License | 2016-06-27 | 2023-07-13 |
 | [ADALLoginKit](https://github.com/AzureAD/ADALLoginKit) | A Helper Library to bootstrap AzureAD Samples | Objective-C | 1 | - | 2016-07-06 | 2022-12-20 |
 | [azure-activedirectory-powershell-tokenkey](https://github.com/AzureAD/azure-activedirectory-powershell-tokenkey) | Scripts to override the Azure Active Directory token signing key. | PowerShell | 8 | - | 2016-07-18 | 2024-06-13 |
 | [microsoft-authentication-library-for-android](https://github.com/AzureAD/microsoft-authentication-library-for-android) | Microsoft Authentication Library (MSAL) for Android | Java | 207 | MIT License | 2016-07-27 | 2024-07-19 |
 | [azure-activedirectory-powershell](https://github.com/AzureAD/azure-activedirectory-powershell) | This is a repo for Azure AD PowerShell scrips and samples | PowerShell | 30 | - | 2016-08-18 | 2024-01-30 |
-| [microsoft-authentication-library-for-python](https://github.com/AzureAD/microsoft-authentication-library-for-python) | Microsoft Authentication Library (MSAL) for Python makes it easy to authenticate to Microsoft Entra ID. General docs are available here https://learn.microsoft.com/entra/msal/python/ Stable APIs are documented here https://msal-python.readthedocs.io. Questions can be asked on www.stackoverflow.com with tag "msal" + "python". | Python | 764 | Other | 2016-09-02 | 2024-07-18 |
+| [microsoft-authentication-library-for-python](https://github.com/AzureAD/microsoft-authentication-library-for-python) | Microsoft Authentication Library (MSAL) for Python makes it easy to authenticate to Microsoft Entra ID. General docs are available here https://learn.microsoft.com/entra/msal/python/ Stable APIs are documented here https://msal-python.readthedocs.io. Questions can be asked on www.stackoverflow.com with tag "msal" + "python". | Python | 765 | Other | 2016-09-02 | 2024-07-21 |
 | [microsoft-authentication-library-for-objc](https://github.com/AzureAD/microsoft-authentication-library-for-objc) | Microsoft Authentication Library (MSAL) for iOS and macOS | Objective-C | 255 | MIT License | 2017-01-30 | 2024-07-20 |
-| [microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js) | Microsoft Authentication Library (MSAL) for JS | TypeScript | 3541 | MIT License | 2017-02-24 | 2024-07-20 |
+| [microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js) | Microsoft Authentication Library (MSAL) for JS | TypeScript | 3543 | MIT License | 2017-02-24 | 2024-07-22 |
 | [docs](https://github.com/AzureAD/docs) | API Documentation | HTML | 2 | MIT License | 2017-05-08 | 2023-08-01 |
 | [microsoft-authentication-library-common-for-android](https://github.com/AzureAD/microsoft-authentication-library-common-for-android) | Common code used by both the Active Directory Authentication Library (ADAL) and the Microsoft Authentication Library (MSAL) | Java | 39 | MIT License | 2017-11-01 | 2024-07-20 |
 | [microsoft-authentication-library-common-for-objc](https://github.com/AzureAD/microsoft-authentication-library-common-for-objc) | Common code used by both the Active Directory Authentication Library (ADAL) and the Microsoft Authentication Library (MSAL) | Objective-C | 30 | MIT License | 2017-11-02 | 2024-07-20 |
@@ -4978,7 +4978,7 @@
 | [old.AzureCosmosDB.github.io](https://github.com/AzureCosmosDB/old.AzureCosmosDB.github.io) | None | HTML | 0 | MIT License | 2018-08-22 | 2024-04-23 |
 | [labs](https://github.com/AzureCosmosDB/labs) | learning based labs for Azure Cosmos DB | Java | 79 | MIT License | 2018-08-24 | 2024-06-25 |
 | [community-content](https://github.com/AzureCosmosDB/community-content) | demos, presentations, pdfs, and more for community | None | 33 | Apache License 2.0 | 2019-01-08 | 2023-08-29 |
-| [cosmosweb](https://github.com/AzureCosmosDB/cosmosweb) | code and content for https://developer.azurecosmosdb.com | JavaScript | 0 | - | 2019-01-08 | 2024-07-19 |
+| [cosmosweb](https://github.com/AzureCosmosDB/cosmosweb) | code and content for https://developer.azurecosmosdb.com | JavaScript | 0 | - | 2019-01-08 | 2024-07-22 |
 | [CosmicNotes](https://github.com/AzureCosmosDB/CosmicNotes) | Cosmic drawings illustrating main concepts of Azure Cosmos DB to empower anyone to build stuff on Cosmos DB | HTML | 15 | - | 2019-07-04 | 2024-06-30 |
 | [CosmosDBWorkshops](https://github.com/AzureCosmosDB/CosmosDBWorkshops) | A github.io page to highlight upcoming Azure Cosmos DB events as well as workshop resources | HTML | 0 | - | 2019-09-24 | 2021-02-23 |
 | [scenario-based-labs](https://github.com/AzureCosmosDB/scenario-based-labs) | Cosmos DB oriented labs for IoT and Retail scenarios  | JavaScript | 110 | - | 2019-09-30 | 2024-07-09 |
@@ -5007,7 +5007,7 @@
 | [Azure-OpenAI-Developer-Guide-Front-End](https://github.com/AzureCosmosDB/Azure-OpenAI-Developer-Guide-Front-End) | Azure Cosmos DB + Azure OpenAI Developer Guide Front End Application | TypeScript | 4 | MIT License | 2024-03-28 | 2024-07-01 |
 | [Cosmos-DB-Non-CMK-to-CMK-Migration-Scanner](https://github.com/AzureCosmosDB/Cosmos-DB-Non-CMK-to-CMK-Migration-Scanner) | None | C# | 0 | MIT License | 2024-04-02 | 2024-06-11 |
 | [Retail-Product-Predictions](https://github.com/AzureCosmosDB/Retail-Product-Predictions) | This sample is part of the demo show in episode #2 for the Mechanics Series on Azure Cosmos DB for building intelligent apps. This sample demonstrates how to build a product recommendation system using the Alternating Least Squares algorithm with data from the .NET eShop sample. | Jupyter Notebook | 7 | MIT License | 2024-04-05 | 2024-07-11 |
-| [cosmosdb-nosql-copilot](https://github.com/AzureCosmosDB/cosmosdb-nosql-copilot) | Build a copilot application with Azure OpenAI Service, Azure Cosmos DB & Azure App Service. | C# | 9 | MIT License | 2024-06-13 | 2024-07-20 |
+| [cosmosdb-nosql-copilot](https://github.com/AzureCosmosDB/cosmosdb-nosql-copilot) | Build a copilot application with Azure OpenAI Service, Azure Cosmos DB & Azure App Service. | C# | 10 | MIT License | 2024-06-13 | 2024-07-21 |
 | [cosmosdb-mongo-copilot](https://github.com/AzureCosmosDB/cosmosdb-mongo-copilot) | Build a copilot application with Azure OpenAI Service, Azure Cosmos DB for MongoDB & Azure App Service. | C# | 1 | MIT License | 2024-06-13 | 2024-07-18 |
 | [ComputedPropertiesDemo](https://github.com/AzureCosmosDB/ComputedPropertiesDemo) | Code samples for Computed Properties | Jupyter Notebook | 0 | MIT License | 2024-07-01 | 2024-07-01 |
 | [cosmos-embeddings-generator](https://github.com/AzureCosmosDB/cosmos-embeddings-generator) | This sample shows how to use Change Feed in Azure Cosmos DB for NoSQL with Azure Functions to automatically generate vector embeddings on new or updated data. | None | 0 | MIT License | 2024-07-03 | 2024-07-03 |
@@ -5015,33 +5015,33 @@
 | [cordova-docs](https://github.com/MicrosoftDocs/cordova-docs) | ARCHIVE (NO LONGER IN USE) | JavaScript | 143 | MIT License | 2015-04-13 | 2024-05-07 |
 | [Virtualization-Documentation](https://github.com/MicrosoftDocs/Virtualization-Documentation) | Place to store our documentation, code samples, etc for public consumption. | PowerShell | 1790 | Creative Commons Attribution 4.0 International | 2015-07-27 | 2024-07-18 |
 | [visualfsharpdocs](https://github.com/MicrosoftDocs/visualfsharpdocs) | Frozen documentation repository for legacy MSDN Content for Visual F# | F# | 102 | Creative Commons Attribution 4.0 International | 2015-10-15 | 2024-03-23 |
-| [PowerShell-Docs](https://github.com/MicrosoftDocs/PowerShell-Docs) | The official PowerShell documentation sources | PowerShell | 1935 | Creative Commons Attribution 4.0 International | 2015-10-16 | 2024-07-19 |
-| [windows-driver-docs](https://github.com/MicrosoftDocs/windows-driver-docs) | The official Windows Driver Kit documentation sources | PowerShell | 875 | Creative Commons Attribution 4.0 International | 2015-10-28 | 2024-07-21 |
+| [PowerShell-Docs](https://github.com/MicrosoftDocs/PowerShell-Docs) | The official PowerShell documentation sources | PowerShell | 1937 | Creative Commons Attribution 4.0 International | 2015-10-16 | 2024-07-21 |
+| [windows-driver-docs](https://github.com/MicrosoftDocs/windows-driver-docs) | The official Windows Driver Kit documentation sources | PowerShell | 876 | Creative Commons Attribution 4.0 International | 2015-10-28 | 2024-07-21 |
 | [ATADocs](https://github.com/MicrosoftDocs/ATADocs) | Public content repo for ATA documentation in OPS | PowerShell | 72 | Creative Commons Attribution 4.0 International | 2016-01-29 | 2024-07-17 |
 | [Azure-RMSDocs](https://github.com/MicrosoftDocs/Azure-RMSDocs) | Public content repo for Azure RMS content in OPS | CSS | 95 | Other | 2016-01-29 | 2024-07-12 |
 | [EMDocs](https://github.com/MicrosoftDocs/EMDocs) | Public repo for EM content in OPS. | PowerShell | 10 | Creative Commons Attribution 4.0 International | 2016-01-29 | 2024-04-01 |
 | [MIMDocs](https://github.com/MicrosoftDocs/MIMDocs) | Public repo for MIM content in OPS | Shell | 42 | Creative Commons Attribution 4.0 International | 2016-01-29 | 2024-06-28 |
-| [WSL](https://github.com/MicrosoftDocs/WSL) | Source code behind the Windows Subsystem for Linux documentation. | PowerShell | 1880 | Other | 2016-03-23 | 2024-07-18 |
+| [WSL](https://github.com/MicrosoftDocs/WSL) | Source code behind the Windows Subsystem for Linux documentation. | PowerShell | 1881 | Other | 2016-03-23 | 2024-07-21 |
 | [navdevitpro-content-pr](https://github.com/MicrosoftDocs/navdevitpro-content-pr) | Content for the devitpro release for on-prem & PaaS | PowerShell | 6 | Creative Commons Attribution 4.0 International | 2016-05-04 | 2024-04-24 |
 | [windows-itpro-docs](https://github.com/MicrosoftDocs/windows-itpro-docs) | This repository is used for Windows client for IT Pro content on Microsoft Learn. | PowerShell | 1516 | Creative Commons Attribution 4.0 International | 2016-08-08 | 2024-07-20 |
-| [azure-docs-cli](https://github.com/MicrosoftDocs/azure-docs-cli) | Repository used to store content for the docs.microsoft.com content for the Azure CLI | PowerShell | 204 | Creative Commons Attribution 4.0 International | 2016-08-10 | 2024-07-20 |
+| [azure-docs-cli](https://github.com/MicrosoftDocs/azure-docs-cli) | Repository used to store content for the docs.microsoft.com content for the Azure CLI | PowerShell | 204 | Creative Commons Attribution 4.0 International | 2016-08-10 | 2024-07-22 |
 | [Console-Docs](https://github.com/MicrosoftDocs/Console-Docs) | Windows Console Docs Repo | PowerShell | 218 | Creative Commons Attribution 4.0 International | 2016-08-10 | 2024-07-19 |
 | [azure-docs-powershell](https://github.com/MicrosoftDocs/azure-docs-powershell) | Repository used to store Azure PowerShell cmdlet content published on docs.ms.com reference site. | PowerShell | 229 | Creative Commons Attribution 4.0 International | 2016-08-11 | 2024-07-17 |
 | [vsts-rest-api-specs](https://github.com/MicrosoftDocs/vsts-rest-api-specs) | None | PowerShell | 159 | MIT License | 2016-09-12 | 2024-07-04 |
 | [IIS.Administration-docs](https://github.com/MicrosoftDocs/IIS.Administration-docs) | None | PowerShell | 11 | Creative Commons Attribution 4.0 International | 2016-09-20 | 2024-05-09 |
 | [Reporting-Services](https://github.com/MicrosoftDocs/Reporting-Services) | Reporting-Services | None | 2 | - | 2016-10-08 | 2023-12-15 |
-| [CloudAppSecurityDocs](https://github.com/MicrosoftDocs/CloudAppSecurityDocs) | Public repo for CloudAppSecurityDocs-pr | PowerShell | 106 | Creative Commons Attribution 4.0 International | 2016-10-11 | 2024-07-18 |
+| [CloudAppSecurityDocs](https://github.com/MicrosoftDocs/CloudAppSecurityDocs) | Public repo for CloudAppSecurityDocs-pr | PowerShell | 106 | Creative Commons Attribution 4.0 International | 2016-10-11 | 2024-07-22 |
 | [SCCMdocs](https://github.com/MicrosoftDocs/SCCMdocs) | Configuration Manager documentation public repo | PowerShell | 250 | Creative Commons Attribution 4.0 International | 2016-10-31 | 2024-06-30 |
-| [azure-docs](https://github.com/MicrosoftDocs/azure-docs) | Open source documentation of Microsoft Azure | Markdown | 10126 | Creative Commons Attribution 4.0 International | 2016-11-02 | 2024-07-21 |
-| [visualstudio-docs](https://github.com/MicrosoftDocs/visualstudio-docs) | This repo is the home of the official  documentation for Visual Studio. | Python | 1076 | Creative Commons Attribution 4.0 International | 2016-11-14 | 2024-07-19 |
-| [cpp-docs](https://github.com/MicrosoftDocs/cpp-docs) | C++ Documentation | PowerShell | 1417 | Creative Commons Attribution 4.0 International | 2016-11-14 | 2024-07-19 |
+| [azure-docs](https://github.com/MicrosoftDocs/azure-docs) | Open source documentation of Microsoft Azure | Markdown | 10126 | Creative Commons Attribution 4.0 International | 2016-11-02 | 2024-07-22 |
+| [visualstudio-docs](https://github.com/MicrosoftDocs/visualstudio-docs) | This repo is the home of the official  documentation for Visual Studio. | Python | 1076 | Creative Commons Attribution 4.0 International | 2016-11-14 | 2024-07-22 |
+| [cpp-docs](https://github.com/MicrosoftDocs/cpp-docs) | C++ Documentation | PowerShell | 1418 | Creative Commons Attribution 4.0 International | 2016-11-14 | 2024-07-22 |
 | [nav-content](https://github.com/MicrosoftDocs/nav-content) | Source for application Help for Microsoft Dynamics NAV | HTML | 39 | Creative Commons Attribution 4.0 International | 2016-12-15 | 2023-01-30 |
 | [azure-docs-sdk-node](https://github.com/MicrosoftDocs/azure-docs-sdk-node) | Azure for JavaScript and Node.js developers documentation on docs.microsoft.com. | PowerShell | 82 | Creative Commons Attribution 4.0 International | 2017-01-09 | 2024-07-20 |
 | [windows-dev-docs](https://github.com/MicrosoftDocs/windows-dev-docs) | Conceptual and overview content for developing Windows apps | C# | 669 | Creative Commons Attribution 4.0 International | 2017-01-13 | 2024-07-20 |
 | [winrt-api](https://github.com/MicrosoftDocs/winrt-api) | WinRT reference content for developing Microsoft Universal Windows Platform (UWP) apps | JavaScript | 227 | Creative Commons Attribution 4.0 International | 2017-01-18 | 2024-07-11 |
 | [winrt-related](https://github.com/MicrosoftDocs/winrt-related) | WinRT related reference content for developing Microsoft Universal Windows Platform (UWP) apps | PowerShell | 76 | Creative Commons Attribution 4.0 International | 2017-01-18 | 2024-06-28 |
 | [edge-developer](https://github.com/MicrosoftDocs/edge-developer) | Developer documentation for Edge. | HTML | 377 | Creative Commons Attribution 4.0 International | 2017-01-23 | 2024-07-18 |
-| [architecture-center](https://github.com/MicrosoftDocs/architecture-center) | Open Source documentation for the Azure Architecture Center on Microsoft Docs | PowerShell | 1845 | Creative Commons Attribution 4.0 International | 2017-02-14 | 2024-07-19 |
+| [architecture-center](https://github.com/MicrosoftDocs/architecture-center) | Open Source documentation for the Azure Architecture Center on Microsoft Docs | PowerShell | 1846 | Creative Commons Attribution 4.0 International | 2017-02-14 | 2024-07-21 |
 | [CordovaDocs](https://github.com/MicrosoftDocs/CordovaDocs) | content repo for Apache Cordova on docs.microsoft.com | PowerShell | 14 | Creative Commons Attribution 4.0 International | 2017-02-15 | 2024-01-03 |
 | [MigrationPlaybookContent](https://github.com/MicrosoftDocs/MigrationPlaybookContent) | MigrationPlaybook content | None | 21 | - | 2017-02-15 | 2023-12-15 |
 | [windows-powershell-docs](https://github.com/MicrosoftDocs/windows-powershell-docs) | This repo is used to contribute to Windows 10, Windows Server 2016, and MDOP PowerShell module documentation. | PowerShell | 433 | Creative Commons Attribution 4.0 International | 2017-02-17 | 2024-07-20 |
@@ -5108,21 +5108,21 @@
 | [dynamics365smb-docs-pr.sv-se](https://github.com/MicrosoftDocs/dynamics365smb-docs-pr.sv-se) | None | PowerShell | 3 | Creative Commons Attribution 4.0 International | 2017-04-05 | 2024-07-20 |
 | [patterns-practices](https://github.com/MicrosoftDocs/patterns-practices) | None | PowerShell | 9 | Creative Commons Attribution 4.0 International | 2017-04-07 | 2023-07-25 |
 | [groove-api-sdk-csharp](https://github.com/MicrosoftDocs/groove-api-sdk-csharp) | SDK for windows universal application for the Groove API | C# | 4 | MIT License | 2017-04-13 | 2024-02-05 |
-| [windowsserverdocs](https://github.com/MicrosoftDocs/windowsserverdocs) | Public content repository for Windows Server content. | PowerShell | 1342 | Creative Commons Attribution 4.0 International | 2017-04-20 | 2024-07-20 |
+| [windowsserverdocs](https://github.com/MicrosoftDocs/windowsserverdocs) | Public content repository for Windows Server content. | PowerShell | 1343 | Creative Commons Attribution 4.0 International | 2017-04-20 | 2024-07-22 |
 | [CNTK](https://github.com/MicrosoftDocs/CNTK) | Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit | C++ | 6 | Other | 2017-04-24 | 2024-06-18 |
 | [serviceaccount0426](https://github.com/MicrosoftDocs/serviceaccount0426) | None | PowerShell | 1 | Creative Commons Attribution 4.0 International | 2017-04-26 | 2024-02-15 |
 | [azure-iot-sdk-csharp](https://github.com/MicrosoftDocs/azure-iot-sdk-csharp) | A C# SDK for connecting devices to Microsoft Azure IoT services | C# | 4 | Other | 2017-05-09 | 2023-11-16 |
 | [dynamics365smb-docs](https://github.com/MicrosoftDocs/dynamics365smb-docs) | Welcome to the repository for the application help content for Dynamics 365 Business Central! This repo gives you access to the source files for the enduser Learn More content. It also provides a way for you to actively contribute to the current Business Central content. | HTML | 116 | Creative Commons Attribution 4.0 International | 2017-05-16 | 2024-07-19 |
 | [biztalk-docs](https://github.com/MicrosoftDocs/biztalk-docs) | None | PowerShell | 44 | Creative Commons Attribution 4.0 International | 2017-05-18 | 2024-07-18 |
-| [msftdynamicsgpdocs](https://github.com/MicrosoftDocs/msftdynamicsgpdocs) | Repo for documentation for Microsoft Dynamics GP | PowerShell | 18 | Creative Commons Attribution 4.0 International | 2017-05-22 | 2024-07-16 |
+| [msftdynamicsgpdocs](https://github.com/MicrosoftDocs/msftdynamicsgpdocs) | Repo for documentation for Microsoft Dynamics GP | PowerShell | 18 | Creative Commons Attribution 4.0 International | 2017-05-22 | 2024-07-22 |
 | [bot-docs](https://github.com/MicrosoftDocs/bot-docs) | Official documentation for the Azure Bot Service | None | 117 | Creative Commons Attribution 4.0 International | 2017-05-22 | 2024-05-01 |
-| [azure-docs-sdk-python](https://github.com/MicrosoftDocs/azure-docs-sdk-python) | Azure Python SDK documentation, hosted on docs.microsoft.com. | Python | 123 | Creative Commons Attribution 4.0 International | 2017-05-24 | 2024-07-20 |
+| [azure-docs-sdk-python](https://github.com/MicrosoftDocs/azure-docs-sdk-python) | Azure Python SDK documentation, hosted on docs.microsoft.com. | Python | 123 | Creative Commons Attribution 4.0 International | 2017-05-24 | 2024-07-22 |
 | [XboxLive-API](https://github.com/MicrosoftDocs/XboxLive-API) | Repo for Xbox Live WinRT reference content | PowerShell | 4 | Creative Commons Attribution 4.0 International | 2017-05-24 | 2023-08-08 |
-| [sysinternals](https://github.com/MicrosoftDocs/sysinternals) | Content for sysinternals.com | PowerShell | 456 | Creative Commons Attribution 4.0 International | 2017-05-25 | 2024-07-11 |
+| [sysinternals](https://github.com/MicrosoftDocs/sysinternals) | Content for sysinternals.com | PowerShell | 457 | Creative Commons Attribution 4.0 International | 2017-05-25 | 2024-07-21 |
 | [AdaptiveCards](https://github.com/MicrosoftDocs/AdaptiveCards) | Docs for Adaptive Cards | CSS | 72 | Creative Commons Attribution 4.0 International | 2017-06-02 | 2024-06-27 |
 | [d365Ops-Financials](https://github.com/MicrosoftDocs/d365Ops-Financials) | None | PowerShell | 4 | Creative Commons Attribution 4.0 International | 2017-06-08 | 2023-12-15 |
 | [E2E_Private_MicrosoftDocs_Dynamic](https://github.com/MicrosoftDocs/E2E_Private_MicrosoftDocs_Dynamic) | None | PowerShell | 3 | Other | 2017-06-20 | 2024-02-15 |
-| [office-docs-powershell](https://github.com/MicrosoftDocs/office-docs-powershell) | PowerShell Reference for Office Products - Short URL: aka.ms/office-powershell | JavaScript | 588 | Creative Commons Attribution 4.0 International | 2017-06-21 | 2024-07-19 |
+| [office-docs-powershell](https://github.com/MicrosoftDocs/office-docs-powershell) | PowerShell Reference for Office Products - Short URL: aka.ms/office-powershell | JavaScript | 588 | Creative Commons Attribution 4.0 International | 2017-06-21 | 2024-07-22 |
 | [E2E_MicrosoftDocs_Dynamic](https://github.com/MicrosoftDocs/E2E_MicrosoftDocs_Dynamic) | None | PowerShell | 2 | Creative Commons Attribution 4.0 International | 2017-06-22 | 2023-12-15 |
 | [E2E_Mic_Transfer_Dynamic](https://github.com/MicrosoftDocs/E2E_Mic_Transfer_Dynamic) | None | PowerShell | 4 | Creative Commons Attribution 4.0 International | 2017-06-22 | 2023-06-25 |
 | [nav-content.cs-cz](https://github.com/MicrosoftDocs/nav-content.cs-cz) | None | PowerShell | 4 | Creative Commons Attribution 4.0 International | 2017-06-22 | 2024-02-15 |
@@ -5151,7 +5151,7 @@
 | [nav-content.it-it](https://github.com/MicrosoftDocs/nav-content.it-it) | None | HTML | 2 | Creative Commons Attribution 4.0 International | 2017-06-26 | 2021-12-02 |
 | [serviceaccount0627](https://github.com/MicrosoftDocs/serviceaccount0627) | None | PowerShell | 1 | Creative Commons Attribution 4.0 International | 2017-06-27 | 2023-11-16 |
 | [globalization](https://github.com/MicrosoftDocs/globalization) | None | HTML | 25 | Creative Commons Attribution 4.0 International | 2017-06-29 | 2024-06-24 |
-| [sql-docs](https://github.com/MicrosoftDocs/sql-docs) | Technical documentation for Microsoft SQL Server, tools such as SQL Server Management Studio (SSMS) ,  SQL Server Data Tools (SSDT) etc. | PowerShell | 1118 | Creative Commons Attribution 4.0 International | 2017-07-11 | 2024-07-19 |
+| [sql-docs](https://github.com/MicrosoftDocs/sql-docs) | Technical documentation for Microsoft SQL Server, tools such as SQL Server Management Studio (SSMS) ,  SQL Server Data Tools (SSDT) etc. | PowerShell | 1119 | Creative Commons Attribution 4.0 International | 2017-07-11 | 2024-07-21 |
 | [Microsoft-teams-docs](https://github.com/MicrosoftDocs/Microsoft-teams-docs) | Developer platform documentation for Microsoft Teams | PowerShell | 5 | Creative Commons Attribution 4.0 International | 2017-07-12 | 2023-06-25 |
 | [PowerShell-DSC-for-Linux](https://github.com/MicrosoftDocs/PowerShell-DSC-for-Linux) | PowerShell Desired State Configuration - for Linux | C | 4 | Other | 2017-07-12 | 2023-10-25 |
 | [cross-device](https://github.com/MicrosoftDocs/cross-device) | None | PowerShell | 10 | Creative Commons Attribution 4.0 International | 2017-08-02 | 2024-04-18 |
@@ -5215,8 +5215,8 @@
 | [dotnet-ci-demo-1.zh-cn](https://github.com/MicrosoftDocs/dotnet-ci-demo-1.zh-cn) | None | PowerShell | 2 | Creative Commons Attribution 4.0 International | 2018-01-10 | 2024-02-15 |
 | [windows-driver-docs-ddi](https://github.com/MicrosoftDocs/windows-driver-docs-ddi) | The official Windows Driver Kit DDI reference documentation sources | None | 245 | Creative Commons Attribution 4.0 International | 2018-01-12 | 2024-07-18 |
 | [opsmgr-docs-rest-apis](https://github.com/MicrosoftDocs/opsmgr-docs-rest-apis) | None | PowerShell | 6 | Creative Commons Attribution 4.0 International | 2018-01-19 | 2024-04-20 |
-| [power-automate-docs](https://github.com/MicrosoftDocs/power-automate-docs) | None | Mermaid | 263 | Creative Commons Attribution 4.0 International | 2018-01-25 | 2024-07-20 |
-| [powerbi-docs](https://github.com/MicrosoftDocs/powerbi-docs) | None | PowerShell | 450 | Creative Commons Attribution 4.0 International | 2018-01-25 | 2024-07-20 |
+| [power-automate-docs](https://github.com/MicrosoftDocs/power-automate-docs) | None | Mermaid | 264 | Creative Commons Attribution 4.0 International | 2018-01-25 | 2024-07-21 |
+| [powerbi-docs](https://github.com/MicrosoftDocs/powerbi-docs) | None | PowerShell | 451 | Creative Commons Attribution 4.0 International | 2018-01-25 | 2024-07-21 |
 | [appcenter-docs](https://github.com/MicrosoftDocs/appcenter-docs) | content repo for Visual Studio App Center on docs.microsoft.com | PowerShell | 122 | Creative Commons Attribution 4.0 International | 2018-01-26 | 2024-07-18 |
 | [microsoft-365-docs](https://github.com/MicrosoftDocs/microsoft-365-docs) | This repo is used to host the source for the Microsoft 365 documentation on https://docs.microsoft.com. | PowerShell | 924 | Creative Commons Attribution 4.0 International | 2018-01-26 | 2024-07-19 |
 | [office-developer-msproject-xml-docs](https://github.com/MicrosoftDocs/office-developer-msproject-xml-docs) | This public repo is maintained by community. For PRs, tag @lindalu-MSFT in comments or add me as a reviewer. | PowerShell | 5 | Creative Commons Attribution 4.0 International | 2018-01-31 | 2023-06-23 |
@@ -5386,7 +5386,7 @@
 | [SampleTestTemplates](https://github.com/MicrosoftDocs/SampleTestTemplates) | Templates for automated code sample testing. | PowerShell | 1 | Creative Commons Attribution 4.0 International | 2018-10-08 | 2023-11-16 |
 | [partner-center-java-docs](https://github.com/MicrosoftDocs/partner-center-java-docs) | Partner Center SDK for Java | PowerShell | 5 | Creative Commons Attribution 4.0 International | 2018-10-11 | 2024-04-20 |
 | [open_specs_blog](https://github.com/MicrosoftDocs/open_specs_blog) | None | PowerShell | 3 | Creative Commons Attribution 4.0 International | 2018-10-11 | 2024-07-18 |
-| [mslearn-add-and-size-disks-in-azure-virtual-machines](https://github.com/MicrosoftDocs/mslearn-add-and-size-disks-in-azure-virtual-machines) | Code repo for "Add and size disks in Azure virtual machines" module | Shell | 7 | Other | 2018-10-12 | 2023-07-25 |
+| [mslearn-add-and-size-disks-in-azure-virtual-machines](https://github.com/MicrosoftDocs/mslearn-add-and-size-disks-in-azure-virtual-machines) | Code repo for "Add and size disks in Azure virtual machines" module | Shell | 8 | Other | 2018-10-12 | 2024-07-22 |
 | [microsoft-academic-services](https://github.com/MicrosoftDocs/microsoft-academic-services) | None | PowerShell | 15 | Creative Commons Attribution 4.0 International | 2018-10-12 | 2023-11-16 |
 | [partner-center-docs-powershell](https://github.com/MicrosoftDocs/partner-center-docs-powershell) | Partner Center PowerShell module documentation | PowerShell | 12 | Creative Commons Attribution 4.0 International | 2018-10-22 | 2024-02-17 |
 | [sccm-docs-powershell-ref](https://github.com/MicrosoftDocs/sccm-docs-powershell-ref) | Configuration Manager PowerShell documentation public repo | PowerShell | 26 | Creative Commons Attribution 4.0 International | 2018-10-26 | 2024-07-03 |
@@ -5606,7 +5606,7 @@
 | [quantum-docs-pr.tr-TR](https://github.com/MicrosoftDocs/quantum-docs-pr.tr-TR) | None | PowerShell | 1 | Creative Commons Attribution 4.0 International | 2019-10-24 | 2023-11-16 |
 | [mslearn-tailspin-spacegame-web-automate](https://github.com/MicrosoftDocs/mslearn-tailspin-spacegame-web-automate) | Code used in Microsoft Learn modules to support Azure DevOps | HTML | 9 | MIT License | 2019-10-29 | 2024-06-12 |
 | [azure-java-reference](https://github.com/MicrosoftDocs/azure-java-reference) | None | PowerShell | 3 | Creative Commons Attribution 4.0 International | 2019-10-31 | 2024-05-07 |
-| [power-platform](https://github.com/MicrosoftDocs/power-platform) | Documentation for Microsoft Power Platform | PowerShell | 345 | Creative Commons Attribution 4.0 International | 2019-11-05 | 2024-07-20 |
+| [power-platform](https://github.com/MicrosoftDocs/power-platform) | Documentation for Microsoft Power Platform | PowerShell | 346 | Creative Commons Attribution 4.0 International | 2019-11-05 | 2024-07-21 |
 | [mslearn-monitor-diagnose-and-troubleshoot-azure-storage](https://github.com/MicrosoftDocs/mslearn-monitor-diagnose-and-troubleshoot-azure-storage) | Code samples for monitor, diagnose, and troubleshoot your Azure storage | C# | 5 | MIT License | 2019-11-07 | 2023-10-25 |
 | [dynamics-365-fraud-protection](https://github.com/MicrosoftDocs/dynamics-365-fraud-protection) | Documentation for Dynamics 365 Fraud Protection | PowerShell | 10 | Creative Commons Attribution 4.0 International | 2019-11-08 | 2024-06-27 |
 | [DevOpsLearn](https://github.com/MicrosoftDocs/DevOpsLearn) | DevOps Learn documentation | None | 3 | Creative Commons Attribution 4.0 International | 2019-11-18 | 2023-12-15 |
@@ -5631,7 +5631,7 @@
 | [botbuilder-docs-sdk-python](https://github.com/MicrosoftDocs/botbuilder-docs-sdk-python) | None | PowerShell | 4 | Creative Commons Attribution 4.0 International | 2020-01-07 | 2024-05-21 |
 | [devops-resource-center](https://github.com/MicrosoftDocs/devops-resource-center) | Repository for tracking issues with DevOps resource center content: https://docs.microsoft.com/azure/devops/learn/  | None | 13 | Other | 2020-01-09 | 2024-02-23 |
 | [SecurityBenchmarks](https://github.com/MicrosoftDocs/SecurityBenchmarks) | Supplemental information and resources for the Security Benchmark documentation available at https://docs.microsoft.com/azure/security/benchmarks/.  | None | 390 | Creative Commons Attribution 4.0 International | 2020-01-09 | 2024-07-13 |
-| [powerquery-docs](https://github.com/MicrosoftDocs/powerquery-docs) | Source repo that hosts the product documentation for Microsoft Power Query | Objective-C | 113 | Creative Commons Attribution 4.0 International | 2020-01-17 | 2024-07-19 |
+| [powerquery-docs](https://github.com/MicrosoftDocs/powerquery-docs) | Source repo that hosts the product documentation for Microsoft Power Query | Objective-C | 114 | Creative Commons Attribution 4.0 International | 2020-01-17 | 2024-07-21 |
 | [mslearn-build-ai-web-app-with-python-and-flask](https://github.com/MicrosoftDocs/mslearn-build-ai-web-app-with-python-and-flask) | Code samples for module: Build AI web app with Python and Flask | HTML | 11 | Creative Commons Attribution 4.0 International | 2020-01-18 | 2024-06-12 |
 | [mslearn-build-api-azure-functions](https://github.com/MicrosoftDocs/mslearn-build-api-azure-functions) | MSLearn exercise code | HTML | 24 | MIT License | 2020-01-31 | 2024-06-13 |
 | [DocsContentNav](https://github.com/MicrosoftDocs/DocsContentNav) | None | PowerShell | 3 | Creative Commons Attribution 4.0 International | 2020-02-18 | 2024-04-22 |
@@ -5697,7 +5697,7 @@
 | [vue-docs-image-recognition](https://github.com/MicrosoftDocs/vue-docs-image-recognition) | Little demo showing docs image recognition using tensorflowjs | Vue | 1 | - | 2020-06-10 | 2022-03-24 |
 | [ppe-test.zh-cn](https://github.com/MicrosoftDocs/ppe-test.zh-cn) | None | PowerShell | 0 | Creative Commons Attribution 4.0 International | 2020-06-11 | 2023-07-25 |
 | [mslearn-explore-data-visualization-azure](https://github.com/MicrosoftDocs/mslearn-explore-data-visualization-azure) | Code samples for Module name | None | 4 | MIT License | 2020-06-11 | 2023-10-25 |
-| [ml-basics](https://github.com/MicrosoftDocs/ml-basics) | Exercise notebooks for Machine Learning modules on Microsoft Learn | Jupyter Notebook | 1745 | MIT License | 2020-06-13 | 2024-07-18 |
+| [ml-basics](https://github.com/MicrosoftDocs/ml-basics) | Exercise notebooks for Machine Learning modules on Microsoft Learn | Jupyter Notebook | 1746 | MIT License | 2020-06-13 | 2024-07-21 |
 | [testjuchen8303.zh-cn](https://github.com/MicrosoftDocs/testjuchen8303.zh-cn) | None | PowerShell | 0 | Creative Commons Attribution 4.0 International | 2020-06-15 | 2024-02-15 |
 | [Devices-docs](https://github.com/MicrosoftDocs/Devices-docs) | Contains documentation for Surface and Surface Hub | PowerShell | 38 | Creative Commons Attribution 4.0 International | 2020-06-15 | 2024-07-17 |
 | [Hololens](https://github.com/MicrosoftDocs/Hololens) | Contains documentation for Hololens | PowerShell | 48 | Creative Commons Attribution 4.0 International | 2020-06-15 | 2024-07-10 |
@@ -5926,7 +5926,7 @@
 | [mslearn-vue-data-events](https://github.com/MicrosoftDocs/mslearn-vue-data-events) | Code samples for Vue module. | CSS | 3 | Creative Commons Attribution 4.0 International | 2021-03-09 | 2022-03-24 |
 | [mslearn-vue-components](https://github.com/MicrosoftDocs/mslearn-vue-components) | Sample code repo for Vue. | Vue | 2 | Creative Commons Attribution 4.0 International | 2021-03-09 | 2023-10-25 |
 | [azure-fluid-preview-pr](https://github.com/MicrosoftDocs/azure-fluid-preview-pr) | None | None | 3 | Creative Commons Attribution 4.0 International | 2021-03-10 | 2024-05-07 |
-| [mslearn-retrieve-m365-data-with-msgraph-quickstart](https://github.com/MicrosoftDocs/mslearn-retrieve-m365-data-with-msgraph-quickstart) | Quick start sample using JavaScript to retrieve M365 data using Microsoft Graph  | JavaScript | 35 | Creative Commons Attribution 4.0 International | 2021-03-12 | 2024-06-12 |
+| [mslearn-retrieve-m365-data-with-msgraph-quickstart](https://github.com/MicrosoftDocs/mslearn-retrieve-m365-data-with-msgraph-quickstart) | Quick start sample using JavaScript to retrieve M365 data using Microsoft Graph  | JavaScript | 36 | Creative Commons Attribution 4.0 International | 2021-03-12 | 2024-07-22 |
 | [test-prod-120321-01](https://github.com/MicrosoftDocs/test-prod-120321-01) | None | PowerShell | 0 | Creative Commons Attribution 4.0 International | 2021-03-12 | 2024-05-07 |
 | [connected-store](https://github.com/MicrosoftDocs/connected-store) | Existing release review for MicrosoftDocs/connected-store-pr per https://ceapex.visualstudio.com/Onboarding/_workitems/edit/390816 | None | 1 | - | 2021-03-12 | 2023-12-15 |
 | [connected-spaces](https://github.com/MicrosoftDocs/connected-spaces) | Sync with MicrosoftDocs/connected-store-pr | PowerShell | 4 | Creative Commons Attribution 4.0 International | 2021-03-16 | 2024-05-03 |
@@ -5936,7 +5936,7 @@
 | [mslearn-intro-translator-text-to-speech](https://github.com/MicrosoftDocs/mslearn-intro-translator-text-to-speech) | None | JavaScript | 2 | Creative Commons Attribution 4.0 International | 2021-03-18 | 2024-06-12 |
 | [PPE-0323-TestPDF](https://github.com/MicrosoftDocs/PPE-0323-TestPDF) | None | PowerShell | 0 | Creative Commons Attribution 4.0 International | 2021-03-23 | 2023-12-15 |
 | [altspace-vr](https://github.com/MicrosoftDocs/altspace-vr) | Public sync with MicrosoftDocs/altspace-vr-pr | PowerShell | 10 | Creative Commons Attribution 4.0 International | 2021-03-23 | 2023-10-31 |
-| [security](https://github.com/MicrosoftDocs/security) | Public repo to sync with security-pr | PowerShell | 193 | Creative Commons Attribution 4.0 International | 2021-03-31 | 2024-07-19 |
+| [security](https://github.com/MicrosoftDocs/security) | Public repo to sync with security-pr | PowerShell | 194 | Creative Commons Attribution 4.0 International | 2021-03-31 | 2024-07-21 |
 | [customer-insights](https://github.com/MicrosoftDocs/customer-insights) | Public sync with customer-insights-pr | PowerShell | 13 | Creative Commons Attribution 4.0 International | 2021-03-31 | 2024-07-20 |
 | [mslearn-create-batch-account](https://github.com/MicrosoftDocs/mslearn-create-batch-account) | Sample code for MS Learn module | None | 1 | Creative Commons Attribution 4.0 International | 2021-04-01 | 2023-12-15 |
 | [edge-archive](https://github.com/MicrosoftDocs/edge-archive) | None | PowerShell | 1 | Creative Commons Attribution 4.0 International | 2021-04-02 | 2021-11-02 |
@@ -5960,7 +5960,7 @@
 | [mslearn-immersive-reader-stt](https://github.com/MicrosoftDocs/mslearn-immersive-reader-stt) | None | JavaScript | 2 | Creative Commons Attribution 4.0 International | 2021-05-12 | 2024-06-12 |
 | [Windows-Admin-Center-Ideas-and-Feedback](https://github.com/MicrosoftDocs/Windows-Admin-Center-Ideas-and-Feedback) | Windows Admin Center's hub for ideas and feedback.  | None | 20 | Creative Commons Attribution 4.0 International | 2021-05-12 | 2023-10-25 |
 | [mslearn-mr-adt-in-unity](https://github.com/MicrosoftDocs/mslearn-mr-adt-in-unity) | This is a repo that holds the sample code for the Mixed Reality and Azure Digital Twins in Unity Learn Path | C# | 63 | Creative Commons Attribution 4.0 International | 2021-05-13 | 2024-06-20 |
-| [minecraft-creator](https://github.com/MicrosoftDocs/minecraft-creator) | This is the repository for Minecraft Bedrock documentation. | PowerShell | 166 | Creative Commons Attribution 4.0 International | 2021-05-13 | 2024-07-17 |
+| [minecraft-creator](https://github.com/MicrosoftDocs/minecraft-creator) | This is the repository for Minecraft Bedrock documentation. | PowerShell | 168 | Creative Commons Attribution 4.0 International | 2021-05-13 | 2024-07-21 |
 | [learn-dynamics-pr.ar-sa](https://github.com/MicrosoftDocs/learn-dynamics-pr.ar-sa) | None | None | 0 | Creative Commons Attribution 4.0 International | 2021-05-19 | 2024-01-15 |
 | [test-ppe-200521-05](https://github.com/MicrosoftDocs/test-ppe-200521-05) | None | None | 0 | Creative Commons Attribution 4.0 International | 2021-05-20 | 2023-12-15 |
 | [test-ppe-0521-01](https://github.com/MicrosoftDocs/test-ppe-0521-01) | None | None | 0 | Creative Commons Attribution 4.0 International | 2021-05-20 | 2023-12-15 |
@@ -5986,7 +5986,7 @@
 | [mslearn-dotnet-kubernetes](https://github.com/MicrosoftDocs/mslearn-dotnet-kubernetes) | Dockerfiles for the ASP.NET Core web API projects for the Deploying .NET microservices to Kubernetes Learn module | C# | 26 | Creative Commons Attribution 4.0 International | 2021-08-13 | 2024-03-14 |
 | [mslearn-test-bicep-code-using-azure-pipelines](https://github.com/MicrosoftDocs/mslearn-test-bicep-code-using-azure-pipelines) | Code used in Microsoft Learn module titled 'Test your Bicep code by using Azure Pipelines' | Bicep | 5 | Creative Commons Attribution 4.0 International | 2021-08-27 | 2024-06-12 |
 | [mslearn-manage-multiple-environments-using-bicep-azure-pipelines](https://github.com/MicrosoftDocs/mslearn-manage-multiple-environments-using-bicep-azure-pipelines) | Code used in Microsoft Learn module titled 'Manage multiple environments by using Bicep and Azure Pipelines' | Bicep | 5 | Creative Commons Attribution 4.0 International | 2021-09-08 | 2024-06-12 |
-| [mslearn-m365-microsoftgraph-dotnetcorerazor](https://github.com/MicrosoftDocs/mslearn-m365-microsoftgraph-dotnetcorerazor) | Microsoft Learn code for the Microsoft Graph/.NET Core scenarios learning path. | C# | 14 | Creative Commons Attribution 4.0 International | 2021-09-09 | 2024-04-27 |
+| [mslearn-m365-microsoftgraph-dotnetcorerazor](https://github.com/MicrosoftDocs/mslearn-m365-microsoftgraph-dotnetcorerazor) | Microsoft Learn code for the Microsoft Graph/.NET Core scenarios learning path. | C# | 15 | Creative Commons Attribution 4.0 International | 2021-09-09 | 2024-07-22 |
 | [windows-iot-public](https://github.com/MicrosoftDocs/windows-iot-public) | Public sync with windows-iot-pr | None | 19 | Creative Commons Attribution 4.0 International | 2021-09-16 | 2024-07-18 |
 | [Advertising](https://github.com/MicrosoftDocs/Advertising) | Public sync with MicrosoftDocs/Advertising-pr | PowerShell | 11 | Creative Commons Attribution 4.0 International | 2021-09-16 | 2024-07-19 |
 | [mslearn-azuremigrate-appcontainerization-aspnet](https://github.com/MicrosoftDocs/mslearn-azuremigrate-appcontainerization-aspnet) | None | PowerShell | 2 | Creative Commons Attribution 4.0 International | 2021-09-22 | 2024-06-12 |
@@ -6013,7 +6013,7 @@
 | [mslearn-advanced-pybryt](https://github.com/MicrosoftDocs/mslearn-advanced-pybryt) | None | Jupyter Notebook | 1 | Creative Commons Attribution 4.0 International | 2021-12-15 | 2024-06-12 |
 | [Linux-compliance-private-preview](https://github.com/MicrosoftDocs/Linux-compliance-private-preview) | None | None | 0 | Creative Commons Attribution 4.0 International | 2021-12-16 | 2024-02-15 |
 | [mslearn-blazor-navigation](https://github.com/MicrosoftDocs/mslearn-blazor-navigation) | Sample repo for use pages, routing, and layouts to improve Blazor navigation Learn Module | CSS | 5 | Creative Commons Attribution 4.0 International | 2021-12-29 | 2024-03-12 |
-| [CommunityToolkit](https://github.com/MicrosoftDocs/CommunityToolkit) | The Official Docs for the Community Toolkits | None | 103 | Creative Commons Attribution 4.0 International | 2022-01-12 | 2024-07-17 |
+| [CommunityToolkit](https://github.com/MicrosoftDocs/CommunityToolkit) | The Official Docs for the Community Toolkits | None | 103 | Creative Commons Attribution 4.0 International | 2022-01-12 | 2024-07-21 |
 | [mslearn-detect-anomalies-in-realtime](https://github.com/MicrosoftDocs/mslearn-detect-anomalies-in-realtime) | Sample for a Microsoft Learn module to identify abnormal data patterns in real-time using anomaly detector | Python | 1 | Creative Commons Attribution 4.0 International | 2022-01-12 | 2024-06-12 |
 | [zhihongli-test](https://github.com/MicrosoftDocs/zhihongli-test) | None | None | 0 | Creative Commons Attribution 4.0 International | 2022-01-13 | 2024-02-15 |
 | [well-architected](https://github.com/MicrosoftDocs/well-architected) | Public sync with well-architected-pr | None | 64 | Creative Commons Attribution 4.0 International | 2022-01-20 | 2024-07-19 |
@@ -6075,7 +6075,7 @@
 | [microsoft-authentication-library-for-go](https://github.com/MicrosoftDocs/microsoft-authentication-library-for-go) | 📚 Documentation repository for MSAL Go. | None | 3 | Creative Commons Attribution 4.0 International | 2023-03-29 | 2023-04-23 |
 | [PowerShell-Docs-PSGet](https://github.com/MicrosoftDocs/PowerShell-Docs-PSGet) | The official documentation for PowerShellGet and PowerShell Gallery | PowerShell | 23 | Creative Commons Attribution 4.0 International | 2023-04-04 | 2024-07-14 |
 | [dataexplorer-docs-samples](https://github.com/MicrosoftDocs/dataexplorer-docs-samples) | Repo for samples used in Azure Data Explorer docs | None | 1 | Creative Commons Attribution 4.0 International | 2023-04-24 | 2024-05-19 |
-| [fabric-docs](https://github.com/MicrosoftDocs/fabric-docs) | Public repo for the fabric-docs-pr pair | None | 53 | Creative Commons Attribution 4.0 International | 2023-04-25 | 2024-07-19 |
+| [fabric-docs](https://github.com/MicrosoftDocs/fabric-docs) | Public repo for the fabric-docs-pr pair | None | 53 | Creative Commons Attribution 4.0 International | 2023-04-25 | 2024-07-22 |
 | [openapi-docs](https://github.com/MicrosoftDocs/openapi-docs) | None | None | 12 | Creative Commons Attribution 4.0 International | 2023-04-26 | 2024-07-18 |
 | [mslearn-create-razor-pages-aspnet-core](https://github.com/MicrosoftDocs/mslearn-create-razor-pages-aspnet-core) | Sample app for "Create a web UI with ASP.NET Core" training module | C# | 64 | Creative Commons Attribution 4.0 International | 2023-05-02 | 2024-07-18 |
 | [data-api-builder-docs](https://github.com/MicrosoftDocs/data-api-builder-docs) | Open source documentation of data-api-builder | None | 5 | Creative Commons Attribution 4.0 International | 2023-05-04 | 2024-07-12 |
@@ -6101,8 +6101,8 @@
 | [m365copilot-docs](https://github.com/MicrosoftDocs/m365copilot-docs) | Documentation for Microsoft Copilot for Microsoft 365 extensibility | None | 4 | Creative Commons Attribution 4.0 International | 2023-11-07 | 2024-07-17 |
 | [Exec-Docs](https://github.com/MicrosoftDocs/Exec-Docs) | None | None | 0 | - | 2023-11-09 | 2024-05-02 |
 | [mslearn-copilot-plugins](https://github.com/MicrosoftDocs/mslearn-copilot-plugins) | Sample plugins that use OpenAI schema for Microsoft Copilot | JavaScript | 11 | Creative Commons Attribution 4.0 International | 2023-11-09 | 2024-06-22 |
-| [executable-docs](https://github.com/MicrosoftDocs/executable-docs) | None | Shell | 1 | MIT License | 2023-11-10 | 2024-07-20 |
-| [entra-docs](https://github.com/MicrosoftDocs/entra-docs) | This is the public repo for Microsoft Entra documentation | None | 49 | MIT License | 2023-11-16 | 2024-07-19 |
+| [executable-docs](https://github.com/MicrosoftDocs/executable-docs) | None | Shell | 1 | MIT License | 2023-11-10 | 2024-07-21 |
+| [entra-docs](https://github.com/MicrosoftDocs/entra-docs) | This is the public repo for Microsoft Entra documentation | None | 49 | MIT License | 2023-11-16 | 2024-07-21 |
 | [azure-docs-pr-template](https://github.com/MicrosoftDocs/azure-docs-pr-template) | None | None | 0 | MIT License | 2023-12-05 | 2024-06-24 |
 | [MS-AppControl-AppManifests](https://github.com/MicrosoftDocs/MS-AppControl-AppManifests) | None | None | 0 | Creative Commons Attribution 4.0 International | 2023-12-08 | 2023-12-08 |
 | [mslearn-build-an-ai-powered-workplace-helper-app](https://github.com/MicrosoftDocs/mslearn-build-an-ai-powered-workplace-helper-app) |  This repo provides demo files that can be used for generative AI as part of the "Build an AI-Powered workplace Helper App" Learn module. | None | 1 | Other | 2023-12-13 | 2024-06-12 |
@@ -6174,10 +6174,10 @@
 | [webauthnsample](https://github.com/MicrosoftEdge/webauthnsample) | None | JavaScript | 85 | Other | 2018-07-17 | 2024-05-18 |
 | [pushnotifications-demo-aspnetcore](https://github.com/MicrosoftEdge/pushnotifications-demo-aspnetcore) | Demo for cross-browser push notifications with ASP.NET Core server side code | C# | 47 | Apache License 2.0 | 2018-09-26 | 2024-05-18 |
 | [MSEdge](https://github.com/MicrosoftEdge/MSEdge) | Microsoft Edge | None | 2816 | MIT License | 2018-12-04 | 2024-07-21 |
-| [MSEdgeExplainers](https://github.com/MicrosoftEdge/MSEdgeExplainers) | Home for explainer documents originated by the Microsoft Edge team | HTML | 1280 | Creative Commons Attribution 4.0 International | 2018-12-06 | 2024-07-21 |
+| [MSEdgeExplainers](https://github.com/MicrosoftEdge/MSEdgeExplainers) | Home for explainer documents originated by the Microsoft Edge team | HTML | 1281 | Creative Commons Attribution 4.0 International | 2018-12-06 | 2024-07-22 |
 | [JsDbg](https://github.com/MicrosoftEdge/JsDbg) | Debugging extensions for Microsoft Edge and other Chromium-based browsers | JavaScript | 176 | MIT License | 2019-01-31 | 2024-07-12 |
 | [WebView2Feedback](https://github.com/MicrosoftEdge/WebView2Feedback) | Feedback and discussions about Microsoft Edge WebView2 | None | 425 | - | 2019-04-27 | 2024-07-16 |
-| [WebView2Samples](https://github.com/MicrosoftEdge/WebView2Samples) | Microsoft Edge WebView2 samples | C++ | 830 | - | 2019-05-03 | 2024-07-18 |
+| [WebView2Samples](https://github.com/MicrosoftEdge/WebView2Samples) | Microsoft Edge WebView2 samples | C++ | 831 | - | 2019-05-03 | 2024-07-22 |
 | [WebView2Browser](https://github.com/MicrosoftEdge/WebView2Browser) | A web browser built with the Microsoft Edge WebView2 control. | JavaScript | 399 | Other | 2019-08-05 | 2024-07-19 |
 | [pan-tool](https://github.com/MicrosoftEdge/pan-tool) | A tool that injects touch input on the screen. It sends pointerdown, pointerupdate and pointerup to simulate pan, scrolling and fling gestures. | C++ | 14 | MIT License | 2019-08-21 | 2024-06-16 |
 | [DevToolsSamples](https://github.com/MicrosoftEdge/DevToolsSamples) | A collection of samples from Edge Developer Tools | JavaScript | 22 | MIT License | 2020-02-29 | 2024-05-18 |
@@ -6216,9 +6216,9 @@
 | [MB-330-Microsoft-Dynamics-365-Supply-Chain-Management](https://github.com/MicrosoftLearning/MB-330-Microsoft-Dynamics-365-Supply-Chain-Management) | None | None | 15 | MIT License | 2019-12-26 | 2024-05-16 |
 | [MB-500-Microsoft-Dynamics-365-Finance-and-Operations-Apps-Developer](https://github.com/MicrosoftLearning/MB-500-Microsoft-Dynamics-365-Finance-and-Operations-Apps-Developer) | None | None | 16 | MIT License | 2019-12-26 | 2024-07-02 |
 | [MB-700-Microsoft-Dynamics-365-Finance-and-Operations-Apps-Solution-Architect](https://github.com/MicrosoftLearning/MB-700-Microsoft-Dynamics-365-Finance-and-Operations-Apps-Solution-Architect) | None | None | 9 | MIT License | 2019-12-26 | 2024-07-01 |
-| [AZ-204-DevelopingSolutionsforMicrosoftAzure](https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure) | AZ-204: Developing solutions for Microsoft Azure | C# | 2170 | MIT License | 2020-01-15 | 2024-07-18 |
+| [AZ-204-DevelopingSolutionsforMicrosoftAzure](https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure) | AZ-204: Developing solutions for Microsoft Azure | C# | 2171 | MIT License | 2020-01-15 | 2024-07-21 |
 | [SP-To-Txt-CS-Gerry](https://github.com/MicrosoftLearning/SP-To-Txt-CS-Gerry) | None | C# | 2 | - | 2020-01-17 | 2024-01-21 |
-| [AZ-104-MicrosoftAzureAdministrator](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator) | AZ-104 Microsoft Azure Administrator | PowerShell | 3435 | MIT License | 2020-01-29 | 2024-07-21 |
+| [AZ-104-MicrosoftAzureAdministrator](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator) | AZ-104 Microsoft Azure Administrator | PowerShell | 3437 | MIT License | 2020-01-29 | 2024-07-22 |
 | [Inf999x-test](https://github.com/MicrosoftLearning/Inf999x-test) | https://microsoftlearning.github.io/Inf999x-test/ | None | 2 | MIT License | 2020-04-02 | 2020-10-03 |
 | [INF999x-pr](https://github.com/MicrosoftLearning/INF999x-pr) | None | None | 1 | - | 2020-04-15 | 2020-06-01 |
 | [AZ500-AzureSecurityTechnologies](https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies) | Microsoft Azure Security Technologies | Bicep | 820 | MIT License | 2020-05-26 | 2024-07-21 |
@@ -6239,7 +6239,7 @@
 | [DP-900T00A-Azure-Data-Fundamentals](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals) | DP-900 ILT lab instructions | Jupyter Notebook | 270 | MIT License | 2021-03-03 | 2024-07-19 |
 | [AZ-140-Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop](https://github.com/MicrosoftLearning/AZ-140-Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop) | None | None | 108 | MIT License | 2021-03-09 | 2024-07-18 |
 | [dp-080-Transact-SQL](https://github.com/MicrosoftLearning/dp-080-Transact-SQL) | None | TSQL | 30 | MIT License | 2021-03-12 | 2024-07-04 |
-| [SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals](https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals) | None | None | 147 | MIT License | 2021-03-30 | 2024-07-09 |
+| [SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals](https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals) | None | None | 148 | MIT License | 2021-03-30 | 2024-07-22 |
 | [PL-600-Microsoft-Power-Platform-Solution-Architect](https://github.com/MicrosoftLearning/PL-600-Microsoft-Power-Platform-Solution-Architect) | None | None | 40 | MIT License | 2021-04-15 | 2024-07-17 |
 | [AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions](https://github.com/MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions) | None | Bicep | 292 | MIT License | 2021-06-08 | 2024-07-16 |
 | [AZ-040T00-Automating-Administration-with-PowerShell](https://github.com/MicrosoftLearning/AZ-040T00-Automating-Administration-with-PowerShell) | None | None | 72 | MIT License | 2021-06-10 | 2024-07-16 |
@@ -6247,7 +6247,7 @@
 | [dp-420-cosmos-db-dev](https://github.com/MicrosoftLearning/dp-420-cosmos-db-dev) | DP-420: Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB | C# | 80 | MIT License | 2021-10-07 | 2024-07-04 |
 | [Jekyll-Theme-Online](https://github.com/MicrosoftLearning/Jekyll-Theme-Online) | Microsoft Learning Courseware Theme for online courses | SCSS | 1 | MIT License | 2021-10-11 | 2023-05-02 |
 | [mslearn-deep-learning](https://github.com/MicrosoftLearning/mslearn-deep-learning) | Lab files for training compute-intensive models on Azure Machine Learning | Jupyter Notebook | 10 | MIT License | 2021-10-14 | 2024-07-12 |
-| [AZ-305-DesigningMicrosoftAzureInfrastructureSolutions](https://github.com/MicrosoftLearning/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions) | AZ-305: Designing Microsoft Azure Infrastructure Solutions | None | 284 | MIT License | 2021-10-18 | 2024-07-15 |
+| [AZ-305-DesigningMicrosoftAzureInfrastructureSolutions](https://github.com/MicrosoftLearning/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions) | AZ-305: Designing Microsoft Azure Infrastructure Solutions | None | 285 | MIT License | 2021-10-18 | 2024-07-21 |
 | [mslearn-aml-cli](https://github.com/MicrosoftLearning/mslearn-aml-cli) | Lab files for Learn modules on using the Azure Machine Learning CLI (v2)  | Python | 8 | MIT License | 2021-10-27 | 2024-06-22 |
 | [AZ-104-MicrosoftAzureAdministrator.ja-jp](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator.ja-jp) | To check in localized content | Bicep | 4 | MIT License | 2021-11-08 | 2024-07-01 |
 | [AZ-040T00-Automating-Administration-with-PowerShell.ja-jp](https://github.com/MicrosoftLearning/AZ-040T00-Automating-Administration-with-PowerShell.ja-jp) | To check in localized content  | None | 1 | MIT License | 2021-11-08 | 2024-06-11 |
@@ -6374,7 +6374,7 @@
 | [AZ-305-DesigningMicrosoftAzureInfrastructureSolutions.ja-jp](https://github.com/MicrosoftLearning/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions.ja-jp) | None | None | 4 | MIT License | 2022-02-23 | 2024-05-13 |
 | [AZ-305-DesigningMicrosoftAzureInfrastructureSolutions.zh-cn](https://github.com/MicrosoftLearning/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions.zh-cn) | None | None | 5 | MIT License | 2022-02-23 | 2024-05-13 |
 | [AZ-305-DesigningMicrosoftAzureInfrastructureSolutions.ko-kr](https://github.com/MicrosoftLearning/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions.ko-kr) | None | None | 1 | MIT License | 2022-02-23 | 2024-05-13 |
-| [PL-300-Microsoft-Power-BI-Data-Analyst](https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst) | None | PowerShell | 427 | MIT License | 2022-02-23 | 2024-07-20 |
+| [PL-300-Microsoft-Power-BI-Data-Analyst](https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst) | None | PowerShell | 428 | MIT License | 2022-02-23 | 2024-07-21 |
 | [PL-300-Microsoft-Power-BI-Data-Analyst.ja-jp](https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst.ja-jp) | None | PowerShell | 3 | MIT License | 2022-03-03 | 2024-07-20 |
 | [PL-300-Microsoft-Power-BI-Data-Analyst.ko-kr](https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst.ko-kr) | None | PowerShell | 2 | MIT License | 2022-03-03 | 2024-07-20 |
 | [PL-300-Microsoft-Power-BI-Data-Analyst.zh-cn](https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst.zh-cn) | None | PowerShell | 5 | MIT License | 2022-03-03 | 2024-07-20 |
@@ -6403,12 +6403,12 @@
 | [PL-300-Microsoft-Power-BI-Data-Analyst.fr-fr](https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst.fr-fr) | None | PowerShell | 2 | MIT License | 2022-05-27 | 2024-07-20 |
 | [PL-300-Microsoft-Power-BI-Data-Analyst.zh-tw](https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst.zh-tw) | None | PowerShell | 3 | MIT License | 2022-05-27 | 2024-07-20 |
 | [mslearn-data-concepts](https://github.com/MicrosoftLearning/mslearn-data-concepts) | Understand data concepts labs | None | 1 | - | 2022-06-07 | 2024-02-27 |
-| [SC-100-Microsoft-Cybersecurity-Architect](https://github.com/MicrosoftLearning/SC-100-Microsoft-Cybersecurity-Architect) | None | None | 66 | MIT License | 2022-06-14 | 2024-07-16 |
+| [SC-100-Microsoft-Cybersecurity-Architect](https://github.com/MicrosoftLearning/SC-100-Microsoft-Cybersecurity-Architect) | None | None | 67 | MIT License | 2022-06-14 | 2024-07-21 |
 | [DP-500-Azure-Data-Analyst](https://github.com/MicrosoftLearning/DP-500-Azure-Data-Analyst) | Lab files for DP-500 | TSQL | 11 | MIT License | 2022-06-14 | 2024-07-09 |
 | [SC-100-Microsoft-Cybersecurity-Architect.ja-jp](https://github.com/MicrosoftLearning/SC-100-Microsoft-Cybersecurity-Architect.ja-jp) | None | None | 0 | MIT License | 2022-06-22 | 2024-07-08 |
 | [SC-100-Microsoft-Cybersecurity-Architect.ko-kr](https://github.com/MicrosoftLearning/SC-100-Microsoft-Cybersecurity-Architect.ko-kr) | None | None | 1 | MIT License | 2022-06-22 | 2024-07-08 |
 | [SC-100-Microsoft-Cybersecurity-Architect.zh-cn](https://github.com/MicrosoftLearning/SC-100-Microsoft-Cybersecurity-Architect.zh-cn) | None | None | 0 | MIT License | 2022-06-22 | 2024-07-08 |
-| [PL-500T00-Microsoft-Power-Automate-RPA-Developer](https://github.com/MicrosoftLearning/PL-500T00-Microsoft-Power-Automate-RPA-Developer) | PL-500T00-Microsoft-Power-Automate-RPA-Developer | None | 34 | MIT License | 2022-06-27 | 2024-06-19 |
+| [PL-500T00-Microsoft-Power-Automate-RPA-Developer](https://github.com/MicrosoftLearning/PL-500T00-Microsoft-Power-Automate-RPA-Developer) | PL-500T00-Microsoft-Power-Automate-RPA-Developer | None | 35 | MIT License | 2022-06-27 | 2024-07-21 |
 | [mslearn-aml-design](https://github.com/MicrosoftLearning/mslearn-aml-design) | None | None | 7 | MIT License | 2022-07-11 | 2024-05-31 |
 | [James-test01](https://github.com/MicrosoftLearning/James-test01) | James-test01 | None | 0 | Creative Commons Attribution 4.0 International | 2022-07-18 | 2024-02-06 |
 | [AZ-140-Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop.de-de](https://github.com/MicrosoftLearning/AZ-140-Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop.de-de) | None | None | 0 | MIT License | 2022-07-25 | 2024-07-20 |
@@ -6444,7 +6444,7 @@
 | [dp-203-azure-data-engineer.ja-jp](https://github.com/MicrosoftLearning/dp-203-azure-data-engineer.ja-jp) | None | PowerShell | 2 | MIT License | 2023-02-16 | 2024-07-15 |
 | [dp-203-azure-data-engineer.ko-kr](https://github.com/MicrosoftLearning/dp-203-azure-data-engineer.ko-kr) | None | PowerShell | 1 | MIT License | 2023-02-16 | 2024-07-01 |
 | [dp-203-azure-data-engineer.zh-cn](https://github.com/MicrosoftLearning/dp-203-azure-data-engineer.zh-cn) | None | PowerShell | 2 | MIT License | 2023-02-16 | 2024-07-01 |
-| [mslearn-openai](https://github.com/MicrosoftLearning/mslearn-openai) | None | C# | 193 | MIT License | 2023-02-23 | 2024-07-14 |
+| [mslearn-openai](https://github.com/MicrosoftLearning/mslearn-openai) | None | C# | 194 | MIT License | 2023-02-23 | 2024-07-22 |
 | [mslearn-azure-ml.ja-jp](https://github.com/MicrosoftLearning/mslearn-azure-ml.ja-jp) | None | Jupyter Notebook | 0 | MIT License | 2023-03-02 | 2024-06-25 |
 | [mslearn-cognitive-vision](https://github.com/MicrosoftLearning/mslearn-cognitive-vision) | Exercise files for Cognitive Services for Vision Learn module. | None | 6 | MIT License | 2023-03-03 | 2024-01-10 |
 | [mslearn-azure-ml.ko-kr](https://github.com/MicrosoftLearning/mslearn-azure-ml.ko-kr) | None | Jupyter Notebook | 0 | MIT License | 2023-03-03 | 2024-06-25 |
@@ -6496,7 +6496,7 @@
 | [mslearn-ai-language](https://github.com/MicrosoftLearning/mslearn-ai-language) | Lab files for Azure AI Language modules | C# | 100 | MIT License | 2023-09-26 | 2024-07-17 |
 | [mslearn-knowledge-mining](https://github.com/MicrosoftLearning/mslearn-knowledge-mining) | Lab files for Azure AI Knowledge Mining modules | C# | 61 | MIT License | 2023-09-29 | 2024-07-21 |
 | [mslearn-ai-services](https://github.com/MicrosoftLearning/mslearn-ai-services) | Lab files for Azure AI Services modules | C# | 103 | MIT License | 2023-10-04 | 2024-07-20 |
-| [mslearn-ai-vision](https://github.com/MicrosoftLearning/mslearn-ai-vision) | Lab files for Azure AI Vision modules | C# | 100 | MIT License | 2023-10-05 | 2024-07-12 |
+| [mslearn-ai-vision](https://github.com/MicrosoftLearning/mslearn-ai-vision) | Lab files for Azure AI Vision modules | C# | 101 | MIT License | 2023-10-05 | 2024-07-21 |
 | [mslearn-ai-document-intelligence](https://github.com/MicrosoftLearning/mslearn-ai-document-intelligence) | Lab files for Azure AI Document Intelligence modules | Python | 61 | MIT License | 2023-10-05 | 2024-07-12 |
 | [MS-4001-Build-collaborative-apps-for-Microsoft-Teams](https://github.com/MicrosoftLearning/MS-4001-Build-collaborative-apps-for-Microsoft-Teams) | None | None | 3 | MIT License | 2023-10-17 | 2024-06-11 |
 | [mslearn-ai-fundamentals](https://github.com/MicrosoftLearning/mslearn-ai-fundamentals) | Azure AI Fundamentals exercises | None | 97 | MIT License | 2023-10-25 | 2024-07-21 |
@@ -6844,7 +6844,7 @@
 | [CustomTranslatorSampleDatasets](https://github.com/MicrosoftTranslator/CustomTranslatorSampleDatasets) | Sample German English datasets for Custom Translator | None | 4 | - | 2022-01-11 | 2024-05-08 |
 | [Text-Translation-Code-Samples](https://github.com/MicrosoftTranslator/Text-Translation-Code-Samples) | This repo contains code samples for Microsoft text translation. | C# | 14 | - | 2022-03-15 | 2024-04-26 |
 | [Document-Translation-Code-Samples](https://github.com/MicrosoftTranslator/Document-Translation-Code-Samples) | This repo provides code samples for Microsoft document translation. | None | 1 | - | 2022-03-15 | 2023-09-17 |
-| [NTREX](https://github.com/MicrosoftTranslator/NTREX) | NTREX -- News Test References for MT Evaluation | None | 71 | Creative Commons Attribution Share Alike 4.0 International | 2022-10-31 | 2024-07-07 |
+| [NTREX](https://github.com/MicrosoftTranslator/NTREX) | NTREX -- News Test References for MT Evaluation | None | 72 | Creative Commons Attribution Share Alike 4.0 International | 2022-10-31 | 2024-07-21 |
 | [MS-Comet](https://github.com/MicrosoftTranslator/MS-Comet) | MS Comet release | None | 6 | Creative Commons Attribution Share Alike 4.0 International | 2022-11-09 | 2024-06-04 |
 | [GEMBA](https://github.com/MicrosoftTranslator/GEMBA) | GEMBA — GPT Estimation Metric Based Assessment | Python | 84 | Creative Commons Attribution Share Alike 4.0 International | 2023-02-09 | 2024-07-02 |
 | [GATE](https://github.com/MicrosoftTranslator/GATE) | GATE: A Challenge Set for Gender-Ambiguous Translation Examples | Python | 4 | MIT License | 2023-02-24 | 2023-11-30 |
@@ -6894,7 +6894,7 @@
 | [docs.microsoft.com-nuget.handoff](https://github.com/NuGet/docs.microsoft.com-nuget.handoff) | Handoff repo for docs localization efforts | None | 1 | - | 2017-03-04 | 2021-03-19 |
 | [docs.microsoft.com-nuget.handback](https://github.com/NuGet/docs.microsoft.com-nuget.handback) | Handback repo for docs  localization  efforts | None | 1 | - | 2017-03-04 | 2021-03-19 |
 | [NuGet.Services.EndToEnd](https://github.com/NuGet/NuGet.Services.EndToEnd) | None | C# | 6 | Apache License 2.0 | 2017-04-18 | 2024-07-17 |
-| [NuGet.Build.Localization](https://github.com/NuGet/NuGet.Build.Localization) | Holds localization artifacts for NuGet client dlls. | Rich Text Format | 4 | - | 2017-04-20 | 2024-07-20 |
+| [NuGet.Build.Localization](https://github.com/NuGet/NuGet.Build.Localization) | Holds localization artifacts for NuGet client dlls. | Rich Text Format | 4 | - | 2017-04-20 | 2024-07-21 |
 | [FileSystem](https://github.com/NuGet/FileSystem) | Abstraction of file system APIs. | C# | 1 | Other | 2017-06-13 | 2019-01-05 |
 | [Announcements](https://github.com/NuGet/Announcements) | Subscribe to this repo to be notified of upcoming proposals and other important changes to NuGet | None | 82 | - | 2017-08-22 | 2023-07-07 |
 | [Insights](https://github.com/NuGet/Insights) | Gather insights about public NuGet.org package data | C# | 24 | Apache License 2.0 | 2017-10-20 | 2024-07-16 |
@@ -7143,7 +7143,7 @@
 | [microsoft-teams-tunnelrelay](https://github.com/OfficeDev/microsoft-teams-tunnelrelay) | Tunnel relay allows you to expose local services to the outside world over HTTPS | C# | 81 | MIT License | 2017-06-03 | 2024-07-10 |
 | [Office-OOXML-EmbedAddin](https://github.com/OfficeDev/Office-OOXML-EmbedAddin) | Web application that uses Open XML SDK to configure Office documents to automatically open a specified add-in. | C# | 23 | Other | 2017-06-13 | 2023-10-10 |
 | [open-xml-docs](https://github.com/OfficeDev/open-xml-docs) | Doc repository for the Office OpenXML documentation. | PowerShell | 82 | MIT License | 2017-07-10 | 2024-07-17 |
-| [office-fluent-ui-command-identifiers](https://github.com/OfficeDev/office-fluent-ui-command-identifiers) | Office Fluent User Interface Control Identifiers | None | 112 | MIT License | 2017-07-12 | 2024-06-25 |
+| [office-fluent-ui-command-identifiers](https://github.com/OfficeDev/office-fluent-ui-command-identifiers) | Office Fluent User Interface Control Identifiers | None | 113 | MIT License | 2017-07-12 | 2024-07-21 |
 | [office-toolbox](https://github.com/OfficeDev/office-toolbox) | A toolbox of resources for generating, validating, and sideloading manifests for Office Add-ins | TypeScript | 35 | MIT License | 2017-07-13 | 2024-06-27 |
 | [office-custom-ui-editor](https://github.com/OfficeDev/office-custom-ui-editor) | Standalone tool to edit custom UI part of Office open document file format | Rich Text Format | 122 | MIT License | 2017-07-24 | 2024-07-13 |
 | [microsoft-teams-sample-connector-nodejs](https://github.com/OfficeDev/microsoft-teams-sample-connector-nodejs) | Sample GitHub connector for Microsoft Teams written in Node.js | JavaScript | 13 | MIT License | 2017-08-21 | 2024-05-10 |
@@ -7184,7 +7184,7 @@
 | [microsoft-teams-app-schema](https://github.com/OfficeDev/microsoft-teams-app-schema) | JSON Schema used to provision Apps for Microsoft Teams | None | 36 | MIT License | 2018-06-28 | 2024-06-06 |
 | [custom-functions](https://github.com/OfficeDev/custom-functions) | Custom Functions sample add-ins | JavaScript | 24 | MIT License | 2018-07-25 | 2024-05-21 |
 | [msteams-sample-adminbot-csharp](https://github.com/OfficeDev/msteams-sample-adminbot-csharp) | A bot which uses the Microsoft Graph APIs for Teams to create teams, channels, and add members dynamically. | C# | 11 | MIT License | 2018-07-26 | 2023-09-20 |
-| [Office-Addin-Scripts](https://github.com/OfficeDev/Office-Addin-Scripts) | A set of scripts and packages that are consumed in Office add-ins projects. | TypeScript | 153 | MIT License | 2018-09-05 | 2024-07-09 |
+| [Office-Addin-Scripts](https://github.com/OfficeDev/Office-Addin-Scripts) | A set of scripts and packages that are consumed in Office add-ins projects. | TypeScript | 154 | MIT License | 2018-09-05 | 2024-07-21 |
 | [microsoft-teams-sample-task-module-nodejs](https://github.com/OfficeDev/microsoft-teams-sample-task-module-nodejs) | Sample app showing off the Teams Task Module, a way to invoke custom code from a bot, a tab, or both! (Node.js/TypeScript version.) | TypeScript | 21 | MIT License | 2018-09-18 | 2024-06-18 |
 | [office-js-docs-reference.ja-jp](https://github.com/OfficeDev/office-js-docs-reference.ja-jp) | Onboarding Office JS docs reference for Japanese | TypeScript | 3 | MIT License | 2018-09-20 | 2022-02-11 |
 | [office-js-docs-reference.ru-ru](https://github.com/OfficeDev/office-js-docs-reference.ru-ru) | Onboarding Office JS docs reference for Russian | TypeScript | 0 | MIT License | 2018-09-20 | 2021-12-23 |
@@ -7220,7 +7220,7 @@
 | [msteams-sample-contoso-hr-talent-app](https://github.com/OfficeDev/msteams-sample-contoso-hr-talent-app) | This is a sample of an HR solution, please do not use it in Production. This Microsoft Teams app sample could be used by an HR department within a Microsoft Teams client. The app will facilitate the department's hiring of new talent into the organization, provide immediate interview feedback, schedule interview loops, and improve the overall hiring process of new employees. Contoso HR Talent App will help you understand how to transform hiring and candidate management flow of new talent and make it more interactive and responsive for HR teams and interviewees. This is a sample of the HR solution, please do not use it in a Production environment. | C# | 46 | MIT License | 2019-04-16 | 2024-04-01 |
 | [Office-Addin-Test-Artifacts](https://github.com/OfficeDev/Office-Addin-Test-Artifacts) | Library of Zzure artifacts to assist in installing components needed to automate testing of Office Add-ins | PowerShell | 1 | MIT License | 2019-04-22 | 2023-11-16 |
 | [microsoft-teams-faqplusplus-app](https://github.com/OfficeDev/microsoft-teams-faqplusplus-app) | DEPRECATED - This repository contains a deprecated version of the FAQ Plus app template. Please see the README file for more details and a link to the new repository | C# | 48 | MIT License | 2019-06-09 | 2023-07-04 |
-| [microsoft-teams-apps-company-communicator](https://github.com/OfficeDev/microsoft-teams-apps-company-communicator) | Company Communicator app template | C# | 320 | MIT License | 2019-06-09 | 2024-07-12 |
+| [microsoft-teams-apps-company-communicator](https://github.com/OfficeDev/microsoft-teams-apps-company-communicator) | Company Communicator app template | C# | 321 | MIT License | 2019-06-09 | 2024-07-21 |
 | [templates-catalog](https://github.com/OfficeDev/templates-catalog) | A catalog for community-based Office add-in templates | TypeScript | 7 | MIT License | 2019-06-21 | 2024-06-27 |
 | [microsoft-teams-apps-list-search](https://github.com/OfficeDev/microsoft-teams-apps-list-search) | The List Search app lets users search for and share items in a SharePoint list, all from Microsoft Teams. | C# | 30 | MIT License | 2019-06-27 | 2023-11-20 |
 | [Microsoft-Teams-Shifts-WFM-Connectors](https://github.com/OfficeDev/Microsoft-Teams-Shifts-WFM-Connectors) | Microsoft Teams Shifts WFM Connectors leveraging MS Shifts Graph APIs | C# | 24 | MIT License | 2019-07-11 | 2023-07-04 |
@@ -7229,7 +7229,7 @@
 | [Office-Addin-Taskpane-SSO](https://github.com/OfficeDev/Office-Addin-Taskpane-SSO) | Project template for creating an Office taskpane add-in that uses SSO, | TypeScript | 11 | Other | 2019-09-11 | 2024-07-16 |
 | [microsoft-teams-apps-celebrations](https://github.com/OfficeDev/microsoft-teams-apps-celebrations) | Celebrate birthdays, anniversaries and other events with your team | C# | 34 | MIT License | 2019-10-01 | 2024-02-13 |
 | [microsoft-teams-apps-hrsupport](https://github.com/OfficeDev/microsoft-teams-apps-hrsupport) | HR support app template | C# | 38 | MIT License | 2019-10-25 | 2024-07-12 |
-| [office-scripts-docs](https://github.com/OfficeDev/office-scripts-docs) | Office Scripts Documentation | PowerShell | 159 | Creative Commons Attribution 4.0 International | 2019-10-25 | 2024-07-17 |
+| [office-scripts-docs](https://github.com/OfficeDev/office-scripts-docs) | Office Scripts Documentation | PowerShell | 160 | Creative Commons Attribution 4.0 International | 2019-10-25 | 2024-07-21 |
 | [outlook-actionable-messages-identity-linking](https://github.com/OfficeDev/outlook-actionable-messages-identity-linking) | This sample Node.js server application demonstrates how to use the identity linking feature of Actionable Messages. | JavaScript | 8 | MIT License | 2019-11-01 | 2024-05-14 |
 | [Office-Addin-TaskPane-SSO-JS](https://github.com/OfficeDev/Office-Addin-TaskPane-SSO-JS) | JavaScript project template for creating an Office taskpane add-in that uses SSO, | JavaScript | 9 | Other | 2019-11-11 | 2024-07-04 |
 | [microsoft-teams-apps-scrumsforgroupchat](https://github.com/OfficeDev/microsoft-teams-apps-scrumsforgroupchat) | Scrums for Group Chat app template for Microsoft Teams | C# | 27 | MIT License | 2019-11-21 | 2024-04-24 |
@@ -7327,8 +7327,8 @@
 | [microsoft-teams-apps-timetally](https://github.com/OfficeDev/microsoft-teams-apps-timetally) | None | C# | 37 | MIT License | 2021-02-09 | 2024-04-29 |
 | [microsoft-data-visualization-library](https://github.com/OfficeDev/microsoft-data-visualization-library) | None | TypeScript | 50 | MIT License | 2021-03-10 | 2024-07-17 |
 | [microsoft-teams-apps-speaker-queue](https://github.com/OfficeDev/microsoft-teams-apps-speaker-queue) | Speaker Queue is a Teams meetings extensibility application created to improve your meetings.  | None | 7 | MIT License | 2021-03-15 | 2024-06-12 |
-| [teams-toolkit](https://github.com/OfficeDev/teams-toolkit) | Developer tools for building Teams apps | TypeScript | 436 | Other | 2021-03-16 | 2024-07-19 |
-| [teams-toolkit-samples](https://github.com/OfficeDev/teams-toolkit-samples) | Scenario-focused sample applications that help you get started with building Microsoft Teams App. | TypeScript | 328 | MIT License | 2021-03-16 | 2024-07-19 |
+| [teams-toolkit](https://github.com/OfficeDev/teams-toolkit) | Developer tools for building Teams apps | TypeScript | 436 | Other | 2021-03-16 | 2024-07-22 |
+| [teams-toolkit-samples](https://github.com/OfficeDev/teams-toolkit-samples) | Scenario-focused sample applications that help you get started with building Microsoft Teams App. | TypeScript | 329 | MIT License | 2021-03-16 | 2024-07-22 |
 | [microsoft-teams-apps-request-a-guest](https://github.com/OfficeDev/microsoft-teams-apps-request-a-guest) | Power Apps solution that automates the guest approval and invite process | PowerShell | 21 | MIT License | 2021-03-18 | 2024-05-13 |
 | [microsoft-teams-apps-champion-management](https://github.com/OfficeDev/microsoft-teams-apps-champion-management) | Champion Management Platform is a custom Teams app that enables organizations to onboard and maintain champions/ SME in their organization in Teams. | TypeScript | 126 | MIT License | 2021-04-01 | 2024-07-20 |
 | [microsoft-teams-apps-learning-pathways-getstarted](https://github.com/OfficeDev/microsoft-teams-apps-learning-pathways-getstarted) | None | None | 0 | MIT License | 2021-04-01 | 2023-12-15 |
@@ -7384,7 +7384,7 @@
 | [Office-Addin-Preview-Dev-Tool-Doc](https://github.com/OfficeDev/Office-Addin-Preview-Dev-Tool-Doc) | This repository contains document for Office Add-in development tools in preview status | None | 2 | MIT License | 2024-05-17 | 2024-06-13 |
 | [Office-Addin-TaskPane-SSO-NAA](https://github.com/OfficeDev/Office-Addin-TaskPane-SSO-NAA) | JavaScript project template for creating an Office taskpane add-in that uses SSO (NAA API), | TypeScript | 0 | MIT License | 2024-07-10 | 2024-07-11 |
 | [OfficeAddinDevKit](https://github.com/OfficeDev/OfficeAddinDevKit) | Home page of Office Add-in Dev Kit | None | 0 | - | 2024-07-17 | 2024-07-17 |
-| [PSReadLine](https://github.com/PowerShell/PSReadLine) | A bash inspired readline implementation for PowerShell | C# | 3630 | BSD 2-Clause "Simplified" License | 2013-05-13 | 2024-07-20 |
+| [PSReadLine](https://github.com/PowerShell/PSReadLine) | A bash inspired readline implementation for PowerShell | C# | 3632 | BSD 2-Clause "Simplified" License | 2013-05-13 | 2024-07-22 |
 | [PackageManagementProviderResource](https://github.com/PowerShell/PackageManagementProviderResource) | Modules with DSC resources for the PackageManagement(aka OneGet) providers. | PowerShell | 37 | MIT License | 2015-03-25 | 2024-06-14 |
 | [Hardware-Management-Module](https://github.com/PowerShell/Hardware-Management-Module) | None | PowerShell | 17 | MIT License | 2015-03-25 | 2023-10-28 |
 | [PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) | Download ScriptAnalyzer from PowerShellGallery | C# | 1809 | MIT License | 2015-03-30 | 2024-07-19 |
@@ -7394,20 +7394,20 @@
 | [xDisk](https://github.com/PowerShell/xDisk) | None | PowerShell | 8 | - | 2015-04-18 | 2024-06-14 |
 | [Whitepapers](https://github.com/PowerShell/Whitepapers) | Staging area for new documents and whitepapers | None | 46 | - | 2015-04-21 | 2024-06-14 |
 | [Remotely](https://github.com/PowerShell/Remotely) | Enable remote execution of scripts.  Works with Pester. | PowerShell | 74 | MIT License | 2015-05-08 | 2024-04-09 |
-| [PowerShellEditorServices](https://github.com/PowerShell/PowerShellEditorServices) | A common platform for PowerShell development support in any editor or application! | C# | 617 | MIT License | 2015-05-21 | 2024-07-17 |
+| [PowerShellEditorServices](https://github.com/PowerShell/PowerShellEditorServices) | A common platform for PowerShell development support in any editor or application! | C# | 618 | MIT License | 2015-05-21 | 2024-07-21 |
 | [WmiNamespaceSecurityDsc](https://github.com/PowerShell/WmiNamespaceSecurityDsc) | This module contains DSC resources to manage WMI Namespace Security. | PowerShell | 21 | MIT License | 2015-06-26 | 2023-10-28 |
 | [SmartPackageProvider](https://github.com/PowerShell/SmartPackageProvider) | A PackageManagement provider to find and install packages using search engines | C# | 9 | - | 2015-07-17 | 2024-06-14 |
-| [PowerShell-RFC](https://github.com/PowerShell/PowerShell-RFC) | RFC (Request for Comments) documents for community feedback on design changes and improvements to PowerShell ecosystem | PowerShell | 424 | MIT License | 2015-07-27 | 2024-07-10 |
+| [PowerShell-RFC](https://github.com/PowerShell/PowerShell-RFC) | RFC (Request for Comments) documents for community feedback on design changes and improvements to PowerShell ecosystem | PowerShell | 424 | MIT License | 2015-07-27 | 2024-07-21 |
 | [Microsoft.PowerShell.Archive](https://github.com/PowerShell/Microsoft.PowerShell.Archive) | Archive PowerShell module contains cmdlets for working with ZIP archives | C# | 92 | MIT License | 2015-08-12 | 2024-07-18 |
 | [PowerShell-Tests](https://github.com/PowerShell/PowerShell-Tests) | Pester based tests for testing PowerShell | PowerShell | 130 | MIT License | 2015-08-19 | 2024-07-15 |
-| [Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH) | Win32 port of OpenSSH | None | 7241 | - | 2015-09-08 | 2024-07-21 |
+| [Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH) | Win32 port of OpenSSH | None | 7243 | - | 2015-09-08 | 2024-07-22 |
 | [vscode-powershell](https://github.com/PowerShell/vscode-powershell) | Provides PowerShell language and debugging support for Visual Studio Code | TypeScript | 1678 | MIT License | 2015-09-08 | 2024-07-19 |
 | [ContainerProvider](https://github.com/PowerShell/ContainerProvider) | ContainerImageProvider | PowerShell | 38 | MIT License | 2015-09-23 | 2023-10-28 |
 | [PowerShell-Blog-Samples](https://github.com/PowerShell/PowerShell-Blog-Samples) | Samples for the PowerShell blog | PowerShell | 8 | MIT License | 2015-09-29 | 2024-06-14 |
 | [JEA](https://github.com/PowerShell/JEA) | Just Enough Administration | PowerShell | 254 | MIT License | 2015-10-23 | 2024-07-18 |
 | [Operation-Validation-Framework](https://github.com/PowerShell/Operation-Validation-Framework) | None | PowerShell | 223 | MIT License | 2015-11-05 | 2024-06-13 |
 | [generator-powershell](https://github.com/PowerShell/generator-powershell) | Create PowerShell modules and scripts using Yeoman! | JavaScript | 16 | Other | 2015-11-09 | 2023-01-28 |
-| [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! | C# | 44118 | MIT License | 2016-01-13 | 2024-07-21 |
+| [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! | C# | 44129 | MIT License | 2016-01-13 | 2024-07-22 |
 | [psl-omi-provider](https://github.com/PowerShell/psl-omi-provider) | PSRP Linux support library | C | 100 | Other | 2016-01-14 | 2024-04-22 |
 | [psl-pester](https://github.com/PowerShell/psl-pester) | Fork of Pester for compatibility with PowerShell on Linux. | PowerShell | 8 | Other | 2016-01-14 | 2023-01-28 |
 | [underhanded-powershell](https://github.com/PowerShell/underhanded-powershell) | Underhanded PowerShell Contest Repository | PowerShell | 18 | MIT License | 2016-01-21 | 2023-01-28 |
@@ -7482,7 +7482,7 @@
 | [CompletionPredictor](https://github.com/PowerShell/CompletionPredictor) | None | C# | 139 | MIT License | 2022-03-01 | 2024-07-20 |
 | [whatsnew](https://github.com/PowerShell/whatsnew) | None | PowerShell | 13 | MIT License | 2022-03-16 | 2024-07-10 |
 | [.github](https://github.com/PowerShell/.github) | None | None | 3 | MIT License | 2022-06-28 | 2024-05-31 |
-| [DSC](https://github.com/PowerShell/DSC) | This repo is for the DSC v3 project | Rust | 142 | MIT License | 2022-11-29 | 2024-07-19 |
+| [DSC](https://github.com/PowerShell/DSC) | This repo is for the DSC v3 project | Rust | 143 | MIT License | 2022-11-29 | 2024-07-21 |
 | [command-not-found](https://github.com/PowerShell/command-not-found) | None | C# | 10 | MIT License | 2023-03-15 | 2024-07-15 |
 | [JsonAdapterFeedbackPredictor](https://github.com/PowerShell/JsonAdapterFeedbackPredictor) | None | None | 1 | MIT License | 2023-03-30 | 2024-06-17 |
 | [ProjectMercury](https://github.com/PowerShell/ProjectMercury) | An interactive shell to work with AI-powered assistance providers | C# | 32 | MIT License | 2023-04-01 | 2024-07-19 |
@@ -7614,7 +7614,7 @@
 | [RoslynCodeDomProvider](https://github.com/aspnet/RoslynCodeDomProvider) | Roslyn CodeDOM provider | C# | 81 | MIT License | 2016-12-09 | 2024-05-16 |
 | [AspNetKatana](https://github.com/aspnet/AspNetKatana) | Microsoft's OWIN implementation, the Katana project | C# | 960 | Apache License 2.0 | 2017-02-08 | 2024-07-09 |
 | [Microsoft.AspNet.TelemetryCorrelation](https://github.com/aspnet/Microsoft.AspNet.TelemetryCorrelation) | Microsoft.AspNet.CorrelationIdTracker module for tracking multi-tier activities | C# | 13 | Other | 2017-03-07 | 2023-09-29 |
-| [LibraryManager](https://github.com/aspnet/LibraryManager) | None | C# | 447 | Other | 2017-03-30 | 2024-07-17 |
+| [LibraryManager](https://github.com/aspnet/LibraryManager) | None | C# | 448 | Other | 2017-03-30 | 2024-07-22 |
 | [AzureTestApps](https://github.com/aspnet/AzureTestApps) | Private repo for apps that we use for testing on Azure App Services (Antares) | PowerShell | 1 | Other | 2017-07-05 | 2023-09-28 |
 | [MicrosoftConfigurationBuilders](https://github.com/aspnet/MicrosoftConfigurationBuilders) | Microsoft.Configuration.Builders | C# | 116 | MIT License | 2017-07-20 | 2024-03-28 |
 | [Blazor-Hackathon](https://github.com/aspnet/Blazor-Hackathon) | Blazor is now official and is part of the ASP.NET Core Framework. All the work is tracked in the dotnet/aspnetcore repo. | C# | 131 | - | 2017-07-24 | 2024-04-16 |
@@ -7715,32 +7715,32 @@
 | [.github](https://github.com/calabash/.github) | Calabash GitHub org config | None | 0 | - | 2022-10-12 | 2022-10-12 |
 | [android-samples](https://github.com/dotnet/android-samples) | A collection of .NET for Android sample projects | C# | 2206 | MIT License | 2010-08-16 | 2024-07-19 |
 | [cecil](https://github.com/dotnet/cecil) | Cecil is a library to inspect, modify and create .NET programs and libraries. | C# | 62 | MIT License | 2012-04-26 | 2024-07-15 |
-| [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) | Powerful .NET library for benchmarking | C# | 10241 | MIT License | 2013-08-18 | 2024-07-21 |
-| [reactive](https://github.com/dotnet/reactive) | The Reactive Extensions for .NET | C# | 6600 | MIT License | 2013-09-03 | 2024-07-21 |
-| [efcore](https://github.com/dotnet/efcore) | EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations. | C# | 13521 | MIT License | 2014-01-23 | 2024-07-21 |
+| [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) | Powerful .NET library for benchmarking | C# | 10247 | MIT License | 2013-08-18 | 2024-07-22 |
+| [reactive](https://github.com/dotnet/reactive) | The Reactive Extensions for .NET | C# | 6602 | MIT License | 2013-09-03 | 2024-07-22 |
+| [efcore](https://github.com/dotnet/efcore) | EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations. | C# | 13521 | MIT License | 2014-01-23 | 2024-07-22 |
 | [java-interop](https://github.com/dotnet/java-interop) | Java.Interop provides open-source bindings of Java's Java Native Interface (JNI) for use with .NET managed languages such as C# | C# | 189 | Other | 2014-02-11 | 2024-07-08 |
-| [aspnetcore](https://github.com/dotnet/aspnetcore) | ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux. | C# | 34894 | MIT License | 2014-03-11 | 2024-07-21 |
+| [aspnetcore](https://github.com/dotnet/aspnetcore) | ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux. | C# | 34897 | MIT License | 2014-03-11 | 2024-07-22 |
 | [Open-XML-SDK](https://github.com/dotnet/Open-XML-SDK) | Open XML SDK by Microsoft | C# | 3948 | MIT License | 2014-06-05 | 2024-07-21 |
-| [Scaffolding](https://github.com/dotnet/Scaffolding) | Code generators to speed up development. | C# | 623 | MIT License | 2014-06-27 | 2024-07-19 |
-| [Docker.DotNet](https://github.com/dotnet/Docker.DotNet) | :whale: .NET (C#) Client Library for Docker API | C# | 2208 | MIT License | 2014-08-26 | 2024-07-18 |
+| [Scaffolding](https://github.com/dotnet/Scaffolding) | Code generators to speed up development. | C# | 624 | MIT License | 2014-06-27 | 2024-07-21 |
+| [Docker.DotNet](https://github.com/dotnet/Docker.DotNet) | :whale: .NET (C#) Client Library for Docker API | C# | 2209 | MIT License | 2014-08-26 | 2024-07-21 |
 | [corefx](https://github.com/dotnet/corefx) | This repo is used for servicing PR's for .NET Core 2.1 and 3.1. Please visit us at https://github.com/dotnet/runtime  | None | 17687 | - | 2014-11-06 | 2024-07-20 |
 | [buildtools](https://github.com/dotnet/buildtools) | Build tools that are necessary for building the .NET Core projects | None | 478 | - | 2014-11-06 | 2024-05-13 |
-| [core](https://github.com/dotnet/core) | .NET news, announcements, release notes, and more! | PowerShell | 20743 | MIT License | 2014-11-18 | 2024-07-21 |
-| [orleans](https://github.com/dotnet/orleans) | Cloud Native application framework for .NET | C# | 9963 | MIT License | 2014-12-19 | 2024-07-20 |
-| [AspNetCore.Docs](https://github.com/dotnet/AspNetCore.Docs) | Documentation for ASP.NET Core | C# | 12446 | Creative Commons Attribution 4.0 International | 2014-12-19 | 2024-07-21 |
+| [core](https://github.com/dotnet/core) | .NET news, announcements, release notes, and more! | PowerShell | 20744 | MIT License | 2014-11-18 | 2024-07-22 |
+| [orleans](https://github.com/dotnet/orleans) | Cloud Native application framework for .NET | C# | 9966 | MIT License | 2014-12-19 | 2024-07-22 |
+| [AspNetCore.Docs](https://github.com/dotnet/AspNetCore.Docs) | Documentation for ASP.NET Core | C# | 12445 | Creative Commons Attribution 4.0 International | 2014-12-19 | 2024-07-21 |
 | [codeformatter](https://github.com/dotnet/codeformatter) | Tool that uses Roslyn to automatically rewrite the source to follow our coding styles | C# | 1235 | MIT License | 2015-01-07 | 2024-07-12 |
 | [apireviews](https://github.com/dotnet/apireviews) | This repository contains the notes and API differences that we reviewed. | None | 188 | MIT License | 2015-01-08 | 2024-07-18 |
-| [fsharp](https://github.com/dotnet/fsharp) | The F# compiler, F# core library, F# language service, and F# tooling integration for Visual Studio | F# | 3836 | MIT License | 2015-01-10 | 2024-07-21 |
-| [roslyn](https://github.com/dotnet/roslyn) | The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs. | C# | 18743 | MIT License | 2015-01-11 | 2024-07-20 |
+| [fsharp](https://github.com/dotnet/fsharp) | The F# compiler, F# core library, F# language service, and F# tooling integration for Visual Studio | F# | 3838 | MIT License | 2015-01-10 | 2024-07-21 |
+| [roslyn](https://github.com/dotnet/roslyn) | The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs. | C# | 18745 | MIT License | 2015-01-11 | 2024-07-22 |
 | [corefxlab](https://github.com/dotnet/corefxlab) | This repo is for experimentation and exploring new ideas that may or may not make it into the main corefx repo. | C# | 1464 | MIT License | 2015-01-20 | 2024-06-22 |
 | [dotnet.github.io](https://github.com/dotnet/dotnet.github.io) | The source for the dotnet.github.io site | HTML | 45 | - | 2015-01-23 | 2023-05-29 |
 | [llilc](https://github.com/dotnet/llilc) | This repo contains LLILC, an LLVM based compiler for .NET Core. It includes a set of cross-platform .NET code generation tools that enables compilation of MSIL byte code to LLVM supported platforms. | C++ | 1518 | MIT License | 2015-01-29 | 2024-07-14 |
 | [coreclr](https://github.com/dotnet/coreclr) | CoreCLR is the runtime for .NET Core. It includes the garbage collector, JIT compiler, primitive data types and low-level classes. | None | 12817 | - | 2015-01-30 | 2024-07-16 |
 | [dotnet-ci](https://github.com/dotnet/dotnet-ci) | Repository containing scripting for the dotnet-ci Jenkins instance. | Groovy | 84 | MIT License | 2015-02-06 | 2024-02-08 |
-| [ClangSharp](https://github.com/dotnet/ClangSharp) | Clang bindings for .NET written in C# | C# | 883 | MIT License | 2015-02-13 | 2024-07-18 |
-| [LLVMSharp](https://github.com/dotnet/LLVMSharp) | LLVM bindings for .NET Standard written in C# using ClangSharp | C# | 831 | MIT License | 2015-02-13 | 2024-07-15 |
+| [ClangSharp](https://github.com/dotnet/ClangSharp) | Clang bindings for .NET written in C# | C# | 883 | MIT License | 2015-02-13 | 2024-07-21 |
+| [LLVMSharp](https://github.com/dotnet/LLVMSharp) | LLVM bindings for .NET Standard written in C# using ClangSharp | C# | 832 | MIT License | 2015-02-13 | 2024-07-21 |
 | [extensions](https://github.com/dotnet/extensions) | This repository contains a suite of libraries that provide facilities commonly needed when creating production-ready applications. | C# | 2554 | MIT License | 2015-02-17 | 2024-07-20 |
-| [msbuild](https://github.com/dotnet/msbuild) | The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio. | C# | 5179 | MIT License | 2015-03-12 | 2024-07-21 |
+| [msbuild](https://github.com/dotnet/msbuild) | The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio. | C# | 5179 | MIT License | 2015-03-12 | 2024-07-22 |
 | [runtime-assets](https://github.com/dotnet/runtime-assets) | Assets that are required by the runtime repository, and referenced as nuget packages. | C# | 30 | MIT License | 2015-03-30 | 2024-07-15 |
 | [port-to-core](https://github.com/dotnet/port-to-core) | This repo contains portability analysis reports. | HTML | 7 | MIT License | 2015-05-04 | 2023-05-28 |
 | [wcf](https://github.com/dotnet/wcf) | This repo contains the client-oriented WCF libraries that enable applications built on .NET Core to communicate with WCF services. | C# | 1693 | MIT License | 2015-05-13 | 2024-07-20 |
@@ -7748,17 +7748,17 @@
 | [docs](https://github.com/dotnet/docs) | This repository contains .NET Documentation. | Dockerfile | 4176 | Creative Commons Attribution 4.0 International | 2015-05-19 | 2024-07-19 |
 | [EntityFramework.Docs](https://github.com/dotnet/EntityFramework.Docs) | Documentation for Entity Framework Core and Entity Framework 6 | PowerShell | 1596 | Creative Commons Attribution 4.0 International | 2015-05-29 | 2024-07-17 |
 | [roslyn-analyzers](https://github.com/dotnet/roslyn-analyzers) | None | C# | 1555 | MIT License | 2015-06-05 | 2024-07-17 |
-| [docfx](https://github.com/dotnet/docfx) | Static site generator for .NET API documentation. | C# | 3950 | MIT License | 2015-06-24 | 2024-07-20 |
+| [docfx](https://github.com/dotnet/docfx) | Static site generator for .NET API documentation. | C# | 3950 | MIT License | 2015-06-24 | 2024-07-22 |
 | [ef6](https://github.com/dotnet/ef6) | This is the codebase for Entity Framework 6 (previously maintained at https://entityframework.codeplex.com). Entity Framework Core is maintained at https://github.com/dotnet/efcore. | C# | 1416 | MIT License | 2015-07-31 | 2024-07-15 |
-| [corert](https://github.com/dotnet/corert) | This repo contains CoreRT, an experimental .NET Core runtime optimized for AOT (ahead of time compilation) scenarios, with the accompanying compiler toolchain. | C# | 2912 | MIT License | 2015-09-15 | 2024-07-09 |
+| [corert](https://github.com/dotnet/corert) | This repo contains CoreRT, an experimental .NET Core runtime optimized for AOT (ahead of time compilation) scenarios, with the accompanying compiler toolchain. | C# | 2913 | MIT License | 2015-09-15 | 2024-07-21 |
 | [corefx-tools](https://github.com/dotnet/corefx-tools) | Place to include various misc tools for .NET and .NET Core.  | C# | 58 | MIT License | 2015-09-28 | 2023-05-29 |
-| [cli](https://github.com/dotnet/cli) | The .NET Core command-line (CLI) tools, used for building .NET Core apps and libraries through your development flow (compiling, NuGet package management, running, testing, ...). | None | 3487 | - | 2015-10-02 | 2024-07-20 |
+| [cli](https://github.com/dotnet/cli) | The .NET Core command-line (CLI) tools, used for building .NET Core apps and libraries through your development flow (compiling, NuGet package management, running, testing, ...). | None | 3488 | - | 2015-10-02 | 2024-07-22 |
 | [Nerdbank.Streams](https://github.com/dotnet/Nerdbank.Streams) | Specialized .NET Streams and pipes for full duplex in-proc communication, web sockets, and multiplexing | C# | 587 | MIT License | 2015-10-07 | 2024-07-17 |
 | [AspNetApiDocs](https://github.com/dotnet/AspNetApiDocs) | Reference documentation for ASP.NET Core APIs | PowerShell | 128 | Creative Commons Attribution 4.0 International | 2015-10-10 | 2024-07-12 |
 | [pinvoke](https://github.com/dotnet/pinvoke) | A library containing all P/Invoke code so you don't have to import it every time. Maintained and updated to support the latest Windows OS. | C# | 2106 | MIT License | 2015-10-22 | 2024-07-21 |
 | [symreader](https://github.com/dotnet/symreader) | Managed definitions for COM interfaces exposed by DiaSymReader APIs | C# | 52 | MIT License | 2015-11-04 | 2024-07-03 |
 | [roslyn-analyzers-contrib](https://github.com/dotnet/roslyn-analyzers-contrib) | Replaced by dotnet/roslyn-analyzers. | None | 16 | Apache License 2.0 | 2015-11-06 | 2023-05-30 |
-| [dotnet-docker](https://github.com/dotnet/dotnet-docker) | Docker images for .NET and the .NET Tools. | Dockerfile | 4369 | MIT License | 2015-11-16 | 2024-07-20 |
+| [dotnet-docker](https://github.com/dotnet/dotnet-docker) | Docker images for .NET and the .NET Tools. | Dockerfile | 4370 | MIT License | 2015-11-16 | 2024-07-21 |
 | [vscode-csharp](https://github.com/dotnet/vscode-csharp) | Official C# support for Visual Studio Code | TypeScript | 2833 | MIT License | 2015-12-03 | 2024-07-20 |
 | [NuGet.BuildTasks](https://github.com/dotnet/NuGet.BuildTasks) | The build tasks used to pick up package content from project.lock.json. | PowerShell | 44 | MIT License | 2015-12-08 | 2024-05-07 |
 | [coreclr.xunit](https://github.com/dotnet/coreclr.xunit) | xUnit.net runner for CoreCLR unit test projects | C# | 18 | Other | 2015-12-10 | 2024-04-02 |
@@ -7767,7 +7767,7 @@
 | [netcorecli-fsc](https://github.com/dotnet/netcorecli-fsc) | [DEPRECATED] F# and .NET Core SDK working together | C# | 95 | MIT License | 2016-03-21 | 2024-03-23 |
 | [android](https://github.com/dotnet/android) | .NET for Android provides open-source bindings of the Android SDK for use with .NET managed languages such as C# | C# | 1897 | MIT License | 2016-03-30 | 2024-07-19 |
 | [symreader-portable](https://github.com/dotnet/symreader-portable) | Reader of Portable PDBs format that implements DiaSymReader interfaces (ISymUnmanagedReader, ISymUnmanagedBinder, etc.). | C# | 81 | MIT License | 2016-04-05 | 2024-07-12 |
-| [project-system](https://github.com/dotnet/project-system) | The .NET Project System for Visual Studio | C# | 961 | MIT License | 2016-04-21 | 2024-07-19 |
+| [project-system](https://github.com/dotnet/project-system) | The .NET Project System for Visual Studio | C# | 962 | MIT License | 2016-04-21 | 2024-07-21 |
 | [versions](https://github.com/dotnet/versions) | This repo contains information about the various component versions that ship with .NET Core.  | None | 147 | MIT License | 2016-04-21 | 2024-07-19 |
 | [roslynator](https://github.com/dotnet/roslynator) | Roslynator is a set of code analysis tools for C#, powered by Roslyn. | C# | 3027 | Other | 2016-04-26 | 2024-07-18 |
 | [jitutils](https://github.com/dotnet/jitutils) | None | C# | 145 | MIT License | 2016-05-04 | 2024-05-27 |
@@ -7778,13 +7778,13 @@
 | [android-libzipsharp](https://github.com/dotnet/android-libzipsharp) | A managed wrapper (and then some) around libzip (https://libzip.org/) | C# | 30 | MIT License | 2016-06-16 | 2024-07-05 |
 | [android-tools](https://github.com/dotnet/android-tools) | None | C# | 31 | MIT License | 2016-06-20 | 2024-07-17 |
 | [DataGridExtensions](https://github.com/dotnet/DataGridExtensions) | Modular extensions for the WPF DataGrid control | C# | 792 | MIT License | 2016-06-26 | 2024-07-19 |
-| [templating](https://github.com/dotnet/templating) | This repo contains the Template Engine which is used by dotnet new | C# | 1594 | MIT License | 2016-06-28 | 2024-07-19 |
+| [templating](https://github.com/dotnet/templating) | This repo contains the Template Engine which is used by dotnet new | C# | 1594 | MIT License | 2016-06-28 | 2024-07-22 |
 | [interactive-window](https://github.com/dotnet/interactive-window) | Visual Studio Interactive Window | C# | 65 | MIT License | 2016-06-29 | 2024-01-18 |
 | [symstore](https://github.com/dotnet/symstore) | Implements API for retrieval of symbols and other debug artifacts from symbol store. | C# | 142 | MIT License | 2016-06-29 | 2024-06-11 |
 | [features](https://github.com/dotnet/features) | This repository contains the source of the .NET Feature catalog | C# | 13 | Other | 2016-07-21 | 2023-05-29 |
 | [websdk](https://github.com/dotnet/websdk) | MSBuild tasks and targets required for publishing ASP.NET applications | None | 88 | - | 2016-07-22 | 2024-07-04 |
-| [sdk](https://github.com/dotnet/sdk) | Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI | C# | 2601 | MIT License | 2016-07-22 | 2024-07-21 |
-| [aspnet-api-versioning](https://github.com/dotnet/aspnet-api-versioning) | Provides a set of libraries which add service API versioning to ASP.NET Web API, OData with ASP.NET Web API, and ASP.NET Core. | C# | 3009 | MIT License | 2016-07-26 | 2024-07-15 |
+| [sdk](https://github.com/dotnet/sdk) | Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI | C# | 2603 | MIT License | 2016-07-22 | 2024-07-21 |
+| [aspnet-api-versioning](https://github.com/dotnet/aspnet-api-versioning) | Provides a set of libraries which add service API versioning to ASP.NET Web API, OData with ASP.NET Web API, and ASP.NET Core. | C# | 3009 | MIT License | 2016-07-26 | 2024-07-21 |
 | [WatsonWebserver](https://github.com/dotnet/WatsonWebserver) | Watson is the fastest, easiest way to build scalable RESTful web servers and services in C#. | C# | 395 | MIT License | 2016-08-05 | 2024-07-15 |
 | [roslyn-tools](https://github.com/dotnet/roslyn-tools) | Tools used in Roslyn based repos | C# | 103 | MIT License | 2016-08-08 | 2024-07-18 |
 | [source-build](https://github.com/dotnet/source-build) | A repository to track efforts to produce a source tarball of the .NET Core SDK and all its components | None | 261 | MIT License | 2016-08-11 | 2024-07-17 |
@@ -7798,10 +7798,10 @@
 | [SourceBrowser](https://github.com/dotnet/SourceBrowser) | Source browser website generator that powers http://referencesource.microsoft.com and http://source.roslyn.io | C# | 18 | Apache License 2.0 | 2016-10-11 | 2023-01-28 |
 | [linker](https://github.com/dotnet/linker) | None | C# | 387 | - | 2016-11-01 | 2024-06-22 |
 | [MVPSummitHackathon2016](https://github.com/dotnet/MVPSummitHackathon2016) | Samples for the CLI extensibility hackathon for MVP Summit 2016 in Redmond! | C# | 14 | MIT License | 2016-11-03 | 2024-05-01 |
-| [WatsonTcp](https://github.com/dotnet/WatsonTcp) | WatsonTcp is the easiest way to build TCP-based clients and servers in C#. | C# | 565 | MIT License | 2016-11-06 | 2024-07-21 |
+| [WatsonTcp](https://github.com/dotnet/WatsonTcp) | WatsonTcp is the easiest way to build TCP-based clients and servers in C#. | C# | 566 | MIT License | 2016-11-06 | 2024-07-22 |
 | [portable-class-libraries](https://github.com/dotnet/portable-class-libraries) | Contains the reference assemblies for the various portable class library profiles. | None | 2 | MIT License | 2016-11-21 | 2023-05-29 |
 | [vblang](https://github.com/dotnet/vblang) | The home for design of the Visual Basic .NET programming language and runtime library. | None | 287 | - | 2016-12-09 | 2024-07-21 |
-| [csharplang](https://github.com/dotnet/csharplang) | The official repo for the design of the C# programming language | C# | 11128 | - | 2016-12-09 | 2024-07-21 |
+| [csharplang](https://github.com/dotnet/csharplang) | The official repo for the design of the C# programming language | C# | 11129 | - | 2016-12-09 | 2024-07-21 |
 | [csharp-tmLanguage](https://github.com/dotnet/csharp-tmLanguage) | Syntax grammar used for C# colorization | TypeScript | 67 | MIT License | 2016-12-20 | 2024-06-18 |
 | [symreader-converter](https://github.com/dotnet/symreader-converter) | Converts between Windows PDB and Portable PDB formats. | C# | 65 | MIT License | 2017-01-27 | 2024-04-25 |
 | [windows-sdk-for-google-analytics](https://github.com/dotnet/windows-sdk-for-google-analytics) | SDK to connect to Google Analytics from Windows Store (UWP) Apps, Windows desktop apps written with .NET, and Xamarin Apps | C# | 103 | MIT License | 2017-01-31 | 2024-03-14 |
@@ -7810,9 +7810,9 @@
 | [CliCommandLineParser](https://github.com/dotnet/CliCommandLineParser) | A second-generation parser for the .NET Core command line tools | C# | 111 | MIT License | 2017-03-01 | 2024-06-29 |
 | [roslyn-sdk](https://github.com/dotnet/roslyn-sdk) | Roslyn-SDK templates and Syntax Visualizer | C# | 499 | MIT License | 2017-03-02 | 2024-07-18 |
 | [new-repo](https://github.com/dotnet/new-repo) | Recommended template for new .NET Foundation repos | None | 41 | MIT License | 2017-03-06 | 2024-05-01 |
-| [MQTTnet](https://github.com/dotnet/MQTTnet) | MQTTnet is a high performance .NET library for MQTT based communication. It provides a MQTT client and a MQTT server (broker). The implementation is based on the documentation from http://mqtt.org/. | C# | 4322 | MIT License | 2017-03-16 | 2024-07-21 |
+| [MQTTnet](https://github.com/dotnet/MQTTnet) | MQTTnet is a high performance .NET library for MQTT based communication. It provides a MQTT client and a MQTT server (broker). The implementation is based on the documentation from http://mqtt.org/. | C# | 4325 | MIT License | 2017-03-16 | 2024-07-21 |
 | [announcements](https://github.com/dotnet/announcements) | Subscribe to this repo to be notified of Announcements and changes in .NET Core.  | None | 1259 | Creative Commons Attribution 4.0 International | 2017-03-17 | 2024-07-18 |
-| [Kerberos.NET](https://github.com/dotnet/Kerberos.NET) | A Kerberos implementation built entirely in managed code. | C# | 506 | MIT License | 2017-03-19 | 2024-07-19 |
+| [Kerberos.NET](https://github.com/dotnet/Kerberos.NET) | A Kerberos implementation built entirely in managed code. | C# | 507 | MIT License | 2017-03-19 | 2024-07-21 |
 | [xliff-tasks](https://github.com/dotnet/xliff-tasks) | MSBuild tasks and targets which allow the localization of string resources using xliff | PowerShell | 51 | MIT License | 2017-03-22 | 2024-07-13 |
 | [metadata-tools](https://github.com/dotnet/metadata-tools) | Contains tools for metadata, such as Roslyn's metadata visualizer. | C# | 49 | MIT License | 2017-03-24 | 2024-07-15 |
 | [platform-compat](https://github.com/dotnet/platform-compat) | Roslyn analyzer that finds usages of APIs that will throw PlatformNotSupportedException on certain platforms. | C# | 278 | MIT License | 2017-03-24 | 2024-06-27 |
@@ -7837,28 +7837,28 @@
 | [blazor](https://github.com/dotnet/blazor) | Blazor moved to https://github.com/dotnet/aspnetcore | PowerShell | 9336 | Apache License 2.0 | 2018-01-03 | 2024-07-20 |
 | [summer-of-code](https://github.com/dotnet/summer-of-code) | Google Summer of Code projects under .NET Foundation | None | 10 | Apache License 2.0 | 2018-01-23 | 2023-05-29 |
 | [dotnet-buildtools-prereqs-docker](https://github.com/dotnet/dotnet-buildtools-prereqs-docker) | Used to maintain the Docker images hosted at the mcr.microsoft.com/dotnet-buildtools/prereqs image repository | Dockerfile | 53 | MIT License | 2018-01-24 | 2024-07-19 |
-| [samples](https://github.com/dotnet/samples) | Sample code referenced by the .NET documentation | C# | 3298 | Creative Commons Attribution 4.0 International | 2018-01-30 | 2024-07-19 |
-| [arcade](https://github.com/dotnet/arcade) | Tools that provide common build infrastructure for multiple .NET Foundation projects. | C# | 659 | MIT License | 2018-02-13 | 2024-07-19 |
+| [samples](https://github.com/dotnet/samples) | Sample code referenced by the .NET documentation | C# | 3298 | Creative Commons Attribution 4.0 International | 2018-01-30 | 2024-07-22 |
+| [arcade](https://github.com/dotnet/arcade) | Tools that provide common build infrastructure for multiple .NET Foundation projects. | C# | 659 | MIT License | 2018-02-13 | 2024-07-22 |
 | [templates](https://github.com/dotnet/templates) | Templates for .NET | None | 186 | - | 2018-02-13 | 2024-06-20 |
 | [performance](https://github.com/dotnet/performance) | This repo contains benchmarks used for testing the performance of all .NET Runtimes | F# | 684 | MIT License | 2018-03-12 | 2024-07-20 |
-| [diagnostics](https://github.com/dotnet/diagnostics) | This repository contains the source code for various .NET Core runtime diagnostic tools and documents. | C++ | 1168 | MIT License | 2018-03-22 | 2024-07-19 |
+| [diagnostics](https://github.com/dotnet/diagnostics) | This repository contains the source code for various .NET Core runtime diagnostic tools and documents. | C++ | 1168 | MIT License | 2018-03-22 | 2024-07-21 |
 | [ml-api-docs](https://github.com/dotnet/ml-api-docs) | None | PowerShell | 21 | Creative Commons Attribution 4.0 International | 2018-04-02 | 2024-06-30 |
-| [command-line-api](https://github.com/dotnet/command-line-api) | Command line parsing, invocation, and rendering of terminal output. | C# | 3348 | MIT License | 2018-04-17 | 2024-07-20 |
+| [command-line-api](https://github.com/dotnet/command-line-api) | Command line parsing, invocation, and rendering of terminal output. | C# | 3349 | MIT License | 2018-04-17 | 2024-07-21 |
 | [sourcelink](https://github.com/dotnet/sourcelink) | Source Link enables a great source debugging experience for your users, by adding source control metadata to your built assets | C# | 1242 | MIT License | 2018-04-19 | 2024-07-16 |
-| [machinelearning](https://github.com/dotnet/machinelearning) | ML.NET is an open source and cross-platform machine learning framework for .NET. | C# | 8943 | MIT License | 2018-05-03 | 2024-07-20 |
-| [machinelearning-samples](https://github.com/dotnet/machinelearning-samples) | Samples for ML.NET, an open source and cross-platform machine learning framework for .NET. | PowerShell | 4421 | MIT License | 2018-05-25 | 2024-07-20 |
+| [machinelearning](https://github.com/dotnet/machinelearning) | ML.NET is an open source and cross-platform machine learning framework for .NET. | C# | 8944 | MIT License | 2018-05-03 | 2024-07-22 |
+| [machinelearning-samples](https://github.com/dotnet/machinelearning-samples) | Samples for ML.NET, an open source and cross-platform machine learning framework for .NET. | PowerShell | 4422 | MIT License | 2018-05-25 | 2024-07-21 |
 | [JsApiDocs](https://github.com/dotnet/JsApiDocs) | Reference documentation for ASP.NET Core JavaScript APIs  | PowerShell | 7 | Creative Commons Attribution 4.0 International | 2018-06-29 | 2023-07-25 |
 | [BuildPerformanceTestAssets](https://github.com/dotnet/BuildPerformanceTestAssets) | Performance test assets | C# | 3 | MIT License | 2018-07-11 | 2023-05-27 |
 | [test-templates](https://github.com/dotnet/test-templates) | None | Rich Text Format | 44 | MIT License | 2018-07-11 | 2024-07-19 |
-| [nuget-trends](https://github.com/dotnet/nuget-trends) | Check out NuGet packages adoption and what's trending on NuGet. | C# | 148 | MIT License | 2018-08-11 | 2024-07-20 |
+| [nuget-trends](https://github.com/dotnet/nuget-trends) | Check out NuGet packages adoption and what's trending on NuGet. | C# | 149 | MIT License | 2018-08-11 | 2024-07-21 |
 | [jsinterop](https://github.com/dotnet/jsinterop) | [ARCHIVED] Provides abstractions and features for interop between .NET and JavaScript code. | C# | 27 | Apache License 2.0 | 2018-08-16 | 2024-03-04 |
 | [orleans-docs](https://github.com/dotnet/orleans-docs) | Orleans documentation | Batchfile | 18 | MIT License | 2018-08-16 | 2023-10-20 |
 | [machinelearning-testdata](https://github.com/dotnet/machinelearning-testdata) | None | Python | 8 | MIT License | 2018-08-24 | 2023-08-25 |
 | [JavaApiDocs](https://github.com/dotnet/JavaApiDocs) | API docs for Java components | PowerShell | 4 | Creative Commons Attribution 4.0 International | 2018-09-04 | 2023-05-26 |
 | [infer](https://github.com/dotnet/infer) | Infer.NET is a framework for running Bayesian inference in graphical models | C# | 1547 | MIT License | 2018-09-14 | 2024-07-18 |
-| [iot](https://github.com/dotnet/iot) | This repo includes .NET Core implementations for various IoT boards, chips, displays and PCBs. | C# | 2132 | MIT License | 2018-10-04 | 2024-07-20 |
-| [TorchSharp](https://github.com/dotnet/TorchSharp) | A .NET library that provides access to the library that powers PyTorch. | C# | 1317 | MIT License | 2018-10-12 | 2024-07-20 |
-| [winforms](https://github.com/dotnet/winforms) | Windows Forms is a .NET UI framework for building Windows desktop applications. | C# | 4304 | MIT License | 2018-10-19 | 2024-07-20 |
+| [iot](https://github.com/dotnet/iot) | This repo includes .NET Core implementations for various IoT boards, chips, displays and PCBs. | C# | 2134 | MIT License | 2018-10-04 | 2024-07-22 |
+| [TorchSharp](https://github.com/dotnet/TorchSharp) | A .NET library that provides access to the library that powers PyTorch. | C# | 1318 | MIT License | 2018-10-12 | 2024-07-22 |
+| [winforms](https://github.com/dotnet/winforms) | Windows Forms is a .NET UI framework for building Windows desktop applications. | C# | 4304 | MIT License | 2018-10-19 | 2024-07-21 |
 | [wpf](https://github.com/dotnet/wpf) | WPF is a .NET Core UI framework for building Windows desktop applications. | C# | 6929 | MIT License | 2018-10-19 | 2024-07-20 |
 | [AspNetDocs](https://github.com/dotnet/AspNetDocs) | Documentation for ASP.NET 4.x | C# | 319 | Creative Commons Attribution 4.0 International | 2018-10-31 | 2024-07-19 |
 | [arcade-services](https://github.com/dotnet/arcade-services) | Arcade Engineering Services | C# | 54 | MIT License | 2018-11-06 | 2024-07-19 |
@@ -7869,7 +7869,7 @@
 | [winforms-datavisualization](https://github.com/dotnet/winforms-datavisualization) | System.Windows.Forms.DataVisualization provides basic charting for WinForms applications. | C# | 152 | MIT License | 2019-02-06 | 2024-07-15 |
 | [format](https://github.com/dotnet/format) | Home for the dotnet-format command | C# | 1920 | MIT License | 2019-02-15 | 2024-07-19 |
 | [windows-desktop](https://github.com/dotnet/windows-desktop) | None | None | 86 | - | 2019-02-26 | 2024-06-11 |
-| [SqlClient](https://github.com/dotnet/SqlClient) | Microsoft.Data.SqlClient provides database connectivity to SQL Server for .NET applications. | C# | 820 | MIT License | 2019-02-28 | 2024-07-21 |
+| [SqlClient](https://github.com/dotnet/SqlClient) | Microsoft.Data.SqlClient provides database connectivity to SQL Server for .NET applications. | C# | 820 | MIT License | 2019-02-28 | 2024-07-22 |
 | [mbmlbook](https://github.com/dotnet/mbmlbook) | Sample code for the Model-Based Machine Learning book. | C# | 282 | MIT License | 2019-03-04 | 2024-07-16 |
 | [msbuild-language-service](https://github.com/dotnet/msbuild-language-service) | A language service for MSBuild files | PowerShell | 24 | MIT License | 2019-03-04 | 2023-05-27 |
 | [vscode-dotnet-runtime](https://github.com/dotnet/vscode-dotnet-runtime) | VSCode Extension for Installing .NET via VS Code | TypeScript | 130 | MIT License | 2019-03-16 | 2024-07-17 |
@@ -7878,29 +7878,29 @@
 | [spark](https://github.com/dotnet/spark) | .NET for Apache® Spark™ makes Apache Spark™ easily accessible to .NET developers. | C# | 2009 | MIT License | 2019-04-22 | 2024-07-19 |
 | [machinelearning-modelbuilder](https://github.com/dotnet/machinelearning-modelbuilder) | Simple UI tool to build custom machine learning models. | Dockerfile | 260 | Creative Commons Attribution 4.0 International | 2019-05-15 | 2024-07-09 |
 | [cli-lab](https://github.com/dotnet/cli-lab) | A guided tool will be provided to enable the controlled clean up of a system such that only the desired versions of the Runtime and SDKs remain. | C# | 602 | MIT License | 2019-05-28 | 2024-07-12 |
-| [Silk.NET](https://github.com/dotnet/Silk.NET) | The high-speed OpenGL, OpenCL, OpenAL, OpenXR, GLFW, SDL, Vulkan, Assimp, WebGPU, and DirectX bindings library your mother warned you about. | C# | 3931 | MIT License | 2019-06-10 | 2024-07-21 |
+| [Silk.NET](https://github.com/dotnet/Silk.NET) | The high-speed OpenGL, OpenCL, OpenAL, OpenXR, GLFW, SDL, Vulkan, Assimp, WebGPU, and DirectX bindings library your mother warned you about. | C# | 3934 | MIT License | 2019-06-10 | 2024-07-21 |
 | [HttpRepl](https://github.com/dotnet/HttpRepl) | The HTTP Read-Eval-Print Loop (REPL) is a lightweight, cross-platform command-line tool that's supported everywhere .NET Core is supported and is used for making HTTP requests to test ASP.NET Core web APIs and view their results. | C# | 698 | MIT License | 2019-06-11 | 2024-07-16 |
-| [try-samples](https://github.com/dotnet/try-samples) | None | C# | 1072 | Creative Commons Attribution 4.0 International | 2019-06-14 | 2024-07-14 |
-| [Comet](https://github.com/dotnet/Comet) | Comet is an MVU UIToolkit written in C# | C# | 1639 | MIT License | 2019-06-15 | 2024-07-19 |
+| [try-samples](https://github.com/dotnet/try-samples) | None | C# | 1073 | Creative Commons Attribution 4.0 International | 2019-06-14 | 2024-07-22 |
+| [Comet](https://github.com/dotnet/Comet) | Comet is an MVU UIToolkit written in C# | C# | 1641 | MIT License | 2019-06-15 | 2024-07-22 |
 | [api-docs-sync](https://github.com/dotnet/api-docs-sync) | Tools for porting documentation from intellisense xmls to api-docs, or from api-docs to triple slash comments. | C# | 10 | MIT License | 2019-06-26 | 2024-07-01 |
 | [mcgutils](https://github.com/dotnet/mcgutils) | None | C# | 1 | MIT License | 2019-08-04 | 2023-01-28 |
 | [MobileBlazorBindings](https://github.com/dotnet/MobileBlazorBindings) | Experimental Mobile Blazor Bindings - Build native and hybrid mobile apps with Blazor | C# | 1199 | MIT License | 2019-08-12 | 2024-07-09 |
 | [nbgv](https://github.com/dotnet/nbgv) | The repo behind the dotnet/nbgv GitHub Action | TypeScript | 50 | MIT License | 2019-08-17 | 2024-07-15 |
 | [machinelearning-public-datasets](https://github.com/dotnet/machinelearning-public-datasets) | None | None | 6 | MIT License | 2019-08-23 | 2023-05-29 |
 | [try-convert](https://github.com/dotnet/try-convert) | Helping .NET developers port their projects to .NET Core! | C# | 1140 | MIT License | 2019-09-18 | 2024-07-11 |
-| [runtime](https://github.com/dotnet/runtime) | .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps. | C# | 14634 | MIT License | 2019-09-24 | 2024-07-21 |
+| [runtime](https://github.com/dotnet/runtime) | .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps. | C# | 14635 | MIT License | 2019-09-24 | 2024-07-22 |
 | [windowsdesktop](https://github.com/dotnet/windowsdesktop) | None | PowerShell | 154 | MIT License | 2019-09-30 | 2024-07-19 |
 | [org-policy](https://github.com/dotnet/org-policy) | This repo contains tools and tracks policy violations for the dotnet org. | C# | 17 | MIT License | 2019-10-24 | 2024-06-12 |
-| [llvm-project](https://github.com/dotnet/llvm-project) | Mono's patches for the LLVM repository: https://www.mono-project.com/docs/advanced/runtime/docs/llvm-backend/#the-llvm-mono-branch | C++ | 27 | Other | 2019-11-07 | 2024-07-15 |
+| [llvm-project](https://github.com/dotnet/llvm-project) | Mono's patches for the LLVM repository: https://www.mono-project.com/docs/advanced/runtime/docs/llvm-backend/#the-llvm-mono-branch | C++ | 27 | Other | 2019-11-07 | 2024-07-21 |
 | [dotnet-console-games](https://github.com/dotnet/dotnet-console-games) | Game examples implemented as .NET console applications primarily for providing education and inspiration. :) | C# | 809 | MIT License | 2020-01-14 | 2024-07-21 |
-| [interactive](https://github.com/dotnet/interactive) | .NET Interactive combines the power of .NET with many other languages to create notebooks, REPLs, and embedded coding experiences. Share code, explore data, write, and learn across your apps in ways you couldn't before. | C# | 2807 | MIT License | 2020-01-22 | 2024-07-20 |
-| [tye](https://github.com/dotnet/tye) | Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration. | C# | 5293 | MIT License | 2020-02-28 | 2024-07-14 |
+| [interactive](https://github.com/dotnet/interactive) | .NET Interactive combines the power of .NET with many other languages to create notebooks, REPLs, and embedded coding experiences. Share code, explore data, write, and learn across your apps in ways you couldn't before. | C# | 2809 | MIT License | 2020-01-22 | 2024-07-21 |
+| [tye](https://github.com/dotnet/tye) | Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration. | C# | 5294 | MIT License | 2020-02-28 | 2024-07-21 |
 | [xharness](https://github.com/dotnet/xharness) | C# command line tool for running tests on Android / iOS / tvOS devices and simulators | C# | 149 | MIT License | 2020-03-16 | 2024-07-16 |
-| [maui-samples](https://github.com/dotnet/maui-samples) | Samples for .NET Multi-Platform App UI (.NET MAUI) | C# | 2989 | MIT License | 2020-04-15 | 2024-07-20 |
+| [maui-samples](https://github.com/dotnet/maui-samples) | Samples for .NET Multi-Platform App UI (.NET MAUI) | C# | 2991 | MIT License | 2020-04-15 | 2024-07-22 |
 | [brand](https://github.com/dotnet/brand) | This repo serves as a guide and reference to designers, writers, and developers to create consistent, on-brand content for .NET. | None | 252 | Creative Commons Zero v1.0 Universal | 2020-04-16 | 2024-07-11 |
 | [crank](https://github.com/dotnet/crank) | Benchmarking infrastructure for applications | C# | 966 | MIT License | 2020-04-21 | 2024-07-12 |
-| [runtimelab](https://github.com/dotnet/runtimelab) | This repo is for experimentation and exploring new ideas that may or may not make it into the main dotnet/runtime repo. | None | 1365 | MIT License | 2020-05-01 | 2024-07-19 |
-| [maui](https://github.com/dotnet/maui) | .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop. | C# | 21870 | MIT License | 2020-05-08 | 2024-07-21 |
+| [runtimelab](https://github.com/dotnet/runtimelab) | This repo is for experimentation and exploring new ideas that may or may not make it into the main dotnet/runtime repo. | None | 1366 | MIT License | 2020-05-01 | 2024-07-21 |
+| [maui](https://github.com/dotnet/maui) | .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop. | C# | 21874 | MIT License | 2020-05-08 | 2024-07-22 |
 | [install-scripts](https://github.com/dotnet/install-scripts) | None | PowerShell | 128 | MIT License | 2020-05-19 | 2024-07-15 |
 | [insertions-client](https://github.com/dotnet/insertions-client) | None | C# | 2 | - | 2020-05-19 | 2024-06-14 |
 | [issue-labeler](https://github.com/dotnet/issue-labeler) | An issue labeler bot for use in dotnet repositories. | C# | 21 | MIT License | 2020-06-12 | 2024-03-25 |
@@ -7910,7 +7910,7 @@
 | [apisof.net](https://github.com/dotnet/apisof.net) | None | C# | 106 | MIT License | 2020-07-30 | 2024-07-15 |
 | [docs-desktop](https://github.com/dotnet/docs-desktop) | This repository contains .NET documentation related to Windows Forms (winforms) and Windows Presentation Foundation (WPF). | C# | 192 | Creative Commons Attribution 4.0 International | 2020-08-07 | 2024-07-09 |
 | [AzCopyNet](https://github.com/dotnet/AzCopyNet) | .NET Library to seamlessly leverage AzCopy | PowerShell | 13 | MIT License | 2020-09-18 | 2024-02-18 |
-| [csharpstandard](https://github.com/dotnet/csharpstandard) | Working space for ECMA-TC49-TG2, the C# standard committee. | C# | 693 | Creative Commons Attribution 4.0 International | 2020-10-21 | 2024-07-13 |
+| [csharpstandard](https://github.com/dotnet/csharpstandard) | Working space for ECMA-TC49-TG2, the C# standard committee. | C# | 692 | Creative Commons Attribution 4.0 International | 2020-10-21 | 2024-07-22 |
 | [xamarin](https://github.com/dotnet/xamarin) | Xamarin is Microsoft's open source platform for building cross-platform mobile apps with .NET | None | 53 | MIT License | 2020-10-22 | 2024-04-22 |
 | [Microsoft.Maui.Graphics](https://github.com/dotnet/Microsoft.Maui.Graphics) | An experimental cross-platform native graphics library. | C# | 683 | MIT License | 2020-10-27 | 2024-06-28 |
 | [iot-api-docs](https://github.com/dotnet/iot-api-docs) | None | PowerShell | 4 | Creative Commons Attribution 4.0 International | 2020-11-04 | 2023-05-27 |
@@ -7923,7 +7923,7 @@
 | [vscode-dotnet-pack](https://github.com/dotnet/vscode-dotnet-pack) | .NET Extension Pack for VSCode. The best of C#, F#, and .NET Interactive. | TypeScript | 32 | MIT License | 2021-01-30 | 2024-05-21 |
 | [hotreload-utils](https://github.com/dotnet/hotreload-utils) | Utilities for .NET hot reload | PowerShell | 38 | MIT License | 2021-02-01 | 2024-07-15 |
 | [code-analysis](https://github.com/dotnet/code-analysis) | None | JavaScript | 62 | MIT License | 2021-02-05 | 2024-05-27 |
-| [dotnet-monitor](https://github.com/dotnet/dotnet-monitor) | This repository contains the source code for .NET Monitor - a tool that allows you to gather diagnostic data from running applications using HTTP endpoints | C# | 624 | MIT License | 2021-02-15 | 2024-07-19 |
+| [dotnet-monitor](https://github.com/dotnet/dotnet-monitor) | This repository contains the source code for .NET Monitor - a tool that allows you to gather diagnostic data from running applications using HTTP endpoints | C# | 624 | MIT License | 2021-02-15 | 2024-07-21 |
 | [emsdk](https://github.com/dotnet/emsdk) | Emscripten SDK | PowerShell | 12 | Other | 2021-03-12 | 2024-07-15 |
 | [spa-templates](https://github.com/dotnet/spa-templates) | This repo contains the SPA project templates which are part of the ASP.NET Core 6 & 7. | C# | 89 | MIT License | 2021-04-21 | 2024-05-16 |
 | [letslearndotnet](https://github.com/dotnet/letslearndotnet) | Join the 5 million+ .NET developers around the globe with our Let's Learn .NET virtual event series. Join us on Learn TV (http://aka.ms/learntv) for a free two-hour livestream events each month for developers by developers. Let's talk app dev with .NET. Visit http://aka.ms/letslearndotnet to learn more! | None | 6 | MIT License | 2021-04-27 | 2023-10-16 |
@@ -7940,17 +7940,17 @@
 | [razor-compiler](https://github.com/dotnet/razor-compiler) | This repo houses the Razor Compiler, which is part of the .NET SDK | C# | 56 | MIT License | 2021-11-05 | 2024-02-23 |
 | [dotnet-maui-api-docs](https://github.com/dotnet/dotnet-maui-api-docs) | .NET Multi-platform App UI (.NET MAUI) reference documentation. | PowerShell | 17 | Creative Commons Attribution 4.0 International | 2022-01-04 | 2024-06-17 |
 | [blazor-samples](https://github.com/dotnet/blazor-samples) | None | HTML | 620 | Creative Commons Attribution 4.0 International | 2022-02-02 | 2024-07-19 |
-| [AspNetCore.Docs.Samples](https://github.com/dotnet/AspNetCore.Docs.Samples) | None | C# | 158 | Creative Commons Attribution 4.0 International | 2022-02-04 | 2024-07-18 |
+| [AspNetCore.Docs.Samples](https://github.com/dotnet/AspNetCore.Docs.Samples) | None | C# | 160 | Creative Commons Attribution 4.0 International | 2022-02-04 | 2024-07-22 |
 | [source-build-externals](https://github.com/dotnet/source-build-externals) | This repo contains the source that resides outside of the dotnet organization required to build .NET from source. | PowerShell | 16 | MIT License | 2022-02-05 | 2024-07-19 |
 | [fabricbot-config](https://github.com/dotnet/fabricbot-config) | Scripts for managing fabricbot configurations in the dotnet repos | JavaScript | 4 | MIT License | 2022-03-11 | 2024-04-17 |
 | [msbuild-api-docs](https://github.com/dotnet/msbuild-api-docs) | None | C# | 5 | Creative Commons Attribution 4.0 International | 2022-03-25 | 2024-04-24 |
 | [intro-to-dotnet-web-dev](https://github.com/dotnet/intro-to-dotnet-web-dev) | Get Started as a Web Developer with .NET, C#, and ASP.NET Core | C# | 688 | MIT License | 2022-04-18 | 2024-07-18 |
 | [systemweb-adapters](https://github.com/dotnet/systemweb-adapters) | None | C# | 332 | MIT License | 2022-04-25 | 2024-07-18 |
 | [sdk-container-builds](https://github.com/dotnet/sdk-container-builds) | Libraries and build tooling to create container images from .NET projects using MSBuild | None | 178 | MIT License | 2022-05-16 | 2024-07-16 |
-| [dotnet-wasi-sdk](https://github.com/dotnet/dotnet-wasi-sdk) | An SDK for building .NET projects as standalone WASI-compliant modules | C# | 261 | MIT License | 2022-08-10 | 2024-07-21 |
-| [dotnet](https://github.com/dotnet/dotnet) | Home of .NET's Virtual Monolithic Repository which includes all the code needed to build the .NET SDK from source | C# | 416 | MIT License | 2022-10-13 | 2024-07-21 |
+| [dotnet-wasi-sdk](https://github.com/dotnet/dotnet-wasi-sdk) | An SDK for building .NET projects as standalone WASI-compliant modules | C# | 262 | MIT License | 2022-08-10 | 2024-07-22 |
+| [dotnet](https://github.com/dotnet/dotnet) | Home of .NET's Virtual Monolithic Repository which includes all the code needed to build the .NET SDK from source | C# | 417 | MIT License | 2022-10-13 | 2024-07-21 |
 | [maintenance-packages](https://github.com/dotnet/maintenance-packages) | Repository that hosts packages from the .NET platform whose original home/branch is not building any longer. | C# | 13 | MIT License | 2022-10-20 | 2024-07-18 |
-| [beginner-series](https://github.com/dotnet/beginner-series) | .NET for beginner's videos, code, and links. | Jupyter Notebook | 239 | MIT License | 2023-01-18 | 2024-07-20 |
+| [beginner-series](https://github.com/dotnet/beginner-series) | .NET for beginner's videos, code, and links. | Jupyter Notebook | 240 | MIT License | 2023-01-18 | 2024-07-21 |
 | [.github](https://github.com/dotnet/.github) | None | None | 2 | MIT License | 2023-02-02 | 2023-04-07 |
 | [wasi-sdk](https://github.com/dotnet/wasi-sdk) | WASI-enabled WebAssembly C/C++ toolchain | PowerShell | 1 | Apache License 2.0 | 2023-02-23 | 2024-07-15 |
 | [extensions-samples](https://github.com/dotnet/extensions-samples) | None | PowerShell | 4 | MIT License | 2023-03-15 | 2024-07-20 |
@@ -7962,15 +7962,15 @@
 | [dnceng](https://github.com/dotnet/dnceng) | .NET Engineering Services | C# | 22 | MIT License | 2023-04-19 | 2024-07-19 |
 | [scenario-tests](https://github.com/dotnet/scenario-tests) | Scenario testing for installed .NET Core SDKs | PowerShell | 5 | MIT License | 2023-07-18 | 2024-07-19 |
 | [workload-versions](https://github.com/dotnet/workload-versions) | None | PowerShell | 8 | MIT License | 2023-08-17 | 2024-07-09 |
-| [aspire](https://github.com/dotnet/aspire) | An opinionated, cloud ready stack for building observable, production ready, distributed applications in .NET | C# | 3429 | MIT License | 2023-09-25 | 2024-07-21 |
+| [aspire](https://github.com/dotnet/aspire) | An opinionated, cloud ready stack for building observable, production ready, distributed applications in .NET | C# | 3439 | MIT License | 2023-09-25 | 2024-07-22 |
 | [android-api-docs](https://github.com/dotnet/android-api-docs) | .NET for Android reference documentation. | PowerShell | 0 | Creative Commons Attribution 4.0 International | 2023-09-26 | 2024-06-28 |
-| [eShop](https://github.com/dotnet/eShop) | A reference .NET application implementing an eCommerce site | C# | 4825 | MIT License | 2023-10-18 | 2024-07-21 |
-| [aspire-samples](https://github.com/dotnet/aspire-samples) | None | C# | 565 | MIT License | 2023-10-24 | 2024-07-20 |
-| [docs-aspire](https://github.com/dotnet/docs-aspire) | This repository contains .NET Aspire documentation. | None | 65 | MIT License | 2023-11-10 | 2024-07-18 |
+| [eShop](https://github.com/dotnet/eShop) | A reference .NET application implementing an eCommerce site | C# | 4830 | MIT License | 2023-10-18 | 2024-07-22 |
+| [aspire-samples](https://github.com/dotnet/aspire-samples) | None | C# | 565 | MIT License | 2023-10-24 | 2024-07-22 |
+| [docs-aspire](https://github.com/dotnet/docs-aspire) | This repository contains .NET Aspire documentation. | None | 65 | MIT License | 2023-11-10 | 2024-07-21 |
 | [Node-Externals](https://github.com/dotnet/Node-Externals) | Generated .js files used in the dotnet/aspnetcore repo | None | 1 | MIT License | 2024-01-19 | 2024-07-16 |
 | [immo-redirection-test-renamed](https://github.com/dotnet/immo-redirection-test-renamed) | None | PowerShell | 0 | MIT License | 2024-01-31 | 2024-01-31 |
 | [website-feedback](https://github.com/dotnet/website-feedback) | This repo is for dot.net feedback including get started tutorial issues from the site. | None | 0 | MIT License | 2024-02-07 | 2024-05-23 |
-| [ai-samples](https://github.com/dotnet/ai-samples) | None | C# | 228 | MIT License | 2024-02-14 | 2024-07-18 |
+| [ai-samples](https://github.com/dotnet/ai-samples) | None | C# | 229 | MIT License | 2024-02-14 | 2024-07-22 |
 | [BlazorMinifiedJs](https://github.com/dotnet/BlazorMinifiedJs) | Minified .js files generated by dotnet/aspnetcore repo | None | 0 | MIT License | 2024-06-04 | 2024-07-18 |
 | [wix3](https://github.com/dotnet/wix3) | WiX Toolset v3.x | None | 0 | Other | 2024-07-09 | 2024-07-09 |
 | [media](https://github.com/github/media) | Media files for use in your GitHub integration projects | None | 293 | - | 2008-03-09 | 2024-07-11 |
@@ -7985,13 +7985,13 @@
 | [safegem](https://github.com/github/safegem) | GitHub's safe gem eval web service | Ruby | 13 | - | 2009-02-11 | 2024-06-13 |
 | [develop.github.com](https://github.com/github/develop.github.com) | Outdated documentation for GitHub API v2.  See http://developer.github.com/ for the current API. | CSS | 17 | - | 2009-02-17 | 2024-06-13 |
 | [version_sorter](https://github.com/github/version_sorter) | Fast sorting of version numbers | C | 124 | MIT License | 2009-04-25 | 2024-06-13 |
-| [markup](https://github.com/github/markup) | Determines which markup library to use to render a content file (e.g. README) on GitHub | Ruby | 5818 | MIT License | 2009-10-31 | 2024-07-20 |
+| [markup](https://github.com/github/markup) | Determines which markup library to use to render a content file (e.g. README) on GitHub | Ruby | 5820 | MIT License | 2009-10-31 | 2024-07-22 |
 | [upload](https://github.com/github/upload) | Script to upload files to non-repo storage from the command line | Ruby | 73 | - | 2010-04-03 | 2024-06-13 |
 | [github-services](https://github.com/github/github-services) | Legacy GitHub Services Integration | Ruby | 1896 | MIT License | 2010-05-14 | 2024-07-20 |
 | [gitcasts](https://github.com/github/gitcasts) | Educational screencasts about Git | CSS | 15 | - | 2010-09-08 | 2024-06-13 |
 | [rails](https://github.com/github/rails) | Ruby on Rails + GitHub patches | Ruby | 74 | - | 2010-10-16 | 2024-06-13 |
-| [gitignore](https://github.com/github/gitignore) | A collection of useful .gitignore templates | None | 159841 | Creative Commons Zero v1.0 Universal | 2010-11-08 | 2024-07-21 |
-| [dmca](https://github.com/github/dmca) | Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at  | DIGITAL Command Language | 5452 | - | 2011-01-28 | 2024-07-20 |
+| [gitignore](https://github.com/github/gitignore) | A collection of useful .gitignore templates | None | 159871 | Creative Commons Zero v1.0 Universal | 2010-11-08 | 2024-07-22 |
+| [dmca](https://github.com/github/dmca) | Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at  | DIGITAL Command Language | 5451 | - | 2011-01-28 | 2024-07-21 |
 | [pong](https://github.com/github/pong) | Auxiliary repository for external ping checks | None | 19 | - | 2011-02-20 | 2024-06-13 |
 | [pycon2011](https://github.com/github/pycon2011) | None | Python | 354 | - | 2011-02-21 | 2024-06-13 |
 | [email_reply_parser](https://github.com/github/email_reply_parser) | Small library to parse plain text email content | Ruby | 660 | MIT License | 2011-02-23 | 2024-06-14 |
@@ -8064,20 +8064,20 @@
 | [go-opstocat](https://github.com/github/go-opstocat) | DEPRECATED | Go | 43 | MIT License | 2013-10-02 | 2024-06-13 |
 | [marginalia](https://github.com/github/marginalia) | Attach comments to ActiveRecord's SQL queries | Ruby | 7 | MIT License | 2013-10-07 | 2024-06-13 |
 | [game-off-2013](https://github.com/github/game-off-2013) | None | None | 113 | - | 2013-10-14 | 2024-06-13 |
-| [government.github.com](https://github.com/github/government.github.com) | Gather, curate, and feature stories of public servants and civic hackers using GitHub as part of their open government innovations | HTML | 1711 | - | 2013-10-15 | 2024-07-19 |
+| [government.github.com](https://github.com/github/government.github.com) | Gather, curate, and feature stories of public servants and civic hackers using GitHub as part of their open government innovations | HTML | 1712 | - | 2013-10-15 | 2024-07-21 |
 | [uiimage-from-animated-gif](https://github.com/github/uiimage-from-animated-gif) | A UIImage category that loads animated GIFs | Objective-C | 10 | Creative Commons Zero v1.0 Universal | 2013-10-28 | 2024-06-13 |
 | [serialized_attributes](https://github.com/github/serialized_attributes) | UNMAINTAINED - kind of a bridge between using AR and a full blown schema-free db | Ruby | 8 | MIT License | 2013-12-03 | 2024-06-13 |
 | [gollum](https://github.com/github/gollum) | Unsupported — use https://github.com/gollum/gollum! | Ruby | 155 | MIT License | 2013-12-04 | 2024-06-13 |
 | [training-kit](https://github.com/github/training-kit) | Open source courseware for Git and GitHub | HTML | 4241 | Creative Commons Attribution 4.0 International | 2013-12-20 | 2024-07-21 |
 | [game-o](https://github.com/github/game-o) | O! a Cut.js game | JavaScript | 21 | - | 2014-02-03 | 2024-06-13 |
-| [scientist](https://github.com/github/scientist) | :microscope: A Ruby library for carefully refactoring critical paths. | Ruby | 7376 | MIT License | 2014-02-05 | 2024-07-21 |
+| [scientist](https://github.com/github/scientist) | :microscope: A Ruby library for carefully refactoring critical paths. | Ruby | 7377 | MIT License | 2014-02-05 | 2024-07-21 |
 | [git-msysgit](https://github.com/github/git-msysgit) | GitHub version of msysgit/git | C | 11 | Other | 2014-03-20 | 2024-06-13 |
 | [foreman](https://github.com/github/foreman) | Manage Procfile-based applications | Ruby | 9 | MIT License | 2014-03-21 | 2024-06-13 |
 | [nagios-plugins-github](https://github.com/github/nagios-plugins-github) | None | C | 11 | - | 2014-03-26 | 2024-06-13 |
 | [SharpDevelop](https://github.com/github/SharpDevelop) | #develop (short for SharpDevelop) is a free IDE for .NET programming languages. | C# | 10 | - | 2014-03-31 | 2024-06-13 |
 | [aroma](https://github.com/github/aroma) | a game engine: lua, opengl es 2.0, native client | C | 5 | Other | 2014-04-06 | 2024-06-13 |
 | [garethr-docker](https://github.com/github/garethr-docker) | Puppet module for managing docker | Ruby | 6 | Apache License 2.0 | 2014-04-14 | 2024-06-13 |
-| [relative-time-element](https://github.com/github/relative-time-element) | Web component extensions to the standard <time> element. | JavaScript | 3294 | MIT License | 2014-04-22 | 2024-07-20 |
+| [relative-time-element](https://github.com/github/relative-time-element) | Web component extensions to the standard <time> element. | JavaScript | 3293 | MIT License | 2014-04-22 | 2024-07-21 |
 | [backstop](https://github.com/github/backstop) | HTTP service for submitting metrics to Graphite | Ruby | 12 | Other | 2014-05-05 | 2024-06-13 |
 | [nugget](https://github.com/github/nugget) | http integration test service | Ruby | 21 | MIT License | 2014-05-08 | 2024-06-13 |
 | [veewee](https://github.com/github/veewee) | Easing the building of vagrant boxes | Shell | 12 | MIT License | 2014-06-05 | 2024-06-13 |
@@ -8113,7 +8113,7 @@
 | [ghfw-build-extra](https://github.com/github/ghfw-build-extra) | Build scripts and customizations for creating the Git Shell environment included in GitHub Desktop | Shell | 13 | Other | 2015-05-26 | 2024-06-13 |
 | [u2f-api](https://github.com/github/u2f-api) | High level JavaScript API for interacting with FIDO U2F devices in Chrome | JavaScript | 33 | BSD 3-Clause "New" or "Revised" License | 2015-06-01 | 2024-06-13 |
 | [brubeck](https://github.com/github/brubeck) | A Statsd-compatible metrics aggregator | C | 1188 | MIT License | 2015-06-10 | 2024-06-13 |
-| [scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) | Set of boilerplate scripts describing the normalized script pattern that GitHub uses in its projects. | Shell | 3169 | Creative Commons Zero v1.0 Universal | 2015-06-22 | 2024-07-19 |
+| [scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) | Set of boilerplate scripts describing the normalized script pattern that GitHub uses in its projects. | Shell | 3170 | Creative Commons Zero v1.0 Universal | 2015-06-22 | 2024-07-21 |
 | [puppetlabs-apt](https://github.com/github/puppetlabs-apt) | Puppet module to help manage Apt | Ruby | 5 | Other | 2015-06-24 | 2024-06-13 |
 | [VisualStudio](https://github.com/github/VisualStudio) | GitHub Extension for Visual Studio | C# | 2359 | MIT License | 2015-06-30 | 2024-07-16 |
 | [octo-recipes](https://github.com/github/octo-recipes) | A GitHub repository used to collaborate on recipes | None | 8 | - | 2015-09-02 | 2024-06-13 |
@@ -8129,14 +8129,14 @@
 | [ccql](https://github.com/github/ccql) | **No longer maintained, archived Feb 2023** Multi server MySQL client | Go | 322 | MIT License | 2016-01-11 | 2024-06-13 |
 | [maturity-model](https://github.com/github/maturity-model) | A maturity model for adopting open source | None | 63 | Creative Commons Attribution 4.0 International | 2016-01-13 | 2024-06-13 |
 | [Spoon-Knife](https://github.com/github/Spoon-Knife) | This repo is for demonstration purposes only. | HTML | 22 | - | 2016-02-05 | 2024-06-13 |
-| [gh-ost](https://github.com/github/gh-ost) | GitHub's Online Schema-migration Tool for MySQL | Go | 12163 | MIT License | 2016-03-21 | 2024-07-21 |
+| [gh-ost](https://github.com/github/gh-ost) | GitHub's Online Schema-migration Tool for MySQL | Go | 12165 | MIT License | 2016-03-21 | 2024-07-22 |
 | [eslint-plugin-github](https://github.com/github/eslint-plugin-github) | An opinionated collection of ESLint rules used by GitHub. | JavaScript | 289 | MIT License | 2016-03-28 | 2024-07-18 |
 | [bert](https://github.com/github/bert) | BERT (Binary ERlang Term) serialization library for Ruby. | Ruby | 14 | MIT License | 2016-04-15 | 2024-06-13 |
 | [braintree-encryption](https://github.com/github/braintree-encryption) | Javascript Library for Client-side Encryption with Braintree | JavaScript | 17 | MIT License | 2016-04-20 | 2024-06-13 |
 | [ohnogit](https://github.com/github/ohnogit) | For when you have to use git in nodejs. | TypeScript | 24 | - | 2016-04-20 | 2024-06-13 |
 | [chatops-controller](https://github.com/github/chatops-controller) | A rails plugin to make creating chatops easy | Ruby | 63 | MIT License | 2016-05-17 | 2024-07-02 |
 | [gov-takedowns](https://github.com/github/gov-takedowns) | Text of government takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. | None | 3086 | - | 2016-06-08 | 2024-07-19 |
-| [opensource.guide](https://github.com/github/opensource.guide) | 📚 Community guides for open source creators | HTML | 13780 | Creative Commons Attribution 4.0 International | 2016-06-15 | 2024-07-20 |
+| [opensource.guide](https://github.com/github/opensource.guide) | 📚 Community guides for open source creators | HTML | 13783 | Creative Commons Attribution 4.0 International | 2016-06-15 | 2024-07-22 |
 | [synsanity](https://github.com/github/synsanity) | netfilter (iptables) target for high performance lockless SYN cookies for SYN flood mitigation | C | 426 | GNU General Public License v2.0 | 2016-06-20 | 2024-06-24 |
 | [puppet-vault](https://github.com/github/puppet-vault) | :floppy_disk: :package: puppet-module to install Hashicorp's Vault. | Ruby | 6 | - | 2016-06-21 | 2024-06-13 |
 | [puppet-consul_template](https://github.com/github/puppet-consul_template) | A Puppet module to manage the config and jobs of Consul Template from Hashicorp | Puppet | 7 | Apache License 2.0 | 2016-06-22 | 2024-06-13 |
@@ -8152,7 +8152,7 @@
 | [orchestrator-agent](https://github.com/github/orchestrator-agent) | MySQL replication topology manager - agent (daemon) | Go | 54 | Apache License 2.0 | 2016-10-14 | 2024-06-13 |
 | [octocatalog-diff](https://github.com/github/octocatalog-diff) | Compile Puppet catalogs from 2 branches, versions, etc., and compare them | Ruby | 238 | MIT License | 2016-10-14 | 2024-07-18 |
 | [go-mysql](https://github.com/github/go-mysql) | a powerful mysql toolset with Go | Go | 7 | MIT License | 2016-10-24 | 2024-06-13 |
-| [game-off-2016](https://github.com/github/game-off-2016) | GitHub's month-long game jam :video_game: November 2016 | None | 246 | - | 2016-10-27 | 2024-06-13 |
+| [game-off-2016](https://github.com/github/game-off-2016) | GitHub's month-long game jam :video_game: November 2016 | None | 245 | - | 2016-10-27 | 2024-07-21 |
 | [babel-plugin-transform-custom-element-classes](https://github.com/github/babel-plugin-transform-custom-element-classes) | Compile ES6 HTMLElement class extensions to ES5 | JavaScript | 86 | MIT License | 2016-11-23 | 2024-06-13 |
 | [github-1](https://github.com/github/github-1) | A higher-level wrapper around the Github API. Intended for the browser. | JavaScript | 14 | BSD 3-Clause "New" or "Revised" License | 2016-11-30 | 2024-06-13 |
 | [cmark-gfm](https://github.com/github/cmark-gfm) | GitHub's fork of cmark, a CommonMark parsing and rendering library and program in C | C | 876 | Other | 2016-12-01 | 2024-07-19 |
@@ -8206,13 +8206,13 @@
 | [docker-awscli](https://github.com/github/docker-awscli) | Another aws cli for hacking | Shell | 6 | MIT License | 2017-12-15 | 2024-06-13 |
 | [jenkins_api_client](https://github.com/github/jenkins_api_client) | Ruby Client libraries for communicating with Jenkins Remote Access API | Ruby | 8 | MIT License | 2018-01-16 | 2024-06-13 |
 | [lit-html](https://github.com/github/lit-html) | HTML template literals in JavaScript | TypeScript | 13 | BSD 3-Clause "New" or "Revised" License | 2018-01-25 | 2024-06-13 |
-| [git-sizer](https://github.com/github/git-sizer) | Compute various size metrics for a Git repository, flagging those that might cause problems | Go | 3360 | MIT License | 2018-01-28 | 2024-07-19 |
+| [git-sizer](https://github.com/github/git-sizer) | Compute various size metrics for a Git repository, flagging those that might cause problems | Go | 3362 | MIT License | 2018-01-28 | 2024-07-22 |
 | [licensed](https://github.com/github/licensed) | A Ruby gem to cache and verify the licenses of dependencies | Ruby | 975 | MIT License | 2018-02-02 | 2024-07-21 |
 | [gh-ost-ci-env](https://github.com/github/gh-ost-ci-env) | CI environment for gh-ost testing | Shell | 12 | MIT License | 2018-02-11 | 2024-06-13 |
 | [wmail-user-scripts](https://github.com/github/wmail-user-scripts) | None | CSS | 7 | - | 2018-02-17 | 2024-06-13 |
 | [collectd-elasticsearch](https://github.com/github/collectd-elasticsearch) | CollectD ElasticSearch plugin | Python | 6 | Apache License 2.0 | 2018-02-20 | 2024-06-13 |
 | [invisible-recaptcha-validator](https://github.com/github/invisible-recaptcha-validator) | Simple Express Server for invisible reCaptcha server-side validation | JavaScript | 12 | - | 2018-02-23 | 2024-06-13 |
-| [clipboard-copy-element](https://github.com/github/clipboard-copy-element) | Copy element text content or input values to the clipboard. | JavaScript | 453 | MIT License | 2018-02-27 | 2024-07-20 |
+| [clipboard-copy-element](https://github.com/github/clipboard-copy-element) | Copy element text content or input values to the clipboard. | JavaScript | 454 | MIT License | 2018-02-27 | 2024-07-21 |
 | [form-data-entries](https://github.com/github/form-data-entries) | FormData.entries ponyfill | JavaScript | 36 | MIT License | 2018-02-28 | 2024-06-13 |
 | [url-search-params](https://github.com/github/url-search-params) | Simple polyfill for URLSearchParams standard | JavaScript | 11 | MIT License | 2018-02-28 | 2024-06-13 |
 | [d3](https://github.com/github/d3) | Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada: | JavaScript | 11 | BSD 3-Clause "New" or "Revised" License | 2018-03-01 | 2023-07-25 |
@@ -8220,11 +8220,11 @@
 | [linux](https://github.com/github/linux) | Linux kernel source tree | C | 28 | Other | 2018-03-09 | 2024-06-13 |
 | [lightstep-tracer-ruby](https://github.com/github/lightstep-tracer-ruby) | The LightStep distributed tracing library for Ruby | Ruby | 7 | MIT License | 2018-03-20 | 2024-06-13 |
 | [oauth2_proxy](https://github.com/github/oauth2_proxy) | A reverse proxy that provides authentication with Google, Github or other provider | Go | 18 | MIT License | 2018-03-29 | 2024-06-13 |
-| [auto-check-element](https://github.com/github/auto-check-element) | An input element that validates its value with a server endpoint. | JavaScript | 171 | MIT License | 2018-04-05 | 2024-06-18 |
+| [auto-check-element](https://github.com/github/auto-check-element) | An input element that validates its value with a server endpoint. | JavaScript | 172 | MIT License | 2018-04-05 | 2024-07-21 |
 | [auto-complete-element](https://github.com/github/auto-complete-element) | Auto-complete input values from server search results. | JavaScript | 361 | MIT License | 2018-04-11 | 2024-07-17 |
 | [task-lists-element](https://github.com/github/task-lists-element) | Drag and drop task list items. | TypeScript | 135 | MIT License | 2018-04-25 | 2024-06-19 |
 | [reactnd-project-readable-starter](https://github.com/github/reactnd-project-readable-starter) | Starting server code for ReactND Readable Project | JavaScript | 7 | - | 2018-05-15 | 2024-06-13 |
-| [glb-director](https://github.com/github/glb-director) | GitHub Load Balancer Director and supporting tooling. | C | 2352 | Other | 2018-05-17 | 2024-07-15 |
+| [glb-director](https://github.com/github/glb-director) | GitHub Load Balancer Director and supporting tooling. | C | 2353 | Other | 2018-05-17 | 2024-07-21 |
 | [OAuth-Ruby-Quickstart](https://github.com/github/OAuth-Ruby-Quickstart) | Starter code and quickstart guide for a GitHub OAuth App in Ruby | HTML | 16 | - | 2018-05-25 | 2024-06-13 |
 | [markdown-toolbar-element](https://github.com/github/markdown-toolbar-element) | Markdown formatting buttons for text inputs. | JavaScript | 334 | MIT License | 2018-06-11 | 2024-07-11 |
 | [presto](https://github.com/github/presto) | Distributed SQL query engine for big data | Java | 8 | Apache License 2.0 | 2018-06-21 | 2024-06-13 |
@@ -8236,7 +8236,7 @@
 | [sdr-code-camp](https://github.com/github/sdr-code-camp) | learn you some code! | HTML | 11 | - | 2018-07-12 | 2024-06-13 |
 | [vitess-gh](https://github.com/github/vitess-gh) | Vitess is a database clustering system for horizontal scaling of MySQL. | Go | 23 | Apache License 2.0 | 2018-07-19 | 2024-06-13 |
 | [g-emoji-element](https://github.com/github/g-emoji-element) | Backports native emoji characters to browsers that don't support them by replacing the characters with fallback images. | JavaScript | 135 | MIT License | 2018-07-25 | 2024-07-16 |
-| [codeql](https://github.com/github/codeql) | CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security | CodeQL | 7359 | MIT License | 2018-07-31 | 2024-07-20 |
+| [codeql](https://github.com/github/codeql) | CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security | CodeQL | 7362 | MIT License | 2018-07-31 | 2024-07-21 |
 | [textarea-autosize](https://github.com/github/textarea-autosize) | Autosizes textarea to size of it's contents. | JavaScript | 94 | MIT License | 2018-08-08 | 2024-06-18 |
 | [babel-preset-github](https://github.com/github/babel-preset-github) | GitHub.com's Babel configuration | JavaScript | 107 | MIT License | 2018-08-09 | 2024-06-13 |
 | [vulcanizer](https://github.com/github/vulcanizer) | GitHub's ops focused Elasticsearch library | Go | 665 | MIT License | 2018-08-13 | 2024-06-20 |
@@ -8259,9 +8259,9 @@
 | [libprojfs](https://github.com/github/libprojfs) | Linux projected filesystem library | C | 91 | GNU Lesser General Public License v2.1 | 2019-01-11 | 2024-07-08 |
 | [hotkey](https://github.com/github/hotkey) | Trigger an action on an element with a keyboard shortcut. | JavaScript | 3195 | MIT License | 2019-01-17 | 2024-07-17 |
 | [ssh_data](https://github.com/github/ssh_data) | Ruby library for parsing SSH public keys and certificates | Ruby | 72 | MIT License | 2019-01-22 | 2024-06-13 |
-| [personal-website](https://github.com/github/personal-website) | Code that'll help you kickstart a personal website that showcases your work as a software developer. | HTML | 7389 | MIT License | 2019-01-25 | 2024-07-20 |
+| [personal-website](https://github.com/github/personal-website) | Code that'll help you kickstart a personal website that showcases your work as a software developer. | HTML | 7390 | MIT License | 2019-01-25 | 2024-07-21 |
 | [session-resume](https://github.com/github/session-resume) | Annotate fields to be persisted on navigation away from the current page | JavaScript | 123 | MIT License | 2019-02-06 | 2024-07-09 |
-| [.github](https://github.com/github/.github) | Community health files for the @GitHub organization | None | 834 | - | 2019-02-15 | 2024-07-19 |
+| [.github](https://github.com/github/.github) | Community health files for the @GitHub organization | None | 835 | - | 2019-02-15 | 2024-07-22 |
 | [octobox](https://github.com/github/octobox) | 📮Untangle your GitHub Notifications | Ruby | 63 | GNU Affero General Public License v3.0 | 2019-02-19 | 2024-06-26 |
 | [gh-mysql-tools](https://github.com/github/gh-mysql-tools) | General purpose MySQL tools by GitHub Engineering | Go | 81 | MIT License | 2019-02-21 | 2024-06-13 |
 | [CodeSearchNet](https://github.com/github/CodeSearchNet) | Datasets, tools, and benchmarks for representation learning of code. | Jupyter Notebook | 2154 | MIT License | 2019-02-28 | 2024-07-21 |
@@ -8271,7 +8271,7 @@
 | [argo-ml](https://github.com/github/argo-ml) | Controllers, wrappers and miscaleus utils to make it easier for Argo to be used in ML scenarios | Python | 23 | MIT License | 2019-04-26 | 2024-06-13 |
 | [remote-input-element](https://github.com/github/remote-input-element) | An input element that sends its value to a server endpoint and renders the response body. | JavaScript | 81 | MIT License | 2019-04-30 | 2024-06-13 |
 | [mini-throttle](https://github.com/github/mini-throttle) | A small JavaScript throttle & debounce implementation. | TypeScript | 200 | MIT License | 2019-05-17 | 2024-06-17 |
-| [docs](https://github.com/github/docs) | The open-source repo for docs.github.com | JavaScript | 15810 | Creative Commons Attribution 4.0 International | 2019-05-31 | 2024-07-21 |
+| [docs](https://github.com/github/docs) | The open-source repo for docs.github.com | JavaScript | 15818 | Creative Commons Attribution 4.0 International | 2019-05-31 | 2024-07-22 |
 | [proxysql](https://github.com/github/proxysql) | High-performance MySQL proxy with a GPL license. | C++ | 15 | GNU General Public License v3.0 | 2019-06-06 | 2024-06-13 |
 | [text-expander-element](https://github.com/github/text-expander-element) | Activates a suggestion menu to expand text snippets as you type. | JavaScript | 174 | MIT License | 2019-06-12 | 2024-07-06 |
 | [webauthn-json](https://github.com/github/webauthn-json) | 🔏 A small WebAuthn API wrapper that translates to/from pure JSON using base64url. | TypeScript | 739 | MIT License | 2019-07-01 | 2024-07-15 |
@@ -8295,7 +8295,7 @@
 | [codeql-learninglab-actions](https://github.com/github/codeql-learninglab-actions) | Actions and Images for use in Learning Lab courses for CodeQL | TypeScript | 35 | MIT License | 2019-12-21 | 2024-06-13 |
 | [file-attachment-element](https://github.com/github/file-attachment-element) | Attach files via drag and drop or file input. | TypeScript | 117 | MIT License | 2020-01-07 | 2024-07-03 |
 | [issue-labeler](https://github.com/github/issue-labeler) | An action for automatically labelling issues | TypeScript | 192 | MIT License | 2020-01-14 | 2024-07-18 |
-| [archive-program](https://github.com/github/archive-program) | The GitHub Archive Program & Arctic Code Vault | None | 2994 | - | 2020-01-22 | 2024-07-19 |
+| [archive-program](https://github.com/github/archive-program) | The GitHub Archive Program & Arctic Code Vault | None | 2995 | - | 2020-01-22 | 2024-07-21 |
 | [catalyst](https://github.com/github/catalyst) | Catalyst is a set of patterns and techniques for developing components within a complex application. | TypeScript | 1322 | MIT License | 2020-02-12 | 2024-07-18 |
 | [omnisharp-vscode](https://github.com/github/omnisharp-vscode) | Official C# support for Visual Studio Code (powered by OmniSharp) | TypeScript | 8 | MIT License | 2020-02-24 | 2024-06-13 |
 | [omnisharp-roslyn](https://github.com/github/omnisharp-roslyn) | OmniSharp server (HTTP, STDIO) based on Roslyn workspaces | C# | 6 | MIT License | 2020-02-24 | 2024-06-13 |
@@ -8305,12 +8305,12 @@
 | [prettier-config](https://github.com/github/prettier-config) | Prettier config used at GitHub | Dockerfile | 30 | MIT License | 2020-03-12 | 2024-07-05 |
 | [covid19-dashboard](https://github.com/github/covid19-dashboard) | A site that displays up to date COVID-19 stats, powered by fastpages. | Jupyter Notebook | 1639 | Apache License 2.0 | 2020-03-12 | 2024-07-20 |
 | [covid-19-repo-data](https://github.com/github/covid-19-repo-data) | Data archive of identifiable COVID-19 related public projects on GitHub  | None | 495 | Creative Commons Zero v1.0 Universal | 2020-03-27 | 2024-07-12 |
-| [roadmap](https://github.com/github/roadmap) | GitHub public roadmap | None | 7784 | Creative Commons Attribution 4.0 International | 2020-03-31 | 2024-07-20 |
+| [roadmap](https://github.com/github/roadmap) | GitHub public roadmap | None | 7786 | Creative Commons Attribution 4.0 International | 2020-03-31 | 2024-07-22 |
 | [Dynamic-Template-Engine](https://github.com/github/Dynamic-Template-Engine) | A typescript library to transform event payloads (in json format) to standard jsons or chat client platform specific jsons (e.g. Slack and Teams) using templates (e.g. handlebars) | TypeScript | 17 | MIT License | 2020-04-07 | 2024-06-13 |
 | [optimizely-javascript-sdk](https://github.com/github/optimizely-javascript-sdk) | JavaScript SDK for Optimizely X Full Stack: A/B testing and feature management for product development teams | None | 8 | Apache License 2.0 | 2020-04-08 | 2024-06-13 |
 | [depstubber](https://github.com/github/depstubber) | Depstubber generates type-correct stubs for Go dependencies, for use in testing | Go | 14 | Other | 2020-04-08 | 2024-07-03 |
-| [codeql-action](https://github.com/github/codeql-action) | Actions for running CodeQL analysis | TypeScript | 1088 | MIT License | 2020-04-27 | 2024-07-19 |
-| [ghec-audit-log-cli](https://github.com/github/ghec-audit-log-cli) | Query the GitHub Audit Log for your organization to send it over to other services like elastic, splunk or sentinel for visualization and security | JavaScript | 61 | MIT License | 2020-05-07 | 2024-06-13 |
+| [codeql-action](https://github.com/github/codeql-action) | Actions for running CodeQL analysis | TypeScript | 1089 | MIT License | 2020-04-27 | 2024-07-21 |
+| [ghec-audit-log-cli](https://github.com/github/ghec-audit-log-cli) | Query the GitHub Audit Log for your organization to send it over to other services like elastic, splunk or sentinel for visualization and security | JavaScript | 62 | MIT License | 2020-05-07 | 2024-07-21 |
 | [multimap](https://github.com/github/multimap) | A map in which more than one value may be stored under each key. | JavaScript | 34 | MIT License | 2020-05-21 | 2024-07-03 |
 | [mlops](https://github.com/github/mlops) | Use GitHub to facilitate automation, collaboration and reproducibility in your machine learning workflows. | JavaScript | 24 | - | 2020-05-29 | 2024-06-30 |
 | [renaming](https://github.com/github/renaming) | Guidance for changing the default branch name for GitHub repositories | None | 2399 | Creative Commons Zero v1.0 Universal | 2020-06-12 | 2024-07-08 |
@@ -8339,31 +8339,31 @@
 | [globalmaintainersummit.github.com](https://github.com/github/globalmaintainersummit.github.com) | Website for upcoming Global Source Maintainer Summit · June 8-9 2021. | Vue | 37 | MIT License | 2021-03-12 | 2024-06-13 |
 | [ghas-jira-integration](https://github.com/github/ghas-jira-integration) | Synchronize GitHub Code Scanning alerts to Jira issues | Python | 76 | Apache License 2.0 | 2021-03-16 | 2024-07-01 |
 | [maintainermonth](https://github.com/github/maintainermonth) | A month for maintainers to gather & share | JavaScript | 177 | MIT License | 2021-03-30 | 2024-06-21 |
-| [stack-graphs](https://github.com/github/stack-graphs) | Rust implementation of stack graphs | Rust | 718 | Apache License 2.0 | 2021-03-31 | 2024-07-21 |
+| [stack-graphs](https://github.com/github/stack-graphs) | Rust implementation of stack graphs | Rust | 719 | Apache License 2.0 | 2021-03-31 | 2024-07-22 |
 | [typing-effect-element](https://github.com/github/typing-effect-element) | A custom element that shows text as if it were being typed | JavaScript | 104 | MIT License | 2021-04-09 | 2024-07-03 |
 | [packwerk](https://github.com/github/packwerk) | Good things come in small packages. | Ruby | 6 | MIT License | 2021-04-16 | 2024-06-13 |
 | [bellevue-murals](https://github.com/github/bellevue-murals) | None | JavaScript | 7 | - | 2021-05-06 | 2024-06-13 |
 | [hyderabad-murals](https://github.com/github/hyderabad-murals) | Hyderabad Generative Art Murals | None | 5 | - | 2021-05-06 | 2024-06-13 |
-| [haikus-for-codespaces](https://github.com/github/haikus-for-codespaces) | None | EJS | 1744 | MIT License | 2021-05-07 | 2024-07-20 |
+| [haikus-for-codespaces](https://github.com/github/haikus-for-codespaces) | None | EJS | 1746 | MIT License | 2021-05-07 | 2024-07-22 |
 | [hackathons](https://github.com/github/hackathons) | Tips, Tricks, and Resources for running your hackathon. | HTML | 301 | Creative Commons Zero v1.0 Universal | 2021-05-17 | 2024-07-18 |
 | [strap](https://github.com/github/strap) | Archived fork of mikemcquaid/strap ☠️ | None | 95 | MIT License | 2021-06-08 | 2024-06-27 |
 | [developer-policy](https://github.com/github/developer-policy) | The GitHub Policy Team created and maintains this repository as a place for developers to contribute to our policy work. | None | 37 | Creative Commons Zero v1.0 Universal | 2021-06-09 | 2024-06-13 |
 | [fiber-fragments](https://github.com/github/fiber-fragments) | :framed_picture: Micro fragmentation middleware for fiber :rocket: that enables to build microservice frontends. | Go | 26 | MIT License | 2021-06-28 | 2024-07-08 |
 | [MVG](https://github.com/github/MVG) | MVG = Minimum Viable Governance | None | 379 | Creative Commons Attribution 4.0 International | 2021-07-20 | 2024-07-15 |
 | [codeql-variant-analysis-action](https://github.com/github/codeql-variant-analysis-action) | None | TypeScript | 18 | MIT License | 2021-08-03 | 2024-07-18 |
-| [dev](https://github.com/github/dev) | Press the . key on any repo | None | 1179 | - | 2021-08-19 | 2024-07-21 |
+| [dev](https://github.com/github/dev) | Press the . key on any repo | None | 1180 | - | 2021-08-19 | 2024-07-21 |
 | [ssh-key-algo](https://github.com/github/ssh-key-algo) | Script to check if the SSH key algorithm is up to date | Shell | 47 | MIT License | 2021-08-20 | 2024-06-13 |
 | [proto-gen-go](https://github.com/github/proto-gen-go) | A 'go generate' script to generate Go files from .proto interfaces | Go | 20 | - | 2021-09-07 | 2024-07-12 |
 | [codeql-dubbo-workshop](https://github.com/github/codeql-dubbo-workshop) | None | CodeQL | 53 | MIT License | 2021-09-15 | 2024-06-13 |
 | [gh-codeql](https://github.com/github/gh-codeql) | GitHub CLI extension for working with CodeQL | Shell | 26 | MIT License | 2021-09-16 | 2024-06-13 |
-| [dependabot-action](https://github.com/github/dependabot-action) | Runs Dependabot Updates via GitHub Actions. | TypeScript | 71 | MIT License | 2021-10-05 | 2024-07-18 |
+| [dependabot-action](https://github.com/github/dependabot-action) | Runs Dependabot Updates via GitHub Actions. | TypeScript | 71 | MIT License | 2021-10-05 | 2024-07-22 |
 | [Skills-Based-Volunteering-Public](https://github.com/github/Skills-Based-Volunteering-Public) | Template for setting up a Skills-Based Volunteering Program | None | 22 | MIT License | 2021-10-08 | 2024-06-13 |
 | [gh-gei](https://github.com/github/gh-gei) | Migration CLI for GitHub to GitHub migrations | C# | 301 | MIT License | 2021-10-13 | 2024-07-16 |
 | [automatic-contrib-prs](https://github.com/github/automatic-contrib-prs) | Automatically open a pull request for repositories that have no CONTRIBUTING.md file | Python | 22 | MIT License | 2021-10-15 | 2024-07-16 |
-| [erblint-github](https://github.com/github/erblint-github) | Template style checking for GitHub's Ruby projects | Ruby | 47 | MIT License | 2021-10-19 | 2024-07-15 |
-| [copilot.vim](https://github.com/github/copilot.vim) | Neovim plugin for GitHub Copilot | Vim Script | 8042 | Other | 2021-10-20 | 2024-07-21 |
+| [erblint-github](https://github.com/github/erblint-github) | Template style checking for GitHub's Ruby projects | Ruby | 47 | MIT License | 2021-10-19 | 2024-07-22 |
+| [copilot.vim](https://github.com/github/copilot.vim) | Neovim plugin for GitHub Copilot | Vim Script | 8044 | Other | 2021-10-20 | 2024-07-22 |
 | [update-project-action](https://github.com/github/update-project-action) | Updates an item on a GitHub Projects (beta) board based on a workflow dispatch (or other) event's input. | TypeScript | 25 | MIT License | 2021-10-20 | 2024-06-13 |
-| [copilot-docs](https://github.com/github/copilot-docs) | Documentation for GitHub Copilot | None | 23271 | Creative Commons Attribution 4.0 International | 2021-10-23 | 2024-07-20 |
+| [copilot-docs](https://github.com/github/copilot-docs) | Documentation for GitHub Copilot | None | 23270 | Creative Commons Attribution 4.0 International | 2021-10-23 | 2024-07-22 |
 | [release-radar](https://github.com/github/release-radar) | Repo for submission of projects to consider for the GitHub Release Radar 📡 | None | 294 | Creative Commons Zero v1.0 Universal | 2021-11-12 | 2024-07-20 |
 | [kafka-sink-azure-kusto](https://github.com/github/kafka-sink-azure-kusto) | Kafka sink for Kusto | None | 2 | MIT License | 2021-11-23 | 2024-06-13 |
 | [gh-migration-analyzer](https://github.com/github/gh-migration-analyzer) | None | JavaScript | 63 | MIT License | 2021-12-10 | 2024-06-13 |
@@ -8372,13 +8372,13 @@
 | [webpack-bundlesize-compare-action](https://github.com/github/webpack-bundlesize-compare-action) | A github action that outputs bundlesize comparison tables for pull requests | TypeScript | 75 | MIT License | 2022-01-08 | 2024-06-17 |
 | [memcached](https://github.com/github/memcached) | A Ruby interface to the libmemcached C client | None | 3 | Academic Free License v3.0 | 2022-01-27 | 2024-06-13 |
 | [browser-support](https://github.com/github/browser-support) | Polyfills & Capable Browser detection | JavaScript | 123 | MIT License | 2022-02-07 | 2024-07-06 |
-| [advisory-database](https://github.com/github/advisory-database) | Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software. | None | 1674 | Creative Commons Attribution 4.0 International | 2022-02-11 | 2024-07-21 |
+| [advisory-database](https://github.com/github/advisory-database) | Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software. | None | 1676 | Creative Commons Attribution 4.0 International | 2022-02-11 | 2024-07-22 |
 | [gh-valet](https://github.com/github/gh-valet) | Valet helps facilitate the migration of Azure DevOps, CircleCI, GitLab CI, Jenkins, and Travis CI pipelines to GitHub Actions. | C# | 510 | MIT License | 2022-03-15 | 2024-06-26 |
 | [gh-net](https://github.com/github/gh-net) | A network bridge between a Codespace and a local machine. | None | 279 | - | 2022-03-16 | 2024-07-21 |
 | [emergency-pull-request-probot-app](https://github.com/github/emergency-pull-request-probot-app) | Bypass approval and checks in order to merge an emergency change to the main branch with audit controls. | JavaScript | 47 | MIT License | 2022-04-04 | 2024-07-10 |
 | [octoforce-actions](https://github.com/github/octoforce-actions) | A lightweight open-source Salesforce CI/CD template built on the GitHub Actions platform. | Shell | 38 | MIT License | 2022-04-14 | 2024-06-23 |
 | [metrics-exporter-statsd](https://github.com/github/metrics-exporter-statsd) | Statsd metrics exporter for https://github.com/metrics-rs/metrics/ | Rust | 30 | MIT License | 2022-04-14 | 2024-06-13 |
-| [branch-deploy](https://github.com/github/branch-deploy) | Enabling Branch Deployments through IssueOps with GitHub Actions - If you find this project useful, give it a star! ⭐️  | JavaScript | 347 | MIT License | 2022-04-28 | 2024-07-21 |
+| [branch-deploy](https://github.com/github/branch-deploy) | Enabling Branch Deployments through IssueOps with GitHub Actions - If you find this project useful, give it a star! ⭐️  | JavaScript | 348 | MIT License | 2022-04-28 | 2024-07-21 |
 | [actions-oidc-debugger](https://github.com/github/actions-oidc-debugger) | An Action for printing OIDC claims in GitHub Actions. | Go | 60 | MIT License | 2022-05-02 | 2024-07-11 |
 | [entitlements-config](https://github.com/github/entitlements-config) | An example of how Entitlements can be configured | Shell | 57 | MIT License | 2022-05-03 | 2024-05-11 |
 | [dependency-submission-toolkit](https://github.com/github/dependency-submission-toolkit) | A TypeScript library for creating dependency snapshots.  | TypeScript | 42 | MIT License | 2022-05-11 | 2024-07-15 |
@@ -8396,7 +8396,7 @@
 | [gh-bbs2gh](https://github.com/github/gh-bbs2gh) | Migration CLI for BitBucket Server to GitHub migrations | None | 7 | - | 2022-07-14 | 2024-07-15 |
 | [markdownlint-github](https://github.com/github/markdownlint-github) | An opinionated collection of markdownlint rules used by GitHub. | JavaScript | 70 | MIT License | 2022-07-28 | 2024-06-25 |
 | [codespaces-getting-started-ml](https://github.com/github/codespaces-getting-started-ml) | Simple image classifier that introduces machine learning with Codespaces | Jupyter Notebook | 19 | MIT License | 2022-08-08 | 2024-06-13 |
-| [mona-sans](https://github.com/github/mona-sans) | Mona Sans, a variable font from GitHub | None | 3579 | SIL Open Font License 1.1 | 2022-08-15 | 2024-07-21 |
+| [mona-sans](https://github.com/github/mona-sans) | Mona Sans, a variable font from GitHub | None | 3580 | SIL Open Font License 1.1 | 2022-08-15 | 2024-07-21 |
 | [rubocop-rails-accessibility](https://github.com/github/rubocop-rails-accessibility) | This repository provides recommended RuboCop configuration and additional accessibility RuboCop Rails cops for use on open source and internal Rails projects. | Ruby | 25 | MIT License | 2022-08-16 | 2024-07-16 |
 | [codespaces-blank](https://github.com/github/codespaces-blank) | None | None | 286 | - | 2022-08-16 | 2024-07-20 |
 | [hubot-sans](https://github.com/github/hubot-sans) | Hubot Sans, a variable font from GitHub | None | 1813 | Other | 2022-08-22 | 2024-07-18 |
@@ -8435,39 +8435,39 @@
 | [accessibility-alt-text-bot](https://github.com/github/accessibility-alt-text-bot) | An action to remind users to add alt text on Issues, Pull Requests, and Discussions | JavaScript | 74 | MIT License | 2023-04-24 | 2024-07-11 |
 | [super-linter](https://github.com/github/super-linter) | Combination of multiple linters to install as a GitHub Action | Shell | 94 | MIT License | 2023-04-26 | 2024-06-18 |
 | [brasil](https://github.com/github/brasil) | Recursos e informações do GitHub para a comunidade de desenvolvedores no Brasil. | Ruby | 476 | MIT License | 2023-04-28 | 2024-07-15 |
-| [stale-repos](https://github.com/github/stale-repos) | Find stale repositories in a GitHub organization. | Python | 124 | MIT License | 2023-05-18 | 2024-07-18 |
+| [stale-repos](https://github.com/github/stale-repos) | Find stale repositories in a GitHub organization. | Python | 124 | MIT License | 2023-05-18 | 2024-07-22 |
 | [release-assets](https://github.com/github/release-assets) | This repository is used to manage assets related to releases in github/releases | None | 10 | - | 2023-05-31 | 2024-06-13 |
 | [issue-metrics](https://github.com/github/issue-metrics) | Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc. | Python | 372 | MIT License | 2023-06-01 | 2024-07-17 |
 | [open-data-on-github](https://github.com/github/open-data-on-github) | Dataset files for the Open Data on GitHub paper | Python | 24 | Other | 2023-06-09 | 2024-07-06 |
 | [canvas-lms](https://github.com/github/canvas-lms) | The open LMS by Instructure, Inc. | Ruby | 30 | GNU Affero General Public License v3.0 | 2023-06-21 | 2024-07-12 |
-| [twirp-rs](https://github.com/github/twirp-rs) | Twirp RPC for Rust | Rust | 19 | MIT License | 2023-06-23 | 2024-07-19 |
-| [command](https://github.com/github/command) | IssueOps commands in GitHub Actions | JavaScript | 84 | MIT License | 2023-07-07 | 2024-07-20 |
+| [twirp-rs](https://github.com/github/twirp-rs) | Twirp RPC for Rust | Rust | 20 | MIT License | 2023-06-23 | 2024-07-22 |
+| [command](https://github.com/github/command) | IssueOps commands in GitHub Actions | JavaScript | 85 | MIT License | 2023-07-07 | 2024-07-22 |
 | [KustoSchemaTools](https://github.com/github/KustoSchemaTools) | This repository contains C# code to synchronize database schemas from Azure Data Explorer (Kusto) to yaml files and back. | C# | 9 | - | 2023-08-01 | 2024-07-18 |
 | [KustoSchemaToolsAction](https://github.com/github/KustoSchemaToolsAction) | This repository wraps the KustoSchemaTools into a CLI tool inside a container. This way it can be used as GitHub Action | C# | 8 | MIT License | 2023-08-01 | 2024-06-13 |
-| [ruleset-recipes](https://github.com/github/ruleset-recipes) | Quickstart your use of Repository Rules with prebuilt rulesets ready to import.  | None | 94 | MIT License | 2023-08-18 | 2024-07-18 |
+| [ruleset-recipes](https://github.com/github/ruleset-recipes) | Quickstart your use of Repository Rules with prebuilt rulesets ready to import.  | None | 96 | MIT License | 2023-08-18 | 2024-07-22 |
 | [forgoodfirstissue](https://github.com/github/forgoodfirstissue) | Find your first issue for good to contribute to | TypeScript | 56 | MIT License | 2023-09-12 | 2024-07-19 |
 | [gh-es](https://github.com/github/gh-es) | GitHub's official command line tool for Enterprise Server | None | 9 | MIT License | 2023-09-13 | 2024-06-13 |
-| [innovationgraph](https://github.com/github/innovationgraph) | GitHub Innovation Graph | Python | 347 | Creative Commons Zero v1.0 Universal | 2023-09-14 | 2024-07-20 |
+| [innovationgraph](https://github.com/github/innovationgraph) | GitHub Innovation Graph | Python | 349 | Creative Commons Zero v1.0 Universal | 2023-09-14 | 2024-07-21 |
 | [how-engineering-communicates](https://github.com/github/how-engineering-communicates) | A community version of the "common API" for how the GitHub Engineering organization communicates | None | 467 | Creative Commons Attribution 4.0 International | 2023-09-18 | 2024-07-17 |
 | [actions-learning-pathway](https://github.com/github/actions-learning-pathway) | Learning pathway resources for building, testing, and deploying a GitHub Action to GitHub Pages. | CSS | 62 | MIT License | 2023-09-20 | 2024-06-24 |
 | [dotnet-codespaces](https://github.com/github/dotnet-codespaces) | None | HTML | 86 | - | 2023-09-26 | 2024-07-17 |
 | [gh-autofix](https://github.com/github/gh-autofix) | gh cli extension for interacting with code scanning autofixes | None | 5 | MIT License | 2023-09-29 | 2024-07-03 |
 | [copilot-hack](https://github.com/github/copilot-hack) | Open form hack for GitHub Copilot | Jupyter Notebook | 20 | MIT License | 2023-09-29 | 2024-06-27 |
-| [contributors](https://github.com/github/contributors) | GitHub Action that given an organization or repository, produces information about the contributors over the specified time period. | Python | 84 | MIT License | 2023-10-02 | 2024-07-20 |
+| [contributors](https://github.com/github/contributors) | GitHub Action that given an organization or repository, produces information about the contributors over the specified time period. | Python | 84 | MIT License | 2023-10-02 | 2024-07-22 |
 | [rust-gems](https://github.com/github/rust-gems) | A collection of rust algorithms and data structures | Rust | 9 | MIT License | 2023-10-11 | 2024-07-11 |
 | [form-templates](https://github.com/github/form-templates) | Public Form Templates to get your project started | None | 15 | MIT License | 2023-10-12 | 2024-06-24 |
-| [gh-copilot](https://github.com/github/gh-copilot) | Ask for assistance right in your terminal. | None | 626 | - | 2023-10-26 | 2024-07-20 |
+| [gh-copilot](https://github.com/github/gh-copilot) | Ask for assistance right in your terminal. | None | 627 | - | 2023-10-26 | 2024-07-21 |
 | [local-action](https://github.com/github/local-action) | A simple utility for running and debugging a GitHub Action locally | TypeScript | 66 | MIT License | 2023-10-26 | 2024-07-19 |
 | [codespaces-host-images](https://github.com/github/codespaces-host-images) | Codespaces Host Images | None | 21 | MIT License | 2023-10-31 | 2024-07-11 |
-| [redacting-logger](https://github.com/github/redacting-logger) | A redacting Ruby logger to prevent the leaking of secrets via logs | Ruby | 6 | MIT License | 2023-11-13 | 2024-06-25 |
+| [redacting-logger](https://github.com/github/redacting-logger) | A redacting Ruby logger to prevent the leaking of secrets via logs | Ruby | 6 | MIT License | 2023-11-13 | 2024-07-21 |
 | [evergreen](https://github.com/github/evergreen) | GitHub Action to enable automated security updates and open a issue/PR in repos in an org that have dependency files but no dependabot.yaml file | Python | 162 | MIT License | 2023-12-13 | 2024-07-17 |
 | [github-event-mirror-azure-function](https://github.com/github/github-event-mirror-azure-function) | Mirror GitHub events back to their originating repo to trigger Actions workflows, using this Azure Function | TypeScript | 4 | MIT License | 2023-12-19 | 2024-07-08 |
-| [cleanowners](https://github.com/github/cleanowners) | A GitHub Action to suggest removal of non-organization members from CODEOWNERS files | Python | 103 | MIT License | 2024-01-30 | 2024-07-16 |
+| [cleanowners](https://github.com/github/cleanowners) | A GitHub Action to suggest removal of non-organization members from CODEOWNERS files | Python | 103 | MIT License | 2024-01-30 | 2024-07-22 |
 | [policy-controller](https://github.com/github/policy-controller) | Temporary GitHub managed Sigstore Policy Controller fork | Go | 1 | Apache License 2.0 | 2024-02-27 | 2024-07-09 |
 | [generate-dependabot-glob-action](https://github.com/github/generate-dependabot-glob-action) | Generates a `dependabot.yml` and PRs it against your repo if it needs updating to include a new directory or package-ecosystem, with globs/wildcards | JavaScript | 2 | - | 2024-05-01 | 2024-07-17 |
 | [code-navigation](https://github.com/github/code-navigation) | Public documentation about GitHub's code navigation system | None | 2 | MIT License | 2024-05-16 | 2024-06-20 |
 | [simplebox](https://github.com/github/simplebox) | Package simplebox provides a simple, easy-to-use cryptographic API where all of the hard decisions have been made for you in advance. | Go | 1 | MIT License | 2024-05-17 | 2024-06-13 |
-| [artifact-attestations-workflows](https://github.com/github/artifact-attestations-workflows) | Demo repository showcasing how to use reusable workflows to build artifact attestations | Python | 2 | Creative Commons Zero v1.0 Universal | 2024-05-22 | 2024-07-18 |
+| [artifact-attestations-workflows](https://github.com/github/artifact-attestations-workflows) | Demo repository showcasing how to use reusable workflows to build artifact attestations | Python | 3 | Creative Commons Zero v1.0 Universal | 2024-05-22 | 2024-07-21 |
 | [artifact-attestations-helm-charts](https://github.com/github/artifact-attestations-helm-charts) | Helm charts for verifying artifact attestations in Kubernetes | Smarty | 3 | Apache License 2.0 | 2024-05-29 | 2024-07-10 |
 | [HealthVault-Mobile-iOS-Library](https://github.com/microsoft/HealthVault-Mobile-iOS-Library) | The HealthVault team has recently added the capability to write applications that will run on Mobile Devices and connect directly to the HealthVault Service. HealthVault iOS library enables developers to write iOS applications which interact with a user's personally controlled health record. The “go live” process to deploy an application against the production HealthVault service can be found at http://msdn.microsoft.com/en-us/healthvault/bb962148. Information about the API that the HealthVault service exposes can be in the documentation in HealthVault .NET SDK. | Objective-C | 41 | - | 2011-06-21 | 2023-05-17 |
 | [BeanSpy](https://github.com/microsoft/BeanSpy) | BeanSpy is an open source Java servlet technology provided by Microsoft to retrieve JMX information from Java EE application servers | Java | 23 | Other | 2012-01-02 | 2024-03-31 |
@@ -8520,7 +8520,7 @@
 | [optical-reader](https://github.com/microsoft/optical-reader) | Optical Reader Library provides a simple easy-to-integrate optical reader task for QR-code and barcode reading purposes, and also provides a customizable optical reader framework for assisting in implementing own optical reader systems. | C# | 34 | Other | 2014-01-13 | 2023-05-05 |
 | [lens-blur](https://github.com/microsoft/lens-blur) | Lens Blur is an example application on how to use Nokia Imaging SDK InteractiveForegroundSegmenter and the LensBlurEffect to blur only selected areas of images. | C# | 19 | MIT License | 2014-01-23 | 2023-01-28 |
 | [azure-cookbook](https://github.com/microsoft/azure-cookbook) | Windows Azure Cookbook for Chef | Ruby | 17 | Apache License 2.0 | 2014-01-30 | 2023-01-28 |
-| [lis-test](https://github.com/microsoft/lis-test) | Contains test infrastructure for testing Linux virtual machines on Windows Azure and Hyper-V. | PowerShell | 30 | - | 2014-01-30 | 2024-04-02 |
+| [lis-test](https://github.com/microsoft/lis-test) | Contains test infrastructure for testing Linux virtual machines on Windows Azure and Hyper-V. | PowerShell | 31 | - | 2014-01-30 | 2024-07-22 |
 | [nokia-x-notifications-samples](https://github.com/microsoft/nokia-x-notifications-samples) | This project contains the simple examples demonstrating how to implement and port an application to utilise Nokia Notifications on Nokia X software platform. | Java | 19 | - | 2014-02-12 | 2024-05-08 |
 | [nokia-x-in-app-payment-samples](https://github.com/microsoft/nokia-x-in-app-payment-samples) | This project contains the simple examples demonstrating how to implement and port an application to utilise Nokia In-App Payment on Nokia X software platform. | Java | 13 | - | 2014-02-12 | 2023-01-27 |
 | [simple-filter-mixer](https://github.com/microsoft/simple-filter-mixer) | Simple Filter Mixer is an example application for Windows Phone demonstrating the use of Imaging SDK APIs, combining multiple filters together and demonstrating each of the available filter in the SDK. This sample also demonstrates on-demand creation of the filters using reflection. | C# | 14 | Other | 2014-02-13 | 2024-01-27 |
@@ -8536,7 +8536,7 @@
 | [Azure-DDP](https://github.com/microsoft/Azure-DDP) | Framework to build general purpose distributed data platform in Azure Virtual Machines to support various platforms like Hadoop, Cassandra and MongoDB.   | PowerShell | 19 | Apache License 2.0 | 2014-06-05 | 2024-07-19 |
 | [microsoft.github.io](https://github.com/microsoft/microsoft.github.io) | Microsoft on GitHub | HTML | 2387 | Creative Commons Attribution 4.0 International | 2014-06-11 | 2024-07-21 |
 | [cocos2d-x-3rd-party-libs-bin](https://github.com/microsoft/cocos2d-x-3rd-party-libs-bin) | None | C | 8 | - | 2014-06-11 | 2024-01-23 |
-| [TypeScript](https://github.com/microsoft/TypeScript) | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. | TypeScript | 99308 | Apache License 2.0 | 2014-06-17 | 2024-07-21 |
+| [TypeScript](https://github.com/microsoft/TypeScript) | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. | TypeScript | 99331 | Apache License 2.0 | 2014-06-17 | 2024-07-22 |
 | [recorder](https://github.com/microsoft/recorder) | SensorCore SDK sample data recorder for the simulators | C# | 11 | - | 2014-06-23 | 2023-01-28 |
 | [activities](https://github.com/microsoft/activities) | Lumia SensorCore SDK sample for Activity Monitor API. | C# | 22 | - | 2014-06-23 | 2023-01-28 |
 | [steps](https://github.com/microsoft/steps) | Lumia SensorCore SDK sample for Pedometer and Step Counter APIs. | C# | 33 | - | 2014-06-23 | 2023-09-26 |
@@ -8550,7 +8550,7 @@
 | [ApplicationInsights-node.js](https://github.com/microsoft/ApplicationInsights-node.js) | Microsoft Application Insights SDK for Node.js | TypeScript | 321 | MIT License | 2014-08-05 | 2024-07-17 |
 | [dotnet-samples](https://github.com/microsoft/dotnet-samples) | Contains samples and documentation for libraries and tools of the .NET framework. Pull requests welcome! | C# | 705 | MIT License | 2014-08-14 | 2024-05-29 |
 | [activate-sensorcore](https://github.com/microsoft/activate-sensorcore) | Helper library for SensorCore SDK to activate Location and Motion data | C# | 16 | - | 2014-08-20 | 2024-01-27 |
-| [cpprestsdk](https://github.com/microsoft/cpprestsdk) | The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services. | C++ | 7905 | Other | 2014-08-21 | 2024-07-21 |
+| [cpprestsdk](https://github.com/microsoft/cpprestsdk) | The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services. | C++ | 7906 | Other | 2014-08-21 | 2024-07-21 |
 | [diskspd](https://github.com/microsoft/diskspd) | DISKSPD is a storage load generator / performance test tool from the Windows/Windows Server and Cloud Server Infrastructure Engineering teams | C++ | 1125 | MIT License | 2014-09-12 | 2024-07-19 |
 | [StorScore](https://github.com/microsoft/StorScore) | A test framework to evaluate SSDs and HDDs | C++ | 79 | MIT License | 2014-09-12 | 2024-02-02 |
 | [java-example-fraud-score](https://github.com/microsoft/java-example-fraud-score) | Example use of DeployR as a real-time, R analytics scoring engine. | Java | 10 | Other | 2014-09-23 | 2023-04-13 |
@@ -8559,14 +8559,14 @@
 | [RoslynClrHeapAllocationAnalyzer](https://github.com/microsoft/RoslynClrHeapAllocationAnalyzer) | Roslyn based C# heap allocation diagnostic analyzer that can detect explicit and many implicit allocations like boxing, display classes a.k.a closures, implicit delegate creations, etc. | C# | 646 | Apache License 2.0 | 2014-10-12 | 2024-07-13 |
 | [js-example-fraud-score](https://github.com/microsoft/js-example-fraud-score) | Example use of DeployR as a real-time, R analytics scoring engine. | JavaScript | 11 | Other | 2014-10-15 | 2023-06-13 |
 | [hello-sensorcore](https://github.com/microsoft/hello-sensorcore) | Hello SensorCore is a getting started sample for Lumia SensorCore SDK. The sample shows how to initialise and use StepCounter API. | C# | 8 | - | 2014-10-15 | 2023-10-02 |
-| [dotnet](https://github.com/microsoft/dotnet) | This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation. | HTML | 14256 | MIT License | 2014-10-23 | 2024-07-20 |
+| [dotnet](https://github.com/microsoft/dotnet) | This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation. | HTML | 14258 | MIT License | 2014-10-23 | 2024-07-21 |
 | [QuickInject](https://github.com/microsoft/QuickInject) | QuickInject is a simple dependency injection container for .NET Core | C# | 46 | MIT License | 2014-10-25 | 2024-04-03 |
 | [msopentech-tools-for-intellij](https://github.com/microsoft/msopentech-tools-for-intellij) | Plugin for easy and fast development to enable developers of Android Apps to connect to Office 365 services and Azure Mobile Services, and developers of Java middleware to connect to Azure compute services | Java | 28 | Apache License 2.0 | 2014-10-27 | 2023-01-27 |
 | [moodle](https://github.com/microsoft/moodle) | [MISSING DESCRIPTION] | PHP | 9 | GNU General Public License v3.0 | 2014-10-28 | 2024-06-13 |
 | [js-client-library](https://github.com/microsoft/js-client-library) | JavaScript Client Library for DeployR. | JavaScript | 13 | Other | 2014-10-30 | 2023-06-14 |
 | [js-rbroker-framework](https://github.com/microsoft/js-rbroker-framework) | JavaScript RBroker Framework for DeployR. | JavaScript | 13 | Other | 2014-10-30 | 2023-06-13 |
 | [Lumia-Imaging-SDK-Extras](https://github.com/microsoft/Lumia-Imaging-SDK-Extras) | Extra functionality and sample code for the Lumia Imaging SDK | C++ | 24 | MIT License | 2014-11-06 | 2023-01-28 |
-| [referencesource](https://github.com/microsoft/referencesource) | Source from the Microsoft .NET Reference Source that represent a subset of the .NET Framework | C# | 3132 | MIT License | 2014-11-12 | 2024-07-18 |
+| [referencesource](https://github.com/microsoft/referencesource) | Source from the Microsoft .NET Reference Source that represent a subset of the .NET Framework | C# | 3132 | MIT License | 2014-11-12 | 2024-07-22 |
 | [ApplicationInsights-Python](https://github.com/microsoft/ApplicationInsights-Python) | Azure Monitor Distro for OpenTelemetry Python | Python | 135 | MIT License | 2014-11-19 | 2024-06-09 |
 | [o365rwsclient](https://github.com/microsoft/o365rwsclient) | A Net library that wraps the Office 365 RWS OData feed | C# | 18 | MIT License | 2014-11-20 | 2023-01-27 |
 | [o365tosplunkdataimportapp](https://github.com/microsoft/o365tosplunkdataimportapp) | The Office 365 data Splunk app enables data analysts and IT administrators to import the data they need to get their organization more productive and finally makes Office 365 data available to third party BI platforms  | C# | 17 | MIT License | 2014-11-21 | 2024-07-19 |
@@ -8576,14 +8576,14 @@
 | [vso-agent](https://github.com/microsoft/vso-agent) | Visual Studio Team Services and TFS agent for Mac OSX and Linux | TypeScript | 131 | MIT License | 2014-12-01 | 2024-07-16 |
 | [ApplicationInsights-Java](https://github.com/microsoft/ApplicationInsights-Java) | Application Insights for Java | Java | 292 | Other | 2014-12-03 | 2024-07-17 |
 | [ApplicationInsights-Ruby](https://github.com/microsoft/ApplicationInsights-Ruby) | Microsoft Application Insights SDK for Ruby | Ruby | 30 | Other | 2014-12-04 | 2024-07-03 |
-| [azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks) | Tasks for Azure Pipelines | TypeScript | 3436 | MIT License | 2014-12-06 | 2024-07-20 |
+| [azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks) | Tasks for Azure Pipelines | TypeScript | 3435 | MIT License | 2014-12-06 | 2024-07-22 |
 | [ApplicationInsights-Android](https://github.com/microsoft/ApplicationInsights-Android) | Microsoft Application Insights SDK for Android | Java | 57 | Other | 2014-12-08 | 2024-07-03 |
 | [mwt-ds-explore](https://github.com/microsoft/mwt-ds-explore) | [Deprecated]: Exploration library | C++ | 15 | Other | 2014-12-10 | 2023-06-13 |
 | [poshtools](https://github.com/microsoft/poshtools) | PowerShell integration for Visual Studio | C# | 138 | Apache License 2.0 | 2014-12-11 | 2024-07-19 |
 | [kinect-ripple](https://github.com/microsoft/kinect-ripple) | Kinect Ripple is a dual projection based infotainment system that comes with fully customizable interactive floor and screen. Kinect Ripple simple UI framework allows you to quickly add, edit and build integrated experiences on top of it. | C# | 97 | MIT License | 2014-12-11 | 2024-06-13 |
 | [dotnet-apiweb](https://github.com/microsoft/dotnet-apiweb) | Website to display data gathered by the Microsoft ApiPort tool | C# | 16 | MIT License | 2014-12-11 | 2023-07-15 |
 | [dotnet-apiport](https://github.com/microsoft/dotnet-apiport) | This repo contains .NET Portability Analyzer (VSIX and Console) libraries and tools | C# | 986 | MIT License | 2014-12-12 | 2024-07-11 |
-| [bond](https://github.com/microsoft/bond) | Bond is a cross-platform framework for working with schematized data. It supports cross-language de/serialization and powerful generic mechanisms for efficiently manipulating data. Bond is broadly used at Microsoft in high scale services.  | C++ | 2588 | MIT License | 2014-12-15 | 2024-07-18 |
+| [bond](https://github.com/microsoft/bond) | Bond is a cross-platform framework for working with schematized data. It supports cross-language de/serialization and powerful generic mechanisms for efficiently manipulating data. Bond is broadly used at Microsoft in high scale services.  | C++ | 2589 | MIT License | 2014-12-15 | 2024-07-22 |
 | [TypeScript-Sublime-Plugin](https://github.com/microsoft/TypeScript-Sublime-Plugin) | IO wrapper around TypeScript language services, allowing for easy consumption by editor plugins | JavaScript | 1718 | Apache License 2.0 | 2014-12-15 | 2024-05-29 |
 | [azure-chat-for-java](https://github.com/microsoft/azure-chat-for-java) | Azure Chat for Java, A simple Java-based photo and video sharing application, supporting Azure services as the backend for authentication, Video, photos and friend requests via the Azure Java SDK | Java | 24 | Other | 2014-12-17 | 2023-06-06 |
 | [fog](https://github.com/microsoft/fog) | The Ruby cloud services library. | Ruby | 7 | MIT License | 2014-12-18 | 2023-01-27 |
@@ -8613,7 +8613,7 @@
 | [TypeScript-wiki](https://github.com/microsoft/TypeScript-wiki) | A repository to make changes to the TypeScript Wiki on GitHub | JavaScript | 681 | Creative Commons Attribution 4.0 International | 2015-01-22 | 2024-07-16 |
 | [compiler-rt](https://github.com/microsoft/compiler-rt) | None | C | 30 | Other | 2015-01-23 | 2024-05-01 |
 | [test-suite](https://github.com/microsoft/test-suite) | None | Logos | 36 | Other | 2015-01-23 | 2024-06-15 |
-| [Microsoft.IO.RecyclableMemoryStream](https://github.com/microsoft/Microsoft.IO.RecyclableMemoryStream) | A library to provide pooling for .NET MemoryStream objects to improve application performance.  | C# | 1917 | MIT License | 2015-01-26 | 2024-07-19 |
+| [Microsoft.IO.RecyclableMemoryStream](https://github.com/microsoft/Microsoft.IO.RecyclableMemoryStream) | A library to provide pooling for .NET MemoryStream objects to improve application performance.  | C# | 1918 | MIT License | 2015-01-26 | 2024-07-22 |
 | [java-jasperreports-client-library](https://github.com/microsoft/java-jasperreports-client-library) | JasperReports Server Client Library for DeployR | Java | 4 | Other | 2015-01-26 | 2023-06-14 |
 | [deployr-cli](https://github.com/microsoft/deployr-cli) | The DeployR command line interface. | JavaScript | 15 | Other | 2015-01-29 | 2023-06-13 |
 | [TouchDevelop](https://github.com/microsoft/TouchDevelop) | TouchDevelop is a touch-friendly app creation environment for iPad, iPhone, Android, Windows, Mac, Linux. Our mobile-friendly editor makes coding fun, even on your phone or tablet! | TypeScript | 1360 | Other | 2015-01-30 | 2024-06-27 |
@@ -8631,18 +8631,18 @@
 | [Incast](https://github.com/microsoft/Incast) | A benchmark that simulates the 'incast' network traffic pattern. | C++ | 12 | MIT License | 2015-02-17 | 2023-01-27 |
 | [cordova-samples](https://github.com/microsoft/cordova-samples) | Visual Studio Tools for Apache Cordova - Sample Apps | JavaScript | 346 | MIT License | 2015-02-17 | 2023-12-19 |
 | [azure-activedirectory-interactive-auth-library-for-java](https://github.com/microsoft/azure-activedirectory-interactive-auth-library-for-java) | Azure Active Directory interactive authentication library for Java. | HTML | 10 | Apache License 2.0 | 2015-02-18 | 2023-01-27 |
-| [automatic-graph-layout](https://github.com/microsoft/automatic-graph-layout) | A set of tools for graph layout and viewing | JavaScript | 1339 | Other | 2015-02-22 | 2024-07-19 |
+| [automatic-graph-layout](https://github.com/microsoft/automatic-graph-layout) | A set of tools for graph layout and viewing | JavaScript | 1340 | Other | 2015-02-22 | 2024-07-22 |
 | [mail2bug](https://github.com/microsoft/mail2bug) |    Mail2Bug is a service that creates work-items in TFS (incl. VS Online) from an email, and keep the items updated with responses on the thread. | C# | 174 | Other | 2015-02-23 | 2024-06-25 |
 | [ngconf2015demo](https://github.com/microsoft/ngconf2015demo) | TodoMVC application demo for ng-conf 2015 | CSS | 391 | - | 2015-02-23 | 2024-03-17 |
-| [Windows-Driver-Frameworks](https://github.com/microsoft/Windows-Driver-Frameworks) | WDF makes it easy to write high-quality Windows drivers | C | 1246 | MIT License | 2015-02-24 | 2024-07-19 |
+| [Windows-Driver-Frameworks](https://github.com/microsoft/Windows-Driver-Frameworks) | WDF makes it easy to write high-quality Windows drivers | C | 1247 | MIT License | 2015-02-24 | 2024-07-21 |
 | [IEDiagnosticsAdapter](https://github.com/microsoft/IEDiagnosticsAdapter) | IE Diagnostics Adapter is a standalone exe that enables tools to debug and diagnose IE11 using the Chrome remote debug protocol.  | C++ | 574 | Other | 2015-02-25 | 2024-04-20 |
 | [SimpleActivity](https://github.com/microsoft/SimpleActivity) | SimpleActivity is a sample application which demonstrates the usage of the Activity Monitor API in Windows Phone 8.1. This application shows different activity types the user has performed during the current day. The user is able to see the activities from the last seven days as well zoom the activity graph by using the application bar buttons | C# | 7 | - | 2015-03-02 | 2023-01-27 |
 | [SimplePlaces](https://github.com/microsoft/SimplePlaces) | SimplePlaces is a sample application which demonstrates the usage of the Place Monitor API in Windows Phone 8.1. This application shows the known places on the map and by tapping the places push pin, more information about the selected place. The user is able to see the places visited from the last seven days as well as places history by using the application bar buttons. | C# | 5 | - | 2015-03-02 | 2023-01-27 |
 | [SimpleSteps](https://github.com/microsoft/SimpleSteps) | SimpleSteps is a sample application which demonstrates the usage of the Step Counter API in Windows Phone 8.1. This application displays a graph of user's steps during current day. The user is able to see the steps from the last seven days by using the application bar buttons. | C# | 9 | - | 2015-03-02 | 2023-01-27 |
 | [SimpleTracks](https://github.com/microsoft/SimpleTracks) | SimpleTracks is a sample application which demonstrates the usage of the TrackPoint Monitor API in Windows Phone 8.1. This application visualizes the tracks on the map. The user is able to see the tracks from the last seven days as well as tracks history by using the application bar buttons. | C# | 9 | - | 2015-03-02 | 2023-01-27 |
 | [cocos2d-x-3rd-party-libs-src](https://github.com/microsoft/cocos2d-x-3rd-party-libs-src) | Dependencies of cocos2d-x. | Perl | 6 | - | 2015-03-05 | 2023-01-27 |
-| [Windows-universal-samples](https://github.com/microsoft/Windows-universal-samples) | API samples for the Universal Windows Platform. | JavaScript | 9468 | MIT License | 2015-03-06 | 2024-07-19 |
-| [Windows-driver-samples](https://github.com/microsoft/Windows-driver-samples) | This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples. | C | 6778 | Microsoft Public License | 2015-03-06 | 2024-07-20 |
+| [Windows-universal-samples](https://github.com/microsoft/Windows-universal-samples) | API samples for the Universal Windows Platform. | JavaScript | 9469 | MIT License | 2015-03-06 | 2024-07-21 |
+| [Windows-driver-samples](https://github.com/microsoft/Windows-driver-samples) | This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples. | C | 6780 | Microsoft Public License | 2015-03-06 | 2024-07-22 |
 | [Sora](https://github.com/microsoft/Sora) | The Microsoft Research Software Radio (Sora) is a programmable software radio platform based on the commodity multicore CPU in a host PC. The SDK provides the drivers, user mode 802.11a/b/n samples, and a debug plot tool. | C | 345 | Other | 2015-03-11 | 2024-07-08 |
 | [ApplicationInsights-aspnetcore](https://github.com/microsoft/ApplicationInsights-aspnetcore) | ASP.NET Core web applications monitoring | C# | 315 | - | 2015-03-17 | 2024-07-05 |
 | [AccCheckerExtensionForVS](https://github.com/microsoft/AccCheckerExtensionForVS) | Detect and resolve common accessibility issues before you ship your code with a free Visual Studio extension. | C# | 19 | MIT License | 2015-03-17 | 2024-07-19 |
@@ -8656,23 +8656,23 @@
 | [perfview](https://github.com/microsoft/perfview) | PerfView is a CPU and memory performance-analysis tool | C# | 4055 | MIT License | 2015-03-27 | 2024-07-21 |
 | [nodejstools](https://github.com/microsoft/nodejstools) | Node.js Tools for Visual Studio | C# | 1793 | Apache License 2.0 | 2015-03-28 | 2024-07-18 |
 | [cordova-plugin-ms-appinsights](https://github.com/microsoft/cordova-plugin-ms-appinsights) | Cordova plugin for App Insights | JavaScript | 21 | Other | 2015-04-03 | 2023-01-27 |
-| [ApplicationInsights-JS](https://github.com/microsoft/ApplicationInsights-JS) | Microsoft Application Insights SDK for JavaScript | TypeScript | 643 | MIT License | 2015-04-03 | 2024-07-19 |
+| [ApplicationInsights-JS](https://github.com/microsoft/ApplicationInsights-JS) | Microsoft Application Insights SDK for JavaScript | TypeScript | 644 | MIT License | 2015-04-03 | 2024-07-21 |
 | [enhanced-monitoring-service](https://github.com/microsoft/enhanced-monitoring-service) | Enhanced monitoring service for Hyper-V | C# | 15 | MIT License | 2015-04-03 | 2024-05-23 |
-| [SCVMMLinuxGuestAgent](https://github.com/microsoft/SCVMMLinuxGuestAgent) | Linux Agent for System Center Virtual Machine Manager | C++ | 16 | Apache License 2.0 | 2015-04-03 | 2023-06-27 |
+| [SCVMMLinuxGuestAgent](https://github.com/microsoft/SCVMMLinuxGuestAgent) | Linux Agent for System Center Virtual Machine Manager | C++ | 17 | Apache License 2.0 | 2015-04-03 | 2024-07-22 |
 | [redutil](https://github.com/microsoft/redutil) | Thread-safe and consistent Redis utilities for Go. | Go | 36 | MIT License | 2015-04-07 | 2023-01-27 |
 | [Code-Hunt](https://github.com/microsoft/Code-Hunt) | Code Hunt is a serious education game which has been played by over 140,000 students and enthusiasts over the past year. In the process we have collected over 1.5M programs. We hope that researchers will embark on research into the data. Please fill our quick survey to let us know how you are using the dataset, and get updates about new releases of Code Hunt data. See more on our Code Hunt Research page. | None | 57 | - | 2015-04-07 | 2024-06-04 |
 | [DirectXMesh](https://github.com/microsoft/DirectXMesh) | DirectXMesh geometry processing library | C++ | 768 | MIT License | 2015-04-09 | 2024-07-18 |
-| [DirectXTex](https://github.com/microsoft/DirectXTex) | DirectXTex texture processing library | C++ | 1751 | MIT License | 2015-04-09 | 2024-07-21 |
-| [DirectXTK](https://github.com/microsoft/DirectXTK) | The DirectX Tool Kit (aka DirectXTK) is a collection of helper classes for writing DirectX 11.x code in C++ | C++ | 2525 | MIT License | 2015-04-09 | 2024-07-20 |
+| [DirectXTex](https://github.com/microsoft/DirectXTex) | DirectXTex texture processing library | C++ | 1752 | MIT License | 2015-04-09 | 2024-07-21 |
+| [DirectXTK](https://github.com/microsoft/DirectXTK) | The DirectX Tool Kit (aka DirectXTK) is a collection of helper classes for writing DirectX 11.x code in C++ | C++ | 2524 | MIT License | 2015-04-09 | 2024-07-21 |
 | [UVAtlas](https://github.com/microsoft/UVAtlas) | UVAtlas isochart texture atlas | C++ | 816 | MIT License | 2015-04-09 | 2024-06-28 |
 | [xblock-filestorage](https://github.com/microsoft/xblock-filestorage) | None | Python | 12 | - | 2015-04-09 | 2023-01-28 |
 | [TypeScript-Handbook](https://github.com/microsoft/TypeScript-Handbook) | Deprecated, please use the TypeScript-Website repo instead | JavaScript | 4882 | Apache License 2.0 | 2015-04-10 | 2024-07-17 |
 | [ConnectedServices](https://github.com/microsoft/ConnectedServices) | None | None | 27 | - | 2015-04-10 | 2024-05-10 |
 | [kGrid](https://github.com/microsoft/kGrid) | A grid control with responsive UI | TypeScript | 31 | MIT License | 2015-04-13 | 2023-01-27 |
 | [vsts-build-test-samples](https://github.com/microsoft/vsts-build-test-samples) | Sample projects for test vso-agent.  Contains sample projects for windows and xplat agents. | C# | 11 | - | 2015-04-14 | 2023-01-27 |
-| [FX11](https://github.com/microsoft/FX11) | Effects for Direct3D 11 (FX11) is a management runtime for authoring HLSL shaders, render state, and runtime variables together. | C++ | 426 | MIT License | 2015-04-14 | 2024-07-17 |
+| [FX11](https://github.com/microsoft/FX11) | Effects for Direct3D 11 (FX11) is a management runtime for authoring HLSL shaders, render state, and runtime variables together. | C++ | 427 | MIT License | 2015-04-14 | 2024-07-22 |
 | [DXUT](https://github.com/microsoft/DXUT) | DXUT is a "GLUT"-like framework for Direct3D 11.x Win32 desktop applications; primarily samples, demos, and prototypes. | C++ | 405 | MIT License | 2015-04-14 | 2024-07-08 |
-| [WPF-Samples](https://github.com/microsoft/WPF-Samples) | Repository for WPF related samples | C# | 4952 | MIT License | 2015-04-15 | 2024-07-20 |
+| [WPF-Samples](https://github.com/microsoft/WPF-Samples) | Repository for WPF related samples | C# | 4954 | MIT License | 2015-04-15 | 2024-07-22 |
 | [node-v0.12](https://github.com/microsoft/node-v0.12) | Enable Node.js to use Chakra as its JavaScript engine. | JavaScript | 776 | Other | 2015-04-17 | 2024-07-08 |
 | [Chakra-Samples](https://github.com/microsoft/Chakra-Samples) | Repository for Chakra JavaScript engine related samples. | HTML | 216 | MIT License | 2015-04-20 | 2024-06-13 |
 | [RoomAliveToolkit](https://github.com/microsoft/RoomAliveToolkit) | None | C# | 713 | Other | 2015-04-20 | 2024-06-26 |
@@ -8709,7 +8709,7 @@
 | [winsdkfb](https://github.com/microsoft/winsdkfb) | The Windows SDK for Facebook allows developers to provide Facebook integration for Windows Apps. | C++ | 179 | Other | 2015-05-27 | 2024-05-07 |
 | [MIEngine](https://github.com/microsoft/MIEngine) | The Visual Studio MI Debug Engine ("MIEngine") provides an open-source Visual Studio Debugger extension that works with MI-enabled debuggers such as gdb and lldb.  | C# | 808 | MIT License | 2015-05-28 | 2024-07-17 |
 | [react-native-code-push](https://github.com/microsoft/react-native-code-push) | React Native module for CodePush | C | 8880 | Other | 2015-06-02 | 2024-07-20 |
-| [DirectX-Graphics-Samples](https://github.com/microsoft/DirectX-Graphics-Samples) | This repo contains the DirectX Graphics samples that demonstrate how to build graphics intensive applications on Windows. | C++ | 5901 | MIT License | 2015-06-03 | 2024-07-20 |
+| [DirectX-Graphics-Samples](https://github.com/microsoft/DirectX-Graphics-Samples) | This repo contains the DirectX Graphics samples that demonstrate how to build graphics intensive applications on Windows. | C++ | 5904 | MIT License | 2015-06-03 | 2024-07-22 |
 | [Qcodes](https://github.com/microsoft/Qcodes) | Modular data acquisition framework | Python | 317 | MIT License | 2015-06-09 | 2024-07-16 |
 | [ApplicationInsights-dotnet](https://github.com/microsoft/ApplicationInsights-dotnet) | ApplicationInsights-dotnet | C# | 564 | MIT License | 2015-06-11 | 2024-07-12 |
 | [federalist](https://github.com/microsoft/federalist) | Federalist is a unified interface for publishing static government websites. | JavaScript | 13 | Other | 2015-06-11 | 2024-07-19 |
@@ -8757,47 +8757,47 @@
 | [azure-devops-intellij](https://github.com/microsoft/azure-devops-intellij) | IntelliJ IDEA plug-in for Visual Studio Team Services and Team Foundation Server (TFS) | Java | 149 | MIT License | 2015-08-14 | 2024-07-09 |
 | [WPFDXInterop](https://github.com/microsoft/WPFDXInterop) | Repo for WPF DX Interop support | C++ | 307 | MIT License | 2015-08-16 | 2024-06-27 |
 | [WindowsProtocolTestSuites](https://github.com/microsoft/WindowsProtocolTestSuites) | ⭐⭐Join us at sambaXP 2024 (Apr 17 - Apr 18) | C# | 514 | Other | 2015-08-18 | 2024-07-12 |
-| [GSL](https://github.com/microsoft/GSL) | Guidelines Support Library | C++ | 6065 | Other | 2015-08-19 | 2024-07-20 |
+| [GSL](https://github.com/microsoft/GSL) | Guidelines Support Library | C++ | 6064 | Other | 2015-08-19 | 2024-07-21 |
 | [cordova-plugin-code-push](https://github.com/microsoft/cordova-plugin-code-push) | Cordova plugin for CodePush | Objective-C | 643 | Other | 2015-08-19 | 2024-06-30 |
 | [tslint-microsoft-contrib](https://github.com/microsoft/tslint-microsoft-contrib) | A set of TSLint rules used on some Microsoft projects. | TypeScript | 701 | MIT License | 2015-08-20 | 2024-04-19 |
 | [ConcordExtensibilitySamples](https://github.com/microsoft/ConcordExtensibilitySamples) | Visual Studio Debug Engine Extensibility Samples | C# | 120 | Other | 2015-08-24 | 2024-04-08 |
 | [TACO](https://github.com/microsoft/TACO) | Tools for Apache Cordova | None | 186 | - | 2015-08-24 | 2024-07-08 |
 | [unityplugins](https://github.com/microsoft/unityplugins) | Unity Plugins for Windows Store and Azure related functions. | C# | 81 | Other | 2015-08-24 | 2023-03-14 |
 | [CodeAnalysis](https://github.com/microsoft/CodeAnalysis) | Repo to hold GitHub landing page for Microsoft.github.io/CodeAnalysis | None | 3 | - | 2015-08-25 | 2024-06-13 |
-| [vscode-docs](https://github.com/microsoft/vscode-docs) | Public documentation for Visual Studio Code | Markdown | 5571 | Other | 2015-08-26 | 2024-07-21 |
+| [vscode-docs](https://github.com/microsoft/vscode-docs) | Public documentation for Visual Studio Code | Markdown | 5570 | Other | 2015-08-26 | 2024-07-22 |
 | [Windows-appsample-marble-maze](https://github.com/microsoft/Windows-appsample-marble-maze) | A 3D DirectX game for the Universal Windows Platform. | C++ | 109 | MIT License | 2015-08-31 | 2023-12-17 |
 | [Azure-Services-Explorer](https://github.com/microsoft/Azure-Services-Explorer) | Common component for IntelliJ, Android Studio and Eclipse plugin that allows developers to authenticate via Azure Active Directory and manage Azure resources | Java | 13 | - | 2015-09-02 | 2023-10-04 |
 | [Azure-Toolkit-for-IntelliJ](https://github.com/microsoft/Azure-Toolkit-for-IntelliJ) | Azure Cloud tools for Java developers who use IntelliJ to develop applications hosted in Azure Cloud Services. | Java | 13 | MIT License | 2015-09-02 | 2023-01-27 |
 | [Microsoft-Cloud-Services-for-Android](https://github.com/microsoft/Microsoft-Cloud-Services-for-Android) | Plugin for easy and fast development of Android Apps connected to Azure Mobile Services, Notification Hub and Office 365 services. The plugin offers integrated development environment with these Microsoft Cloud services within IntelliJ IDEA and Android Studio. | Java | 17 | MIT License | 2015-09-02 | 2023-03-13 |
-| [vscode-languageserver-node](https://github.com/microsoft/vscode-languageserver-node) | Language server protocol implementation for VSCode. This allows implementing language services in JS/TS running on node.js | TypeScript | 1413 | MIT License | 2015-09-03 | 2024-07-19 |
-| [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | TypeScript | 160838 | MIT License | 2015-09-03 | 2024-07-21 |
-| [language-server-protocol](https://github.com/microsoft/language-server-protocol) | Defines a common protocol for language servers. | HTML | 10948 | Creative Commons Attribution 4.0 International | 2015-09-04 | 2024-07-19 |
+| [vscode-languageserver-node](https://github.com/microsoft/vscode-languageserver-node) | Language server protocol implementation for VSCode. This allows implementing language services in JS/TS running on node.js | TypeScript | 1414 | MIT License | 2015-09-03 | 2024-07-22 |
+| [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | TypeScript | 160880 | MIT License | 2015-09-03 | 2024-07-22 |
+| [language-server-protocol](https://github.com/microsoft/language-server-protocol) | Defines a common protocol for language servers. | HTML | 10950 | Creative Commons Attribution 4.0 International | 2015-09-04 | 2024-07-22 |
 | [Multiverso](https://github.com/microsoft/Multiverso) | Parameter server framework for distributed machine learning | C++ | 772 | MIT License | 2015-09-07 | 2024-05-27 |
-| [Windows-classic-samples](https://github.com/microsoft/Windows-classic-samples) | This repo contains samples that demonstrate the API used in Windows classic desktop applications. | None | 4932 | Other | 2015-09-08 | 2024-07-20 |
+| [Windows-classic-samples](https://github.com/microsoft/Windows-classic-samples) | This repo contains samples that demonstrate the API used in Windows classic desktop applications. | None | 4933 | Other | 2015-09-08 | 2024-07-22 |
 | [Instance-Adapter-for-Microsoft-Dynamics-CRM](https://github.com/microsoft/Instance-Adapter-for-Microsoft-Dynamics-CRM) | An additional, non-Microsoft supported, adapter for use with Connector for Microsoft Dynamics that allows for the synchronization of data between two Microsoft Dynamics CRM 2011, 2013, or 2015 organizations.  The adapter allows for communication between two endpoints that exist on any authentication/hosting environment (on-premises, online, IFD, etc.)  This means that you can leverage this new adapter to move Microsoft Dynamics CRM 2011 or Dynamics CRM 2013 data between test and production servers or from on-premises to the cloud. | C# | 25 | Other | 2015-09-08 | 2024-05-03 |
 | [azure-shortcuts-for-java](https://github.com/microsoft/azure-shortcuts-for-java) | A radically simplified API for Azure in Java - prototype | Java | 9 | Other | 2015-09-10 | 2024-07-19 |
 | [LightLDA](https://github.com/microsoft/LightLDA) | Scalable, fast, and lightweight system for large-scale topic modeling | C++ | 840 | MIT License | 2015-09-11 | 2024-05-27 |
 | [Git-Credential-Manager-for-Windows](https://github.com/microsoft/Git-Credential-Manager-for-Windows) | Secure Git credential storage for Windows with support for Visual Studio Team Services, GitHub, and Bitbucket multi-factor authentication. | C# | 2857 | Other | 2015-09-14 | 2024-07-18 |
-| [vscode-textmate](https://github.com/microsoft/vscode-textmate) | A library that helps tokenize text using Text Mate grammars. | TypeScript | 565 | MIT License | 2015-09-15 | 2024-07-15 |
+| [vscode-textmate](https://github.com/microsoft/vscode-textmate) | A library that helps tokenize text using Text Mate grammars. | TypeScript | 566 | MIT License | 2015-09-15 | 2024-07-21 |
 | [compoundfilereader](https://github.com/microsoft/compoundfilereader) | A simple header file to read Microsoft compound file with minimal efforts. | C++ | 73 | MIT License | 2015-09-16 | 2024-05-13 |
-| [vscode-editorconfig](https://github.com/microsoft/vscode-editorconfig) | [DEPRECATED] .editorconfig extension for Visual Studio Code  | TypeScript | 74 | MIT License | 2015-09-16 | 2024-05-17 |
+| [vscode-editorconfig](https://github.com/microsoft/vscode-editorconfig) | [DEPRECATED] .editorconfig extension for Visual Studio Code  | TypeScript | 75 | MIT License | 2015-09-16 | 2024-07-22 |
 | [clrmd](https://github.com/microsoft/clrmd) | Microsoft.Diagnostics.Runtime is a set of APIs for introspecting processes and dumps. | C# | 1044 | MIT License | 2015-09-16 | 2024-07-20 |
 | [Pyjion](https://github.com/microsoft/Pyjion) | Pyjion - A JIT for Python based upon CoreCLR | C++ | 1594 | MIT License | 2015-09-16 | 2024-06-22 |
 | [Lumia-imaging-sdk](https://github.com/microsoft/Lumia-imaging-sdk) | Lumia Imaging SDK is a comprehensive set of GPU/CPU imaging tools and effects that run on both mobile and desktop, with high speed and memory efficiency. Samples and extras code are included. | C# | 74 | MIT License | 2015-09-18 | 2024-07-12 |
-| [VisualStudioUninstaller](https://github.com/microsoft/VisualStudioUninstaller) | Visual Studio Uninstallation sometimes can be unreliable and often leave out a lot of unwanted artifacts. Visual Studio Uninstaller is designed to thoroughly and reliably remove these unwanted artifacts. | C# | 3918 | Other | 2015-09-19 | 2024-07-20 |
+| [VisualStudioUninstaller](https://github.com/microsoft/VisualStudioUninstaller) | Visual Studio Uninstallation sometimes can be unreliable and often leave out a lot of unwanted artifacts. Visual Studio Uninstaller is designed to thoroughly and reliably remove these unwanted artifacts. | C# | 3919 | Other | 2015-09-19 | 2024-07-22 |
 | [VSLua](https://github.com/microsoft/VSLua) | Visual Studio Tools for Lua | C# | 190 | Other | 2015-09-21 | 2024-06-06 |
-| [vscode-vsce](https://github.com/microsoft/vscode-vsce) | VS Code Extension Manager | TypeScript | 775 | Other | 2015-09-22 | 2024-07-19 |
+| [vscode-vsce](https://github.com/microsoft/vscode-vsce) | VS Code Extension Manager | TypeScript | 774 | Other | 2015-09-22 | 2024-07-21 |
 | [vsts-cordova-tasks](https://github.com/microsoft/vsts-cordova-tasks) | Streamline CI setup for your Apache Cordova, PhoneGap, Ionic, or Cordova CLI compatible app using a set of useful pre-defined build steps for VS Team Services or TFS | JavaScript | 25 | Other | 2015-09-22 | 2023-08-04 |
 | [TVHelpers](https://github.com/microsoft/TVHelpers) | This project consists of several helper components, samples, and sample app to help you get started building applications for media, TV, and Xbox on the Universal Windows Platform for both C# and JavaScript developers. | JavaScript | 155 | - | 2015-09-23 | 2024-07-19 |
 | [Ironclad](https://github.com/microsoft/Ironclad) | The MSR Ironclad project builds provably secure and reliable systems. | Dafny | 242 | Other | 2015-09-23 | 2024-07-12 |
 | [CRM-Performance-Toolkit](https://github.com/microsoft/CRM-Performance-Toolkit) | The Microsoft Dynamics CRM 2015 Performance Toolkit was created by the Microsoft CRM product team to formalize performance testing of Microsoft CRM 2013 and later releases. The performance toolkit can be used by the Microsoft CRM partners and customers to collect data to support their CRM deployment decisions. | None | 44 | - | 2015-09-24 | 2024-01-18 |
 | [vscode-samples](https://github.com/microsoft/vscode-samples) | VS Code Samples | JavaScript | 161 | Other | 2015-09-24 | 2024-06-27 |
-| [vscode-generator-code](https://github.com/microsoft/vscode-generator-code) | Visual Studio Code extension generator | JavaScript | 1245 | Other | 2015-09-25 | 2024-07-19 |
+| [vscode-generator-code](https://github.com/microsoft/vscode-generator-code) | Visual Studio Code extension generator | JavaScript | 1245 | Other | 2015-09-25 | 2024-07-22 |
 | [PowerBI-CSharp](https://github.com/microsoft/PowerBI-CSharp) | Welcome to the .NET developer community for Power BI. Here you will find resources for the .NET SDKs for Power BI Embedded V2.0.0 | C# | 654 | Other | 2015-09-28 | 2024-07-19 |
 | [PowerBI-JavaScript](https://github.com/microsoft/PowerBI-JavaScript) | JavaScript library for embedding Power BI into your apps. Check out the docs website and wiki for more information. | TypeScript | 1040 | Other | 2015-09-28 | 2024-07-20 |
 | [graphics-driver-samples](https://github.com/microsoft/graphics-driver-samples) | This repository contains graphics driver samples used to demonstrate how to write graphics driver for the windows platform. | C++ | 378 | Other | 2015-09-30 | 2024-07-13 |
-| [TypeScript-DOM-lib-generator](https://github.com/microsoft/TypeScript-DOM-lib-generator) | Tool for generating dom related TypeScript and JavaScript library files  | TypeScript | 601 | Apache License 2.0 | 2015-09-30 | 2024-07-11 |
-| [code-push](https://github.com/microsoft/code-push) | A cloud service that enables Cordova and React Native developers to deploy mobile app updates directly to their users’ devices. | TypeScript | 4338 | Other | 2015-09-30 | 2024-07-16 |
+| [TypeScript-DOM-lib-generator](https://github.com/microsoft/TypeScript-DOM-lib-generator) | Tool for generating dom related TypeScript and JavaScript library files  | TypeScript | 601 | Apache License 2.0 | 2015-09-30 | 2024-07-22 |
+| [code-push](https://github.com/microsoft/code-push) | A cloud service that enables Cordova and React Native developers to deploy mobile app updates directly to their users’ devices. | TypeScript | 4339 | Other | 2015-09-30 | 2024-07-22 |
 | [deep-space](https://github.com/microsoft/deep-space) | Sample web application written in Java and uses AngularJS. | JavaScript | 7 | MIT License | 2015-10-01 | 2023-01-27 |
 | [binskim](https://github.com/microsoft/binskim) | A binary static analysis tool that provides security and correctness results for Windows Portable Executable and *nix ELF binary formats | C# | 761 | Other | 2015-10-01 | 2024-07-16 |
 | [JSanity](https://github.com/microsoft/JSanity) | A secure-by-default, performance, cross-browser client-side HTML sanitization library | JavaScript | 253 | Other | 2015-10-02 | 2024-02-06 |
@@ -8809,7 +8809,7 @@
 | [OMS-Agent-for-Linux](https://github.com/microsoft/OMS-Agent-for-Linux) | None | Ruby | 407 | Other | 2015-10-05 | 2024-07-12 |
 | [vscode-mock-debug](https://github.com/microsoft/vscode-mock-debug) | Starter sample for developing debug adapters for VSCode. | TypeScript | 302 | Other | 2015-10-07 | 2024-07-05 |
 | [ntttcp-for-linux](https://github.com/microsoft/ntttcp-for-linux) | A Linux network throughput multiple-thread benchmark tool. | C | 352 | MIT License | 2015-10-08 | 2024-07-18 |
-| [vscode-tslint](https://github.com/microsoft/vscode-tslint) | A tslint integration for vscode | TypeScript | 409 | Other | 2015-10-08 | 2024-06-09 |
+| [vscode-tslint](https://github.com/microsoft/vscode-tslint) | A tslint integration for vscode | TypeScript | 410 | Other | 2015-10-08 | 2024-07-21 |
 | [StopGuessing](https://github.com/microsoft/StopGuessing) | A system for protecting password-based authentication systems from online-guessing attacks. | C# | 80 | Other | 2015-10-08 | 2023-01-27 |
 | [vscode-extension-vscode](https://github.com/microsoft/vscode-extension-vscode) | The vscode NPM module. Deprecated in favor of @types/vscode and vscode-test. | JavaScript | 126 | Other | 2015-10-09 | 2024-04-22 |
 | [vscode-wordcount](https://github.com/microsoft/vscode-wordcount) | Sample Word Count extension for VS Code. | TypeScript | 124 | Other | 2015-10-09 | 2024-07-18 |
@@ -8855,7 +8855,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [Partner-app-development](https://github.com/microsoft/Partner-app-development) | Samples for partner application development (OEM, MO, IHV) for Window | C++ | 16 | - | 2015-11-04 | 2023-10-17 |
 | [hdfs-mount](https://github.com/microsoft/hdfs-mount) | A tool to mount HDFS as a local Linux file system | Go | 286 | Other | 2015-11-05 | 2024-07-10 |
 | [Imagine_block-knock](https://github.com/microsoft/Imagine_block-knock) | Get the assets and code here, and then follow our Block Knock tutorial to learn more about how to work with Unity, C#, and Visual Studio to complete this game! Microsoft Imagine connects you with the tools and knowledge you need to create, code, and develop your ideas. | C# | 33 | - | 2015-11-05 | 2024-03-27 |
-| [vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) | Sample code illustrating the VS Code extension API. | TypeScript | 8427 | MIT License | 2015-11-05 | 2024-07-21 |
+| [vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) | Sample code illustrating the VS Code extension API. | TypeScript | 8432 | MIT License | 2015-11-05 | 2024-07-22 |
 | [sarif-sdk](https://github.com/microsoft/sarif-sdk) | .NET code and supporting files for working with the 'Static Analysis Results Interchange Format' (SARIF, see https://github.com/oasis-tcs/sarif-spec) | C# | 189 | Other | 2015-11-05 | 2024-07-15 |
 | [driver-utilities](https://github.com/microsoft/driver-utilities) | Driver utilities for building static analysis and other command-line tools. | C# | 21 | Other | 2015-11-05 | 2024-07-19 |
 | [ts-api-checker](https://github.com/microsoft/ts-api-checker) | Utility to check the compatibility between two versions of a TypeScript declare file. | JavaScript | 12 | - | 2015-11-06 | 2024-07-19 |
@@ -8899,7 +8899,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [Build-OMS-Agent-for-Linux](https://github.com/microsoft/Build-OMS-Agent-for-Linux) | Build projects required for omsagent | PowerShell | 40 | Other | 2015-11-23 | 2024-07-04 |
 | [Imagine_fudge-roll](https://github.com/microsoft/Imagine_fudge-roll) | Get the assets and code here, and then follow our Fudge Roll tutorial to learn more about how to work with Unity, C#, and Visual Studio to complete this game! Microsoft Imagine connects you with the tools and knowledge you need to create, code, and develop your ideas. | GLSL | 24 | - | 2015-11-24 | 2024-04-08 |
 | [GraphView](https://github.com/microsoft/GraphView) | GraphView is a DLL library that enables users to use SQL Server or Azure SQL Database to efficiently manage graphs.  | C# | 528 | Other | 2015-11-25 | 2024-07-19 |
-| [CNTK](https://github.com/microsoft/CNTK) | Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit | C++ | 17486 | Other | 2015-11-26 | 2024-07-20 |
+| [CNTK](https://github.com/microsoft/CNTK) | Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit | C++ | 17488 | Other | 2015-11-26 | 2024-07-22 |
 | [Dynamics-AX-Integration](https://github.com/microsoft/Dynamics-AX-Integration) | Dynamics AX Integration samples and demos. | C# | 286 | - | 2015-11-30 | 2024-07-19 |
 | [vsts-vmware](https://github.com/microsoft/vsts-vmware) | None | Java | 16 | - | 2015-12-01 | 2023-10-17 |
 | [node-windows-mutex](https://github.com/microsoft/node-windows-mutex) | Expose the Windows CreateMutex API to Node.JS | C++ | 29 | Other | 2015-12-01 | 2024-02-01 |
@@ -8922,7 +8922,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [customer-scripts](https://github.com/microsoft/customer-scripts) | Repository of scripts provided frequently to our customers | PowerShell | 12 | MIT License | 2015-12-14 | 2024-04-05 |
 | [ftl-sdk](https://github.com/microsoft/ftl-sdk) | Software Development Kit for Mixer's FTL Protocol | C | 152 | MIT License | 2015-12-14 | 2024-04-11 |
 | [edx-theme](https://github.com/microsoft/edx-theme) | None | HTML | 4 | MIT License | 2015-12-14 | 2024-07-19 |
-| [react-native-windows](https://github.com/microsoft/react-native-windows) | A framework for building native Windows apps with React. | C++ | 16135 | Other | 2015-12-15 | 2024-07-21 |
+| [react-native-windows](https://github.com/microsoft/react-native-windows) | A framework for building native Windows apps with React. | C++ | 16135 | Other | 2015-12-15 | 2024-07-22 |
 | [node-native-keymap](https://github.com/microsoft/node-native-keymap) | Provide OS keyboard layout functionality as a nodejs module | C++ | 132 | MIT License | 2015-12-15 | 2024-06-27 |
 | [OMS-docker](https://github.com/microsoft/OMS-docker) | Docker image for OMS (Operations Management Suite) Linux agent. | Shell | 79 | Other | 2015-12-18 | 2024-02-28 |
 | [ivy](https://github.com/microsoft/ivy) | IVy is a research tool intended to allow interactive development of protocols and their proofs of correctness and to provide a platform for developing and experimenting with automated proof techniques. In particular, IVy provides interactive visualization of automated proofs, and supports a use model in which the human protocol designer and the automated tool interact to expose errors and prove correctness. | C++ | 222 | Other | 2015-12-28 | 2024-05-20 |
@@ -8958,7 +8958,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [vsts-bamboo-build-integration-sample](https://github.com/microsoft/vsts-bamboo-build-integration-sample) | Sample code that publishes Bamboo build results to VSTS. | Java | 5 | MIT License | 2016-01-29 | 2023-01-28 |
 | [GetVSTSBuildUsage](https://github.com/microsoft/GetVSTSBuildUsage) | This is a code sample to show how to get information about builds  run under a Visual Studio Team Services (VSTS) account or a collection on a Team Foundation Server (TFS). | C# | 13 | MIT License | 2016-01-29 | 2023-01-28 |
 | [Angara](https://github.com/microsoft/Angara) | Angara: the modelling environment https://www.microsoft.com/en-us/research/project/distribution-modeller | F# | 25 | Other | 2016-01-30 | 2024-07-17 |
-| [go-winio](https://github.com/microsoft/go-winio) | Win32 IO-related utilities for Go | Go | 936 | MIT License | 2016-01-31 | 2024-07-19 |
+| [go-winio](https://github.com/microsoft/go-winio) | Win32 IO-related utilities for Go | Go | 937 | MIT License | 2016-01-31 | 2024-07-21 |
 | [Windows-task-snippets](https://github.com/microsoft/Windows-task-snippets) | Reusable code snippets for the Universal Windows Platform. | None | 308 | MIT License | 2016-02-01 | 2024-07-03 |
 | [vscode-nls](https://github.com/microsoft/vscode-nls) | npm module to support externalization and localization of VSCode extensions. | TypeScript | 92 | Other | 2016-02-02 | 2024-04-19 |
 | [vsts-tomcat](https://github.com/microsoft/vsts-tomcat) | This contains tomcat tasks for vsts build and rm | TypeScript | 11 | - | 2016-02-03 | 2023-11-15 |
@@ -8974,20 +8974,20 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [HolographicAcademy](https://github.com/microsoft/HolographicAcademy) | This is the home of all code assets necessary for the Holographic Academy. | None | 282 | MIT License | 2016-02-12 | 2024-07-03 |
 | [CSharpClient-for-Kafka](https://github.com/microsoft/CSharpClient-for-Kafka) | .Net implementation of the Apache Kafka Protocol that provides basic functionality through Producer/Consumer classes. The project also offers balanced consumer implementation. | C# | 464 | Other | 2016-02-18 | 2024-06-05 |
 | [team-explorer-everywhere](https://github.com/microsoft/team-explorer-everywhere) | Team Explorer Everywhere Plugin for Eclipse | Java | 301 | Other | 2016-02-19 | 2024-07-15 |
-| [thrifty](https://github.com/microsoft/thrifty) | Thrift for Android that saves you methods | Kotlin | 539 | Apache License 2.0 | 2016-02-22 | 2024-07-03 |
-| [checkedc](https://github.com/microsoft/checkedc) | Checked C is an extension to C that lets programmers write C code that is guaranteed by the compiler to be type-safe.  The goal is to let people easily make their existing C code type-safe and eliminate entire classes of errors. Checked C does not address use-after-free errors. This repo has a wiki for Checked C, sample code, the specification, and test code. | C | 3195 | Other | 2016-02-23 | 2024-07-21 |
+| [thrifty](https://github.com/microsoft/thrifty) | Thrift for Android that saves you methods | Kotlin | 540 | Apache License 2.0 | 2016-02-22 | 2024-07-21 |
+| [checkedc](https://github.com/microsoft/checkedc) | Checked C is an extension to C that lets programmers write C code that is guaranteed by the compiler to be type-safe.  The goal is to let people easily make their existing C code type-safe and eliminate entire classes of errors. Checked C does not address use-after-free errors. This repo has a wiki for Checked C, sample code, the specification, and test code. | C | 3196 | Other | 2016-02-23 | 2024-07-22 |
 | [Xbox-ATG-Samples](https://github.com/microsoft/Xbox-ATG-Samples) | Game development samples published by the Xbox Advanced Technology Group using the Xbox One XDK and for the Universal Windows Platform (UWP). | C++ | 669 | MIT License | 2016-02-24 | 2024-07-19 |
 | [pxt-microbit-core](https://github.com/microsoft/pxt-microbit-core) | Core library for kindscript-microbit target | C++ | 17 | Other | 2016-02-25 | 2024-04-23 |
 | [EmbeddedSocial-Android-SDK](https://github.com/microsoft/EmbeddedSocial-Android-SDK) | SDK for interacting with the Microsoft Embedded Social service from inside your Android app | Java | 9 | MIT License | 2016-02-27 | 2021-04-20 |
 | [EmbeddedSocial-iOS-SDK](https://github.com/microsoft/EmbeddedSocial-iOS-SDK) | SDK for interacting with the Microsoft Embedded Social service from inside your iOS app | Swift | 19 | MIT License | 2016-02-27 | 2021-07-12 |
 | [EmbeddedSocial-Java-API-Library](https://github.com/microsoft/EmbeddedSocial-Java-API-Library) | Library for interacting with the Microsoft Embedded Social API in your Java code. | Java | 9 | MIT License | 2016-02-27 | 2022-01-13 |
-| [EmbeddedSocial-NodeJS-API-Library](https://github.com/microsoft/EmbeddedSocial-NodeJS-API-Library) | Library for interacting with the Microsoft Embedded Social API in your Node.JS code. | JavaScript | 6 | MIT License | 2016-02-27 | 2023-05-10 |
+| [EmbeddedSocial-NodeJS-API-Library](https://github.com/microsoft/EmbeddedSocial-NodeJS-API-Library) | Library for interacting with the Microsoft Embedded Social API in your Node.JS code. | JavaScript | 7 | MIT License | 2016-02-27 | 2024-07-21 |
 | [dotnet-computevirtualization](https://github.com/microsoft/dotnet-computevirtualization) | Sample class library for interfacing with Windows host compute service. | C# | 132 | MIT License | 2016-02-28 | 2024-06-07 |
 | [vscode-resharper-keybindings](https://github.com/microsoft/vscode-resharper-keybindings) | Resharper 9 Keybindings port to VS Code.  | None | 11 | MIT License | 2016-03-01 | 2023-01-28 |
 | [SQL-Server-R-Services-Samples](https://github.com/microsoft/SQL-Server-R-Services-Samples) | Advanced analytics samples and templates using SQL Server R Services | TSQL | 335 | Creative Commons Attribution 4.0 International | 2016-03-02 | 2024-07-17 |
 | [TpmRCDecoder](https://github.com/microsoft/TpmRCDecoder) | TPM Return Code Decoder: decode error return codes for TPM 1.2 and TPM 2.0 | C# | 20 | MIT License | 2016-03-02 | 2024-03-22 |
 | [vsts-docker](https://github.com/microsoft/vsts-docker) | None | Python | 17 | MIT License | 2016-03-03 | 2024-07-19 |
-| [azure-pipelines-agent](https://github.com/microsoft/azure-pipelines-agent) | Azure Pipelines Agent 🚀 | C# | 1700 | MIT License | 2016-03-03 | 2024-07-19 |
+| [azure-pipelines-agent](https://github.com/microsoft/azure-pipelines-agent) | Azure Pipelines Agent 🚀 | C# | 1701 | MIT License | 2016-03-03 | 2024-07-21 |
 | [azure-vhd-utils](https://github.com/microsoft/azure-vhd-utils) | Azure VHD utilities. | Go | 95 | Other | 2016-03-03 | 2024-06-20 |
 | [botframework-sdk](https://github.com/microsoft/botframework-sdk) | Bot Framework provides the most comprehensive experience for building conversation applications. | JavaScript | 7440 | MIT License | 2016-03-03 | 2024-07-19 |
 | [GalaxyExplorer](https://github.com/microsoft/GalaxyExplorer) | Galaxy Explorer is the application Microsoft is building as part of the Share Your Idea campaign. | C# | 946 | MIT License | 2016-03-04 | 2024-07-16 |
@@ -8999,7 +8999,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [vscode-atom-keybindings](https://github.com/microsoft/vscode-atom-keybindings) | Port of Atom Keybindings for VS Code.  | JavaScript | 144 | MIT License | 2016-03-09 | 2024-05-30 |
 | [azure-tools-for-java](https://github.com/microsoft/azure-tools-for-java) | Azure tools for Java, including Azure Toolkits for Eclipse, IntelliJ and related projects. | Java | 236 | Other | 2016-03-10 | 2024-07-05 |
 | [pxt-microbit](https://github.com/microsoft/pxt-microbit) | A Blocks / JavaScript code editor for the micro:bit built on Microsoft MakeCode | TypeScript | 703 | Other | 2016-03-10 | 2024-07-19 |
-| [sql-server-samples](https://github.com/microsoft/sql-server-samples) | Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge | None | 9777 | Other | 2016-03-11 | 2024-07-20 |
+| [sql-server-samples](https://github.com/microsoft/sql-server-samples) | Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge | None | 9780 | Other | 2016-03-11 | 2024-07-21 |
 | [SCXcore-osskits](https://github.com/microsoft/SCXcore-osskits) | System Center Cross Platform Provider for Operations Manager (Open Source Kits) | Shell | 8 | Other | 2016-03-13 | 2023-06-13 |
 | [RESX-Unused-Finder](https://github.com/microsoft/RESX-Unused-Finder) | RESX Unused Finder helps you find and eliminate unused string resources in your app. | C# | 29 | MIT License | 2016-03-13 | 2023-09-20 |
 | [Dynamics-AX-Extensible-Control-Samples](https://github.com/microsoft/Dynamics-AX-Extensible-Control-Samples) | Sample code and tutorials for building extensible controls for Microsoft Dynamics AX. Includes code samples for AX Forms, AX Tables, AX Classes, and AX Resources (HTML/JS/CSS). | C# | 36 | - | 2016-03-14 | 2024-05-08 |
@@ -9011,11 +9011,11 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [Windows-Social-Samples](https://github.com/microsoft/Windows-Social-Samples) | Sample applications for Social Integration with Windows 10 | C# | 13 | - | 2016-03-16 | 2024-07-19 |
 | [willow](https://github.com/microsoft/willow) | None | None | 10 | - | 2016-03-16 | 2023-01-28 |
 | [vscode-ios-web-debug](https://github.com/microsoft/vscode-ios-web-debug) | Debug your JavaScript code running in Safari on iOS devices from VS Code. | TypeScript | 161 | MIT License | 2016-03-16 | 2024-05-15 |
-| [Docker-Provider](https://github.com/microsoft/Docker-Provider) | Azure Monitor for Containers | Ruby | 136 | Other | 2016-03-17 | 2024-07-18 |
+| [Docker-Provider](https://github.com/microsoft/Docker-Provider) | Azure Monitor for Containers | Ruby | 137 | Other | 2016-03-17 | 2024-07-22 |
 | [Build-Docker-Provider](https://github.com/microsoft/Build-Docker-Provider) | Superproject for Docker-Provider Project | Shell | 11 | Other | 2016-03-17 | 2022-09-01 |
 | [statsd](https://github.com/microsoft/statsd) | Simple daemon for easy stats aggregation | JavaScript | 4 | MIT License | 2016-03-17 | 2023-01-27 |
 | [PowerShellForGitHub](https://github.com/microsoft/PowerShellForGitHub) | Microsoft PowerShell wrapper for GitHub API | PowerShell | 584 | Other | 2016-03-18 | 2024-07-12 |
-| [WinAppDriver](https://github.com/microsoft/WinAppDriver) | Windows Application Driver | C# | 3592 | MIT License | 2016-03-20 | 2024-07-20 |
+| [WinAppDriver](https://github.com/microsoft/WinAppDriver) | Windows Application Driver | C# | 3594 | MIT License | 2016-03-20 | 2024-07-22 |
 | [edge-diagnostics-adapter](https://github.com/microsoft/edge-diagnostics-adapter) | Microsoft Edge Diagnostics Adapter is a protocol adapter that enables tools to debug Microsoft Edge using the Chrome DevTools Protocol. | C++ | 136 | Other | 2016-03-21 | 2024-03-05 |
 | [vscode-edge-debug](https://github.com/microsoft/vscode-edge-debug) | This project is now deprecated.   | TypeScript | 21 | MIT License | 2016-03-21 | 2023-01-28 |
 | [knockout-validation](https://github.com/microsoft/knockout-validation) | this library takes error messages, and validation errors and augments a knockout model with helpers to access them | JavaScript | 9 | MIT License | 2016-03-22 | 2023-06-13 |
@@ -9026,7 +9026,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [VSLinux](https://github.com/microsoft/VSLinux) | VS extension for C++ Linux development | None | 205 | - | 2016-03-24 | 2024-01-02 |
 | [swift-corelibs-foundation](https://github.com/microsoft/swift-corelibs-foundation) | The Foundation Project, providing core utilities, internationalization, and OS independence | C | 7 | Apache License 2.0 | 2016-03-25 | 2023-06-13 |
 | [AdventureWorksSkiApp](https://github.com/microsoft/AdventureWorksSkiApp) | The AdventureWorks Ski App provides a sample application that can be used to demonstrate the value of building in intelligence into an existing application. This app was first demoed at //build 2016. | C# | 68 | MIT License | 2016-03-25 | 2024-06-13 |
-| [vscode-cpptools](https://github.com/microsoft/vscode-cpptools) | Official repository for the Microsoft C/C++ extension for VS Code. | TypeScript | 5413 | Other | 2016-03-26 | 2024-07-20 |
+| [vscode-cpptools](https://github.com/microsoft/vscode-cpptools) | Official repository for the Microsoft C/C++ extension for VS Code. | TypeScript | 5414 | Other | 2016-03-26 | 2024-07-22 |
 | [vs-diag-samples](https://github.com/microsoft/vs-diag-samples) | Sample applications used by the Visual Studio diagnostics team for blog posts and talks | C# | 17 | MIT License | 2016-03-26 | 2023-10-31 |
 | [HashCalculator](https://github.com/microsoft/HashCalculator) | Helper tool to calculate hashes of data | C# | 36 | MIT License | 2016-03-29 | 2024-04-29 |
 | [TypeSearch](https://github.com/microsoft/TypeSearch) | None | CSS | 367 | - | 2016-03-31 | 2024-03-27 |
@@ -9039,7 +9039,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [PowerBI-Ember](https://github.com/microsoft/PowerBI-Ember) | A set of EmberJS components to seamlessly embed Power BI components into web based applications | JavaScript | 20 | Other | 2016-04-05 | 2024-01-30 |
 | [PowerBI-Node](https://github.com/microsoft/PowerBI-Node) | Node SDK and client library for Power BI REST APIs. | JavaScript | 79 | Other | 2016-04-05 | 2024-01-30 |
 | [OTP4LTE-U](https://github.com/microsoft/OTP4LTE-U) | Open Test Platform for LTE/LTE-U | Matlab | 55 | MIT License | 2016-04-05 | 2024-07-01 |
-| [WSL](https://github.com/microsoft/WSL) | Issues found on WSL | PowerShell | 17015 | MIT License | 2016-04-06 | 2024-07-21 |
+| [WSL](https://github.com/microsoft/WSL) | Issues found on WSL | PowerShell | 17016 | MIT License | 2016-04-06 | 2024-07-22 |
 | [vcc](https://github.com/microsoft/vcc) | A static verifier for concurrent C programs | C# | 128 | Other | 2016-04-07 | 2024-07-01 |
 | [hol-azure-machine-learning](https://github.com/microsoft/hol-azure-machine-learning) | Introduction to Machine Learning and Azure Machine Learning Services. Hands on labs to show Azure Machine Learning features, developing experiments, feature engineering, R and Python Scripting, Production stage, publishing models as web service, RRS and BES usage | JavaScript | 282 | MIT License | 2016-04-10 | 2024-06-30 |
 | [Windows-appsample-familynotes](https://github.com/microsoft/Windows-appsample-familynotes) | Universal Windows Platform (UWP) sample app that shows usage of speech, Cortana, ink, and camera through a family note sharing scenario. | C# | 176 | MIT License | 2016-04-11 | 2024-06-13 |
@@ -9068,7 +9068,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [ChakraCore-wiki](https://github.com/microsoft/ChakraCore-wiki) | A mirror of the ChakraCore wiki to enable pull requests on the Wiki. | None | 21 | Other | 2016-04-22 | 2024-06-04 |
 | [AzureUsageAndBillingPortal](https://github.com/microsoft/AzureUsageAndBillingPortal) | This web application solution enables you to monitor the usage and billing for any Azure subscriptions you have access to. | JavaScript | 199 | Other | 2016-04-22 | 2024-07-19 |
 | [vscode-smoketest-express](https://github.com/microsoft/vscode-smoketest-express) | VS Code Smoke Test repository | JavaScript | 10 | - | 2016-04-26 | 2023-03-12 |
-| [XmlNotepad](https://github.com/microsoft/XmlNotepad) | XML Notepad provides a simple intuitive User Interface for browsing and editing XML documents. | C# | 969 | MIT License | 2016-04-27 | 2024-07-20 |
+| [XmlNotepad](https://github.com/microsoft/XmlNotepad) | XML Notepad provides a simple intuitive User Interface for browsing and editing XML documents. | C# | 968 | MIT License | 2016-04-27 | 2024-07-22 |
 | [Mesh-processing-library](https://github.com/microsoft/Mesh-processing-library) | C++ library and programs that demonstrate mesh processing techniques in computer graphics published at ACM SIGGRAPH in 1992–1998 | C++ | 520 | Other | 2016-04-27 | 2024-06-02 |
 | [service-fabric-issues](https://github.com/microsoft/service-fabric-issues) | This repo is for the reporting of issues found with Azure Service Fabric. | None | 168 | - | 2016-04-27 | 2024-06-07 |
 | [Rosyln-Analyzer-ToStringWithoutOverride](https://github.com/microsoft/Rosyln-Analyzer-ToStringWithoutOverride) | .NET Compiler Platform ("Roslyn") analyzer to disallow calling object.ToString() on types lacking an override. | C# | 11 | MIT License | 2016-04-28 | 2023-01-28 |
@@ -9092,14 +9092,14 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [PhyloD](https://github.com/microsoft/PhyloD) | A suite of machine learning tools for modeling viral adaptation to host immune responses. | None | 12 | Other | 2016-05-13 | 2024-06-20 |
 | [msrd-rest-samples](https://github.com/microsoft/msrd-rest-samples) | Samples showing how to access Microsoft Security Risk Detection REST API from various languages | PowerShell | 14 | MIT License | 2016-05-16 | 2024-04-02 |
 | [ApplicationInsights-statsd](https://github.com/microsoft/ApplicationInsights-statsd) | StatsD backend for Application Insights Node.js | TypeScript | 15 | MIT License | 2016-05-17 | 2023-01-28 |
-| [malmo](https://github.com/microsoft/malmo) | Project Malmo is a platform for Artificial Intelligence experimentation and research built on top of Minecraft. We aim to inspire a new generation of research into challenging new problems presented by this unique environment. --- For installation instructions, scroll down to *Getting Started* below, or visit the project page for more information: | Java | 4039 | MIT License | 2016-05-17 | 2024-07-20 |
+| [malmo](https://github.com/microsoft/malmo) | Project Malmo is a platform for Artificial Intelligence experimentation and research built on top of Minecraft. We aim to inspire a new generation of research into challenging new problems presented by this unique environment. --- For installation instructions, scroll down to *Getting Started* below, or visit the project page for more information: | Java | 4040 | MIT License | 2016-05-17 | 2024-07-21 |
 | [vscode-wiki](https://github.com/microsoft/vscode-wiki) | A repository to make changes to the vscode Wiki on GitHub | None | 223 | Other | 2016-05-19 | 2024-07-10 |
 | [SimpleStubs](https://github.com/microsoft/SimpleStubs) | *SimpleStubs* is a simple mocking framework that supports Universal Windows Platform (UWP), .NET Core and .NET framework. SimpleStubs is currently developed and maintained by Microsoft BigPark Studios in Vancouver. | C# | 66 | Other | 2016-05-19 | 2024-07-19 |
 | [MCAS](https://github.com/microsoft/MCAS) | Powershell module for Microsoft Cloud App Security | PowerShell | 85 | Other | 2016-05-19 | 2024-06-12 |
 | [pgtester](https://github.com/microsoft/pgtester) | A handy gem to help with testing postgresql related scripts or anything postgresql related | Ruby | 32 | Other | 2016-05-20 | 2023-02-07 |
 | [rosco](https://github.com/microsoft/rosco) | A bakery for deployable images | Groovy | 5 | Apache License 2.0 | 2016-05-20 | 2024-06-13 |
 | [node-pty](https://github.com/microsoft/node-pty) | Fork pseudoterminals in Node.JS | TypeScript | 1429 | Other | 2016-05-20 | 2024-07-17 |
-| [DirectXMath](https://github.com/microsoft/DirectXMath) | DirectXMath is an all inline SIMD C++ linear algebra library for use in games and graphics apps | C++ | 1512 | MIT License | 2016-05-23 | 2024-07-18 |
+| [DirectXMath](https://github.com/microsoft/DirectXMath) | DirectXMath is an all inline SIMD C++ linear algebra library for use in games and graphics apps | C++ | 1514 | MIT License | 2016-05-23 | 2024-07-22 |
 | [vsts-nexus](https://github.com/microsoft/vsts-nexus) | VSTS Build Extension for integration with Sonatype Nexus | JavaScript | 12 | MIT License | 2016-05-24 | 2024-07-19 |
 | [spdx-simplify](https://github.com/microsoft/spdx-simplify) | Simplifies a SPDX expression (including ones with sub-expressions) down to a list of license choices. | JavaScript | 9 | Other | 2016-05-25 | 2023-11-16 |
 | [LIS-Tempest](https://github.com/microsoft/LIS-Tempest) | None | Python | 3 | Apache License 2.0 | 2016-05-25 | 2023-06-27 |
@@ -9135,12 +9135,12 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [Cognitive-Emotion-Python](https://github.com/microsoft/Cognitive-Emotion-Python) | Python SDK for the Microsoft Emotion API, part of Cognitive Services | Jupyter Notebook | 64 | Other | 2016-06-03 | 2024-04-22 |
 | [Cognitive-Face-Python](https://github.com/microsoft/Cognitive-Face-Python) | Python SDK for the Microsoft Face API, part of Cognitive Services | Python | 236 | Other | 2016-06-03 | 2024-07-01 |
 | [Cognitive-SpeakerRecognition-Python](https://github.com/microsoft/Cognitive-SpeakerRecognition-Python) | Python SDK for the Microsoft Speaker Recognition API, part of Cognitive Services | Python | 110 | Other | 2016-06-03 | 2024-04-11 |
-| [fluentui](https://github.com/microsoft/fluentui) | Fluent UI web represents a collection of utilities, React components, and web components for building web applications. | TypeScript | 18108 | Other | 2016-06-06 | 2024-07-20 |
+| [fluentui](https://github.com/microsoft/fluentui) | Fluent UI web represents a collection of utilities, React components, and web components for building web applications. | TypeScript | 18111 | Other | 2016-06-06 | 2024-07-22 |
 | [Loop-Sample-Trips-Android](https://github.com/microsoft/Loop-Sample-Trips-Android) | Trip Tracker, a Microsoft Garage project, that automatically detects trips as you move around | Java | 25 | Other | 2016-06-06 | 2024-07-19 |
 | [fb.resnet.torch](https://github.com/microsoft/fb.resnet.torch) | Torch implementation of ResNet from http://arxiv.org/abs/1512.03385 and training scripts | Lua | 9 | Other | 2016-06-07 | 2024-07-19 |
-| [vscode-uri](https://github.com/microsoft/vscode-uri) | The URI implementation that is used in VS Code and its extensions. | TypeScript | 195 | MIT License | 2016-06-07 | 2024-07-19 |
+| [vscode-uri](https://github.com/microsoft/vscode-uri) | The URI implementation that is used in VS Code and its extensions. | TypeScript | 196 | MIT License | 2016-06-07 | 2024-07-22 |
 | [monaco-typescript](https://github.com/microsoft/monaco-typescript) | Moved to https://github.com/microsoft/monaco-editor | None | 215 | - | 2016-06-07 | 2024-02-13 |
-| [monaco-editor](https://github.com/microsoft/monaco-editor) | A browser based code editor | JavaScript | 39216 | MIT License | 2016-06-07 | 2024-07-21 |
+| [monaco-editor](https://github.com/microsoft/monaco-editor) | A browser based code editor | JavaScript | 39225 | MIT License | 2016-06-07 | 2024-07-22 |
 | [monaco-languages](https://github.com/microsoft/monaco-languages) | Moved to https://github.com/microsoft/monaco-editor | None | 374 | - | 2016-06-07 | 2024-05-25 |
 | [monaco-editor-samples](https://github.com/microsoft/monaco-editor-samples) | Moved to https://github.com/microsoft/monaco-editor | None | 996 | - | 2016-06-07 | 2024-05-29 |
 | [checkedc-llvm](https://github.com/microsoft/checkedc-llvm) | Thiis is a *deprecated* repo that contains a version of LLVM that was being modified to support Checked C.   We have moved to a single (mono) repo setup, following the lead of the LLVM community.  See https://github.com/Microsoft/checkedc-clang instead. | LLVM | 98 | Other | 2016-06-07 | 2024-04-07 |
@@ -9164,7 +9164,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [DirectXTK12](https://github.com/microsoft/DirectXTK12) | The DirectX Tool Kit (aka DirectXTK12) is a collection of helper classes for writing DirectX 12 code in C++ | C++ | 1452 | MIT License | 2016-06-17 | 2024-07-19 |
 | [AcademicContent](https://github.com/microsoft/AcademicContent) | Free tech resources for faculty, students, researchers, life-long learners, and academic community builders for use in tech based courses, workshops, and hackathons. | Jupyter Notebook | 2667 | MIT License | 2016-06-17 | 2024-07-16 |
 | [mwt-ds](https://github.com/microsoft/mwt-ds) | Umbrella repository for projects related to the MWT Decision Service | JavaScript | 186 | - | 2016-06-19 | 2024-07-11 |
-| [core](https://github.com/microsoft/core) | Home repository for .NET Core | None | 33 | MIT License | 2016-06-21 | 2024-07-19 |
+| [core](https://github.com/microsoft/core) | Home repository for .NET Core | None | 32 | MIT License | 2016-06-21 | 2024-07-21 |
 | [franceconnect-service-provider-dotnet-webapp-aspnetcore](https://github.com/microsoft/franceconnect-service-provider-dotnet-webapp-aspnetcore) | Kit de démarrage FranceConnect - Fournisseur de service | C# | 4 | MIT License | 2016-06-22 | 2022-08-10 |
 | [franceconnect-data-provider-dotnet-webapi-aspnetcore](https://github.com/microsoft/franceconnect-data-provider-dotnet-webapi-aspnetcore) | Kit de démarrage FranceConnect - Fournisseur de données | C# | 3 | MIT License | 2016-06-22 | 2022-08-10 |
 | [franceconnect-identity-provider-dotnet-webapi-aspnetcore](https://github.com/microsoft/franceconnect-identity-provider-dotnet-webapi-aspnetcore) | Kit de démarrage FranceConnect - Fournisseur d'identité | C# | 3 | MIT License | 2016-06-22 | 2022-08-10 |
@@ -9182,7 +9182,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [libyara.NET](https://github.com/microsoft/libyara.NET) | .NET wrapper for libyara built in C++ CLI used to easily incorporate yara into .NET projects | C++ | 46 | BSD 3-Clause "New" or "Revised" License | 2016-06-24 | 2024-06-24 |
 | [fsharplu](https://github.com/microsoft/fsharplu) | This library provides a set of F# helpers for string manipulations, logging, collection data structures, file operations, text processing, security, async, parsing, diagnostics, configuration files and Json serialization. | F# | 357 | Other | 2016-06-24 | 2024-07-10 |
 | [kafka-proxy-ws](https://github.com/microsoft/kafka-proxy-ws) | A robust, scalable, high performance WebSockets based proxy for Kafka. | JavaScript | 143 | - | 2016-06-26 | 2024-01-12 |
-| [vscode-mssql](https://github.com/microsoft/vscode-mssql) | Visual Studio Code SQL Server extension. | TypeScript | 1515 | Other | 2016-06-26 | 2024-07-20 |
+| [vscode-mssql](https://github.com/microsoft/vscode-mssql) | Visual Studio Code SQL Server extension. | TypeScript | 1515 | Other | 2016-06-26 | 2024-07-21 |
 | [http-post-message](https://github.com/microsoft/http-post-message) | A generic messaging component to send HTTP style message payloads over the window.postMessage API. Requires an implementation of window postMessage proxy such as 'window-post-message-proxy' | TypeScript | 14 | MIT License | 2016-06-27 | 2024-06-23 |
 | [Cognitive-SpeakerRecognition-Android](https://github.com/microsoft/Cognitive-SpeakerRecognition-Android) | Android SDK for Microsoft Speaker Recognition API, part of Cognitive Services | Java | 47 | Other | 2016-06-27 | 2024-06-17 |
 | [Imagine_sylvan-sprinter](https://github.com/microsoft/Imagine_sylvan-sprinter) | Get the assets and code here, and then follow our Sylvan Sprinter tutorial to learn more about how to work with HTML5, JavaScript, and Visual Studio to create your game! Microsoft Imagine connects you with the tools and knowledge you need to create, code, and develop your ideas. http://imagine.microsoft.com | JavaScript | 10 | - | 2016-06-28 | 2023-03-20 |
@@ -9195,14 +9195,14 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [taco-cli](https://github.com/microsoft/taco-cli) | Home of deprecated taco-cli code | TypeScript | 19 | Other | 2016-06-30 | 2023-05-08 |
 | [vstest-docs](https://github.com/microsoft/vstest-docs) | Documentation for the Visual Studio Test Platform.  | None | 214 | Other | 2016-07-05 | 2024-07-03 |
 | [azure-mobile-apps-with-ionic](https://github.com/microsoft/azure-mobile-apps-with-ionic) | Ionic template integrated with Azure mobile app services | JavaScript | 28 | - | 2016-07-06 | 2024-07-19 |
-| [vstest](https://github.com/microsoft/vstest) | Visual Studio Test Platform is the runner and engine that powers test explorer and vstest.console. | C# | 870 | MIT License | 2016-07-07 | 2024-07-19 |
+| [vstest](https://github.com/microsoft/vstest) | Visual Studio Test Platform is the runner and engine that powers test explorer and vstest.console. | C# | 870 | MIT License | 2016-07-07 | 2024-07-22 |
 | [Cognitive-Recommendations-Windows](https://github.com/microsoft/Cognitive-Recommendations-Windows) | Repo | None | 39 | - | 2016-07-07 | 2023-09-08 |
 | [BotFramework-WebChat](https://github.com/microsoft/BotFramework-WebChat) | A highly-customizable web-based client for Azure Bot Services. | HTML | 1560 | MIT License | 2016-07-07 | 2024-07-15 |
 | [Cognitive-Samples-VideoFrameAnalysis](https://github.com/microsoft/Cognitive-Samples-VideoFrameAnalysis) | A library with sample apps for continuous analysis of live video, using the Microsoft Cognitive Services Vision APIs. | C# | 328 | Other | 2016-07-08 | 2024-06-02 |
 | [SaaSApp-ContosoShopkeeper](https://github.com/microsoft/SaaSApp-ContosoShopkeeper) | The focus of this quick start is on leveraging Elastic Pools and understanding how the support the backend for a SaaS application like Contoso ShopKeeper, the design and implementation of the App Services component is considered out of scope.  Since the best way to understand the behavior of Elastic Pools is to experience using them under load, we provide a load generator. The load generator is a console application that targets one or more elastic database instances in an Elastic Pool with a specific write load. You can run multiple instances of the load generator with different settings if you want to create a blended load, e.g., a mix of heavy a light load. In addition, you do not need to target all databases in the pool by the load generator, so you can leave databases you choose without any load.   | None | 12 | - | 2016-07-10 | 2023-01-28 |
 | [vsts-dockerfiles](https://github.com/microsoft/vsts-dockerfiles) | A collection of Visual Studio Team Services and Team Foundation Service Dockerfiles for a variety of tasks and/or examples.  See each folder's readme file for more detailed descriptions. | Dockerfile | 6 | - | 2016-07-11 | 2024-07-19 |
 | [Code-Search](https://github.com/microsoft/Code-Search) | Code Search Admin scripts (SQL and PS) for managing a Code Search on-prem instance | PowerShell | 53 | - | 2016-07-12 | 2024-06-01 |
-| [api-guidelines](https://github.com/microsoft/api-guidelines) | Microsoft REST API Guidelines | None | 22572 | Other | 2016-07-12 | 2024-07-21 |
+| [api-guidelines](https://github.com/microsoft/api-guidelines) | Microsoft REST API Guidelines | None | 22579 | Other | 2016-07-12 | 2024-07-22 |
 | [Cognitive-EventKnowledge-Windows](https://github.com/microsoft/Cognitive-EventKnowledge-Windows) | Windows SDK for the Microsoft Event Knowledge API | C# | 6 | Other | 2016-07-13 | 2023-01-28 |
 | [windows-dev-center-vsts-extension](https://github.com/microsoft/windows-dev-center-vsts-extension) | Visual Studio Team Services (VSTS) extension for performing continuous delivery to the Windows Dev Center store from your automated CI builds | TypeScript | 40 | Other | 2016-07-13 | 2024-02-27 |
 | [Imagine_street-racing](https://github.com/microsoft/Imagine_street-racing) | Get the assets and code here, and then follow our Street Racing tutorial to learn more about how to work with Unity, C#, and Visual Studio to complete this game! Microsoft Imagine connects you with the tools and knowledge you need to create, code, and develop your ideas. http://imagine.microsoft.com | C# | 26 | - | 2016-07-14 | 2024-03-28 |
@@ -9236,8 +9236,8 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [DevSkim](https://github.com/microsoft/DevSkim) | DevSkim is a set of IDE plugins, language analyzers, and rules that provide security "linting" capabilities. | C# | 894 | MIT License | 2016-08-03 | 2024-07-18 |
 | [logstash-output-application-insights](https://github.com/microsoft/logstash-output-application-insights) | A plugin for logstash, written in ruby, that will enable to forward collected and processed data, by logstash input and filter plugins,  to Application Insights Analytics Open Schema | Ruby | 11 | Other | 2016-08-03 | 2024-07-19 |
 | [Resource-Static-Analysis](https://github.com/microsoft/Resource-Static-Analysis) | The Resource Static Analysis enables companies and localization suppliers to quickly add scalable validation checks to help ensure quality doesn't suffer as software and content is localized and data is exchanged between internal workflows and even between companies. The analysis engine is already in use by multiple teams at Microsoft, including Windows (WDG), Office (ASG), and Azure+SQL+VS (C&E). | C# | 19 | MIT License | 2016-08-03 | 2024-06-13 |
-| [LightGBM](https://github.com/microsoft/LightGBM) | A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks. | C++ | 16381 | MIT License | 2016-08-05 | 2024-07-21 |
-| [testfx](https://github.com/microsoft/testfx) | MSTest framework and adapter | C# | 682 | MIT License | 2016-08-06 | 2024-07-21 |
+| [LightGBM](https://github.com/microsoft/LightGBM) | A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks. | C++ | 16386 | MIT License | 2016-08-05 | 2024-07-22 |
+| [testfx](https://github.com/microsoft/testfx) | MSTest framework and adapter | C# | 683 | MIT License | 2016-08-06 | 2024-07-21 |
 | [dumpling](https://github.com/microsoft/dumpling) | Source code for dumpling.web a web service for collecting and indexing mini dumps, core dumps and macho dumps, along with related files and diagnostic information | Python | 8 | MIT License | 2016-08-08 | 2023-02-15 |
 | [rudder](https://github.com/microsoft/rudder) | Static analysis of MSIL based on the analysis-net infrastructure | C# | 19 | MIT License | 2016-08-09 | 2024-07-19 |
 | [Burrow](https://github.com/microsoft/Burrow) | Kafka Consumer Lag Checking | Go | 3 | Apache License 2.0 | 2016-08-10 | 2023-06-12 |
@@ -9292,10 +9292,10 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [sourcemap-toolkit](https://github.com/microsoft/sourcemap-toolkit) | This is a C# library for working with JavaScript SourceMaps. The library is expected to support basic parsing of SourceMaps with the goal of being able to deminify callstacks for code that has been minified. | C# | 58 | MIT License | 2016-09-14 | 2024-07-18 |
 | [FERPlus](https://github.com/microsoft/FERPlus) | This is the FER+ new label annotations for the Emotion FER dataset. | Python | 591 | Other | 2016-09-14 | 2024-07-18 |
 | [cppwinrt](https://github.com/microsoft/cppwinrt) | C++/WinRT | C++ | 1613 | MIT License | 2016-09-14 | 2024-07-20 |
-| [vscode-html-languageservice](https://github.com/microsoft/vscode-html-languageservice) | Language services for HTML | TypeScript | 211 | MIT License | 2016-09-14 | 2024-07-18 |
+| [vscode-html-languageservice](https://github.com/microsoft/vscode-html-languageservice) | Language services for HTML | TypeScript | 212 | MIT License | 2016-09-14 | 2024-07-22 |
 | [monaco-html](https://github.com/microsoft/monaco-html) | Moved to https://github.com/microsoft/monaco-editor | None | 46 | - | 2016-09-14 | 2023-10-04 |
 | [appcenter-cli](https://github.com/microsoft/appcenter-cli) | Command-line Interface (CLI) for Visual Studio App Center | TypeScript | 580 | MIT License | 2016-09-14 | 2024-07-15 |
-| [vcpkg](https://github.com/microsoft/vcpkg) | C++ Library Manager for Windows, Linux, and MacOS | CMake | 22357 | MIT License | 2016-09-15 | 2024-07-21 |
+| [vcpkg](https://github.com/microsoft/vcpkg) | C++ Library Manager for Windows, Linux, and MacOS | CMake | 22397 | MIT License | 2016-09-15 | 2024-07-22 |
 | [VCSamples](https://github.com/microsoft/VCSamples) | Samples for VC++ | C++ | 624 | Other | 2016-09-16 | 2024-07-17 |
 | [appium-windows-driver](https://github.com/microsoft/appium-windows-driver) | None | JavaScript | 5 | Other | 2016-09-19 | 2024-07-19 |
 | [Microsoft.Shared.Dna.Text](https://github.com/microsoft/Microsoft.Shared.Dna.Text) | Windows Data and Analytics Shared Code - Text Processing | C# | 6 | MIT License | 2016-09-19 | 2024-04-22 |
@@ -9316,7 +9316,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [pxt-calliope-core](https://github.com/microsoft/pxt-calliope-core) | PXT gluing code for calliope | C++ | 18 | Other | 2016-09-26 | 2023-11-16 |
 | [ELL](https://github.com/microsoft/ELL) | Embedded Learning Library | C++ | 2255 | Other | 2016-09-27 | 2024-07-17 |
 | [Windows-appsample-customers-orders-database](https://github.com/microsoft/Windows-appsample-customers-orders-database) | This code demonstrates a working customer order database hosted on Azure, implemented in C# and XAML, and ready to form the basis of your Windows Store enterprise app. | TSQL | 521 | MIT License | 2016-09-28 | 2024-07-08 |
-| [rushstack](https://github.com/microsoft/rushstack) | Monorepo for tools developed by the Rush Stack community | TypeScript | 5757 | Other | 2016-09-30 | 2024-07-21 |
+| [rushstack](https://github.com/microsoft/rushstack) | Monorepo for tools developed by the Rush Stack community | TypeScript | 5758 | Other | 2016-09-30 | 2024-07-21 |
 | [aspnet-docker](https://github.com/microsoft/aspnet-docker) | This repository has moved to microsoft/dotnet-framework-docker. | Dockerfile | 133 | MIT License | 2016-09-30 | 2024-05-07 |
 | [dotnet-framework-docker](https://github.com/microsoft/dotnet-framework-docker) | The repo for the official docker images for .NET Framework on Windows Server Core. | Dockerfile | 692 | MIT License | 2016-09-30 | 2024-07-09 |
 | [Partner-Center-Connector](https://github.com/microsoft/Partner-Center-Connector) | Enables you to utilize the Partner Center API to integrate with the Microsoft Identity Management synchronization service. | C# | 13 | MIT License | 2016-09-30 | 2024-04-18 |
@@ -9351,7 +9351,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [DiagManager](https://github.com/microsoft/DiagManager) | Pssdiag/Sqldiag Manager is a graphic interface that provides customization capabilities to collect data for SQL Server using sqldiag collector engine. The data collected can be used by SQL Nexus tool  which help you troubleshoot SQL Server performance problems.  This is the same tool Microsoft SQL Server support engineers use to for data collection to troubleshoot customer's performance problems. | TSQL | 247 | Other | 2016-10-19 | 2024-07-16 |
 | [SqlNexus](https://github.com/microsoft/SqlNexus) | SQL Nexus is a tool that helps you identify the root cause of SQL Server performance issues. It loads and analyzes performance data collected by  SQL LogScout, SQLDiag or PSSDiag. It can dramatically reduce the amount of time you spend manually analyzing data. | C# | 344 | MIT License | 2016-10-19 | 2024-07-20 |
 | [AzureKeyVaultExplorer](https://github.com/microsoft/AzureKeyVaultExplorer) | Azure Key Vault Explorer | C# | 207 | MIT License | 2016-10-19 | 2024-07-16 |
-| [Detours](https://github.com/microsoft/Detours) | Detours is a software package for monitoring and instrumenting API calls on Windows.  It is distributed in source code form. | C++ | 5043 | MIT License | 2016-10-19 | 2024-07-19 |
+| [Detours](https://github.com/microsoft/Detours) | Detours is a software package for monitoring and instrumenting API calls on Windows.  It is distributed in source code form. | C++ | 5044 | MIT License | 2016-10-19 | 2024-07-22 |
 | [R-Interop](https://github.com/microsoft/R-Interop) | .NET managed abstraction layer for communicating with R | C# | 13 | Other | 2016-10-21 | 2023-11-16 |
 | [krabsetw](https://github.com/microsoft/krabsetw) | KrabsETW provides a modern C++ wrapper and a .NET wrapper around the low-level ETW trace consumption functions. | C++ | 579 | Other | 2016-10-24 | 2024-07-18 |
 | [dotnet-framework-docker-samples](https://github.com/microsoft/dotnet-framework-docker-samples) | The .NET Framework Docker samples have moved to https://github.com/Microsoft/dotnet-framework-docker | JavaScript | 171 | MIT License | 2016-10-24 | 2024-01-04 |
@@ -9414,7 +9414,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [vsts-jboss-wildfly](https://github.com/microsoft/vsts-jboss-wildfly) | Visual Studio Team Services Extension for JBoss and WildFly | TypeScript | 5 | MIT License | 2016-11-30 | 2024-06-13 |
 | [pxt-adafruit](https://github.com/microsoft/pxt-adafruit) | Microsoft MakeCode editor for Adafruit Circuit Playground Express | TypeScript | 81 | Other | 2016-12-01 | 2024-04-22 |
 | [Analysis-Services](https://github.com/microsoft/Analysis-Services) | Git repo for Analysis Services samples and community projects | C# | 577 | MIT License | 2016-12-01 | 2024-07-16 |
-| [uf2](https://github.com/microsoft/uf2) | UF2 file format specification | JavaScript | 805 | Other | 2016-12-02 | 2024-07-19 |
+| [uf2](https://github.com/microsoft/uf2) | UF2 file format specification | JavaScript | 806 | Other | 2016-12-02 | 2024-07-21 |
 | [vscode-azure-pack](https://github.com/microsoft/vscode-azure-pack) | A collection of extensions for working with Azure resources in VS Code | None | 11 | MIT License | 2016-12-05 | 2023-06-05 |
 | [BikeSharing360_SingleContainer](https://github.com/microsoft/BikeSharing360_SingleContainer) | BikeSharing360 Single Container Demo | CSS | 26 | MIT License | 2016-12-05 | 2024-07-19 |
 | [BikeSharing360_MultiContainer](https://github.com/microsoft/BikeSharing360_MultiContainer) | BikeSharing360 Multi Container Demo | CSS | 33 | MIT License | 2016-12-05 | 2024-07-19 |
@@ -9453,22 +9453,22 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [Universal-Language-Intelligence-Service](https://github.com/microsoft/Universal-Language-Intelligence-Service) | A wrapper for the microsoft luis cognitive that provides universal language support (after training) using the translate cognitive service | JavaScript | 17 | MIT License | 2016-12-20 | 2023-01-28 |
 | [dpm2012r2wap](https://github.com/microsoft/dpm2012r2wap) | DPM 2012 R2 Resource Provider for Windows Azure Pack | C# | 4 | Other | 2016-12-20 | 2024-06-13 |
 | [vscode-arduino](https://github.com/microsoft/vscode-arduino) | Visual Studio Code extension for Arduino | TypeScript | 1140 | Other | 2016-12-21 | 2024-07-14 |
-| [TemplateStudio](https://github.com/microsoft/TemplateStudio) | Template Studio accelerates the creation of new WinUI 3, WPF, and UWP apps using a wizard-based experience. | Rich Text Format | 2654 | Other | 2016-12-21 | 2024-07-20 |
+| [TemplateStudio](https://github.com/microsoft/TemplateStudio) | Template Studio accelerates the creation of new WinUI 3, WPF, and UWP apps using a wizard-based experience. | Rich Text Format | 2655 | Other | 2016-12-21 | 2024-07-21 |
 | [refreshing-config](https://github.com/microsoft/refreshing-config) | Configuration library that can dynamically refresh configuration values | JavaScript | 8 | MIT License | 2016-12-22 | 2023-01-28 |
 | [refreshing-config-redis](https://github.com/microsoft/refreshing-config-redis) | Redis extension for the refreshing-config library | JavaScript | 5 | Other | 2016-12-22 | 2023-11-16 |
 | [PowerBI-visuals-dbscan](https://github.com/microsoft/PowerBI-visuals-dbscan) | Density-based spatial clustering of applications with noise visualization | R | 12 | - | 2016-12-27 | 2024-04-19 |
 | [powerbi-visuals-dotplot](https://github.com/microsoft/powerbi-visuals-dotplot) | A dot plot is used to show a representation of the distribution of frequencies. It is most often used to show counts of an occurrence. | TypeScript | 17 | Other | 2016-12-27 | 2024-06-25 |
 | [powerbi-visuals-globemap](https://github.com/microsoft/powerbi-visuals-globemap) | A 3D visual using WebGL for plotting locations, with category values displayed as bar heights and heat maps. Shift+Click on bar to change center point. Slicing data points will animate to average location.  | TypeScript | 19 | - | 2016-12-27 | 2024-04-13 |
 | [powerbi-visuals-streamgraph](https://github.com/microsoft/powerbi-visuals-streamgraph) | A stacked area chart with smooth interpolation. Often used to display values over time. | TypeScript | 12 | Other | 2016-12-27 | 2024-06-25 |
-| [tolerant-php-parser](https://github.com/microsoft/tolerant-php-parser) | An early-stage PHP parser designed for IDE usage scenarios. | PHP | 876 | MIT License | 2016-12-28 | 2024-07-18 |
+| [tolerant-php-parser](https://github.com/microsoft/tolerant-php-parser) | An early-stage PHP parser designed for IDE usage scenarios. | PHP | 877 | MIT License | 2016-12-28 | 2024-07-21 |
 | [powerbi-visuals-dualkpi](https://github.com/microsoft/powerbi-visuals-dualkpi) | A visual for displaying two correlated KPIs within a single visual. | TypeScript | 19 | Other | 2016-12-29 | 2024-05-02 |
-| [VoTT](https://github.com/microsoft/VoTT) | Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos.  | TypeScript | 4251 | MIT License | 2016-12-29 | 2024-07-16 |
+| [VoTT](https://github.com/microsoft/VoTT) | Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos.  | TypeScript | 4252 | MIT License | 2016-12-29 | 2024-07-22 |
 | [WindowsIISServerConfig](https://github.com/microsoft/WindowsIISServerConfig) | PROTOTYPE EXAMPLE | PowerShell | 10 | MIT License | 2017-01-03 | 2024-04-09 |
 | [oxa_kitchen_sink](https://github.com/microsoft/oxa_kitchen_sink) | oxa_kitchen_sink | HTML | 4 | Other | 2017-01-05 | 2023-12-15 |
 | [WebRTC-universal-samples](https://github.com/microsoft/WebRTC-universal-samples) | WebRTC samples for the Universal Windows Platform. | None | 177 | - | 2017-01-05 | 2024-07-06 |
 | [typed-rest-client](https://github.com/microsoft/typed-rest-client) | Node Rest and Http Clients with typings for use with TypeScript | TypeScript | 666 | Other | 2017-01-09 | 2024-07-08 |
 | [painless-config-resolver](https://github.com/microsoft/painless-config-resolver) | Yet another opinionated Node.js configuration library providing a set of default resolvers to enable rapid, rich configuration object graphs powered by the deployment environment, config-as-code, and Azure KeyVault secrets. | JavaScript | 10 | Other | 2017-01-09 | 2023-11-28 |
-| [vswhere](https://github.com/microsoft/vswhere) | Locate Visual Studio 2017 and newer installations | C++ | 917 | MIT License | 2017-01-10 | 2024-07-19 |
+| [vswhere](https://github.com/microsoft/vswhere) | Locate Visual Studio 2017 and newer installations | C++ | 918 | MIT License | 2017-01-10 | 2024-07-22 |
 | [xbox-live-developer-tools](https://github.com/microsoft/xbox-live-developer-tools) | The Microsoft Xbox Live Developer Tools enables game developers to create their own tools for the Xbox Live service and access ones created by Microsoft. | C# | 123 | Other | 2017-01-10 | 2024-07-17 |
 | [CSSSQLSupportToolBox](https://github.com/microsoft/CSSSQLSupportToolBox) | Links of various CSS SQL Support Tools | None | 13 | MIT License | 2017-01-11 | 2024-07-19 |
 | [powerbi-visuals-timeseriesdecomposition](https://github.com/microsoft/powerbi-visuals-timeseriesdecomposition) | R-powered custom visual implementing the “Seasonal and Trend decomposition using Loess” algorithm, offering several types of plots. Time series decomposition is an essential analytics tool to understand the time series components and to improve forecasting. | R | 9 | - | 2017-01-12 | 2024-04-19 |
@@ -9484,12 +9484,12 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [ghcrawler-dashboard](https://github.com/microsoft/ghcrawler-dashboard) | Crawler Dashboard to control ghcrawler application. | JavaScript | 34 | MIT License | 2017-01-19 | 2024-04-23 |
 | [mvp](https://github.com/microsoft/mvp) | Microsoft MVP Program GitHub Repository | CSS | 69 | - | 2017-01-19 | 2023-11-16 |
 | [healthvault-samples](https://github.com/microsoft/healthvault-samples) | Developer samples for Microsoft HealthVault  | C# | 30 | Other | 2017-01-19 | 2023-11-16 |
-| [EmbeddedSocial-Swift-API-Library](https://github.com/microsoft/EmbeddedSocial-Swift-API-Library) | Library for interacting with the Microsoft Embedded Social API in your Swift code. | Swift | 9 | MIT License | 2017-01-20 | 2023-09-22 |
+| [EmbeddedSocial-Swift-API-Library](https://github.com/microsoft/EmbeddedSocial-Swift-API-Library) | Library for interacting with the Microsoft Embedded Social API in your Swift code. | Swift | 10 | MIT License | 2017-01-20 | 2024-07-21 |
 | [timelinestoryteller](https://github.com/microsoft/timelinestoryteller) | An expressive visual storytelling environment for presenting timelines on the web and in Power BI. Developed at Microsoft Research. | JavaScript | 358 | Other | 2017-01-20 | 2024-07-16 |
 | [BikeSharing360_BotBuilderApps](https://github.com/microsoft/BikeSharing360_BotBuilderApps) | BikeSharing360 BotBuilderApps | JavaScript | 11 | Other | 2017-01-20 | 2024-07-19 |
 | [ELT](https://github.com/microsoft/ELT) | Embedded Learning Toolkit | TypeScript | 3 | Other | 2017-01-21 | 2023-06-13 |
 | [BotFramework-DirectLineJS](https://github.com/microsoft/BotFramework-DirectLineJS) | JavaScript client library for Microsoft Bot Framework's Direct Line protocol | TypeScript | 196 | MIT License | 2017-01-23 | 2024-07-16 |
-| [git](https://github.com/microsoft/git) | A fork of Git containing Microsoft-specific patches. | C | 740 | Other | 2017-01-23 | 2024-07-18 |
+| [git](https://github.com/microsoft/git) | A fork of Git containing Microsoft-specific patches. | C | 741 | Other | 2017-01-23 | 2024-07-21 |
 | [VSSTESTER](https://github.com/microsoft/VSSTESTER) | Validate the proper operation of Exchange 2010/2013/2016 VSS-based backups. | None | 12 | MIT License | 2017-01-25 | 2023-11-16 |
 | [VFSForGit](https://github.com/microsoft/VFSForGit) | Virtual File System for Git: Enable Git at Enterprise Scale | C# | 5961 | MIT License | 2017-01-25 | 2024-07-20 |
 | [homebrew-mssql-release](https://github.com/microsoft/homebrew-mssql-release) | None | Ruby | 90 | - | 2017-01-26 | 2024-06-20 |
@@ -9502,7 +9502,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [azuredevopslabs](https://github.com/microsoft/azuredevopslabs) | Learn how you can plan smartly, collaborate better, and ship faster with a set of modern development services with Azure DevOps. | CSS | 806 | MIT License | 2017-01-31 | 2024-07-19 |
 | [mssql-scripter](https://github.com/microsoft/mssql-scripter) | Repository for the new SQL cross-platform command line tools | Python | 737 | Other | 2017-01-31 | 2024-07-04 |
 | [r-server-dotnet-visualizing-sql-azure-data-in-r](https://github.com/microsoft/r-server-dotnet-visualizing-sql-azure-data-in-r) | This is a sample R ShinyApp application which shows how to query data from a SQL Azure database in the Microsoft Azure cloud and visualise that data, which contains geospacial coordinates, onto a World Map.  | R | 12 | MIT License | 2017-02-01 | 2024-06-13 |
-| [debug-adapter-protocol](https://github.com/microsoft/debug-adapter-protocol) | Defines a common protocol for debug adapters. | HTML | 1360 | Other | 2017-02-01 | 2024-07-16 |
+| [debug-adapter-protocol](https://github.com/microsoft/debug-adapter-protocol) | Defines a common protocol for debug adapters. | HTML | 1362 | Other | 2017-02-01 | 2024-07-22 |
 | [pgtoolsservice](https://github.com/microsoft/pgtoolsservice) | PostgreSQL Tools Service that provides PostgreSQL Server data management capabilities. | Python | 80 | Other | 2017-02-02 | 2024-07-04 |
 | [vsixbootstrapper](https://github.com/microsoft/vsixbootstrapper) | An installer that can be chained with other packages to locate the latest VSIXInstaller.exe to use for installing VSIX extensions. | C++ | 23 | MIT License | 2017-02-02 | 2024-06-14 |
 | [MHA](https://github.com/microsoft/MHA) | Message Header Analyzer Add-in For Outlook | TypeScript | 275 | MIT License | 2017-02-03 | 2024-07-19 |
@@ -9518,7 +9518,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [GraphEngine](https://github.com/microsoft/GraphEngine) | Microsoft Graph Engine | C# | 2189 | MIT License | 2017-02-09 | 2024-07-07 |
 | [pxt-retro](https://github.com/microsoft/pxt-retro) | A simple processor simulator | TypeScript | 19 | MIT License | 2017-02-10 | 2023-07-26 |
 | [PartsUnlimitedE2E](https://github.com/microsoft/PartsUnlimitedE2E) | Code for the Parts Unlimited - VSE2017 Demo | JavaScript | 18 | MIT License | 2017-02-12 | 2024-06-13 |
-| [AirSim](https://github.com/microsoft/AirSim) | Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research | C++ | 16115 | Other | 2017-02-14 | 2024-07-21 |
+| [AirSim](https://github.com/microsoft/AirSim) | Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research | C++ | 16118 | Other | 2017-02-14 | 2024-07-22 |
 | [acceleratoRs](https://github.com/microsoft/acceleratoRs) | Data science and AI solution accelerator suite that provides templates for prototyping, reporting, and presenting data science analytics of specific domains | HTML | 145 | MIT License | 2017-02-14 | 2024-04-22 |
 | [ConversationLearner-SDK](https://github.com/microsoft/ConversationLearner-SDK) | An SDK for ConversationLearner. REPOSITORY MOVED | TypeScript | 26 | MIT License | 2017-02-14 | 2023-11-16 |
 | [DSCEA](https://github.com/microsoft/DSCEA) | DSC Environment Analyzer (DSCEA) is a simple implementation of PowerShell Desired State Configuration that uses the declarative nature of DSC to scan systems in an environment against a defined reference MOF file and generate compliance reports as to whether systems match the desired configuration. | PowerShell | 197 | Other | 2017-02-15 | 2024-02-28 |
@@ -9537,7 +9537,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [definitelytyped-header-parser](https://github.com/microsoft/definitelytyped-header-parser) | ℹ️ This repo has moved: | TypeScript | 7 | MIT License | 2017-02-21 | 2024-04-13 |
 | [ConversationLearner-Samples](https://github.com/microsoft/ConversationLearner-Samples) | Sample bot using the ConversationLearner SDK | Cool | 79 | MIT License | 2017-02-22 | 2024-05-12 |
 | [sql-data-warehouse-samples](https://github.com/microsoft/sql-data-warehouse-samples) | Snippets and samples for Azure SQL Data Warehouse | C# | 144 | Other | 2017-02-23 | 2024-06-08 |
-| [PowerBI-Developer-Samples](https://github.com/microsoft/PowerBI-Developer-Samples) | A collection of Power BI samples for developer use. | JavaScript | 1498 | MIT License | 2017-02-26 | 2024-07-20 |
+| [PowerBI-Developer-Samples](https://github.com/microsoft/PowerBI-Developer-Samples) | A collection of Power BI samples for developer use. | JavaScript | 1499 | MIT License | 2017-02-26 | 2024-07-22 |
 | [pxt-common-packages](https://github.com/microsoft/pxt-common-packages) | Common packages for Microsoft MakeCode editors | TypeScript | 91 | MIT License | 2017-02-28 | 2024-07-19 |
 | [malmo-challenge](https://github.com/microsoft/malmo-challenge) | Task and example code for the Malmo Collaborative AI Challenge | Python | 152 | MIT License | 2017-03-02 | 2024-07-08 |
 | [Partner-Center-Bot](https://github.com/microsoft/Partner-Center-Bot) | Bot that interacts with Partner Center | C# | 9 | MIT License | 2017-03-03 | 2024-04-18 |
@@ -9576,7 +9576,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [bond-grpc-examples](https://github.com/microsoft/bond-grpc-examples) | [DEPRECATED] A simple example service, demonstrating gRPC integration with the Bond framework. | C# | 17 | MIT License | 2017-03-22 | 2023-04-13 |
 | [Smart-Energy-Foundation-Demo-Stack](https://github.com/microsoft/Smart-Energy-Foundation-Demo-Stack) | A demonstration solution that uses real-time Carbon Emissions and Weather data mining to show how data from several Web based APIs can be mined, visualized and acted upon in a Microsoft Azure solution | C# | 50 | MIT License | 2017-03-23 | 2024-02-02 |
 | [vsts-cd-manager](https://github.com/microsoft/vsts-cd-manager) | This is a small library that can be used to setup Continuous Delivery of Azure web apps thru Visual Studio Team Services | Python | 8 | MIT License | 2017-03-23 | 2023-11-16 |
-| [XamlBehaviorsWpf](https://github.com/microsoft/XamlBehaviorsWpf) | Home for WPF XAML Behaviors on GitHub.  | C# | 821 | MIT License | 2017-03-23 | 2024-07-17 |
+| [XamlBehaviorsWpf](https://github.com/microsoft/XamlBehaviorsWpf) | Home for WPF XAML Behaviors on GitHub.  | C# | 822 | MIT License | 2017-03-23 | 2024-07-22 |
 | [Dynamics365PSA](https://github.com/microsoft/Dynamics365PSA) | Dynamics 365 Customer Engagement Project Service Automation | C# | 20 | MIT License | 2017-03-23 | 2024-01-18 |
 | [powerbi-visuals-spline-interactive](https://github.com/microsoft/powerbi-visuals-spline-interactive) | powerbi-visuals-spline-interactive | None | 5 | MIT License | 2017-03-26 | 2024-04-19 |
 | [PowerBI-visuals-forcasting-exp-interactive](https://github.com/microsoft/PowerBI-visuals-forcasting-exp-interactive) | PowerBI-visuals-forcasting-exp-interactive | None | 5 | MIT License | 2017-03-26 | 2024-04-19 |
@@ -9587,7 +9587,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [MixedRealityDesignLabs_Unity](https://github.com/microsoft/MixedRealityDesignLabs_Unity) | Mixed Reality Design Labs share experimental samples, explorations and learning from Windows Mixed Reality Design group. If you are looking for official toolkit, please use Mixed Reality Toolkit | None | 406 | MIT License | 2017-03-30 | 2024-04-30 |
 | [pxt-bluetooth-max6675](https://github.com/microsoft/pxt-bluetooth-max6675) | A bluetooth service for the MAX6675 temperature probe | TypeScript | 3 | MIT License | 2017-03-31 | 2023-05-19 |
 | [pxt-bluetooth-temperature-sensor](https://github.com/microsoft/pxt-bluetooth-temperature-sensor) | A Bluetooth service to expose a temperature reading. | C++ | 29 | MIT License | 2017-03-31 | 2024-01-21 |
-| [EasyRepro](https://github.com/microsoft/EasyRepro) | Automated UI testing API for Dynamics 365 | C# | 514 | MIT License | 2017-03-31 | 2024-07-12 |
+| [EasyRepro](https://github.com/microsoft/EasyRepro) | Automated UI testing API for Dynamics 365 | C# | 515 | MIT License | 2017-03-31 | 2024-07-21 |
 | [azure-iot-developer-kit](https://github.com/microsoft/azure-iot-developer-kit) | A curated list of awesome Azure IoT Developer Kit projects and resources. | None | 94 | MIT License | 2017-04-01 | 2024-06-30 |
 | [limitur](https://github.com/microsoft/limitur) | Ultra-fast Redis rate limiter | TypeScript | 9 | MIT License | 2017-04-03 | 2023-01-27 |
 | [emat](https://github.com/microsoft/emat) | Exchange Migration Assessment Tool | PowerShell | 14 | MIT License | 2017-04-03 | 2023-05-06 |
@@ -9627,7 +9627,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [PartsUnlimitedMRPmicro](https://github.com/microsoft/PartsUnlimitedMRPmicro) | A microservices-based application using entirely open source software including Docker, Kubernetes, Java, Apache, Hystrix, and MongoDB which creates a web front end and 5 supporting microservices. | JavaScript | 58 | MIT License | 2017-04-22 | 2024-05-23 |
 | [BuildTourHack](https://github.com/microsoft/BuildTourHack) | Build Tour Hackathon | None | 19 | MIT License | 2017-04-24 | 2024-03-11 |
 | [vs-mef](https://github.com/microsoft/vs-mef) | Managed Extensibility Framework (MEF) implementation used by Visual Studio | C# | 420 | MIT License | 2017-04-25 | 2024-07-15 |
-| [IPC](https://github.com/microsoft/IPC) | IPC is a C++ library that provides inter-process communication using shared memory on Windows. A .NET wrapper is available which allows interaction with C++ as well. | C++ | 478 | Other | 2017-04-25 | 2024-07-18 |
+| [IPC](https://github.com/microsoft/IPC) | IPC is a C++ library that provides inter-process communication using shared memory on Windows. A .NET wrapper is available which allows interaction with C++ as well. | C++ | 479 | Other | 2017-04-25 | 2024-07-22 |
 | [DataInsightsAsia](https://github.com/microsoft/DataInsightsAsia) | A collections of resources, samples, and demos created and used by the Data Insights Asia team | TSQL | 7 | MIT License | 2017-04-26 | 2023-07-25 |
 | [openshift-container-platform](https://github.com/microsoft/openshift-container-platform) | OpenShift Container Platform on Azure | Shell | 134 | MIT License | 2017-04-26 | 2024-02-13 |
 | [DataMigrationTeam](https://github.com/microsoft/DataMigrationTeam) | Repository for the Data Migration Team | None | 109 | MIT License | 2017-04-28 | 2024-05-31 |
@@ -9639,10 +9639,10 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [Cognitive-Common-DotNetCore](https://github.com/microsoft/Cognitive-Common-DotNetCore) | .NET Core SDK for components shared by Cognitive Services | C# | 5 | Other | 2017-05-03 | 2023-01-28 |
 | [Windows-tutorials-web](https://github.com/microsoft/Windows-tutorials-web) | Provides code that supports Windows developer tutorials for web technologies. | JavaScript | 17 | MIT License | 2017-05-03 | 2024-01-30 |
 | [Windows-tutorials-inputs-and-devices](https://github.com/microsoft/Windows-tutorials-inputs-and-devices) | Provides code that supports Windows tutorials for Inputs and Devices. | C# | 40 | MIT License | 2017-05-03 | 2024-01-28 |
-| [ClearScript](https://github.com/microsoft/ClearScript) | A library for adding scripting to .NET applications. Supports V8 (Windows, Linux, macOS) and JScript/VBScript (Windows). | C# | 1710 | MIT License | 2017-05-04 | 2024-07-21 |
+| [ClearScript](https://github.com/microsoft/ClearScript) | A library for adding scripting to .NET applications. Supports V8 (Windows, Linux, macOS) and JScript/VBScript (Windows). | C# | 1711 | MIT License | 2017-05-04 | 2024-07-21 |
 | [ModSecurity](https://github.com/microsoft/ModSecurity) | ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis. With over 10,000 deployments world-wide, ModSecurity is the most widely deployed WAF in existence.  | C | 47 | Apache License 2.0 | 2017-05-04 | 2024-06-17 |
 | [json-document-transforms](https://github.com/microsoft/json-document-transforms) | JDT - Transform JSON files using a JSON transformation file | C# | 100 | Other | 2017-05-04 | 2024-06-10 |
-| [vscode-recipes](https://github.com/microsoft/vscode-recipes) | None | JavaScript | 5849 | MIT License | 2017-05-04 | 2024-07-17 |
+| [vscode-recipes](https://github.com/microsoft/vscode-recipes) | None | JavaScript | 5850 | MIT License | 2017-05-04 | 2024-07-22 |
 | [Cortana-Skills-Samples-Build-2017](https://github.com/microsoft/Cortana-Skills-Samples-Build-2017) | This is a collection of Cortana Skills Kit code samples from the Microsoft Build 2017 conference. | C# | 65 | MIT License | 2017-05-04 | 2024-04-22 |
 | [vs-editor-api](https://github.com/microsoft/vs-editor-api) | Microsoft Visual Studio Editor API definitions | C# | 119 | MIT License | 2017-05-05 | 2024-07-03 |
 | [AzureBotServices-scenarios](https://github.com/microsoft/AzureBotServices-scenarios) | Samples for Common Bot Framework Scenarios | C# | 66 | - | 2017-05-05 | 2024-05-26 |
@@ -9655,8 +9655,8 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [FourQlib](https://github.com/microsoft/FourQlib) | FourQlib is an efficient and portable cryptographic library that provides functions for computing elliptic curve based operations on the high-performance FourQ curve. | C | 77 | MIT License | 2017-05-08 | 2024-06-10 |
 | [lsvmtools](https://github.com/microsoft/lsvmtools) | Linux Shielded VM Tools -- Tools for managing shielded Linux VMs for use in Hyper-V | C | 31 | Other | 2017-05-08 | 2024-06-04 |
 | [SSMA-Extensions](https://github.com/microsoft/SSMA-Extensions) | Repo for SQL Server Migration Assistant extensions including converters and samples | C# | 6 | MIT License | 2017-05-09 | 2023-06-12 |
-| [TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) | A reference example for TypeScript and Node with a detailed README describing how to use the two together. | SCSS | 11297 | MIT License | 2017-05-09 | 2024-07-19 |
-| [TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter) | A starter template for TypeScript and React with a detailed README describing how to use the two together. | TypeScript | 11080 | MIT License | 2017-05-09 | 2024-07-13 |
+| [TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) | A reference example for TypeScript and Node with a detailed README describing how to use the two together. | SCSS | 11298 | MIT License | 2017-05-09 | 2024-07-21 |
+| [TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter) | A starter template for TypeScript and React with a detailed README describing how to use the two together. | TypeScript | 11081 | MIT License | 2017-05-09 | 2024-07-22 |
 | [TypeScript-React-Native-Starter](https://github.com/microsoft/TypeScript-React-Native-Starter) | A starter template for TypeScript and React Native with a detailed README describing how to use the two together. | Objective-C | 1912 | MIT License | 2017-05-09 | 2024-06-19 |
 | [TypeScript-Vue-Starter](https://github.com/microsoft/TypeScript-Vue-Starter) | A starter template for TypeScript and Vue with a detailed README describing how to use the two together. | JavaScript | 4448 | MIT License | 2017-05-09 | 2024-07-20 |
 | [TypeScript-WeChat-Starter](https://github.com/microsoft/TypeScript-WeChat-Starter) | A starter template for TypeScript and WeChat with a detailed README describing how to use the two together. | TypeScript | 681 | MIT License | 2017-05-09 | 2024-07-20 |
@@ -9686,7 +9686,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [appcenter-sampleapp-ios-swift](https://github.com/microsoft/appcenter-sampleapp-ios-swift) | App Center Sample App for iOS | Swift | 39 | - | 2017-06-02 | 2024-06-18 |
 | [powerbi-migration-sample](https://github.com/microsoft/powerbi-migration-sample) | A migration sample to help moving content from Power BI Workspace Collections to Power BI Service Embedded. | C# | 15 | MIT License | 2017-06-04 | 2024-01-30 |
 | [movie-db-java-on-azure](https://github.com/microsoft/movie-db-java-on-azure) | Sample movie database app built using Java on Azure | Java | 33 | MIT License | 2017-06-05 | 2024-07-11 |
-| [SynapseML](https://github.com/microsoft/SynapseML) | Simple and Distributed Machine Learning | Scala | 5017 | MIT License | 2017-06-05 | 2024-07-19 |
+| [SynapseML](https://github.com/microsoft/SynapseML) | Simple and Distributed Machine Learning | Scala | 5019 | MIT License | 2017-06-05 | 2024-07-22 |
 | [r-server-loan-chargeoff](https://github.com/microsoft/r-server-loan-chargeoff) | Loan ChargeOff Risk Solution Template with Microsoft ML Server | R | 14 | - | 2017-06-05 | 2023-06-12 |
 | [TestAdapterForGoogleTest](https://github.com/microsoft/TestAdapterForGoogleTest) | Visual Studio extension that enables support for unit testing with Google Test in the IDE | C# | 57 | Other | 2017-06-06 | 2024-07-18 |
 | [PHP-Window-Tests](https://github.com/microsoft/PHP-Window-Tests) | Test and Build tools for PHP on Windows | PowerShell | 5 | - | 2017-06-06 | 2024-04-02 |
@@ -9748,15 +9748,15 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [appcenter-sampleapp-android](https://github.com/microsoft/appcenter-sampleapp-android) | App Center Sample App for Android | Java | 44 | - | 2017-07-11 | 2024-06-25 |
 | [YamUI](https://github.com/microsoft/YamUI) | Reusable component framework for Yammer.com | TypeScript | 395 | Other | 2017-07-12 | 2024-01-04 |
 | [Integration](https://github.com/microsoft/Integration) | Public repository for Microsoft Integration open source samples, code and tools | C# | 91 | MIT License | 2017-07-12 | 2024-05-03 |
-| [roosterjs](https://github.com/microsoft/roosterjs) | roosterjs is a framework-independent javascript rich text editor. | TypeScript | 1133 | Other | 2017-07-13 | 2024-07-21 |
+| [roosterjs](https://github.com/microsoft/roosterjs) | roosterjs is a framework-independent javascript rich text editor. | TypeScript | 1139 | Other | 2017-07-13 | 2024-07-21 |
 | [IIS.ServiceMonitor](https://github.com/microsoft/IIS.ServiceMonitor) | An entrypoint process for running IIS in Windows containers | C++ | 126 | MIT License | 2017-07-13 | 2024-07-02 |
 | [SampleNativeCOMAddin](https://github.com/microsoft/SampleNativeCOMAddin) | None | C | 11 | MIT License | 2017-07-13 | 2024-01-23 |
-| [OpenAPI.NET](https://github.com/microsoft/OpenAPI.NET) | The OpenAPI.NET SDK contains a useful object model for OpenAPI documents in .NET along with common serializers to extract raw OpenAPI JSON and YAML documents from the model. | C# | 1361 | MIT License | 2017-07-14 | 2024-07-19 |
+| [OpenAPI.NET](https://github.com/microsoft/OpenAPI.NET) | The OpenAPI.NET SDK contains a useful object model for OpenAPI documents in .NET along with common serializers to extract raw OpenAPI JSON and YAML documents from the model. | C# | 1361 | MIT License | 2017-07-14 | 2024-07-22 |
 | [vscode-azure-account](https://github.com/microsoft/vscode-azure-account) | Common Azure Login extension for VS Code | TypeScript | 137 | Other | 2017-07-14 | 2024-06-24 |
 | [CSPTASM](https://github.com/microsoft/CSPTASM) | TASM for CSP | C# | 4 | MIT License | 2017-07-15 | 2024-06-13 |
 | [generator-azuresfjava](https://github.com/microsoft/generator-azuresfjava) | Yeoman generator for scaffolding Azure Service Fabric Java projects | JavaScript | 3 | MIT License | 2017-07-17 | 2024-05-09 |
 | [mls-excel-app](https://github.com/microsoft/mls-excel-app) | Microsoft Machine Learning Server Excel Add-in | TypeScript | 22 | - | 2017-07-18 | 2024-04-22 |
-| [napajs](https://github.com/microsoft/napajs) | Napa.js: a multi-threaded JavaScript runtime | C++ | 9245 | Other | 2017-07-18 | 2024-07-19 |
+| [napajs](https://github.com/microsoft/napajs) | Napa.js: a multi-threaded JavaScript runtime | C++ | 9244 | Other | 2017-07-18 | 2024-07-21 |
 | [PQCrypto-PatchforOpenSSH](https://github.com/microsoft/PQCrypto-PatchforOpenSSH) | Patch files to allow post-quantum OQS key exchange libraries to be used with OpenSSH | None | 14 | MIT License | 2017-07-18 | 2022-08-30 |
 | [mesos](https://github.com/microsoft/mesos) | Links and documentation for Mesos work at Microsoft | None | 4 | Creative Commons Attribution 4.0 International | 2017-07-19 | 2023-08-02 |
 | [mesos-jenkins](https://github.com/microsoft/mesos-jenkins) | Jenkins configuration for Windows builds of Mesos | PowerShell | 12 | Apache License 2.0 | 2017-07-19 | 2024-04-05 |
@@ -9798,8 +9798,8 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [TestApi](https://github.com/microsoft/TestApi) | TestApi is a library of test and utility APIs that enables developers and testers to create testing tools and automated tests for .NET and Win32 applications. TestApi provides a set of common test building blocks -- types, data-structures and algorithms -- in a simple, layered, componentized and documented stack. | C# | 55 | Microsoft Public License | 2017-08-08 | 2024-02-02 |
 | [appcenter-sampleapp-xamarin](https://github.com/microsoft/appcenter-sampleapp-xamarin) | App Center Sample App for Xamarin | C# | 18 | - | 2017-08-09 | 2022-11-28 |
 | [posh-cef](https://github.com/microsoft/posh-cef) | Powershell module for creating Common Event Format (CEF) messages that adhere to the CEF specification | PowerShell | 14 | MIT License | 2017-08-10 | 2024-04-05 |
-| [terminal](https://github.com/microsoft/terminal) | The new Windows Terminal and the original Windows console host, all in the same place! | C++ | 94405 | MIT License | 2017-08-11 | 2024-07-21 |
-| [node-native-watchdog](https://github.com/microsoft/node-native-watchdog) | A native module that kills the current process if the event loop is unresponsive | C | 33 | MIT License | 2017-08-14 | 2023-09-21 |
+| [terminal](https://github.com/microsoft/terminal) | The new Windows Terminal and the original Windows console host, all in the same place! | C++ | 94420 | MIT License | 2017-08-11 | 2024-07-22 |
+| [node-native-watchdog](https://github.com/microsoft/node-native-watchdog) | A native module that kills the current process if the event loop is unresponsive | C | 34 | MIT License | 2017-08-14 | 2024-07-21 |
 | [vscode-cosmosdb](https://github.com/microsoft/vscode-cosmosdb) | Azure Databases extension for VS Code | TypeScript | 152 | MIT License | 2017-08-14 | 2024-07-05 |
 | [PSDocs](https://github.com/microsoft/PSDocs) | Generate documentation from Infrastructure as Code (IaC). | C# | 138 | MIT License | 2017-08-15 | 2024-07-13 |
 | [AzureNetworkWatcherNSGFlowLogsConnector](https://github.com/microsoft/AzureNetworkWatcherNSGFlowLogsConnector) | Ingest NSG flow logs and transmit to your log analytics system. | C# | 38 | MIT License | 2017-08-15 | 2024-07-19 |
@@ -9826,10 +9826,10 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [python-sklearn-classifier-cookiecutter](https://github.com/microsoft/python-sklearn-classifier-cookiecutter) | Cookiecutter template for testing Python scikit-learn classifiers. | Python | 30 | MIT License | 2017-08-31 | 2024-06-09 |
 | [python-sklearn-clustering-cookiecutter](https://github.com/microsoft/python-sklearn-clustering-cookiecutter) | Cookiecutter template for testing Python scikit-learn clustering learners. | Python | 14 | MIT License | 2017-08-31 | 2023-12-23 |
 | [python-sklearn-regression-cookiecutter](https://github.com/microsoft/python-sklearn-regression-cookiecutter) | Cookiecutter template for testing Python scikit-learn regression learners. | Python | 13 | MIT License | 2017-08-31 | 2024-06-24 |
-| [azure-maven-archetypes](https://github.com/microsoft/azure-maven-archetypes) | Maven Archetypes for Microsoft Azure Services | Scala | 21 | MIT License | 2017-09-01 | 2024-06-24 |
+| [azure-maven-archetypes](https://github.com/microsoft/azure-maven-archetypes) | Maven Archetypes for Microsoft Azure Services | Scala | 22 | MIT License | 2017-09-01 | 2024-07-22 |
 | [OpenSourceLabs](https://github.com/microsoft/OpenSourceLabs) | Open Source Labs, from Microsoft with Love ♥ | JavaScript | 38 | MIT License | 2017-09-04 | 2024-05-23 |
 | [appcenter-sampleapp-macos-swift](https://github.com/microsoft/appcenter-sampleapp-macos-swift) | App Center Sample App for macOS | Swift | 15 | - | 2017-09-05 | 2024-04-13 |
-| [java-debug](https://github.com/microsoft/java-debug) | The debug server implementation for Java. It conforms to the debug protocol of Visual Studio Code (DAP, Debugger Adapter Protocol). | Java | 323 | Other | 2017-09-06 | 2024-07-21 |
+| [java-debug](https://github.com/microsoft/java-debug) | The debug server implementation for Java. It conforms to the debug protocol of Visual Studio Code (DAP, Debugger Adapter Protocol). | Java | 323 | Other | 2017-09-06 | 2024-07-22 |
 | [vscode-java-debug](https://github.com/microsoft/vscode-java-debug) | Java Debugger for Visual Studio Code. | TypeScript | 516 | Other | 2017-09-06 | 2024-07-19 |
 | [workbooks](https://github.com/microsoft/workbooks) | Workbooks is an interactive programming environment that’s perfect for experimentation, learning, and documentation: an educational tool for learning the myriad of .NET platforms, APIs, and libraries. | C# | 467 | MIT License | 2017-09-06 | 2024-06-04 |
 | [typescript-styled-plugin](https://github.com/microsoft/typescript-styled-plugin) | TypeScript server plugin that adds intellisense to styled component css strings | JavaScript | 839 | MIT License | 2017-09-07 | 2024-07-18 |
@@ -9860,7 +9860,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [Komodo](https://github.com/microsoft/Komodo) | Formally-verified reference monitor for a secure isolated execution ("enclave") environment on ARM TrustZone | C | 101 | Other | 2017-09-22 | 2024-03-13 |
 | [DLWorkspaceUsers](https://github.com/microsoft/DLWorkspaceUsers) | Repo for documentation to DL Workspace Users | None | 3 | MIT License | 2017-09-23 | 2023-11-16 |
 | [wsplice](https://github.com/microsoft/wsplice) | :twisted_rightwards_arrows: A fast websocket multiplexer | Go | 29 | MIT License | 2017-09-25 | 2024-07-16 |
-| [pai](https://github.com/microsoft/pai) | Resource scheduling and cluster management for AI | JavaScript | 2611 | MIT License | 2017-09-25 | 2024-07-17 |
+| [pai](https://github.com/microsoft/pai) | Resource scheduling and cluster management for AI | JavaScript | 2612 | MIT License | 2017-09-25 | 2024-07-21 |
 | [VS-ColorThemes](https://github.com/microsoft/VS-ColorThemes) | Visual Studio Extension that installs additional color themes | Rich Text Format | 334 | MIT License | 2017-09-25 | 2024-07-17 |
 | [DbgShell](https://github.com/microsoft/DbgShell) | A PowerShell front-end for the Windows debugger engine. | C# | 672 | MIT License | 2017-09-26 | 2024-07-20 |
 | [navcontainerhelper](https://github.com/microsoft/navcontainerhelper) | Official Microsoft repository for BcContainerHelper, a PowerShell module, which makes it easier to work with Business Central Containers on Docker. | PowerShell | 370 | MIT License | 2017-09-26 | 2024-07-18 |
@@ -9877,7 +9877,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [samples-for-ai](https://github.com/microsoft/samples-for-ai) | Samples for getting started with deep learning across TensorFlow, CNTK, Theano and more. | C# | 590 | MIT License | 2017-10-09 | 2024-04-26 |
 | [vscode-azurearmtools](https://github.com/microsoft/vscode-azurearmtools) | Azure Resource Manager Tools for Visual Studio Code | TypeScript | 134 | MIT License | 2017-10-09 | 2024-07-19 |
 | [typescript-template-language-service-decorator](https://github.com/microsoft/typescript-template-language-service-decorator) | Framework for decorating a TypeScript language service with additional support for languages embedded inside of template strings | TypeScript | 72 | MIT License | 2017-10-10 | 2024-06-29 |
-| [vscode-python](https://github.com/microsoft/vscode-python) | Python extension for Visual Studio Code | TypeScript | 4260 | MIT License | 2017-10-10 | 2024-07-19 |
+| [vscode-python](https://github.com/microsoft/vscode-python) | Python extension for Visual Studio Code | TypeScript | 4260 | MIT License | 2017-10-10 | 2024-07-21 |
 | [Open-Maps](https://github.com/microsoft/Open-Maps) | Microsoft Open Data Team  | None | 127 | Creative Commons Attribution 4.0 International | 2017-10-10 | 2024-05-09 |
 | [typescript-lit-html-plugin](https://github.com/microsoft/typescript-lit-html-plugin) | TypeScript server plugin that adds intellisense for lit-html template strings | TypeScript | 253 | MIT License | 2017-10-11 | 2024-06-12 |
 | [nav-arm-templates](https://github.com/microsoft/nav-arm-templates) | ARM (Azure Resource Manager) templates for Microsoft Dynamics NAV | PowerShell | 53 | MIT License | 2017-10-11 | 2024-07-16 |
@@ -9922,9 +9922,9 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [OCP-ISV-Azure-Container-Service-Hands-on-Lab](https://github.com/microsoft/OCP-ISV-Azure-Container-Service-Hands-on-Lab) | None | None | 5 | MIT License | 2017-10-31 | 2023-05-10 |
 | [OCP-ISV-Power-BI-Hands-on-Lab](https://github.com/microsoft/OCP-ISV-Power-BI-Hands-on-Lab) | None | None | 8 | MIT License | 2017-10-31 | 2024-01-30 |
 | [OCP-ISV-Machine-Learning-Hands-on-Lab](https://github.com/microsoft/OCP-ISV-Machine-Learning-Hands-on-Lab) | None | None | 9 | MIT License | 2017-10-31 | 2023-03-12 |
-| [charticulator](https://github.com/microsoft/charticulator) | Interactive Layout-Aware Construction of Bespoke Charts | TypeScript | 831 | Other | 2017-10-31 | 2024-07-20 |
+| [charticulator](https://github.com/microsoft/charticulator) | Interactive Layout-Aware Construction of Bespoke Charts | TypeScript | 832 | Other | 2017-10-31 | 2024-07-22 |
 | [OCP-ISV-Innovation-Day-Introduction](https://github.com/microsoft/OCP-ISV-Innovation-Day-Introduction) | None | None | 3 | MIT License | 2017-11-01 | 2023-01-28 |
-| [azuredatastudio](https://github.com/microsoft/azuredatastudio) | Azure Data Studio is a data management and development tool with connectivity to popular cloud and on-premises databases. Azure Data Studio supports Windows, macOS, and Linux, with immediate capability to connect to Azure SQL and SQL Server. Browse the extension library for more database support options including MySQL, PostgreSQL, and MongoDB. | TypeScript | 7506 | MIT License | 2017-11-02 | 2024-07-20 |
+| [azuredatastudio](https://github.com/microsoft/azuredatastudio) | Azure Data Studio is a data management and development tool with connectivity to popular cloud and on-premises databases. Azure Data Studio supports Windows, macOS, and Linux, with immediate capability to connect to Azure SQL and SQL Server. Browse the extension library for more database support options including MySQL, PostgreSQL, and MongoDB. | TypeScript | 7507 | MIT License | 2017-11-02 | 2024-07-21 |
 | [FirewallEventMonitor](https://github.com/microsoft/FirewallEventMonitor) | Listens for Firewall rule match events generated by Microsoft Hyper-V Virtual Filter Protocol (VFP) extension. | C++ | 26 | MIT License | 2017-11-02 | 2023-11-16 |
 | [azure-python-redis-queue-processor](https://github.com/microsoft/azure-python-redis-queue-processor) | High scale Redis RQ based parallel job processing example written in Python running on Azure Linux VMs. | Python | 10 | MIT License | 2017-11-02 | 2023-11-16 |
 | [vscode-node-azure-pack](https://github.com/microsoft/vscode-node-azure-pack) | Node Azure Tools for VS Code | None | 17 | MIT License | 2017-11-02 | 2024-02-04 |
@@ -9938,7 +9938,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [AppCenter-Test-Espresso-Extensions](https://github.com/microsoft/AppCenter-Test-Espresso-Extensions) | Extension library to run Espresso tests on Visual Studio App Center | Java | 11 | MIT License | 2017-11-11 | 2023-03-12 |
 | [AppCenter-Test-XCUITest-Extensions](https://github.com/microsoft/AppCenter-Test-XCUITest-Extensions) | Extension library to run XCUITest on Visual Studio App Center | Shell | 13 | MIT License | 2017-11-11 | 2022-11-28 |
 | [AppCenter-Test-Appium-Java-Extensions](https://github.com/microsoft/AppCenter-Test-Appium-Java-Extensions) | Extension library to run Appium Java tests on Visual Studio App Center | Java | 13 | MIT License | 2017-11-11 | 2022-10-22 |
-| [vscode-java-test](https://github.com/microsoft/vscode-java-test) | Run and debug Java test cases in Visual Studio Code. | Java | 290 | Other | 2017-11-13 | 2024-07-09 |
+| [vscode-java-test](https://github.com/microsoft/vscode-java-test) | Run and debug Java test cases in Visual Studio Code. | Java | 290 | Other | 2017-11-13 | 2024-07-22 |
 | [gated-graph-neural-network-samples](https://github.com/microsoft/gated-graph-neural-network-samples) | Sample Code for Gated Graph Neural Networks | Python | 1024 | MIT License | 2017-11-13 | 2024-06-20 |
 | [microsoft-iot-central-firmware](https://github.com/microsoft/microsoft-iot-central-firmware) | Sample firmware for Azure IoT Central [MOVED - see readme below] | None | 17 | - | 2017-11-13 | 2024-06-13 |
 | [pxt-gestures](https://github.com/microsoft/pxt-gestures) | A gesture recognition package for MakeCode - beta | TypeScript | 8 | MIT License | 2017-11-14 | 2023-06-05 |
@@ -9949,7 +9949,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [linux-vm-tools](https://github.com/microsoft/linux-vm-tools) | Hyper-V Linux Guest VM Enhancements | Shell | 800 | MIT License | 2017-11-15 | 2024-07-11 |
 | [ExploitProtectionConfiguration](https://github.com/microsoft/ExploitProtectionConfiguration) | Common configurations for Exploit Protection settings in Windows 10. | None | 10 | MIT License | 2017-11-16 | 2024-03-19 |
 | [azure-linux-kernel](https://github.com/microsoft/azure-linux-kernel) | Patches for building an Azure-tuned Linux kernel. | None | 48 | Other | 2017-11-16 | 2024-06-17 |
-| [tsyringe](https://github.com/microsoft/tsyringe) | Lightweight dependency injection container for JavaScript/TypeScript | TypeScript | 4937 | MIT License | 2017-11-17 | 2024-07-21 |
+| [tsyringe](https://github.com/microsoft/tsyringe) | Lightweight dependency injection container for JavaScript/TypeScript | TypeScript | 4939 | MIT License | 2017-11-17 | 2024-07-22 |
 | [DWScripter](https://github.com/microsoft/DWScripter) | DWScripter is a scripting tool for Analytics Platform System and Azure SQLDW. This Console app will script the ddl and dml for both APS and SQLDW. | C# | 18 | MIT License | 2017-11-21 | 2023-03-12 |
 | [PFE](https://github.com/microsoft/PFE) | Public repo for PFE projects | PowerShell | 25 | MIT License | 2017-11-21 | 2023-11-19 |
 | [AzureSearch_JFK_Files](https://github.com/microsoft/AzureSearch_JFK_Files) | This repo contains the sample code of the Azure Search and Cognitive Services used to provide insights and analysis around the JFK Files. | TypeScript | 384 | MIT License | 2017-11-21 | 2024-07-15 |
@@ -9971,7 +9971,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [SmartHotel360-Registration](https://github.com/microsoft/SmartHotel360-Registration) | SmartHotel360 - Registration (AKS with Windows Containers) | JavaScript | 28 | MIT License | 2017-11-29 | 2024-05-23 |
 | [unitysetup.powershell](https://github.com/microsoft/unitysetup.powershell) | Powershell module for interfacing with Unity installs and projects. | PowerShell | 177 | MIT License | 2017-11-30 | 2024-07-20 |
 | [service-fabric-explorer](https://github.com/microsoft/service-fabric-explorer) | Service Fabric Explorer is a web based dashboard for visualizing the state of a Service Fabric cluster. | TypeScript | 107 | MIT License | 2017-11-30 | 2024-07-03 |
-| [AutonomousDrivingCookbook](https://github.com/microsoft/AutonomousDrivingCookbook) | Scenarios, tutorials and demos for Autonomous Driving | Jupyter Notebook | 2302 | MIT License | 2017-11-30 | 2024-07-18 |
+| [AutonomousDrivingCookbook](https://github.com/microsoft/AutonomousDrivingCookbook) | Scenarios, tutorials and demos for Autonomous Driving | Jupyter Notebook | 2302 | MIT License | 2017-11-30 | 2024-07-22 |
 | [SmartHotel360-SentimentAnalysis](https://github.com/microsoft/SmartHotel360-SentimentAnalysis) | SmartHotel360 Sentiment Analysis App | JavaScript | 43 | MIT License | 2017-12-01 | 2024-02-29 |
 | [Connect-keynote_AI_demos](https://github.com/microsoft/Connect-keynote_AI_demos) | This repo contains AI demos from recently concluded Connect() 2017 keynote demos! | C# | 35 | MIT License | 2017-12-01 | 2024-02-24 |
 | [slngen](https://github.com/microsoft/slngen) | Visual Studio solution generator | C# | 339 | MIT License | 2017-12-01 | 2024-06-26 |
@@ -10039,7 +10039,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [VSDebugAdapterHost](https://github.com/microsoft/VSDebugAdapterHost) | Visual Studio Debug Adapter Host | C# | 72 | MIT License | 2018-01-23 | 2024-07-10 |
 | [bingapi-hololens-demo](https://github.com/microsoft/bingapi-hololens-demo) | Demo project showcasing Bing API Adaptive Cards rendered on HoloLens via image recognition. | JavaScript | 6 | MIT License | 2018-01-26 | 2023-11-16 |
 | [regexp-i18n](https://github.com/microsoft/regexp-i18n) | regular expression internationalization library | TypeScript | 16 | MIT License | 2018-01-27 | 2023-11-13 |
-| [MentalHealthPlatform](https://github.com/microsoft/MentalHealthPlatform) | A mental health platform that can be deployed for universities or companies | TypeScript | 100 | MIT License | 2018-01-28 | 2024-07-15 |
+| [MentalHealthPlatform](https://github.com/microsoft/MentalHealthPlatform) | A mental health platform that can be deployed for universities or companies | TypeScript | 101 | MIT License | 2018-01-28 | 2024-07-21 |
 | [SpectrumDBClient](https://github.com/microsoft/SpectrumDBClient) | ETSI compliant PAWS client for connecting an LTE small cell to a TV White Space spectrum database | C | 11 | MIT License | 2018-01-30 | 2023-11-16 |
 | [MSBuildSdks](https://github.com/microsoft/MSBuildSdks) | MSBuild project SDKs | C# | 439 | MIT License | 2018-01-30 | 2024-07-17 |
 | [openvpn](https://github.com/microsoft/openvpn) | Post-quantum Cryptography VPN (openvpn subproject) | C | 12 | Other | 2018-01-30 | 2023-08-03 |
@@ -10093,10 +10093,10 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [pxt-johnny-five](https://github.com/microsoft/pxt-johnny-five) | A sample MakeCode editor using Johnny Five | TypeScript | 41 | MIT License | 2018-02-28 | 2024-07-13 |
 | [msix-packaging](https://github.com/microsoft/msix-packaging) | MSIX SDK | C | 965 | MIT License | 2018-02-28 | 2024-07-18 |
 | [mssql-server-ha](https://github.com/microsoft/mssql-server-ha) | Contains source code for the mssql-server-ha package | Go | 21 | MIT License | 2018-02-28 | 2024-05-12 |
-| [tsdoc](https://github.com/microsoft/tsdoc) | A doc comment standard for TypeScript | TypeScript | 4681 | MIT License | 2018-03-01 | 2024-07-19 |
+| [tsdoc](https://github.com/microsoft/tsdoc) | A doc comment standard for TypeScript | TypeScript | 4682 | MIT License | 2018-03-01 | 2024-07-21 |
 | [Windows-Machine-Learning](https://github.com/microsoft/Windows-Machine-Learning) | Samples and Tools for Windows ML. | C++ | 1010 | MIT License | 2018-03-01 | 2024-07-20 |
 | [azure-cloudera-vm-metrics-logging](https://github.com/microsoft/azure-cloudera-vm-metrics-logging) | Azure Cloudera linux vm metrics logging with fluentd to azure storage | Shell | 4 | MIT License | 2018-03-01 | 2023-01-28 |
-| [fast](https://github.com/microsoft/fast) | The adaptive interface system for modern web experiences. | TypeScript | 9166 | Other | 2018-03-02 | 2024-07-20 |
+| [fast](https://github.com/microsoft/fast) | The adaptive interface system for modern web experiences. | TypeScript | 9168 | Other | 2018-03-02 | 2024-07-22 |
 | [project-ruby-rails-container](https://github.com/microsoft/project-ruby-rails-container) | Sample Ruby application targetting rails framework | Ruby | 4 | MIT License | 2018-03-05 | 2023-03-12 |
 | [FastTrack](https://github.com/microsoft/FastTrack) | GitHub home for Microsoft FastTrack | PowerShell | 156 | MIT License | 2018-03-05 | 2024-07-19 |
 | [fasttrack-smat-workbook-generator](https://github.com/microsoft/fasttrack-smat-workbook-generator) | Generates a workbook from the output of the SMAT tool | C# | 14 | MIT License | 2018-03-05 | 2024-05-15 |
@@ -10122,7 +10122,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [vmss-distribute-unique-certificates](https://github.com/microsoft/vmss-distribute-unique-certificates) | Example Python / C# project that generates a unique certificate per Linux VM in a VM Scale Set and stores certs in KeyVault. | C# | 6 | MIT License | 2018-03-15 | 2023-11-16 |
 | [vscode-appcenter](https://github.com/microsoft/vscode-appcenter) | App Center extension for VS Code | JavaScript | 22 | MIT License | 2018-03-16 | 2024-05-10 |
 | [fluent-plugin-clouderametrics](https://github.com/microsoft/fluent-plugin-clouderametrics) | Fluentd plugin for Cloudera metrics | Ruby | 5 | MIT License | 2018-03-16 | 2023-11-16 |
-| [Microsoft-365-Defender-Hunting-Queries](https://github.com/microsoft/Microsoft-365-Defender-Hunting-Queries) | Sample queries for Advanced hunting in Microsoft 365 Defender | Jupyter Notebook | 1891 | MIT License | 2018-03-18 | 2024-07-18 |
+| [Microsoft-365-Defender-Hunting-Queries](https://github.com/microsoft/Microsoft-365-Defender-Hunting-Queries) | Sample queries for Advanced hunting in Microsoft 365 Defender | Jupyter Notebook | 1892 | MIT License | 2018-03-18 | 2024-07-21 |
 | [AnyContainer](https://github.com/microsoft/AnyContainer) | Allows swapping out IoC containers without rewriting registration or resolve code. | C# | 13 | MIT License | 2018-03-18 | 2023-11-16 |
 | [PSRule](https://github.com/microsoft/PSRule) | Validate infrastructure as code (IaC) and objects using PowerShell rules. | C# | 367 | MIT License | 2018-03-19 | 2024-07-19 |
 | [vscode-languageserver-protocol-foldingprovider](https://github.com/microsoft/vscode-languageserver-protocol-foldingprovider) | Proposed extension to the language server protocol: folding provider  | TypeScript | 4 | MIT License | 2018-03-19 | 2023-11-16 |
@@ -10155,17 +10155,17 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [skype-interviews-docs](https://github.com/microsoft/skype-interviews-docs) | Sample code showcasing how to use the Skype Interviews API  | PowerShell | 11 | MIT License | 2018-03-23 | 2023-11-16 |
 | [appcenter-sampleapp-react-native](https://github.com/microsoft/appcenter-sampleapp-react-native) | App Center Sample App for React Native | TypeScript | 83 | MIT License | 2018-03-24 | 2024-03-05 |
 | [monaco-editor-webpack-plugin](https://github.com/microsoft/monaco-editor-webpack-plugin) | Moved to https://github.com/microsoft/monaco-editor | None | 483 | - | 2018-03-26 | 2024-01-30 |
-| [PowerApps-Samples](https://github.com/microsoft/PowerApps-Samples) | Sample code for Power Apps, including Dataverse, model-driven apps, canvas apps, Power Apps component framework, portals, and AI Builder. | C# | 1447 | MIT License | 2018-03-26 | 2024-07-20 |
+| [PowerApps-Samples](https://github.com/microsoft/PowerApps-Samples) | Sample code for Power Apps, including Dataverse, model-driven apps, canvas apps, Power Apps component framework, portals, and AI Builder. | C# | 1449 | MIT License | 2018-03-26 | 2024-07-21 |
 | [containerized-microservices-pipeline](https://github.com/microsoft/containerized-microservices-pipeline) | Reference solution for Production micro-services pipeline built on VSTS, docker, kubernetes and full CI / CD pipeline. | C# | 75 | MIT License | 2018-03-26 | 2024-05-07 |
 | [inventory-hub-java-on-azure](https://github.com/microsoft/inventory-hub-java-on-azure) | Sample Inventory Hub App using Serverless and Event-driven Java - on Azure with Spring Boot, Tomcat, Functions, Event Hub and Cosmos DB | Java | 24 | MIT License | 2018-03-28 | 2024-05-23 |
 | [vscode-postgresql](https://github.com/microsoft/vscode-postgresql) | PostgreSQL extension for VSCODE | TypeScript | 410 | Other | 2018-03-28 | 2024-07-19 |
-| [powerbi-desktop-samples](https://github.com/microsoft/powerbi-desktop-samples) | Power BI Desktop sample files for the monthly release. Here you can find the PBIX files used in the monthly release videos. | None | 1346 | MIT License | 2018-03-28 | 2024-07-18 |
+| [powerbi-desktop-samples](https://github.com/microsoft/powerbi-desktop-samples) | Power BI Desktop sample files for the monthly release. Here you can find the PBIX files used in the monthly release videos. | None | 1347 | MIT License | 2018-03-28 | 2024-07-21 |
 | [Intune-Resource-Access](https://github.com/microsoft/Intune-Resource-Access) | Sample code and scripts for interfacing with the Intune Resource Access APIs. | C# | 54 | MIT License | 2018-03-28 | 2024-03-05 |
 | [windows-admin-center-extension-template](https://github.com/microsoft/windows-admin-center-extension-template) | This is the code template for an empty extension that you can use to start writing an extension using the Windows Admin Center (previously Project Honolulu) SDK. | TypeScript | 21 | MIT License | 2018-03-29 | 2023-11-22 |
 | [FixContab](https://github.com/microsoft/FixContab) | Simple program to reorder MAPI providers so the Contact Address Book is first. | C | 0 | MIT License | 2018-03-29 | 2023-10-06 |
 | [windows-admin-center-sdk](https://github.com/microsoft/windows-admin-center-sdk) | SDK including documentation and sample code for developing extensions for Windows Admin Center (previously Project Honolulu) | TypeScript | 118 | Other | 2018-03-29 | 2024-05-31 |
 | [pmwcas](https://github.com/microsoft/pmwcas) | pmwcas | C++ | 133 | MIT License | 2018-03-30 | 2024-07-17 |
-| [winfile](https://github.com/microsoft/winfile) | Original Windows File Manager (winfile) with enhancements | C | 6768 | MIT License | 2018-04-02 | 2024-07-20 |
+| [winfile](https://github.com/microsoft/winfile) | Original Windows File Manager (winfile) with enhancements | C | 6769 | MIT License | 2018-04-02 | 2024-07-21 |
 | [schemy](https://github.com/microsoft/schemy) | A lightweight embeddable Scheme-like interpreter for configuration  | C# | 300 | MIT License | 2018-04-02 | 2024-06-25 |
 | [json-schemas](https://github.com/microsoft/json-schemas) | Publishing repository for different schemas used by products and services from Microsoft | None | 65 | MIT License | 2018-04-02 | 2024-07-18 |
 | [PocketSkills](https://github.com/microsoft/PocketSkills) | Mobile web application shell for educational content and interactive skill practices using a chat-like interface. | JavaScript | 10 | MIT License | 2018-04-03 | 2024-05-23 |
@@ -10175,7 +10175,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [PowerBI-visuals-TextFilter](https://github.com/microsoft/PowerBI-visuals-TextFilter) | Text Filter PowerBI Visualization | TypeScript | 22 | MIT License | 2018-04-05 | 2024-03-24 |
 | [PowerBI-visuals-TimelineStoryteller](https://github.com/microsoft/PowerBI-visuals-TimelineStoryteller) | Timeline Storyteller PowerBI Visualization | TypeScript | 21 | MIT License | 2018-04-05 | 2024-05-17 |
 | [PowerBI-visuals-CardBrowser](https://github.com/microsoft/PowerBI-visuals-CardBrowser) | Card Browser PowerBI Visualization | TypeScript | 24 | MIT License | 2018-04-05 | 2024-07-16 |
-| [Windows-Camera](https://github.com/microsoft/Windows-Camera) | Tools and samples for camera related APIs on Windows | C# | 202 | MIT License | 2018-04-05 | 2024-07-20 |
+| [Windows-Camera](https://github.com/microsoft/Windows-Camera) | Tools and samples for camera related APIs on Windows | C# | 203 | MIT License | 2018-04-05 | 2024-07-22 |
 | [TFSDemoGenerator](https://github.com/microsoft/TFSDemoGenerator) | A utility to help create projects on Visual Studio Team Foundation Server  with pre-populated sample content that includes source code, work items, iterations, service endpoints, build and release definitions based on a template you choose.  The purpose of this system is to simplify working with the hands-on-labs, demos and other education material provided by the Microsoft Visual Studio Marketing team.  | None | 15 | MIT License | 2018-04-06 | 2024-06-13 |
 | [java-webapp-oidc-migrate-poc](https://github.com/microsoft/java-webapp-oidc-migrate-poc) | Demonstrates a pattern (using the adal4j library) for integrating Azure AD authentication with a legacy authentication system, and illustrating one approach to migrating users from the legacy auth system over to Azure AD. | Java | 5 | MIT License | 2018-04-06 | 2023-06-12 |
 | [IIS.Compression](https://github.com/microsoft/IIS.Compression) | Compression schemes for Microsoft IIS | C++ | 80 | Other | 2018-04-07 | 2024-07-06 |
@@ -10225,7 +10225,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [VSTSAgent.PowerShell](https://github.com/microsoft/VSTSAgent.PowerShell) | Tools for managing and automating your Azure DevOps Agents. | PowerShell | 29 | MIT License | 2018-05-03 | 2023-10-01 |
 | [featuretimeline](https://github.com/microsoft/featuretimeline) | VSTS extension for managing and planning features | TypeScript | 88 | MIT License | 2018-05-03 | 2024-04-15 |
 | [PowerStig](https://github.com/microsoft/PowerStig) | STIG Automation  | PowerShell | 532 | Other | 2018-05-04 | 2024-07-19 |
-| [presidio](https://github.com/microsoft/presidio) | Context aware, pluggable and customizable data protection and de-identification SDK for text and images | Python | 3422 | MIT License | 2018-05-04 | 2024-07-20 |
+| [presidio](https://github.com/microsoft/presidio) | Context aware, pluggable and customizable data protection and de-identification SDK for text and images | Python | 3423 | MIT License | 2018-05-04 | 2024-07-21 |
 | [pxt-automation](https://github.com/microsoft/pxt-automation) | Various algorithm to control things | TypeScript | 7 | MIT License | 2018-05-04 | 2024-04-22 |
 | [windows-tutorials-customer-database](https://github.com/microsoft/windows-tutorials-customer-database) | Starting point for Customer Database tutorial. | C# | 20 | MIT License | 2018-05-04 | 2024-05-02 |
 | [Windows-appsample-photo-editor](https://github.com/microsoft/Windows-appsample-photo-editor) | Photo Editor is a UWP photo viewing and editing sample that highlights development with C++/WinRT. | C++ | 182 | MIT License | 2018-05-04 | 2024-07-14 |
@@ -10266,7 +10266,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [GHC18-IntroToQuantumComputing](https://github.com/microsoft/GHC18-IntroToQuantumComputing) | Workshop materials for the "Introduction to Quantum Computing" workshop | C# | 35 | MIT License | 2018-05-23 | 2023-09-08 |
 | [appcenter-sample-export](https://github.com/microsoft/appcenter-sample-export) | This repo contains sample .NET Core library for parsing Export blobs created via App Center Continuous Export.  | C# | 10 | MIT License | 2018-05-24 | 2023-06-12 |
 | [vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) | GitHub Pull Requests for Visual Studio Code | TypeScript | 2265 | MIT License | 2018-05-24 | 2024-07-20 |
-| [nni](https://github.com/microsoft/nni) | An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning. | Python | 13904 | MIT License | 2018-06-01 | 2024-07-18 |
+| [nni](https://github.com/microsoft/nni) | An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning. | Python | 13905 | MIT License | 2018-06-01 | 2024-07-22 |
 | [deprecated-azure-pipelines-servicenow-extension](https://github.com/microsoft/deprecated-azure-pipelines-servicenow-extension) | This repo contains code for ServiceNow extension to Azure DevOps | None | 4 | MIT License | 2018-06-01 | 2023-11-16 |
 | [pxt-screen-turtle](https://github.com/microsoft/pxt-screen-turtle) | A LOGO turtle implementation using the MakeCode screen support | TypeScript | 6 | MIT License | 2018-06-01 | 2023-06-05 |
 | [MCW-Azure-Stack](https://github.com/microsoft/MCW-Azure-Stack) | MCW Azure Stack | None | 51 | MIT License | 2018-06-03 | 2023-11-16 |
@@ -10296,7 +10296,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [license-checker-webpack-plugin](https://github.com/microsoft/license-checker-webpack-plugin) | Webpack plugin that verifies licenses of all external dependencies in a compilation, and outputs them to a file. | JavaScript | 134 | MIT License | 2018-06-22 | 2024-05-02 |
 | [vscode-azurelogicapps](https://github.com/microsoft/vscode-azurelogicapps) | Visual Studio Code extension for Azure Logic Apps (Consumption) | TypeScript | 41 | MIT License | 2018-06-23 | 2024-05-23 |
 | [AspNetCoreInjection.TypedFactories](https://github.com/microsoft/AspNetCoreInjection.TypedFactories) | This project provides automatic Automatic Factory functionality similar to Castle.Windsor Typed Factories, for the DI abstractions in ASP.NET Core (IServiceCollection) | C# | 24 | MIT License | 2018-06-25 | 2024-03-06 |
-| [MS-DOS](https://github.com/microsoft/MS-DOS) | The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes | Assembly | 30461 | MIT License | 2018-06-25 | 2024-07-21 |
+| [MS-DOS](https://github.com/microsoft/MS-DOS) | The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes | Assembly | 30462 | MIT License | 2018-06-25 | 2024-07-22 |
 | [SiteInspector](https://github.com/microsoft/SiteInspector) | Built in react and redux, this is a blade that provides the capability to add dynamic content any host site | JavaScript | 13 | MIT License | 2018-06-25 | 2023-10-18 |
 | [WAFBench](https://github.com/microsoft/WAFBench) | WAFBench (wb) is a tool to measure the performance of WAF(Web Application Firewall) . It's based on latest code of ab (ApacheBench), and adds support for real trace replaying, framework of testing waf (FTW), and some other features. | C | 102 | MIT License | 2018-06-25 | 2024-06-21 |
 | [vscode-tas-express](https://github.com/microsoft/vscode-tas-express) | VS Code Try App Service Express Template | CSS | 6 | MIT License | 2018-06-26 | 2023-11-16 |
@@ -10342,21 +10342,21 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [wsl-drvfs-stack-formatter](https://github.com/microsoft/wsl-drvfs-stack-formatter) | Replaces drvfs mountpoints with Windows pathnames in Error stacktraces when using node under the Windows Subsystem for Linux | JavaScript | 9 | MIT License | 2018-07-20 | 2023-11-25 |
 | [Dev-Advocacy-Samples](https://github.com/microsoft/Dev-Advocacy-Samples) | Samples to showcase using the Windows Subsystem for Linux and VS Code for development | JavaScript | 4 | MIT License | 2018-07-20 | 2023-09-08 |
 | [vsts-script-samples](https://github.com/microsoft/vsts-script-samples) | Sample scripts for interacting with Visual Studio Team Services and Team Foundation Server | PowerShell | 12 | MIT License | 2018-07-23 | 2024-04-05 |
-| [ailab](https://github.com/microsoft/ailab) | Experience, Learn and Code the latest breakthrough innovations with Microsoft AI | C# | 7675 | MIT License | 2018-07-23 | 2024-07-19 |
+| [ailab](https://github.com/microsoft/ailab) | Experience, Learn and Code the latest breakthrough innovations with Microsoft AI | C# | 7676 | MIT License | 2018-07-23 | 2024-07-21 |
 | [keyper](https://github.com/microsoft/keyper) | A Python wrapper around the macOS keychain. A keyper of the keys, if you will.  | Python | 33 | MIT License | 2018-07-24 | 2024-06-30 |
 | [PowerBI-visuals-PivotSlicer](https://github.com/microsoft/PowerBI-visuals-PivotSlicer) | Pivot Slicer provides a unified 'list of lists' approach to viewing, navigating, and slicing data | TypeScript | 13 | Other | 2018-07-25 | 2024-01-30 |
-| [microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) | Windows UI Library: the latest Windows 10 native controls and Fluent styles for your applications | C++ | 6184 | MIT License | 2018-07-26 | 2024-07-20 |
+| [microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) | Windows UI Library: the latest Windows 10 native controls and Fluent styles for your applications | C++ | 6183 | MIT License | 2018-07-26 | 2024-07-21 |
 | [execute-nested-binary](https://github.com/microsoft/execute-nested-binary) | Executes a node binary from this folder or any parent | JavaScript | 2 | MIT License | 2018-07-26 | 2023-08-22 |
 | [Dynamics-365-Industry-Accelerators](https://github.com/microsoft/Dynamics-365-Industry-Accelerators) | Dynamics 365 is releasing Industry Accelerators to enable ISVs, SIs and Partners to rapidly build industry focused solutions on top of our Business Application and Intelligence Platforms. These accelerators are created through a close partnership with internal Product , Sales, Service, Marketing, Field and Vertical Teams, with feedback from external industry SI, ISV and Partners. Here you will find samples and guidance on how to build and extend your industry solution on the Dynamics 365 Business Application and Intelligence platforms using our industry accelerators. Samples will also include cross product implementations with Azure, Office 365, Power BI, LinkedIn, Teams and other on-premise and cloud based implementations. | C# | 84 | MIT License | 2018-07-27 | 2024-03-01 |
 | [cppgraphqlgen](https://github.com/microsoft/cppgraphqlgen) | C++ GraphQL schema service generator | C++ | 319 | MIT License | 2018-07-27 | 2024-07-19 |
 | [v8-docker-buildscript](https://github.com/microsoft/v8-docker-buildscript) | Build script for V8 for Android platform. | Dockerfile | 40 | MIT License | 2018-07-30 | 2024-03-27 |
-| [code-with-engineering-playbook](https://github.com/microsoft/code-with-engineering-playbook) | This is the playbook for "code-with" customer or partner engagements | Dockerfile | 2171 | Creative Commons Attribution 4.0 International | 2018-07-30 | 2024-07-21 |
+| [code-with-engineering-playbook](https://github.com/microsoft/code-with-engineering-playbook) | This is the playbook for "code-with" customer or partner engagements | Dockerfile | 2172 | Creative Commons Attribution 4.0 International | 2018-07-30 | 2024-07-22 |
 | [Partner-Center-Java-Samples](https://github.com/microsoft/Partner-Center-Java-Samples) | Sample code that demonstrates how partners can use Java to interact with Partner Center | Java | 12 | MIT License | 2018-07-31 | 2023-10-19 |
 | [MTC_WindowsSmartInk](https://github.com/microsoft/MTC_WindowsSmartInk) | Windows SmartInk Sample | C# | 11 | MIT License | 2018-07-31 | 2024-06-17 |
 | [azure-pipelines-vscode](https://github.com/microsoft/azure-pipelines-vscode) | VS Code extension for working with Azure Pipelines YAML files | TypeScript | 163 | MIT License | 2018-07-31 | 2024-07-18 |
 | [accbpg](https://github.com/microsoft/accbpg) | Accelerated Bregman Proximal Gradient Methods | Jupyter Notebook | 23 | MIT License | 2018-07-31 | 2024-04-21 |
 | [human-pose-estimation.pytorch](https://github.com/microsoft/human-pose-estimation.pytorch) | The project is an official implement of our ECCV2018 paper  "Simple Baselines for Human Pose Estimation and Tracking(https://arxiv.org/abs/1804.06208)" | Python | 2930 | MIT License | 2018-08-01 | 2024-07-11 |
-| [FASTER](https://github.com/microsoft/FASTER) | Fast persistent recoverable log and key-value store + cache, in C# and C++. | C# | 6252 | MIT License | 2018-08-02 | 2024-07-17 |
+| [FASTER](https://github.com/microsoft/FASTER) | Fast persistent recoverable log and key-value store + cache, in C# and C++. | C# | 6253 | MIT License | 2018-08-02 | 2024-07-22 |
 | [DroneRescue](https://github.com/microsoft/DroneRescue) | This sample demonstrates how to bring AI to edge devices, by using AirSim to generate synthetic training data for a Custom Vision model and then how to deploy the model to edge devices. | Python | 61 | MIT License | 2018-08-03 | 2024-05-28 |
 | [PowerBIVSTSExtension](https://github.com/microsoft/PowerBIVSTSExtension) | VSTS Extension to enable PowerBI functionality in the VSTS GUI | PowerShell | 11 | MIT License | 2018-08-06 | 2024-04-05 |
 | [DMF](https://github.com/microsoft/DMF) | Driver Module Framework | C | 307 | MIT License | 2018-08-06 | 2024-07-19 |
@@ -10428,14 +10428,14 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [Azure-DCAP-Client](https://github.com/microsoft/Azure-DCAP-Client) | Interfaces between SGX SDKs and the Azure Attestation SGX Certification Cache. | C++ | 57 | MIT License | 2018-09-11 | 2024-06-11 |
 | [python-sample-vscode-django-tutorial](https://github.com/microsoft/python-sample-vscode-django-tutorial) | Sample code for the Django tutorial in the VS Code documentation | Python | 174 | MIT License | 2018-09-11 | 2024-06-10 |
 | [SPTAG](https://github.com/microsoft/SPTAG) | A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scenario. | C++ | 4749 | MIT License | 2018-09-12 | 2024-07-21 |
-| [azure-pipelines-yaml](https://github.com/microsoft/azure-pipelines-yaml) | Azure Pipelines YAML examples, templates, and community interaction | None | 1195 | MIT License | 2018-09-12 | 2024-07-19 |
+| [azure-pipelines-yaml](https://github.com/microsoft/azure-pipelines-yaml) | Azure Pipelines YAML examples, templates, and community interaction | None | 1196 | MIT License | 2018-09-12 | 2024-07-21 |
 | [ajaxmin](https://github.com/microsoft/ajaxmin) | The Microsoft Ajax Minifier enables you to improve the performance of your Ajax applications by reducing the size of your Cascading Style Sheet and JavaScript files. | C# | 29 | MIT License | 2018-09-12 | 2024-03-06 |
 | [azure-devops-extension-sdk](https://github.com/microsoft/azure-devops-extension-sdk) | Client SDK for developing Azure DevOps extensions | TypeScript | 123 | MIT License | 2018-09-12 | 2024-07-06 |
-| [onnxjs](https://github.com/microsoft/onnxjs) | ONNX.js: run ONNX models using JavaScript | TypeScript | 1745 | Other | 2018-09-13 | 2024-07-14 |
+| [onnxjs](https://github.com/microsoft/onnxjs) | ONNX.js: run ONNX models using JavaScript | TypeScript | 1746 | Other | 2018-09-13 | 2024-07-22 |
 | [appcenter](https://github.com/microsoft/appcenter) | Central repository for App Center open source resources and planning. | Shell | 1010 | Creative Commons Attribution 4.0 International | 2018-09-14 | 2024-07-16 |
 | [vscode-lsif-extension](https://github.com/microsoft/vscode-lsif-extension) | Extension for a LSIF Server | TypeScript | 68 | MIT License | 2018-09-14 | 2024-06-19 |
 | [BotBuilder-V3](https://github.com/microsoft/BotBuilder-V3) | Microsoft Bot Builder V3 SDK for Microsoft Bot Framework | C# | 50 | MIT License | 2018-09-14 | 2024-06-17 |
-| [WhatTheHack](https://github.com/microsoft/WhatTheHack) | A collection of challenge based hack-a-thons including student guide, coach guide, lecture presentations, sample/instructional code and templates.  Please visit the What The Hack website at: https://aka.ms/wth | HTML | 1736 | MIT License | 2018-09-17 | 2024-07-20 |
+| [WhatTheHack](https://github.com/microsoft/WhatTheHack) | A collection of challenge based hack-a-thons including student guide, coach guide, lecture presentations, sample/instructional code and templates.  Please visit the What The Hack website at: https://aka.ms/wth | HTML | 1738 | MIT License | 2018-09-17 | 2024-07-21 |
 | [agogosml](https://github.com/microsoft/agogosml) | agogosml is a flexible data processing pipeline that addresses the common need for operationalizing ML models at scale | Python | 34 | MIT License | 2018-09-17 | 2024-02-29 |
 | [EndUserExpertBotSystem](https://github.com/microsoft/EndUserExpertBotSystem) | Bot system for EndUser/Expert team interaction on QnA Situations | C# | 9 | MIT License | 2018-09-18 | 2023-10-31 |
 | [prose-codeaccelerator](https://github.com/microsoft/prose-codeaccelerator) | PROSE Code Accelerator for Python | None | 5 | Other | 2018-09-19 | 2023-11-16 |
@@ -10460,7 +10460,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [mu_silicon_intel_tiano](https://github.com/microsoft/mu_silicon_intel_tiano) | Project Mu - TianoCore Intel Packages | C | 24 | Other | 2018-10-01 | 2024-07-19 |
 | [SparseSC](https://github.com/microsoft/SparseSC) | Fit Sparse Synthetic Control Models in Python | Python | 77 | MIT License | 2018-10-01 | 2024-07-09 |
 | [SmartHotel360-IoT](https://github.com/microsoft/SmartHotel360-IoT) | SmartHotel360 deployed Azure digital Twins to control lights and temperature of the hotel rooms. | C# | 98 | MIT License | 2018-10-02 | 2023-08-03 |
-| [jericho](https://github.com/microsoft/jericho) | A learning environment for man-made Interactive Fiction games. | C | 253 | GNU General Public License v2.0 | 2018-10-02 | 2024-07-20 |
+| [jericho](https://github.com/microsoft/jericho) | A learning environment for man-made Interactive Fiction games. | C | 254 | GNU General Public License v2.0 | 2018-10-02 | 2024-07-22 |
 | [azure-devops-extension-api](https://github.com/microsoft/azure-devops-extension-api) | REST client libraries and contracts for Azure DevOps web extension developers. | TypeScript | 97 | MIT License | 2018-10-02 | 2024-07-19 |
 | [deterministic-variational-inference](https://github.com/microsoft/deterministic-variational-inference) | Sample code for running deterministic variational inference to train Bayesian neural networks | Jupyter Notebook | 99 | MIT License | 2018-10-02 | 2024-06-16 |
 | [bion](https://github.com/microsoft/bion) | Binary object notation - a standard for representing JSON in a compact, efficient format | C# | 15 | MIT License | 2018-10-03 | 2024-01-30 |
@@ -10480,7 +10480,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [hash-and-cache](https://github.com/microsoft/hash-and-cache) | Allows you to wrap caching behavior around an arbitrary command.  It will take in a list of source files, generate a hash, then check a cache (stored in Azure Storage) to see if those inputs have been seen before.  If so it will download the cached outputs instead of running the command.  If no cache is found matching the hash it will run the command instead. | JavaScript | 7 | MIT License | 2018-10-10 | 2023-06-12 |
 | [TailwindTraders](https://github.com/microsoft/TailwindTraders) | None | CSS | 679 | MIT License | 2018-10-10 | 2024-07-07 |
 | [CameraTraps](https://github.com/microsoft/CameraTraps) | PyTorch Wildlife: a Collaborative Deep Learning Framework for Conservation. | Jupyter Notebook | 730 | MIT License | 2018-10-11 | 2024-07-20 |
-| [llvm-mctoll](https://github.com/microsoft/llvm-mctoll) | llvm-mctoll | C++ | 792 | Other | 2018-10-11 | 2024-07-18 |
+| [llvm-mctoll](https://github.com/microsoft/llvm-mctoll) | llvm-mctoll | C++ | 793 | Other | 2018-10-11 | 2024-07-22 |
 | [snipe-it-api-cookbook](https://github.com/microsoft/snipe-it-api-cookbook) | A Chef resource cookbook for interacting with Snipe-IT's REST API | Ruby | 11 | MIT License | 2018-10-11 | 2024-02-14 |
 | [BuildXL](https://github.com/microsoft/BuildXL) | Microsoft Build Accelerator | C# | 902 | MIT License | 2018-10-12 | 2024-07-20 |
 | [vscode-node-sqlite3](https://github.com/microsoft/vscode-node-sqlite3) | Asynchronous, non-blocking SQLite3 bindings for Node.js | PLpgSQL | 34 | BSD 3-Clause "New" or "Revised" License | 2018-10-15 | 2024-02-06 |
@@ -10513,7 +10513,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [idfix](https://github.com/microsoft/idfix) | Microsoft IdFix | C# | 138 | MIT License | 2018-10-23 | 2024-06-21 |
 | [epic-marbles](https://github.com/microsoft/epic-marbles) | rxjs-style marble testing for your epics | TypeScript | 8 | MIT License | 2018-10-24 | 2023-01-27 |
 | [XamlIslandBlogPostSample](https://github.com/microsoft/XamlIslandBlogPostSample) | Sample code for Xaml Islands on Win32  | C# | 19 | MIT License | 2018-10-24 | 2024-05-23 |
-| [eEVM](https://github.com/microsoft/eEVM) | Enclave ready EVM (eEVM) is an open-source, standalone, embeddable, C++ implementation of the Ethereum Virtual Machine. | C++ | 359 | MIT License | 2018-10-25 | 2024-07-14 |
+| [eEVM](https://github.com/microsoft/eEVM) | Enclave ready EVM (eEVM) is an open-source, standalone, embeddable, C++ implementation of the Ethereum Virtual Machine. | C++ | 360 | MIT License | 2018-10-25 | 2024-07-22 |
 | [dynamics-365-relationshipassistant-extensibility](https://github.com/microsoft/dynamics-365-relationshipassistant-extensibility) | Sample code for creating custom relationship assistant cards | CSS | 3 | MIT License | 2018-10-26 | 2022-12-14 |
 | [msrc-dpu-learning-to-represent-edits](https://github.com/microsoft/msrc-dpu-learning-to-represent-edits) | C# Data Extraction for "Learning to Represent Edits" | C# | 27 | MIT License | 2018-10-29 | 2024-04-02 |
 | [Multilingual-Model-Transfer](https://github.com/microsoft/Multilingual-Model-Transfer) | In this project we develop new deep learning models for bootstrapping language understanding models for languages with no labeled data using labeled data from other languages.  | Python | 74 | MIT License | 2018-10-29 | 2024-01-04 |
@@ -10527,7 +10527,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [near-duplicate-code-detector](https://github.com/microsoft/near-duplicate-code-detector) | A simple tool for detecting near-duplicate source code | C# | 90 | MIT License | 2018-10-31 | 2024-06-27 |
 | [webauthn](https://github.com/microsoft/webauthn) | Win32 APIs for WebAuthn standard | C | 141 | MIT License | 2018-10-31 | 2024-07-05 |
 | [az-ml-batch-score](https://github.com/microsoft/az-ml-batch-score) | Deploying a Batch Scoring Pipeline for Python Models | Jupyter Notebook | 18 | MIT License | 2018-11-01 | 2024-03-26 |
-| [WinUI-Gallery](https://github.com/microsoft/WinUI-Gallery) | This app demonstrates the controls available in WinUI and the Fluent Design System. | C# | 2675 | MIT License | 2018-11-01 | 2024-07-20 |
+| [WinUI-Gallery](https://github.com/microsoft/WinUI-Gallery) | This app demonstrates the controls available in WinUI and the Fluent Design System. | C# | 2677 | MIT License | 2018-11-01 | 2024-07-22 |
 | [vssnapshotdebugger-docker](https://github.com/microsoft/vssnapshotdebugger-docker) | Contains files for building ASP.NET Core runtime Docker images with Visual Studio Snapshot Debugger support. | Dockerfile | 18 | MIT License | 2018-11-01 | 2024-03-30 |
 | [ShaderConductor](https://github.com/microsoft/ShaderConductor) | ShaderConductor is a tool designed for cross-compiling HLSL to other shading languages | C++ | 1747 | MIT License | 2018-11-02 | 2024-07-20 |
 | [academic-knowledge-exploration-services-utilities](https://github.com/microsoft/academic-knowledge-exploration-services-utilities) | Utility tools and scripts for interacting with Microsoft Academic Knowledge Exploration Service (MAKES) | PowerShell | 10 | MIT License | 2018-11-02 | 2023-09-08 |
@@ -10535,16 +10535,16 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) | NOTE: Most of the contents of this repository have been migrated to the new devcontainers GitHub org (https://github.com/devcontainers). See https://github.com/devcontainers/template-starter and https://github.com/devcontainers/feature-starter for information on creating your own! | Shell | 4703 | MIT License | 2018-11-05 | 2024-07-18 |
 | [nail_agent](https://github.com/microsoft/nail_agent) | NAIL is an agent that plays text-based interactive fiction games. | Python | 44 | Other | 2018-11-05 | 2024-03-22 |
 | [Ros-Orchestration](https://github.com/microsoft/Ros-Orchestration) | The Ros-Orchestration project provides a set of sample micro-services that can take in sample jobs and execute them on ROS enabled robots. The repo includes the micro-services written in .NET core, as well as the robot controller written in python for ROS (rospy). This repository has a dependency on the ROS-Simulation repo, so that the end to end simulation can be run in Kubernetes with orchestration being driven from the cloud. | C# | 23 | MIT License | 2018-11-05 | 2024-07-09 |
-| [SandDance](https://github.com/microsoft/SandDance) | Visually explore, understand, and present your data. | TypeScript | 6349 | MIT License | 2018-11-05 | 2024-07-20 |
+| [SandDance](https://github.com/microsoft/SandDance) | Visually explore, understand, and present your data. | TypeScript | 6350 | MIT License | 2018-11-05 | 2024-07-22 |
 | [Mezzurite-DevTools](https://github.com/microsoft/Mezzurite-DevTools) | A Chrome extension for debugging and understanding Mezzurite | JavaScript | 6 | MIT License | 2018-11-06 | 2023-11-16 |
 | [Microsoft.Shared.Dna.Hash](https://github.com/microsoft/Microsoft.Shared.Dna.Hash) | Microsoft Data and Analytics Shared Code - Hash Functions | C# | 11 | MIT License | 2018-11-07 | 2024-04-22 |
 | [vsts-coverage-charts](https://github.com/microsoft/vsts-coverage-charts) | Azure DevOps extension to build charts on code coverage | TypeScript | 6 | - | 2018-11-07 | 2023-06-12 |
-| [wil](https://github.com/microsoft/wil) | Windows Implementation Library | C++ | 2523 | MIT License | 2018-11-07 | 2024-07-19 |
+| [wil](https://github.com/microsoft/wil) | Windows Implementation Library | C++ | 2524 | MIT License | 2018-11-07 | 2024-07-22 |
 | [AzureStreamAnalyticsInVSCode](https://github.com/microsoft/AzureStreamAnalyticsInVSCode) | Azure Stream Analytics In VSCode | None | 2 | Creative Commons Attribution 4.0 International | 2018-11-08 | 2023-06-12 |
 | [MicrosoftGraphSecurity](https://github.com/microsoft/MicrosoftGraphSecurity) | Unofficial PowerShell module for easy interface with the Microsoft Graph Security APIs. | PowerShell | 40 | MIT License | 2018-11-08 | 2024-06-13 |
 | [SEAL](https://github.com/microsoft/SEAL) | Microsoft SEAL is an easy-to-use and powerful homomorphic encryption library. | C++ | 3463 | MIT License | 2018-11-09 | 2024-07-20 |
 | [vscode-asa](https://github.com/microsoft/vscode-asa) | Azure Stream Analytics In VSCode | None | 10 | Creative Commons Attribution 4.0 International | 2018-11-09 | 2023-03-12 |
-| [onnxruntime](https://github.com/microsoft/onnxruntime) | ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator | C++ | 13646 | MIT License | 2018-11-10 | 2024-07-21 |
+| [onnxruntime](https://github.com/microsoft/onnxruntime) | ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator | C++ | 13650 | MIT License | 2018-11-10 | 2024-07-22 |
 | [Orb](https://github.com/microsoft/Orb) | Orb is a tool for running LiveSite and Support operations | C++ | 38 | MIT License | 2018-11-10 | 2023-08-29 |
 | [SharePointDSC-Web](https://github.com/microsoft/SharePointDSC-Web) | Web Interface to Generate SharePointDSC configurations | PowerShell | 7 | MIT License | 2018-11-12 | 2024-04-05 |
 | [FreeBSD-Test-Automation](https://github.com/microsoft/FreeBSD-Test-Automation) | The test automation for FreeBSD running on HyperV/Azure. | PowerShell | 4 | Apache License 2.0 | 2018-11-12 | 2024-04-03 |
@@ -10557,7 +10557,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [cmd-call-graph](https://github.com/microsoft/cmd-call-graph) | A simple tool to generate a call graph for calls within Windows CMD (batch) files. | Python | 50 | MIT License | 2018-11-14 | 2024-06-30 |
 | [AIInstitute](https://github.com/microsoft/AIInstitute) | Repository for managing the AI Institute | HTML | 3 | Creative Commons Attribution 4.0 International | 2018-11-15 | 2023-11-16 |
 | [BCTech](https://github.com/microsoft/BCTech) | Business Central technology samples | None | 548 | MIT License | 2018-11-15 | 2024-07-20 |
-| [ai-edu](https://github.com/microsoft/ai-edu) | AI education materials for Chinese students, teachers and IT professionals. | HTML | 13376 | Other | 2018-11-16 | 2024-07-21 |
+| [ai-edu](https://github.com/microsoft/ai-edu) | AI education materials for Chinese students, teachers and IT professionals. | HTML | 13379 | Other | 2018-11-16 | 2024-07-22 |
 | [azure-pipelines-servicenow-app](https://github.com/microsoft/azure-pipelines-servicenow-app) | This repository provides the updateSet used to build the Azure Pipelines app on ServiceNow store | None | 9 | - | 2018-11-16 | 2024-07-19 |
 | [legacyapp](https://github.com/microsoft/legacyapp) | None | C++ | 2 | MIT License | 2018-11-16 | 2023-10-17 |
 | [DSCParser](https://github.com/microsoft/DSCParser) | Allows the conversion of DSC scripts into PSObject for analysis purposes | PowerShell | 28 | MIT License | 2018-11-19 | 2024-07-11 |
@@ -10598,7 +10598,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [MLFlow.NET](https://github.com/microsoft/MLFlow.NET) | MLFlow.NET is a .NET Standard 2.0 based wrapper for the REST based MLFlow server API (https://mlflow.org/). The SDK package allows you to call the MLFlow server API from .NET apps. A sample use case is writing a .NET Core app that validates a machine learning model or API and stores the result in MLFlow | C# | 26 | MIT License | 2018-12-05 | 2024-06-29 |
 | [entref-spring-boot](https://github.com/microsoft/entref-spring-boot) | A RESTful DAL (Database Abstraction Layer) reference implementation written using Spring. | Java | 17 | MIT License | 2018-12-05 | 2023-11-16 |
 | [pvscbot](https://github.com/microsoft/pvscbot) | GitHub bot for Microsoft/vscode-python | Python | 25 | MIT License | 2018-12-05 | 2024-03-23 |
-| [AzureML-BERT](https://github.com/microsoft/AzureML-BERT) | End-to-End recipes for pre-training and fine-tuning BERT using Azure Machine Learning Service | Jupyter Notebook | 388 | MIT License | 2018-12-06 | 2024-05-21 |
+| [AzureML-BERT](https://github.com/microsoft/AzureML-BERT) | End-to-End recipes for pre-training and fine-tuning BERT using Azure Machine Learning Service | Jupyter Notebook | 389 | MIT License | 2018-12-06 | 2024-07-22 |
 | [sarif-web-component](https://github.com/microsoft/sarif-web-component) |  A React-based component for viewing SARIF files. | TypeScript | 78 | MIT License | 2018-12-06 | 2024-07-18 |
 | [pxt-drv2605l](https://github.com/microsoft/pxt-drv2605l) | MakeCode driver for the DRV2605L haptic feedback | TypeScript | 3 | MIT License | 2018-12-06 | 2023-06-12 |
 | [accessibility-insights-web](https://github.com/microsoft/accessibility-insights-web) | Accessibility Insights for Web | TypeScript | 820 | MIT License | 2018-12-07 | 2024-07-17 |
@@ -10616,7 +10616,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [JSTSdocs](https://github.com/microsoft/JSTSdocs) | JavaScript/TypeScript in Visual Studio docs | JavaScript | 13 | - | 2018-12-10 | 2023-12-14 |
 | [release-stats](https://github.com/microsoft/release-stats) | TFS Azure DevOps widget to track Release deployment status and time taken | TypeScript | 3 | MIT License | 2018-12-11 | 2023-03-12 |
 | [biosbias](https://github.com/microsoft/biosbias) | Code to reproduce data for Bias in Bios | Python | 42 | MIT License | 2018-12-12 | 2024-07-03 |
-| [PowerPlatformConnectors](https://github.com/microsoft/PowerPlatformConnectors) | This is a repository for Microsoft Power Automate, Power Apps, and Azure Logic Apps connectors | C# | 931 | MIT License | 2018-12-13 | 2024-07-20 |
+| [PowerPlatformConnectors](https://github.com/microsoft/PowerPlatformConnectors) | This is a repository for Microsoft Power Automate, Power Apps, and Azure Logic Apps connectors | C# | 932 | MIT License | 2018-12-13 | 2024-07-21 |
 | [fabrikate](https://github.com/microsoft/fabrikate) | Making GitOps with Kubernetes easier one component at a time | Go | 36 | MIT License | 2018-12-14 | 2024-06-08 |
 | [Dynamics365-Apps-Samples](https://github.com/microsoft/Dynamics365-Apps-Samples) | Sample code for Dynamics 365 apps | C# | 145 | MIT License | 2018-12-14 | 2024-07-04 |
 | [mixed-reality-extension-unity](https://github.com/microsoft/mixed-reality-extension-unity) | The Mixed Reality Extension Unity library is an easy way for developers to add User Generated Content (UGC) capabilities to their Unity3D-based host apps  | C# | 61 | MIT License | 2018-12-14 | 2024-03-17 |
@@ -10664,7 +10664,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [PowerBI-visuals-MultiKPI](https://github.com/microsoft/PowerBI-visuals-MultiKPI) | A multi KPI visual implementation | TypeScript | 15 | MIT License | 2019-01-23 | 2024-04-20 |
 | [vision-ai-developer-kit](https://github.com/microsoft/vision-ai-developer-kit) | Vision AI Developer Kit Preview | Jupyter Notebook | 130 | MIT License | 2019-01-23 | 2024-07-09 |
 | [Service-Fabric-AppDRTool](https://github.com/microsoft/Service-Fabric-AppDRTool) | The Service Fabric Application Disaster Recovery Tool is a disaster recovery tool for Service Fabric clusters which allows users to recover their primary cluster data in the event of a disaster. SFAppDRTool allows the user to backup their primary cluster on a secondary cluster via periodic backup-restore on secondary cluster of your backups on primary cluster. | C# | 14 | MIT License | 2019-01-28 | 2024-04-01 |
-| [calculator](https://github.com/microsoft/calculator) | Windows Calculator: A simple yet powerful calculator that ships with Windows | C++ | 29323 | MIT License | 2019-01-28 | 2024-07-21 |
+| [calculator](https://github.com/microsoft/calculator) | Windows Calculator: A simple yet powerful calculator that ships with Windows | C++ | 29325 | MIT License | 2019-01-28 | 2024-07-22 |
 | [Microsoft-Win32-Content-Prep-Tool](https://github.com/microsoft/Microsoft-Win32-Content-Prep-Tool) | A tool to wrap Win32 App and then it can be uploaded to Intune | None | 920 | - | 2019-01-29 | 2024-07-18 |
 | [MLOpsPython](https://github.com/microsoft/MLOpsPython) | MLOps using Azure ML Services and Azure DevOps | Python | 1188 | MIT License | 2019-01-29 | 2024-07-19 |
 | [cloud-monitoring-dataset](https://github.com/microsoft/cloud-monitoring-dataset) | Public machine learning dataset for cloud monitoring | None | 11 | MIT License | 2019-01-29 | 2024-01-24 |
@@ -10690,7 +10690,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [PDP-Solver](https://github.com/microsoft/PDP-Solver) | PDP: A General Neural Framework for Learning Constraint Satisfaction Solvers | Python | 40 | MIT License | 2019-02-08 | 2024-01-24 |
 | [MIMDSC](https://github.com/microsoft/MIMDSC) | PowerShell Desired State Configuration Module for Microsoft Identity Manager | PowerShell | 24 | MIT License | 2019-02-09 | 2024-05-14 |
 | [AddingSpeechToBots](https://github.com/microsoft/AddingSpeechToBots) | Adding Speech to Conversational Bots | C# | 13 | - | 2019-02-10 | 2023-11-16 |
-| [computervision-recipes](https://github.com/microsoft/computervision-recipes) | Best Practices, code samples, and documentation for Computer Vision. | Jupyter Notebook | 9351 | MIT License | 2019-02-11 | 2024-07-20 |
+| [computervision-recipes](https://github.com/microsoft/computervision-recipes) | Best Practices, code samples, and documentation for Computer Vision. | Jupyter Notebook | 9353 | MIT License | 2019-02-11 | 2024-07-22 |
 | [MRLightingTools-Unity](https://github.com/microsoft/MRLightingTools-Unity) | A Unity library and MRTK extension for estimating and replicating the current environment's lighting on Mixed Reality devices. | C# | 187 | MIT License | 2019-02-11 | 2024-06-13 |
 | [ProjFS-Managed-API](https://github.com/microsoft/ProjFS-Managed-API) | A managed-code API for the Windows Projected File System | C++ | 138 | Other | 2019-02-12 | 2024-06-03 |
 | [pytorch_od](https://github.com/microsoft/pytorch_od) | PyTorch ObjectDetection Modules and ONNX ops | Python | 18 | MIT License | 2019-02-13 | 2024-05-14 |
@@ -10699,7 +10699,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer) | Dialog creation and management for Microsoft Bot Framework Applications | TypeScript | 861 | MIT License | 2019-02-14 | 2024-07-14 |
 | [AzureSQLDataSyncHealthChecker](https://github.com/microsoft/AzureSQLDataSyncHealthChecker) | This PowerShell script will check if all the metadata of a hub and member is in place and also validate the scopes against the information we have on the sync metadata database (among other validations). This script will not make any changes, will just validate data sync and user objects. It will also gather some useful information for faster troubleshooting. | PowerShell | 18 | MIT License | 2019-02-14 | 2024-05-23 |
 | [configmgr-hub](https://github.com/microsoft/configmgr-hub) | Open source repository for the System Center Configuration Manager Hub. | PowerShell | 73 | MIT License | 2019-02-14 | 2024-04-17 |
-| [AttackSurfaceAnalyzer](https://github.com/microsoft/AttackSurfaceAnalyzer) | Attack Surface Analyzer can help you analyze your operating system's security configuration for changes during software installation. | C# | 2675 | MIT License | 2019-02-15 | 2024-07-18 |
+| [AttackSurfaceAnalyzer](https://github.com/microsoft/AttackSurfaceAnalyzer) | Attack Surface Analyzer can help you analyze your operating system's security configuration for changes during software installation. | C# | 2675 | MIT License | 2019-02-15 | 2024-07-22 |
 | [ExpressivePixels](https://github.com/microsoft/ExpressivePixels) | ExpressivePixels is an embedded prototype platform for ambient LED based displays that allows for the rapid assembly, authoring and control of  animations and lighting sequences. | C | 70 | MIT License | 2019-02-15 | 2024-07-17 |
 | [DirectX-Debugging-Tools](https://github.com/microsoft/DirectX-Debugging-Tools) | Debugging tools for Direct3D-based software | JavaScript | 80 | MIT License | 2019-02-15 | 2024-06-30 |
 | [SDNet](https://github.com/microsoft/SDNet) | SDNet  | Python | 184 | MIT License | 2019-02-15 | 2024-06-26 |
@@ -10713,7 +10713,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [ELL-PiClusterService](https://github.com/microsoft/ELL-PiClusterService) | A simple node.js applicaton you can host in Azure that provides a way to centrally manage a cluster of Raspberry Pi machines (or any type of machine really).   It is very light weight and designed for small number of machines. | JavaScript | 6 | MIT License | 2019-02-22 | 2023-06-13 |
 | [Custom-Vision-Autotrainer](https://github.com/microsoft/Custom-Vision-Autotrainer) | An autotraining and data catalog tool for customvision.ai using Azure Blob Storage | Python | 15 | MIT License | 2019-02-22 | 2023-08-23 |
 | [DeployDLKubeflowAKS](https://github.com/microsoft/DeployDLKubeflowAKS) | Deploying CNN using Kubeflow on Azure Kubernetes Service | Jupyter Notebook | 18 | MIT License | 2019-02-22 | 2023-11-16 |
-| [frontend-bootcamp](https://github.com/microsoft/frontend-bootcamp) | Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux | TypeScript | 10809 | Creative Commons Attribution 4.0 International | 2019-02-24 | 2024-07-16 |
+| [frontend-bootcamp](https://github.com/microsoft/frontend-bootcamp) | Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux | TypeScript | 10813 | Creative Commons Attribution 4.0 International | 2019-02-24 | 2024-07-21 |
 | [libtorchWithDeps](https://github.com/microsoft/libtorchWithDeps) | C++ bindings for pytorch   | None | 2 | Other | 2019-02-24 | 2024-06-13 |
 | [MixedRealityLearning](https://github.com/microsoft/MixedRealityLearning) | Projects and Artifacts to accelerate your Mixed Reality development path | C# | 67 | MIT License | 2019-02-28 | 2024-06-14 |
 | [AddOutlookJapanHoliday](https://github.com/microsoft/AddOutlookJapanHoliday) | VBScript for adding Japan new Holidays to Outlook. | VBScript | 7 | MIT License | 2019-02-28 | 2022-10-20 |
@@ -10734,11 +10734,11 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [lain](https://github.com/microsoft/lain) | A fuzzer framework built in Rust | Rust | 470 | MIT License | 2019-03-07 | 2024-07-08 |
 | [lisa](https://github.com/microsoft/lisa) | LISA is developed and maintained by Microsoft, to empower Linux validation. | Python | 182 | MIT License | 2019-03-09 | 2024-07-19 |
 | [pxt-apa102](https://github.com/microsoft/pxt-apa102) | APA102 driver for MakeCode micro:bit - beta | TypeScript | 2 | MIT License | 2019-03-10 | 2023-06-27 |
-| [BosqueLanguage](https://github.com/microsoft/BosqueLanguage) | The Bosque programming language is an experiment in regularized design for a machine assisted rapid and reliable software development lifecycle.  | TypeScript | 5255 | Other | 2019-03-10 | 2024-07-16 |
+| [BosqueLanguage](https://github.com/microsoft/BosqueLanguage) | The Bosque programming language is an experiment in regularized design for a machine assisted rapid and reliable software development lifecycle.  | TypeScript | 5254 | Other | 2019-03-10 | 2024-07-22 |
 | [SQL-Server-Big-Data-Cluster-App-Deploy-Extension](https://github.com/microsoft/SQL-Server-Big-Data-Cluster-App-Deploy-Extension) | Visual Studio Code Extension for deploying applications to a SQL Server Big Data Cluster | None | 6 | MIT License | 2019-03-11 | 2023-12-15 |
 | [WinDbg-Libraries](https://github.com/microsoft/WinDbg-Libraries) | Libraries for extending WinDbg and its underlying components. | C++ | 105 | MIT License | 2019-03-11 | 2024-07-20 |
-| [DirectML](https://github.com/microsoft/DirectML) | DirectML is a high-performance, hardware-accelerated DirectX 12 library for machine learning. DirectML provides GPU acceleration for common machine learning tasks across a broad range of supported hardware and drivers, including all DirectX 12-capable GPUs from vendors such as AMD, Intel, NVIDIA, and Qualcomm. | Python | 2117 | MIT License | 2019-03-12 | 2024-07-19 |
-| [pyright](https://github.com/microsoft/pyright) | Static Type Checker for Python | Python | 12722 | Other | 2019-03-12 | 2024-07-21 |
+| [DirectML](https://github.com/microsoft/DirectML) | DirectML is a high-performance, hardware-accelerated DirectX 12 library for machine learning. DirectML provides GPU acceleration for common machine learning tasks across a broad range of supported hardware and drivers, including all DirectX 12-capable GPUs from vendors such as AMD, Intel, NVIDIA, and Qualcomm. | Python | 2119 | MIT License | 2019-03-12 | 2024-07-21 |
+| [pyright](https://github.com/microsoft/pyright) | Static Type Checker for Python | Python | 12728 | Other | 2019-03-12 | 2024-07-22 |
 | [Scalable-Infrastructure-for-Investigation-and-Incident-Response](https://github.com/microsoft/Scalable-Infrastructure-for-Investigation-and-Incident-Response) | Powershell Scripts to automatically deploy an image of a prebuilt VM (up-to-date and with pre-deployed tools and apps) to every region you require.  | PowerShell | 17 | MIT License | 2019-03-12 | 2024-05-17 |
 | [FluMapModel](https://github.com/microsoft/FluMapModel) | mapping flu incidence and modeling flu burden and transmission, focused on the Seattle Flu Study, public fork of https://github.com/seattleflu/incidence-mapper  | HTML | 6 | MIT License | 2019-03-12 | 2024-04-02 |
 | [DataStreamerSamples](https://github.com/microsoft/DataStreamerSamples) | One should use this example to learn on how to communicate (as UWP compliant app) to Microsoft Data Streamer | C# | 13 | MIT License | 2019-03-13 | 2024-05-26 |
@@ -10768,7 +10768,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [powerquery-parser](https://github.com/microsoft/powerquery-parser) | A parser for the Power Query / M formula language, written in TypeScript | TypeScript | 107 | MIT License | 2019-03-25 | 2024-07-04 |
 | [fabrikate-entref-spring-boot](https://github.com/microsoft/fabrikate-entref-spring-boot) | A Fabrikate definition for https://github.com/Microsoft/entref-spring-boot | Smarty | 5 | MIT License | 2019-03-25 | 2023-11-16 |
 | [Powerbi-Visuals-SampleMatrix](https://github.com/microsoft/Powerbi-Visuals-SampleMatrix) | demonstrates a powerbi matrix custom visual | TypeScript | 15 | MIT License | 2019-03-26 | 2024-05-27 |
-| [vscode-remote-release](https://github.com/microsoft/vscode-remote-release) | Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code's full feature set. | None | 3568 | Other | 2019-03-26 | 2024-07-20 |
+| [vscode-remote-release](https://github.com/microsoft/vscode-remote-release) | Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code's full feature set. | None | 3568 | Other | 2019-03-26 | 2024-07-22 |
 | [TiltInteractionForMobileVisualization](https://github.com/microsoft/TiltInteractionForMobileVisualization) | A demonstration of orientation, tilt, and gesture based interaction with dynamic data visualization on mobile phones. | JavaScript | 7 | MIT License | 2019-03-26 | 2023-09-19 |
 | [calculator-specs](https://github.com/microsoft/calculator-specs) | Spec repository for Windows Calculator (https://github.com/Microsoft/calculator) | None | 55 | Creative Commons Attribution 4.0 International | 2019-03-26 | 2024-05-22 |
 | [CELA-Outlook-Tag-Management](https://github.com/microsoft/CELA-Outlook-Tag-Management) | A sample that demonstrates how an Outlook add-in can help end users manage a curated set of text tags that will be added to email contents. Cross reference https://github.com/microsoft/cela-tag-processing-service | C# | 11 | MIT License | 2019-03-27 | 2024-06-26 |
@@ -10796,7 +10796,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [EDDI](https://github.com/microsoft/EDDI) | Code for paper EDDI: Efficient Dynamic Discovery of High-Value Information with Partial VAE | Python | 37 | Other | 2019-04-03 | 2024-06-13 |
 | [HighSecurityAPIM](https://github.com/microsoft/HighSecurityAPIM) | Secure VNET Injection of APIM Surviving Force-Tunneling | None | 34 | Creative Commons Attribution 4.0 International | 2019-04-03 | 2024-07-03 |
 | [sonder-ui](https://github.com/microsoft/sonder-ui) | An accessibility-first library of tested web components to be used as reference implementations, pattern documentation, or just drop them directly into your project! | HTML | 88 | MIT License | 2019-04-03 | 2024-05-17 |
-| [nlp-recipes](https://github.com/microsoft/nlp-recipes) | Natural Language Processing Best Practices & Examples | Python | 6350 | MIT License | 2019-04-05 | 2024-07-17 |
+| [nlp-recipes](https://github.com/microsoft/nlp-recipes) | Natural Language Processing Best Practices & Examples | Python | 6350 | MIT License | 2019-04-05 | 2024-07-21 |
 | [tiny-calc](https://github.com/microsoft/tiny-calc) | Tiny expression evaluator | TypeScript | 39 | MIT License | 2019-04-05 | 2023-10-07 |
 | [vs-azure-iot-edge-docs](https://github.com/microsoft/vs-azure-iot-edge-docs) | Documentation for Azure IoT Edge Tools for Visual Studio | None | 4 | Creative Commons Attribution 4.0 International | 2019-04-08 | 2023-08-29 |
 | [CCF](https://github.com/microsoft/CCF) | Confidential Consortium Framework | C++ | 770 | Apache License 2.0 | 2019-04-08 | 2024-07-19 |
@@ -10809,7 +10809,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [bing-commerce-sdk-for-java](https://github.com/microsoft/bing-commerce-sdk-for-java) | Bing for Commerce Java SDK | Java | 5 | Other | 2019-04-11 | 2023-01-27 |
 | [openenclave-extra-samples](https://github.com/microsoft/openenclave-extra-samples) | Sandbox repo for extra or experimental samples. | C++ | 6 | MIT License | 2019-04-12 | 2023-11-16 |
 | [Partner-Center-Postman](https://github.com/microsoft/Partner-Center-Postman) | Postman collections for the Partner Center API | None | 7 | MIT License | 2019-04-13 | 2024-04-18 |
-| [NeuronBlocks](https://github.com/microsoft/NeuronBlocks) | NLP DNN Toolkit - Building Your NLP DNN Models Like Playing Lego | Python | 1444 | MIT License | 2019-04-15 | 2024-07-16 |
+| [NeuronBlocks](https://github.com/microsoft/NeuronBlocks) | NLP DNN Toolkit - Building Your NLP DNN Models Like Playing Lego | Python | 1445 | MIT License | 2019-04-15 | 2024-07-22 |
 | [Check-GroupMembership](https://github.com/microsoft/Check-GroupMembership) | This script checks if there are groups that have mismatching members in between Azure Active Directory and Exchange Online. | PowerShell | 8 | MIT License | 2019-04-15 | 2024-04-05 |
 | [Azure-Advanced-Threat-Protection](https://github.com/microsoft/Azure-Advanced-Threat-Protection) | Additional Resources to improve Customer Experience with Azure Advanced Threat Protection | PowerShell | 21 | MIT License | 2019-04-15 | 2024-04-02 |
 | [Microsoft-Cloud-App-Security](https://github.com/microsoft/Microsoft-Cloud-App-Security) | Additional Resources to improve Customer Experience with Microsoft Cloud App Security | PowerShell | 137 | MIT License | 2019-04-15 | 2024-07-06 |
@@ -10821,21 +10821,21 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [python-sample-tweeterapp](https://github.com/microsoft/python-sample-tweeterapp) | Sample Django+React+Postgres application for use in Visual Studio Code and Azure | Python | 107 | MIT License | 2019-04-16 | 2024-06-26 |
 | [python-sample-anacondacontainer](https://github.com/microsoft/python-sample-anacondacontainer) | Sample Anaconda dev container demo | Dockerfile | 10 | MIT License | 2019-04-16 | 2023-11-16 |
 | [adfs-sample-RiskAssessmentModel-RiskyIPBlock](https://github.com/microsoft/adfs-sample-RiskAssessmentModel-RiskyIPBlock) | Sample plug-in to block authentication requests coming from specified extranet IPs.  | C# | 6 | MIT License | 2019-04-16 | 2023-11-14 |
-| [demikernel](https://github.com/microsoft/demikernel) | Kernel-Bypass LibOS Architecture | Rust | 873 | MIT License | 2019-04-16 | 2024-07-20 |
+| [demikernel](https://github.com/microsoft/demikernel) | Kernel-Bypass LibOS Architecture | Rust | 874 | MIT License | 2019-04-16 | 2024-07-21 |
 | [tes-azure-legacy](https://github.com/microsoft/tes-azure-legacy) | [DEPRECATED] - A GA4GH Task Execution Service (TES) compatible implementation for Azure Compute | Python | 18 | MIT License | 2019-04-16 | 2023-09-29 |
 | [onnxconverter-common](https://github.com/microsoft/onnxconverter-common) | Common utilities for ONNX converters | Python | 241 | MIT License | 2019-04-16 | 2024-07-18 |
-| [vscode-remote-try-python](https://github.com/microsoft/vscode-remote-try-python) | Python sample project for trying out Dev Containers | Python | 727 | MIT License | 2019-04-16 | 2024-07-17 |
+| [vscode-remote-try-python](https://github.com/microsoft/vscode-remote-try-python) | Python sample project for trying out Dev Containers | Python | 729 | MIT License | 2019-04-16 | 2024-07-21 |
 | [epic-supervisor](https://github.com/microsoft/epic-supervisor) | :police_car: Supervisor tree for react-redux error handling | TypeScript | 7 | MIT License | 2019-04-16 | 2023-01-27 |
 | [vscode-remote-try-node](https://github.com/microsoft/vscode-remote-try-node) | Node.js sample project for trying out Dev Containers | JavaScript | 671 | MIT License | 2019-04-17 | 2024-07-19 |
 | [vscode-remote-try-go](https://github.com/microsoft/vscode-remote-try-go) | Go sample project for trying out Dev Containers | Go | 313 | MIT License | 2019-04-17 | 2024-07-17 |
-| [vscode-remote-try-java](https://github.com/microsoft/vscode-remote-try-java) | Java sample project for trying out Dev Containers | Java | 300 | MIT License | 2019-04-17 | 2024-07-18 |
+| [vscode-remote-try-java](https://github.com/microsoft/vscode-remote-try-java) | Java sample project for trying out Dev Containers | Java | 301 | MIT License | 2019-04-17 | 2024-07-22 |
 | [sql-server-language-extensions](https://github.com/microsoft/sql-server-language-extensions) | language-extensions-sqlserver | C++ | 106 | Other | 2019-04-17 | 2024-06-03 |
 | [DataStreamerDevPortal](https://github.com/microsoft/DataStreamerDevPortal) | Data Streamer Developer Portal Webpage | None | 4 | Creative Commons Attribution 4.0 International | 2019-04-17 | 2024-02-26 |
 | [SkillsExtractorCognitiveSearch](https://github.com/microsoft/SkillsExtractorCognitiveSearch) | Azure Search Cognitive Skill to extract technical and business skills from text | Python | 77 | MIT License | 2019-04-17 | 2024-06-19 |
 | [KubeDevice](https://github.com/microsoft/KubeDevice) | More Flexible Device Extension Capability in Kubernetes (DevicePlugins++) | Go | 20 | MIT License | 2019-04-18 | 2023-06-12 |
 | [KubeDevice-API](https://github.com/microsoft/KubeDevice-API) | Flexible plugin for devices in Kubernetes | Go | 3 | MIT License | 2019-04-18 | 2023-06-12 |
 | [OpenXR-MixedReality](https://github.com/microsoft/OpenXR-MixedReality) | OpenXR samples and preview headers for HoloLens and Windows Mixed Reality developers familiar with Visual Studio | C++ | 333 | MIT License | 2019-04-19 | 2024-07-13 |
-| [Azure_Kinect_ROS_Driver](https://github.com/microsoft/Azure_Kinect_ROS_Driver) | A ROS sensor driver for the Azure Kinect Developer Kit. | C++ | 295 | MIT License | 2019-04-19 | 2024-07-08 |
+| [Azure_Kinect_ROS_Driver](https://github.com/microsoft/Azure_Kinect_ROS_Driver) | A ROS sensor driver for the Azure Kinect Developer Kit. | C++ | 296 | MIT License | 2019-04-19 | 2024-07-22 |
 | [axe-windows](https://github.com/microsoft/axe-windows) | Automated accessibility testing engine for Windows applications | C# | 131 | MIT License | 2019-04-19 | 2024-07-12 |
 | [vscode-remote-try-dotnet](https://github.com/microsoft/vscode-remote-try-dotnet) | .NET sample project for trying out Dev Containers | C# | 219 | MIT License | 2019-04-20 | 2024-07-12 |
 | [vscode-remote-try-php](https://github.com/microsoft/vscode-remote-try-php) | PHP sample project for trying out Dev Containers | PHP | 201 | MIT License | 2019-04-20 | 2024-07-16 |
@@ -10845,7 +10845,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [PowerBI-visuals-sampleBarChart-react](https://github.com/microsoft/PowerBI-visuals-sampleBarChart-react) | power bi sample bar chart custom visual based on reactJS | TypeScript | 15 | MIT License | 2019-04-21 | 2024-01-30 |
 | [identity-dev-lab](https://github.com/microsoft/identity-dev-lab) | Set of sample projects to facilitate learning Azure AD integration in .Net, .Net Core, Java, and Angular. | Java | 9 | MIT License | 2019-04-21 | 2024-02-24 |
 | [cookiecutter-spacy-fastapi](https://github.com/microsoft/cookiecutter-spacy-fastapi) | Cookiecutter API for creating Custom Skills for Azure Search using Python and Docker | Python | 505 | MIT License | 2019-04-22 | 2024-07-18 |
-| [Kusto-Query-Language](https://github.com/microsoft/Kusto-Query-Language) | Kusto Query Language is a simple and productive language for querying Big Data.  | C# | 519 | Apache License 2.0 | 2019-04-23 | 2024-07-20 |
+| [Kusto-Query-Language](https://github.com/microsoft/Kusto-Query-Language) | Kusto Query Language is a simple and productive language for querying Big Data.  | C# | 520 | Apache License 2.0 | 2019-04-23 | 2024-07-21 |
 | [ui-fabric-ts-validation](https://github.com/microsoft/ui-fabric-ts-validation) | TypeScript compatibility test suite for Office UI Fabric React | TypeScript | 5 | MIT License | 2019-04-23 | 2022-08-10 |
 | [RegFree_WinRT](https://github.com/microsoft/RegFree_WinRT) | Sample Code showing use of Registration-free WinRT to access a 3rd party native WinRT Component from a non-packaged Desktop app | C# | 41 | MIT License | 2019-04-23 | 2024-05-15 |
 | [StateDecoding](https://github.com/microsoft/StateDecoding) | Reinforcement Learning via Latent State Decoding | Python | 30 | MIT License | 2019-04-24 | 2024-03-03 |
@@ -10863,11 +10863,11 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [lttng-consume](https://github.com/microsoft/lttng-consume) | A realtime consumer of LTTNG traces via the BabelTrace framework | C++ | 8 | Other | 2019-04-30 | 2024-03-04 |
 | [charts](https://github.com/microsoft/charts) | A Helm Chart Repository for Microsoft Projects | None | 30 | MIT License | 2019-04-30 | 2024-06-18 |
 | [TypeScript-New-Handbook](https://github.com/microsoft/TypeScript-New-Handbook) | Incubation repository for the new TypeScript handbook 🐣 | TypeScript | 649 | MIT License | 2019-04-30 | 2024-07-04 |
-| [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity | C# | 107408 | MIT License | 2019-05-01 | 2024-07-21 |
+| [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity | C# | 107430 | MIT License | 2019-05-01 | 2024-07-22 |
 | [MLOps_VideoAnomalyDetection](https://github.com/microsoft/MLOps_VideoAnomalyDetection) | Operationalize a video anomaly detection model with Azure ML | Python | 129 | MIT License | 2019-05-02 | 2024-07-19 |
 | [UnityTelemetryVisualizer](https://github.com/microsoft/UnityTelemetryVisualizer) | Telemetry emitter and in-editor visualization plugins for use in games and other projects built on the Unity engine.  | C# | 45 | MIT License | 2019-05-02 | 2024-06-02 |
 | [MLOpsSamples](https://github.com/microsoft/MLOpsSamples) | Samples for use with MLOps | Python | 14 | MIT License | 2019-05-03 | 2024-02-07 |
-| [MLOps](https://github.com/microsoft/MLOps) | MLOps examples | Jupyter Notebook | 1773 | MIT License | 2019-05-03 | 2024-07-19 |
+| [MLOps](https://github.com/microsoft/MLOps) | MLOps examples | Jupyter Notebook | 1774 | MIT License | 2019-05-03 | 2024-07-21 |
 | [SeeingVRtoolkit](https://github.com/microsoft/SeeingVRtoolkit) | A Set of Tools to Make Virtual Reality More Accessible to People with Low Vision | C# | 62 | MIT License | 2019-05-03 | 2024-05-28 |
 | [MapsSDK-Native](https://github.com/microsoft/MapsSDK-Native) | This repository contains samples, documentation and releases history for the Bing Maps SDK for Android and iOS. | Java | 40 | MIT License | 2019-05-06 | 2024-06-18 |
 | [axe-pipelines-samples](https://github.com/microsoft/axe-pipelines-samples) | Samples that demonstrate running axe accessibility scans from Azure Pipelines | TypeScript | 88 | MIT License | 2019-05-06 | 2024-07-18 |
@@ -10885,7 +10885,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [azure-repos-pr-multi-cherry-pick](https://github.com/microsoft/azure-repos-pr-multi-cherry-pick) | Azure DevOps extension to cherry-pick a PR's commits into multiple branches simultaneously | TypeScript | 26 | MIT License | 2019-05-13 | 2024-04-15 |
 | [azure-devops-extension-hot-reload-and-debug](https://github.com/microsoft/azure-devops-extension-hot-reload-and-debug) | Azure DevOps extension sample that uses hot reloading and is debuggable directly in VS Code | TypeScript | 89 | MIT License | 2019-05-13 | 2024-06-15 |
 | [m365-sample-twitter-connector-csharp-aspnet](https://github.com/microsoft/m365-sample-twitter-connector-csharp-aspnet) | Please note that this open source software (OSS) code is subject to the terms of the license agreement and Read Me file below.  | C# | 5 | MIT License | 2019-05-14 | 2024-05-20 |
-| [vi-hds](https://github.com/microsoft/vi-hds) | Variational inference for hierarchical dynamical systems | Python | 45 | MIT License | 2019-05-14 | 2024-03-25 |
+| [vi-hds](https://github.com/microsoft/vi-hds) | Variational inference for hierarchical dynamical systems | Python | 46 | MIT License | 2019-05-14 | 2024-07-21 |
 | [ICSE2019](https://github.com/microsoft/ICSE2019) | Class materials for the ICSE tutorial on scalable machine learning | HTML | 10 | MIT License | 2019-05-14 | 2023-06-12 |
 | [wiql-to-odata-ado-extension](https://github.com/microsoft/wiql-to-odata-ado-extension) | Translates a WIQL query to OData (for the Analytics extension) in Azure DevOps | TypeScript | 14 | MIT License | 2019-05-14 | 2024-06-12 |
 | [MixedReality-SpectatorView](https://github.com/microsoft/MixedReality-SpectatorView) | Mixed reality spectator experiences | C# | 193 | MIT License | 2019-05-14 | 2024-06-21 |
@@ -10908,7 +10908,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [azure-digital-twins-java](https://github.com/microsoft/azure-digital-twins-java) | Azure Digital Twins - Java Support Collection | Java | 16 | MIT License | 2019-05-21 | 2024-05-31 |
 | [PowerShell-FeatureFlags](https://github.com/microsoft/PowerShell-FeatureFlags) | PowerShell module containing a Feature Flags implementation based on a local config file. | PowerShell | 22 | MIT License | 2019-05-21 | 2024-01-03 |
 | [react-native-windows-specs](https://github.com/microsoft/react-native-windows-specs) | Discussions and proposal related to the main React Native project | None | 2 | - | 2019-05-21 | 2023-01-28 |
-| [WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) | The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2) | C | 7829 | Other | 2019-05-21 | 2024-07-21 |
+| [WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) | The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2) | C | 7831 | Other | 2019-05-21 | 2024-07-22 |
 | [vscode-dts](https://github.com/microsoft/vscode-dts) | CLI utility for downloading vscode.d.ts and vscode.proposed.d.ts | JavaScript | 33 | MIT License | 2019-05-22 | 2024-06-28 |
 | [Healthcare-Blockchain-Solution-Accelerator](https://github.com/microsoft/Healthcare-Blockchain-Solution-Accelerator) | Healthcare Blockchain Solution Accelerator | C# | 16 | MIT License | 2019-05-23 | 2024-05-01 |
 | [MixedReality-WebRTC](https://github.com/microsoft/MixedReality-WebRTC) | MixedReality-WebRTC is a collection of components to help mixed reality app developers integrate audio and video real-time communication into their application and improve their collaborative experience | C# | 903 | MIT License | 2019-05-24 | 2024-07-19 |
@@ -10929,7 +10929,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [MCW-Migrating-SQL-databases-to-Azure](https://github.com/microsoft/MCW-Migrating-SQL-databases-to-Azure) | MCW Migrating SQL databases to Azure | HTML | 92 | MIT License | 2019-05-31 | 2023-11-16 |
 | [NetPerfTest](https://github.com/microsoft/NetPerfTest) | Network Performance Test | PowerShell | 41 | MIT License | 2019-06-01 | 2024-07-17 |
 | [MSFT.Network.Diag](https://github.com/microsoft/MSFT.Network.Diag) | Manifest module containing Network Diagnosis tools from the Core Networking team at Microsoft | PowerShell | 13 | MIT License | 2019-06-02 | 2024-01-01 |
-| [CryptoNets](https://github.com/microsoft/CryptoNets) | CryptoNets is a demonstration of the use of Neural-Networks over data encrypted with Homomorphic Encryption. Homomorphic Encryptions allow performing operations such as addition and multiplication over data while it is encrypted. Therefore, it allows keeping data private while outsourcing computation (see here and here for more about Homomorphic E | C# | 279 | MIT License | 2019-06-02 | 2024-07-19 |
+| [CryptoNets](https://github.com/microsoft/CryptoNets) | CryptoNets is a demonstration of the use of Neural-Networks over data encrypted with Homomorphic Encryption. Homomorphic Encryptions allow performing operations such as addition and multiplication over data while it is encrypted. Therefore, it allows keeping data private while outsourcing computation (see here and here for more about Homomorphic E | C# | 280 | MIT License | 2019-06-02 | 2024-07-21 |
 | [dstc8-reddit-corpus](https://github.com/microsoft/dstc8-reddit-corpus) | Code to generate the Reddit corpus for the DSTC 8 competition Multi-Domain End-to-End Track, Fast Adaptation Task | Python | 37 | MIT License | 2019-06-02 | 2024-01-04 |
 | [anomalydetector](https://github.com/microsoft/anomalydetector) | SR-CNN | Python | 254 | MIT License | 2019-06-03 | 2024-07-18 |
 | [vscode-textbuffer](https://github.com/microsoft/vscode-textbuffer) | The text buffer implementation that is used in VS Code. | TypeScript | 86 | MIT License | 2019-06-03 | 2024-07-20 |
@@ -10946,9 +10946,9 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [ImplicitPackageReference](https://github.com/microsoft/ImplicitPackageReference) | MsBuild Task to specify a transitive NuGet dependency as a direct NuGet dependency without specifying the version explicitly | C# | 14 | MIT License | 2019-06-06 | 2024-06-12 |
 | [qsharp-runtime](https://github.com/microsoft/qsharp-runtime) | Runtime components for Q# | C# | 285 | MIT License | 2019-06-06 | 2024-06-30 |
 | [avml](https://github.com/microsoft/avml) | AVML - Acquire Volatile Memory for Linux | Rust | 837 | MIT License | 2019-06-06 | 2024-07-19 |
-| [bistring](https://github.com/microsoft/bistring) | Bidirectionally transformed strings | Python | 367 | MIT License | 2019-06-07 | 2024-07-08 |
+| [bistring](https://github.com/microsoft/bistring) | Bidirectionally transformed strings | Python | 366 | MIT License | 2019-06-07 | 2024-07-21 |
 | [qsharp-compiler](https://github.com/microsoft/qsharp-compiler) | Q# compiler, command line tool, and Q# language server | C# | 684 | MIT License | 2019-06-07 | 2024-07-19 |
-| [vscode-typescript-next](https://github.com/microsoft/vscode-typescript-next) | Enables typescript@next as VS Code's built-in TypeScript version | JavaScript | 215 | MIT License | 2019-06-10 | 2024-07-21 |
+| [vscode-typescript-next](https://github.com/microsoft/vscode-typescript-next) | Enables typescript@next as VS Code's built-in TypeScript version | JavaScript | 215 | MIT License | 2019-06-10 | 2024-07-22 |
 | [icecaps](https://github.com/microsoft/icecaps) | Intelligent Conversation Engine: Code and Pre-trained Systems. Version 0.2.0. | Python | 286 | MIT License | 2019-06-10 | 2024-06-13 |
 | [xaml-designer-extensibility](https://github.com/microsoft/xaml-designer-extensibility) | Extensibility sample code for the Visual Studio XAML Designer | None | 67 | MIT License | 2019-06-11 | 2024-07-11 |
 | [dcase-2019](https://github.com/microsoft/dcase-2019) | Submission for DCASE 2019 audio challenge | Jupyter Notebook | 9 | MIT License | 2019-06-11 | 2023-06-12 |
@@ -10972,7 +10972,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [MCW-Modernizing-Data-Analytics-with-SQL-Server-2019](https://github.com/microsoft/MCW-Modernizing-Data-Analytics-with-SQL-Server-2019) | MCW Modernizing Data Analytics with SQL Server 2019 | Jupyter Notebook | 36 | Other | 2019-06-18 | 2024-03-27 |
 | [MCW-ML-Ops](https://github.com/microsoft/MCW-ML-Ops) | MCW MLOps | Jupyter Notebook | 171 | MIT License | 2019-06-18 | 2024-03-29 |
 | [AzureScheduledEventsService](https://github.com/microsoft/AzureScheduledEventsService) | Service that can be run on Windows VMs to listen to Azure Schedeuled Events and writes them to Windows Event logs | PowerShell | 8 | MIT License | 2019-06-18 | 2024-06-13 |
-| [mimalloc](https://github.com/microsoft/mimalloc) | mimalloc is a compact general purpose allocator with excellent performance. | C | 9793 | MIT License | 2019-06-19 | 2024-07-21 |
+| [mimalloc](https://github.com/microsoft/mimalloc) | mimalloc is a compact general purpose allocator with excellent performance. | C | 9797 | MIT License | 2019-06-19 | 2024-07-22 |
 | [SARA](https://github.com/microsoft/SARA) | Record-and-replay tools are indispensable for quality assurance of mobile applications. However, by conducting an empirical study of various existing tools in industrial settings, researchers have concluded that no existing tools under evaluation are sufficient for industrial applications. In this project, we present a record-and-replay tool called SARA towards bridging the gap and targeting a wide adoption. | Python | 87 | MIT License | 2019-06-20 | 2024-01-20 |
 | [pxt-react-extension-template](https://github.com/microsoft/pxt-react-extension-template) | A React-based MakeCode Extension | TypeScript | 6 | MIT License | 2019-06-20 | 2023-01-28 |
 | [tf-gnn-samples](https://github.com/microsoft/tf-gnn-samples) | TensorFlow implementations of Graph Neural Networks | Python | 910 | MIT License | 2019-06-23 | 2024-07-15 |
@@ -11002,7 +11002,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [AzureSuperpowers](https://github.com/microsoft/AzureSuperpowers) | The Azure Superpowers workshop focusses on the prerequisite skills and technologies needed to succeed with Azure DevOps as the preferred method for deploying applications into Azure. | PowerShell | 129 | Other | 2019-07-04 | 2024-01-05 |
 | [Relation-Aware-Global-Attention-Networks](https://github.com/microsoft/Relation-Aware-Global-Attention-Networks) | We design an effective Relation-Aware Global Attention (RGA) module for CNNs to globally infer the attention.  | Python | 335 | MIT License | 2019-07-04 | 2024-07-17 |
 | [Semantics-Aligned-Representation-Learning-for-Person-Re-identification](https://github.com/microsoft/Semantics-Aligned-Representation-Learning-for-Person-Re-identification) | This is an implementation of AAAI'20 paper "Semantics-Aligned Representation Learning for Person Re-identification".  We leverages dense semantics to address both the spatial misalignment and semantics misalignment challenges in person re-identification. | Python | 23 | MIT License | 2019-07-04 | 2024-01-28 |
-| [View-Adaptive-Neural-Networks-for-Skeleton-based-Human-Action-Recognition](https://github.com/microsoft/View-Adaptive-Neural-Networks-for-Skeleton-based-Human-Action-Recognition) | View Adaptive Neural Networks for High Performance Skeleton-based Human Action Recognition | Python | 127 | MIT License | 2019-07-04 | 2024-06-05 |
+| [View-Adaptive-Neural-Networks-for-Skeleton-based-Human-Action-Recognition](https://github.com/microsoft/View-Adaptive-Neural-Networks-for-Skeleton-based-Human-Action-Recognition) | View Adaptive Neural Networks for High Performance Skeleton-based Human Action Recognition | Python | 128 | MIT License | 2019-07-04 | 2024-07-22 |
 | [simple_ado](https://github.com/microsoft/simple_ado) | An easy to use wrapper around the Azure DevOps REST API | Python | 47 | MIT License | 2019-07-04 | 2024-07-19 |
 | [Elastic-Silicon-Interconnect](https://github.com/microsoft/Elastic-Silicon-Interconnect) | ESI is an FPGA connectivity system. It uses typed, latency-insensitive on-chip connections between ESI-enabled modules. It also bridges off-chip and creates high-level APIs using the type data. | C# | 33 | Creative Commons Attribution 4.0 International | 2019-07-04 | 2024-04-04 |
 | [IBWO](https://github.com/microsoft/IBWO) | DSP sound matching code in attempt to locate the Ivory Billed Woodpecker | Python | 5 | MIT License | 2019-07-08 | 2023-06-12 |
@@ -11011,7 +11011,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [AzureNotebookTests](https://github.com/microsoft/AzureNotebookTests) | Test notebooks for the images used in Azure Notebooks | Jupyter Notebook | 2 | MIT License | 2019-07-10 | 2023-06-12 |
 | [fluentui-react-native](https://github.com/microsoft/fluentui-react-native) | A react-native component library that implements the Fluent Design System. | TypeScript | 1214 | MIT License | 2019-07-10 | 2024-07-18 |
 | [typescript-etw](https://github.com/microsoft/typescript-etw) | Native ETW logging Node.js module for TypeScript project | C++ | 10 | MIT License | 2019-07-10 | 2024-06-11 |
-| [cascadia-code](https://github.com/microsoft/cascadia-code) | This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal. | Python | 25188 | Other | 2019-07-10 | 2024-07-21 |
+| [cascadia-code](https://github.com/microsoft/cascadia-code) | This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal. | Python | 25196 | Other | 2019-07-10 | 2024-07-22 |
 | [MSCloudLoginAssistant](https://github.com/microsoft/MSCloudLoginAssistant) | PowerShell Module Handling Authentication to Cloud Services | PowerShell | 73 | MIT License | 2019-07-11 | 2024-07-12 |
 | [Briefcase](https://github.com/microsoft/Briefcase) | Manage your resources such as service and data connections using YAML and get credential management along the way. It's for all of data scientists, data engineers and developers. | Python | 6 | MIT License | 2019-07-12 | 2022-08-10 |
 | [ring-operator](https://github.com/microsoft/ring-operator) | A Kubernetes operator for releasing services with user-based routing  | Go | 15 | MIT License | 2019-07-15 | 2024-02-02 |
@@ -11021,8 +11021,8 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [azure-devops-go-api](https://github.com/microsoft/azure-devops-go-api) | This repository contains Go APIs for interacting with and managing Azure DevOps. | Go | 184 | MIT License | 2019-07-16 | 2024-06-06 |
 | [python-program-analysis](https://github.com/microsoft/python-program-analysis) | A Typescript library for parsing Python 3 and doing basic program analysis,  like forming control-flow graphs and def-use chains. | TypeScript | 51 | MIT License | 2019-07-16 | 2024-06-25 |
 | [HybridRow](https://github.com/microsoft/HybridRow) | Serialization format for semi-schematized data | C# | 8 | MIT License | 2019-07-16 | 2023-12-25 |
-| [winget-cli](https://github.com/microsoft/winget-cli) | WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface). | C++ | 22667 | MIT License | 2019-07-16 | 2024-07-21 |
-| [winget-pkgs](https://github.com/microsoft/winget-pkgs) | The Microsoft community Windows Package Manager manifest repository | PowerShell | 8368 | MIT License | 2019-07-16 | 2024-07-20 |
+| [winget-cli](https://github.com/microsoft/winget-cli) | WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface). | C++ | 22672 | MIT License | 2019-07-16 | 2024-07-22 |
+| [winget-pkgs](https://github.com/microsoft/winget-pkgs) | The Microsoft community Windows Package Manager manifest repository | PowerShell | 8371 | MIT License | 2019-07-16 | 2024-07-22 |
 | [vscode-ripgrep](https://github.com/microsoft/vscode-ripgrep) | For consuming the ripgrep binary from microsoft/ripgrep-prebuilt in a Node project | JavaScript | 105 | Other | 2019-07-17 | 2024-07-03 |
 | [ODAResources](https://github.com/microsoft/ODAResources) | Additional resources for On-Demand Assessments (https://docs.microsoft.com/en-us/services-hub/health/index)  | PowerShell | 7 | MIT License | 2019-07-17 | 2024-05-20 |
 | [semver-umd](https://github.com/microsoft/semver-umd) | Semver as UMD module | JavaScript | 3 | MIT License | 2019-07-17 | 2023-11-16 |
@@ -11031,7 +11031,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [MicrosoftDefenderForEndpoint-API-PowerShell](https://github.com/microsoft/MicrosoftDefenderForEndpoint-API-PowerShell) | This project contains samples how to use MDATP API for integration with other systems and products | None | 24 | MIT License | 2019-07-21 | 2023-10-01 |
 | [openCypherTranspiler](https://github.com/microsoft/openCypherTranspiler) | This tool transpiles openCypher graph query language to a relational database query language. This project publishes a T-SQL for Microsoft SQL Server as the target query language. | C# | 71 | MIT License | 2019-07-22 | 2024-06-21 |
 | [SchemaGenerator](https://github.com/microsoft/SchemaGenerator) | A generic tool for automatic schema generation for a set of C# classes. | C# | 16 | MIT License | 2019-07-22 | 2023-06-05 |
-| [unilm](https://github.com/microsoft/unilm) | Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities | Python | 19213 | MIT License | 2019-07-23 | 2024-07-21 |
+| [unilm](https://github.com/microsoft/unilm) | Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities | Python | 19219 | MIT License | 2019-07-23 | 2024-07-22 |
 | [update-client-server-sync](https://github.com/microsoft/update-client-server-sync) | Provide a C# implementation (.NET Core) of the Microsoft Update Client-Server sync protocol. | C# | 26 | MIT License | 2019-07-23 | 2024-02-24 |
 | [praxxis](https://github.com/microsoft/praxxis) | A task interface for Jupyter notebooks built on machine learning and big data  | Python | 10 | MIT License | 2019-07-23 | 2023-11-16 |
 | [StretchBuildstrong](https://github.com/microsoft/StretchBuildstrong) | Bringing the elasticity and convenience of hosted build, to private build servers | C# | 12 | MIT License | 2019-07-23 | 2022-08-10 |
@@ -11042,7 +11042,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [pipelines-appservice-lib](https://github.com/microsoft/pipelines-appservice-lib) | Common node utilities to build the pipeline task or actions in order to deploy to Azure App Service | TypeScript | 9 | MIT License | 2019-07-25 | 2024-07-15 |
 | [MCW-Predictive-Maintenance-for-remote-field-devices](https://github.com/microsoft/MCW-Predictive-Maintenance-for-remote-field-devices) | Predictive Maintenance for remote field devices | Jupyter Notebook | 31 | Creative Commons Attribution 4.0 International | 2019-07-25 | 2024-06-17 |
 | [PL-DNS-Proxy](https://github.com/microsoft/PL-DNS-Proxy) | NGINX DNS Proxy | Shell | 35 | MIT License | 2019-07-25 | 2024-02-20 |
-| [vscode-js-debug](https://github.com/microsoft/vscode-js-debug) | A DAP-compatible JavaScript debugger. Used in VS Code, VS, + more | TypeScript | 1631 | MIT License | 2019-07-25 | 2024-07-19 |
+| [vscode-js-debug](https://github.com/microsoft/vscode-js-debug) | A DAP-compatible JavaScript debugger. Used in VS Code, VS, + more | TypeScript | 1632 | MIT License | 2019-07-25 | 2024-07-22 |
 | [devops-pipelines](https://github.com/microsoft/devops-pipelines) | Warehouse of notebooks that contains azure data explorer queries to help in root causing pipeline delays in azuredevops. | Jupyter Notebook | 15 | MIT License | 2019-07-25 | 2024-04-25 |
 | [pxt-microsoft-boot-sequence](https://github.com/microsoft/pxt-microsoft-boot-sequence) | A boot sequence animation for Microsoft MakeCode Arcade | TypeScript | 5 | MIT License | 2019-07-25 | 2023-06-12 |
 | [pxt-badge](https://github.com/microsoft/pxt-badge) | A framework to create electronic badges in Microsoft MakeCode Arcade - beta | TypeScript | 4 | MIT License | 2019-07-26 | 2023-07-07 |
@@ -11051,7 +11051,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [CollectServiceFabricData](https://github.com/microsoft/CollectServiceFabricData) | CollectSFData is a Service Fabric support utility to collect detailed cluster traces and other diagnostics data for ingestion into Log Analytics or Azure Data Explorer for analysis. | Roff | 14 | MIT License | 2019-07-27 | 2023-03-14 |
 | [bedrock-rings](https://github.com/microsoft/bedrock-rings) | Documentation on how to implement rings with Bedrock. | Shell | 6 | MIT License | 2019-07-29 | 2023-11-16 |
 | [azure-devops-engineering-extensions](https://github.com/microsoft/azure-devops-engineering-extensions) | AzureDevOps marketplace extension that contains various engineering oriented Pipeline tasks | TypeScript | 19 | MIT License | 2019-07-29 | 2024-06-11 |
-| [RulesEngine](https://github.com/microsoft/RulesEngine) | A Json based Rules Engine with extensive Dynamic expression support | C# | 3502 | MIT License | 2019-07-30 | 2024-07-19 |
+| [RulesEngine](https://github.com/microsoft/RulesEngine) | A Json based Rules Engine with extensive Dynamic expression support | C# | 3504 | MIT License | 2019-07-30 | 2024-07-22 |
 | [azure-pipelines-ephemeral-agents](https://github.com/microsoft/azure-pipelines-ephemeral-agents) | Use Ephemeral agents to deploy to private azure resources  in a virtual network | TypeScript | 58 | MIT License | 2019-07-30 | 2024-05-29 |
 | [azure-artifacts-migration](https://github.com/microsoft/azure-artifacts-migration) | Migration scripts to help move your packages to Azure Artifacts from other package repositories.  | PowerShell | 13 | MIT License | 2019-07-30 | 2024-06-06 |
 | [MSBuildForUnity](https://github.com/microsoft/MSBuildForUnity) | MSBuild integration in Unity | C# | 353 | MIT License | 2019-07-30 | 2024-06-27 |
@@ -11061,7 +11061,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [pxt-arcade-cabinet-menu](https://github.com/microsoft/pxt-arcade-cabinet-menu) | The menu application running on MakeCode Arcade cabinets | TypeScript | 17 | MIT License | 2019-07-31 | 2024-01-18 |
 | [seismic-deeplearning](https://github.com/microsoft/seismic-deeplearning) | Deep Learning for Seismic Imaging and Interpretation | Python | 388 | MIT License | 2019-08-01 | 2024-07-19 |
 | [flamegrill](https://github.com/microsoft/flamegrill) | Flame Grill Your Webpages for Easy Digestion | HTML | 18 | MIT License | 2019-08-01 | 2024-04-02 |
-| [vscode-icons](https://github.com/microsoft/vscode-icons) | Icons for Visual Studio Code | None | 850 | Creative Commons Attribution 4.0 International | 2019-08-02 | 2024-07-18 |
+| [vscode-icons](https://github.com/microsoft/vscode-icons) | Icons for Visual Studio Code | None | 849 | Creative Commons Attribution 4.0 International | 2019-08-02 | 2024-07-21 |
 | [vscode-dtdl](https://github.com/microsoft/vscode-dtdl) | Digital Twins Definition Language extension for VSCode | TypeScript | 22 | MIT License | 2019-08-04 | 2024-05-19 |
 | [ignite-learning-paths](https://github.com/microsoft/ignite-learning-paths) | Microsoft Ignite Learning Path | None | 36 | MIT License | 2019-08-06 | 2023-06-12 |
 | [adfs-sample-msal-dotnet-webapi-to-webapi-onbehalfof](https://github.com/microsoft/adfs-sample-msal-dotnet-webapi-to-webapi-onbehalfof) | A sample showcasing how to implement an on-behalf-of (OBO) authentication using AD FS. The sample uses MSAL client library to obtain a token for accessing Web API.  | C# | 9 | MIT License | 2019-08-06 | 2024-06-03 |
@@ -11069,8 +11069,8 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [Azure-ILB-hairpin](https://github.com/microsoft/Azure-ILB-hairpin) | Back-end to front-end communication with Azure Internal Load Balancer | None | 8 | Creative Commons Attribution 4.0 International | 2019-08-09 | 2024-01-18 |
 | [FHIR-Converter](https://github.com/microsoft/FHIR-Converter) | Conversion utility to translate legacy data formats into FHIR | Liquid | 390 | MIT License | 2019-08-09 | 2024-07-15 |
 | [aksworkshop](https://github.com/microsoft/aksworkshop) | Azure Kubernetes Service (AKS) workshop website content | CSS | 126 | Creative Commons Attribution 4.0 International | 2019-08-09 | 2024-05-27 |
-| [vscode-azurevirtualmachines](https://github.com/microsoft/vscode-azurevirtualmachines) | Azure Virtual Machines extension for Visual Studio Code | TypeScript | 31 | MIT License | 2019-08-12 | 2024-07-05 |
-| [Olive](https://github.com/microsoft/Olive) | Olive is an easy-to-use hardware-aware model optimization tool that composes industry-leading techniques across model compression, optimization, and compilation.  | Python | 1392 | MIT License | 2019-08-12 | 2024-07-21 |
+| [vscode-azurevirtualmachines](https://github.com/microsoft/vscode-azurevirtualmachines) | Azure Virtual Machines extension for Visual Studio Code | TypeScript | 32 | MIT License | 2019-08-12 | 2024-07-22 |
+| [Olive](https://github.com/microsoft/Olive) | Olive is an easy-to-use hardware-aware model optimization tool that composes industry-leading techniques across model compression, optimization, and compilation.  | Python | 1426 | MIT License | 2019-08-12 | 2024-07-22 |
 | [TSVD](https://github.com/microsoft/TSVD) | TSVD is a tool for quickly finding thread-safety violations (e.g., data races) in .NET applications. | C# | 77 | MIT License | 2019-08-12 | 2024-04-10 |
 | [msnews-sdk-csharp](https://github.com/microsoft/msnews-sdk-csharp) | Microsoft News Client Library for C#! | C# | 9 | MIT License | 2019-08-12 | 2024-01-09 |
 | [eventtracing-processing-samples](https://github.com/microsoft/eventtracing-processing-samples) | Sample code demonstrating use cases of the Microsoft.Windows.EventTracing.Processing.All nuget package. | C# | 42 | MIT License | 2019-08-12 | 2024-05-23 |
@@ -11087,14 +11087,14 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [font-tools](https://github.com/microsoft/font-tools) | Font tools to support development of OpenType fonts. | HTML | 55 | MIT License | 2019-08-22 | 2024-06-26 |
 | [localizationkit](https://github.com/microsoft/localizationkit) | Tools and utilities for verifying string localization | Python | 10 | MIT License | 2019-08-22 | 2023-08-09 |
 | [azure-boards-automate-state-transitions](https://github.com/microsoft/azure-boards-automate-state-transitions) | Automate state transitions of parent work items based on child work item changes | C# | 62 | MIT License | 2019-08-22 | 2023-12-05 |
-| [FluidFramework](https://github.com/microsoft/FluidFramework) | Library for building distributed, real-time collaborative web  applications | TypeScript | 4668 | MIT License | 2019-08-22 | 2024-07-20 |
+| [FluidFramework](https://github.com/microsoft/FluidFramework) | Library for building distributed, real-time collaborative web  applications | TypeScript | 4666 | MIT License | 2019-08-22 | 2024-07-22 |
 | [multilabel-clustering-audio](https://github.com/microsoft/multilabel-clustering-audio) | 2019 Internship project: multilabel clustering for audio | Jupyter Notebook | 9 | MIT License | 2019-08-23 | 2024-03-14 |
 | [multilabel-audio-retrieval](https://github.com/microsoft/multilabel-audio-retrieval) | Deep learning-based multi-label audio retrieval using a Siamese network | Jupyter Notebook | 5 | MIT License | 2019-08-23 | 2023-11-16 |
 | [piggymetrics-config](https://github.com/microsoft/piggymetrics-config) | Configuration for running Piggy Metrics app in the Azure Spring Cloud service | None | 4 | MIT License | 2019-08-24 | 2022-08-10 |
-| [MS-SNSD](https://github.com/microsoft/MS-SNSD) | The Microsoft Scalable Noisy Speech Dataset (MS-SNSD) is a noisy speech dataset that can scale to arbitrary sizes depending on the number of speakers, noise types, and Speech to Noise Ratio (SNR) levels desired.  | HTML | 457 | MIT License | 2019-08-26 | 2024-07-20 |
+| [MS-SNSD](https://github.com/microsoft/MS-SNSD) | The Microsoft Scalable Noisy Speech Dataset (MS-SNSD) is a noisy speech dataset that can scale to arbitrary sizes depending on the number of speakers, noise types, and Speech to Noise Ratio (SNR) levels desired.  | HTML | 458 | MIT License | 2019-08-26 | 2024-07-21 |
 | [security-devops-action](https://github.com/microsoft/security-devops-action) | Microsoft Security DevOps for GitHub Actions. | JavaScript | 101 | MIT License | 2019-08-26 | 2024-07-19 |
 | [WikiCommentEdit](https://github.com/microsoft/WikiCommentEdit) | Code to model Comment-Edit associations in Wikipedia revision histories, based on Zhang et al. (EMNLP 2019) | Python | 10 | MIT License | 2019-08-27 | 2023-10-23 |
-| [STL](https://github.com/microsoft/STL) | MSVC's implementation of the C++ Standard Library. | C++ | 9940 | Other | 2019-08-27 | 2024-07-21 |
+| [STL](https://github.com/microsoft/STL) | MSVC's implementation of the C++ Standard Library. | C++ | 9941 | Other | 2019-08-27 | 2024-07-22 |
 | [backfill](https://github.com/microsoft/backfill) | A JavaScript caching library for reducing build time | TypeScript | 156 | MIT License | 2019-08-27 | 2024-06-21 |
 | [Contoso-Hotels-Demo](https://github.com/microsoft/Contoso-Hotels-Demo) | Fully integrated Azure environment being managed by Azure Tools and deploy by at scale best practices for customers and partners to use for demos. | None | 14 | - | 2019-08-27 | 2024-02-20 |
 | [ability-attributes](https://github.com/microsoft/ability-attributes) | Web Application Accessibility Attributes Runtime Validator | TypeScript | 5 | MIT License | 2019-08-28 | 2023-11-01 |
@@ -11108,7 +11108,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [abstrakt](https://github.com/microsoft/abstrakt) | Business oriented, config driven DevOps | Go | 8 | MIT License | 2019-09-02 | 2024-02-16 |
 | [ps-rule](https://github.com/microsoft/ps-rule) | Validate infrastructure as code (IaC) and DevOps repositories using GitHub Actions. | PowerShell | 72 | MIT License | 2019-09-02 | 2024-03-15 |
 | [vscode-custom-data](https://github.com/microsoft/vscode-custom-data) | Documentation and sample for using VS Code custom data format | JavaScript | 190 | MIT License | 2019-09-04 | 2024-07-16 |
-| [AI](https://github.com/microsoft/AI) | Microsoft AI | Python | 1338 | MIT License | 2019-09-04 | 2024-07-20 |
+| [AI](https://github.com/microsoft/AI) | Microsoft AI | Python | 1340 | MIT License | 2019-09-04 | 2024-07-22 |
 | [poolprovider-for-k8s](https://github.com/microsoft/poolprovider-for-k8s) | Kubernetes based pool provider implementation for Azure DevOps pipelines | Go | 12 | - | 2019-09-06 | 2024-04-01 |
 | [ts-parsec](https://github.com/microsoft/ts-parsec) | Writing a custom parser is a fairly common need. Although there are already parser combinators in others languages, TypeScript provides a powerful and well-structured foundation for building this. Common parser combinators’ weakness are error handling and ambiguity resolving, but these are ts-parsec’s important features. Additionally, ts-parsec provides a very easy to use programming interface, that could help people to build programming-language-scale parsers in just a few hours. This technology has already been used in Microsoft/react-native-tscodegen. | TypeScript | 344 | Other | 2019-09-06 | 2024-07-14 |
 | [MixedReality-BuildTools](https://github.com/microsoft/MixedReality-BuildTools) | Build tools for Mixed Reality projects | None | 3 | MIT License | 2019-09-06 | 2023-11-16 |
@@ -11120,18 +11120,18 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [ShortStack](https://github.com/microsoft/ShortStack) | Stacked Pull Request Tool | C# | 10 | MIT License | 2019-09-11 | 2022-08-10 |
 | [vSlice](https://github.com/microsoft/vSlice) | A tool for viewing and slicing hierarchical data.  | C# | 8 | MIT License | 2019-09-11 | 2022-09-21 |
 | [BusinessCentralBankImportFormat](https://github.com/microsoft/BusinessCentralBankImportFormat) | This repository is a hub where Microsoft and our partners can share data exchange definitions that let businesses around the world electronically exchange information with banks. | None | 10 | MIT License | 2019-09-12 | 2024-06-20 |
-| [windows-rs](https://github.com/microsoft/windows-rs) | Rust for Windows | Rust | 10136 | Apache License 2.0 | 2019-09-12 | 2024-07-21 |
+| [windows-rs](https://github.com/microsoft/windows-rs) | Rust for Windows | Rust | 10138 | Apache License 2.0 | 2019-09-12 | 2024-07-22 |
 | [student-hackathons](https://github.com/microsoft/student-hackathons) | Resources and content for student hackathons | None | 2 | MIT License | 2019-09-12 | 2022-08-10 |
 | [winmd-rs](https://github.com/microsoft/winmd-rs) | Rust winmd parser | Rust | 103 | MIT License | 2019-09-12 | 2023-11-17 |
 | [pxt-mkc](https://github.com/microsoft/pxt-mkc) | Command line tool for MakeCode editors | TypeScript | 11 | MIT License | 2019-09-12 | 2024-07-18 |
 | [verona](https://github.com/microsoft/verona) | Research programming language for concurrent ownership | C++ | 3564 | MIT License | 2019-09-14 | 2024-07-12 |
 | [MicrosoftDefenderForEndpoint-API-Python](https://github.com/microsoft/MicrosoftDefenderForEndpoint-API-Python) | sample code to MicrosoftDefenderATP API | Python | 26 | MIT License | 2019-09-16 | 2024-06-26 |
 | [react-native-windows-samples](https://github.com/microsoft/react-native-windows-samples) | A repository showcasing React Native samples and templates for Windows, macOS, and Surface Duo. | C# | 469 | MIT License | 2019-09-16 | 2024-07-20 |
-| [etl2pcapng](https://github.com/microsoft/etl2pcapng) | Utility that converts an .etl file containing a Windows network packet capture into .pcapng format. | C | 613 | MIT License | 2019-09-16 | 2024-07-19 |
+| [etl2pcapng](https://github.com/microsoft/etl2pcapng) | Utility that converts an .etl file containing a Windows network packet capture into .pcapng format. | C | 615 | MIT License | 2019-09-16 | 2024-07-22 |
 | [gcScript](https://github.com/microsoft/gcScript) | Community supported Guest Configuration resource to support "one-liner" PowerShell scripts | None | 2 | MIT License | 2019-09-17 | 2024-06-13 |
 | [python-for-beginners](https://github.com/microsoft/python-for-beginners) | Sample code for Channel 9 Python for Beginners course | None | 104 | MIT License | 2019-09-17 | 2024-07-14 |
 | [Common-Design-Principles-for-a-Hub-and-Spoke-VNET-Archiecture](https://github.com/microsoft/Common-Design-Principles-for-a-Hub-and-Spoke-VNET-Archiecture) | Learn how to design a Hub and Spoke VNET architecture for Azure. | None | 12 | Creative Commons Attribution 4.0 International | 2019-09-17 | 2024-04-01 |
-| [c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started) | Sample code for Channel 9 Python for Beginners course | Jupyter Notebook | 7747 | MIT License | 2019-09-17 | 2024-07-20 |
+| [c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started) | Sample code for Channel 9 Python for Beginners course | Jupyter Notebook | 7749 | MIT License | 2019-09-17 | 2024-07-21 |
 | [jschema-to-python](https://github.com/microsoft/jschema-to-python) | Generate source code for a set of Python classes from a JSON schema. | Python | 32 | MIT License | 2019-09-17 | 2024-06-19 |
 | [CromwellOnAzure](https://github.com/microsoft/CromwellOnAzure) | Microsoft Genomics implementation of the Broad Institute's Cromwell workflow engine on Azure | C# | 133 | MIT License | 2019-09-17 | 2024-07-19 |
 | [Partner-Center-Payout-APIs](https://github.com/microsoft/Partner-Center-Payout-APIs) | Sample code for using the Partner Center Payout APIs | C# | 6 | MIT License | 2019-09-19 | 2022-08-13 |
@@ -11192,7 +11192,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [Asynchronous_impulse_response_measurement](https://github.com/microsoft/Asynchronous_impulse_response_measurement) | Sample code for acoustic impulse response estimation without clock synchronization | MATLAB | 8 | MIT License | 2019-10-12 | 2024-04-22 |
 | [vs-pty.net](https://github.com/microsoft/vs-pty.net) | Fork pseudoterminals in C# | C# | 44 | MIT License | 2019-10-14 | 2024-07-20 |
 | [MT-DNN](https://github.com/microsoft/MT-DNN) | Multi-Task Deep Neural Networks for Natural Language Understanding | Python | 155 | MIT License | 2019-10-14 | 2024-06-10 |
-| [vscode-codicons](https://github.com/microsoft/vscode-codicons) | The icon font for Visual Studio Code | Handlebars | 845 | Creative Commons Attribution 4.0 International | 2019-10-15 | 2024-07-18 |
+| [vscode-codicons](https://github.com/microsoft/vscode-codicons) | The icon font for Visual Studio Code | Handlebars | 846 | Creative Commons Attribution 4.0 International | 2019-10-15 | 2024-07-22 |
 | [MRDL_Unity_Surfaces](https://github.com/microsoft/MRDL_Unity_Surfaces) | Touchable surfaces for Hololens and Immersive headset | C# | 85 | MIT License | 2019-10-15 | 2024-07-16 |
 | [logrl](https://github.com/microsoft/logrl) | Logarithmic Reinforcement Learning | Python | 26 | Other | 2019-10-15 | 2023-05-27 |
 | [Kuku](https://github.com/microsoft/Kuku) | Kuku is a compact and convenient cuckoo hashing library written in C++. | C# | 59 | MIT License | 2019-10-15 | 2024-06-28 |
@@ -11205,7 +11205,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [opentelemetry-azure-monitor-python](https://github.com/microsoft/opentelemetry-azure-monitor-python) | This repository is the home to Azure Monitor SDKs and exporters utilizing the OpenTelemetry Python Client https://github.com/open-telemetry/opentelemetry-python to send telemetry data to Azure Monitor written in Python. | Python | 14 | MIT License | 2019-10-17 | 2024-05-20 |
 | [Peregrine](https://github.com/microsoft/Peregrine) | Peregrine is a workload optimization platform for cloud query engines. The goal of Peregrine is three-fold: 1. make it easier to ingest and analyze query workload telemetry into a common engine-agnostic representation,  2. help developers to quickly build workload optimization applications to reduce overall costs and improve operational efficiency, and  3. providing better experience to the customers in the form of workload insights, actionable recommendations, and self-tuning capabilities. | Python | 21 | MIT License | 2019-10-17 | 2024-02-24 |
 | [pxt-maker-controller](https://github.com/microsoft/pxt-maker-controller) | Build custom MakeCode Arcade controllers | TypeScript | 4 | MIT License | 2019-10-18 | 2024-04-22 |
-| [vscode-gradle](https://github.com/microsoft/vscode-gradle) | Manage Gradle Projects, run Gradle tasks and provide better Gradle file authoring experience in VS Code | Java | 114 | MIT License | 2019-10-20 | 2024-07-18 |
+| [vscode-gradle](https://github.com/microsoft/vscode-gradle) | Manage Gradle Projects, run Gradle tasks and provide better Gradle file authoring experience in VS Code | Java | 114 | MIT License | 2019-10-20 | 2024-07-22 |
 | [macaw](https://github.com/microsoft/macaw) | An Extensible Conversational Information Seeking Platform | Python | 154 | MIT License | 2019-10-20 | 2024-07-04 |
 | [windows-container-tools](https://github.com/microsoft/windows-container-tools) | Collection of tools to improve the Windows Containers experience  | C++ | 236 | MIT License | 2019-10-21 | 2024-07-15 |
 | [experimental-pcf-control-assets](https://github.com/microsoft/experimental-pcf-control-assets) | Holds assets for an experimental pcf control | None | 20 | Creative Commons Attribution 4.0 International | 2019-10-21 | 2024-03-22 |
@@ -11217,7 +11217,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [FluentDarkModeKit](https://github.com/microsoft/FluentDarkModeKit) | A library for backporting Dark Mode in iOS | Swift | 1630 | MIT License | 2019-10-24 | 2024-07-11 |
 | [FluidFrameworkTestData](https://github.com/microsoft/FluidFrameworkTestData) | Test data for microsoft/FluidFramework repo | None | 6 | MIT License | 2019-10-24 | 2023-03-05 |
 | [vscodespaces-quickstart](https://github.com/microsoft/vscodespaces-quickstart) | A simple Node.js app to support Visual Studio Codespaces quickstart documentation. | JavaScript | 14 | MIT License | 2019-10-25 | 2023-11-16 |
-| [msquic](https://github.com/microsoft/msquic) | Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust. | C | 3952 | MIT License | 2019-10-26 | 2024-07-20 |
+| [msquic](https://github.com/microsoft/msquic) | Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust. | C | 3953 | MIT License | 2019-10-26 | 2024-07-21 |
 | [azure-pipelines-evaluate-artifact-policies](https://github.com/microsoft/azure-pipelines-evaluate-artifact-policies) | Repository that contains code related to artifact policy evaluation to be used in azure pipelines | C# | 4 | MIT License | 2019-10-28 | 2024-02-15 |
 | [Commercial-Marketplace](https://github.com/microsoft/Commercial-Marketplace) | This project provides Partners and Startups with code samples and guidance to help build Commercial Marketplace offers.  This project complements the Commercial Marketplace (Azure and AppSource) publishing guide : https://docs.microsoft.com/en-us/azure/marketplace/marketplace-publishers-guide | None | 5 | MIT License | 2019-10-28 | 2023-08-21 |
 | [Test-NetStack](https://github.com/microsoft/Test-NetStack) | This tool tests the native, synthetic, and hardware network data path | PowerShell | 15 | MIT License | 2019-10-28 | 2024-05-01 |
@@ -11228,7 +11228,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [customvision-tfjs](https://github.com/microsoft/customvision-tfjs) | NPM package for TensorFlow.js models exported from Custom Vision Service | JavaScript | 28 | MIT License | 2019-10-29 | 2024-06-17 |
 | [trsp](https://github.com/microsoft/trsp) | Technician Routing and Scheduling Problem | C++ | 8 | MIT License | 2019-10-29 | 2023-06-04 |
 | [Analysis-Framework-for-TVM](https://github.com/microsoft/Analysis-Framework-for-TVM) | Static analysis framework for analyzing programs written in TVM's Relay IR. | Python | 28 | Other | 2019-10-29 | 2024-06-13 |
-| [Microsoft-Rocket-Video-Analytics-Platform](https://github.com/microsoft/Microsoft-Rocket-Video-Analytics-Platform) | A highly extensible software stack to empower everyone to build practical real-world live video analytics applications for object detection and counting with cutting edge machine learning algorithms. | C# | 218 | MIT License | 2019-10-30 | 2024-06-05 |
+| [Microsoft-Rocket-Video-Analytics-Platform](https://github.com/microsoft/Microsoft-Rocket-Video-Analytics-Platform) | A highly extensible software stack to empower everyone to build practical real-world live video analytics applications for object detection and counting with cutting edge machine learning algorithms. | C# | 219 | MIT License | 2019-10-30 | 2024-07-21 |
 | [VirtualHealthcareBlueprint](https://github.com/microsoft/VirtualHealthcareBlueprint) | Setup Healthcare Bot landscape to provide organizations with Virtual Health Assistants | PowerShell | 6 | MIT License | 2019-10-30 | 2024-04-22 |
 | [react-native-lazy-index](https://github.com/microsoft/react-native-lazy-index) | RAM bundle friendly, bundle-time generated `index.js` | JavaScript | 229 | MIT License | 2019-10-30 | 2024-05-01 |
 | [coyote-samples](https://github.com/microsoft/coyote-samples) | Get started with Coyote with these simple introductory sample projects. | C# | 52 | - | 2019-10-30 | 2024-05-23 |
@@ -11259,8 +11259,8 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [BuildUpToDateChecker](https://github.com/microsoft/BuildUpToDateChecker) | Performs a fast check of MSBuild projects to see if they are up to date or if they require a rebuild. This helps locate overbuilding scenarios. | C# | 12 | MIT License | 2019-11-14 | 2024-03-21 |
 | [pxt-scarf](https://github.com/microsoft/pxt-scarf) | MakeCode powered scarf | TypeScript | 2 | MIT License | 2019-11-15 | 2022-08-10 |
 | [BCUpgrade](https://github.com/microsoft/BCUpgrade) | Unofficial Documentation on how to upgrade to the latest version of Business Central | PowerShell | 44 | Creative Commons Attribution 4.0 International | 2019-11-15 | 2024-07-17 |
-| [playwright](https://github.com/microsoft/playwright) | Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  | TypeScript | 64175 | Apache License 2.0 | 2019-11-15 | 2024-07-21 |
-| [rnx-kit](https://github.com/microsoft/rnx-kit) | Modern, scalable tools. Exceptional developer experience. | TypeScript | 1464 | MIT License | 2019-11-15 | 2024-07-20 |
+| [playwright](https://github.com/microsoft/playwright) | Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  | TypeScript | 64182 | Apache License 2.0 | 2019-11-15 | 2024-07-22 |
+| [rnx-kit](https://github.com/microsoft/rnx-kit) | Modern, scalable tools. Exceptional developer experience. | TypeScript | 1464 | MIT License | 2019-11-15 | 2024-07-22 |
 | [TokenReplace](https://github.com/microsoft/TokenReplace) | A simple example of how to perform a token search/replace within files by using a GitHub build action. | None | 13 | MIT License | 2019-11-16 | 2024-02-08 |
 | [platformer-ml-game](https://github.com/microsoft/platformer-ml-game) | Edutainment game teaching players concepts around machine learning | Python | 12 | MIT License | 2019-11-19 | 2023-05-27 |
 | [FeaturizersLibrary](https://github.com/microsoft/FeaturizersLibrary) | A library of cross-platform, cross-framework, cross-programming language featurizers (operations in a data processing pipeline) that can be used during Machine Learning training and prediction activities. | C++ | 18 | MIT License | 2019-11-19 | 2024-06-13 |
@@ -11272,7 +11272,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [vscode-figma-toolkit](https://github.com/microsoft/vscode-figma-toolkit) |  A Figma design toolkit for Visual Studio Code | Shell | 232 | MIT License | 2019-11-21 | 2024-07-14 |
 | [aml-pipelines-demo](https://github.com/microsoft/aml-pipelines-demo) | None | Python | 6 | - | 2019-11-22 | 2023-11-16 |
 | [cds-management-api-node](https://github.com/microsoft/cds-management-api-node) | Online Management API for Common Data Service for Node.js | None | 4 | MIT License | 2019-11-25 | 2023-05-10 |
-| [cognitive-services-speech-sdk-go](https://github.com/microsoft/cognitive-services-speech-sdk-go) | Go bindings for the Microsoft Cognitive Services Speech SDK | Go | 83 | MIT License | 2019-11-25 | 2024-06-25 |
+| [cognitive-services-speech-sdk-go](https://github.com/microsoft/cognitive-services-speech-sdk-go) | Go bindings for the Microsoft Cognitive Services Speech SDK | Go | 83 | MIT License | 2019-11-25 | 2024-07-22 |
 | [oac-explore](https://github.com/microsoft/oac-explore) | Code accompanying the paper "Better Exploration with Optimistic Actor Critic" (NeurIPS 2019) | Python | 67 | MIT License | 2019-11-26 | 2024-06-13 |
 | [pxt-kickoff](https://github.com/microsoft/pxt-kickoff) | A Football game engine for MakeCode Arcade | TypeScript | 4 | MIT License | 2019-11-27 | 2022-08-10 |
 | [25-days-of-serverless](https://github.com/microsoft/25-days-of-serverless) | Repository responsible for 25 days of Serverless challenges | None | 453 | MIT License | 2019-11-27 | 2024-06-25 |
@@ -11282,7 +11282,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [MTC_AzurePolicySamples](https://github.com/microsoft/MTC_AzurePolicySamples) | MTC Azure Policy Samples | None | 7 | MIT License | 2019-12-02 | 2022-08-10 |
 | [spatialaudio-unity](https://github.com/microsoft/spatialaudio-unity) | This repository provides plugins, tools and samples for integrating spatial audio and acoustics into your Unity 3D applications and games. | C++ | 113 | MIT License | 2019-12-02 | 2024-07-18 |
 | [TypeScript-repos-automation](https://github.com/microsoft/TypeScript-repos-automation) | Shared JS infra for automation across repos owned by the TypeScript team | TypeScript | 12 | MIT License | 2019-12-02 | 2024-07-17 |
-| [Microsoft.Unity.Analyzers](https://github.com/microsoft/Microsoft.Unity.Analyzers) | Roslyn analyzers for Unity game developers | C# | 657 | MIT License | 2019-12-03 | 2024-07-19 |
+| [Microsoft.Unity.Analyzers](https://github.com/microsoft/Microsoft.Unity.Analyzers) | Roslyn analyzers for Unity game developers | C# | 658 | MIT License | 2019-12-03 | 2024-07-21 |
 | [react-native-dualscreen](https://github.com/microsoft/react-native-dualscreen) | React Native Dual screen module | TypeScript | 130 | MIT License | 2019-12-03 | 2024-07-16 |
 | [TeamCloud](https://github.com/microsoft/TeamCloud) | Enable enterprise development teams to create secure compliant cloud development environments. | C# | 68 | MIT License | 2019-12-03 | 2024-02-26 |
 | [TeamCloud-Providers](https://github.com/microsoft/TeamCloud-Providers) | Providers for TeamCloud. | Shell | 14 | MIT License | 2019-12-03 | 2022-08-10 |
@@ -11312,7 +11312,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [PSRule.Requirements](https://github.com/microsoft/PSRule.Requirements) | Use PowerShell PSRule and Requirements together. | PowerShell | 9 | MIT License | 2019-12-19 | 2024-04-01 |
 | [winrtc](https://github.com/microsoft/winrtc) | The WinRTC project hosts everything needed to build apps with interoperable real time communications for modern Windows. It brings the power of WebRTC to modern Windows apps written in C#, C++ and VB. WinRTC enables real-time voice calling, video chat and data functionality (file transfer etc.) with web browsers via WebRTC. | C++ | 339 | - | 2019-12-20 | 2024-07-05 |
 | [bing-commerce-sdk-for-net](https://github.com/microsoft/bing-commerce-sdk-for-net) | Bing for Commerce SDK for dot net | C# | 6 | MIT License | 2019-12-26 | 2023-11-16 |
-| [maro](https://github.com/microsoft/maro) | Multi-Agent Resource Optimization (MARO) platform is an instance of Reinforcement Learning as a Service (RaaS) for real-world resource optimization problems.  | Python | 831 | MIT License | 2019-12-27 | 2024-07-20 |
+| [maro](https://github.com/microsoft/maro) | Multi-Agent Resource Optimization (MARO) platform is an instance of Reinforcement Learning as a Service (RaaS) for real-world resource optimization problems.  | Python | 833 | MIT License | 2019-12-27 | 2024-07-22 |
 | [android-app-size-diff](https://github.com/microsoft/android-app-size-diff) | Android app size measuring in your CI | TypeScript | 132 | MIT License | 2019-12-27 | 2024-06-27 |
 | [bing-commerce](https://github.com/microsoft/bing-commerce) | Bing for Commerce main repository, containing swaggers, documentation, and others. | None | 4 | MIT License | 2019-12-27 | 2023-01-27 |
 | [hivedscheduler](https://github.com/microsoft/hivedscheduler) | Kubernetes Scheduler for Deep Learning | Go | 252 | MIT License | 2019-12-30 | 2024-06-18 |
@@ -11345,7 +11345,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [AzureADDSC](https://github.com/microsoft/AzureADDSC) | DSC PowerShell module for AzureAD | None | 9 | MIT License | 2020-01-17 | 2024-06-13 |
 | [affectbased](https://github.com/microsoft/affectbased) | Affect-based Intrinsic Rewards for Learning General Representations: https://arxiv.org/abs/1912.00403 | Python | 8 | MIT License | 2020-01-17 | 2022-08-10 |
 | [ignite-learning-paths-training-data](https://github.com/microsoft/ignite-learning-paths-training-data) | Microsoft Ignite Learning Path, Train the Trainer materials: Modern Data Warehouse (Data) | TSQL | 40 | MIT License | 2020-01-17 | 2024-06-02 |
-| [react-native-test-app](https://github.com/microsoft/react-native-test-app) | react-native-test-app provides an app for all supported platforms as a package | JavaScript | 569 | MIT License | 2020-01-20 | 2024-07-19 |
+| [react-native-test-app](https://github.com/microsoft/react-native-test-app) | react-native-test-app provides an app for all supported platforms as a package | JavaScript | 571 | MIT License | 2020-01-20 | 2024-07-22 |
 | [MixedReality-UXTools-Unreal](https://github.com/microsoft/MixedReality-UXTools-Unreal) | UX tools and components for developing Mixed Reality applications in UE4.  | C++ | 312 | MIT License | 2020-01-20 | 2024-07-05 |
 | [surface-duo-sdk-xamarin-samples](https://github.com/microsoft/surface-duo-sdk-xamarin-samples) | Xamarin Samples for Surface Duo SDK | C# | 59 | MIT License | 2020-01-20 | 2024-06-15 |
 | [GRTr](https://github.com/microsoft/GRTr) | Generative Retrieval Transformer | Python | 29 | MIT License | 2020-01-20 | 2024-01-04 |
@@ -11355,7 +11355,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [playwright-dotnet](https://github.com/microsoft/playwright-dotnet) | .NET version of the Playwright testing and automation library. | C# | 2377 | MIT License | 2020-01-22 | 2024-07-19 |
 | [ClinicalTrialsBlueprint](https://github.com/microsoft/ClinicalTrialsBlueprint) | Setup the resources for provisioning Clinical Trials search | PowerShell | 18 | MIT License | 2020-01-22 | 2024-05-24 |
 | [data-protection-mapping-project](https://github.com/microsoft/data-protection-mapping-project) | Open Source Data Protection/Privacy Regulatory Mapping Project | TypeScript | 171 | MIT License | 2020-01-23 | 2024-07-01 |
-| [DeepSpeed](https://github.com/microsoft/DeepSpeed) | DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. | Python | 33938 | Apache License 2.0 | 2020-01-23 | 2024-07-21 |
+| [DeepSpeed](https://github.com/microsoft/DeepSpeed) | DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. | Python | 33953 | Apache License 2.0 | 2020-01-23 | 2024-07-22 |
 | [botframework-components](https://github.com/microsoft/botframework-components) | The repository for components built by Microsoft for the Azure Bot Framework. | C# | 111 | MIT License | 2020-01-23 | 2024-07-14 |
 | [bwa](https://github.com/microsoft/bwa) | Burrow-Wheeler Aligner for short-read alignment (see minimap2 for long-read alignment) | C | 3 | GNU General Public License v3.0 | 2020-01-23 | 2022-08-10 |
 | [verseagility](https://github.com/microsoft/verseagility) | Ramp up your custom natural language processing (NLP) task, allowing you to bring your own data, use your preferred frameworks and bring models into production.  | Jupyter Notebook | 27 | MIT License | 2020-01-24 | 2023-08-01 |
@@ -11371,7 +11371,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [jacobian-transpose-explainer](https://github.com/microsoft/jacobian-transpose-explainer) | Jacobian transpose explainer | HTML | 3 | MIT License | 2020-01-29 | 2022-08-10 |
 | [MixedRealityToolkit-Unreal](https://github.com/microsoft/MixedRealityToolkit-Unreal) | The Mixed Reality Toolkit for Unreal provides a set of components and features to accelerate Mixed Reality app development with Unreal. | None | 136 | MIT License | 2020-01-29 | 2024-07-05 |
 | [Transformer-XH](https://github.com/microsoft/Transformer-XH) | None | Python | 68 | MIT License | 2020-01-29 | 2024-06-19 |
-| [DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples) | Example models using DeepSpeed | Python | 5862 | Apache License 2.0 | 2020-01-29 | 2024-07-20 |
+| [DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples) | Example models using DeepSpeed | Python | 5864 | Apache License 2.0 | 2020-01-29 | 2024-07-22 |
 | [setup-msbuild](https://github.com/microsoft/setup-msbuild) | A GitHub Action to facilitate configuring MSBuild in the workflow PATH for building .NET Framework applications. | TypeScript | 333 | MIT License | 2020-01-31 | 2024-07-01 |
 | [data-science-sandbox](https://github.com/microsoft/data-science-sandbox) | Azure-hosted sandbox environment to enable third-parties to collaborate on data science solutions over protected data sets | None | 5 | MIT License | 2020-01-31 | 2022-08-10 |
 | [FormatPowerShellToMarkdownTable](https://github.com/microsoft/FormatPowerShellToMarkdownTable) | Format PowerShell object to Markdown table | PowerShell | 32 | MIT License | 2020-02-01 | 2024-04-17 |
@@ -11438,7 +11438,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [PowerPlatform-DataverseServiceClient](https://github.com/microsoft/PowerPlatform-DataverseServiceClient) | Code Replica for Microsoft.PowerPlatform.Dataverse.Client and supporting nuget packages.  | C# | 272 | MIT License | 2020-03-05 | 2024-07-17 |
 | [EchoDensity](https://github.com/microsoft/EchoDensity) | Reference implementation and test synthetic data for Sorted Center Time echo density measure for acoustic impulse responses | MATLAB | 11 | MIT License | 2020-03-05 | 2024-06-14 |
 | [CLOG](https://github.com/microsoft/CLOG) | Open Source, cross-platform tool to generate logging/tracing code, using printf() style event descriptions | C# | 32 | MIT License | 2020-03-05 | 2024-06-25 |
-| [reverse-proxy](https://github.com/microsoft/reverse-proxy) | A toolkit for developing high-performance HTTP reverse proxy applications. | C# | 8303 | MIT License | 2020-03-05 | 2024-07-20 |
+| [reverse-proxy](https://github.com/microsoft/reverse-proxy) | A toolkit for developing high-performance HTTP reverse proxy applications. | C# | 8305 | MIT License | 2020-03-05 | 2024-07-21 |
 | [health-architectures](https://github.com/microsoft/health-architectures) | Health Architectures is a collection of reference architectures and, when appropriate, implementations. They illustrate end-to-end best practices for using the Azure API for FHIR and related technologies | HTML | 29 | MIT License | 2020-03-05 | 2024-07-01 |
 | [Intune-Config-Frameworks](https://github.com/microsoft/Intune-Config-Frameworks) | This repository of JSON files are used to create configuration frameworks to protect data and devices using App Protection Policies and mobile device compliance and configuration policies. | None | 75 | MIT License | 2020-03-05 | 2024-06-08 |
 | [OSSGadget](https://github.com/microsoft/OSSGadget) | Collection of tools for analyzing open source packages. | C# | 310 | MIT License | 2020-03-06 | 2024-07-07 |
@@ -11449,13 +11449,13 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [PySiamTracking](https://github.com/microsoft/PySiamTracking) | PySiamTracking project provides a flexible and effective framework that supports mainstream siamese-network-based trackers. | Python | 28 | MIT License | 2020-03-09 | 2024-03-19 |
 | [ipe](https://github.com/microsoft/ipe) | IPE is a Linux Security Module (LSM), which allows for a configurable policy to enforce integrity requirements on the whole system. IPE builds on concepts and implementations like loadpin, as well as leveraging existing modules like dm-verity to simplify enforcing integrity requirements on systems that require security constraints and\or compliance reasons. IPE is intended to complement IMA and they can work in conjunction with each other. IPE provides a policy that allows owners of the system to easily specify integrity requirements and uses dm-verity signatures to simplify the authentication of allowed objects like authorized code and data. | None | 54 | Other | 2020-03-10 | 2024-05-06 |
 | [AzUrlShortener](https://github.com/microsoft/AzUrlShortener) | An simple and easy Url Shortener | C# | 502 | MIT License | 2020-03-10 | 2024-07-16 |
-| [SuperScaler](https://github.com/microsoft/SuperScaler) | An experimental parallel training platform | None | 41 | Other | 2020-03-11 | 2024-07-18 |
+| [SuperScaler](https://github.com/microsoft/SuperScaler) | An experimental parallel training platform | None | 42 | Other | 2020-03-11 | 2024-07-22 |
 | [roman](https://github.com/microsoft/roman) | Python library for real-time control of a robotic manipulator | Python | 20 | MIT License | 2020-03-11 | 2024-03-16 |
 | [vs-ng-language-service](https://github.com/microsoft/vs-ng-language-service) | Visual Studio extension for the Angular Language Service | Rich Text Format | 43 | MIT License | 2020-03-11 | 2024-07-01 |
 | [Multi_Species_Bioacoustic_Classification](https://github.com/microsoft/Multi_Species_Bioacoustic_Classification) | Multi-species bioacoustic classification using deep learning algorithms | Python | 38 | MIT License | 2020-03-11 | 2024-07-11 |
 | [vscode-github-issue-notebooks](https://github.com/microsoft/vscode-github-issue-notebooks) | GitHub Issues Notebooks for VS Code | TypeScript | 216 | MIT License | 2020-03-12 | 2024-05-31 |
 | [MixedReality-WorldLockingTools-Samples](https://github.com/microsoft/MixedReality-WorldLockingTools-Samples) | Broader learning resources supporting World Locking Tools for Unity | C# | 56 | Other | 2020-03-12 | 2023-11-27 |
-| [hummingbird](https://github.com/microsoft/hummingbird) | Hummingbird compiles trained ML models into tensor computation for faster inference. | Python | 3325 | MIT License | 2020-03-12 | 2024-07-19 |
+| [hummingbird](https://github.com/microsoft/hummingbird) | Hummingbird compiles trained ML models into tensor computation for faster inference. | Python | 3326 | MIT License | 2020-03-12 | 2024-07-21 |
 | [notebook-extension-samples](https://github.com/microsoft/notebook-extension-samples) | Sample code illustrating the VS Code notebook API (draft) | TypeScript | 24 | MIT License | 2020-03-12 | 2023-11-16 |
 | [vscode-notebook-testdata](https://github.com/microsoft/vscode-notebook-testdata) | Test data for notebook exploration in VS Code | Jupyter Notebook | 2 | MIT License | 2020-03-13 | 2023-11-16 |
 | [Microsoft-Rocketbox](https://github.com/microsoft/Microsoft-Rocketbox) | Microsoft Rocketbox is now available with MIT license! The library of 115 rigged avatars offers flexibility, enabling the easy use of animations across characters and the mixing and matching of texture elements. | Python | 509 | MIT License | 2020-03-13 | 2024-06-10 |
@@ -11486,7 +11486,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [headless-delphi](https://github.com/microsoft/headless-delphi) | Web app to facilitate roundless, headless Delphi-style discussions | JavaScript | 11 | Other | 2020-03-22 | 2023-03-16 |
 | [mtc_covid_19](https://github.com/microsoft/mtc_covid_19) | MTC COVID-19 Response | None | 6 | MIT License | 2020-03-22 | 2022-08-10 |
 | [VerifiableCredentials-Verification-SDK-Typescript](https://github.com/microsoft/VerifiableCredentials-Verification-SDK-Typescript) | An SDK to help Relying Parties manages their Decentralized Identities and Verifiable Credentials. | TypeScript | 54 | MIT License | 2020-03-23 | 2024-04-25 |
-| [DefinitelyTyped-tools](https://github.com/microsoft/DefinitelyTyped-tools) | Infrastructure for DefinitelyTyped | TypeScript | 342 | MIT License | 2020-03-23 | 2024-07-20 |
+| [DefinitelyTyped-tools](https://github.com/microsoft/DefinitelyTyped-tools) | Infrastructure for DefinitelyTyped | TypeScript | 343 | MIT License | 2020-03-23 | 2024-07-22 |
 | [MaskFlownet](https://github.com/microsoft/MaskFlownet) | [CVPR 2020, Oral] MaskFlownet: Asymmetric Feature Matching with Learnable Occlusion Mask | Python | 367 | MIT License | 2020-03-24 | 2024-07-11 |
 | [fluentui-apple](https://github.com/microsoft/fluentui-apple) | UIKit and AppKit controls for building native Microsoft experiences | Swift | 882 | MIT License | 2020-03-24 | 2024-07-19 |
 | [Windows-Sandbox](https://github.com/microsoft/Windows-Sandbox) | Disposable, secure and lightweight Windows Desktop Environment | PowerShell | 326 | MIT License | 2020-03-25 | 2024-07-20 |
@@ -11506,7 +11506,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [task-scheduler](https://github.com/microsoft/task-scheduler) | Schedule tasks in a monorepo | TypeScript | 23 | MIT License | 2020-03-30 | 2023-05-12 |
 | [sqlworkshops-RForDataProfessionals](https://github.com/microsoft/sqlworkshops-RForDataProfessionals) | Introduction to R for Data Professionals | Jupyter Notebook | 6 | - | 2020-03-30 | 2023-07-24 |
 | [powerquery-language-services](https://github.com/microsoft/powerquery-language-services) | Library to provide intellisense and other language services for the Power Query / M language. | TypeScript | 42 | MIT License | 2020-03-30 | 2024-06-17 |
-| [vsts-extension-retrospectives](https://github.com/microsoft/vsts-extension-retrospectives) | An Azure DevOps extension for efficient retrospectives | TypeScript | 176 | MIT License | 2020-03-30 | 2024-07-19 |
+| [vsts-extension-retrospectives](https://github.com/microsoft/vsts-extension-retrospectives) | An Azure DevOps extension for efficient retrospectives | TypeScript | 176 | MIT License | 2020-03-30 | 2024-07-21 |
 | [conservative-uncertainty-estimation-random-priors](https://github.com/microsoft/conservative-uncertainty-estimation-random-priors) | Source code for paper Conservative Uncertainty Estimation By Fitting Prior Networks (ICLR 2020) | Python | 21 | MIT License | 2020-03-30 | 2024-06-13 |
 | [azuredevopsgenerator](https://github.com/microsoft/azuredevopsgenerator) | Azure DevOps Generator Template repo | PowerShell | 26 | MIT License | 2020-03-30 | 2024-06-02 |
 | [HealthBotRefArchDeploy](https://github.com/microsoft/HealthBotRefArchDeploy) | Deploy Microsoft Healthcare Bot Reference Architecture. | None | 15 | MIT License | 2020-03-30 | 2024-06-24 |
@@ -11554,7 +11554,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [terratest-abstraction](https://github.com/microsoft/terratest-abstraction) | Useful infrastructure testing abstractions over the popular Terratest library | Go | 20 | MIT License | 2020-04-14 | 2023-05-20 |
 | [llvm-lookup-tool](https://github.com/microsoft/llvm-lookup-tool) | A command-line tool that returns LLVM Static Compiler arguments based on a common microcontroller, or MCU, board name such as "Arduino Uno". | Python | 8 | MIT License | 2020-04-14 | 2023-05-08 |
 | [MCW-Azure-Synapse-Analytics-and-AI](https://github.com/microsoft/MCW-Azure-Synapse-Analytics-and-AI) | Microsoft Cloud Workshop Azure Synapse Analytics and AI | PowerShell | 212 | MIT License | 2020-04-15 | 2024-07-17 |
-| [WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK) | The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet. | C++ | 3738 | MIT License | 2020-04-15 | 2024-07-19 |
+| [WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK) | The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet. | C++ | 3739 | MIT License | 2020-04-15 | 2024-07-22 |
 | [SurfaceDeploymentAccelerator](https://github.com/microsoft/SurfaceDeploymentAccelerator) | Surface Deployment Accelerator (SDA) is a script-driven tool to create Windows images (WIM) for test or deployment that are similar in configuration to Bare Metal Recovery (BMR) images, minus certain preinstalled applications like the Surface UWP application. | PowerShell | 73 | MIT License | 2020-04-15 | 2024-07-08 |
 | [USBroadbandUsagePercentages](https://github.com/microsoft/USBroadbandUsagePercentages) | We are publishing this dataset we developed as part of our efforts with Microsoft’s Airband Initiative to help close the rural broadband gap. | None | 128 | Other | 2020-04-16 | 2024-07-15 |
 | [Dynamics365-Xpp-Samples-Tools](https://github.com/microsoft/Dynamics365-Xpp-Samples-Tools) | Samples and Tools for Dynamics 365 X++ Developers | PowerShell | 80 | MIT License | 2020-04-16 | 2024-07-12 |
@@ -11582,7 +11582,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [task_oriented_dialogue_as_dataflow_synthesis](https://github.com/microsoft/task_oriented_dialogue_as_dataflow_synthesis) | Code to reproduce experiments in the paper "Task-Oriented Dialogue as Dataflow Synthesis" (TACL 2020). | Python | 300 | MIT License | 2020-04-23 | 2024-07-10 |
 | [vscode-notebook-renderer-starter](https://github.com/microsoft/vscode-notebook-renderer-starter) | Notebook renderer starter template | TypeScript | 4 | MIT License | 2020-04-23 | 2023-11-16 |
 | [DiscoFaceGAN](https://github.com/microsoft/DiscoFaceGAN) | Disentangled and Controllable Face Image Generation via 3D Imitative-Contrastive Learning (CVPR 2020 Oral) | Python | 634 | MIT License | 2020-04-24 | 2024-07-01 |
-| [DecisionDiagrams](https://github.com/microsoft/DecisionDiagrams) | A performant and ergonomic implementation of binary decision diagrams for .NET | C# | 49 | MIT License | 2020-04-25 | 2024-06-02 |
+| [DecisionDiagrams](https://github.com/microsoft/DecisionDiagrams) | A performant and ergonomic implementation of binary decision diagrams for .NET | C# | 51 | MIT License | 2020-04-25 | 2024-07-22 |
 | [Zen](https://github.com/microsoft/Zen) | Zen is a constraint solving library for .NET | C# | 81 | MIT License | 2020-04-26 | 2024-07-03 |
 | [EA-VQ-VAE](https://github.com/microsoft/EA-VQ-VAE) | This repo provides the code for the ACL 2020 paper "Evidence-Aware Inferential Text Generation with Vector Quantised Variational AutoEncoder" | Python | 52 | Other | 2020-04-26 | 2024-03-06 |
 | [knowledge-extraction-recipes-forms](https://github.com/microsoft/knowledge-extraction-recipes-forms) | Knowledge Extraction For Forms Accelerators & Examples | Jupyter Notebook | 213 | MIT License | 2020-04-26 | 2024-06-15 |
@@ -11593,7 +11593,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [InnerEye-DeepLearning](https://github.com/microsoft/InnerEye-DeepLearning) | Medical Imaging Deep Learning library to train and deploy 3D segmentation models on Azure Machine Learning | Python | 546 | MIT License | 2020-04-29 | 2024-07-20 |
 | [homebrew-git](https://github.com/microsoft/homebrew-git) | Homebrew Tap for Microsoft's Git projects. | Ruby | 20 | MIT License | 2020-04-29 | 2024-07-11 |
 | [PSToolset](https://github.com/microsoft/PSToolset) | Set of tools for Powershell environment | PowerShell | 37 | Other | 2020-04-29 | 2024-03-28 |
-| [clarity](https://github.com/microsoft/clarity) | A behavioral analytics library that uses dom mutations and user interactions to generate aggregated insights. | TypeScript | 2005 | MIT License | 2020-04-30 | 2024-07-19 |
+| [clarity](https://github.com/microsoft/clarity) | A behavioral analytics library that uses dom mutations and user interactions to generate aggregated insights. | TypeScript | 2006 | MIT License | 2020-04-30 | 2024-07-21 |
 | [BotFramework-Composer-Nightlies](https://github.com/microsoft/BotFramework-Composer-Nightlies) | Nightly releases of Bot Framework Composer (https://github.com/microsoft/BotFramework-Composer) | None | 13 | MIT License | 2020-04-30 | 2024-03-12 |
 | [Managing-RBAC-in-Azure](https://github.com/microsoft/Managing-RBAC-in-Azure) | The code helps manage various operations in RBAC Azure Access control. | C# | 6 | Other | 2020-05-01 | 2024-02-24 |
 | [GroupCacheDotNet](https://github.com/microsoft/GroupCacheDotNet) | Small C# caching and cache-filling library, intended as a replacement for memcached in many cases. | C# | 10 | MIT License | 2020-05-01 | 2024-01-26 |
@@ -11616,12 +11616,12 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [aml-acceleration-template](https://github.com/microsoft/aml-acceleration-template) | A template repository for quickly adopting Azure Machine Learning | Python | 27 | MIT License | 2020-05-08 | 2024-03-06 |
 | [vscode-notebook-error-overlay](https://github.com/microsoft/vscode-notebook-error-overlay) | Provides a notebook-aware error overlay in VS Code notebooks built with the webpack-dev-server | TypeScript | 1 | - | 2020-05-10 | 2023-10-06 |
 | [PowerShellGetReal](https://github.com/microsoft/PowerShellGetReal) | The PowerShell Get Real Repository developed for IT Pros to learn and embrace PowerShell in a lab setting. | None | 14 | Creative Commons Attribution 4.0 International | 2020-05-11 | 2024-01-17 |
-| [AirSim-Drone-Racing-Lab](https://github.com/microsoft/AirSim-Drone-Racing-Lab) | A framework for drone racing research, built on Microsoft AirSim. | Python | 185 | MIT License | 2020-05-11 | 2024-07-16 |
+| [AirSim-Drone-Racing-Lab](https://github.com/microsoft/AirSim-Drone-Racing-Lab) | A framework for drone racing research, built on Microsoft AirSim. | Python | 186 | MIT License | 2020-05-11 | 2024-07-22 |
 | [vscode-hexeditor](https://github.com/microsoft/vscode-hexeditor) | VS Code Hex Editor | TypeScript | 514 | MIT License | 2020-05-11 | 2024-07-16 |
 | [onnxruntime-training-examples](https://github.com/microsoft/onnxruntime-training-examples) | Examples for using ONNX Runtime for model training. | C# | 296 | MIT License | 2020-05-11 | 2024-07-10 |
 | [News-Threads](https://github.com/microsoft/News-Threads) | The News Threads pipeline processes large volumes of document content, using machine learning to find derived text fragments and trace them to their original sources. The backend pipeline is written for Python. | Python | 7 | MIT License | 2020-05-12 | 2023-10-09 |
 | [ptgnn](https://github.com/microsoft/ptgnn) | A PyTorch Graph Neural Network Library | Python | 372 | MIT License | 2020-05-12 | 2024-07-19 |
-| [fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) | Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft. | HTML | 5679 | MIT License | 2020-05-12 | 2024-07-21 |
+| [fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) | Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft. | HTML | 5681 | MIT License | 2020-05-12 | 2024-07-22 |
 | [bonsai-anylogic](https://github.com/microsoft/bonsai-anylogic) | AnyLogic connector for Microsoft Bonsai and sample models | None | 28 | Other | 2020-05-13 | 2024-05-30 |
 | [MLADS2020-QuantumClassification](https://github.com/microsoft/MLADS2020-QuantumClassification) | Quantum Classification tutorial using Microsoft Quantum Development Kit | Jupyter Notebook | 19 | MIT License | 2020-05-13 | 2023-11-16 |
 | [M365DSCBlueprints](https://github.com/microsoft/M365DSCBlueprints) | Blueprints for Microsoft365DSC | None | 22 | MIT License | 2020-05-13 | 2024-06-22 |
@@ -11686,10 +11686,10 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [ANCE](https://github.com/microsoft/ANCE) | A novel embedding training algorithm leveraging ANN search and achieved SOTA retrieval on Trec DL 2019 and OpenQA benchmarks | Python | 354 | MIT License | 2020-06-04 | 2024-07-19 |
 | [msgen](https://github.com/microsoft/msgen) | Command-line client for the Microsoft Genomics service | Python | 8 | MIT License | 2020-06-04 | 2023-07-09 |
 | [powerbi-client-react](https://github.com/microsoft/powerbi-client-react) | Power BI for React which provides components and services to enabling developers to easily embed Power BI reports into their applications. | TypeScript | 296 | MIT License | 2020-06-08 | 2024-06-20 |
-| [DeBERTa](https://github.com/microsoft/DeBERTa) | The implementation of DeBERTa | Python | 1926 | MIT License | 2020-06-08 | 2024-07-20 |
+| [DeBERTa](https://github.com/microsoft/DeBERTa) | The implementation of DeBERTa | Python | 1927 | MIT License | 2020-06-08 | 2024-07-21 |
 | [opendatacloud](https://github.com/microsoft/opendatacloud) | An Open Source version of the Microsoft Research Open Data Repository | C# | 12 | MIT License | 2020-06-08 | 2023-12-05 |
 | [ORBIT-Dataset](https://github.com/microsoft/ORBIT-Dataset) | The ORBIT dataset is a collection of videos of objects in clean and cluttered scenes recorded by people who are blind/low-vision on a mobile phone. The dataset is presented with a teachable object recognition benchmark task which aims to drive few-shot learning on challenging real-world data. | Python | 91 | MIT License | 2020-06-08 | 2024-06-30 |
-| [win32metadata](https://github.com/microsoft/win32metadata) | Tooling to generate metadata for Win32 APIs in the Windows SDK. | C++ | 1306 | Other | 2020-06-08 | 2024-07-19 |
+| [win32metadata](https://github.com/microsoft/win32metadata) | Tooling to generate metadata for Win32 APIs in the Windows SDK. | C++ | 1307 | Other | 2020-06-08 | 2024-07-21 |
 | [MIMICS](https://github.com/microsoft/MIMICS) | MIMICS: A Large-Scale Data Collection for Search Clarification | None | 72 | MIT License | 2020-06-08 | 2024-02-07 |
 | [PowerApps-Templates-Japan](https://github.com/microsoft/PowerApps-Templates-Japan) | This is a repo for Japanese Power Apps templates | None | 26 | MIT License | 2020-06-09 | 2023-03-14 |
 | [companynewspcfcontrol](https://github.com/microsoft/companynewspcfcontrol) | The plugin provides News feature, by default getting news for a text from BING news, but can be customized for other news sources. | TypeScript | 6 | MIT License | 2020-06-09 | 2022-12-31 |
@@ -11716,15 +11716,15 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [oneauthz](https://github.com/microsoft/oneauthz) | Modern authorization tools for your application based on AAD integration and the OAuth2.0 protocol. | JavaScript | 5 | MIT License | 2020-06-16 | 2023-01-28 |
 | [surface-duo-app-samples](https://github.com/microsoft/surface-duo-app-samples) | Sample apps built for the Microsoft Surface Duo dual-screen Android device | Kotlin | 25 | MIT License | 2020-06-16 | 2024-03-11 |
 | [ReactorPlanning](https://github.com/microsoft/ReactorPlanning) | For planning Microsoft Reactor First Party Content | None | 8 | Creative Commons Attribution 4.0 International | 2020-06-17 | 2022-11-21 |
-| [CodeBERT](https://github.com/microsoft/CodeBERT) | CodeBERT | Python | 2086 | MIT License | 2020-06-17 | 2024-07-20 |
+| [CodeBERT](https://github.com/microsoft/CodeBERT) | CodeBERT | Python | 2088 | MIT License | 2020-06-17 | 2024-07-22 |
 | [KoduGameLab](https://github.com/microsoft/KoduGameLab) | 3D game development tool for teaching basic programming concepts to kids. | C# | 24 | MIT License | 2020-06-17 | 2024-06-22 |
 | [github-traffic-tracker](https://github.com/microsoft/github-traffic-tracker) | Azure Function to track your GitHub traffic | Python | 2 | MIT License | 2020-06-17 | 2024-01-08 |
-| [DiskANN](https://github.com/microsoft/DiskANN) | Graph-structured Indices for Scalable, Fast, Fresh and Filtered Approximate Nearest Neighbor Search | C++ | 977 | Other | 2020-06-18 | 2024-07-19 |
+| [DiskANN](https://github.com/microsoft/DiskANN) | Graph-structured Indices for Scalable, Fast, Fresh and Filtered Approximate Nearest Neighbor Search | C++ | 978 | Other | 2020-06-18 | 2024-07-21 |
 | [InnerEye-CreateDataset](https://github.com/microsoft/InnerEye-CreateDataset) | InnerEye dataset creation tool for InnerEye-DeepLearning library. Transforms DICOM data into mask for training Deep Learning models. | C# | 19 | MIT License | 2020-06-18 | 2024-06-22 |
 | [M3P](https://github.com/microsoft/M3P) | Multitask Multilingual Multimodal Pre-training | Python | 67 | MIT License | 2020-06-18 | 2024-04-29 |
 | [terraform-provider-azuredevops](https://github.com/microsoft/terraform-provider-azuredevops) | Terraform Azure DevOps provider | Go | 372 | MIT License | 2020-06-18 | 2024-07-20 |
 | [CSA](https://github.com/microsoft/CSA) | None | None | 2 | MIT License | 2020-06-18 | 2022-08-10 |
-| [rust_win_etw](https://github.com/microsoft/rust_win_etw) | Allows Rust code to log events to ETW | Rust | 87 | MIT License | 2020-06-18 | 2024-07-02 |
+| [rust_win_etw](https://github.com/microsoft/rust_win_etw) | Allows Rust code to log events to ETW | Rust | 88 | MIT License | 2020-06-18 | 2024-07-21 |
 | [aed-content-nasa-su20](https://github.com/microsoft/aed-content-nasa-su20) | This is the beta content for the learn modules that we are creating for NASA for 2020 internship | Jupyter Notebook | 3 | MIT License | 2020-06-18 | 2023-04-24 |
 | [ReactorShanghai](https://github.com/microsoft/ReactorShanghai) | Contet for Microsoft Reactor Shanghai | None | 1 | MIT License | 2020-06-18 | 2024-02-21 |
 | [ReactorSaoPaulo](https://github.com/microsoft/ReactorSaoPaulo) | Contet for Microsoft Reactor São Paulo | Jupyter Notebook | 26 | MIT License | 2020-06-18 | 2024-02-21 |
@@ -11740,7 +11740,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [msdevindia](https://github.com/microsoft/msdevindia) | Find all of the resources from the developer events happening in the Microsoft India Developer Community. | None | 18 | Creative Commons Attribution 4.0 International | 2020-06-24 | 2023-10-31 |
 | [fluent-system-icons](https://github.com/microsoft/fluent-system-icons) | Deprecated repository for the Fluent System Icons engineering libraries | None | 1 | - | 2020-06-24 | 2023-10-06 |
 | [antares](https://github.com/microsoft/antares) | Antares: an automatic engine for multi-platform kernel generation and optimization. Supporting CPU, CUDA, ROCm, DirectX12, GraphCore, SYCL for CPU/GPU, OpenCL for AMD/NVIDIA, Android CPU/GPU backends. | C++ | 416 | Other | 2020-06-24 | 2024-07-16 |
-| [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) | Bringing Old Photo Back to Life (CVPR 2020 oral) | Python | 14752 | MIT License | 2020-06-24 | 2024-07-21 |
+| [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) | Bringing Old Photo Back to Life (CVPR 2020 oral) | Python | 14753 | MIT License | 2020-06-24 | 2024-07-22 |
 | [FarmBeats-UniversityCommunity](https://github.com/microsoft/FarmBeats-UniversityCommunity) | The Microsoft FarmBeats University Community repo, helps educators and students learn about precision agriculture and Internet of Things (IoT) technologies. | Python | 16 | MIT License | 2020-06-24 | 2024-07-08 |
 | [jacdac-multitool](https://github.com/microsoft/jacdac-multitool) | Jacdac bus debugger for MakeCode Arcade handhelds | TypeScript | 3 | MIT License | 2020-06-24 | 2023-01-28 |
 | [SAF](https://github.com/microsoft/SAF) | Simple Archive Format - A minimal, stream-friendly format for file/object archiving. | C# | 44 | MIT License | 2020-06-24 | 2024-05-06 |
@@ -11768,7 +11768,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [TypeScript-Twoslash-Repro-Action](https://github.com/microsoft/TypeScript-Twoslash-Repro-Action) | A GitHub Action which evaluates twoslash bug reproductions in GitHub Issues | TypeScript | 10 | MIT License | 2020-07-01 | 2023-08-06 |
 | [vscode-java-installer](https://github.com/microsoft/vscode-java-installer) | Issue Only. This repo is for reporting VS Code Java Installer issues. | None | 4 | MIT License | 2020-07-01 | 2022-08-10 |
 | [scopedbuildtool](https://github.com/microsoft/scopedbuildtool) | Tool to run commands for selective rush packages | None | 1 | MIT License | 2020-07-01 | 2024-06-13 |
-| [playwright-python](https://github.com/microsoft/playwright-python) | Python version of the Playwright testing and automation library. | Python | 11223 | Apache License 2.0 | 2020-07-01 | 2024-07-21 |
+| [playwright-python](https://github.com/microsoft/playwright-python) | Python version of the Playwright testing and automation library. | Python | 11226 | Apache License 2.0 | 2020-07-01 | 2024-07-22 |
 | [intrinsic-private-sgd](https://github.com/microsoft/intrinsic-private-sgd) | Code for empirical analyses on the intrinsic noise of SGD. | Python | 4 | MIT License | 2020-07-01 | 2022-11-29 |
 | [learn-build-repeat](https://github.com/microsoft/learn-build-repeat) | This is for the OneWeek Hackathon 2020 | None | 3 | MIT License | 2020-07-01 | 2022-08-10 |
 | [shell-intune-samples](https://github.com/microsoft/shell-intune-samples) | Sample shell scripts for Intune admins. | Shell | 632 | MIT License | 2020-07-02 | 2024-07-19 |
@@ -11776,7 +11776,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [infersharp](https://github.com/microsoft/infersharp) | Infer# is an interprocedural and scalable static code analyzer for C#. Via the capabilities of Facebook's Infer, this tool detects null dereferences, resource leaks, and thread-safety violations. It also performs taint flow tracking to detect critical security vulnerabilities like SQL injections. | C# | 727 | MIT License | 2020-07-02 | 2024-06-19 |
 | [TrendCalculator](https://github.com/microsoft/TrendCalculator) | Trend Calculator repository provides an abstracted way to calculate the trending data from the input data. It takes into consideration the window period, input data and the segmentation | C# | 13 | MIT License | 2020-07-03 | 2023-11-09 |
 | [DacFx](https://github.com/microsoft/DacFx) | SQL Server database schema validation, deployment, and upgrade runtime.  Enables declarative database development and database portability across SQL Server versions and environments. | C# | 296 | MIT License | 2020-07-06 | 2024-07-10 |
-| [responsible-ai-toolbox](https://github.com/microsoft/responsible-ai-toolbox) | Responsible AI Toolbox is a suite of tools providing model and data exploration and assessment user interfaces and libraries that enable a better understanding of AI systems. These interfaces and libraries empower developers and stakeholders of AI systems to develop and monitor AI more responsibly, and take better data-driven actions. | TypeScript | 1281 | MIT License | 2020-07-06 | 2024-07-19 |
+| [responsible-ai-toolbox](https://github.com/microsoft/responsible-ai-toolbox) | Responsible AI Toolbox is a suite of tools providing model and data exploration and assessment user interfaces and libraries that enable a better understanding of AI systems. These interfaces and libraries empower developers and stakeholders of AI systems to develop and monitor AI more responsibly, and take better data-driven actions. | TypeScript | 1283 | MIT License | 2020-07-06 | 2024-07-22 |
 | [coax](https://github.com/microsoft/coax) | This project was moved to: https://github.com/coax-dev/coax | None | 160 | - | 2020-07-07 | 2024-06-29 |
 | [MoveBox-for-Microsoft-Rocketbox](https://github.com/microsoft/MoveBox-for-Microsoft-Rocketbox) | MoveBox is a toolbox to animate the Microsoft Rocketbox avatars using motion captured (MoCap). Motion capture is performed using a single depth sensor, such as Azure Kinect or Windows Kinect V2. Our toolbox enables real-time animation of the user's avatar by converting the transformations between systems that have different joints and hierarchies. Additional features of the toolbox include recording, playback and looping animations, as well as basic audio lip sync, blinking and resizing of avatars. Our main contribution is both in the creation of this open source tool as well as the integration of MoveBox with Kinect V2 and Azure Kinect, as well as the interfacing with the Microsoft Rocketbox avatars. | C# | 88 | MIT License | 2020-07-07 | 2024-05-09 |
 | [test-infra](https://github.com/microsoft/test-infra) | To gain access, please finish setting up this repository now at:  https://repos.opensource.microsoft.com/microsoft/wizard?existingreponame=test-infra&existingrepoid=277916867 | Shell | 0 | MIT License | 2020-07-07 | 2024-07-08 |
@@ -11794,8 +11794,8 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [visual-analytics-components](https://github.com/microsoft/visual-analytics-components) | A research system for component-based Visual Analytics applications | TypeScript | 5 | MIT License | 2020-07-13 | 2024-03-29 |
 | [moc-sdk-for-go](https://github.com/microsoft/moc-sdk-for-go) | AzureStackHCI Cloud SDK for GoLang | Go | 13 | Apache License 2.0 | 2020-07-13 | 2024-07-18 |
 | [moc](https://github.com/microsoft/moc) | Microsoft On-Premise Cloud | Go | 41 | Apache License 2.0 | 2020-07-14 | 2024-07-11 |
-| [iot-curriculum](https://github.com/microsoft/iot-curriculum) | Hands on labs and content for students and educators to learn and teach the Internet of Things at schools, universities, coding clubs, community colleges and bootcamps | JavaScript | 160 | MIT License | 2020-07-14 | 2024-07-13 |
-| [Azure-Analytics-and-AI-Engagement](https://github.com/microsoft/Azure-Analytics-and-AI-Engagement) | Azure Analytics and AI Engagement | Jupyter Notebook | 131 | Other | 2020-07-14 | 2024-07-20 |
+| [iot-curriculum](https://github.com/microsoft/iot-curriculum) | Hands on labs and content for students and educators to learn and teach the Internet of Things at schools, universities, coding clubs, community colleges and bootcamps | JavaScript | 161 | MIT License | 2020-07-14 | 2024-07-21 |
+| [Azure-Analytics-and-AI-Engagement](https://github.com/microsoft/Azure-Analytics-and-AI-Engagement) | Azure Analytics and AI Engagement | Jupyter Notebook | 131 | Other | 2020-07-14 | 2024-07-21 |
 | [privGAN](https://github.com/microsoft/privGAN) | PrivGAN: Protecting GANs from membership inference attacks at low cost | Jupyter Notebook | 28 | MIT License | 2020-07-14 | 2024-07-16 |
 | [DevSkim-Action](https://github.com/microsoft/DevSkim-Action) | The GitHub Action for DevSkim | Shell | 37 | MIT License | 2020-07-14 | 2024-04-30 |
 | [ApplicationInspector-Action](https://github.com/microsoft/ApplicationInspector-Action) | The GitHub Action for Microsoft Application Inspector | Shell | 14 | MIT License | 2020-07-15 | 2024-05-02 |
@@ -11823,7 +11823,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [MixedReality-QRCode-Sample](https://github.com/microsoft/MixedReality-QRCode-Sample) | A single repository of Mixed Reality samples in Unity. | None | 99 | MIT License | 2020-07-23 | 2024-07-11 |
 | [CEDAR.GitHub.Collector](https://github.com/microsoft/CEDAR.GitHub.Collector) | Data collection pipeline for GitHub | C# | 15 | MIT License | 2020-07-23 | 2024-03-15 |
 | [CEDAR.Core.Collector](https://github.com/microsoft/CEDAR.Core.Collector) | Common infrastructure for CEDAR collectors | C# | 11 | MIT License | 2020-07-23 | 2022-12-06 |
-| [restler-fuzzer](https://github.com/microsoft/restler-fuzzer) | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | Python | 2526 | MIT License | 2020-07-24 | 2024-07-20 |
+| [restler-fuzzer](https://github.com/microsoft/restler-fuzzer) | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | Python | 2527 | MIT License | 2020-07-24 | 2024-07-22 |
 | [TelemetryLogsGeneratorAndBenchmark](https://github.com/microsoft/TelemetryLogsGeneratorAndBenchmark) | Telemetry and logs generator for benchmarks | C# | 18 | MIT License | 2020-07-25 | 2023-08-24 |
 | [implementation-patterns](https://github.com/microsoft/implementation-patterns) | None | Shell | 10 | MIT License | 2020-07-27 | 2024-06-30 |
 | [microsoft-performance-toolkit-sdk](https://github.com/microsoft/microsoft-performance-toolkit-sdk) | Software Development Kit for the Microsoft Performance ToolKit | C# | 141 | MIT License | 2020-07-27 | 2024-07-12 |
@@ -11841,19 +11841,19 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [RecursiveExtractor](https://github.com/microsoft/RecursiveExtractor) | RecursiveExtractor is a .NET Standard 2.0 archive extraction Library, and Command Line Tool which can process 7zip, ar, bzip2, deb, gzip, iso, rar, tar, vhd, vhdx, vmdk, wim, xzip, and zip archives and any nested combination of the supported formats. | C# | 189 | MIT License | 2020-07-31 | 2024-07-17 |
 | [mu_common_intel_min_platform](https://github.com/microsoft/mu_common_intel_min_platform) | Project Mu Minimum Platform | C | 17 | Other | 2020-07-31 | 2024-07-19 |
 | [mu_common_intel_adv_features](https://github.com/microsoft/mu_common_intel_adv_features) | None | C | 6 | Other | 2020-07-31 | 2024-05-19 |
-| [playwright-pytest](https://github.com/microsoft/playwright-pytest) | Pytest plugin to write end-to-end browser tests with Playwright. | Python | 416 | Apache License 2.0 | 2020-08-03 | 2024-07-17 |
+| [playwright-pytest](https://github.com/microsoft/playwright-pytest) | Pytest plugin to write end-to-end browser tests with Playwright. | Python | 417 | Apache License 2.0 | 2020-08-03 | 2024-07-21 |
 | [DFOL-VQA](https://github.com/microsoft/DFOL-VQA) | Differentiable First-Order Logic Reasoning for Visual Question Answering | Python | 36 | MIT License | 2020-08-03 | 2024-05-30 |
 | [win_pmu](https://github.com/microsoft/win_pmu) | example PMU event counting mode tool | C | 3 | MIT License | 2020-08-03 | 2023-03-03 |
 | [arcade-chaos-maze](https://github.com/microsoft/arcade-chaos-maze) | A Chaos Maze for students to explore in MakeCode Arcade | TypeScript | 2 | MIT License | 2020-08-04 | 2022-08-10 |
 | [Network-Performance-Visualization](https://github.com/microsoft/Network-Performance-Visualization) | None | PowerShell | 79 | MIT License | 2020-08-04 | 2024-07-16 |
-| [methods2test](https://github.com/microsoft/methods2test) | methods2test is a supervised dataset consisting of Test Cases and their corresponding Focal Methods from a set of Java software repositories | Python | 126 | MIT License | 2020-08-05 | 2024-07-18 |
+| [methods2test](https://github.com/microsoft/methods2test) | methods2test is a supervised dataset consisting of Test Cases and their corresponding Focal Methods from a set of Java software repositories | Python | 127 | MIT License | 2020-08-05 | 2024-07-21 |
 | [INMT-lite](https://github.com/microsoft/INMT-lite) | Interactive Neural Machine Translation-lite (INMT-lite) is a framework to train and develop lite versions (.tflite) of models for neural machine translation (NMT) that can be run on embedded devices like mobile phones and tablets that have low computation power and space. The tflite models generated can be used to build the offline version of INMT mobile, a mobile version of INMT web. | C++ | 41 | MIT License | 2020-08-05 | 2024-06-28 |
 | [OpenMSFTL](https://github.com/microsoft/OpenMSFTL) | Research simulation toolkit for federated learning | Python | 11 | Other | 2020-08-06 | 2023-09-07 |
 | [AzureSynapseScriptsAndAccelerators](https://github.com/microsoft/AzureSynapseScriptsAndAccelerators) | None | PowerShell | 82 | MIT License | 2020-08-06 | 2024-06-18 |
 | [CSS-Exchange](https://github.com/microsoft/CSS-Exchange) | Exchange Server support tools and scripts | PowerShell | 1209 | MIT License | 2020-08-06 | 2024-07-19 |
 | [startstopv2-deployments](https://github.com/microsoft/startstopv2-deployments) | None | None | 48 | MIT License | 2020-08-06 | 2024-06-18 |
 | [powerplatform-actions-lab](https://github.com/microsoft/powerplatform-actions-lab) | This repo contains sample workflow definitions for GitHub Actions for Microsoft Power Platform. | None | 143 | MIT License | 2020-08-06 | 2024-07-19 |
-| [powerplatform-actions](https://github.com/microsoft/powerplatform-actions) | Power Platform GitHub Actions automate common build and deployment tasks related to Power Platform. This includes synchronization of solution metadata (a.k.a. solutions) between development environments and source control, generating build artifacts, deploying to downstream environments, provisioning/de-provisioning of environments, and the ability to perform static analysis checks against your solution using the PowerApps checker service. | TypeScript | 203 | MIT License | 2020-08-06 | 2024-07-19 |
+| [powerplatform-actions](https://github.com/microsoft/powerplatform-actions) | Power Platform GitHub Actions automate common build and deployment tasks related to Power Platform. This includes synchronization of solution metadata (a.k.a. solutions) between development environments and source control, generating build artifacts, deploying to downstream environments, provisioning/de-provisioning of environments, and the ability to perform static analysis checks against your solution using the PowerApps checker service. | TypeScript | 204 | MIT License | 2020-08-06 | 2024-07-21 |
 | [MSMARCO-Document-Ranking](https://github.com/microsoft/MSMARCO-Document-Ranking) | MS MARCO(Microsoft Machine Reading Comprehension) is a large scale dataset focused on machine reading comprehension, question answering, and passage/document ranking | Python | 117 | Creative Commons Attribution 4.0 International | 2020-08-06 | 2024-07-17 |
 | [ToxiScope](https://github.com/microsoft/ToxiScope) | None | Python | 7 | - | 2020-08-06 | 2024-02-19 |
 | [coding-pack-for-python](https://github.com/microsoft/coding-pack-for-python) | Documentation and issues for the VS Code Python installer. | None | 30 | Creative Commons Attribution 4.0 International | 2020-08-06 | 2024-03-12 |
@@ -11876,7 +11876,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [CognitiveServicesLanguageUtilities](https://github.com/microsoft/CognitiveServicesLanguageUtilities) | Utilities for the Cognitive Service Custom Text document processing tool. | C# | 17 | MIT License | 2020-08-13 | 2023-10-11 |
 | [pxt-tensorflow](https://github.com/microsoft/pxt-tensorflow) | Run Tensorflow for Microcontrollers models | C++ | 6 | MIT License | 2020-08-13 | 2023-01-20 |
 | [customvision-tfjs-node](https://github.com/microsoft/customvision-tfjs-node) | Node.js library for TensorFlow.js models exported from Custom Vision Service | JavaScript | 8 | MIT License | 2020-08-13 | 2023-07-08 |
-| [qlib](https://github.com/microsoft/qlib) | Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL. | Python | 14643 | MIT License | 2020-08-14 | 2024-07-21 |
+| [qlib](https://github.com/microsoft/qlib) | Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL. | Python | 14654 | MIT License | 2020-08-14 | 2024-07-22 |
 | [FluidExamples](https://github.com/microsoft/FluidExamples) | Set of examples built on the Fluid Framework | TypeScript | 256 | MIT License | 2020-08-14 | 2024-07-16 |
 | [eslint-plugin-powerbi-visuals](https://github.com/microsoft/eslint-plugin-powerbi-visuals) | contains ESLINT rules for ensuring powerbi custom visuals quality | JavaScript | 5 | MIT License | 2020-08-16 | 2024-01-30 |
 | [vscode-web-playground](https://github.com/microsoft/vscode-web-playground) | This extension provides in-memory web capabilities for VS Code for testing purposes only. | TypeScript | 88 | MIT License | 2020-08-17 | 2024-07-09 |
@@ -11889,7 +11889,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [ChoresIoT](https://github.com/microsoft/ChoresIoT) | IOT Trash Can Solution | HTML | 18 | MIT License | 2020-08-18 | 2023-03-17 |
 | [FluidStorybook](https://github.com/microsoft/FluidStorybook) | StorybookJS integration with the Fluid Framework | TypeScript | 17 | MIT License | 2020-08-19 | 2023-08-25 |
 | [Audio-Manager-for-Unity](https://github.com/microsoft/Audio-Manager-for-Unity) | A tool for defining and executing audio behaviors in Unity in a node based editor | C# | 181 | MIT License | 2020-08-19 | 2024-06-30 |
-| [FLAML](https://github.com/microsoft/FLAML) | A fast library for AutoML and tuning. Join our Discord: https://discord.gg/Cppx2vSPVP. | Jupyter Notebook | 3784 | MIT License | 2020-08-20 | 2024-07-20 |
+| [FLAML](https://github.com/microsoft/FLAML) | A fast library for AutoML and tuning. Join our Discord: https://discord.gg/Cppx2vSPVP. | Jupyter Notebook | 3788 | MIT License | 2020-08-20 | 2024-07-22 |
 | [sim-packaging](https://github.com/microsoft/sim-packaging) | Tooling to abstract away docker building of simulators using az acr | Python | 2 | MIT License | 2020-08-24 | 2024-02-09 |
 | [arcade-block-objects](https://github.com/microsoft/arcade-block-objects) | An extension for MakeCode Arcade that adds JavaScript like objects | TypeScript | 2 | MIT License | 2020-08-24 | 2022-08-10 |
 | [boll](https://github.com/microsoft/boll) | monorepo linting tool | TypeScript | 15 | MIT License | 2020-08-24 | 2024-04-20 |
@@ -11910,7 +11910,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [Guan](https://github.com/microsoft/Guan) | Guan is a cross-platform, general-purpose logic programming library with a C# API for external predicate implementation. It is a close approximation of Prolog, with extended capabilities and some differences. | C# | 72 | MIT License | 2020-08-28 | 2024-07-03 |
 | [installer-project-samples](https://github.com/microsoft/installer-project-samples) | Samples for Visual Studio Installer Projects | C# | 10 | MIT License | 2020-08-28 | 2024-05-23 |
 | [tensorflow-directml](https://github.com/microsoft/tensorflow-directml) | Fork of TensorFlow accelerated by DirectML | C++ | 454 | Apache License 2.0 | 2020-08-29 | 2024-06-27 |
-| [CodeXGLUE](https://github.com/microsoft/CodeXGLUE) | CodeXGLUE  | C# | 1482 | MIT License | 2020-08-31 | 2024-07-20 |
+| [CodeXGLUE](https://github.com/microsoft/CodeXGLUE) | CodeXGLUE  | C# | 1481 | MIT License | 2020-08-31 | 2024-07-21 |
 | [vscode-tye](https://github.com/microsoft/vscode-tye) | A Visual Studio Code extension for Tye development | TypeScript | 25 | Other | 2020-08-31 | 2024-03-18 |
 | [Dynamics-AX-Payroll-US](https://github.com/microsoft/Dynamics-AX-Payroll-US) | Source code related to the Symmetry payroll tax engine for Dynamics AX 2012 R3 | C# | 1 | MIT License | 2020-08-31 | 2023-10-06 |
 | [ignitelearnzone](https://github.com/microsoft/ignitelearnzone) | Resources for learners at Ignite | None | 103 | MIT License | 2020-08-31 | 2024-07-19 |
@@ -11919,14 +11919,14 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [ExpressivePixelsMakeCode](https://github.com/microsoft/ExpressivePixelsMakeCode) | MakeCode extension for Expressive Pixels | TypeScript | 7 | MIT License | 2020-09-01 | 2024-04-06 |
 | [Dynamics-365-Fraud-Protection-ManualReview](https://github.com/microsoft/Dynamics-365-Fraud-Protection-ManualReview) | Manual review tool code base | TypeScript | 3 | MIT License | 2020-09-01 | 2024-06-04 |
 | [package-inherit](https://github.com/microsoft/package-inherit) | A utility to help package.json in a monorepo in sync with an "inheritance" model | TypeScript | 55 | MIT License | 2020-09-01 | 2024-07-10 |
-| [AI-System](https://github.com/microsoft/AI-System) | System for AI Education Resource. | Python | 3211 | Creative Commons Attribution 4.0 International | 2020-09-02 | 2024-07-20 |
+| [AI-System](https://github.com/microsoft/AI-System) | System for AI Education Resource. | Python | 3215 | Creative Commons Attribution 4.0 International | 2020-09-02 | 2024-07-22 |
 | [azure_spatial_anchors_ros](https://github.com/microsoft/azure_spatial_anchors_ros) | ROS wrapper for the Azure Spatial Anchors Linux SDK, allowing robots (and other devices with vision-based sensors) to co-localize with other robots, AR-enabled phones, and Hololens devices. | C++ | 85 | MIT License | 2020-09-02 | 2024-07-01 |
-| [qlib-server](https://github.com/microsoft/qlib-server) | Qlib-Server is the data server system for Qlib. It enable Qlib to run in online mode. Under online mode, the data will be deployed as a shared data service. The data and their cache will be shared by all the clients. The data retrieval performance is expected to be improved due to a higher rate of cache hits. It will consume less disk space, too. | Python | 226 | MIT License | 2020-09-02 | 2024-07-12 |
+| [qlib-server](https://github.com/microsoft/qlib-server) | Qlib-Server is the data server system for Qlib. It enable Qlib to run in online mode. Under online mode, the data will be deployed as a shared data service. The data and their cache will be shared by all the clients. The data retrieval performance is expected to be improved due to a higher rate of cache hits. It will consume less disk space, too. | Python | 227 | MIT License | 2020-09-02 | 2024-07-22 |
 | [Azure-ODSPMarketplace](https://github.com/microsoft/Azure-ODSPMarketplace) | Set of ARM templates for the ODSP team used to deploy artifacts in the Azure Marketplace | None | 2 | MIT License | 2020-09-03 | 2022-08-10 |
 | [PSRule.Rules.MSFT.OSS](https://github.com/microsoft/PSRule.Rules.MSFT.OSS) | A suite of rules to validate repositories against Microsoft Open Source Software (OSS) requirements. | PowerShell | 9 | MIT License | 2020-09-03 | 2024-07-19 |
 | [ieee-quantum-week-2020](https://github.com/microsoft/ieee-quantum-week-2020) | Demos and tutorials for IEEE Quantum Week 2020. | Jupyter Notebook | 9 | MIT License | 2020-09-03 | 2024-01-17 |
 | [winget-cli-restsource](https://github.com/microsoft/winget-cli-restsource) | This project aims to provide a reference implementation for creating a REST based package source for the winget client. | C# | 239 | MIT License | 2020-09-03 | 2024-07-13 |
-| [AEC-Challenge](https://github.com/microsoft/AEC-Challenge) | AEC Challenge | None | 358 | MIT License | 2020-09-03 | 2024-07-19 |
+| [AEC-Challenge](https://github.com/microsoft/AEC-Challenge) | AEC Challenge | None | 359 | MIT License | 2020-09-03 | 2024-07-22 |
 | [outlook-customer-manager-export](https://github.com/microsoft/outlook-customer-manager-export) | This script will export or purge all of the data for an OCM user.The export results will be stored in a subfolder of the folder in which the script is located.  The folder name will be consist of the email address of the logged in user and the date/time of when the script was run. | PowerShell | 2 | MIT License | 2020-09-04 | 2024-04-01 |
 | [pSDCA](https://github.com/microsoft/pSDCA) | primal SDCA: a variant of SDCA with primal gradient update (conjugate-free) | C++ | 2 | MIT License | 2020-09-04 | 2024-06-13 |
 | [DistrOpt](https://github.com/microsoft/DistrOpt) | Distributed optimization algorithms for empirical risk minimization. | C++ | 2 | MIT License | 2020-09-04 | 2022-08-10 |
@@ -11953,14 +11953,14 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [synthetic-data-showcase](https://github.com/microsoft/synthetic-data-showcase) | Generates synthetic data and user interfaces for privacy-preserving data sharing and analysis. | Rust | 107 | MIT License | 2020-09-10 | 2024-07-12 |
 | [azure-ai-hands-on-training](https://github.com/microsoft/azure-ai-hands-on-training) | Materials & References for the Azure AI Hands-On Training | Jupyter Notebook | 11 | MIT License | 2020-09-10 | 2023-11-28 |
 | [SwitchML](https://github.com/microsoft/SwitchML) | Switch-based Training Acceleration for Machine Learning (SwitchML) | Python | 14 | MIT License | 2020-09-10 | 2024-06-17 |
-| [vscode-jupyter](https://github.com/microsoft/vscode-jupyter) | VS Code Jupyter extension | TypeScript | 1256 | MIT License | 2020-09-10 | 2024-07-21 |
+| [vscode-jupyter](https://github.com/microsoft/vscode-jupyter) | VS Code Jupyter extension | TypeScript | 1256 | MIT License | 2020-09-10 | 2024-07-22 |
 | [AKS-Arc-Apps](https://github.com/microsoft/AKS-Arc-Apps) | Docs and scripts to simplify application deployment on AKS enabled by Arc | PowerShell | 15 | Other | 2020-09-11 | 2024-06-07 |
 | [qsharp-language](https://github.com/microsoft/qsharp-language) | Official repository for design of the quantum programming language Q# and its core libraries | ANTLR | 233 | MIT License | 2020-09-11 | 2024-05-22 |
-| [coe-starter-kit](https://github.com/microsoft/coe-starter-kit) | None | TypeScript | 726 | Other | 2020-09-14 | 2024-07-18 |
+| [coe-starter-kit](https://github.com/microsoft/coe-starter-kit) | None | TypeScript | 726 | Other | 2020-09-14 | 2024-07-21 |
 | [cocoapods-azure-universal-packages](https://github.com/microsoft/cocoapods-azure-universal-packages) | CocoaPods plugin for downloading Universal Packages from Azure Artifacts feeds. | Ruby | 10 | MIT License | 2020-09-14 | 2024-03-18 |
 | [ml4f](https://github.com/microsoft/ml4f) | ML model compiler for Cortex-M4F | TypeScript | 16 | MIT License | 2020-09-14 | 2024-05-27 |
 | [uts2](https://github.com/microsoft/uts2) | μts is a miniature time-series database utility | TypeScript | 9 | MIT License | 2020-09-14 | 2023-07-22 |
-| [openjdk-jdk](https://github.com/microsoft/openjdk-jdk) | JDK main-line development | Java | 22 | GNU General Public License v2.0 | 2020-09-14 | 2024-07-21 |
+| [openjdk-jdk](https://github.com/microsoft/openjdk-jdk) | JDK main-line development | Java | 22 | GNU General Public License v2.0 | 2020-09-14 | 2024-07-22 |
 | [NetPerfTest-Linux](https://github.com/microsoft/NetPerfTest-Linux) | Network Performance Test for Linux | PowerShell | 6 | MIT License | 2020-09-14 | 2024-07-15 |
 | [quantum-viz.js](https://github.com/microsoft/quantum-viz.js) | quantum-viz.js is a configurable tool for rendering quantum circuits using pure HTML. | TypeScript | 43 | Other | 2020-09-14 | 2024-07-11 |
 | [TheLaunchSpace](https://github.com/microsoft/TheLaunchSpace) | This is the demo and deck repository for The Launch Space on Microsoft Learn TV - Check the schedule here then see the live broadcast at https://aka.ms/learnTV | None | 29 | MIT License | 2020-09-15 | 2024-01-22 |
@@ -11984,14 +11984,14 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [CSAAppServiceDeployments](https://github.com/microsoft/CSAAppServiceDeployments) | None | C# | 5 | Creative Commons Attribution 4.0 International | 2020-09-22 | 2023-01-29 |
 | [mu_tiano_platforms](https://github.com/microsoft/mu_tiano_platforms) | Project Mu Virtual Platform Firmware | C | 54 | Other | 2020-09-22 | 2024-07-10 |
 | [TaxiNLI](https://github.com/microsoft/TaxiNLI) | Taxonomic Fragmentation of the NLI Task | None | 19 | Other | 2020-09-23 | 2024-07-03 |
-| [WindowsAppSDK-Samples](https://github.com/microsoft/WindowsAppSDK-Samples) | Feature samples for the Windows App SDK | C++ | 686 | MIT License | 2020-09-23 | 2024-07-18 |
+| [WindowsAppSDK-Samples](https://github.com/microsoft/WindowsAppSDK-Samples) | Feature samples for the Windows App SDK | C++ | 685 | MIT License | 2020-09-23 | 2024-07-21 |
 | [USRoadDetections](https://github.com/microsoft/USRoadDetections) | Road detections from aerial imagery in the US | None | 9 | - | 2020-09-23 | 2023-04-20 |
 | [shim-review](https://github.com/microsoft/shim-review) | This repo is for review of requests for signing shim | None | 1 | - | 2020-09-23 | 2023-10-06 |
 | [acoustic-bird-detection](https://github.com/microsoft/acoustic-bird-detection) | Machine learning tools for acoustic bird detection | Jupyter Notebook | 43 | MIT License | 2020-09-24 | 2024-06-15 |
 | [folio](https://github.com/microsoft/folio) | A customizable test framework to build your own test frameworks | TypeScript | 849 | Apache License 2.0 | 2020-09-24 | 2024-06-20 |
 | [CSACostAnomalies](https://github.com/microsoft/CSACostAnomalies) | None | None | 1 | Creative Commons Attribution 4.0 International | 2020-09-25 | 2022-08-10 |
 | [UWPWuXi](https://github.com/microsoft/UWPWuXi) | This repo is used to host the sample code that we will send to our customer to solve their problem during the forum support | None | 1 | MIT License | 2020-09-25 | 2024-06-13 |
-| [playwright-java](https://github.com/microsoft/playwright-java) | Java version of the Playwright testing and automation library | Java | 1075 | Apache License 2.0 | 2020-09-25 | 2024-07-21 |
+| [playwright-java](https://github.com/microsoft/playwright-java) | Java version of the Playwright testing and automation library | Java | 1076 | Apache License 2.0 | 2020-09-25 | 2024-07-22 |
 | [infinite-monkey](https://github.com/microsoft/infinite-monkey) | A tool to generate fake (but working!) node.js code | TypeScript | 2 | MIT License | 2020-09-25 | 2024-06-13 |
 | [gdk-unity-package](https://github.com/microsoft/gdk-unity-package) | The Unity package for PC GDK developers. | C# | 47 | Other | 2020-09-25 | 2024-07-11 |
 | [dynamics365smb-custom-help](https://github.com/microsoft/dynamics365smb-custom-help) | This repository contains code for helping you configure a custom help system for Microsoft Dynamics 365 Business Central | None | 13 | MIT License | 2020-09-29 | 2024-06-20 |
@@ -11999,17 +11999,17 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [glge](https://github.com/microsoft/glge) | Code for ACL2021 paper: "GLGE: A New General Language Generation Evaluation Benchmark" | JavaScript | 58 | Other | 2020-09-30 | 2024-04-18 |
 | [Azure-Integration-Reports](https://github.com/microsoft/Azure-Integration-Reports) | This repo will be used to generate and store reports for other GitHub repos | None | 2 | MIT License | 2020-09-30 | 2022-08-10 |
 | [budget-control-sample](https://github.com/microsoft/budget-control-sample) | Controlling costs within Azure can sometimes seem confusing which might lead to misunderstandings. This project aims to give a basic overview of the cost and budget structure within Azure as well as giving tools to control costs in an exact manner through alerts and ultimately shut down of resources. | PowerShell | 7 | Creative Commons Attribution 4.0 International | 2020-09-30 | 2024-06-19 |
-| [asconnect](https://github.com/microsoft/asconnect) | Wrapper around the Apple App Store Connect REST APIs | Python | 26 | MIT License | 2020-09-30 | 2024-07-15 |
+| [asconnect](https://github.com/microsoft/asconnect) | Wrapper around the Apple App Store Connect REST APIs | Python | 26 | MIT License | 2020-09-30 | 2024-07-22 |
 | [MixedReality-GraphicsTools-Unreal](https://github.com/microsoft/MixedReality-GraphicsTools-Unreal) | Graphics tools and components for developing Mixed Reality applications in Unreal Engine. | C++ | 107 | MIT License | 2020-09-30 | 2024-07-05 |
 | [kfp-event-handler](https://github.com/microsoft/kfp-event-handler) | Kubeflow Pipelines Event Handler | Go | 12 | MIT License | 2020-09-30 | 2024-06-22 |
-| [Dynamics365Commerce.ScaleUnit](https://github.com/microsoft/Dynamics365Commerce.ScaleUnit) | Repository for hosting the Dynamics 365 Commerce ScaleUnit Samples | PowerShell | 59 | Other | 2020-10-01 | 2024-07-20 |
+| [Dynamics365Commerce.ScaleUnit](https://github.com/microsoft/Dynamics365Commerce.ScaleUnit) | Repository for hosting the Dynamics 365 Commerce ScaleUnit Samples | PowerShell | 59 | Other | 2020-10-01 | 2024-07-21 |
 | [BackupDwToBlob](https://github.com/microsoft/BackupDwToBlob) | An Azure Data Factory pipeline with T-SQL and REST API to backup an Azure Synapse provisioned SQL Pool to Azure BLOB storage. | None | 11 | MIT License | 2020-10-02 | 2023-01-28 |
 | [multi-concept-sample](https://github.com/microsoft/multi-concept-sample) | None | Python | 2 | MIT License | 2020-10-02 | 2024-02-09 |
 | [waterfall_ax](https://github.com/microsoft/waterfall_ax) | Create waterfall charts with matplotlib | Python | 6 | MIT License | 2020-10-03 | 2023-08-24 |
 | [pxt-ei](https://github.com/microsoft/pxt-ei) | EdgeImpulse integration for MakeCode | TypeScript | 2 | MIT License | 2020-10-05 | 2023-01-20 |
 | [rest-api-fuzz-testing](https://github.com/microsoft/rest-api-fuzz-testing) | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR's RESTler), that enables developers to embed security tooling into their CI/CD workflows | F# | 263 | MIT License | 2020-10-05 | 2024-06-13 |
 | [rankerEval](https://github.com/microsoft/rankerEval) | A fast numpy-based implementation of ranking metrics for information retrieval and recommendation. | Python | 30 | MIT License | 2020-10-05 | 2024-07-03 |
-| [onnxruntime-extensions](https://github.com/microsoft/onnxruntime-extensions) | onnxruntime-extensions: A specialized pre- and post- processing library for ONNX Runtime | C++ | 303 | MIT License | 2020-10-05 | 2024-07-20 |
+| [onnxruntime-extensions](https://github.com/microsoft/onnxruntime-extensions) | onnxruntime-extensions: A specialized pre- and post- processing library for ONNX Runtime | C++ | 304 | MIT License | 2020-10-05 | 2024-07-21 |
 | [docs-yaml](https://github.com/microsoft/docs-yaml) | None | TypeScript | 4 | MIT License | 2020-10-05 | 2023-05-31 |
 | [jacdac-circuitpython](https://github.com/microsoft/jacdac-circuitpython) | Jacdac support for CircuitPython | Python | 3 | MIT License | 2020-10-06 | 2022-08-10 |
 | [FedDrift](https://github.com/microsoft/FedDrift) | Federated Learning under Distributed Concept Drift (FedDrift) | Python | 11 | MIT License | 2020-10-07 | 2024-05-19 |
@@ -12065,7 +12065,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [devinit-example-nodejs](https://github.com/microsoft/devinit-example-nodejs) | None | JavaScript | 2 | MIT License | 2020-10-29 | 2022-08-10 |
 | [ndis-driver-library](https://github.com/microsoft/ndis-driver-library) | Code to make it easier to write an NDIS network driver on Windows | C | 69 | MIT License | 2020-10-29 | 2024-07-03 |
 | [durabletask-netherite](https://github.com/microsoft/durabletask-netherite) | A new engine for Durable Functions. https://microsoft.github.io/durabletask-netherite | C# | 217 | Other | 2020-10-29 | 2024-07-18 |
-| [UniVL](https://github.com/microsoft/UniVL) | An official implementation for " UniVL: A Unified Video and Language Pre-Training Model for Multimodal Understanding and Generation" | Python | 332 | MIT License | 2020-10-30 | 2024-06-24 |
+| [UniVL](https://github.com/microsoft/UniVL) | An official implementation for " UniVL: A Unified Video and Language Pre-Training Model for Multimodal Understanding and Generation" | Python | 334 | MIT License | 2020-10-30 | 2024-07-22 |
 | [BusinessCentralHelloWorld.AppSource](https://github.com/microsoft/BusinessCentralHelloWorld.AppSource) | None | None | 6 | - | 2020-11-02 | 2024-06-20 |
 | [PR-Metrics](https://github.com/microsoft/PR-Metrics) | A GitHub Action & Azure Pipelines task for augmenting pull request titles to let reviewers quickly determine PR size and test coverage. | TypeScript | 55 | MIT License | 2020-11-02 | 2024-07-01 |
 | [internet-in-a-box](https://github.com/microsoft/internet-in-a-box) | Enabling data-informed network simulation | Tcl | 14 | MIT License | 2020-11-02 | 2024-07-07 |
@@ -12081,7 +12081,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [eslint-plugin-sdl](https://github.com/microsoft/eslint-plugin-sdl) | ESLint Plugin focused on common security issues and misconfigurations. | JavaScript | 35 | MIT License | 2020-11-07 | 2024-06-28 |
 | [azure-data-services-go-fast-documentation](https://github.com/microsoft/azure-data-services-go-fast-documentation) | Documentation for the Azure Data Services Go Fast Framework. A framework for rapid deployment and configuration of common Azure Data Services Architectures. | None | 13 | MIT License | 2020-11-09 | 2022-08-10 |
 | [FHIR-Consent-Samples](https://github.com/microsoft/FHIR-Consent-Samples) | Contains FHIR sample for  Consent based authorization | C# | 9 | MIT License | 2020-11-09 | 2022-09-02 |
-| [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer | JavaScript | 82310 | MIT License | 2020-11-10 | 2024-07-21 |
+| [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer | JavaScript | 82312 | MIT License | 2020-11-10 | 2024-07-22 |
 | [sketch360](https://github.com/microsoft/sketch360) | Cross-Platform 360 Degree Panoramic Sketching App  | JavaScript | 41 | MIT License | 2020-11-10 | 2024-05-21 |
 | [HMNet](https://github.com/microsoft/HMNet) | Official Implementation of "A Hierarchical Network for Abstractive Meeting Summarization with Cross-Domain Pretraining"" | Python | 78 | Other | 2020-11-10 | 2024-04-02 |
 | [aed-external-learn-template](https://github.com/microsoft/aed-external-learn-template) | Template for creating Learn modules and Learning Paths | None | 2 | Creative Commons Attribution 4.0 International | 2020-11-10 | 2022-08-10 |
@@ -12128,7 +12128,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [PlanetaryComputer](https://github.com/microsoft/PlanetaryComputer) | Issues, discussions, and information about the Microsoft Planetary Computer | None | 176 | MIT License | 2020-12-01 | 2024-06-29 |
 | [PlanetaryComputerDataCatalog](https://github.com/microsoft/PlanetaryComputerDataCatalog) | Data catalog for the Microsoft Planetary Computer | TypeScript | 35 | MIT License | 2020-12-01 | 2024-07-09 |
 | [ts-gyb](https://github.com/microsoft/ts-gyb) | Generating native code interfaces from TypeScript | TypeScript | 118 | MIT License | 2020-12-01 | 2024-07-02 |
-| [CsWin32](https://github.com/microsoft/CsWin32) | A source generator to add a user-defined set of Win32 P/Invoke methods and supporting types to a C# project. | C# | 1999 | MIT License | 2020-12-01 | 2024-07-20 |
+| [CsWin32](https://github.com/microsoft/CsWin32) | A source generator to add a user-defined set of Win32 P/Invoke methods and supporting types to a C# project. | C# | 2000 | MIT License | 2020-12-01 | 2024-07-21 |
 | [service-fabric-healer](https://github.com/microsoft/service-fabric-healer) | Service Fabric Auto-Repair Service with Declarative Logic for Repair Policy Specification. Targets both Windows and Linux SF clusters. | C# | 18 | MIT License | 2020-12-01 | 2024-07-11 |
 | [BAS-Ecosystem-Engineering](https://github.com/microsoft/BAS-Ecosystem-Engineering) | Business Applications Solutions Ecosystem Engineering | None | 5 | MIT License | 2020-12-01 | 2023-10-16 |
 | [mixed-reality-extension-unity-testbed](https://github.com/microsoft/mixed-reality-extension-unity-testbed) | None | C# | 3 | MIT License | 2020-12-02 | 2023-06-30 |
@@ -12140,16 +12140,16 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [azure_arc_jumpstartweb](https://github.com/microsoft/azure_arc_jumpstartweb) | Repository to host the Azure Arc Jumpstart website | CSS | 4 | Apache License 2.0 | 2020-12-04 | 2023-10-22 |
 | [normalized_trend_filtering](https://github.com/microsoft/normalized_trend_filtering) | Normalized Trend Filtering for Biomedical Datasets | Jupyter Notebook | 3 | MIT License | 2020-12-04 | 2023-07-10 |
 | [azurelinux-tutorials](https://github.com/microsoft/azurelinux-tutorials) | Repository for Demonstration/Tutorial needs of CBL-Mariner | Shell | 51 | MIT License | 2020-12-04 | 2024-07-02 |
-| [AzureLinuxVulnerabilityData](https://github.com/microsoft/AzureLinuxVulnerabilityData) | Contains a regularly published and updated vulnerability database for Vulnerability Monitoring. | None | 30 | MIT License | 2020-12-04 | 2024-07-20 |
+| [AzureLinuxVulnerabilityData](https://github.com/microsoft/AzureLinuxVulnerabilityData) | Contains a regularly published and updated vulnerability database for Vulnerability Monitoring. | None | 30 | MIT License | 2020-12-04 | 2024-07-21 |
 | [RespireNet](https://github.com/microsoft/RespireNet) | This is the official implementation of the work RespireNet. | Python | 46 | MIT License | 2020-12-07 | 2024-07-08 |
 | [CausalGrid](https://github.com/microsoft/CausalGrid) | Automated tool to look for heterogeneity in causally estimated treatment effects (e.g., from an experiment) by identifying subgroups | HTML | 6 | MIT License | 2020-12-07 | 2023-11-09 |
 | [TypeScript-Release-Deploy-Perf-Info](https://github.com/microsoft/TypeScript-Release-Deploy-Perf-Info) | Take some commits of the TypeScript compiler, and figure out their relative performances | JavaScript | 1 | MIT License | 2020-12-07 | 2024-05-15 |
 | [HAXPlaybook](https://github.com/microsoft/HAXPlaybook) | The HAX Playbook is an interactive tool for generating interaction scenarios to test when designing user-facing AI systems. | TypeScript | 46 | MIT License | 2020-12-08 | 2024-07-17 |
 | [Microsoft-Performance-Tools-Linux-Android](https://github.com/microsoft/Microsoft-Performance-Tools-Linux-Android) | Linux, Android and Chromium Performance Tools built using the Microsoft Performance Toolkit. Cross-platform .NET Core + WPA GUI | C# | 316 | MIT License | 2020-12-08 | 2024-07-18 |
-| [vcpkg-tool](https://github.com/microsoft/vcpkg-tool) | Components of microsoft/vcpkg's binary. | C++ | 406 | MIT License | 2020-12-08 | 2024-07-15 |
+| [vcpkg-tool](https://github.com/microsoft/vcpkg-tool) | Components of microsoft/vcpkg's binary. | C++ | 407 | MIT License | 2020-12-08 | 2024-07-22 |
 | [pxt-tilecode](https://github.com/microsoft/pxt-tilecode) | TileCode in MakeCode | None | 1 | MIT License | 2020-12-09 | 2022-08-10 |
-| [Dynamics365Commerce.InStore](https://github.com/microsoft/Dynamics365Commerce.InStore) | Repository for hosting the Dynamics 365 Commerce in store Samples | TypeScript | 48 | Other | 2020-12-09 | 2024-07-20 |
-| [Dynamics365Commerce.Solutions](https://github.com/microsoft/Dynamics365Commerce.Solutions) | Repository for hosting the Dynamics 365 Commerce end to end sample solutions | SCSS | 50 | Other | 2020-12-09 | 2024-07-20 |
+| [Dynamics365Commerce.InStore](https://github.com/microsoft/Dynamics365Commerce.InStore) | Repository for hosting the Dynamics 365 Commerce in store Samples | TypeScript | 48 | Other | 2020-12-09 | 2024-07-21 |
+| [Dynamics365Commerce.Solutions](https://github.com/microsoft/Dynamics365Commerce.Solutions) | Repository for hosting the Dynamics 365 Commerce end to end sample solutions | SCSS | 50 | Other | 2020-12-09 | 2024-07-21 |
 | [CSSClientAppsXamarinSampleCode](https://github.com/microsoft/CSSClientAppsXamarinSampleCode) | Sample code for Xamarin | C# | 2 | MIT License | 2020-12-10 | 2023-10-16 |
 | [TeamsMuteButton](https://github.com/microsoft/TeamsMuteButton) | External mute button for Microsoft Teams using the Adafruit Circuit Playground Express | C++ | 62 | MIT License | 2020-12-11 | 2024-04-16 |
 | [space-jam-a-new-legacy-template](https://github.com/microsoft/space-jam-a-new-legacy-template) | None | JavaScript | 5 | MIT License | 2020-12-11 | 2024-02-21 |
@@ -12171,7 +12171,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [MSMARCO-Passage-Ranking-Submissions](https://github.com/microsoft/MSMARCO-Passage-Ranking-Submissions) | Submission archive for the MS MARCO passage ranking leaderboard | Python | 12 | MIT License | 2020-12-19 | 2023-05-18 |
 | [weak-isolation-mock-db](https://github.com/microsoft/weak-isolation-mock-db) | In-memory key-value store for testing applications against weak behaviors of a database. | C++ | 9 | Other | 2020-12-19 | 2023-08-19 |
 | [IoT-Plug-and-Play-Workshop-WebApp](https://github.com/microsoft/IoT-Plug-and-Play-Workshop-WebApp) | Sample WebApp for IoT Plug and Play workshop | HTML | 1 | MIT License | 2020-12-21 | 2023-10-06 |
-| [kiota](https://github.com/microsoft/kiota) | OpenAPI based HTTP Client code generator | C# | 2483 | MIT License | 2020-12-22 | 2024-07-21 |
+| [kiota](https://github.com/microsoft/kiota) | OpenAPI based HTTP Client code generator | C# | 2484 | MIT License | 2020-12-22 | 2024-07-22 |
 | [Data-Quality-Rule-Engine](https://github.com/microsoft/Data-Quality-Rule-Engine) | None | Scala | 20 | Other | 2020-12-23 | 2024-04-23 |
 | [xtreme-distil-transformers](https://github.com/microsoft/xtreme-distil-transformers) | XtremeDistil framework for distilling/compressing massive multilingual neural network models to tiny and efficient models for AI at scale | Python | 153 | MIT License | 2020-12-27 | 2024-06-21 |
 | [fluentbit-containerd-cri-o-json-log](https://github.com/microsoft/fluentbit-containerd-cri-o-json-log) | Parsing CRI JSON logs with Fluent Bit - applies to fluentbit, kubernetes,  containerd and cri-o | None | 93 | MIT License | 2020-12-27 | 2024-07-18 |
@@ -12225,7 +12225,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [eMAPI](https://github.com/microsoft/eMAPI) | Electron app which hosts electron-gqlmapi with GraphiQL | JavaScript | 5 | MIT License | 2021-01-28 | 2024-05-05 |
 | [jfr-streaming](https://github.com/microsoft/jfr-streaming) | Library for streaming Java Flight Recording (JFR) files from local or remote JVMs | Java | 87 | MIT License | 2021-01-28 | 2024-06-22 |
 | [sca-fuzzer](https://github.com/microsoft/sca-fuzzer) | Revizor - a fuzzer to search for microarchitectural leaks in CPUs | Python | 108 | MIT License | 2021-01-29 | 2024-07-15 |
-| [ntttcp](https://github.com/microsoft/ntttcp) | None | C | 259 | MIT License | 2021-01-29 | 2024-07-20 |
+| [ntttcp](https://github.com/microsoft/ntttcp) | None | C | 260 | MIT License | 2021-01-29 | 2024-07-22 |
 | [latte](https://github.com/microsoft/latte) | None | None | 30 | MIT License | 2021-01-29 | 2024-07-01 |
 | [iot-cardboard-js](https://github.com/microsoft/iot-cardboard-js) | iot-cardboard-js is a React library for building experiences for IoT applications | TypeScript | 81 | MIT License | 2021-01-30 | 2024-07-03 |
 | [react-native-xaml](https://github.com/microsoft/react-native-xaml) | A React Native Windows library to use XAML / WinUI controls | C++ | 91 | MIT License | 2021-01-31 | 2024-06-20 |
@@ -12299,16 +12299,16 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [KeyVaultSafeName](https://github.com/microsoft/KeyVaultSafeName) | Encode / decode KeyVault -VaultName and -Name parameter values to use special characters | PowerShell | 2 | MIT License | 2021-03-02 | 2023-12-19 |
 | [sharepoint-recurring-events](https://github.com/microsoft/sharepoint-recurring-events) | None | TypeScript | 6 | MIT License | 2021-03-02 | 2023-12-05 |
 | [Microsoft-Vision-Model](https://github.com/microsoft/Microsoft-Vision-Model) | State-of-the-art pretrained vision model from Bing Multimedia | Python | 18 | MIT License | 2021-03-02 | 2024-06-26 |
-| [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all | HTML | 68403 | MIT License | 2021-03-03 | 2024-07-21 |
+| [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all | HTML | 68414 | MIT License | 2021-03-03 | 2024-07-22 |
 | [pxt-story-sprites](https://github.com/microsoft/pxt-story-sprites) | Utility sprite package containing background images for MakeCode Arcade | TypeScript | 1 | MIT License | 2021-03-03 | 2022-08-10 |
 | [fhir-proxy](https://github.com/microsoft/fhir-proxy) | FHIR Proxy is a secure application that acts as an intermediary in the transfer of FHIR data to and from Azure API for FHIR/FHIR Server for Azure | C# | 73 | MIT License | 2021-03-03 | 2024-05-23 |
 | [ai.ed](https://github.com/microsoft/ai.ed) | AI for (programming) EDucation | TypeScript | 13 | Other | 2021-03-03 | 2023-11-21 |
 | [PartiallyShuffleDistributedSampler](https://github.com/microsoft/PartiallyShuffleDistributedSampler) | None | Python | 2 | MIT License | 2021-03-03 | 2022-08-10 |
 | [FastAD](https://github.com/microsoft/FastAD) | None | Python | 2 | MIT License | 2021-03-03 | 2022-08-10 |
 | [DistributedBERT](https://github.com/microsoft/DistributedBERT) | None | Python | 2 | Apache License 2.0 | 2021-03-03 | 2022-08-10 |
-| [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 12 Weeks, 24 Lessons, AI for All! | Jupyter Notebook | 33341 | MIT License | 2021-03-03 | 2024-07-21 |
-| [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) | 10 Weeks, 20 Lessons, Data Science for All! | Jupyter Notebook | 27297 | MIT License | 2021-03-03 | 2024-07-21 |
-| [IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners) | 12 Weeks, 24 Lessons, IoT for All! | C++ | 15016 | MIT License | 2021-03-03 | 2024-07-21 |
+| [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 12 Weeks, 24 Lessons, AI for All! | Jupyter Notebook | 33355 | MIT License | 2021-03-03 | 2024-07-22 |
+| [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) | 10 Weeks, 20 Lessons, Data Science for All! | Jupyter Notebook | 27311 | MIT License | 2021-03-03 | 2024-07-22 |
+| [IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners) | 12 Weeks, 24 Lessons, IoT for All! | C++ | 15020 | MIT License | 2021-03-03 | 2024-07-22 |
 | [arm-debug-deployment-cleanup](https://github.com/microsoft/arm-debug-deployment-cleanup) | Script to clean up ARM deployment logs | PowerShell | 3 | MIT License | 2021-03-03 | 2023-05-15 |
 | [huggingface-transformers](https://github.com/microsoft/huggingface-transformers) | 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0. | Python | 28 | Apache License 2.0 | 2021-03-03 | 2024-05-17 |
 | [AzureTRE](https://github.com/microsoft/AzureTRE) | An accelerator to help organizations build Trusted Research Environments on Azure. | Python | 170 | MIT License | 2021-03-04 | 2024-07-18 |
@@ -12331,14 +12331,14 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [azure-digital-twins-code-samples](https://github.com/microsoft/azure-digital-twins-code-samples) | Azure Digital Twins Code Samples | None | 5 | MIT License | 2021-03-11 | 2022-08-10 |
 | [powerplatform-cli-wrapper](https://github.com/microsoft/powerplatform-cli-wrapper) | Power Platform CLI Wrapper | TypeScript | 5 | MIT License | 2021-03-11 | 2024-07-15 |
 | [awesome-js-tools](https://github.com/microsoft/awesome-js-tools) | An awesome list for JS tools | None | 35 | MIT License | 2021-03-11 | 2024-04-05 |
-| [wslg](https://github.com/microsoft/wslg) | Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios | C++ | 9940 | MIT License | 2021-03-11 | 2024-07-21 |
+| [wslg](https://github.com/microsoft/wslg) | Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios | C++ | 9943 | MIT License | 2021-03-11 | 2024-07-22 |
 | [az-python](https://github.com/microsoft/az-python) | A collection of Python Packages for AI usecases | Python | 41 | MIT License | 2021-03-12 | 2024-04-26 |
 | [opensource-code-of-conduct](https://github.com/microsoft/opensource-code-of-conduct) | Proposed update to Microsoft's Open Source Code of Conduct | None | 1 | Creative Commons Attribution 4.0 International | 2021-03-13 | 2023-01-28 |
 | [NurseHackAPIs](https://github.com/microsoft/NurseHackAPIs) | None | C# | 2 | MIT License | 2021-03-13 | 2023-06-27 |
 | [powerbi-jupyter](https://github.com/microsoft/powerbi-jupyter) | A Custom Jupyter Widget Library for Power BI | Python | 455 | MIT License | 2021-03-15 | 2024-07-19 |
 | [WindowsAppConsult-TechDemos](https://github.com/microsoft/WindowsAppConsult-TechDemos) | Tech demos on Windows development technologies | C# | 1 | MIT License | 2021-03-15 | 2022-08-10 |
 | [ai-py-param-validation](https://github.com/microsoft/ai-py-param-validation) | Parameter Validation for Python method and function inputs. | Python | 3 | MIT License | 2021-03-15 | 2022-08-10 |
-| [fluentui-blazor](https://github.com/microsoft/fluentui-blazor) | Microsoft Fluent UI Blazor components library. For use with ASP.NET Core Blazor applications | C# | 3512 | MIT License | 2021-03-15 | 2024-07-21 |
+| [fluentui-blazor](https://github.com/microsoft/fluentui-blazor) | Microsoft Fluent UI Blazor components library. For use with ASP.NET Core Blazor applications | C# | 3514 | MIT License | 2021-03-15 | 2024-07-22 |
 | [OpticSim.jl](https://github.com/microsoft/OpticSim.jl) | Optical Simulation software | Julia | 352 | MIT License | 2021-03-15 | 2024-05-29 |
 | [rural-crowdsourcing-toolkit](https://github.com/microsoft/rural-crowdsourcing-toolkit) | This repository provides code for a crowdsourcing platform that is specifically designed to be inclusive of users from low-resource communities. | TypeScript | 15 | MIT License | 2021-03-16 | 2023-12-12 |
 | [GDK](https://github.com/microsoft/GDK) | Microsoft Public GDK | PowerShell | 1486 | Other | 2021-03-16 | 2024-07-16 |
@@ -12366,7 +12366,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [Microsoft-Game-Stack-Live](https://github.com/microsoft/Microsoft-Game-Stack-Live) | Microsoft Game Stack Live post-show materials | None | 23 | - | 2021-03-24 | 2024-06-14 |
 | [OpenXR-Unity-MixedReality-Samples](https://github.com/microsoft/OpenXR-Unity-MixedReality-Samples) | Sample Unity projects to demo how to use OpenXR plugin in Unity for HoloLens 2 and Mixed Reality headsets | ShaderLab | 238 | MIT License | 2021-03-24 | 2024-07-08 |
 | [monthlyresources](https://github.com/microsoft/monthlyresources) | Use this repository to explore the latest content and code samples. Each month we will release best of content resources that relate to a particular theme. - Microsoft Developer Editorial team  | None | 274 | MIT License | 2021-03-25 | 2024-07-03 |
-| [Swin-Transformer](https://github.com/microsoft/Swin-Transformer) | This is an official implementation for "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows". | Python | 13357 | MIT License | 2021-03-25 | 2024-07-21 |
+| [Swin-Transformer](https://github.com/microsoft/Swin-Transformer) | This is an official implementation for "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows". | Python | 13365 | MIT License | 2021-03-25 | 2024-07-22 |
 | [coe-alm-accelerator-templates](https://github.com/microsoft/coe-alm-accelerator-templates) | None | PowerShell | 92 | MIT License | 2021-03-25 | 2024-07-15 |
 | [MicrosoftEdge-Extensions](https://github.com/microsoft/MicrosoftEdge-Extensions) | This is a community space for Microsoft Edge Add-ons developers, to share resources and information about building, publishing and growing their Microsoft Edge extension. | JavaScript | 136 | MIT License | 2021-03-26 | 2024-07-15 |
 | [JsonToJsonMapper](https://github.com/microsoft/JsonToJsonMapper) | JsonToJsonMapper works on JSON format to exchange information between systems. It enables transformation of JSON data from one schema to another. | C# | 45 | MIT License | 2021-03-26 | 2024-07-16 |
@@ -12393,7 +12393,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [PARAKEET](https://github.com/microsoft/PARAKEET) | None | TypeScript | 11 | MIT License | 2021-04-06 | 2024-01-04 |
 | [OCCT](https://github.com/microsoft/OCCT) | Sample PowerShell module for Office client cutover after Office 365 tenant migration from Microsoft Cloud Deutschland (MCD) | PowerShell | 5 | MIT License | 2021-04-07 | 2023-07-03 |
 | [fusion-dev-ebook](https://github.com/microsoft/fusion-dev-ebook) | Sample Code for  eBook - Use Power Apps to bring your business and pro devs together to build apps fast | TSQL | 32 | MIT License | 2021-04-07 | 2024-03-22 |
-| [ebpf-for-windows](https://github.com/microsoft/ebpf-for-windows) | eBPF implementation that runs on top of Windows | C | 2666 | MIT License | 2021-04-08 | 2024-07-21 |
+| [ebpf-for-windows](https://github.com/microsoft/ebpf-for-windows) | eBPF implementation that runs on top of Windows | C | 2673 | MIT License | 2021-04-08 | 2024-07-22 |
 | [InnerEye-Inference](https://github.com/microsoft/InnerEye-Inference) | Enables inference and deployment of InnerEye-DeepLearning (https://github.com/microsoft/InnerEye-deeplearning) models as an async REST API on Azure | Python | 20 | MIT License | 2021-04-08 | 2024-04-23 |
 | [InnerEye-DICOM-RT](https://github.com/microsoft/InnerEye-DICOM-RT) | DICOM-RT to mask python package used by https://github.com/microsoft/InnerEye-deeplearning | C# | 8 | MIT License | 2021-04-08 | 2024-03-21 |
 | [vcpkg-ce-catalog](https://github.com/microsoft/vcpkg-ce-catalog) | Metadata file repository for vcpkg-ce | None | 12 | MIT License | 2021-04-08 | 2024-07-01 |
@@ -12423,7 +12423,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [SEED-Encoder](https://github.com/microsoft/SEED-Encoder) | None | Python | 42 | MIT License | 2021-04-17 | 2024-04-19 |
 | [GEM](https://github.com/microsoft/GEM) | None | JavaScript | 24 | MIT License | 2021-04-18 | 2023-04-04 |
 | [HaDes](https://github.com/microsoft/HaDes) | Token-level Reference-free Hallucination Detection | Python | 90 | MIT License | 2021-04-18 | 2024-07-15 |
-| [S2R-DepthNet](https://github.com/microsoft/S2R-DepthNet) | None | Python | 166 | MIT License | 2021-04-19 | 2024-06-26 |
+| [S2R-DepthNet](https://github.com/microsoft/S2R-DepthNet) | None | Python | 167 | MIT License | 2021-04-19 | 2024-07-22 |
 | [Windows-AppConsult-Samples-WindowsAppSdk](https://github.com/microsoft/Windows-AppConsult-Samples-WindowsAppSdk) | Project Reunion Samples https://aka.ms/ProjectReunion | C# | 3 | MIT License | 2021-04-19 | 2024-07-06 |
 | [MCW-Leveraging-Azure-Digital-Twins-in-a-supply-chain](https://github.com/microsoft/MCW-Leveraging-Azure-Digital-Twins-in-a-supply-chain) | Leveraging Azure Digital Twins in a supply chain | C# | 16 | MIT License | 2021-04-19 | 2024-07-07 |
 | [uefi-key-tests](https://github.com/microsoft/uefi-key-tests) | Microsoft manual tests to help partners verify the support for larger RSA key sizes and hashing functions in UEFI.  | PowerShell | 2 | MIT License | 2021-04-19 | 2023-09-23 |
@@ -12487,13 +12487,13 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [cognitive-services-sdk-react-native-example](https://github.com/microsoft/cognitive-services-sdk-react-native-example) | Example repo integrating the JavaScript Speech SDK with a react native that runs on Android and iOS | TypeScript | 18 | - | 2021-05-17 | 2024-07-19 |
 | [wifi-ztp](https://github.com/microsoft/wifi-ztp) | Wi-Fi Zero Touch Provisioning (ZTP) | C | 11 | MIT License | 2021-05-17 | 2024-02-08 |
 | [wifi-telemetry](https://github.com/microsoft/wifi-telemetry) | Linux Wi-Fi Telemetry library and daemon. | C++ | 9 | MIT License | 2021-05-17 | 2023-10-17 |
-| [table-transformer](https://github.com/microsoft/table-transformer) | Table Transformer (TATR) is a deep learning model for extracting tables from unstructured documents (PDFs and images). This is also the official repository for the PubTables-1M dataset and GriTS evaluation metric. | Python | 2062 | MIT License | 2021-05-17 | 2024-07-20 |
+| [table-transformer](https://github.com/microsoft/table-transformer) | Table Transformer (TATR) is a deep learning model for extracting tables from unstructured documents (PDFs and images). This is also the official repository for the PubTables-1M dataset and GriTS evaluation metric. | Python | 2064 | MIT License | 2021-05-17 | 2024-07-21 |
 | [AzureClusterlessHPC.jl](https://github.com/microsoft/AzureClusterlessHPC.jl) | A Julia package for clusterless distributed computing on Azure | Julia | 36 | MIT License | 2021-05-18 | 2024-04-08 |
 | [azure-devops-symbols](https://github.com/microsoft/azure-devops-symbols) | Collection of tools for javascript projects to support sourcemap storage using azure devops' symbol service | TypeScript | 9 | MIT License | 2021-05-19 | 2024-05-31 |
 | [rushstack-samples](https://github.com/microsoft/rushstack-samples) | Code samples for the Rush Stack family of tools. | TypeScript | 42 | MIT License | 2021-05-19 | 2024-07-01 |
 | [MicrosoftBuild2021_DigitalSwag](https://github.com/microsoft/MicrosoftBuild2021_DigitalSwag) | None | None | 64 | MIT License | 2021-05-19 | 2024-05-25 |
 | [web-insights-service-archive](https://github.com/microsoft/web-insights-service-archive) | Web Insights Service | TypeScript | 8 | MIT License | 2021-05-20 | 2023-01-27 |
-| [protein-sequence-models](https://github.com/microsoft/protein-sequence-models) | None | Python | 213 | Other | 2021-05-20 | 2024-07-05 |
+| [protein-sequence-models](https://github.com/microsoft/protein-sequence-models) | None | Python | 215 | Other | 2021-05-20 | 2024-07-22 |
 | [torchgeo](https://github.com/microsoft/torchgeo) | TorchGeo: datasets, samplers, transforms, and pre-trained models for geospatial data | Python | 2350 | MIT License | 2021-05-21 | 2024-07-20 |
 | [CompareDlpEtrReports](https://github.com/microsoft/CompareDlpEtrReports) | Module to compare the DLP and ETR solutions offered by Microsoft after migration | PowerShell | 4 | MIT License | 2021-05-21 | 2023-05-15 |
 | [vscode-livepreview](https://github.com/microsoft/vscode-livepreview) | Hosts a local server in your workspace for you to preview your webpages.  | TypeScript | 381 | MIT License | 2021-05-21 | 2024-07-19 |
@@ -12501,7 +12501,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [vOW4SIKE_on_HW](https://github.com/microsoft/vOW4SIKE_on_HW) | Implementation of the parallel collision search algorithm vOW using hardware/software co-design to assess the classical security of the Supersingular Isogeny Key Encapsulation (SIKE) protocol. | C | 8 | MIT License | 2021-05-25 | 2024-04-13 |
 | [mwx-teams-spo-nav](https://github.com/microsoft/mwx-teams-spo-nav) | Adds navigation back into SharePoint sites embedded in Microsoft Teams | TypeScript | 6 | MIT License | 2021-05-25 | 2023-10-04 |
 | [mwx](https://github.com/microsoft/mwx) | Modern Work Experiences (mwx) solutions | None | 1 | MIT License | 2021-05-25 | 2022-08-10 |
-| [CvT](https://github.com/microsoft/CvT) | This is an official implementation of CvT: Introducing Convolutions to Vision Transformers. | Python | 535 | MIT License | 2021-05-25 | 2024-07-19 |
+| [CvT](https://github.com/microsoft/CvT) | This is an official implementation of CvT: Introducing Convolutions to Vision Transformers. | Python | 536 | MIT License | 2021-05-25 | 2024-07-21 |
 | [hackingstem-anemometer-arduino](https://github.com/microsoft/hackingstem-anemometer-arduino) | None | C++ | 1 | MIT License | 2021-05-25 | 2023-03-27 |
 | [hackingstem-anemometer-microbit](https://github.com/microsoft/hackingstem-anemometer-microbit) | None | Python | 1 | MIT License | 2021-05-25 | 2022-08-10 |
 | [hackingstem-bbc-joystick-arduino](https://github.com/microsoft/hackingstem-bbc-joystick-arduino) | None | C++ | 1 | MIT License | 2021-05-25 | 2023-06-12 |
@@ -12553,7 +12553,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [TUTA_table_understanding](https://github.com/microsoft/TUTA_table_understanding) | TUTA and ForTaP for Structure-Aware and Numerical-Reasoning-Aware Table Pre-Training | Python | 94 | MIT License | 2021-06-01 | 2024-06-25 |
 | [Table2Charts](https://github.com/microsoft/Table2Charts) | Code and data of KDD'21 paper "Table2Charts: Recommending Charts by Learning Shared Table Representations" | Python | 27 | MIT License | 2021-06-02 | 2024-03-05 |
 | [eBPF-Event-Interceptor](https://github.com/microsoft/eBPF-Event-Interceptor) | Network Event Tracers for Linux using eBPF (BCC) | C++ | 4 | MIT License | 2021-06-02 | 2024-05-09 |
-| [muzic](https://github.com/microsoft/muzic) | Muzic: Music Understanding and Generation with Artificial Intelligence | Python | 4376 | MIT License | 2021-06-03 | 2024-07-21 |
+| [muzic](https://github.com/microsoft/muzic) | Muzic: Music Understanding and Generation with Artificial Intelligence | Python | 4376 | MIT License | 2021-06-03 | 2024-07-22 |
 | [bonsai-twin-builder](https://github.com/microsoft/bonsai-twin-builder) | Ansys Twin Builder connector for Microsoft Bonsai that works with a sample cabin pressure model. | Python | 6 | Other | 2021-06-03 | 2024-02-08 |
 | [MetaST](https://github.com/microsoft/MetaST) | None | Python | 25 | MIT License | 2021-06-03 | 2023-12-24 |
 | [TAP](https://github.com/microsoft/TAP) | TAP: Text-Aware Pre-training for Text-VQA and Text-Caption, CVPR 2021 (Oral) | Python | 70 | MIT License | 2021-06-03 | 2024-02-26 |
@@ -12587,7 +12587,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [hackingstem](https://github.com/microsoft/hackingstem) | None | None | 4 | MIT License | 2021-06-17 | 2023-02-21 |
 | [Broadcast-Development-Kit-Web-UI](https://github.com/microsoft/Broadcast-Development-Kit-Web-UI) | Sample UI for controlling the Teams Broadcast Extension | TypeScript | 14 | MIT License | 2021-06-17 | 2023-09-12 |
 | [Broadcast-Development-Kit-Meeting-App](https://github.com/microsoft/Broadcast-Development-Kit-Meeting-App) | Sample meeting app for controlling the Teams Broadcast Extension | TypeScript | 18 | MIT License | 2021-06-17 | 2024-06-06 |
-| [LoRA](https://github.com/microsoft/LoRA) | Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models" | Python | 9857 | MIT License | 2021-06-18 | 2024-07-21 |
+| [LoRA](https://github.com/microsoft/LoRA) | Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models" | Python | 9865 | MIT License | 2021-06-18 | 2024-07-22 |
 | [contributor-community-experiments](https://github.com/microsoft/contributor-community-experiments) | Tracking experiments and sharing best practices that we learn to build strong communities in our GitHub repos | None | 5 | MIT License | 2021-06-18 | 2022-08-10 |
 | [Vaccine-Management-in-the-Workplace](https://github.com/microsoft/Vaccine-Management-in-the-Workplace) | Microsoft Power Apps template for Vaccine Management in the Workplace (Japanese) | None | 4 | MIT License | 2021-06-18 | 2022-08-10 |
 | [Orchestrator](https://github.com/microsoft/Orchestrator) | Bot Framework Orchestrator staging and experimental work | None | 3 | MIT License | 2021-06-18 | 2022-08-10 |
@@ -12622,9 +12622,9 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [ogc-api-fast-features](https://github.com/microsoft/ogc-api-fast-features) | Fast API server implementation of the OGC API: Features specification | Python | 40 | MIT License | 2021-06-29 | 2024-06-21 |
 | [leprosy-skin-lesion-ai-analysis](https://github.com/microsoft/leprosy-skin-lesion-ai-analysis) | This project aims to predict the probability of leprosy using skin lesion images and clinical data (as compared to the diagnosis of dermatologists).  This model is provided for research and development use only. The model is not intended for use in clinical decision-making or for any other clinical use and the performance of model for clinical use has not been established. | Python | 3 | MIT License | 2021-06-29 | 2024-04-13 |
 | [msvc-code-analysis-action](https://github.com/microsoft/msvc-code-analysis-action) | Microsoft Visual C++ Code Analysis GitHub Action | JavaScript | 36 | MIT License | 2021-06-30 | 2024-07-03 |
-| [typespec](https://github.com/microsoft/typespec) | None | TypeScript | 3931 | MIT License | 2021-06-30 | 2024-07-21 |
+| [typespec](https://github.com/microsoft/typespec) | None | TypeScript | 3932 | MIT License | 2021-06-30 | 2024-07-22 |
 | [webpack-dataverse](https://github.com/microsoft/webpack-dataverse) | A development middleware to continuously upload bundled assets to a Dataverse environment. | TypeScript | 6 | MIT License | 2021-07-01 | 2023-10-26 |
-| [hi-ml](https://github.com/microsoft/hi-ml) | HI-ML toolbox for deep learning for medical imaging and Azure integration | Python | 247 | MIT License | 2021-07-01 | 2024-07-19 |
+| [hi-ml](https://github.com/microsoft/hi-ml) | HI-ML toolbox for deep learning for medical imaging and Azure integration | Python | 248 | MIT License | 2021-07-01 | 2024-07-21 |
 | [esvit](https://github.com/microsoft/esvit) | EsViT: Efficient self-supervised Vision Transformers | Python | 402 | MIT License | 2021-07-01 | 2024-07-18 |
 | [CSWin-Transformer](https://github.com/microsoft/CSWin-Transformer) | CSWin Transformer: A General Vision Transformer Backbone with Cross-Shaped, CVPR 2022 | Python | 532 | MIT License | 2021-07-02 | 2024-07-20 |
 | [vscode-smoketest-check](https://github.com/microsoft/vscode-smoketest-check) | A test extension used for smoke testing VS Code Extensions UI | TypeScript | 2 | MIT License | 2021-07-02 | 2022-08-10 |
@@ -12667,7 +12667,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [vscode-test-web](https://github.com/microsoft/vscode-test-web) | Node module to help testing VS Code web extensions. | TypeScript | 52 | MIT License | 2021-07-20 | 2024-07-03 |
 | [fit-on-fhir](https://github.com/microsoft/fit-on-fhir) | None | C# | 16 | MIT License | 2021-07-20 | 2024-05-12 |
 | [gctoolkit](https://github.com/microsoft/gctoolkit) | Tool for parsing GC logs | Java | 1238 | MIT License | 2021-07-20 | 2024-07-12 |
-| [python-package-template](https://github.com/microsoft/python-package-template) | Template for Python Projects | Python | 389 | MIT License | 2021-07-21 | 2024-07-20 |
+| [python-package-template](https://github.com/microsoft/python-package-template) | Template for Python Projects | Python | 390 | MIT License | 2021-07-21 | 2024-07-22 |
 | [Nova](https://github.com/microsoft/Nova) | Nova: High-speed recursive arguments from folding schemes | Rust | 682 | MIT License | 2021-07-22 | 2024-07-16 |
 | [vscode-platform-specific-sample](https://github.com/microsoft/vscode-platform-specific-sample) | VS Code platform specific extension sample | JavaScript | 10 | MIT License | 2021-07-23 | 2024-07-18 |
 | [VisualXpress](https://github.com/microsoft/VisualXpress) | VisualXpress extension for Visual Studio | C# | 10 | MIT License | 2021-07-23 | 2023-10-17 |
@@ -12684,9 +12684,9 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [jacdac-dotnet](https://github.com/microsoft/jacdac-dotnet) | Jacdac .NET library | C# | 13 | MIT License | 2021-07-29 | 2023-04-25 |
 | [azure-boards-estimate-backend](https://github.com/microsoft/azure-boards-estimate-backend) | None | C# | 2 | - | 2021-07-29 | 2023-08-19 |
 | [azure-boards-estimate](https://github.com/microsoft/azure-boards-estimate) | None | TypeScript | 33 | MIT License | 2021-07-29 | 2024-06-11 |
-| [msccl](https://github.com/microsoft/msccl) | Microsoft Collective Communication Library | C++ | 276 | Other | 2021-07-30 | 2024-07-19 |
-| [fluentui-emoji](https://github.com/microsoft/fluentui-emoji) | A collection of familiar, friendly, and modern emoji from Microsoft | Python | 8866 | MIT License | 2021-07-30 | 2024-07-20 |
-| [theme-converter-for-vs](https://github.com/microsoft/theme-converter-for-vs) | CLI tool that allows you to convert your VS Code color theme to a VS 2022 color theme. | C# | 484 | MIT License | 2021-07-30 | 2024-07-18 |
+| [msccl](https://github.com/microsoft/msccl) | Microsoft Collective Communication Library | C++ | 277 | Other | 2021-07-30 | 2024-07-22 |
+| [fluentui-emoji](https://github.com/microsoft/fluentui-emoji) | A collection of familiar, friendly, and modern emoji from Microsoft | Python | 8868 | MIT License | 2021-07-30 | 2024-07-22 |
+| [theme-converter-for-vs](https://github.com/microsoft/theme-converter-for-vs) | CLI tool that allows you to convert your VS Code color theme to a VS 2022 color theme. | C# | 483 | MIT License | 2021-07-30 | 2024-07-21 |
 | [MeshGraphormer](https://github.com/microsoft/MeshGraphormer) | Research code of ICCV 2021 paper "Mesh Graphormer" | Python | 383 | - | 2021-08-01 | 2024-07-19 |
 | [FhirBlaze](https://github.com/microsoft/FhirBlaze) | MicroUI Blazor app interfacing with FHIR data. | C# | 69 | MIT License | 2021-08-02 | 2024-07-05 |
 | [ts-fix](https://github.com/microsoft/ts-fix) | CLI for applying TypeScript codefixes | TypeScript | 81 | MIT License | 2021-08-02 | 2024-07-18 |
@@ -12760,7 +12760,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [bc2adls](https://github.com/microsoft/bc2adls) | Exporting data from Dynamics 365 Business Central to Azure data lake storage  | AL | 88 | MIT License | 2021-09-01 | 2024-07-17 |
 | [dstoolkit-ml-ops-for-databricks](https://github.com/microsoft/dstoolkit-ml-ops-for-databricks) | this is a python framework that helps to build any data engineering and data science solutions in Databricks | Python | 14 | MIT License | 2021-09-01 | 2024-03-09 |
 | [SP-Server-Workflow-Scanner](https://github.com/microsoft/SP-Server-Workflow-Scanner) | This workflow scanner mimics the SPO Modernization scanner functionality, in relation to the workflow scan reports. It can be run on SharePoint Server 2013 or 2016 to locate your existing classic workflows and provide information that will help you to prepare for a transformation to alternative solutions such as Power Automate. Developed by the Modern Work team from the Industry Solutions Delivery group at Microsoft. | C# | 5 | MIT License | 2021-09-01 | 2023-10-04 |
-| [WSA-Linux-Kernel](https://github.com/microsoft/WSA-Linux-Kernel) | None | C | 99 | Other | 2021-09-02 | 2024-06-16 |
+| [WSA-Linux-Kernel](https://github.com/microsoft/WSA-Linux-Kernel) | None | C | 100 | Other | 2021-09-02 | 2024-07-22 |
 | [arc-sql-mi-db-operator](https://github.com/microsoft/arc-sql-mi-db-operator) | Control Arc SQL MI databases using kubectl | Go | 2 | - | 2021-09-02 | 2022-08-10 |
 | [Cloud-PAW-Management](https://github.com/microsoft/Cloud-PAW-Management) | Simplify PAW and SPA for the masses, unify the MS Internal, and public PAW specs, and expedite deployment to ~5min or less. | TypeScript | 56 | MIT License | 2021-09-02 | 2024-05-23 |
 | [dstoolkit-anomaly-detection-ijungle](https://github.com/microsoft/dstoolkit-anomaly-detection-ijungle) | This is a repo to implement Anomaly Detection which is the technique of identifying rare events or observations which can raise suspicions by being statistically different from the rest of the observations. | Jupyter Notebook | 16 | MIT License | 2021-09-02 | 2023-09-25 |
@@ -12855,7 +12855,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [azure-iothub-exporter](https://github.com/microsoft/azure-iothub-exporter) | Prometheus exporter for Azure IoT Hub | Go | 4 | MIT License | 2021-10-12 | 2024-03-29 |
 | [aui-cli](https://github.com/microsoft/aui-cli) | Command line client for Audience Insights | Python | 7 | MIT License | 2021-10-13 | 2023-12-21 |
 | [arcade-forest-fire](https://github.com/microsoft/arcade-forest-fire) | An extension for MakeCode Arcade that simulates the spread of forest fires | TypeScript | 2 | MIT License | 2021-10-13 | 2023-03-07 |
-| [WSA](https://github.com/microsoft/WSA) | Developer-related issues and feature requests for Windows Subsystem for Android | None | 1473 | MIT License | 2021-10-13 | 2024-07-20 |
+| [WSA](https://github.com/microsoft/WSA) | Developer-related issues and feature requests for Windows Subsystem for Android | None | 1474 | MIT License | 2021-10-13 | 2024-07-22 |
 | [SuperPod](https://github.com/microsoft/SuperPod) | Sample Code and Helpful Snippets from the GTT SuperPod Community | None | 1 | MIT License | 2021-10-14 | 2022-08-10 |
 | [python-inference-script](https://github.com/microsoft/python-inference-script) | Python Inference Script(PyIS) | C++ | 16 | MIT License | 2021-10-14 | 2024-02-04 |
 | [AzureAutomaticGradingEngine_Assignments](https://github.com/microsoft/AzureAutomaticGradingEngine_Assignments) | Reference Assignments for the Azure Automatic Grading solution - This repo contains example assessment/references for the Azure Auto Grading Engine, these samples are provided to allow educators to quickly adopt and implement the Azure Automatic Grading Engine service/solution into their classroom teaching. | C# | 3 | MIT License | 2021-10-14 | 2022-08-10 |
@@ -12907,12 +12907,12 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [SmartKC-A-Smartphone-based-Corneal-Topographer](https://github.com/microsoft/SmartKC-A-Smartphone-based-Corneal-Topographer) | This is the official implementation for the SmartKC project. SmartKC is a smartphone based corneal topographer. | Java | 34 | Creative Commons Attribution 4.0 International | 2021-11-02 | 2024-06-29 |
 | [VisualStudioSwag](https://github.com/microsoft/VisualStudioSwag) | Digital swag for Microsoft Visual Studio. | None | 166 | MIT License | 2021-11-02 | 2024-07-03 |
 | [onnxruntime-nextjs-template](https://github.com/microsoft/onnxruntime-nextjs-template) | None | TypeScript | 88 | MIT License | 2021-11-02 | 2024-07-03 |
-| [mup](https://github.com/microsoft/mup) | maximal update parametrization (µP) | Jupyter Notebook | 1251 | MIT License | 2021-11-02 | 2024-07-21 |
-| [goodpoints](https://github.com/microsoft/goodpoints) | A Python package for generating concise, high-quality summaries of a probability distribution | Python | 40 | MIT License | 2021-11-03 | 2024-06-18 |
+| [mup](https://github.com/microsoft/mup) | maximal update parametrization (µP) | Jupyter Notebook | 1252 | MIT License | 2021-11-02 | 2024-07-21 |
+| [goodpoints](https://github.com/microsoft/goodpoints) | A Python package for generating concise, high-quality summaries of a probability distribution | Python | 39 | MIT License | 2021-11-03 | 2024-07-22 |
 | [NUWA](https://github.com/microsoft/NUWA) | A unified 3D Transformer Pipeline for visual synthesis | None | 2801 | - | 2021-11-03 | 2024-07-16 |
 | [MTC_PokerBot](https://github.com/microsoft/MTC_PokerBot) | The code to implement IoT Texas Hold 'Em from https://techcommunity.microsoft.com/t5/internet-of-things-blog/playing-poker-with-azure-iot/ba-p/3020447 | C# | 3 | MIT License | 2021-11-03 | 2022-10-01 |
 | [Cloud-for-Financial-Services---samples](https://github.com/microsoft/Cloud-for-Financial-Services---samples) | Sample codes, guides and starter kits for Microsoft Cloud for Financial Services' products. | TypeScript | 5 | MIT License | 2021-11-04 | 2024-07-16 |
-| [NeuralSpeech](https://github.com/microsoft/NeuralSpeech) | None | Python | 1342 | MIT License | 2021-11-04 | 2024-07-18 |
+| [NeuralSpeech](https://github.com/microsoft/NeuralSpeech) | None | Python | 1343 | MIT License | 2021-11-04 | 2024-07-22 |
 | [alguidelines](https://github.com/microsoft/alguidelines) | Best Practices and Design Patterns for the AL Language | SCSS | 128 | MIT License | 2021-11-04 | 2024-07-09 |
 | [SuperSolver](https://github.com/microsoft/SuperSolver) | None | Sage | 9 | Other | 2021-11-04 | 2024-06-27 |
 | [Okapi](https://github.com/microsoft/Okapi) | A large-scale human labeled dataset for compositional generalization in natural language interfaces to Web APIs | None | 2 | Other | 2021-11-05 | 2022-08-10 |
@@ -12920,7 +12920,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [OHDSIonAzure](https://github.com/microsoft/OHDSIonAzure) | Automation code and documentation for deploying OHDSI CDM in Azure | Bicep | 33 | - | 2021-11-08 | 2024-04-12 |
 | [omnichannel-chat-sdk-samples](https://github.com/microsoft/omnichannel-chat-sdk-samples) | Omnichannel Chat SDK Samples | TypeScript | 4 | MIT License | 2021-11-08 | 2024-02-25 |
 | [oZKS](https://github.com/microsoft/oZKS) | oZKS (Ordered Zero-Knowledge Set) is a library that provides an implementation of an Ordered (and Append Only) Zero-Knowledge Set. | C++ | 18 | MIT License | 2021-11-09 | 2024-07-15 |
-| [NPKit](https://github.com/microsoft/NPKit) | NCCL Profiling Kit | Python | 91 | MIT License | 2021-11-10 | 2024-07-19 |
+| [NPKit](https://github.com/microsoft/NPKit) | NCCL Profiling Kit | Python | 92 | MIT License | 2021-11-10 | 2024-07-21 |
 | [surface-duo-compose-sdk](https://github.com/microsoft/surface-duo-compose-sdk) | This repo contains components built with Jetpack Compose for the Microsoft Surface Duo. | Kotlin | 75 | MIT License | 2021-11-10 | 2024-06-27 |
 | [dotnet-podcasts](https://github.com/microsoft/dotnet-podcasts) | .NET reference application shown at .NET Conf featuring ASP.NET Core, Blazor, .NET MAUI, Microservices, Orleans, Playwright, and more! | C# | 2732 | MIT License | 2021-11-10 | 2024-07-20 |
 | [mwcci-converge](https://github.com/microsoft/mwcci-converge) | Converge is a Line Of Business application on Teams that enables your organization to work effectively in a hybrid environment. | TypeScript | 6 | MIT License | 2021-11-10 | 2023-05-30 |
@@ -12947,13 +12947,13 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [GPS-Well-Architected-Partner-Training](https://github.com/microsoft/GPS-Well-Architected-Partner-Training) | This repository contains the materials for the Well-Architected Framework Training for partners and ISVs | HTML | 25 | MIT License | 2021-11-18 | 2024-07-10 |
 | [indexnow-wordpress-plugin](https://github.com/microsoft/indexnow-wordpress-plugin) | A small plugin to allow Url submissions to IndexNow | JavaScript | 32 | GNU General Public License v2.0 | 2021-11-21 | 2024-07-03 |
 | [azure-load-testing](https://github.com/microsoft/azure-load-testing) | None | None | 22 | MIT License | 2021-11-22 | 2024-05-10 |
-| [DurableFunctionsMonitor](https://github.com/microsoft/DurableFunctionsMonitor) | A monitoring/debugging UI tool for Azure Durable Functions | TypeScript | 211 | MIT License | 2021-11-22 | 2024-07-15 |
+| [DurableFunctionsMonitor](https://github.com/microsoft/DurableFunctionsMonitor) | A monitoring/debugging UI tool for Azure Durable Functions | TypeScript | 212 | MIT License | 2021-11-22 | 2024-07-22 |
 | [azure-pipelines-terraform](https://github.com/microsoft/azure-pipelines-terraform) | Azure Pipelines tasks for installing Terraform and running Terraform commands in a build or release pipeline. | TypeScript | 97 | MIT License | 2021-11-22 | 2024-07-15 |
-| [datashaper](https://github.com/microsoft/datashaper) | Processing engine and React components for constructing configuration-based data transformation and processing pipelines. | TypeScript | 106 | MIT License | 2021-11-22 | 2024-07-20 |
+| [datashaper](https://github.com/microsoft/datashaper) | Processing engine and React components for constructing configuration-based data transformation and processing pipelines. | TypeScript | 110 | MIT License | 2021-11-22 | 2024-07-22 |
 | [omnichannel-voice-video-calling-react-native](https://github.com/microsoft/omnichannel-voice-video-calling-react-native) | Omnichannel Voice & Video Calling React Native | Swift | 3 | MIT License | 2021-11-23 | 2024-03-18 |
 | [ShipDetection](https://github.com/microsoft/ShipDetection) | None | Jupyter Notebook | 17 | MIT License | 2021-11-23 | 2024-07-09 |
 | [onnxruntime-csharp-cv-template](https://github.com/microsoft/onnxruntime-csharp-cv-template) | None | C# | 20 | MIT License | 2021-11-23 | 2024-07-15 |
-| [GLIP](https://github.com/microsoft/GLIP) | Grounded Language-Image Pre-training | Python | 2084 | MIT License | 2021-11-24 | 2024-07-19 |
+| [GLIP](https://github.com/microsoft/GLIP) | Grounded Language-Image Pre-training | Python | 2086 | MIT License | 2021-11-24 | 2024-07-21 |
 | [jbang-catalog](https://github.com/microsoft/jbang-catalog) | Catalogue for JBang Artifacts | None | 7 | MIT License | 2021-11-24 | 2022-08-10 |
 | [MicroHack](https://github.com/microsoft/MicroHack) | This repository is the central repository for all MicroHacks from customers, partners or Microsoft.  | Jupyter Notebook | 94 | MIT License | 2021-11-25 | 2024-07-17 |
 | [grpc_bench](https://github.com/microsoft/grpc_bench) | Various gRPC benchmarks | Shell | 13 | MIT License | 2021-11-25 | 2023-01-17 |
@@ -12989,11 +12989,11 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [fl-simulation](https://github.com/microsoft/fl-simulation) | A flexible framework for running experiments with PyTorch models in a simulated Federated Learning (FL) environment. | Python | 12 | MIT License | 2021-12-13 | 2024-01-10 |
 | [kiota-typescript](https://github.com/microsoft/kiota-typescript) | TypeScript libraries for Kiota-generated API clients. | TypeScript | 32 | MIT License | 2021-12-13 | 2024-07-18 |
 | [TypeScript-VSCode-Extensions](https://github.com/microsoft/TypeScript-VSCode-Extensions) | A monorepo of VS Code extensions from the TypeScript Team | TypeScript | 3 | MIT License | 2021-12-14 | 2024-05-15 |
-| [griffel](https://github.com/microsoft/griffel) | CSS-in-JS with ahead-of-time compilation ⚡️ | TypeScript | 1152 | MIT License | 2021-12-14 | 2024-07-19 |
+| [griffel](https://github.com/microsoft/griffel) | CSS-in-JS with ahead-of-time compilation ⚡️ | TypeScript | 1157 | MIT License | 2021-12-14 | 2024-07-22 |
 | [hospital-powerapps](https://github.com/microsoft/hospital-powerapps) | None | None | 2 | MIT License | 2021-12-14 | 2023-01-19 |
 | [unitedQA](https://github.com/microsoft/unitedQA) |  implementation of UnitedQA: A Hybrid Approach for Open Domain Question Answering | None | 3 | MIT License | 2021-12-15 | 2023-03-06 |
 | [PLC-Challenge](https://github.com/microsoft/PLC-Challenge) | This repo contains required files for the INTERSPEECH 2022 Audio Deep Packet Loss Concealment (PLC) Challenge. | Python | 70 | MIT License | 2021-12-17 | 2024-07-10 |
-| [responsible-ai-toolbox-genbit](https://github.com/microsoft/responsible-ai-toolbox-genbit) | A tool for gender bias identification in text. Part of Microsoft's Responsible AI toolbox.  | Python | 29 | Other | 2021-12-20 | 2024-07-09 |
+| [responsible-ai-toolbox-genbit](https://github.com/microsoft/responsible-ai-toolbox-genbit) | A tool for gender bias identification in text. Part of Microsoft's Responsible AI toolbox.  | Python | 30 | Other | 2021-12-20 | 2024-07-21 |
 | [Carbon-Insight](https://github.com/microsoft/Carbon-Insight) | A platform to display the carbon neutralization information for researchers, decision-makers, and other participants in the community.  | Jupyter Notebook | 17 | MIT License | 2021-12-22 | 2024-07-08 |
 | [Playvirtual](https://github.com/microsoft/Playvirtual) | None | Python | 13 | MIT License | 2021-12-24 | 2024-06-21 |
 | [jupyrest](https://github.com/microsoft/jupyrest) | A tool to expose Jupyter notebooks behind a REST API. | Python | 34 | MIT License | 2021-12-24 | 2024-06-21 |
@@ -13073,7 +13073,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [nextflow-runner](https://github.com/microsoft/nextflow-runner) | None | C# | 15 | MIT License | 2022-02-07 | 2024-06-11 |
 | [adaptive-testing](https://github.com/microsoft/adaptive-testing) | Find and fix bugs in natural language machine learning models using adaptive testing. | Jupyter Notebook | 178 | MIT License | 2022-02-07 | 2024-06-20 |
 | [REINA](https://github.com/microsoft/REINA) | None | Python | 116 | MIT License | 2022-02-08 | 2024-03-01 |
-| [SpeechT5](https://github.com/microsoft/SpeechT5) | Unified-Modal Speech-Text Pre-Training for Spoken Language Processing | Python | 1103 | MIT License | 2022-02-08 | 2024-07-17 |
+| [SpeechT5](https://github.com/microsoft/SpeechT5) | Unified-Modal Speech-Text Pre-Training for Spoken Language Processing | Python | 1104 | MIT License | 2022-02-08 | 2024-07-22 |
 | [storage-as-a-service](https://github.com/microsoft/storage-as-a-service) | None | JavaScript | 12 | MIT License | 2022-02-08 | 2023-10-06 |
 | [minecraft-samples](https://github.com/microsoft/minecraft-samples) | Contains custom add-on samples for Minecraft Bedrock Edition. | TypeScript | 216 | MIT License | 2022-02-09 | 2024-07-18 |
 | [edu-assignments-graph-sdk](https://github.com/microsoft/edu-assignments-graph-sdk) | None | None | 4 | MIT License | 2022-02-09 | 2024-05-10 |
@@ -13103,7 +13103,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [arcade-tile-util](https://github.com/microsoft/arcade-tile-util) | A MakeCode Arcade extension with useful blocks for working with tilemaps | TypeScript | 1 | MIT License | 2022-02-16 | 2024-04-22 |
 | [COMPASS](https://github.com/microsoft/COMPASS) | COntrastive Multimodal Pretraining for AutonomouS Systems | Python | 51 | MIT License | 2022-02-17 | 2024-05-06 |
 | [Health-AI-Blueprints-TA4HVisualizer](https://github.com/microsoft/Health-AI-Blueprints-TA4HVisualizer) | None | TypeScript | 5 | MIT License | 2022-02-17 | 2023-07-25 |
-| [molecule-generation](https://github.com/microsoft/molecule-generation) | Implementation of MoLeR: a generative model of molecular graphs which supports scaffold-constrained generation | Python | 249 | MIT License | 2022-02-17 | 2024-07-16 |
+| [molecule-generation](https://github.com/microsoft/molecule-generation) | Implementation of MoLeR: a generative model of molecular graphs which supports scaffold-constrained generation | Python | 250 | MIT License | 2022-02-17 | 2024-07-22 |
 | [arcade-tutorial-extensions](https://github.com/microsoft/arcade-tutorial-extensions) | A collection of extensions used in MakeCode Arcade tutorials and skillmaps | JavaScript | 3 | MIT License | 2022-02-18 | 2024-06-19 |
 | [azure-health-data-services-workshop](https://github.com/microsoft/azure-health-data-services-workshop) | Repository for instructor led and self-paced Azure Health Data Services workshops | Bicep | 52 | MIT License | 2022-02-18 | 2024-06-05 |
 | [lightkurve-demos](https://github.com/microsoft/lightkurve-demos) | Demonstrations and tutorials that cover the basics of using LightKurve | None | 4 | MIT License | 2022-02-18 | 2024-01-29 |
@@ -13112,7 +13112,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [Functional-Validation-Testing-Spark-SQL](https://github.com/microsoft/Functional-Validation-Testing-Spark-SQL) | Business Validation Testing in Spark SQL | Scala | 3 | MIT License | 2022-02-21 | 2023-12-03 |
 | [TOXIGEN](https://github.com/microsoft/TOXIGEN) | This repo contains the code for generating the ToxiGen dataset, published at ACL 2022. | Jupyter Notebook | 264 | Other | 2022-02-21 | 2024-07-01 |
 | [azure-schema-operator](https://github.com/microsoft/azure-schema-operator) | A kubernetes operator to manage Schemas for Databases on Azure | Go | 8 | MIT License | 2022-02-22 | 2024-01-14 |
-| [deoptexplorer-vscode](https://github.com/microsoft/deoptexplorer-vscode) | A VS Code extension to visualize deoptimizations in your JavaScript and TypeScript code running in V8 (i.e., NodeJS, Edge, Chrome, etc.). | TypeScript | 728 | MIT License | 2022-02-22 | 2024-07-19 |
+| [deoptexplorer-vscode](https://github.com/microsoft/deoptexplorer-vscode) | A VS Code extension to visualize deoptimizations in your JavaScript and TypeScript code running in V8 (i.e., NodeJS, Edge, Chrome, etc.). | TypeScript | 730 | MIT License | 2022-02-22 | 2024-07-22 |
 | [APSINet](https://github.com/microsoft/APSINet) | .Net wrappers for APSI | C# | 3 | MIT License | 2022-02-22 | 2023-01-27 |
 | [vscode-embedded-tools](https://github.com/microsoft/vscode-embedded-tools) | Official issue tracking repository for Microsoft's Embedded Tools VS Code extension. | None | 42 | MIT License | 2022-02-23 | 2024-07-06 |
 | [quantum-curriculum-preview](https://github.com/microsoft/quantum-curriculum-preview) | A preview set of materials from the Microsoft-developed quantum computing curriculum | Q# | 56 | MIT License | 2022-02-23 | 2024-07-16 |
@@ -13160,11 +13160,11 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [qiskit-qir](https://github.com/microsoft/qiskit-qir) | Qiskit to QIR translator | Python | 17 | MIT License | 2022-03-10 | 2024-06-28 |
 | [AMOS](https://github.com/microsoft/AMOS) | [ICLR 2022] Pretraining Text Encoders with Adversarial Mixture of Training Signal Generators | Python | 24 | MIT License | 2022-03-11 | 2024-05-27 |
 | [go-crypto-winnative](https://github.com/microsoft/go-crypto-winnative) | Go crypto backend for Windows using CNG | Go | 27 | MIT License | 2022-03-11 | 2024-01-06 |
-| [FocalNet](https://github.com/microsoft/FocalNet) | [NeurIPS 2022] Official code for "Focal Modulation Networks" | Python | 673 | MIT License | 2022-03-12 | 2024-07-20 |
+| [FocalNet](https://github.com/microsoft/FocalNet) | [NeurIPS 2022] Official code for "Focal Modulation Networks" | Python | 674 | MIT License | 2022-03-12 | 2024-07-21 |
 | [responsible-ai-workshop](https://github.com/microsoft/responsible-ai-workshop) | Responsible AI Workshop: a series of tutorials & walkthroughs to illustrate how put responsible AI into practice | Jupyter Notebook | 26 | Creative Commons Attribution 4.0 International | 2022-03-12 | 2024-07-17 |
 | [Windows365-PSScripts](https://github.com/microsoft/Windows365-PSScripts) | This repo holds Windows 365 related scripts for web RTC and other scripts to help the IT Pros with workflows. | PowerShell | 70 | MIT License | 2022-03-13 | 2024-05-29 |
-| [Federal-App-Innovation-Community](https://github.com/microsoft/Federal-App-Innovation-Community) | This repo contains samples, demos, and patterns to enable Cloud-Native solutions on Azure Cloud & Azure Government  | C# | 30 | MIT License | 2022-03-13 | 2024-07-03 |
-| [devicescript](https://github.com/microsoft/devicescript) | TypeScript for Tiny IoT Devices (ESP32, RP2040, ...) | TypeScript | 3250 | MIT License | 2022-03-14 | 2024-07-20 |
+| [Federal-App-Innovation-Community](https://github.com/microsoft/Federal-App-Innovation-Community) | This repo contains samples, demos, and patterns to enable Cloud-Native solutions on Azure Cloud & Azure Government  | C# | 31 | MIT License | 2022-03-13 | 2024-07-22 |
+| [devicescript](https://github.com/microsoft/devicescript) | TypeScript for Tiny IoT Devices (ESP32, RP2040, ...) | TypeScript | 3249 | MIT License | 2022-03-14 | 2024-07-22 |
 | [Develop-Custom-Object-Detection-Models-with-NVIDIA-and-Azure-ML-Studio](https://github.com/microsoft/Develop-Custom-Object-Detection-Models-with-NVIDIA-and-Azure-ML-Studio) | Learn how to develop custom object detection models with NVIDIA and Azure Machine Learning Studio | None | 2 | MIT License | 2022-03-14 | 2022-09-17 |
 | [synapse-analyzer](https://github.com/microsoft/synapse-analyzer) | None | TSQL | 43 | MIT License | 2022-03-14 | 2023-07-11 |
 | [vscode-jupyter-ipywidgets](https://github.com/microsoft/vscode-jupyter-ipywidgets) | NPM module for supporting ipywidgets in vscode-jupyter extension | JavaScript | 4 | MIT License | 2022-03-14 | 2024-06-27 |
@@ -13181,7 +13181,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [kiota-serialization-text-dotnet](https://github.com/microsoft/kiota-serialization-text-dotnet) | Text/plain serialization provider implementation for Kiota based SDKs | C# | 5 | MIT License | 2022-03-18 | 2024-07-09 |
 | [carbon-aware-sdk](https://github.com/microsoft/carbon-aware-sdk) | Carbon-Aware Core SDK | C# | 14 | MIT License | 2022-03-18 | 2024-02-24 |
 | [azure-devops-tls12](https://github.com/microsoft/azure-devops-tls12) | Azure DevOps TLS 1.2 transition readiness checker | PowerShell | 63 | MIT License | 2022-03-18 | 2024-05-03 |
-| [RegionCLIP](https://github.com/microsoft/RegionCLIP) | [CVPR 2022] Official code for "RegionCLIP: Region-based Language-Image Pretraining" | Python | 676 | Apache License 2.0 | 2022-03-18 | 2024-07-17 |
+| [RegionCLIP](https://github.com/microsoft/RegionCLIP) | [CVPR 2022] Official code for "RegionCLIP: Region-based Language-Image Pretraining" | Python | 677 | Apache License 2.0 | 2022-03-18 | 2024-07-21 |
 | [blue-whale-acoustics](https://github.com/microsoft/blue-whale-acoustics) | The goal of this project is to use audio recordings and correpsonding annotations to build an automatic classifier for calls from 4 different species of blue whales, and to estimate the total number of calls from each population in the audio recordings. | Jupyter Notebook | 4 | MIT License | 2022-03-18 | 2022-08-25 |
 | [typescript-server-harness](https://github.com/microsoft/typescript-server-harness) | Tools for exercising a TypeScript tsserver process | TypeScript | 9 | MIT License | 2022-03-18 | 2024-06-22 |
 | [Azure-Invoice-Process-Automation-Solution-Accelerator](https://github.com/microsoft/Azure-Invoice-Process-Automation-Solution-Accelerator) | None | None | 25 | MIT License | 2022-03-18 | 2024-06-19 |
@@ -13191,14 +13191,14 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [OpenHack.fr-FR](https://github.com/microsoft/OpenHack.fr-FR) | None | None | 1 | - | 2022-03-22 | 2022-08-10 |
 | [OpenHack.ja-JP](https://github.com/microsoft/OpenHack.ja-JP) | None | None | 1 | - | 2022-03-22 | 2022-08-10 |
 | [digitalworkplace-workflows](https://github.com/microsoft/digitalworkplace-workflows) | None | PowerShell | 7 | MIT License | 2022-03-23 | 2023-04-01 |
-| [DeepSpeed-MII](https://github.com/microsoft/DeepSpeed-MII) | MII makes low-latency and high-throughput inference possible, powered by DeepSpeed. | Python | 1770 | Apache License 2.0 | 2022-03-23 | 2024-07-21 |
+| [DeepSpeed-MII](https://github.com/microsoft/DeepSpeed-MII) | MII makes low-latency and high-throughput inference possible, powered by DeepSpeed. | Python | 1771 | Apache License 2.0 | 2022-03-23 | 2024-07-22 |
 | [monosize](https://github.com/microsoft/monosize) | Bundle size tooling for monorepos | TypeScript | 25 | MIT License | 2022-03-24 | 2024-07-21 |
 | [Dynamics365-Sensor-Data-Intelligence-ARMDeployments](https://github.com/microsoft/Dynamics365-Sensor-Data-Intelligence-ARMDeployments) | Sample Sensor Data Intelligence Azure resources template for Dynamics 365 Supply Chain Management. | Bicep | 4 | MIT License | 2022-03-24 | 2024-05-06 |
 | [mu_feature_ipmi](https://github.com/microsoft/mu_feature_ipmi) | Project Mu - Feature Repo- Firmware support for IPMI | C | 13 | Other | 2022-03-24 | 2024-07-19 |
 | [dstoolkit-hierarchical-multilabel-classification](https://github.com/microsoft/dstoolkit-hierarchical-multilabel-classification) | None | Python | 16 | MIT License | 2022-03-25 | 2024-07-02 |
 | [NimbleQR](https://github.com/microsoft/NimbleQR) | An easy-to-use QR solution for Unity C# projects | None | 1 | MIT License | 2022-03-25 | 2022-08-10 |
 | [Azure-Social-Media-Analytics-Solution-Accelerator](https://github.com/microsoft/Azure-Social-Media-Analytics-Solution-Accelerator) | None | Jupyter Notebook | 25 | MIT License | 2022-03-28 | 2024-06-19 |
-| [DualOctreeGNN](https://github.com/microsoft/DualOctreeGNN) | Dual Octree Graph Networks for Learning Adaptive Volumetric Shape Representations | Python | 112 | MIT License | 2022-03-29 | 2024-07-19 |
+| [DualOctreeGNN](https://github.com/microsoft/DualOctreeGNN) | Dual Octree Graph Networks for Learning Adaptive Volumetric Shape Representations | Python | 114 | MIT License | 2022-03-29 | 2024-07-22 |
 | [DeadLetterMonitor](https://github.com/microsoft/DeadLetterMonitor) | DeadLetterMonitor is a tool that automatically deals, according to custom rules, with some errors that can occur in Pub/Sub Architectures. | C# | 8 | MIT License | 2022-03-29 | 2024-06-03 |
 | [turnstile](https://github.com/microsoft/turnstile) | Your SaaS app's friendly automated usher | C# | 54 | MIT License | 2022-03-29 | 2024-03-01 |
 | [admin-torch](https://github.com/microsoft/admin-torch) | Understanding the Difficulty of Training Transformers | Python | 45 | MIT License | 2022-03-30 | 2024-02-29 |
@@ -13216,7 +13216,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [kiota-authentication-azure-go](https://github.com/microsoft/kiota-authentication-azure-go) | Kiota authentication provider implementation with Azure Identity | Go | 5 | MIT License | 2022-03-31 | 2024-07-05 |
 | [kiota-http-go](https://github.com/microsoft/kiota-http-go) | Kiota http provider implementation for Go with net http | Go | 15 | MIT License | 2022-03-31 | 2024-07-16 |
 | [NurseEmpowerment](https://github.com/microsoft/NurseEmpowerment) | None | C# | 23 | MIT License | 2022-04-01 | 2024-03-07 |
-| [quicreach](https://github.com/microsoft/quicreach) | A 'ping' equivalent tool for QUIC. | C++ | 92 | MIT License | 2022-04-03 | 2024-07-13 |
+| [quicreach](https://github.com/microsoft/quicreach) | A 'ping' equivalent tool for QUIC. | C++ | 92 | MIT License | 2022-04-03 | 2024-07-21 |
 | [compositional-generalization-span-level-attention](https://github.com/microsoft/compositional-generalization-span-level-attention) | code for the NAACL 2021 paper Compositional Generalization for Neural Semantic Parsing via Span-level Supervised Attention by Microsoft Semantic Machines. | Python | 10 | MIT License | 2022-04-04 | 2024-05-24 |
 | [SecSol-JP](https://github.com/microsoft/SecSol-JP) | Microsoft のセキュリティソリューションに対する技術的なコンテンツ開発活動のドキュメントです。 | None | 3 | MIT License | 2022-04-05 | 2024-01-06 |
 | [MTC_IPaaSWorkshop](https://github.com/microsoft/MTC_IPaaSWorkshop) | None | C# | 5 | MIT License | 2022-04-05 | 2024-07-17 |
@@ -13234,7 +13234,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [azure-search-query-classification](https://github.com/microsoft/azure-search-query-classification) | None | Python | 8 | MIT License | 2022-04-13 | 2024-07-16 |
 | [patient-discharge-planning](https://github.com/microsoft/patient-discharge-planning) | Sample solution for discharge planning, designed to work as part of Microsoft Cloud for Healthcare | None | 3 | MIT License | 2022-04-13 | 2024-06-29 |
 | [store-submission](https://github.com/microsoft/store-submission) | None | JavaScript | 43 | MIT License | 2022-04-13 | 2024-07-18 |
-| [Microsoft-3D-Movie-Maker](https://github.com/microsoft/Microsoft-3D-Movie-Maker) | This is the source code for the original Microsoft 3D Movie Maker released in 1995. This is not supported software. | SWIG | 3656 | MIT License | 2022-04-14 | 2024-07-21 |
+| [Microsoft-3D-Movie-Maker](https://github.com/microsoft/Microsoft-3D-Movie-Maker) | This is the source code for the original Microsoft 3D Movie Maker released in 1995. This is not supported software. | SWIG | 3657 | MIT License | 2022-04-14 | 2024-07-21 |
 | [mu_feature_config](https://github.com/microsoft/mu_feature_config) | Project Mu - Feature Repo - UEFI User Config and Management Support | Python | 17 | Other | 2022-04-14 | 2024-07-19 |
 | [SPID-and-Digital-Identity-Enabler](https://github.com/microsoft/SPID-and-Digital-Identity-Enabler) | This repo contains the SPIDProxy code and several ADFS/Azure B2C related scripts and assets. SPIDProxy allows to communicate with SPID, CIE and eIDAS. The repo also contains a web app enabling CNS authentication through ADFS and AAD B2C. | C# | 27 | MIT License | 2022-04-15 | 2024-07-16 |
 | [deepspeed-gpt-neox](https://github.com/microsoft/deepspeed-gpt-neox) | An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library. | Python | 18 | Apache License 2.0 | 2022-04-15 | 2023-12-26 |
@@ -13269,7 +13269,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [mu_feature_mm_supv](https://github.com/microsoft/mu_feature_mm_supv) | Project Mu - Feature Repo - MM Supervisor | C | 45 | Other | 2022-05-02 | 2024-07-19 |
 | [WALNUT](https://github.com/microsoft/WALNUT) | A Benchmark on Semi-weakly Supervised Learning for Natural Language Understanding | Python | 4 | MIT License | 2022-05-04 | 2022-08-31 |
 | [PersonalizedFL](https://github.com/microsoft/PersonalizedFL) | Personalized federated learning codebase for research | Python | 332 | MIT License | 2022-05-05 | 2024-07-20 |
-| [Semi-supervised-learning](https://github.com/microsoft/Semi-supervised-learning) | A Unified Semi-Supervised Learning Codebase (NeurIPS'22) | Python | 1273 | MIT License | 2022-05-05 | 2024-07-20 |
+| [Semi-supervised-learning](https://github.com/microsoft/Semi-supervised-learning) | A Unified Semi-Supervised Learning Codebase (NeurIPS'22) | Python | 1272 | MIT License | 2022-05-05 | 2024-07-21 |
 | [AzureStackHCI-Network-Switch-Validation](https://github.com/microsoft/AzureStackHCI-Network-Switch-Validation) | Validates network switch according to the MSFT definitions and Switch Requirements for AzureStack | Go | 4 | MIT License | 2022-05-05 | 2024-05-31 |
 | [dstoolkit-retail-analytics](https://github.com/microsoft/dstoolkit-retail-analytics) | None | Jupyter Notebook | 3 | MIT License | 2022-05-05 | 2023-04-18 |
 | [powercat-automation-kit](https://github.com/microsoft/powercat-automation-kit) | None | C# | 69 | Other | 2022-05-05 | 2024-07-15 |
@@ -13290,7 +13290,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [vscode-serial-monitor](https://github.com/microsoft/vscode-serial-monitor) | Serial Monitor that allows for reading and writing to serial ports. Official issue tracking repository for Microsoft's Serial Monitor VS Code extension. | TypeScript | 56 | MIT License | 2022-05-13 | 2024-07-16 |
 | [Data-Sharing-Accelerator](https://github.com/microsoft/Data-Sharing-Accelerator) | This is a private staging repository for code related to the 2022 FEMA sponsored Cascadia Rising Exercise. | TypeScript | 12 | MIT License | 2022-05-13 | 2024-05-07 |
 | [calipers](https://github.com/microsoft/calipers) | Criticality-aware Framework for Modeling Computer Performance | C++ | 24 | MIT License | 2022-05-13 | 2024-07-18 |
-| [vscode-wasm](https://github.com/microsoft/vscode-wasm) | A WASI implementation that uses VS Code's extension host as the implementing API | TypeScript | 354 | MIT License | 2022-05-14 | 2024-07-09 |
+| [vscode-wasm](https://github.com/microsoft/vscode-wasm) | A WASI implementation that uses VS Code's extension host as the implementing API | TypeScript | 355 | MIT License | 2022-05-14 | 2024-07-21 |
 | [mixedreality.dmx.core](https://github.com/microsoft/mixedreality.dmx.core) | Devices Management Experiences Core Orchestration API | C# | 22 | MIT License | 2022-05-16 | 2023-04-01 |
 | [mixedreality.dmx.gatekeeper](https://github.com/microsoft/mixedreality.dmx.gatekeeper) | Devices Management Experiences Gatekeeper API | C# | 18 | MIT License | 2022-05-16 | 2023-01-04 |
 | [mixedreality.dmx.portal](https://github.com/microsoft/mixedreality.dmx.portal) | Devices Management Experiences Portal | C# | 25 | MIT License | 2022-05-16 | 2023-04-28 |
@@ -13318,22 +13318,22 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [FabricPing](https://github.com/microsoft/FabricPing) | network tools for service fabric | Go | 2 | MIT License | 2022-05-23 | 2023-10-17 |
 | [azurestackhubdocsfeeder](https://github.com/microsoft/azurestackhubdocsfeeder) | Resources to build static web site for public endpoints for Azure Stack Hub content. | HTML | 4 | MIT License | 2022-05-23 | 2023-01-30 |
 | [VisualStudioMIEnginePictureViewer](https://github.com/microsoft/VisualStudioMIEnginePictureViewer) | Sample code for Visual Studio Linux debugger native UI visualization. | C# | 4 | MIT License | 2022-05-24 | 2022-09-25 |
-| [MIDI](https://github.com/microsoft/MIDI) | Windows MIDI Services | C++ | 289 | MIT License | 2022-05-24 | 2024-07-14 |
+| [MIDI](https://github.com/microsoft/MIDI) | Windows MIDI Services | C++ | 289 | MIT License | 2022-05-24 | 2024-07-21 |
 | [prompt-engineering](https://github.com/microsoft/prompt-engineering) | Learn how to use AI models with prompt engineering | None | 97 | Other | 2022-05-24 | 2024-07-06 |
 | [AdaMix](https://github.com/microsoft/AdaMix) | This is the implementation of the paper AdaMix: Mixture-of-Adaptations for Parameter-efficient Model Tuning (https://arxiv.org/abs/2205.12410).  | Python | 121 | Apache License 2.0 | 2022-05-24 | 2024-07-11 |
 | [vscode-explorer-command](https://github.com/microsoft/vscode-explorer-command) | Shell extension to integrate with Win11 Context menu via sparse pkg | C++ | 36 | MIT License | 2022-05-25 | 2024-07-10 |
 | [ccf-app-template](https://github.com/microsoft/ccf-app-template) | Template repository for CCF apps | C++ | 12 | MIT License | 2022-05-25 | 2024-03-11 |
-| [vscode-python-tools-extension-template](https://github.com/microsoft/vscode-python-tools-extension-template) | Template for creating VS Code extensions for python tools.  | Python | 129 | Other | 2022-05-25 | 2024-07-08 |
+| [vscode-python-tools-extension-template](https://github.com/microsoft/vscode-python-tools-extension-template) | Template for creating VS Code extensions for python tools.  | Python | 130 | Other | 2022-05-25 | 2024-07-21 |
 | [Efficient-Large-LM-Trainer](https://github.com/microsoft/Efficient-Large-LM-Trainer) | None | Python | 36 | MIT License | 2022-05-26 | 2024-03-12 |
 | [quick-authentication](https://github.com/microsoft/quick-authentication) | None | None | 17 | MIT License | 2022-05-26 | 2024-04-05 |
 | [LAVENDER](https://github.com/microsoft/LAVENDER) | A Unified Framework for Video-Language Understanding | Python | 55 | MIT License | 2022-05-26 | 2024-05-06 |
-| [FIBER](https://github.com/microsoft/FIBER) | Coarse-to-Fine Vision-Language Pre-training with Fusion in the Backbone | Python | 125 | MIT License | 2022-05-26 | 2024-06-28 |
+| [FIBER](https://github.com/microsoft/FIBER) | Coarse-to-Fine Vision-Language Pre-training with Fusion in the Backbone | Python | 126 | MIT License | 2022-05-26 | 2024-07-21 |
 | [golden-scenario](https://github.com/microsoft/golden-scenario) | This repository holds the template for running and tracking a Golden Scenario | None | 3 | MIT License | 2022-05-27 | 2022-08-24 |
 | [Git-Learning-Series](https://github.com/microsoft/Git-Learning-Series) | None | None | 66 | MIT License | 2022-05-27 | 2024-06-22 |
 | [Internet-of-Bees](https://github.com/microsoft/Internet-of-Bees) | Devise a scalable monitoring and management system for Microsoft's bee ecosystem using IoT devices that can sense the beehive environment. Telemetry from the beehive will be shared publicly in this repo for research purposes. | None | 3 | MIT License | 2022-05-27 | 2022-08-10 |
 | [proxy](https://github.com/microsoft/proxy) | Proxy: Next Generation Polymorphism in C++ | C++ | 1484 | MIT License | 2022-05-30 | 2024-07-19 |
-| [azure-devops-rust-api](https://github.com/microsoft/azure-devops-rust-api) | Rust API crate for the Azure DevOps API | Rust | 54 | MIT License | 2022-06-01 | 2024-07-09 |
-| [sbom-tool](https://github.com/microsoft/sbom-tool) | The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts. | C# | 1520 | MIT License | 2022-06-01 | 2024-07-19 |
+| [azure-devops-rust-api](https://github.com/microsoft/azure-devops-rust-api) | Rust API crate for the Azure DevOps API | Rust | 54 | MIT License | 2022-06-01 | 2024-07-21 |
+| [sbom-tool](https://github.com/microsoft/sbom-tool) | The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts. | C# | 1522 | MIT License | 2022-06-01 | 2024-07-22 |
 | [app-camp](https://github.com/microsoft/app-camp) | On-demand videos and labs - come to App Camp and learn how to port your web application to Microsoft Teams! | JavaScript | 67 | MIT License | 2022-06-01 | 2024-06-22 |
 | [wcnspect](https://github.com/microsoft/wcnspect) | Windows Container Networking Stack Inspector | Go | 26 | MIT License | 2022-06-01 | 2024-01-18 |
 | [dstoolkit-autoencoder](https://github.com/microsoft/dstoolkit-autoencoder) | None | Jupyter Notebook | 3 | MIT License | 2022-06-02 | 2023-01-30 |
@@ -13349,11 +13349,11 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [MRTK3-iet-tutorials](https://github.com/microsoft/MRTK3-iet-tutorials) | MRTK3 IET tutorials | ShaderLab | 62 | MIT License | 2022-06-09 | 2024-07-16 |
 | [azfuse](https://github.com/microsoft/azfuse) | A lightweight blobfuse-like python tool with the data transfer through azcopy | Python | 29 | MIT License | 2022-06-09 | 2024-05-20 |
 | [Purview-ADB-Lineage-Solution-Accelerator](https://github.com/microsoft/Purview-ADB-Lineage-Solution-Accelerator) | A connector to ingest Azure Databricks lineage into Microsoft Purview | C# | 91 | MIT License | 2022-06-09 | 2024-07-15 |
-| [picologging](https://github.com/microsoft/picologging) | An optimized logging library for Python | Python | 643 | MIT License | 2022-06-10 | 2024-07-21 |
+| [picologging](https://github.com/microsoft/picologging) | An optimized logging library for Python | Python | 644 | MIT License | 2022-06-10 | 2024-07-21 |
 | [AzureAD-to-MSGraph](https://github.com/microsoft/AzureAD-to-MSGraph) | Central Data Source for tools aiding in migrating from the PowerShell Modules AzureAD or MSOnline to Graph | PowerShell | 14 | MIT License | 2022-06-13 | 2024-05-06 |
 | [dstoolkit-pva-audiocodes-cc](https://github.com/microsoft/dstoolkit-pva-audiocodes-cc) | None | PowerShell | 9 | MIT License | 2022-06-13 | 2024-04-03 |
 | [typescript-github-link](https://github.com/microsoft/typescript-github-link) | Get a GitHub permalink for a local file cloned from GitHub.  | TypeScript | 1 | MIT License | 2022-06-13 | 2022-08-10 |
-| [z3guide](https://github.com/microsoft/z3guide) | Tutorials and courses for Z3 | JavaScript | 57 | MIT License | 2022-06-13 | 2024-07-13 |
+| [z3guide](https://github.com/microsoft/z3guide) | Tutorials and courses for Z3 | JavaScript | 58 | MIT License | 2022-06-13 | 2024-07-21 |
 | [BindVAE](https://github.com/microsoft/BindVAE) | Variational Auto Encoders for learning binding signatures of transcription factors | Python | 10 | MIT License | 2022-06-13 | 2024-07-10 |
 | [lsprotocol](https://github.com/microsoft/lsprotocol) | Code generator and generated types for Language Server Protocol. | Python | 107 | MIT License | 2022-06-13 | 2024-07-17 |
 | [causica](https://github.com/microsoft/causica) | None | Python | 419 | MIT License | 2022-06-14 | 2024-07-16 |
@@ -13370,11 +13370,11 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [powerplatform-dev-day](https://github.com/microsoft/powerplatform-dev-day) | Power Platform Dev Day | Bicep | 15 | MIT License | 2022-06-16 | 2024-01-18 |
 | [mixedreality.failureanalysis.core](https://github.com/microsoft/mixedreality.failureanalysis.core) | Failure Analysis Tool for defects analysis and deduplication and notification. | C# | 3 | MIT License | 2022-06-16 | 2022-08-10 |
 | [BridgeTower](https://github.com/microsoft/BridgeTower) | Open source code for AAAI 2023 Paper "BridgeTower: Building Bridges Between Encoders in Vision-Language Representation Learning" | Python | 143 | MIT License | 2022-06-17 | 2024-07-14 |
-| [dchemistruck](https://github.com/microsoft/dchemistruck) | A collection of scripts to facilitate management of Microsoft Defender XDR products + Sentinel. | PowerShell | 14 | MIT License | 2022-06-17 | 2024-07-21 |
+| [dchemistruck](https://github.com/microsoft/dchemistruck) | A collection of scripts to facilitate management of Microsoft Defender XDR products + Sentinel. | PowerShell | 14 | MIT License | 2022-06-17 | 2024-07-22 |
 | [testbro](https://github.com/microsoft/testbro) | Unit tests in the browser | TypeScript | 14 | MIT License | 2022-06-17 | 2024-06-24 |
 | [TeamsMeetingsWebScheduler](https://github.com/microsoft/TeamsMeetingsWebScheduler) | None | C# | 8 | MIT License | 2022-06-17 | 2024-03-09 |
 | [shapeshifter](https://github.com/microsoft/shapeshifter) | A way to dynamically render controls in Power Apps | TypeScript | 24 | MIT License | 2022-06-17 | 2024-04-30 |
-| [prompt-engine](https://github.com/microsoft/prompt-engine) | A library for helping developers craft prompts for Large Language Models | TypeScript | 2498 | MIT License | 2022-06-17 | 2024-07-20 |
+| [prompt-engine](https://github.com/microsoft/prompt-engine) | A library for helping developers craft prompts for Large Language Models | TypeScript | 2499 | MIT License | 2022-06-17 | 2024-07-22 |
 | [PerformanceFunctionAnalysis](https://github.com/microsoft/PerformanceFunctionAnalysis) | Code for NAACL 2022 Paper: On the Economics of Multilingual Few-shot Learning: Modeling the Cost-Performance Trade-offs of Machine Translated and Manual Data | Python | 7 | MIT License | 2022-06-20 | 2023-06-12 |
 | [augmented-interpretable-models](https://github.com/microsoft/augmented-interpretable-models) | Interpretable and efficient predictors using pre-trained language models. Scikit-learn compatible. | Jupyter Notebook | 37 | MIT License | 2022-06-20 | 2024-04-22 |
 | [kiota-serialization-text-php](https://github.com/microsoft/kiota-serialization-text-php) | Text serialization provider for Kiota clients in PHP | PHP | 3 | MIT License | 2022-06-20 | 2024-07-10 |
@@ -13404,7 +13404,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [Microsoft-Focus-Center](https://github.com/microsoft/Microsoft-Focus-Center) | Microsoft Focus Center | C# | 10 | MIT License | 2022-07-06 | 2023-04-20 |
 | [GCR-Engage-Program](https://github.com/microsoft/GCR-Engage-Program) | None | None | 2 | MIT License | 2022-07-06 | 2022-08-10 |
 | [Flash_University](https://github.com/microsoft/Flash_University) | None | C# | 10 | MIT License | 2022-07-06 | 2023-10-16 |
-| [MicrosoftDisplayCaptureTools](https://github.com/microsoft/MicrosoftDisplayCaptureTools) | A suite of tools to validate graphics output via HDMI or DisplayPort | C++ | 17 | MIT License | 2022-07-06 | 2024-07-17 |
+| [MicrosoftDisplayCaptureTools](https://github.com/microsoft/MicrosoftDisplayCaptureTools) | A suite of tools to validate graphics output via HDMI or DisplayPort | C++ | 18 | MIT License | 2022-07-06 | 2024-07-22 |
 | [bonsai-InventoryManagement](https://github.com/microsoft/bonsai-InventoryManagement) | Inventory management order levels using reinforcement learning and mixed integer programming  | Jupyter Notebook | 8 | MIT License | 2022-07-06 | 2024-02-07 |
 | [Azure-Employee-Network-Graph-Solution-Accelerator-with-MGDC](https://github.com/microsoft/Azure-Employee-Network-Graph-Solution-Accelerator-with-MGDC) | None | Jupyter Notebook | 3 | MIT License | 2022-07-06 | 2023-03-16 |
 | [Azure-Datahub-Solution-Accelerator-for-Government-Recovery-Programs](https://github.com/microsoft/Azure-Datahub-Solution-Accelerator-for-Government-Recovery-Programs) | None | Jupyter Notebook | 6 | MIT License | 2022-07-06 | 2024-04-01 |
@@ -13421,7 +13421,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [go-rustaudit](https://github.com/microsoft/go-rustaudit) | Go library for inspecting Rust binaries produced with https://github.com/rust-secure-code/cargo-auditable | Go | 15 | MIT License | 2022-07-12 | 2023-11-10 |
 | [CodeT](https://github.com/microsoft/CodeT) | None | Python | 573 | MIT License | 2022-07-12 | 2024-07-15 |
 | [lamar-benchmark](https://github.com/microsoft/lamar-benchmark) | Source code for the ECCV 2022 paper "Benchmarking Localization and Mapping for Augmented Reality". | Python | 364 | Creative Commons Attribution 4.0 International | 2022-07-13 | 2024-07-18 |
-| [GenerativeImage2Text](https://github.com/microsoft/GenerativeImage2Text) | GIT: A Generative Image-to-text Transformer for Vision and Language | Python | 537 | MIT License | 2022-07-13 | 2024-07-17 |
+| [GenerativeImage2Text](https://github.com/microsoft/GenerativeImage2Text) | GIT: A Generative Image-to-text Transformer for Vision and Language | Python | 538 | MIT License | 2022-07-13 | 2024-07-21 |
 | [30daysof](https://github.com/microsoft/30daysof) | 30 Day of Learning Resources, Samples and Curricula | JavaScript | 169 | MIT License | 2022-07-15 | 2024-05-31 |
 | [50BusinessAssignmentsLog](https://github.com/microsoft/50BusinessAssignmentsLog) | Dataset containing an Event Log of 165 recordings of 50 business assignments. | None | 7 | MIT License | 2022-07-15 | 2024-05-06 |
 | [azure-pipelines-orchestrator](https://github.com/microsoft/azure-pipelines-orchestrator) | Horizontally scaleable, on-demand agent pools backed by Kubernetes | C# | 10 | MIT License | 2022-07-17 | 2024-05-27 |
@@ -13465,12 +13465,12 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [windows-host-process-containers-base-image](https://github.com/microsoft/windows-host-process-containers-base-image) | A lightweight base container image to be used with Windows host process containers | PowerShell | 39 | MIT License | 2022-08-03 | 2024-06-11 |
 | [oss-ssc-framework](https://github.com/microsoft/oss-ssc-framework) | Open Source Software Secure Supply Chain Framework | None | 234 | Other | 2022-08-04 | 2024-07-02 |
 | [pulse](https://github.com/microsoft/pulse) | None | C# | 6 | Other | 2022-08-04 | 2022-09-21 |
-| [ContributorLicenseAgreement](https://github.com/microsoft/ContributorLicenseAgreement) | Microsoft Contributor License Agreement policy app | None | 76 | MIT License | 2022-08-04 | 2024-07-04 |
+| [ContributorLicenseAgreement](https://github.com/microsoft/ContributorLicenseAgreement) | Microsoft Contributor License Agreement policy app | None | 77 | MIT License | 2022-08-04 | 2024-07-21 |
 | [pulse-prometheus](https://github.com/microsoft/pulse-prometheus) | None | C# | 5 | Other | 2022-08-04 | 2022-10-05 |
 | [azure-netapp-files](https://github.com/microsoft/azure-netapp-files) | Azure NetApp Files | None | 7 | MIT License | 2022-08-05 | 2023-01-30 |
 | [kiota-abstractions-python](https://github.com/microsoft/kiota-abstractions-python) | Abstractions library for Kiota generated Python clients | Python | 11 | MIT License | 2022-08-05 | 2024-07-18 |
 | [kiota-http-python](https://github.com/microsoft/kiota-http-python) | HTTP request adapter implementation for Kiota clients for Python | Python | 9 | MIT License | 2022-08-05 | 2024-07-17 |
-| [kiota-serialization-json-python](https://github.com/microsoft/kiota-serialization-json-python) | JSON serialization implementation for Kiota clients in Python | Python | 4 | MIT License | 2022-08-05 | 2024-07-15 |
+| [kiota-serialization-json-python](https://github.com/microsoft/kiota-serialization-json-python) | JSON serialization implementation for Kiota clients in Python | Python | 4 | MIT License | 2022-08-05 | 2024-07-22 |
 | [kiota-serialization-text-python](https://github.com/microsoft/kiota-serialization-text-python) | Text serialization implementation for Kiota generated clients in Python | Python | 2 | MIT License | 2022-08-05 | 2024-07-12 |
 | [kiota-authentication-azure-python](https://github.com/microsoft/kiota-authentication-azure-python) | Kiota Azure authentication provider for python clients | Python | 6 | MIT License | 2022-08-05 | 2024-07-18 |
 | [go-winmd](https://github.com/microsoft/go-winmd) | Windows Metadata parser for Go  | Go | 26 | MIT License | 2022-08-05 | 2024-07-17 |
@@ -13487,7 +13487,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [monubamb](https://github.com/microsoft/monubamb) | Cloud Native Code Repo | None | 1 | MIT License | 2022-08-12 | 2022-08-13 |
 | [did-ccf](https://github.com/microsoft/did-ccf) | DID Method for the Confidential Consortium Framework (CCF) | TypeScript | 23 | Apache License 2.0 | 2022-08-13 | 2023-10-12 |
 | [ravl](https://github.com/microsoft/ravl) | Remote Attestation Verification Library | C++ | 8 | MIT License | 2022-08-14 | 2023-12-21 |
-| [BioGPT](https://github.com/microsoft/BioGPT) | None | Python | 4264 | MIT License | 2022-08-15 | 2024-07-20 |
+| [BioGPT](https://github.com/microsoft/BioGPT) | None | Python | 4263 | MIT License | 2022-08-15 | 2024-07-21 |
 | [moaw](https://github.com/microsoft/moaw) | Grab-and-go resources to help you learn new skills, with all the tools you need to create, host and share your own workshop | Jupyter Notebook | 100 | Creative Commons Attribution Share Alike 4.0 International | 2022-08-16 | 2024-07-18 |
 | [SMBSecurity](https://github.com/microsoft/SMBSecurity) | The SMBSecurity module can read and modify the SMB Server Security Descriptors. The functionality is like the old XP PowerToys TweakUI tool, set LanMan Server Admin DACLs feature but updated and command line based. | PowerShell | 6 | MIT License | 2022-08-16 | 2023-11-09 |
 | [causal-impact-long-covid](https://github.com/microsoft/causal-impact-long-covid) | Code supplementing AI for Good Lab's work on long COVID sequelae using EHR data | Jupyter Notebook | 11 | MIT License | 2022-08-16 | 2023-06-29 |
@@ -13522,18 +13522,18 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [adme-samples](https://github.com/microsoft/adme-samples) | None | HTML | 10 | MIT License | 2022-09-01 | 2024-06-04 |
 | [AzureSynapseEndToEndDemo](https://github.com/microsoft/AzureSynapseEndToEndDemo) | This repository provides one-click infrastructure and artifact deployment for Azure Synapse Analytics to get you started with Big Data Analytics on a large sized Health Care sample data. You will learn how to ingest, process and serve large volumes of data using various components of Synapse. | None | 59 | MIT License | 2022-09-01 | 2024-05-28 |
 | [pytest-azure](https://github.com/microsoft/pytest-azure) | pytest Utilities and Mocks for Azure  | Python | 8 | MIT License | 2022-09-02 | 2023-05-08 |
-| [action-python](https://github.com/microsoft/action-python) | None | None | 47 | MIT License | 2022-09-02 | 2024-06-25 |
+| [action-python](https://github.com/microsoft/action-python) | None | None | 48 | MIT License | 2022-09-02 | 2024-07-21 |
 | [azure-gaming-devops](https://github.com/microsoft/azure-gaming-devops) | DevOps Pipelines for Azure Gaming Services | None | 7 | MIT License | 2022-09-02 | 2023-08-13 |
 | [Form-Recognizer-Toolkit](https://github.com/microsoft/Form-Recognizer-Toolkit) | Form Recognizer Toolkit (FRTK) provides a set of components and features to accelerate development based on Form Recognizer service. | TypeScript | 71 | MIT License | 2022-09-05 | 2024-07-20 |
 | [react-text-annotator](https://github.com/microsoft/react-text-annotator) | A labeler component that Lays out text and overlays textual decorations like labels, predictions, and relations based on given data and handles user interactions on tokens. | TypeScript | 45 | MIT License | 2022-09-06 | 2024-04-08 |
 | [vscode-autopep8](https://github.com/microsoft/vscode-autopep8) | Formatting support for python using autopep8. | Python | 16 | MIT License | 2022-09-06 | 2024-07-08 |
 | [hlsl-specs](https://github.com/microsoft/hlsl-specs) | HLSL Specifications | TeX | 110 | MIT License | 2022-09-06 | 2024-07-16 |
-| [farmvibes-ai](https://github.com/microsoft/farmvibes-ai) | FarmVibes.AI: Multi-Modal GeoSpatial ML Models for Agriculture and Sustainability | Jupyter Notebook | 657 | MIT License | 2022-09-06 | 2024-07-19 |
+| [farmvibes-ai](https://github.com/microsoft/farmvibes-ai) | FarmVibes.AI: Multi-Modal GeoSpatial ML Models for Agriculture and Sustainability | Jupyter Notebook | 657 | MIT License | 2022-09-06 | 2024-07-22 |
 | [vscode-figma-icons](https://github.com/microsoft/vscode-figma-icons) | A Figma plugin to use VS Code icons | TypeScript | 4 | MIT License | 2022-09-06 | 2024-04-15 |
 | [Virtual-Visit-Sample-Connector](https://github.com/microsoft/Virtual-Visit-Sample-Connector) | Sample custom connector for virtual appointment API | None | 2 | MIT License | 2022-09-07 | 2023-03-02 |
 | [MICO](https://github.com/microsoft/MICO) | Membership Inference Competition | Python | 30 | MIT License | 2022-09-08 | 2024-07-18 |
 | [LSKV](https://github.com/microsoft/LSKV) | A Ledger-backed Secure Key-Value store (LSKV), built on the Confidential Consortium Framework (CCF) | Python | 31 | MIT License | 2022-09-08 | 2024-07-18 |
-| [dev-proxy](https://github.com/microsoft/dev-proxy) | Dev Proxy is an API simulator that helps you effortlessly test your app beyond the happy path. | C# | 457 | MIT License | 2022-09-09 | 2024-07-16 |
+| [dev-proxy](https://github.com/microsoft/dev-proxy) | Dev Proxy is an API simulator that helps you effortlessly test your app beyond the happy path. | C# | 458 | MIT License | 2022-09-09 | 2024-07-22 |
 | [bonsai-rgb](https://github.com/microsoft/bonsai-rgb) | Project Bonsai CMYK to RGB Sample | Python | 2 | MIT License | 2022-09-09 | 2024-02-10 |
 | [SandboxSecurityTools](https://github.com/microsoft/SandboxSecurityTools) | Security testing tools for Windows sandboxing technologies | C++ | 144 | MIT License | 2022-09-09 | 2024-07-14 |
 | [Server-Info](https://github.com/microsoft/Server-Info) | This project proposes to help developers and infrastructure operators to discovery environments parameters that is available only in code, exposing them in a simple and clean table in the site in a very simple way. Usefull information such as hostname, client, OS version, drivers, port, paths and all parameters that was available only in code. Intended to be used as a tool, not to leave opened in production environment | HTML | 8 | MIT License | 2022-09-10 | 2024-04-30 |
@@ -13551,7 +13551,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [DigiFace1M](https://github.com/microsoft/DigiFace1M) | None | None | 269 | Other | 2022-09-15 | 2024-06-26 |
 | [vscode-python-web-wasm](https://github.com/microsoft/vscode-python-web-wasm) | An extension allows to run Python code in a Web browser using WebAssembly technology | Python | 76 | MIT License | 2022-09-15 | 2024-07-11 |
 | [lakeFriends](https://github.com/microsoft/lakeFriends) | Cross-Platform Data Lake Governance | None | 3 | MIT License | 2022-09-15 | 2023-03-16 |
-| [durabletask-go](https://github.com/microsoft/durabletask-go) | The Durable Task Framework is a lightweight, embeddable engine for writing durable, fault-tolerant business logic (orchestrations) as ordinary code. | Go | 180 | Apache License 2.0 | 2022-09-15 | 2024-07-19 |
+| [durabletask-go](https://github.com/microsoft/durabletask-go) | The Durable Task Framework is a lightweight, embeddable engine for writing durable, fault-tolerant business logic (orchestrations) as ordinary code. | Go | 181 | Apache License 2.0 | 2022-09-15 | 2024-07-21 |
 | [sound-and-music-minecraft-makecode-ext](https://github.com/microsoft/sound-and-music-minecraft-makecode-ext) | Code with Sound and Music in Minecraft: Education Edition. Adds blocks to play game sounds, music discs, and note block sounds from your code projects! | TypeScript | 1 | MIT License | 2022-09-15 | 2023-04-19 |
 | [archived-confidential-sidecar-containers](https://github.com/microsoft/archived-confidential-sidecar-containers) | This is a collection of sidecar containers that can be incorporated within confidential container groups on Azure Container Instances. | Go | 18 | Other | 2022-09-16 | 2024-04-18 |
 | [kql-query-store](https://github.com/microsoft/kql-query-store) | None | Jupyter Notebook | 15 | MIT License | 2022-09-16 | 2024-07-10 |
@@ -13561,7 +13561,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [TdsLib](https://github.com/microsoft/TdsLib) | Open implementation of the TDS protocol (version 7.4) in managed C# code. | C# | 16 | MIT License | 2022-09-19 | 2024-06-21 |
 | [batch-effects-normalization](https://github.com/microsoft/batch-effects-normalization) | None | Jupyter Notebook | 10 | MIT License | 2022-09-19 | 2024-06-16 |
 | [azure-data-manager-for-energy-experience-lab](https://github.com/microsoft/azure-data-manager-for-energy-experience-lab) | Experience Lab is a set of utilities that assist in creating instances of Microsoft Azure Data Manager for Energy, performing data loads, and performing basic management operations. | TypeScript | 13 | MIT License | 2022-09-19 | 2024-06-03 |
-| [Pride-flag](https://github.com/microsoft/Pride-flag) | Pride flag featuring 74 individual LGBTQIA+ flags | None | 155 | Other | 2022-09-19 | 2024-07-12 |
+| [Pride-flag](https://github.com/microsoft/Pride-flag) | Pride flag featuring 74 individual LGBTQIA+ flags | None | 156 | Other | 2022-09-19 | 2024-07-22 |
 | [bc2dataverse](https://github.com/microsoft/bc2dataverse) | Integrate Business Central to Dataverse in a low code way  | TypeScript | 21 | MIT License | 2022-09-19 | 2024-07-03 |
 | [action-armttk](https://github.com/microsoft/action-armttk) | Github Action for running ARM-TTK | Shell | 3 | MIT License | 2022-09-19 | 2023-03-16 |
 | [robotics.pretraining.workshop.icra](https://github.com/microsoft/robotics.pretraining.workshop.icra) | None | CSS | 7 | MIT License | 2022-09-20 | 2024-06-12 |
@@ -13575,7 +13575,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [vscode-remote-try-sqlserver](https://github.com/microsoft/vscode-remote-try-sqlserver) | SQL Server and Azure SQL sample project for trying out the Dev Containers extension | TSQL | 35 | MIT License | 2022-09-22 | 2024-07-12 |
 | [ftatoolkit-analytics-cicd-cli](https://github.com/microsoft/ftatoolkit-analytics-cicd-cli) | Command line tool for setting up CI/CD for Azure Data Factory and Synapse Analytics. | Shell | 9 | MIT License | 2022-09-22 | 2023-09-16 |
 | [UniSumm](https://github.com/microsoft/UniSumm) | UNISUMM: Unified Few-shot Summarization with Multi-Task Pre-Training and Prefix-Tuning | Python | 60 | MIT License | 2022-09-23 | 2024-02-29 |
-| [cxplat](https://github.com/microsoft/cxplat) | Cross platform, C abstraction layer for both user mode and kernel mode libraries | C | 19 | MIT License | 2022-09-23 | 2024-07-20 |
+| [cxplat](https://github.com/microsoft/cxplat) | Cross platform, C abstraction layer for both user mode and kernel mode libraries | C | 19 | MIT License | 2022-09-23 | 2024-07-21 |
 | [MTC_IL_Nodejs_Hello_World](https://github.com/microsoft/MTC_IL_Nodejs_Hello_World) | This sample demonstrates a tiny Hello World node.js app for App Service Web App. | JavaScript | 5 | MIT License | 2022-09-24 | 2023-09-28 |
 | [Mask-based-Latent-Reconstruction](https://github.com/microsoft/Mask-based-Latent-Reconstruction) | This repo is the official implementation of "Mask-based Latent Reconstruction for Reinforcement Learning" (NeurIPS 2022). | Python | 25 | MIT License | 2022-09-25 | 2024-05-22 |
 | [ML4C](https://github.com/microsoft/ML4C) | [SDM'23] ML4C: Seeing Causality Through Latent Vicinity | Python | 11 | MIT License | 2022-09-26 | 2024-06-17 |
@@ -13688,7 +13688,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [lfx.rushstack.io-website](https://github.com/microsoft/lfx.rushstack.io-website) | GitHub Pages deployments for https://lfx.rushstack.io | None | 1 | Creative Commons Attribution 4.0 International | 2022-11-08 | 2023-03-16 |
 | [elasticflow-traces](https://github.com/microsoft/elasticflow-traces) | Integrated Training Platform (ITP) traces used in ElasticFlow paper. | None | 26 | MIT License | 2022-11-08 | 2024-05-16 |
 | [openai-prompt-examples](https://github.com/microsoft/openai-prompt-examples) | None | None | 20 | MIT License | 2022-11-08 | 2024-06-06 |
-| [vcpkg-docs](https://github.com/microsoft/vcpkg-docs) | None | CMake | 47 | MIT License | 2022-11-08 | 2024-07-18 |
+| [vcpkg-docs](https://github.com/microsoft/vcpkg-docs) | None | CMake | 47 | MIT License | 2022-11-08 | 2024-07-22 |
 | [abap2git](https://github.com/microsoft/abap2git) | One-way sync from SAP to Git repo for ABAP objects allowing multiple systems in branches and multiple packages in one branch, supporting code objects plus configuration delta and HR/payroll PCR/schema | ABAP | 13 | MIT License | 2022-11-09 | 2023-09-08 |
 | [digital-content-distribution-toolkit](https://github.com/microsoft/digital-content-distribution-toolkit) | A low-cost satellite and edge-based technology which seeks to deliver digital content to underserved users at the last mile.    | C# | 3 | MIT License | 2022-11-09 | 2023-09-26 |
 | [digital-content-distribution-toolkit-client](https://github.com/microsoft/digital-content-distribution-toolkit-client) | This is the client-side repository of a low-cost satellite and edge-based technology which seeks to deliver digital content to underserved users at the last mile. | Kotlin | 1 | MIT License | 2022-11-09 | 2023-03-16 |
@@ -13714,10 +13714,10 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [EA-HAS-Bench](https://github.com/microsoft/EA-HAS-Bench) | EA-HAS-Bench: Energy-Aware Hyperparameter and Architecture Search Benchmark (ICLR Spotlight 2023) | Python | 15 | MIT License | 2022-11-16 | 2024-02-06 |
 | [teams-powerapps-app-templates](https://github.com/microsoft/teams-powerapps-app-templates) | Sample Teams app built by Power Apps | None | 180 | MIT License | 2022-11-16 | 2024-07-19 |
 | [SimXNS](https://github.com/microsoft/SimXNS) | SimXNS is a research project for information retrieval. This repo contains official implementations by MSRA NLC team. | Python | 104 | MIT License | 2022-11-16 | 2024-06-05 |
-| [torchscale](https://github.com/microsoft/torchscale) | Foundation Architecture for (M)LLMs | Python | 2975 | MIT License | 2022-11-17 | 2024-07-18 |
+| [torchscale](https://github.com/microsoft/torchscale) | Foundation Architecture for (M)LLMs | Python | 2974 | MIT License | 2022-11-17 | 2024-07-21 |
 | [dstoolkit-fuzzymatching-v2](https://github.com/microsoft/dstoolkit-fuzzymatching-v2) | None | Jupyter Notebook | 7 | MIT License | 2022-11-17 | 2023-08-23 |
 | [entra-verifiedid-wallet-library-android](https://github.com/microsoft/entra-verifiedid-wallet-library-android) | A library to manage your Decentralized Identities and Verified IDs on Android. | Kotlin | 19 | MIT License | 2022-11-17 | 2024-06-12 |
-| [entra-verifiedid-wallet-library-ios](https://github.com/microsoft/entra-verifiedid-wallet-library-ios) | A library to manage your Decentralized Identities and Verified IDs on iOS. | Swift | 21 | MIT License | 2022-11-17 | 2024-06-03 |
+| [entra-verifiedid-wallet-library-ios](https://github.com/microsoft/entra-verifiedid-wallet-library-ios) | A library to manage your Decentralized Identities and Verified IDs on iOS. | Swift | 22 | MIT License | 2022-11-17 | 2024-07-21 |
 | [gps-csa-devhack-azurecloudnative](https://github.com/microsoft/gps-csa-devhack-azurecloudnative) | None | CSS | 9 | MIT License | 2022-11-21 | 2023-03-16 |
 | [syntheseus](https://github.com/microsoft/syntheseus) | Package for Retrosynthetic Planning | Python | 98 | MIT License | 2022-11-21 | 2024-07-12 |
 | [mu_feature_dfci](https://github.com/microsoft/mu_feature_dfci) | DFCI - Device Firmware Configuration Interface | C | 16 | Other | 2022-11-21 | 2024-07-19 |
@@ -13735,7 +13735,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [kalypso](https://github.com/microsoft/kalypso) | Workload Management in Multi-cluster environment with GitOps | Shell | 11 | MIT License | 2022-11-30 | 2024-05-08 |
 | [planting-and-mitigating-memorization](https://github.com/microsoft/planting-and-mitigating-memorization) | This repository contains the software used to run the experiments in the paper "Planting and Mitigating Memorized Content in Predictive-Text Language Models." | Python | 1 | MIT License | 2022-12-01 | 2023-03-30 |
 | [ContosoTraders](https://github.com/microsoft/ContosoTraders) | This is a repo for all of the demo assets for Contoso Traders, a fictional company that we have built infrastructure and resources for to help developers understand the capabilities of App Innovation products and services. | JavaScript | 19 | MIT License | 2022-12-02 | 2024-06-17 |
-| [mggraph-intune-samples](https://github.com/microsoft/mggraph-intune-samples) | Github Repository to hold samples for the MGGraph Powershell cmdlets | PowerShell | 90 | MIT License | 2022-12-05 | 2024-07-18 |
+| [mggraph-intune-samples](https://github.com/microsoft/mggraph-intune-samples) | Github Repository to hold samples for the MGGraph Powershell cmdlets | PowerShell | 91 | MIT License | 2022-12-05 | 2024-07-22 |
 | [Intune-solutions](https://github.com/microsoft/Intune-solutions) | GitHub Repository for Solution Intune Sample Scripts  | PowerShell | 29 | MIT License | 2022-12-05 | 2024-07-05 |
 | [connected-fleet-refarch](https://github.com/microsoft/connected-fleet-refarch) | Connected Fleet Reference Architecture | C# | 4 | MIT License | 2022-12-05 | 2024-07-11 |
 | [kalypso-control-plane](https://github.com/microsoft/kalypso-control-plane) | None | None | 4 | MIT License | 2022-12-06 | 2024-04-24 |
@@ -13762,7 +13762,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [kiota-serialization-form-dotnet](https://github.com/microsoft/kiota-serialization-form-dotnet) | Kiota serialization provider implementation for form encoded | C# | 10 | MIT License | 2022-12-12 | 2024-07-09 |
 | [MC4S](https://github.com/microsoft/MC4S) | None | None | 6 | MIT License | 2022-12-12 | 2023-10-05 |
 | [kiota-serialization-form-go](https://github.com/microsoft/kiota-serialization-form-go) | Kiota serialization provider implementation for form encoded | Go | 5 | MIT License | 2022-12-12 | 2024-07-09 |
-| [LMOps](https://github.com/microsoft/LMOps) | General technology for enabling AI capabilities w/ LLMs and MLLMs | Python | 3434 | MIT License | 2022-12-13 | 2024-07-21 |
+| [LMOps](https://github.com/microsoft/LMOps) | General technology for enabling AI capabilities w/ LLMs and MLLMs | Python | 3440 | MIT License | 2022-12-13 | 2024-07-22 |
 | [MTC_IL_WORKSHOP_Azure_Administrator](https://github.com/microsoft/MTC_IL_WORKSHOP_Azure_Administrator) | None | None | 8 | - | 2022-12-13 | 2024-07-05 |
 | [rust-for-dotnet-devs](https://github.com/microsoft/rust-for-dotnet-devs) | Rust for C#/.NET Developers | JavaScript | 342 | Other | 2022-12-13 | 2024-07-19 |
 | [FairPrism](https://github.com/microsoft/FairPrism) | None | None | 8 | MIT License | 2022-12-13 | 2024-04-01 |
@@ -13791,7 +13791,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [azure-terraform-storage-datalifecycle](https://github.com/microsoft/azure-terraform-storage-datalifecycle) | Terraform Script for - Storage, container and data life cycle rules creation at scale | None | 9 | MIT License | 2023-01-02 | 2023-03-16 |
 | [Microsoft-Purview-Advanced-Rich-Reports-MPARR-Collector](https://github.com/microsoft/Microsoft-Purview-Advanced-Rich-Reports-MPARR-Collector) | Repository with all the MPARR components solution | PowerShell | 87 | MIT License | 2023-01-03 | 2024-07-18 |
 | [wufb-reports-access-control](https://github.com/microsoft/wufb-reports-access-control) | Ansible solution to deploy WUfB reports infrastructure for partitioning data and securing access using Azure RBAC. | TypeScript | 0 | MIT License | 2023-01-04 | 2023-10-06 |
-| [kata-containers](https://github.com/microsoft/kata-containers) | Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/ | Rust | 40 | Apache License 2.0 | 2023-01-04 | 2024-07-17 |
+| [kata-containers](https://github.com/microsoft/kata-containers) | Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/ | Rust | 41 | Apache License 2.0 | 2023-01-04 | 2024-07-21 |
 | [kata-containers-tests](https://github.com/microsoft/kata-containers-tests) | Kata Containers tests, CI, and metrics | Shell | 1 | Apache License 2.0 | 2023-01-04 | 2023-06-12 |
 | [kata-containers-ci](https://github.com/microsoft/kata-containers-ci) | Kata Containers CI | Shell | 1 | Apache License 2.0 | 2023-01-04 | 2023-06-12 |
 | [confidential-containers-operator](https://github.com/microsoft/confidential-containers-operator) | Operator to deploy confidential containers runtime | Go | 1 | Apache License 2.0 | 2023-01-04 | 2023-06-12 |
@@ -13820,18 +13820,18 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [2023iotlevelup](https://github.com/microsoft/2023iotlevelup) | None | Python | 14 | MIT License | 2023-01-12 | 2023-10-31 |
 | [vscode-css](https://github.com/microsoft/vscode-css) | CSS Textmate grammar for syntax highlighting | CoffeeScript | 14 | Other | 2023-01-13 | 2024-07-16 |
 | [aqa-tests](https://github.com/microsoft/aqa-tests) | A fork of adoptium/aqa-tests with Msft specific changes | HTML | 8 | Apache License 2.0 | 2023-01-13 | 2024-07-17 |
-| [aad_b2c_webview](https://github.com/microsoft/aad_b2c_webview) | Azure AD B2C Embedded Webview is a very simple Flutter package that demonstrates how to use the embedded web view to sign in users with Azure AD B2C. | Dart | 32 | MIT License | 2023-01-16 | 2024-07-06 |
+| [aad_b2c_webview](https://github.com/microsoft/aad_b2c_webview) | Azure AD B2C Embedded Webview is a very simple Flutter package that demonstrates how to use the embedded web view to sign in users with Azure AD B2C. | Dart | 31 | MIT License | 2023-01-16 | 2024-07-21 |
 | [codecoverage](https://github.com/microsoft/codecoverage) | None | C# | 73 | MIT License | 2023-01-16 | 2024-06-11 |
 | [ftatoolkit-rest-analytics-quickstart](https://github.com/microsoft/ftatoolkit-rest-analytics-quickstart) | Template Azure Synapse Analytics project designed for REST API data. | Bicep | 6 | MIT License | 2023-01-16 | 2023-08-30 |
 | [skillBotTemplate](https://github.com/microsoft/skillBotTemplate) | Teams Skill Bot template projects | C# | 15 | MIT License | 2023-01-16 | 2023-09-16 |
-| [cheriot-ibex](https://github.com/microsoft/cheriot-ibex) | cheriot-ibex is a RTL implementation of CHERIoT ISA based on LowRISC's Ibex core. | SystemVerilog | 70 | Apache License 2.0 | 2023-01-17 | 2024-07-20 |
+| [cheriot-ibex](https://github.com/microsoft/cheriot-ibex) | cheriot-ibex is a RTL implementation of CHERIoT ISA based on LowRISC's Ibex core. | SystemVerilog | 71 | Apache License 2.0 | 2023-01-17 | 2024-07-22 |
 | [cancernlp](https://github.com/microsoft/cancernlp) | None | Python | 5 | MIT License | 2023-01-17 | 2023-05-10 |
 | [codespace-features](https://github.com/microsoft/codespace-features) | Devcontainer features for use in Codespaces | Shell | 12 | MIT License | 2023-01-18 | 2024-07-15 |
 | [vision-explanation-methods](https://github.com/microsoft/vision-explanation-methods) | Methods for creating saliency maps for computer vision models. | Python | 38 | MIT License | 2023-01-18 | 2024-06-25 |
 | [GIF-for-Dataverse](https://github.com/microsoft/GIF-for-Dataverse) | Repository for Power Platform template to deploy GIF on Dataverse (Japanese) | None | 6 | MIT License | 2023-01-19 | 2024-04-02 |
 | [vs-servicehub](https://github.com/microsoft/vs-servicehub) | The service broker libraries used by Visual Studio to exchange intra- and inter-process services | C# | 19 | MIT License | 2023-01-19 | 2024-07-15 |
 | [irisml-tasks-automl](https://github.com/microsoft/irisml-tasks-automl) | None | Python | 2 | MIT License | 2023-01-19 | 2023-03-16 |
-| [codamosa](https://github.com/microsoft/codamosa) | None | Python | 107 | MIT License | 2023-01-19 | 2024-07-15 |
+| [codamosa](https://github.com/microsoft/codamosa) | None | Python | 108 | MIT License | 2023-01-19 | 2024-07-21 |
 | [DataLineage](https://github.com/microsoft/DataLineage) | Data Lineage for Spark components and PowerBI/AAS showing up in Azure Purview | Python | 14 | MIT License | 2023-01-20 | 2024-04-09 |
 | [AzDetectSuite](https://github.com/microsoft/AzDetectSuite) | A collection of ARM-based detections for Azure/AzureAD based TTPs | PowerShell | 77 | MIT License | 2023-01-20 | 2024-07-01 |
 | [symbolic-robot-teaching-interface](https://github.com/microsoft/symbolic-robot-teaching-interface) | None | Python | 7 | MIT License | 2023-01-20 | 2024-04-22 |
@@ -13845,7 +13845,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [pstn-callrecord-plan-alerts](https://github.com/microsoft/pstn-callrecord-plan-alerts) | A .net core console application to compare total pstn call minutes to calling plan limits | C# | 4 | MIT License | 2023-01-26 | 2023-11-29 |
 | [cookiecutter_template_for_python](https://github.com/microsoft/cookiecutter_template_for_python) | None | Bicep | 12 | MIT License | 2023-01-26 | 2024-03-20 |
 | [dynamics365patternspractices](https://github.com/microsoft/dynamics365patternspractices) | Collaboration on patterns and practices, business processes, and other guidance | None | 73 | Creative Commons Attribution 4.0 International | 2023-01-26 | 2024-07-19 |
-| [terraform-provider-power-platform](https://github.com/microsoft/terraform-provider-power-platform) | Power Platform Terraform Provider | Go | 27 | MIT License | 2023-01-26 | 2024-07-19 |
+| [terraform-provider-power-platform](https://github.com/microsoft/terraform-provider-power-platform) | Power Platform Terraform Provider | Go | 27 | MIT License | 2023-01-26 | 2024-07-22 |
 | [qsharp](https://github.com/microsoft/qsharp) | Azure Quantum Development Kit, including the Q# programming language, resource estimator, and Quantum Katas | Rust | 380 | MIT License | 2023-01-26 | 2024-07-19 |
 | [MicrosoftAzureCloudHSM](https://github.com/microsoft/MicrosoftAzureCloudHSM) | Azure Cloud HSM SDK (Private Preview) | None | 11 | Other | 2023-01-26 | 2024-07-03 |
 | [HvLoader](https://github.com/microsoft/HvLoader) | HvLoader.efi is an EFI application for loading an external hypervisor loader | C | 16 | MIT License | 2023-01-27 | 2024-06-07 |
@@ -13864,15 +13864,15 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [ado-codespaces-auth](https://github.com/microsoft/ado-codespaces-auth) | None | TypeScript | 6 | MIT License | 2023-02-02 | 2024-07-12 |
 | [aca-dev-day](https://github.com/microsoft/aca-dev-day) | Documentation and Workshop steps for Azure Container Apps Dev Day | JavaScript | 2 | MIT License | 2023-02-02 | 2023-04-17 |
 | [eslint-plugin-fluentui-jsx-a11y](https://github.com/microsoft/eslint-plugin-fluentui-jsx-a11y) | ESLint rules for accessibility against FluentUI v9 components. | JavaScript | 22 | MIT License | 2023-02-03 | 2024-07-19 |
-| [devhome](https://github.com/microsoft/devhome) | The new Dev Home experience for Windows! | C# | 3489 | MIT License | 2023-02-03 | 2024-07-20 |
+| [devhome](https://github.com/microsoft/devhome) | The new Dev Home experience for Windows! | C# | 3495 | MIT License | 2023-02-03 | 2024-07-22 |
 | [MTC_IL_WORKSHOP_DevBox_DeploymentEnvironments](https://github.com/microsoft/MTC_IL_WORKSHOP_DevBox_DeploymentEnvironments) | None | None | 13 | - | 2023-02-05 | 2024-01-30 |
 | [kiota-serialization-form-php](https://github.com/microsoft/kiota-serialization-form-php) | Kiota form serialization implementation for PHP | PHP | 2 | MIT License | 2023-02-06 | 2024-07-10 |
 | [kiota-serialization-form-python](https://github.com/microsoft/kiota-serialization-form-python) | Kiota Form encoded serialization implementation for Python | Python | 7 | MIT License | 2023-02-06 | 2024-07-05 |
-| [teams-ai](https://github.com/microsoft/teams-ai) | SDK focused on building AI based applications and extensions for Microsoft Teams and other Bot Framework channels | C# | 360 | MIT License | 2023-02-06 | 2024-07-20 |
+| [teams-ai](https://github.com/microsoft/teams-ai) | SDK focused on building AI based applications and extensions for Microsoft Teams and other Bot Framework channels | C# | 361 | MIT License | 2023-02-06 | 2024-07-21 |
 | [aiida-pyscf](https://github.com/microsoft/aiida-pyscf) | AiiDA plugin for the Python-based Simulations of Chemistry Framework (PySCF) | Python | 18 | MIT License | 2023-02-07 | 2024-04-22 |
 | [mixed-reality-robot-arm-control-demo](https://github.com/microsoft/mixed-reality-robot-arm-control-demo) | None | C# | 20 | MIT License | 2023-02-07 | 2024-05-04 |
 | [aqafer](https://github.com/microsoft/aqafer) | A repo to make it easy to run AQAvit verification against different OpenJDK binaries (validation for Eclipse-Adoptium Marketplace for the OpenJDK). | None | 2 | - | 2023-02-07 | 2024-07-09 |
-| [PromptCraft-Robotics](https://github.com/microsoft/PromptCraft-Robotics) | Community for applying LLMs to robotics and a robot simulator with ChatGPT integration | Python | 1792 | MIT License | 2023-02-08 | 2024-07-20 |
+| [PromptCraft-Robotics](https://github.com/microsoft/PromptCraft-Robotics) | Community for applying LLMs to robotics and a robot simulator with ChatGPT integration | Python | 1791 | MIT License | 2023-02-08 | 2024-07-21 |
 | [gpt-MT](https://github.com/microsoft/gpt-MT) | None | Ruby | 83 | MIT License | 2023-02-08 | 2024-06-19 |
 | [cookiecutter-rust-actix-clean-architecture](https://github.com/microsoft/cookiecutter-rust-actix-clean-architecture) | Cookiecutter Rust Actix template for jumpstarting production-ready projects quickly.  | Rust | 139 | MIT License | 2023-02-08 | 2024-07-20 |
 | [cookiecutter-python-flask-clean-architecture](https://github.com/microsoft/cookiecutter-python-flask-clean-architecture) | Cookiecutter Python Flask template for jumpstarting production-ready projects quickly. | Python | 97 | MIT License | 2023-02-08 | 2024-07-21 |
@@ -13898,7 +13898,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [msrgamut](https://github.com/microsoft/msrgamut) | MSR Gamut: A Design Probe to Understand How Data Scientists Understand Machine Learning Models | TypeScript | 12 | MIT License | 2023-02-17 | 2024-07-16 |
 | [BabylonJS-React-Template](https://github.com/microsoft/BabylonJS-React-Template) | A template project for creating 3D real-time web apps using BabylonJS and React | JavaScript | 18 | MIT License | 2023-02-20 | 2024-04-24 |
 | [renee](https://github.com/microsoft/renee) | Renee: End-to-end training of extreme classification models | Python | 20 | Other | 2023-02-22 | 2024-05-14 |
-| [OpenAIWorkshop](https://github.com/microsoft/OpenAIWorkshop) | workshop materials to build intelligent solutions on Open AI | Jupyter Notebook | 456 | MIT License | 2023-02-22 | 2024-07-17 |
+| [OpenAIWorkshop](https://github.com/microsoft/OpenAIWorkshop) | workshop materials to build intelligent solutions on Open AI | Jupyter Notebook | 457 | MIT License | 2023-02-22 | 2024-07-22 |
 | [smart](https://github.com/microsoft/smart) | Codebase for ICLR 2023 paper, "SMART: Self-supervised Multi-task pretrAining with contRol Transformers" | Python | 50 | Other | 2023-02-22 | 2024-06-06 |
 | [android-samples](https://github.com/microsoft/android-samples) | This repo contains samples that demonstrate how to use various Microsoft APIs in Android apps. | Kotlin | 4 | MIT License | 2023-02-22 | 2023-08-19 |
 | [dbt-fabric](https://github.com/microsoft/dbt-fabric) | None | Python | 65 | MIT License | 2023-02-23 | 2024-06-30 |
@@ -13909,14 +13909,14 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [ringmaster](https://github.com/microsoft/ringmaster) | Videoconferencing research platform | C++ | 55 | MIT License | 2023-02-26 | 2024-07-20 |
 | [HAMS-ALT](https://github.com/microsoft/HAMS-ALT) | Code for Automated License Testing from Microsoft Research, India | None | 3 | MIT License | 2023-02-27 | 2023-10-07 |
 | [azureml-inference-server](https://github.com/microsoft/azureml-inference-server) | The AzureML Inference Server is a python package that allows user to easily expose machine learning models as HTTP Endpoints. The server is included by default in AzureML's pre-built docker images for inference. | Python | 22 | MIT License | 2023-02-27 | 2024-06-28 |
-| [semantic-kernel](https://github.com/microsoft/semantic-kernel) | Integrate cutting-edge LLM technology quickly and easily into your apps | C# | 20748 | MIT License | 2023-02-27 | 2024-07-21 |
+| [semantic-kernel](https://github.com/microsoft/semantic-kernel) | Integrate cutting-edge LLM technology quickly and easily into your apps | C# | 20767 | MIT License | 2023-02-27 | 2024-07-22 |
 | [transparency-engine](https://github.com/microsoft/transparency-engine) | None | Python | 13 | MIT License | 2023-02-27 | 2024-07-03 |
 | [dataflow2text](https://github.com/microsoft/dataflow2text) | Code for "The Whole Truth and Nothing But the Truth: Faithful and Controllable Dialogue Response Generation with Dataflow Transduction and Constrained Decoding" (Findings of ACL 2023). | Python | 11 | MIT License | 2023-02-28 | 2024-04-30 |
 | [devicescript-gateway](https://github.com/microsoft/devicescript-gateway) | Cloud gateway for IoT devices running DeviceScript | TypeScript | 13 | MIT License | 2023-02-28 | 2023-06-14 |
 | [OpenAI-Hack-Group-5-Humanitarian](https://github.com/microsoft/OpenAI-Hack-Group-5-Humanitarian) | None | Jupyter Notebook | 13 | MIT License | 2023-02-28 | 2024-03-04 |
 | [cliffordlayers](https://github.com/microsoft/cliffordlayers) | None | Python | 137 | MIT License | 2023-02-28 | 2024-06-28 |
 | [rust_fallible_vec](https://github.com/microsoft/rust_fallible_vec) | Fallible allocation support for Rust's Vec | Rust | 25 | MIT License | 2023-03-02 | 2024-06-01 |
-| [node-api-dotnet](https://github.com/microsoft/node-api-dotnet) | Advanced interoperability between .NET and JavaScript in the same process. | C# | 439 | MIT License | 2023-03-02 | 2024-07-18 |
+| [node-api-dotnet](https://github.com/microsoft/node-api-dotnet) | Advanced interoperability between .NET and JavaScript in the same process. | C# | 440 | MIT License | 2023-03-02 | 2024-07-21 |
 | [clarity-apps](https://github.com/microsoft/clarity-apps) | Repo for distributing Clarity Apps packages | Swift | 37 | MIT License | 2023-03-02 | 2024-07-08 |
 | [greenlands](https://github.com/microsoft/greenlands) | Platform to run interactive Reinforcement Learning agents in a Minecraft Server | Python | 46 | MIT License | 2023-03-02 | 2024-07-19 |
 | [Cognitive_Service_Utilities](https://github.com/microsoft/Cognitive_Service_Utilities) | Tools and Pipelines for running cogntive services and associated utiltiities  | C# | 5 | MIT License | 2023-03-02 | 2023-10-06 |
@@ -13937,7 +13937,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [zeromq-prebuilt](https://github.com/microsoft/zeromq-prebuilt) | Builds zeromq.js on Azure Pipelines for multiple platforms and makes the binaries available as Github releases | JavaScript | 1 | MIT License | 2023-03-08 | 2024-06-06 |
 | [dataloader-benchmark](https://github.com/microsoft/dataloader-benchmark) | None | Python | 6 | MIT License | 2023-03-09 | 2024-04-30 |
 | [crea-un-dataset](https://github.com/microsoft/crea-un-dataset) | Aprende como crear un dataset desde cero usando Python | Python | 11 | MIT License | 2023-03-09 | 2023-03-16 |
-| [lida](https://github.com/microsoft/lida) | Automatic Generation of Visualizations and Infographics using Large Language Models | Jupyter Notebook | 2606 | MIT License | 2023-03-09 | 2024-07-21 |
+| [lida](https://github.com/microsoft/lida) | Automatic Generation of Visualizations and Infographics using Large Language Models | Jupyter Notebook | 2611 | MIT License | 2023-03-09 | 2024-07-22 |
 | [SimpleRacerResearchPlatform](https://github.com/microsoft/SimpleRacerResearchPlatform) | A simple web racing game demo using imitation learning models. | Jupyter Notebook | 3 | MIT License | 2023-03-09 | 2024-06-12 |
 | [vscode-zeromq](https://github.com/microsoft/vscode-zeromq) | For consuming the zeromq binary from microsoft/zeromq-prebuilt in a Node project | JavaScript | 3 | MIT License | 2023-03-09 | 2023-03-28 |
 | [HAMS](https://github.com/microsoft/HAMS) | Code for Automated License Testing from the HAMS group @ Microsoft Research, India | Python | 7 | MIT License | 2023-03-13 | 2023-11-15 |
@@ -13947,10 +13947,10 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [AdaptiveCards-Mobile](https://github.com/microsoft/AdaptiveCards-Mobile) | None | C++ | 8 | MIT License | 2023-03-14 | 2024-07-18 |
 | [asrr_tools](https://github.com/microsoft/asrr_tools) | None | None | 8 | MIT License | 2023-03-14 | 2023-05-30 |
 | [microsoft-partner-center-github-action](https://github.com/microsoft/microsoft-partner-center-github-action) | GitHub action to update the artifact of a plan within the Azure partner center offer. | Shell | 19 | MIT License | 2023-03-15 | 2024-06-03 |
-| [MM-REACT](https://github.com/microsoft/MM-REACT) | Official repo for MM-REACT | Python | 916 | MIT License | 2023-03-15 | 2024-07-20 |
+| [MM-REACT](https://github.com/microsoft/MM-REACT) | Official repo for MM-REACT | Python | 918 | MIT License | 2023-03-15 | 2024-07-22 |
 | [preme](https://github.com/microsoft/preme) | The dataset for the paper https://arxiv.org/abs/2205.02370 | None | 8 | MIT License | 2023-03-15 | 2023-04-30 |
 | [iglu-datasets](https://github.com/microsoft/iglu-datasets) | None | Python | 36 | MIT License | 2023-03-15 | 2024-07-15 |
-| [vscode-python-debugger](https://github.com/microsoft/vscode-python-debugger) | Python debugger (debugpy) extension for VS Code. | TypeScript | 45 | MIT License | 2023-03-16 | 2024-07-20 |
+| [vscode-python-debugger](https://github.com/microsoft/vscode-python-debugger) | Python debugger (debugpy) extension for VS Code. | TypeScript | 47 | MIT License | 2023-03-16 | 2024-07-22 |
 | [vscode-mypy](https://github.com/microsoft/vscode-mypy) | Linting support for Python using the mypy linter. | Python | 99 | MIT License | 2023-03-16 | 2024-07-03 |
 | [gps-china-democenter](https://github.com/microsoft/gps-china-democenter) | Show Azure Openai demos for partners | None | 23 | - | 2023-03-17 | 2023-11-29 |
 | [EmbeddedTeamsChat](https://github.com/microsoft/EmbeddedTeamsChat) | Third-party websites can use this solution to embed Microsoft Teams chats into their webpages | TypeScript | 22 | MIT License | 2023-03-17 | 2024-06-18 |
@@ -13974,7 +13974,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [kiota-serialization-multipart-dotnet](https://github.com/microsoft/kiota-serialization-multipart-dotnet) | Kiota serialization provider implementation for multipart/form-data | C# | 2 | MIT License | 2023-03-29 | 2024-07-09 |
 | [kiota-serialization-multipart-go](https://github.com/microsoft/kiota-serialization-multipart-go) | Kiota serialization provider implementation for Go and multipart form | Go | 4 | MIT License | 2023-03-29 | 2024-07-10 |
 | [partner-center-sdk-for-dotNET](https://github.com/microsoft/partner-center-sdk-for-dotNET) | The Partner Center SDK is a set of tools and resources provided by Microsoft for developers to integrate their applications with the Partner Center API using .NET framework as of May 2023. The Partner Center is a platform that allows Microsoft partners to manage their accounts, customers, and orders for various Microsoft products and services. | C# | 7 | MIT License | 2023-03-29 | 2024-04-19 |
-| [JARVIS](https://github.com/microsoft/JARVIS) | JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf | Python | 23392 | MIT License | 2023-03-30 | 2024-07-21 |
+| [JARVIS](https://github.com/microsoft/JARVIS) | JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf | Python | 23398 | MIT License | 2023-03-30 | 2024-07-22 |
 | [devicescript-stm32](https://github.com/microsoft/devicescript-stm32) | None | C | 4 | MIT License | 2023-03-30 | 2024-06-28 |
 | [devcenter-catalog](https://github.com/microsoft/devcenter-catalog) | None | PowerShell | 19 | MIT License | 2023-03-31 | 2024-07-19 |
 | [global-resource-leaks-codeql](https://github.com/microsoft/global-resource-leaks-codeql) | Global analysis of C# for resource leaks, using CodeQL | CodeQL | 7 | MIT License | 2023-03-31 | 2024-05-21 |
@@ -13990,7 +13990,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [azure-health-AI-services-samples](https://github.com/microsoft/azure-health-AI-services-samples) | This repository contains different samples applications and sample code to help you get started with the different Health-AI services. Based on these you will learn how to use our products, and accelerate your implementations. | None | 42 | MIT License | 2023-04-06 | 2024-06-28 |
 | [PowerApps-Sample-Apps-Japan](https://github.com/microsoft/PowerApps-Sample-Apps-Japan) | This is a repository for sample apps built with Power Apps in Japanese.  | None | 20 | MIT License | 2023-04-06 | 2024-07-19 |
 | [PowerPlatform-Catalog](https://github.com/microsoft/PowerPlatform-Catalog) | Power Platform Catalog Issues and Feedback | None | 9 | MIT License | 2023-04-06 | 2024-06-18 |
-| [sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatGPT) | Sample code for a simple web chat experience through Azure OpenAI, including Azure OpenAI On Your Data. | Python | 1466 | MIT License | 2023-04-06 | 2024-07-20 |
+| [sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatGPT) | Sample code for a simple web chat experience through Azure OpenAI, including Azure OpenAI On Your Data. | Python | 1468 | MIT License | 2023-04-06 | 2024-07-22 |
 | [ETW](https://github.com/microsoft/ETW) | Event Tracing for Windows tools and samples | C++ | 14 | MIT License | 2023-04-06 | 2024-06-25 |
 | [elfcore](https://github.com/microsoft/elfcore) | A Rust crate for creating memory dumps of running processes on Linux | Rust | 45 | MIT License | 2023-04-07 | 2024-05-29 |
 | [jumpstart-agora-apps](https://github.com/microsoft/jumpstart-agora-apps) | A repository for hosting Jumpstart Agora industry sample applications | Python | 23 | MIT License | 2023-04-07 | 2024-06-12 |
@@ -14000,12 +14000,12 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [ReCo](https://github.com/microsoft/ReCo) | ReCo: Region-Controlled Text-to-Image Generation, CVPR 2023 | Jupyter Notebook | 111 | MIT License | 2023-04-10 | 2024-07-08 |
 | [mlops-template-for-azureml-sdk-v2](https://github.com/microsoft/mlops-template-for-azureml-sdk-v2) | A template implementation for MLops using the Azure ML Python SDK version 2 | Python | 9 | MIT License | 2023-04-11 | 2024-01-23 |
 | [mlops-basic-template-for-azureml-cli-v2](https://github.com/microsoft/mlops-basic-template-for-azureml-cli-v2) | A template for implementing MLOps using the Azure ML CLI v2 | Python | 2 | MIT License | 2023-04-11 | 2023-10-13 |
-| [build-server-for-gradle](https://github.com/microsoft/build-server-for-gradle) | An implementation of the Build Server Protocol for Gradle | Java | 45 | MIT License | 2023-04-12 | 2024-07-18 |
+| [build-server-for-gradle](https://github.com/microsoft/build-server-for-gradle) | An implementation of the Build Server Protocol for Gradle | Java | 45 | MIT License | 2023-04-12 | 2024-07-22 |
 | [web-attestation-sample](https://github.com/microsoft/web-attestation-sample) | Sample application for user-centric web attestations | JavaScript | 3 | MIT License | 2023-04-12 | 2024-03-26 |
 | [dstoolkit-mlops-v2](https://github.com/microsoft/dstoolkit-mlops-v2) | This repository contains the basic repository structure for machine learning projects based on Azure technologies (Azure ML and Azure DevOps).  | Python | 13 | Other | 2023-04-12 | 2024-07-10 |
 | [Clandestino](https://github.com/microsoft/Clandestino) | Repository for the Clandestino corpus | None | 3 | MIT License | 2023-04-12 | 2024-02-14 |
 | [BrevE-CLaro](https://github.com/microsoft/BrevE-CLaro) | Repository for the BrevE and CLaro datasets. | None | 3 | Creative Commons Attribution 4.0 International | 2023-04-12 | 2023-09-21 |
-| [Swin3D](https://github.com/microsoft/Swin3D) | A shift-window based transformer for 3D sparse tasks | Cuda | 193 | MIT License | 2023-04-13 | 2024-07-16 |
+| [Swin3D](https://github.com/microsoft/Swin3D) | A shift-window based transformer for 3D sparse tasks | Cuda | 192 | MIT License | 2023-04-13 | 2024-07-22 |
 | [igvm-tooling](https://github.com/microsoft/igvm-tooling) | None | ASL | 8 | MIT License | 2023-04-13 | 2024-07-11 |
 | [didx509go](https://github.com/microsoft/didx509go) | DID:x509 resolver for Go | Go | 2 | MIT License | 2023-04-13 | 2024-01-27 |
 | [cosesign1go](https://github.com/microsoft/cosesign1go) | A Go library to handle COSE Sign1 documents | Go | 9 | MIT License | 2023-04-13 | 2024-01-27 |
@@ -14091,7 +14091,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [visionmetrics](https://github.com/microsoft/visionmetrics) | None | Python | 21 | MIT License | 2023-05-19 | 2024-07-20 |
 | [Pengi](https://github.com/microsoft/Pengi) | An Audio Language model for Audio Tasks | Python | 269 | MIT License | 2023-05-19 | 2024-07-18 |
 | [skype-bot-samples](https://github.com/microsoft/skype-bot-samples) | Skype Code Samples, including ChatGPT, GPT3.5, GPT-4 powered bots | HTML | 12 | MIT License | 2023-05-19 | 2024-06-27 |
-| [LLaVA-Med](https://github.com/microsoft/LLaVA-Med) | Large Language-and-Vision Assistant for Biomedicine, built towards multimodal GPT-4 level capabilities. | Python | 1327 | Other | 2023-05-20 | 2024-07-19 |
+| [LLaVA-Med](https://github.com/microsoft/LLaVA-Med) | Large Language-and-Vision Assistant for Biomedicine, built towards multimodal GPT-4 level capabilities. | Python | 1332 | Other | 2023-05-20 | 2024-07-22 |
 | [causaltransfer](https://github.com/microsoft/causaltransfer) | Repository containing code for Counterfactual Augmentation/Causal Transfer Learning. | Python | 4 | MIT License | 2023-05-21 | 2024-02-23 |
 | [lowcodeplugins](https://github.com/microsoft/lowcodeplugins) | Building your low-code hyperscale backend on Microsoft Dataverse | None | 13 | MIT License | 2023-05-22 | 2023-08-29 |
 | [woodgrove-auth-api](https://github.com/microsoft/woodgrove-auth-api) | Woodgrove groceries custom authentication extension REST API demo | C# | 21 | MIT License | 2023-05-23 | 2024-07-17 |
@@ -14131,7 +14131,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [BladeMonRT-Rust](https://github.com/microsoft/BladeMonRT-Rust) | Standalone service for asynchronous and real-time event stream processing. Supports input event streams from syslog, dbus, user-events and can produce processed stream to kafka or other stores. | None | 12 | MIT License | 2023-06-10 | 2023-07-16 |
 | [EPPC23-ALM](https://github.com/microsoft/EPPC23-ALM) | This repo is for the ALM Workshop at European Power Platform Conference 2023 in Dublin. | None | 23 | MIT License | 2023-06-12 | 2024-02-15 |
 | [MSVBASE](https://github.com/microsoft/MSVBASE) | MSVBASE is a system that efficiently supports complex queries of both approximate similarity search and relational operators. It integrates high-dimensional vector indices into PostgreSQL, a relational database to facilitate complex approximate similarity queries. | C++ | 66 | MIT License | 2023-06-13 | 2024-07-20 |
-| [promptbench](https://github.com/microsoft/promptbench) | A unified evaluation framework for large language models | Python | 2286 | MIT License | 2023-06-13 | 2024-07-20 |
+| [promptbench](https://github.com/microsoft/promptbench) | A unified evaluation framework for large language models | Python | 2287 | MIT License | 2023-06-13 | 2024-07-21 |
 | [Power-Platform-For-Beginners](https://github.com/microsoft/Power-Platform-For-Beginners) | Event-in-a-box to get started with Power Platform and AI Copilot (aka LowCode) | HTML | 74 | MIT License | 2023-06-13 | 2024-07-17 |
 | [usersim](https://github.com/microsoft/usersim) | None | C++ | 60 | MIT License | 2023-06-13 | 2024-06-30 |
 | [verified-storage](https://github.com/microsoft/verified-storage) | Storage systems with verified correctness properties | Rust | 25 | MIT License | 2023-06-13 | 2024-07-15 |
@@ -14139,10 +14139,10 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [AIandJS](https://github.com/microsoft/AIandJS) | None | None | 8 | MIT License | 2023-06-15 | 2023-11-21 |
 | [ADLaM-Display](https://github.com/microsoft/ADLaM-Display) | A display font for the ADLaM script, which is an indigenous writing system for some West African languages. | Makefile | 6 | SIL Open Font License 1.1 | 2023-06-15 | 2024-05-21 |
 | [AzureDataRetrievalAugmentedGenerationSamples](https://github.com/microsoft/AzureDataRetrievalAugmentedGenerationSamples) | Samples to demonstrate pathways for Retrieval Augmented Generation (RAG) for Azure Data  | Jupyter Notebook | 104 | MIT License | 2023-06-15 | 2024-07-16 |
-| [rusty-radamsa](https://github.com/microsoft/rusty-radamsa) | Radamsa fuzzer ported to rust lang | Rust | 136 | MIT License | 2023-06-15 | 2024-07-20 |
+| [rusty-radamsa](https://github.com/microsoft/rusty-radamsa) | Radamsa fuzzer ported to rust lang | Rust | 137 | MIT License | 2023-06-15 | 2024-07-21 |
 | [Microsoft-Q-A-MSQA-](https://github.com/microsoft/Microsoft-Q-A-MSQA-) | None | Python | 21 | MIT License | 2023-06-16 | 2024-07-15 |
-| [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/ | Jupyter Notebook | 57059 | MIT License | 2023-06-19 | 2024-07-21 |
-| [TypeChat](https://github.com/microsoft/TypeChat) | TypeChat is a library that makes it easy to build natural language interfaces using types. | TypeScript | 8072 | MIT License | 2023-06-20 | 2024-07-20 |
+| [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/ | Jupyter Notebook | 57163 | MIT License | 2023-06-19 | 2024-07-22 |
+| [TypeChat](https://github.com/microsoft/TypeChat) | TypeChat is a library that makes it easy to build natural language interfaces using types. | TypeScript | 8073 | MIT License | 2023-06-20 | 2024-07-22 |
 | [powerplatform-acceleration](https://github.com/microsoft/powerplatform-acceleration) | Examples, samples and write ups to help educate and accelerate development and adoption of power platform including Canvas Apps, Model Apps and Dataverse, Power Automate, Connectors, etc. | None | 22 | MIT License | 2023-06-20 | 2024-06-10 |
 | [LinuxTracepoints-Rust](https://github.com/microsoft/LinuxTracepoints-Rust) | Rust libraries for Linux Tracepoints and user_events | Rust | 13 | MIT License | 2023-06-20 | 2024-06-26 |
 | [fabric-migration](https://github.com/microsoft/fabric-migration) | Scripts and tooling to migrate DW and Spark workloads to Fabric. | Jupyter Notebook | 19 | MIT License | 2023-06-20 | 2024-07-09 |
@@ -14156,10 +14156,10 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [vscode-essentials](https://github.com/microsoft/vscode-essentials) | A free comprehensive guide to explore the capabilities of Visual Studio Code | None | 12 | Creative Commons Attribution Share Alike 4.0 International | 2023-06-27 | 2024-07-18 |
 | [loop-invariant-gen-experiments](https://github.com/microsoft/loop-invariant-gen-experiments) | Loop invariant generation with LLMs | Python | 10 | MIT License | 2023-06-28 | 2024-07-05 |
 | [bcsamples-onboarding](https://github.com/microsoft/bcsamples-onboarding) | Sample app that showcase how to create a great welcome experience for Business Central customers | AL | 21 | MIT License | 2023-06-29 | 2024-07-06 |
-| [playwright-examples](https://github.com/microsoft/playwright-examples) | None | TypeScript | 40 | MIT License | 2023-06-29 | 2024-07-19 |
+| [playwright-examples](https://github.com/microsoft/playwright-examples) | None | TypeScript | 41 | MIT License | 2023-06-29 | 2024-07-21 |
 | [machnet](https://github.com/microsoft/machnet) | Machnet provides applications like databases and finance an easy way to access low-latency DPDK-based messaging on public cloud VMs. 750K RPS on Azure at 61 us P99.9. | C++ | 58 | MIT License | 2023-06-29 | 2024-07-09 |
 | [datascience-py-r](https://github.com/microsoft/datascience-py-r) | Devcontainer template repository for working on data science projects with Python and R. | None | 35 | MIT License | 2023-06-29 | 2024-07-09 |
-| [promptflow](https://github.com/microsoft/promptflow) | Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring. | Python | 8847 | MIT License | 2023-06-30 | 2024-07-21 |
+| [promptflow](https://github.com/microsoft/promptflow) | Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring. | Python | 8855 | MIT License | 2023-06-30 | 2024-07-22 |
 | [clinical_visit_note_summarization_corpus](https://github.com/microsoft/clinical_visit_note_summarization_corpus) | A corpus of textual data corresponding to synthetic clinical encounters, including each encounters’ dialogue transcript and clinical notes. | None | 23 | Other | 2023-07-01 | 2024-07-16 |
 | [bcsamples-bingmaps.appsource](https://github.com/microsoft/bcsamples-bingmaps.appsource) | Open Source AppSource App, which is an integration with Bing Maps inside Business Central. | AL | 6 | MIT License | 2023-07-01 | 2024-06-26 |
 | [aks-ingress-contour-cert-manager-lets-encrypt](https://github.com/microsoft/aks-ingress-contour-cert-manager-lets-encrypt) | A lab to setup Contour, Cert-Manager, and Let's Encrypt ingress on AKS | Shell | 8 | MIT License | 2023-07-02 | 2023-10-06 |
@@ -14167,7 +14167,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [WADA](https://github.com/microsoft/WADA) | None | Python | 7 | MIT License | 2023-07-04 | 2023-08-26 |
 | [nl-partner-landing-page](https://github.com/microsoft/nl-partner-landing-page) | None | CSS | 1 | MIT License | 2023-07-05 | 2024-02-19 |
 | [onnxruntime-swift-package-manager](https://github.com/microsoft/onnxruntime-swift-package-manager) | A light-weight repository for providing Swift Package Manager support for ONNX Runtime. | Objective-C++ | 26 | MIT License | 2023-07-05 | 2024-07-10 |
-| [LLMLingua](https://github.com/microsoft/LLMLingua) | To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss.  | Python | 4248 | MIT License | 2023-07-07 | 2024-07-21 |
+| [LLMLingua](https://github.com/microsoft/LLMLingua) | To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss.  | Python | 4251 | MIT License | 2023-07-07 | 2024-07-22 |
 | [cheriot-safe](https://github.com/microsoft/cheriot-safe) | Repo for CHERI development system | SystemVerilog | 8 | Apache License 2.0 | 2023-07-07 | 2024-07-19 |
 | [FedSolutions](https://github.com/microsoft/FedSolutions) | None | None | 4 | MIT License | 2023-07-07 | 2023-07-13 |
 | [Mixed-Reality-Remoting-Unity](https://github.com/microsoft/Mixed-Reality-Remoting-Unity) | A Unity plugin to preview Mixed Reality content directly on your HoloLens and Android phone in Play Mode, without building | C# | 17 | MIT License | 2023-07-09 | 2024-07-15 |
@@ -14176,12 +14176,12 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [azurechat](https://github.com/microsoft/azurechat) | 🤖 💼  Azure Chat Solution Accelerator powered by Azure Open AI Service | TypeScript | 1156 | MIT License | 2023-07-12 | 2024-07-20 |
 | [csc-standards](https://github.com/microsoft/csc-standards) | CSCP Team Standards | None | 4 | Other | 2023-07-12 | 2024-04-11 |
 | [xpoc-framework](https://github.com/microsoft/xpoc-framework) | Cross-Platform Origin of Content framework | TypeScript | 16 | MIT License | 2023-07-13 | 2024-05-17 |
-| [security-utilities](https://github.com/microsoft/security-utilities) | Security utilities for key generation, string redaction, etc. | C# | 21 | MIT License | 2023-07-13 | 2024-07-19 |
+| [security-utilities](https://github.com/microsoft/security-utilities) | Security utilities for key generation, string redaction, etc. | C# | 21 | MIT License | 2023-07-13 | 2024-07-21 |
 | [semantic-link-functions](https://github.com/microsoft/semantic-link-functions) | Semantic Functions for Semantic Link | Python | 9 | MIT License | 2023-07-13 | 2024-05-10 |
 | [kernel-memory](https://github.com/microsoft/kernel-memory) | RAG architecture: index and query any data using LLM and natural language, track sources, show citations, asynchronous memory patterns. | C# | 1400 | MIT License | 2023-07-13 | 2024-07-21 |
 | [cloudsqlworkshop](https://github.com/microsoft/cloudsqlworkshop) | The Cloud Workshop for the SQL DBA | TSQL | 22 | MIT License | 2023-07-14 | 2024-06-19 |
 | [confidential-sidecar-containers](https://github.com/microsoft/confidential-sidecar-containers) | This is a collection of sidecar containers that can be incorporated within confidential container groups on Azure Container Instances. | Go | 24 | Other | 2023-07-17 | 2024-07-17 |
-| [chat-copilot](https://github.com/microsoft/chat-copilot) | None | TypeScript | 1939 | MIT License | 2023-07-17 | 2024-07-18 |
+| [chat-copilot](https://github.com/microsoft/chat-copilot) | None | TypeScript | 1943 | MIT License | 2023-07-17 | 2024-07-22 |
 | [Llama-2-Onnx](https://github.com/microsoft/Llama-2-Onnx) | None | Python | 1001 | Other | 2023-07-17 | 2024-07-20 |
 | [azure-streamlit-chatbot](https://github.com/microsoft/azure-streamlit-chatbot) | Example for Deploying Chatbot using Streamlit and Azure Web App | Python | 36 | MIT License | 2023-07-18 | 2024-06-27 |
 | [Mesh-Toolkit-Unity](https://github.com/microsoft/Mesh-Toolkit-Unity) | None | ShaderLab | 59 | MIT License | 2023-07-18 | 2024-07-12 |
@@ -14192,7 +14192,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [typechat.net](https://github.com/microsoft/typechat.net) | None | C# | 172 | MIT License | 2023-07-20 | 2024-07-09 |
 | [CoDe16](https://github.com/microsoft/CoDe16) | Microsoft’s cyber physical system researchers recently identified multiple high-severity vulnerabilities in the CODESYS V3 software development kit (SDK) | Python | 44 | MIT License | 2023-07-24 | 2024-07-09 |
 | [Microsoft_Uzma](https://github.com/microsoft/Microsoft_Uzma) | Uzma's contribution repo | None | 0 | MIT License | 2023-07-25 | 2023-07-30 |
-| [prompts-for-edu](https://github.com/microsoft/prompts-for-edu) | None | None | 1500 | MIT License | 2023-07-25 | 2024-07-20 |
+| [prompts-for-edu](https://github.com/microsoft/prompts-for-edu) | None | None | 1503 | MIT License | 2023-07-25 | 2024-07-21 |
 | [AzureStackWANSimulator](https://github.com/microsoft/AzureStackWANSimulator) | WAN Simulator for Azure Stack Testing | PowerShell | 1 | MIT License | 2023-07-26 | 2023-10-30 |
 | [Hacksaw](https://github.com/microsoft/Hacksaw) | Hardware-centric Linux kernel debloater | Python | 8 | MIT License | 2023-07-26 | 2024-07-03 |
 | [NeMoEval](https://github.com/microsoft/NeMoEval) | A Benchmark Tool for Natural Language-based Network Management | Python | 20 | MIT License | 2023-07-26 | 2024-06-11 |
@@ -14200,7 +14200,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [hands-on-lab-code-to-cloud](https://github.com/microsoft/hands-on-lab-code-to-cloud) | Hands On Lab | Bicep | 6 | MIT License | 2023-07-28 | 2024-06-11 |
 | [woodgrove-bank](https://github.com/microsoft/woodgrove-bank) | Woodgrove bank demo web application | HTML | 10 | MIT License | 2023-07-28 | 2024-05-28 |
 | [cpp-samples](https://github.com/microsoft/cpp-samples) | Samples demonstrating features of the MSVC compiler and related tools. | None | 4 | MIT License | 2023-07-28 | 2023-08-08 |
-| [OptiGuide](https://github.com/microsoft/OptiGuide) | Large Language Models for Supply Chain Optimization | Jupyter Notebook | 273 | MIT License | 2023-07-31 | 2024-07-20 |
+| [OptiGuide](https://github.com/microsoft/OptiGuide) | Large Language Models for Supply Chain Optimization | Jupyter Notebook | 275 | MIT License | 2023-07-31 | 2024-07-21 |
 | [cloud-advocate-workshops](https://github.com/microsoft/cloud-advocate-workshops) | Workshops created by the Cloud Advocacy team at Microsoft. | HTML | 31 | MIT License | 2023-08-01 | 2024-05-19 |
 | [CosmicBeats-Simulator](https://github.com/microsoft/CosmicBeats-Simulator) | A space simulation platform that caters to individuals with diverse research interests, including networking, AI, computing, and more. Unlike traditional simulators tied to specific research applications, our design allows for seamless integration of various space-related research verticals. | Python | 22 | MIT License | 2023-08-02 | 2024-06-26 |
 | [Nclusion.jl](https://github.com/microsoft/Nclusion.jl) | Scalable nonparametric clustering with unified marker gene selection for single-cell RNA-seq data | Julia | 17 | MIT License | 2023-08-02 | 2024-06-28 |
@@ -14212,11 +14212,11 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [openjdk-jdk21u](https://github.com/microsoft/openjdk-jdk21u) | Read-only mirror of openjdk/jdk21u | Java | 10 | GNU General Public License v2.0 | 2023-08-04 | 2024-07-16 |
 | [chain-reaction](https://github.com/microsoft/chain-reaction) | Python based LLM experimentation tool without code integration of your function(s) for the chain | Python | 21 | MIT License | 2023-08-04 | 2024-05-02 |
 | [Precio](https://github.com/microsoft/Precio) | Precio is a Rust library that implements the Precio protocol for computing private layered histograms and sums. | Rust | 15 | MIT License | 2023-08-05 | 2024-05-20 |
-| [playwright-testing-service](https://github.com/microsoft/playwright-testing-service) | None | None | 72 | MIT License | 2023-08-05 | 2024-07-20 |
+| [playwright-testing-service](https://github.com/microsoft/playwright-testing-service) | None | None | 73 | MIT License | 2023-08-05 | 2024-07-21 |
 | [open-pr](https://github.com/microsoft/open-pr) | Open Pull Request | HTML | 9 | MIT License | 2023-08-05 | 2024-04-11 |
 | [PMSat](https://github.com/microsoft/PMSat) | optimizing passive metasurface for LEO | Python | 0 | MIT License | 2023-08-07 | 2024-01-12 |
 | [BatteryML](https://github.com/microsoft/BatteryML) | None | Jupyter Notebook | 457 | MIT License | 2023-08-07 | 2024-07-21 |
-| [A-CLIP](https://github.com/microsoft/A-CLIP) | Official Implementation of Attentive Mask CLIP (ICCV2023, https://arxiv.org/abs/2212.08653) | Python | 15 | MIT License | 2023-08-07 | 2024-06-23 |
+| [A-CLIP](https://github.com/microsoft/A-CLIP) | Official Implementation of Attentive Mask CLIP (ICCV2023, https://arxiv.org/abs/2212.08653) | Python | 16 | MIT License | 2023-08-07 | 2024-07-22 |
 | [DeepSpeed-Kernels](https://github.com/microsoft/DeepSpeed-Kernels) | None | C++ | 45 | Apache License 2.0 | 2023-08-07 | 2024-06-26 |
 | [Accessible-Connect](https://github.com/microsoft/Accessible-Connect) | Accessible videoconferencing platform focusing on DHH (Deaf and Hard of Hearing). | TypeScript | 0 | MIT License | 2023-08-08 | 2023-09-26 |
 | [project-oagents](https://github.com/microsoft/project-oagents) | Experimental AI Agents Framework | C# | 217 | Creative Commons Attribution 4.0 International | 2023-08-08 | 2024-07-18 |
@@ -14240,13 +14240,13 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [genaiscript](https://github.com/microsoft/genaiscript) | Generative AI Scripting | TypeScript | 93 | MIT License | 2023-08-17 | 2024-07-19 |
 | [dstoolkit-brainstormer](https://github.com/microsoft/dstoolkit-brainstormer) | Brainstormer is based on OpenAI models to bridge the gap between client-specific business challenges and tangible use cases. Designed with data scientists and sales teams in mind, it functions as a cognitive assistant during the brainstorming process. | HTML | 10 | MIT License | 2023-08-18 | 2024-04-28 |
 | [data-factory-testing-framework](https://github.com/microsoft/data-factory-testing-framework) | A stand-alone test framework that allows to write unit tests for Data Factory pipelines on Microsoft Fabric and Azure Data Factory. | Python | 68 | MIT License | 2023-08-18 | 2024-07-16 |
-| [autogen](https://github.com/microsoft/autogen) | A programming framework for agentic AI. Discord: https://aka.ms/autogen-dc. Roadmap: https://aka.ms/autogen-roadmap | Jupyter Notebook | 28609 | Creative Commons Attribution 4.0 International | 2023-08-18 | 2024-07-21 |
+| [autogen](https://github.com/microsoft/autogen) | A programming framework for agentic AI. Discord: https://aka.ms/autogen-dc. Roadmap: https://aka.ms/autogen-roadmap | Jupyter Notebook | 28640 | Creative Commons Attribution 4.0 International | 2023-08-18 | 2024-07-22 |
 | [simulated-trial-and-error](https://github.com/microsoft/simulated-trial-and-error) | None | Python | 107 | MIT License | 2023-08-18 | 2024-07-19 |
 | [fadtk](https://github.com/microsoft/fadtk) | A simple library for Fréchet Audio Distance (FAD) calculation | Python | 120 | MIT License | 2023-08-18 | 2024-07-15 |
 | [SharePoint-Embedded-VS-Code-Extension](https://github.com/microsoft/SharePoint-Embedded-VS-Code-Extension) | SharePoint Embedded for Visual Studio Code | TypeScript | 14 | MIT License | 2023-08-19 | 2024-07-03 |
 | [range_map_vec](https://github.com/microsoft/range_map_vec) | A Rust crate that implements a range map data structure backed by a Vec.  | Rust | 10 | MIT License | 2023-08-21 | 2024-05-23 |
 | [vscode-python-ds-extension-pack](https://github.com/microsoft/vscode-python-ds-extension-pack) | A VS Code extension pack for Python data scientists. | None | 0 | MIT License | 2023-08-21 | 2024-07-03 |
-| [garnet](https://github.com/microsoft/garnet) | Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients. | C# | 9815 | MIT License | 2023-08-21 | 2024-07-21 |
+| [garnet](https://github.com/microsoft/garnet) | Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients. | C# | 9818 | MIT License | 2023-08-21 | 2024-07-22 |
 | [Inventory-Visibility-Add-in-Examples](https://github.com/microsoft/Inventory-Visibility-Add-in-Examples) | Sample code for Dynamics 365 Supply Chain Management - Inventory Visibility Add-in | TypeScript | 7 | MIT License | 2023-08-22 | 2024-07-12 |
 | [zkbc](https://github.com/microsoft/zkbc) | Early prototype of zero-knowledge verifiable ML benchmarks | Python | 9 | MIT License | 2023-08-22 | 2024-05-17 |
 | [pldm-fw-pkgr](https://github.com/microsoft/pldm-fw-pkgr) | This tool provides means to unpack a PLDM bundle image into the respective component image (bin) files and the PLDM header file and pack the same back, optionally with errors injected.  | Python | 3 | MIT License | 2023-08-23 | 2023-11-28 |
@@ -14261,22 +14261,22 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [vscode-azurearcenabledmachines](https://github.com/microsoft/vscode-azurearcenabledmachines) | Azure Arc-enabled machines for Visual Studio Code | TypeScript | 3 | MIT License | 2023-08-29 | 2024-06-20 |
 | [competeai](https://github.com/microsoft/competeai) | A framework for society simulation that supports complex simulation, for example: multi-scene. It is based on ChatArena. | Python | 16 | MIT License | 2023-08-30 | 2024-07-18 |
 | [vscode-diagnostic-tools](https://github.com/microsoft/vscode-diagnostic-tools) | A collection of tools designed to aid in diagnosing issues in VS Code | TypeScript | 2 | MIT License | 2023-08-30 | 2024-07-16 |
-| [synapse-spark-runtime](https://github.com/microsoft/synapse-spark-runtime) | Release notes for Apache Spark based Runtime for Azure Synapse Analytics and Microsoft Fabric | None | 7 | MIT License | 2023-08-31 | 2024-07-11 |
+| [synapse-spark-runtime](https://github.com/microsoft/synapse-spark-runtime) | Release notes for Apache Spark based Runtime for Azure Synapse Analytics and Microsoft Fabric | None | 8 | MIT License | 2023-08-31 | 2024-07-22 |
 | [dynamic-prober](https://github.com/microsoft/dynamic-prober) | The goal of this project was to develop a chat-bot based data collection tool. It asks users questions through a validated alignment survey. | Python | 9 | MIT License | 2023-09-01 | 2024-04-22 |
 | [microxcaling](https://github.com/microsoft/microxcaling) | PyTorch emulation library for Microscaling (MX)-compatible data formats | Python | 131 | MIT License | 2023-09-05 | 2024-07-14 |
 | [Global-Inventory-Accounting-Add-in-Templates](https://github.com/microsoft/Global-Inventory-Accounting-Add-in-Templates) | None | None | 0 | MIT License | 2023-09-06 | 2024-04-22 |
 | [woodgrove-music](https://github.com/microsoft/woodgrove-music) | Fictional sample Android application that uses native authentication. | Kotlin | 1 | MIT License | 2023-09-06 | 2024-06-18 |
 | [mu_rust_hid](https://github.com/microsoft/mu_rust_hid) | A Rust crate for parsing HID Report Descriptors. | Rust | 28 | Other | 2023-09-06 | 2024-06-29 |
-| [RecAI](https://github.com/microsoft/RecAI) | Bridging LLM and Recommender System. | Jupyter Notebook | 461 | MIT License | 2023-09-07 | 2024-07-18 |
+| [RecAI](https://github.com/microsoft/RecAI) | Bridging LLM and Recommender System. | Jupyter Notebook | 462 | MIT License | 2023-09-07 | 2024-07-22 |
 | [CQD-BM-to-eCDN-subnet-mapping](https://github.com/microsoft/CQD-BM-to-eCDN-subnet-mapping) | Script that will convert Microsoft CQD building mapping to a Microsoft eCDN management console supported subnet mapping format. | PowerShell | 0 | MIT License | 2023-09-07 | 2023-09-07 |
 | [RTP-LX](https://github.com/microsoft/RTP-LX) | Repository for the paper "RTP-LX: Can LLMs Evaluate Toxicity in Multilingual Scenarios?" | None | 10 | Other | 2023-09-07 | 2024-06-24 |
 | [kiota-serialization-cbor-dotnet](https://github.com/microsoft/kiota-serialization-cbor-dotnet) | CBOR Serializers for Kiota generated API clients | C# | 1 | MIT License | 2023-09-11 | 2024-07-19 |
-| [TaskWeaver](https://github.com/microsoft/TaskWeaver) | A code-first agent framework for seamlessly planning and executing data analytics tasks.  | Python | 5045 | MIT License | 2023-09-11 | 2024-07-20 |
+| [TaskWeaver](https://github.com/microsoft/TaskWeaver) | A code-first agent framework for seamlessly planning and executing data analytics tasks.  | Python | 5046 | MIT License | 2023-09-11 | 2024-07-22 |
 | [vscode-jupyter-hub](https://github.com/microsoft/vscode-jupyter-hub) | Jupyter Hub Support in VS Code | TypeScript | 8 | MIT License | 2023-09-11 | 2024-06-27 |
 | [career-ai](https://github.com/microsoft/career-ai) | None | JavaScript | 3 | MIT License | 2023-09-11 | 2024-01-31 |
 | [bpf_performance](https://github.com/microsoft/bpf_performance) | A set of platform-agnostic tools to measure the performance of various BPF helper functions. | C++ | 15 | MIT License | 2023-09-12 | 2024-07-12 |
 | [setup-kiota](https://github.com/microsoft/setup-kiota) | Action that installs Kiota OpenAPI client generator so it can be used in your workflow | TypeScript | 5 | MIT License | 2023-09-12 | 2024-07-12 |
-| [AzureOpenAI-with-APIM](https://github.com/microsoft/AzureOpenAI-with-APIM) | Deploy APIM. Auto-configure it to work with your Azure Open AI. | Bicep | 60 | MIT License | 2023-09-12 | 2024-07-17 |
+| [AzureOpenAI-with-APIM](https://github.com/microsoft/AzureOpenAI-with-APIM) | Deploy APIM. Auto-configure it to work with your Azure Open AI. | Bicep | 63 | MIT License | 2023-09-12 | 2024-07-22 |
 | [rad](https://github.com/microsoft/rad) | Release Automation & Deployment | PowerShell | 4 | MIT License | 2023-09-12 | 2024-02-15 |
 | [PyAImOpt](https://github.com/microsoft/PyAImOpt) | MICROSOFT RESEARCH ANALOG ITERATIVE MACHINE (AIM) sample python scripts | HTML | 1 | Other | 2023-09-13 | 2023-11-28 |
 | [RP2040MacropadHidSample](https://github.com/microsoft/RP2040MacropadHidSample) | None | C | 24 | MIT License | 2023-09-13 | 2024-07-02 |
@@ -14291,8 +14291,8 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [dp-few-shot-generation](https://github.com/microsoft/dp-few-shot-generation) | None | Python | 21 | MIT License | 2023-09-15 | 2024-07-11 |
 | [giraffe-keypoint-detection](https://github.com/microsoft/giraffe-keypoint-detection) | A repository for automating keypoint identification in imagery of giraffes. | Python | 2 | MIT License | 2023-09-15 | 2023-09-22 |
 | [coresets-fair-diverse](https://github.com/microsoft/coresets-fair-diverse) | A repository for the paper Core-sets for Fair and Diverse Data Summarization, accepted for NeurIPS2023. | Python | 2 | MIT License | 2023-09-16 | 2023-11-06 |
-| [windows-drivers-rs](https://github.com/microsoft/windows-drivers-rs) | Platform that enables Windows driver development in Rust. Developed by Surface.  | Rust | 1420 | Apache License 2.0 | 2023-09-16 | 2024-07-21 |
-| [Windows-rust-driver-samples](https://github.com/microsoft/Windows-rust-driver-samples) | Rust port of the official Windows Driver Samples on Github. Leverages windows-drivers-rs | Rust | 213 | Apache License 2.0 | 2023-09-16 | 2024-07-09 |
+| [windows-drivers-rs](https://github.com/microsoft/windows-drivers-rs) | Platform that enables Windows driver development in Rust. Developed by Surface.  | Rust | 1425 | Apache License 2.0 | 2023-09-16 | 2024-07-22 |
+| [Windows-rust-driver-samples](https://github.com/microsoft/Windows-rust-driver-samples) | Rust port of the official Windows Driver Samples on Github. Leverages windows-drivers-rs | Rust | 215 | Apache License 2.0 | 2023-09-16 | 2024-07-22 |
 | [python-sample-vscode-fastapi-tutorial](https://github.com/microsoft/python-sample-vscode-fastapi-tutorial) | Sample code for the FastAPI tutorial in the VS Code documentation | Python | 37 | MIT License | 2023-09-17 | 2024-07-11 |
 | [patient-simulation-sample-powerapp](https://github.com/microsoft/patient-simulation-sample-powerapp) | Patient Simulation Power Apps using Azure OpenAI | None | 8 | MIT License | 2023-09-19 | 2024-05-02 |
 | [iris-copilot-innovations](https://github.com/microsoft/iris-copilot-innovations) | Iris Copilot Innovations | C# | 0 | MIT License | 2023-09-19 | 2024-04-22 |
@@ -14308,7 +14308,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [NuanceMixReactNativeDemo](https://github.com/microsoft/NuanceMixReactNativeDemo) | Sample react-native project to show usage of the react-native-nuance-mix NPM plugin | JavaScript | 0 | MIT License | 2023-09-22 | 2023-09-22 |
 | [triton-shared](https://github.com/microsoft/triton-shared) | Shared Middle-Layer for Triton Compilation | MLIR | 135 | MIT License | 2023-09-22 | 2024-07-19 |
 | [makecode-minecraft-music](https://github.com/microsoft/makecode-minecraft-music) | MakeCode for Minecraft Extension to play music and sounds in the game | TypeScript | 2 | MIT License | 2023-09-22 | 2023-10-12 |
-| [rag-experiment-accelerator](https://github.com/microsoft/rag-experiment-accelerator) | The RAG Experiment Accelerator is a versatile tool designed to expedite and facilitate the process of conducting experiments and evaluations using Azure Cognitive Search and RAG pattern.  | Python | 127 | Other | 2023-09-25 | 2024-07-19 |
+| [rag-experiment-accelerator](https://github.com/microsoft/rag-experiment-accelerator) | The RAG Experiment Accelerator is a versatile tool designed to expedite and facilitate the process of conducting experiments and evaluations using Azure Cognitive Search and RAG pattern.  | Python | 129 | Other | 2023-09-25 | 2024-07-22 |
 | [LLMR](https://github.com/microsoft/LLMR) | None | C# | 30 | MIT License | 2023-09-25 | 2024-07-17 |
 | [mechanistic-error-probe](https://github.com/microsoft/mechanistic-error-probe) | A mechanistic approach for understanding and detecting factual errors of large language models. | Jupyter Notebook | 39 | Other | 2023-09-26 | 2024-07-08 |
 | [StatisticsTool](https://github.com/microsoft/StatisticsTool) | None | Python | 2 | MIT License | 2023-09-26 | 2024-06-10 |
@@ -14318,7 +14318,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [makecode-minecraft-space](https://github.com/microsoft/makecode-minecraft-space) | A MakeCode for Minecraft Education extension that builds planets and the solar system | TypeScript | 0 | MIT License | 2023-09-26 | 2023-10-05 |
 | [MTC_GHCopilot_Hackathon](https://github.com/microsoft/MTC_GHCopilot_Hackathon) | None | None | 0 | MIT License | 2023-09-26 | 2024-04-22 |
 | [azure-openai-service-proxy](https://github.com/microsoft/azure-openai-service-proxy) | The Azure AI proxy service facilitates easy access to Azure AI resources for workshops and hackathons. It offers a Playground-like interface and supports Azure AI SDKs. Access is granted through a time-limited API key and endpoint. | Bicep | 51 | MIT License | 2023-09-27 | 2024-07-17 |
-| [ToRA](https://github.com/microsoft/ToRA) | ToRA is a series of Tool-integrated Reasoning LLM Agents designed to solve challenging mathematical reasoning problems by interacting with tools [ICLR'24]. | Python | 887 | MIT License | 2023-09-27 | 2024-07-20 |
+| [ToRA](https://github.com/microsoft/ToRA) | ToRA is a series of Tool-integrated Reasoning LLM Agents designed to solve challenging mathematical reasoning problems by interacting with tools [ICLR'24]. | Python | 888 | MIT License | 2023-09-27 | 2024-07-21 |
 | [ficus](https://github.com/microsoft/ficus) | None | TypeScript | 2 | MIT License | 2023-09-27 | 2024-07-11 |
 | [autothrottle](https://github.com/microsoft/autothrottle) | Codebase for Autothrottle (NSDI 2024) | Python | 27 | MIT License | 2023-09-27 | 2024-07-15 |
 | [java-semantic-kernel-demos](https://github.com/microsoft/java-semantic-kernel-demos) | None | Java | 7 | MIT License | 2023-09-29 | 2024-05-09 |
@@ -14336,7 +14336,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [csharp-cert-workshop](https://github.com/microsoft/csharp-cert-workshop) | this repository contains presentations that teaches you C# and prepares you to take the C# cert at freeCodeCamp | None | 1 | MIT License | 2023-10-06 | 2024-05-05 |
 | [ArxivFormula](https://github.com/microsoft/ArxivFormula) | This repo is used to release the ArxivFormula dataset. | Python | 19 | MIT License | 2023-10-07 | 2024-07-11 |
 | [preflate-rs](https://github.com/microsoft/preflate-rs) | Library to decompress DEFLATE compressed data and recreate it exactly bit-for-bit. Useful for transparently recompressing with a better algorithm. | Rust | 7 | Apache License 2.0 | 2023-10-07 | 2024-07-11 |
-| [inshellisense](https://github.com/microsoft/inshellisense) | IDE style command line auto complete | TypeScript | 8241 | MIT License | 2023-10-08 | 2024-07-20 |
+| [inshellisense](https://github.com/microsoft/inshellisense) | IDE style command line auto complete | TypeScript | 8243 | MIT License | 2023-10-08 | 2024-07-22 |
 | [Chat-with-your-Data-Examples](https://github.com/microsoft/Chat-with-your-Data-Examples) | None | None | 0 | MIT License | 2023-10-08 | 2024-04-22 |
 | [Evoke](https://github.com/microsoft/Evoke) | Everything for the Paper: 'Evoke: Evoking Critical Thinking Abilities in LLMs via Reviewer-Author Prompt Editing' | None | 12 | MIT License | 2023-10-09 | 2024-06-27 |
 | [lymphoma-segmentation-dnn](https://github.com/microsoft/lymphoma-segmentation-dnn) | None | Python | 7 | MIT License | 2023-10-09 | 2024-06-20 |
@@ -14352,7 +14352,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [vscode-extension-test-runner](https://github.com/microsoft/vscode-extension-test-runner) | Runs tests in the UI for VS Code extensions | TypeScript | 6 | MIT License | 2023-10-10 | 2024-07-11 |
 | [self-hosted-agent-container-job-demo](https://github.com/microsoft/self-hosted-agent-container-job-demo) | Demo of ADO pipeline self-hosted agent running as Azure Container Jobs | PowerShell | 6 | MIT License | 2023-10-10 | 2023-12-01 |
 | [HackathonTools](https://github.com/microsoft/HackathonTools) | This repository hosts various tools used to manage hackathon events. | HTML | 2 | MIT License | 2023-10-11 | 2023-10-13 |
-| [Data-and-AI-Strategy-Platform](https://github.com/microsoft/Data-and-AI-Strategy-Platform) | Open Source Public Repo of Microsoft Data & AI Strategy Platform | Jupyter Notebook | 7 | Other | 2023-10-11 | 2024-07-17 |
+| [Data-and-AI-Strategy-Platform](https://github.com/microsoft/Data-and-AI-Strategy-Platform) | Open Source Public Repo of Microsoft Data & AI Strategy Platform | Jupyter Notebook | 8 | Other | 2023-10-11 | 2024-07-21 |
 | [secure-software-supply-chain-on-aks](https://github.com/microsoft/secure-software-supply-chain-on-aks) | An example approach to securing containerized workloads within AKS using Notation. | Shell | 3 | MIT License | 2023-10-11 | 2024-06-21 |
 | [llmops-promptflow-template](https://github.com/microsoft/llmops-promptflow-template) | LLMOps with Prompt Flow is a "LLMOps template and guidance" to help you build LLM-infused apps using Prompt Flow. It offers a range of features including Centralized Code Hosting, Lifecycle Management, Variant and Hyperparameter Experimentation, A/B Deployment, reporting for all runs and experiments and so on. | Python | 212 | Other | 2023-10-12 | 2024-07-19 |
 | [logstash-output-msfabric](https://github.com/microsoft/logstash-output-msfabric) | To gain access, please finish setting up this repository now at:  | Ruby | 0 | Other | 2023-10-13 | 2024-04-09 |
@@ -14360,12 +14360,12 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [azure-dev-experience--azure-devbox](https://github.com/microsoft/azure-dev-experience--azure-devbox) | Azure Developer experience - using Azure DevBox as a primary environment for Azure development. | Python | 3 | MIT License | 2023-10-13 | 2024-04-14 |
 | [gandalf_vs_gandalf](https://github.com/microsoft/gandalf_vs_gandalf) | Turning Gandalf against itself. Use LLMs to automate playing Lakera Gandalf challenge without needing to set up an account with a platform provider. | Jupyter Notebook | 22 | MIT License | 2023-10-13 | 2024-07-16 |
 | [test-code-coverage-within-app-service-webjob](https://github.com/microsoft/test-code-coverage-within-app-service-webjob) | Test Code Coverage running within App Service WebJob | C# | 1 | MIT License | 2023-10-13 | 2024-01-19 |
-| [hack-together-dotnet](https://github.com/microsoft/hack-together-dotnet) | HackTogether: The Microsoft .NET 8 Global Hack | Register, Hack, Win | None | 294 | MIT License | 2023-10-13 | 2024-07-12 |
+| [hack-together-dotnet](https://github.com/microsoft/hack-together-dotnet) | HackTogether: The Microsoft .NET 8 Global Hack | Register, Hack, Win | None | 294 | MIT License | 2023-10-13 | 2024-07-22 |
 | [llm-data-creation](https://github.com/microsoft/llm-data-creation) | Model, Code & Data for the EMNLP'23 paper "Making Large Language Models Better Data Creators" | Python | 101 | MIT License | 2023-10-13 | 2024-07-20 |
 | [vs-dapr](https://github.com/microsoft/vs-dapr) | View, manage, and diagnose Dapr services within Visual Studio. | None | 20 | MIT License | 2023-10-13 | 2024-06-14 |
 | [AI-Developer-Plugin-for-Eclipse](https://github.com/microsoft/AI-Developer-Plugin-for-Eclipse) | AI Developer Plugin for Eclipse | None | 7 | MIT License | 2023-10-14 | 2024-06-28 |
 | [CodePlan](https://github.com/microsoft/CodePlan) | Data and evaluation scripts for "CodePlan: Repository-level Coding using LLMs and Planning", FSE 2024 | C# | 32 | MIT License | 2023-10-15 | 2024-07-19 |
-| [SoM](https://github.com/microsoft/SoM) | Set-of-Mark Prompting for LMMs | Python | 1044 | MIT License | 2023-10-16 | 2024-07-21 |
+| [SoM](https://github.com/microsoft/SoM) | Set-of-Mark Prompting for LMMs | Python | 1045 | MIT License | 2023-10-16 | 2024-07-22 |
 | [SimpleEgo](https://github.com/microsoft/SimpleEgo) | None | Python | 10 | Other | 2023-10-16 | 2024-05-23 |
 | [FabricRTA-in-a-Day](https://github.com/microsoft/FabricRTA-in-a-Day) | Fabric Real Time Analytics in a Day workshop | Jupyter Notebook | 33 | MIT License | 2023-10-16 | 2024-07-17 |
 | [EvoPrompt](https://github.com/microsoft/EvoPrompt) | Automatic Prompt Optimization | Python | 7 | MIT License | 2023-10-17 | 2024-07-18 |
@@ -14387,13 +14387,13 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [Multilingual-Evaluation-of-Generative-AI-MEGA](https://github.com/microsoft/Multilingual-Evaluation-of-Generative-AI-MEGA) | Code for Multilingual Eval of Generative AI paper published at EMNLP 2023 | Jupyter Notebook | 61 | MIT License | 2023-10-26 | 2024-06-28 |
 | [makecode-minecraft-mob-events](https://github.com/microsoft/makecode-minecraft-mob-events) | An extension for sending mobs commands with Microsoft MakeCode for Minecraft Education | TypeScript | 0 | MIT License | 2023-10-26 | 2023-10-26 |
 | [windows-ai-studio-templates](https://github.com/microsoft/windows-ai-studio-templates) | None | Python | 9 | MIT License | 2023-10-27 | 2024-06-02 |
-| [power-platform-terraform-quickstarts](https://github.com/microsoft/power-platform-terraform-quickstarts) | Examples for using the Power Platform Terraform Provider | HCL | 16 | MIT License | 2023-10-30 | 2024-07-19 |
+| [power-platform-terraform-quickstarts](https://github.com/microsoft/power-platform-terraform-quickstarts) | Examples for using the Power Platform Terraform Provider | HCL | 16 | MIT License | 2023-10-30 | 2024-07-22 |
 | [AzureSQLPromptFlowSamples](https://github.com/microsoft/AzureSQLPromptFlowSamples) | This is a repo hosting the Azure SQL Prompt Flow Demos | None | 0 | MIT License | 2023-10-30 | 2023-10-30 |
 | [devcenter-examples](https://github.com/microsoft/devcenter-examples) | Example templates and customization configurations for Dev Box and Azure Deployment Environments | PowerShell | 9 | MIT License | 2023-10-30 | 2024-07-16 |
 | [GoTFlow](https://github.com/microsoft/GoTFlow) | a workflow engine for Graph-of-Thought | Python | 67 | MIT License | 2023-10-31 | 2024-07-08 |
 | [bcsamples-CoffeeMR](https://github.com/microsoft/bcsamples-CoffeeMR) | [PREVIEW] Discover the future of industrial sales and planning with the Coffee MR Power App sample. This scenario leverages the mixed reality (MR) capabilities of Power Apps, integrated with Business Central's comprehensive data and business logic. | AL | 2 | MIT License | 2023-10-31 | 2024-06-20 |
-| [vidur](https://github.com/microsoft/vidur) | A large-scale simulation framework for LLM inference | Python | 143 | MIT License | 2023-11-02 | 2024-07-20 |
-| [sarathi-serve](https://github.com/microsoft/sarathi-serve) | A low-latency & high-throughput serving engine for LLMs | Python | 94 | Apache License 2.0 | 2023-11-02 | 2024-07-21 |
+| [vidur](https://github.com/microsoft/vidur) | A large-scale simulation framework for LLM inference | Python | 145 | MIT License | 2023-11-02 | 2024-07-22 |
+| [sarathi-serve](https://github.com/microsoft/sarathi-serve) | A low-latency & high-throughput serving engine for LLMs | Python | 97 | Apache License 2.0 | 2023-11-02 | 2024-07-22 |
 | [durabletask-js](https://github.com/microsoft/durabletask-js) | A Durable Task JavaScript SDK compatible with Dapr Workflow and its underlying Durable Task engine | JavaScript | 2 | MIT License | 2023-11-02 | 2024-06-05 |
 | [Hack-Together-Fabric-AI](https://github.com/microsoft/Hack-Together-Fabric-AI) | Hack Together: The Microsoft Fabric Global AI Hack | None | 88 | MIT License | 2023-11-02 | 2024-07-16 |
 | [wsl-plugin-sample](https://github.com/microsoft/wsl-plugin-sample) | This repository contains a sample implementation of the WSL plugin API | C++ | 19 | MIT License | 2023-11-02 | 2024-06-04 |
@@ -14413,12 +14413,12 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [ai-for-startups-lab](https://github.com/microsoft/ai-for-startups-lab) | Workshop for the BASES Challenge at Stanford | None | 4 | MIT License | 2023-11-08 | 2024-06-19 |
 | [DevHomeAzureExtension](https://github.com/microsoft/DevHomeAzureExtension) | Dev Home Azure Extension | C# | 70 | MIT License | 2023-11-08 | 2024-07-17 |
 | [docusaurus-plugin-application-insights](https://github.com/microsoft/docusaurus-plugin-application-insights) | A Docusaurus plugin to integrate Microsoft Application Insights | TypeScript | 2 | MIT License | 2023-11-08 | 2024-04-17 |
-| [fluentui-charting-contrib](https://github.com/microsoft/fluentui-charting-contrib) | Contributor tools and guides for fluentui charting library | TypeScript | 8 | MIT License | 2023-11-09 | 2024-06-19 |
+| [fluentui-charting-contrib](https://github.com/microsoft/fluentui-charting-contrib) | Contributor tools and guides for fluentui charting library | TypeScript | 9 | MIT License | 2023-11-09 | 2024-07-22 |
 | [contoso-support-pf-demo](https://github.com/microsoft/contoso-support-pf-demo) | Code for MS Ignite 2023 | Live Breakout Session | BRK203 | Python | 27 | MIT License | 2023-11-09 | 2024-06-20 |
 | [silicon-rans](https://github.com/microsoft/silicon-rans) | Reference Verilog implementation of a hardware rANS decoder | Verilog | 1 | MIT License | 2023-11-09 | 2024-04-11 |
 | [MTC_Microservice_ACA_Workshop](https://github.com/microsoft/MTC_Microservice_ACA_Workshop) | None | C# | 2 | MIT License | 2023-11-10 | 2024-06-19 |
 | [IxpTools-Bootstrap](https://github.com/microsoft/IxpTools-Bootstrap) | Contains the bootstrap install script for IxpTools | PowerShell | 0 | MIT License | 2023-11-11 | 2023-11-13 |
-| [vscode-azureapicenter](https://github.com/microsoft/vscode-azureapicenter) | None | TypeScript | 12 | MIT License | 2023-11-13 | 2024-07-18 |
+| [vscode-azureapicenter](https://github.com/microsoft/vscode-azureapicenter) | None | TypeScript | 12 | MIT License | 2023-11-13 | 2024-07-22 |
 | [win-net-test](https://github.com/microsoft/win-net-test) | Networking related test tools for Windows. Relevant for anyone who is interested in Windows networking. | C | 16 | MIT License | 2023-11-13 | 2024-07-12 |
 | [onnxruntime-genai](https://github.com/microsoft/onnxruntime-genai) | Generative AI extensions for onnxruntime | C++ | 340 | MIT License | 2023-11-13 | 2024-07-21 |
 | [Alympics](https://github.com/microsoft/Alympics) | None | Python | 36 | MIT License | 2023-11-14 | 2024-07-19 |
@@ -14433,7 +14433,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [TechExcel-Implementing-automation-practices-using-Azure-OpenAI](https://github.com/microsoft/TechExcel-Implementing-automation-practices-using-Azure-OpenAI) | None | Python | 25 | MIT License | 2023-11-20 | 2024-06-13 |
 | [dstoolkit-feature-engineering-on-fabric](https://github.com/microsoft/dstoolkit-feature-engineering-on-fabric) | E2E architecture and demo of implementing the feature engineering solution on Microsoft Fabric. | Jupyter Notebook | 4 | MIT License | 2023-11-21 | 2024-07-01 |
 | [Project-BayesDAG](https://github.com/microsoft/Project-BayesDAG) | None | Python | 5 | MIT License | 2023-11-21 | 2024-04-09 |
-| [NeuralInvariantRanker](https://github.com/microsoft/NeuralInvariantRanker) | Ranking LLM-Generated Loop Invariants for Program Verification. | Slash | 5 | MIT License | 2023-11-21 | 2024-06-25 |
+| [NeuralInvariantRanker](https://github.com/microsoft/NeuralInvariantRanker) | Ranking LLM-Generated Loop Invariants for Program Verification. | Slash | 6 | MIT License | 2023-11-21 | 2024-07-22 |
 | [InferredBugs](https://github.com/microsoft/InferredBugs) | InferredBugs: a metadata-rich dataset of bugs and fixes in Java and C# programming languages extracted with the Infer static analyzer | None | 10 | MIT License | 2023-11-22 | 2024-05-23 |
 | [kernel-memory-extension-example](https://github.com/microsoft/kernel-memory-extension-example) | Postgres adapter for Kernel Memory | C# | 14 | MIT License | 2023-11-22 | 2024-07-02 |
 | [InstructExcel](https://github.com/microsoft/InstructExcel) | None | Python | 2 | MIT License | 2023-11-22 | 2024-04-22 |
@@ -14464,10 +14464,10 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [vscode-ai-toolkit](https://github.com/microsoft/vscode-ai-toolkit) | None | None | 880 | MIT License | 2023-12-08 | 2024-07-17 |
 | [peft_proteomics](https://github.com/microsoft/peft_proteomics) | LoRA for protein language models | Jupyter Notebook | 20 | MIT License | 2023-12-11 | 2024-07-15 |
 | [sfs-client](https://github.com/microsoft/sfs-client) | Simple File Solution (SFS) Client | C++ | 12 | MIT License | 2023-12-11 | 2024-06-12 |
-| [promptbase](https://github.com/microsoft/promptbase) | All things prompt engineering | Python | 5259 | MIT License | 2023-12-12 | 2024-07-20 |
+| [promptbase](https://github.com/microsoft/promptbase) | All things prompt engineering | Python | 5261 | MIT License | 2023-12-12 | 2024-07-22 |
 | [azure-devops-ui-public](https://github.com/microsoft/azure-devops-ui-public) | None | None | 0 | MIT License | 2023-12-12 | 2023-12-12 |
 | [powerbi-visuals-utils-onobjectutils](https://github.com/microsoft/powerbi-visuals-utils-onobjectutils) | None | TypeScript | 1 | MIT License | 2023-12-13 | 2024-02-22 |
-| [promptflow-rag-project-template](https://github.com/microsoft/promptflow-rag-project-template) | An end-to-end sample of RAG showcasing development, evaluation, experimentation, and deployment using Promptflow, search products like CosmosDB, PostgresSQL, and Azure AI Search | Jupyter Notebook | 29 | MIT License | 2023-12-14 | 2024-07-18 |
+| [promptflow-rag-project-template](https://github.com/microsoft/promptflow-rag-project-template) | An end-to-end sample of RAG showcasing development, evaluation, experimentation, and deployment using Promptflow, search products like CosmosDB, PostgresSQL, and Azure AI Search | Jupyter Notebook | 30 | MIT License | 2023-12-14 | 2024-07-22 |
 | [Peekaboo](https://github.com/microsoft/Peekaboo) | Interactive Video Generation via Masked-Diffusion | Python | 62 | MIT License | 2023-12-14 | 2024-07-14 |
 | [AI-Chat-App-Hack](https://github.com/microsoft/AI-Chat-App-Hack) | HackTogether: The Microsoft Python Chatbot Hack | Register, Hack, Win | None | 216 | MIT License | 2023-12-14 | 2024-06-28 |
 | [sk-workshop](https://github.com/microsoft/sk-workshop) | Semantic Kernel Workshop | Jupyter Notebook | 10 | Creative Commons Attribution Share Alike 4.0 International | 2023-12-14 | 2024-07-14 |
@@ -14499,7 +14499,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [logparse](https://github.com/microsoft/logparse) | Parser for Cassandra Logs to support Azure services | Python | 0 | Apache License 2.0 | 2024-01-05 | 2024-04-25 |
 | [SqlParser](https://github.com/microsoft/SqlParser) | Provides basic syntax parsing and binding for the TSQL language for many versions and editions of Microsoft SQL Server and Azure SQL Database. | None | 8 | MIT License | 2024-01-05 | 2024-06-05 |
 | [dotnet-llm-eval-samples](https://github.com/microsoft/dotnet-llm-eval-samples) | Samples of how to eval and observe dotnet large language model systems | Jupyter Notebook | 9 | MIT License | 2024-01-05 | 2024-06-20 |
-| [UFO](https://github.com/microsoft/UFO) | A UI-Focused Agent for Windows OS Interaction. | Python | 6939 | MIT License | 2024-01-08 | 2024-07-21 |
+| [UFO](https://github.com/microsoft/UFO) | A UI-Focused Agent for Windows OS Interaction. | Python | 6970 | MIT License | 2024-01-08 | 2024-07-22 |
 | [LLM4ScientificDiscovery](https://github.com/microsoft/LLM4ScientificDiscovery) | Call for participation in the impact of LLM for scientific discovery | None | 44 | MIT License | 2024-01-08 | 2024-07-20 |
 | [d365-scm-saleskit](https://github.com/microsoft/d365-scm-saleskit) | Material for selling Dynamics 365 SCM | None | 2 | MIT License | 2024-01-08 | 2024-07-12 |
 | [prosanteconnect](https://github.com/microsoft/prosanteconnect) | Une série de tutoriels pour illustrer comment intégrer la plateforme Pro Santé Connect (PSC) de l'Agence du Numérique en Santé (ANS) avec Microsoft Entra ID du point de vue de l'authentification multifacteur et de l'accès conditionnel. | None | 4 | Creative Commons Attribution 4.0 International | 2024-01-08 | 2024-06-13 |
@@ -14514,7 +14514,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [AutoMS](https://github.com/microsoft/AutoMS) | Automated Optimization of mmWave Coverage using Low-cost Metasurfaces | C++ | 10 | MIT License | 2024-01-12 | 2024-07-17 |
 | [onnxrt-backend-dev](https://github.com/microsoft/onnxrt-backend-dev) | Tools to help developping onnx functionalities in torch | Python | 1 | MIT License | 2024-01-12 | 2024-05-30 |
 | [nodeengine](https://github.com/microsoft/nodeengine) | None | Python | 9 | MIT License | 2024-01-13 | 2024-07-03 |
-| [SemanticKernelCookBook](https://github.com/microsoft/SemanticKernelCookBook) | This is a Semantic Kernel's book for beginners  | Jupyter Notebook | 179 | MIT License | 2024-01-15 | 2024-07-20 |
+| [SemanticKernelCookBook](https://github.com/microsoft/SemanticKernelCookBook) | This is a Semantic Kernel's book for beginners  | Jupyter Notebook | 180 | MIT License | 2024-01-15 | 2024-07-22 |
 | [ConvStencil](https://github.com/microsoft/ConvStencil) | None | Cuda | 18 | MIT License | 2024-01-15 | 2024-06-29 |
 | [byoeb](https://github.com/microsoft/byoeb) | BYOeB is a tool to build a chatbot with a custom knowledge base and an expert-in-the-loop. | Python | 4 | Creative Commons Attribution 4.0 International | 2024-01-15 | 2024-06-27 |
 | [BiModalAudioSeparation](https://github.com/microsoft/BiModalAudioSeparation) | Weakly-Supervised Language Conditional Audio Separation | Python | 6 | MIT License | 2024-01-17 | 2024-07-03 |
@@ -14526,20 +14526,20 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [two-for-one-diffusion](https://github.com/microsoft/two-for-one-diffusion) | This Denoising Force Field (DFF) codebase provides a Pytorch framework for the method presented in Two for one: Diffusion models and force fields for coarse-grained molecular dynamics. | Python | 42 | MIT License | 2024-01-19 | 2024-07-15 |
 | [TechExcel-Securely-migrate-Windows-Server-and-SQL-Server-workloads-to-Azure](https://github.com/microsoft/TechExcel-Securely-migrate-Windows-Server-and-SQL-Server-workloads-to-Azure) | To gain access, please finish setting up this repository now at:  | Bicep | 3 | MIT License | 2024-01-19 | 2024-06-13 |
 | [geneva](https://github.com/microsoft/geneva) | A prototype tool for generating and visualizing complex story arcs. | JavaScript | 3 | MIT License | 2024-01-19 | 2024-05-09 |
-| [MS-MARCO-Web-Search](https://github.com/microsoft/MS-MARCO-Web-Search) | A large-scale information-rich web dataset, featuring millions of real clicked query-document labels | None | 293 | MIT License | 2024-01-20 | 2024-07-19 |
+| [MS-MARCO-Web-Search](https://github.com/microsoft/MS-MARCO-Web-Search) | A large-scale information-rich web dataset, featuring millions of real clicked query-document labels | None | 294 | MIT License | 2024-01-20 | 2024-07-21 |
 | [KustoTableUI](https://github.com/microsoft/KustoTableUI) |  A component to render an editable table UI dynamically based on the schema and contents of a Kusto table. | TypeScript | 8 | MIT License | 2024-01-22 | 2024-05-31 |
-| [retina](https://github.com/microsoft/retina) | eBPF distributed networking observability tool for Kubernetes | Go | 2558 | MIT License | 2024-01-23 | 2024-07-21 |
+| [retina](https://github.com/microsoft/retina) | eBPF distributed networking observability tool for Kubernetes | Go | 2561 | MIT License | 2024-01-23 | 2024-07-22 |
 | [aoai-logging-with-apim](https://github.com/microsoft/aoai-logging-with-apim) | None | C# | 19 | MIT License | 2024-01-23 | 2024-07-15 |
 | [mothernet](https://github.com/microsoft/mothernet) | Mothernet: A Foundational Hypernetwork for Tabular Classification | Jupyter Notebook | 24 | Apache License 2.0 | 2024-01-23 | 2024-07-12 |
 | [tui-test](https://github.com/microsoft/tui-test) | An end-to-end terminal testing framework for CLI and TUI experiences | TypeScript | 28 | MIT License | 2024-01-25 | 2024-07-18 |
 | [pf-azuredb](https://github.com/microsoft/pf-azuredb) | promptflow tools for azure db products  | Python | 3 | MIT License | 2024-01-30 | 2024-05-03 |
 | [hallucinated-references](https://github.com/microsoft/hallucinated-references) | None | Python | 0 | MIT License | 2024-01-30 | 2024-07-14 |
-| [Security-101](https://github.com/microsoft/Security-101) | 8 Lessons, Kick-start Your Cybersecurity Learning. | None | 3788 | Creative Commons Zero v1.0 Universal | 2024-01-31 | 2024-07-21 |
+| [Security-101](https://github.com/microsoft/Security-101) | 8 Lessons, Kick-start Your Cybersecurity Learning. | HTML | 3795 | Creative Commons Zero v1.0 Universal | 2024-01-31 | 2024-07-22 |
 | [ai-chat-protocol](https://github.com/microsoft/ai-chat-protocol) | A library + API spec for easily streaming generative AI output to your chat applications. | TypeScript | 95 | MIT License | 2024-01-31 | 2024-07-18 |
 | [ms-tpm-20-ref-rs](https://github.com/microsoft/ms-tpm-20-ref-rs) | Rust bindings to the microsoft/ms-tpm-20-ref C library. | C | 3 | MIT License | 2024-01-31 | 2024-05-08 |
-| [sudo](https://github.com/microsoft/sudo) | It's sudo, for Windows | Rust | 4832 | MIT License | 2024-02-01 | 2024-07-21 |
+| [sudo](https://github.com/microsoft/sudo) | It's sudo, for Windows | Rust | 4835 | MIT License | 2024-02-01 | 2024-07-22 |
 | [mcsa-observability](https://github.com/microsoft/mcsa-observability) | MCSA-Observability | HCL | 5 | MIT License | 2024-02-01 | 2024-05-16 |
-| [T-MAC](https://github.com/microsoft/T-MAC) | Low-bit LLM inference on CPU with lookup table | C++ | 59 | MIT License | 2024-02-02 | 2024-07-20 |
+| [T-MAC](https://github.com/microsoft/T-MAC) | Low-bit LLM inference on CPU with lookup table | C++ | 60 | MIT License | 2024-02-02 | 2024-07-22 |
 | [hands-on-lab-migrate-and-modernize-with-ai](https://github.com/microsoft/hands-on-lab-migrate-and-modernize-with-ai) | None | None | 0 | MIT License | 2024-02-02 | 2024-05-03 |
 | [mlops-aisearch-pull](https://github.com/microsoft/mlops-aisearch-pull) | A template that shows how to setup MLOps in Azure AI Search using pull approach | Python | 1 | MIT License | 2024-02-05 | 2024-07-16 |
 | [appliedai-rag101](https://github.com/microsoft/appliedai-rag101) | This is a repo with code and documentation to help customers get started in their journey with RAG leveraging Azure Data products. | Jupyter Notebook | 11 | MIT License | 2024-02-05 | 2024-07-13 |
@@ -14557,7 +14557,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [unity-aoai](https://github.com/microsoft/unity-aoai) | SDK and samples for integrating Azure Open AI with Unity. | None | 3 | MIT License | 2024-02-13 | 2024-07-04 |
 | [attribute-structuring](https://github.com/microsoft/attribute-structuring) | None | Python | 5 | - | 2024-02-13 | 2024-07-09 |
 | [kiota-serialization-multipart-python](https://github.com/microsoft/kiota-serialization-multipart-python) | Multipart serialization implementation for python based kiota clients | Python | 0 | MIT License | 2024-02-14 | 2024-07-05 |
-| [LongRoPE](https://github.com/microsoft/LongRoPE) | LongRoPE is a novel method that can extends the context window of pre-trained LLMs to an impressive 2048k tokens.  | Python | 31 | MIT License | 2024-02-15 | 2024-07-20 |
+| [LongRoPE](https://github.com/microsoft/LongRoPE) | LongRoPE is a novel method that can extends the context window of pre-trained LLMs to an impressive 2048k tokens.  | Python | 32 | MIT License | 2024-02-15 | 2024-07-21 |
 | [intelligence-toolkit](https://github.com/microsoft/intelligence-toolkit) | None | Python | 10 | MIT License | 2024-02-16 | 2024-07-20 |
 | [CloudConfigurationManager](https://github.com/microsoft/CloudConfigurationManager) | The Cloud Configuration Manager is a Serverless alternative to the DSC Local Configuration Manager | PowerShell | 5 | MIT License | 2024-02-16 | 2024-06-24 |
 | [DiffyConfigAnalyzer](https://github.com/microsoft/DiffyConfigAnalyzer) | A tool for finding configuration anomalies. | F# | 3 | MIT License | 2024-02-16 | 2024-04-21 |
@@ -14571,7 +14571,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [nice-icl](https://github.com/microsoft/nice-icl) | NICE: Normalized Invariance to Choice of Example | Python | 1 | MIT License | 2024-02-22 | 2024-07-11 |
 | [PixEvents](https://github.com/microsoft/PixEvents) | WinPixEventRuntime + decoder + tests | C++ | 74 | MIT License | 2024-02-22 | 2024-06-09 |
 | [DOSA](https://github.com/microsoft/DOSA) | Dataset of of Social Artifacts from Different Indian Geographical Subcultures | Jupyter Notebook | 5 | MIT License | 2024-02-22 | 2024-07-15 |
-| [BitBLAS](https://github.com/microsoft/BitBLAS) | BitBLAS is a library to support mixed-precision matrix multiplications, especially for quantized LLM deployment. | Python | 226 | MIT License | 2024-02-23 | 2024-07-19 |
+| [BitBLAS](https://github.com/microsoft/BitBLAS) | BitBLAS is a library to support mixed-precision matrix multiplications, especially for quantized LLM deployment. | Python | 227 | MIT License | 2024-02-23 | 2024-07-22 |
 | [homebrew-xbox-game-creator-tools](https://github.com/microsoft/homebrew-xbox-game-creator-tools) | None | Ruby | 0 | MIT License | 2024-02-26 | 2024-05-29 |
 | [Extensible-Digital-Content](https://github.com/microsoft/Extensible-Digital-Content) | This template is a media viewer that enables a user to interact and view media files on both Xbox console and Desktop. | C# | 5 | MIT License | 2024-02-26 | 2024-05-23 |
 | [CompHRDoc](https://github.com/microsoft/CompHRDoc) | Datasets and Evaluation Scripts for CompHRDoc | Python | 15 | MIT License | 2024-02-27 | 2024-07-16 |
@@ -14593,7 +14593,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [Microsoft-TP-Link-Research-Team](https://github.com/microsoft/Microsoft-TP-Link-Research-Team) | To gain access, please finish setting up this repository now at:  | None | 0 | MIT License | 2024-03-07 | 2024-03-07 |
 | [LinuxBrokerForAVDAccess](https://github.com/microsoft/LinuxBrokerForAVDAccess) | Streamline and enhance the accessibility of Linux Virtual Machines (VMs) within the Azure Virtual Desktop (AVD) environment. Our custom-built connection broker system focuses on delivering a seamless, scalable, and secure access pathway for remote users to Linux desktops, leveraging the power and flexibility of AVD. | Shell | 0 | MIT License | 2024-03-07 | 2024-03-15 |
 | [file-content-rs](https://github.com/microsoft/file-content-rs) | A crate for reading file content in a few common file encodings | Rust | 1 | MIT License | 2024-03-07 | 2024-03-28 |
-| [verismo](https://github.com/microsoft/verismo) | A formally verified security module for AMD confidential VMs | Rust | 18 | MIT License | 2024-03-08 | 2024-07-16 |
+| [verismo](https://github.com/microsoft/verismo) | A formally verified security module for AMD confidential VMs | Rust | 19 | MIT License | 2024-03-08 | 2024-07-21 |
 | [Azure-AI-Apps](https://github.com/microsoft/Azure-AI-Apps) | Azure AI Apps | None | 0 | MIT License | 2024-03-08 | 2024-03-08 |
 | [chimera](https://github.com/microsoft/chimera) | OpenAI powered document processing | Jupyter Notebook | 13 | MIT License | 2024-03-11 | 2024-06-20 |
 | [kagami](https://github.com/microsoft/kagami) | OpenAI powered document scanner | Jupyter Notebook | 9 | MIT License | 2024-03-11 | 2024-05-31 |
@@ -14623,13 +14623,13 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [azure-carbon-estimator](https://github.com/microsoft/azure-carbon-estimator) | Azure carbon Estimator is an SDK that integrates with Green Software Foundation's Impact Framework for getting emissions for all your Azure workloads | TypeScript | 1 | MIT License | 2024-03-25 | 2024-07-16 |
 | [GPT4Vision-Robot-Manipulation-Prompts](https://github.com/microsoft/GPT4Vision-Robot-Manipulation-Prompts) | This repository provides the sample code designed to interpret human demonstration videos and convert them into high-level tasks for robots. | Python | 17 | MIT License | 2024-03-26 | 2024-07-20 |
 | [vsts-open-in-excel](https://github.com/microsoft/vsts-open-in-excel) | Open in Excel extension for Azure DevOps | TypeScript | 0 | - | 2024-03-27 | 2024-06-04 |
-| [graphrag](https://github.com/microsoft/graphrag) | A modular graph-based Retrieval-Augmented Generation (RAG) system | Python | 12177 | MIT License | 2024-03-27 | 2024-07-21 |
+| [graphrag](https://github.com/microsoft/graphrag) | A modular graph-based Retrieval-Augmented Generation (RAG) system | Python | 12349 | MIT License | 2024-03-27 | 2024-07-22 |
 | [winget-command-not-found](https://github.com/microsoft/winget-command-not-found) | WinGet Command Not Found is a PowerShell 7 module to help you install missing packages. With this module, you will be recommended relevant WinGet packages whenever an unrecognized command is entered.  | PowerShell | 22 | MIT License | 2024-03-27 | 2024-07-17 |
 | [MunTTS-A-Text-to-Speech-System-For-Mundari](https://github.com/microsoft/MunTTS-A-Text-to-Speech-System-For-Mundari) | Official Codebase for "MunTTS: A Text-to-Speech System for Mundari" (published in ComputEL-7) | Python | 2 | MIT License | 2024-03-28 | 2024-06-10 |
 | [LLM-Fine-Tuning-Azure](https://github.com/microsoft/LLM-Fine-Tuning-Azure) | None | Jupyter Notebook | 15 | MIT License | 2024-03-28 | 2024-07-08 |
 | [advancedsecurity](https://github.com/microsoft/advancedsecurity) | None | None | 0 | MIT License | 2024-03-28 | 2024-03-28 |
 | [asclepius](https://github.com/microsoft/asclepius) | Asclepius is a hero and god of medicine in ancient Greek religion and mythology. | Jupyter Notebook | 5 | MIT License | 2024-03-28 | 2024-05-28 |
-| [MSEntraIDProtectionGuidance](https://github.com/microsoft/MSEntraIDProtectionGuidance) | MS Entra ID Protection Guidance | None | 17 | MIT License | 2024-03-29 | 2024-05-12 |
+| [MSEntraIDProtectionGuidance](https://github.com/microsoft/MSEntraIDProtectionGuidance) | MS Entra ID Protection Guidance | None | 18 | MIT License | 2024-03-29 | 2024-07-21 |
 | [mnemosyne](https://github.com/microsoft/mnemosyne) | In Greek mythology and ancient Greek religion, pronounced is the goddess of memory. | TypeScript | 1 | MIT License | 2024-04-01 | 2024-05-28 |
 | [FILM](https://github.com/microsoft/FILM) | Official repo for "Make Your LLM Fully Utilize the Context" | Python | 229 | MIT License | 2024-04-03 | 2024-07-19 |
 | [global-copilot-summit](https://github.com/microsoft/global-copilot-summit) | The theme of the summit is Adopt, Extend, and Build Copilot, and is attended by professional developers interested in learning more about AI, GitHub Copilot, Azure AI Studio, or Power Apps and how they can leverage them with M365 Copilot.  | None | 9 | MIT License | 2024-04-03 | 2024-06-03 |
@@ -14652,7 +14652,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [woodgrove-music-ios](https://github.com/microsoft/woodgrove-music-ios) | Woodgrove Music demo | Swift | 3 | MIT License | 2024-04-16 | 2024-07-19 |
 | [Workshop-Interact-with-LLMs](https://github.com/microsoft/Workshop-Interact-with-LLMs) | This repo contains the lab instructions for the workshop "Interact with LLMs". | None | 13 | MIT License | 2024-04-16 | 2024-06-17 |
 | [LogCheetah](https://github.com/microsoft/LogCheetah) | A fast column-based log parsing and analysis tool. | C++ | 5 | MIT License | 2024-04-16 | 2024-07-02 |
-| [teams-copilot-starter](https://github.com/microsoft/teams-copilot-starter) | Teams Copilot Starter has been developed as a starter template for solutions targeting generative AI chatbots in Microsoft Teams. It can assist companies jumpstart their AI and Copilot efforts. | TypeScript | 16 | MIT License | 2024-04-17 | 2024-07-19 |
+| [teams-copilot-starter](https://github.com/microsoft/teams-copilot-starter) | Teams Copilot Starter has been developed as a starter template for solutions targeting generative AI chatbots in Microsoft Teams. It can assist companies jumpstart their AI and Copilot efforts. | TypeScript | 16 | MIT License | 2024-04-17 | 2024-07-22 |
 | [PHIDeIDPortal](https://github.com/microsoft/PHIDeIDPortal) | Sample PHI DeID Portal for uploading, indexing and identifying PHI within documents. | C# | 1 | MIT License | 2024-04-17 | 2024-05-01 |
 | [TechExcel-Migrate-Linux-workloads](https://github.com/microsoft/TechExcel-Migrate-Linux-workloads) | None | Bicep | 0 | MIT License | 2024-04-17 | 2024-07-08 |
 | [TechExcel-Defender-for-Identity](https://github.com/microsoft/TechExcel-Defender-for-Identity) | None | Ruby | 1 | MIT License | 2024-04-17 | 2024-07-15 |
@@ -14687,16 +14687,16 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [cookie-doh](https://github.com/microsoft/cookie-doh) | Cookie-doh is a repository template for creating single Python package projects. | Jinja | 5 | MIT License | 2024-05-07 | 2024-07-17 |
 | [VirtualClient-Examples](https://github.com/microsoft/VirtualClient-Examples) | Extension examples for VirtualClient project at https://github.com/microsoft/VirtualClient | C# | 3 | - | 2024-05-07 | 2024-06-03 |
 | [vscode-learncloud](https://github.com/microsoft/vscode-learncloud) | Guiding first-time cloud users to deploy to Azure PaaS | None | 5 | MIT License | 2024-05-07 | 2024-07-18 |
-| [Phi-3CookBook](https://github.com/microsoft/Phi-3CookBook) | This is a Phi-3 book for getting started with Phi-3. Phi-3, a family of open AI models developed by Microsoft. Phi-3 models are the most capable and cost-effective small language models (SLMs) available, outperforming models of the same size and next size up across a variety of language, reasoning, coding, and math benchmarks.  | Jupyter Notebook | 1356 | MIT License | 2024-05-07 | 2024-07-21 |
+| [Phi-3CookBook](https://github.com/microsoft/Phi-3CookBook) | This is a Phi-3 book for getting started with Phi-3. Phi-3, a family of open AI models developed by Microsoft. Phi-3 models are the most capable and cost-effective small language models (SLMs) available, outperforming models of the same size and next size up across a variety of language, reasoning, coding, and math benchmarks.  | Jupyter Notebook | 1358 | MIT License | 2024-05-07 | 2024-07-22 |
 | [Azure_OpenAI_Summarization](https://github.com/microsoft/Azure_OpenAI_Summarization) | None | Jupyter Notebook | 3 | MIT License | 2024-05-09 | 2024-05-30 |
 | [RAG-PDF-Analyzer-WPF-Sample](https://github.com/microsoft/RAG-PDF-Analyzer-WPF-Sample) | None | C# | 43 | MIT License | 2024-05-09 | 2024-07-18 |
 | [azure_pg_dev_workshop](https://github.com/microsoft/azure_pg_dev_workshop) | Azure Database for PostgreSQL Developer workshop | PHP | 4 | MIT License | 2024-05-10 | 2024-07-07 |
 | [WaveCoder](https://github.com/microsoft/WaveCoder) | Advancing LLM with Diverse Coding Capabilities | Python | 20 | MIT License | 2024-05-10 | 2024-07-09 |
 | [vscode-python-templates](https://github.com/microsoft/vscode-python-templates) | This repo contains examples of various Python project types. | Python | 1 | MIT License | 2024-05-10 | 2024-07-06 |
 | [TechExcel-Operationalize-LLMs-with-LLMOps-automation](https://github.com/microsoft/TechExcel-Operationalize-LLMs-with-LLMOps-automation) | None | Ruby | 0 | MIT License | 2024-05-10 | 2024-07-08 |
-| [Phi3-Chat-WinUI3-Sample](https://github.com/microsoft/Phi3-Chat-WinUI3-Sample) | None | C# | 24 | MIT License | 2024-05-10 | 2024-07-12 |
+| [Phi3-Chat-WinUI3-Sample](https://github.com/microsoft/Phi3-Chat-WinUI3-Sample) | None | C# | 25 | MIT License | 2024-05-10 | 2024-07-21 |
 | [ai-powered-notes-winui3-sample](https://github.com/microsoft/ai-powered-notes-winui3-sample) | None | C# | 40 | MIT License | 2024-05-10 | 2024-07-17 |
-| [vattention](https://github.com/microsoft/vattention) | Dynamic Memory Management for Serving LLMs without PagedAttention | C | 6 | MIT License | 2024-05-13 | 2024-07-21 |
+| [vattention](https://github.com/microsoft/vattention) | Dynamic Memory Management for Serving LLMs without PagedAttention | C | 7 | MIT License | 2024-05-13 | 2024-07-22 |
 | [nl-2-postcond](https://github.com/microsoft/nl-2-postcond) | Artefacts of FSE'24 paper on creating formal declarative method postconditions from natural language informal intent.  https://www.microsoft.com/en-us/research/publication/formalizing-natural-language-intent-into-program-specifications-via-large-language-models/ | Python | 0 | MIT License | 2024-05-13 | 2024-07-18 |
 | [BRK142-finetuning-example](https://github.com/microsoft/BRK142-finetuning-example) | None | Python | 13 | MIT License | 2024-05-13 | 2024-06-25 |
 | [hands-on-lab-azure-functions](https://github.com/microsoft/hands-on-lab-azure-functions) | None | C# | 2 | MIT License | 2024-05-14 | 2024-07-15 |
@@ -14704,21 +14704,21 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [xpdt](https://github.com/microsoft/xpdt) | Collect CPU and Memory data for MDATP (Defender for Linux/MacOS), for performance investigation. | Shell | 0 | MIT License | 2024-05-15 | 2024-07-12 |
 | [GFB-audio-control](https://github.com/microsoft/GFB-audio-control) | Gaussian flow bridges for audio domain transfer with unpaired data | Python | 2 | MIT License | 2024-05-15 | 2024-07-10 |
 | [Microsoft-Fabric-workload-development-sample](https://github.com/microsoft/Microsoft-Fabric-workload-development-sample) | Demonstrates how to implement a Microsoft Fabric workload in .net and typescript | C# | 18 | MIT License | 2024-05-16 | 2024-07-21 |
-| [semantic-link-labs](https://github.com/microsoft/semantic-link-labs) | Early access to new features for Microsoft Fabric semantic link. | Python | 76 | MIT License | 2024-05-16 | 2024-07-20 |
+| [semantic-link-labs](https://github.com/microsoft/semantic-link-labs) | Early access to new features for Microsoft Fabric semantic link. | Python | 77 | MIT License | 2024-05-16 | 2024-07-21 |
 | [direct-preference-optimization](https://github.com/microsoft/direct-preference-optimization) | None | TypeScript | 0 | MIT License | 2024-05-16 | 2024-06-03 |
 | [Bio-Compliancy](https://github.com/microsoft/Bio-Compliancy) | BIO Compliancy template voor Microsoft 365 | PowerShell | 5 | MIT License | 2024-05-16 | 2024-07-11 |
 | [edgestorageaccelerator](https://github.com/microsoft/edgestorageaccelerator) | Microsoft Edge Storage Accelerator | None | 0 | MIT License | 2024-05-17 | 2024-05-17 |
 | [Addressing-signal-delay-in-deep-RL](https://github.com/microsoft/Addressing-signal-delay-in-deep-RL) | Addressing Signal Delay in Deep Reinforcement Learning | Python | 3 | MIT License | 2024-05-22 | 2024-07-18 |
-| [MInference](https://github.com/microsoft/MInference) | To speed up Long-context LLMs' inference, approximate and dynamic sparse calculate the attention, which reduces inference latency by up to 10x for pre-filling on an A100 while maintaining accuracy. | Python | 554 | MIT License | 2024-05-22 | 2024-07-21 |
+| [MInference](https://github.com/microsoft/MInference) | To speed up Long-context LLMs' inference, approximate and dynamic sparse calculate the attention, which reduces inference latency by up to 10x for pre-filling on an A100 while maintaining accuracy. | Python | 565 | MIT License | 2024-05-22 | 2024-07-22 |
 | [TaskTracker](https://github.com/microsoft/TaskTracker) | TaskTracker is an approach to detecting task drift in Large Language Models (LLMs) by analysing their internal activations. It provides a simple linear probe-based method and a more sophisticated metric learning method to achieve this. The project also releases the computationally expensive activation data to stimulate further AI safety research. | Jupyter Notebook | 3 | MIT License | 2024-05-22 | 2024-07-19 |
 | [AIDocIntelligence](https://github.com/microsoft/AIDocIntelligence) | AI Document Intelligence is an AI service that applies advanced machine learning to extract text, key-value pairs, tables, and structures from documents automatically and accurately | Python | 5 | MIT License | 2024-05-22 | 2024-06-28 |
-| [SeqSNN](https://github.com/microsoft/SeqSNN) | None | Python | 7 | MIT License | 2024-05-23 | 2024-07-19 |
+| [SeqSNN](https://github.com/microsoft/SeqSNN) | None | Python | 8 | MIT License | 2024-05-23 | 2024-07-22 |
 | [EligibilityGPT](https://github.com/microsoft/EligibilityGPT) | None | None | 1 | MIT License | 2024-05-23 | 2024-06-04 |
 | [llm_scav_attack](https://github.com/microsoft/llm_scav_attack) | None | None | 0 | MIT License | 2024-05-25 | 2024-05-25 |
 | [Project-Yellowstone-Documentation](https://github.com/microsoft/Project-Yellowstone-Documentation) | Documentation for the private preview of Project Yellowstone (Built-in Power BI reports for Dynamics 365 Business Central) | None | 3 | MIT License | 2024-05-28 | 2024-07-08 |
 | [AgenticCookBook](https://github.com/microsoft/AgenticCookBook) | The “Agentic Cookbook for Generative AI Agent usage” is a comprehensive guide designed to empower users with the knowledge and tools to effectively implement and utilize Generative AI Agents within their workflows. | Python | 27 | MIT License | 2024-05-28 | 2024-07-17 |
 | [RadFact](https://github.com/microsoft/RadFact) | A metric suite leveraging the logical inference capabilities of LLMs, for radiology report generation both with and without grounding | None | 17 | MIT License | 2024-05-30 | 2024-07-15 |
-| [python-environment-tools](https://github.com/microsoft/python-environment-tools) | None | Rust | 124 | MIT License | 2024-05-31 | 2024-07-19 |
+| [python-environment-tools](https://github.com/microsoft/python-environment-tools) | None | Rust | 126 | MIT License | 2024-05-31 | 2024-07-21 |
 | [Hygeia](https://github.com/microsoft/Hygeia) | Chat with documentation endpoint, with session context, in Azure | Python | 5 | MIT License | 2024-06-03 | 2024-07-02 |
 | [ai-sentry](https://github.com/microsoft/ai-sentry) | AI-Sentry: A lightweight, pluggable facade layer for Azure Open AI, addressing common cross-cutting concerns for enterprise-wide scaling. | Python | 11 | MIT License | 2024-06-03 | 2024-07-17 |
 | [devcontainer-feature-k3s](https://github.com/microsoft/devcontainer-feature-k3s) | Installs k3s on a host machine from within a devcontainer that can be shared and reused across multiple devcontainers | Shell | 2 | MIT License | 2024-06-03 | 2024-07-18 |
@@ -14727,7 +14727,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [PwR-NL2DSL](https://github.com/microsoft/PwR-NL2DSL) | Library to convert natural language utterance into a structured domain specific language | Python | 7 | MIT License | 2024-06-04 | 2024-07-17 |
 | [GeoGen](https://github.com/microsoft/GeoGen) | A website to accompany the GeoGen paper | None | 3 | Other | 2024-06-04 | 2024-07-15 |
 | [mde-indicators](https://github.com/microsoft/mde-indicators) | Tools and scripts for managing custom indictators for MDE | None | 0 | MIT License | 2024-06-04 | 2024-06-04 |
-| [Samba](https://github.com/microsoft/Samba) | Official implementation of "Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling" | Python | 709 | MIT License | 2024-06-05 | 2024-07-21 |
+| [Samba](https://github.com/microsoft/Samba) | Official implementation of "Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling" | Python | 710 | MIT License | 2024-06-05 | 2024-07-21 |
 | [aoai-api-simulator](https://github.com/microsoft/aoai-api-simulator) | A sample showing how to create a simulated API implementation for Azure OpenAI (AOAI) | None | 0 | MIT License | 2024-06-06 | 2024-06-06 |
 | [hands-on-lab-platform-engineering-for-ops](https://github.com/microsoft/hands-on-lab-platform-engineering-for-ops) | None | PowerShell | 2 | MIT License | 2024-06-06 | 2024-06-26 |
 | [synthetic-rag-index](https://github.com/microsoft/synthetic-rag-index) | Service to import data from various sources and index it in AI Search. Increases data relevance and reduces final size by 90%+. Useful for RAG scenarios with LLM. Hosted in Azure with serverless architecture. | Python | 11 | Apache License 2.0 | 2024-06-07 | 2024-07-18 |
@@ -14745,7 +14745,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [vscode-ts-file-path-support](https://github.com/microsoft/vscode-ts-file-path-support) | An extension for VS Code that improves editor support for relative file paths in typescript/javascript sources, including auto-completion, renaming, go-to-definition, inlining and extraction. | TypeScript | 0 | MIT License | 2024-06-28 | 2024-07-01 |
 | [aoai-batch-buddy](https://github.com/microsoft/aoai-batch-buddy) | Submit and monitor batch jobs to Azure OpenAI | C# | 1 | MIT License | 2024-06-28 | 2024-07-08 |
 | [GlobalSecureAccess-Training](https://github.com/microsoft/GlobalSecureAccess-Training) | Explore a diverse array of scenarios featuring documentation, step-by-step guides, and recorded demos for Microsoft Entra Internet Access and Microsoft Entra Private Access. Whether you're delving into the basics or seeking advanced insights, our repository is your go-to source for mastering Microsoft's Security Service Edge (SSE) solution. | JavaScript | 0 | MIT License | 2024-07-02 | 2024-07-18 |
-| [Damu](https://github.com/microsoft/Damu) | Named after a Mesopotamian reputed to know the cures to many incurable diseases. This is an accelerator for combining natural language queries and FHIR queries to assist medical research. | Python | 3 | MIT License | 2024-07-03 | 2024-07-21 |
+| [Damu](https://github.com/microsoft/Damu) | Named after a Mesopotamian reputed to know the cures to many incurable diseases. This is an accelerator for combining natural language queries and FHIR queries to assist medical research. | Python | 4 | MIT License | 2024-07-03 | 2024-07-22 |
 | [NaturalLanguageToSQL](https://github.com/microsoft/NaturalLanguageToSQL) | Natural Language (NL) to SQL Query Generation using Phi-3 (Serverless & Local setup) and Azure OpenAI (GPT-4 model)  | Python | 4 | MIT License | 2024-07-05 | 2024-07-17 |
 | [derivre](https://github.com/microsoft/derivre) | Derivative-based regular expression engine for Rust | Rust | 0 | MIT License | 2024-07-05 | 2024-07-18 |
 | [toktrie](https://github.com/microsoft/toktrie) | LLM token utility library | Rust | 0 | MIT License | 2024-07-05 | 2024-07-10 |
@@ -14757,9 +14757,9 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [azure-rest-api-specs1](https://github.com/microsoft/azure-rest-api-specs1) | The source for REST API specifications for Microsoft Azure. | None | 0 | MIT License | 2024-07-16 | 2024-07-16 |
 | [azure-rest-api-specs-meja](https://github.com/microsoft/azure-rest-api-specs-meja) | The source for REST API specifications for Microsoft Azure. | None | 0 | MIT License | 2024-07-16 | 2024-07-16 |
 | [collaborative-quest-completion](https://github.com/microsoft/collaborative-quest-completion) | None | None | 0 | MIT License | 2024-07-16 | 2024-07-16 |
-| [template-validation-action](https://github.com/microsoft/template-validation-action) | None | None | 0 | MIT License | 2024-07-17 | 2024-07-17 |
+| [template-validation-action](https://github.com/microsoft/template-validation-action) | None | Python | 0 | MIT License | 2024-07-17 | 2024-07-22 |
 | [Eleos](https://github.com/microsoft/Eleos) | Accelerator for using javascript and langchain to query APIM openai documents | None | 0 | MIT License | 2024-07-17 | 2024-07-17 |
-| [confidential-operations](https://github.com/microsoft/confidential-operations) | A suite of tools to make operating a confidential consortium network easier | Python | 0 | MIT License | 2024-07-17 | 2024-07-18 |
+| [confidential-operations](https://github.com/microsoft/confidential-operations) | A suite of tools to make operating a confidential consortium network easier | Python | 0 | MIT License | 2024-07-17 | 2024-07-22 |
 | [ltongappspace](https://github.com/microsoft/ltongappspace) | None | TypeScript | 0 | - | 2024-07-17 | 2024-07-17 |
 | [openapi-cli](https://github.com/microsoft/openapi-cli) | None | None | 0 | MIT License | 2024-07-17 | 2024-07-17 |
 | [acr](https://github.com/microsoft/acr) | Azure Container Registry samples, troubleshooting tips and references | None | 0 | Other | 2024-07-18 | 2024-07-18 |
@@ -14772,9 +14772,9 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [pnp-modern-search-extensibility-samples](https://github.com/microsoft-search/pnp-modern-search-extensibility-samples) | None | JavaScript | 20 | MIT License | 2020-12-02 | 2024-06-25 |
 | [bing-search-box](https://github.com/microsoft-search/bing-search-box) | Microsoft Search in Bing search box | JavaScript | 1 | MIT License | 2022-08-18 | 2022-08-19 |
 | [pnp-modern-search-core-components](https://github.com/microsoft-search/pnp-modern-search-core-components) | Reusable web components based on Microsoft Search and Microsoft Graph that can be used transversally in an organization to build custom search experiences | TypeScript | 10 | Other | 2023-11-18 | 2024-06-19 |
-| [pnp-modern-search-layouts](https://github.com/microsoft-search/pnp-modern-search-layouts) | Community contributed layouts to be used in the PnP Modern Search solution | HTML | 18 | Other | 2024-01-15 | 2024-07-04 |
+| [pnp-modern-search-layouts](https://github.com/microsoft-search/pnp-modern-search-layouts) | Community contributed layouts to be used in the PnP Modern Search solution | HTML | 19 | Other | 2024-01-15 | 2024-07-22 |
 | [AWS-SDK-for-WP](https://github.com/microsoftarchive/AWS-SDK-for-WP) | Windows Phone 7 SDK for Amazon Web Services | C# | 22 | - | 2012-01-21 | 2023-01-28 |
-| [redis](https://github.com/microsoftarchive/redis) | Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes | C | 20782 | Other | 2012-02-09 | 2024-07-21 |
+| [redis](https://github.com/microsoftarchive/redis) | Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes | C | 20784 | Other | 2012-02-09 | 2024-07-22 |
 | [cqrs-journey](https://github.com/microsoftarchive/cqrs-journey) | Microsoft patterns & pratices CQRS Journey sample application | C# | 1382 | Other | 2012-02-29 | 2024-07-19 |
 | [HTTP-SPEED-PLUS-MOBILITY](https://github.com/microsoftarchive/HTTP-SPEED-PLUS-MOBILITY) | Prototype of the HTTP Speed+ Mobility proposal submitted to IETF | C# | 44 | - | 2012-05-02 | 2023-08-30 |
 | [ETWFlamegraph](https://github.com/microsoftarchive/ETWFlamegraph) | Tool to generare Flamegraphs from etl files | JavaScript | 16 | Other | 2012-08-24 | 2023-01-28 |
@@ -14899,7 +14899,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [OpenGAX](https://github.com/microsoftarchive/OpenGAX) | The Guidance Automation Extensions (GAX) expands the capabilities of Visual Studio by running guidance packages, which automate key development tasks from within the Visual Studio environment. The Guidance Automation Toolkit (GAT) allows authoring of guidance packages. | C# | 11 | Other | 2017-01-14 | 2023-01-28 |
 | [mef](https://github.com/microsoftarchive/mef) | None | C# | 153 | MIT License | 2017-04-27 | 2024-07-05 |
 | [bcl](https://github.com/microsoftarchive/bcl) | None | C# | 26 | MIT License | 2017-04-27 | 2023-01-28 |
-| [clrprofiler](https://github.com/microsoftarchive/clrprofiler) | None | C# | 124 | MIT License | 2017-04-27 | 2024-07-03 |
+| [clrprofiler](https://github.com/microsoftarchive/clrprofiler) | None | C# | 125 | MIT License | 2017-04-27 | 2024-07-21 |
 | [clrsecurity](https://github.com/microsoftarchive/clrsecurity) | None | C# | 25 | MIT License | 2017-04-27 | 2023-10-08 |
 | [SilverlightToolkit](https://github.com/microsoftarchive/SilverlightToolkit) | The Silverlight Toolkit provides open source controls and components for Silverlight developers | C# | 68 | Microsoft Public License | 2017-05-16 | 2024-07-09 |
 | [WindowsPhoneToolkit](https://github.com/microsoftarchive/WindowsPhoneToolkit) | The Windows Phone Toolkit provides additional controls and capabilities for Windows Phone XAML developers | C# | 28 | Microsoft Public License | 2017-05-16 | 2024-05-15 |
@@ -14921,7 +14921,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [msdn-code-gallery-community-s-z](https://github.com/microsoftarchive/msdn-code-gallery-community-s-z) | MSDN Code Gallery Community Samples S-Z | C# | 73 | - | 2019-10-31 | 2024-06-04 |
 | [msdn-code-gallery-community-m-r](https://github.com/microsoftarchive/msdn-code-gallery-community-m-r) | MSDN Code Gallery Community Samples M-R | C# | 43 | - | 2019-11-06 | 2024-06-04 |
 | [New-KrbtgtKeys.ps1](https://github.com/microsoftarchive/New-KrbtgtKeys.ps1) | This script will enable you to reset the krbtgt account password and related keys while minimizing the likelihood of Kerberos authentication issues being caused by the operation. | PowerShell | 392 | MIT License | 2020-05-12 | 2024-07-06 |
-| [Learn-LTI](https://github.com/microsoftarchive/Learn-LTI) | Access the Microsoft Learn http://docs.microsoft.com/learn Catalog of Learning Paths and Modules directly from your Learning Management Systems using the Microsoft Learn LTI application | TypeScript | 125 | MIT License | 2020-06-22 | 2024-07-06 |
+| [Learn-LTI](https://github.com/microsoftarchive/Learn-LTI) | Access the Microsoft Learn http://docs.microsoft.com/learn Catalog of Learning Paths and Modules directly from your Learning Management Systems using the Microsoft Learn LTI application | TypeScript | 125 | MIT License | 2020-06-22 | 2024-07-22 |
 | [microsoft-teams-apps-inspection](https://github.com/microsoftarchive/microsoft-teams-apps-inspection) | Enables front line workers to inspect an asset or area to manage quality of products and services or maintain safety at workplace | None | 12 | MIT License | 2020-11-18 | 2023-03-29 |
 | [microsoft-teams-apps-issuereporting](https://github.com/microsoftarchive/microsoft-teams-apps-issuereporting) | None | None | 16 | MIT License | 2020-11-18 | 2024-02-13 |
 | [microsoft-teams-apps-employeeideas](https://github.com/microsoftarchive/microsoft-teams-apps-employeeideas) | None | None | 17 | MIT License | 2020-11-18 | 2024-05-24 |
@@ -14993,7 +14993,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [microsoft-graph-explorer](https://github.com/microsoftgraph/microsoft-graph-explorer) | We've moved! You can contribute to our new repository here | TypeScript | 138 | Other | 2016-11-22 | 2024-03-13 |
 | [javascript-officeuifabric-peoplepicker-sample](https://github.com/microsoftgraph/javascript-officeuifabric-peoplepicker-sample) | [ARCHIVED] This sample demonstrates how to populate an Office UI Fabric JS PeoplePicker component with data retrieved from Microsoft Graph. | HTML | 8 | MIT License | 2016-12-06 | 2023-11-16 |
 | [react-officeuifabric-sample](https://github.com/microsoftgraph/react-officeuifabric-sample) | [ARCHIVED] This sample demonstrates how to populate Office UI Fabric React components with data retrieved from Microsoft Graph. | JavaScript | 24 | MIT License | 2017-01-06 | 2023-11-16 |
-| [aspnetcore-webhooks-sample](https://github.com/microsoftgraph/aspnetcore-webhooks-sample) | This sample shows how to subscribe for Microsoft Graph webhooks using application (app-only) permissions and the Azure AD endpoint. | C# | 119 | MIT License | 2017-03-03 | 2024-07-19 |
+| [aspnetcore-webhooks-sample](https://github.com/microsoftgraph/aspnetcore-webhooks-sample) | This sample shows how to subscribe for Microsoft Graph webhooks using application (app-only) permissions and the Azure AD endpoint. | C# | 119 | MIT License | 2017-03-03 | 2024-07-22 |
 | [microsoft-graph-docs.pt-BR](https://github.com/microsoftgraph/microsoft-graph-docs.pt-BR) | Documentation for the Microsoft Graph REST API for Portuguese | PowerShell | 6 | Creative Commons Attribution 4.0 International | 2017-03-25 | 2024-05-23 |
 | [microsoft-graph-docs.zh-CN](https://github.com/microsoftgraph/microsoft-graph-docs.zh-CN) | Documentation for the Microsoft Graph REST API for Chinese(Simplified) | PowerShell | 17 | Creative Commons Attribution 4.0 International | 2017-03-25 | 2024-06-20 |
 | [microsoft-graph-docs.ru-RU](https://github.com/microsoftgraph/microsoft-graph-docs.ru-RU) | Documentation for the Microsoft Graph REST API for Russian | PowerShell | 3 | Creative Commons Attribution 4.0 International | 2017-03-25 | 2024-05-23 |
@@ -15035,7 +15035,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [msgraph-sdk-design](https://github.com/microsoftgraph/msgraph-sdk-design) | Requirements and design documents for Microsoft Graph SDKs | SCSS | 71 | MIT License | 2018-07-31 | 2024-07-15 |
 | [msgraph-sdk-objc](https://github.com/microsoftgraph/msgraph-sdk-objc) | Microsoft Graph SDK for Objective-C | Objective-C | 37 | MIT License | 2018-08-02 | 2024-02-07 |
 | [msgraph-sample-phpapp](https://github.com/microsoftgraph/msgraph-sample-phpapp) | This sample demonstrates how to use the Microsoft Graph .NET SDK to access data in Office 365 from PHP web apps. | PHP | 144 | MIT License | 2018-08-03 | 2024-07-15 |
-| [msgraph-sample-pythondjangoapp](https://github.com/microsoftgraph/msgraph-sample-pythondjangoapp) | This sample demonstrates how to use the Microsoft Graph .NET SDK to access data in Office 365 from Python web apps. | Python | 124 | MIT License | 2018-08-13 | 2024-06-24 |
+| [msgraph-sample-pythondjangoapp](https://github.com/microsoftgraph/msgraph-sample-pythondjangoapp) | This sample demonstrates how to use the Microsoft Graph .NET SDK to access data in Office 365 from Python web apps. | Python | 124 | MIT License | 2018-08-13 | 2024-07-22 |
 | [uwp-csharp-controls-sample](https://github.com/microsoftgraph/uwp-csharp-controls-sample) | None | C# | 4 | MIT License | 2018-09-05 | 2023-03-29 |
 | [msgraph-sdk-objc-auth](https://github.com/microsoftgraph/msgraph-sdk-objc-auth) | MSAL Authentication Provider for Objective C | Objective-C | 7 | MIT License | 2018-09-11 | 2023-04-18 |
 | [msgraph-sdk-dotnet-auth](https://github.com/microsoftgraph/msgraph-sdk-dotnet-auth) | Archived - use the TokenCredential classes provided by Azure.Identity. https://docs.microsoft.com/en-us/dotnet/api/overview/azure/identity-readme | C# | 78 | MIT License | 2018-09-11 | 2024-03-12 |
@@ -15064,7 +15064,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [contoso-airlines-ios-swift-sample](https://github.com/microsoftgraph/contoso-airlines-ios-swift-sample) | [ARCHIVED] | Objective-C | 2 | MIT License | 2019-03-13 | 2023-03-29 |
 | [msgraph-beta-sdk-dotnet](https://github.com/microsoftgraph/msgraph-beta-sdk-dotnet) | The Microsoft Graph Client Beta Library for .NET supports the Microsoft Graph /beta endpoint. (preview) | C# | 90 | Other | 2019-03-13 | 2024-07-10 |
 | [msgraph-training-changenotifications](https://github.com/microsoftgraph/msgraph-training-changenotifications) | None | None | 52 | MIT License | 2019-03-14 | 2024-05-30 |
-| [msgraph-sdk-powershell](https://github.com/microsoftgraph/msgraph-sdk-powershell) | Powershell SDK for Microsoft Graph | C# | 677 | Other | 2019-03-15 | 2024-07-19 |
+| [msgraph-sdk-powershell](https://github.com/microsoftgraph/msgraph-sdk-powershell) | Powershell SDK for Microsoft Graph | C# | 678 | Other | 2019-03-15 | 2024-07-22 |
 | [microsoftgraph-postman-collections](https://github.com/microsoftgraph/microsoftgraph-postman-collections) | None | None | 253 | MIT License | 2019-03-27 | 2024-07-02 |
 | [contoso-airlines-aspnet-core-sample](https://github.com/microsoftgraph/contoso-airlines-aspnet-core-sample) | [ARCHIVED] | JavaScript | 2 | MIT License | 2019-04-19 | 2023-03-29 |
 | [contoso-airlines-spfx-sample](https://github.com/microsoftgraph/contoso-airlines-spfx-sample) | [ARCHIVED] | TypeScript | 1 | MIT License | 2019-05-08 | 2023-03-29 |
@@ -15085,7 +15085,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [msgraph-ifttt-sample](https://github.com/microsoftgraph/msgraph-ifttt-sample) | This sample is a demonstration of what a Microsoft Graph service on IFTTT could look like. The purpose is to spark exploration by third parties to integrate their products with the Microsoft Graph and leverage the IFTTT platform to utilize the rich set of data (ie. Teams, OneNote, Calendar, User data, analytics, etc…) available in typical M365 organizations. | TypeScript | 13 | MIT License | 2019-11-19 | 2024-05-23 |
 | [meetings-capture-sample](https://github.com/microsoftgraph/meetings-capture-sample) | A Microsoft Teams solution that helps teams capture meeting minute notes inside individual channels | HTML | 33 | MIT License | 2019-12-12 | 2023-10-06 |
 | [msgraph-access-files-data](https://github.com/microsoftgraph/msgraph-access-files-data) | None | None | 8 | MIT License | 2020-01-06 | 2024-06-22 |
-| [msgraph-sdk-python-core](https://github.com/microsoftgraph/msgraph-sdk-python-core) | Microsoft Graph client library for Python | Python | 257 | MIT License | 2020-02-24 | 2024-07-19 |
+| [msgraph-sdk-python-core](https://github.com/microsoftgraph/msgraph-sdk-python-core) | Microsoft Graph client library for Python | Python | 257 | MIT License | 2020-02-24 | 2024-07-22 |
 | [msgraph-sample-javascriptspa](https://github.com/microsoftgraph/msgraph-sample-javascriptspa) | This sample demonstrates how to use the Microsoft Graph JavaScript SDK to access data in Office 365 from JavaScript browser apps. | JavaScript | 24 | MIT License | 2020-03-06 | 2024-05-17 |
 | [java-spring-webhooks-sample](https://github.com/microsoftgraph/java-spring-webhooks-sample) | Receive change notifications with data with the Microsoft Graph | Java | 38 | MIT License | 2020-03-09 | 2024-07-18 |
 | [mgtLap-TryItOut](https://github.com/microsoftgraph/mgtLap-TryItOut) | None | CSS | 19 | MIT License | 2020-04-02 | 2024-05-23 |
@@ -15123,22 +15123,22 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [msgraph-cli-core](https://github.com/microsoftgraph/msgraph-cli-core) | None | C# | 4 | MIT License | 2021-11-15 | 2024-07-20 |
 | [msgraph-beta-cli](https://github.com/microsoftgraph/msgraph-beta-cli) | None | C# | 1 | MIT License | 2021-11-15 | 2024-07-17 |
 | [msgraph-cli](https://github.com/microsoftgraph/msgraph-cli) | CLI tool for Microsoft Graph based on .NET | C# | 89 | MIT License | 2021-11-26 | 2024-07-17 |
-| [get-app-token](https://github.com/microsoftgraph/get-app-token) | This GitHub Action retrieves a GitHub App installation token for use in workflows | TypeScript | 11 | MIT License | 2021-12-01 | 2024-07-15 |
+| [get-app-token](https://github.com/microsoftgraph/get-app-token) | This GitHub Action retrieves a GitHub App installation token for use in workflows | TypeScript | 11 | MIT License | 2021-12-01 | 2024-07-22 |
 | [entra-powershell](https://github.com/microsoftgraph/entra-powershell) | Microsoft Entra PowerShell | PowerShell | 36 | MIT License | 2021-12-06 | 2024-07-21 |
 | [csdl-diagrams](https://github.com/microsoftgraph/csdl-diagrams) | Libraries and tools to process OData CSDL files and visualize them as diagrams. | C# | 3 | MIT License | 2021-12-16 | 2024-07-10 |
 | [msgraph-connectors-sdk](https://github.com/microsoftgraph/msgraph-connectors-sdk) | None | C# | 9 | - | 2022-02-11 | 2024-07-11 |
 | [msgraph-training-typescript](https://github.com/microsoftgraph/msgraph-training-typescript) | Completed project for Build TypeScript apps with Microsoft Graph | TypeScript | 8 | MIT License | 2022-04-04 | 2024-07-15 |
-| [msgraph-training-javascript](https://github.com/microsoftgraph/msgraph-training-javascript) | About Completed project for Build JavaScript apps with Microsoft Graph | JavaScript | 14 | MIT License | 2022-04-08 | 2024-07-01 |
-| [msgraph-training-go](https://github.com/microsoftgraph/msgraph-training-go) | Completed project for Build Go apps with Microsoft Graph | Go | 10 | MIT License | 2022-04-14 | 2024-06-24 |
-| [msgraph-training-php](https://github.com/microsoftgraph/msgraph-training-php) | Completed project for Build PHP apps with Microsoft Graph | PHP | 12 | MIT License | 2022-04-18 | 2024-07-14 |
+| [msgraph-training-javascript](https://github.com/microsoftgraph/msgraph-training-javascript) | About Completed project for Build JavaScript apps with Microsoft Graph | JavaScript | 14 | MIT License | 2022-04-08 | 2024-07-22 |
+| [msgraph-training-go](https://github.com/microsoftgraph/msgraph-training-go) | Completed project for Build Go apps with Microsoft Graph | Go | 10 | MIT License | 2022-04-14 | 2024-07-22 |
+| [msgraph-training-php](https://github.com/microsoftgraph/msgraph-training-php) | Completed project for Build PHP apps with Microsoft Graph | PHP | 13 | MIT License | 2022-04-18 | 2024-07-21 |
 | [msgraph-training-powershell](https://github.com/microsoftgraph/msgraph-training-powershell) | Completed project for Build PowerShell apps with Microsoft Graph | PowerShell | 17 | MIT License | 2022-04-19 | 2024-07-17 |
 | [msgraph-training-python](https://github.com/microsoftgraph/msgraph-training-python) | Completed project for Build Python apps with Microsoft Graph | Python | 56 | MIT License | 2022-04-26 | 2024-07-15 |
-| [msgraph-beta-sdk-typescript](https://github.com/microsoftgraph/msgraph-beta-sdk-typescript) | None | TypeScript | 1 | MIT License | 2022-06-28 | 2024-07-18 |
+| [msgraph-beta-sdk-typescript](https://github.com/microsoftgraph/msgraph-beta-sdk-typescript) | None | TypeScript | 1 | MIT License | 2022-06-28 | 2024-07-22 |
 | [group-membership-management-tenant](https://github.com/microsoftgraph/group-membership-management-tenant) | None | Bicep | 0 | - | 2022-07-29 | 2024-06-28 |
 | [kibali](https://github.com/microsoftgraph/kibali) | Tooling for managing Microsoft Graph Permissions | C# | 3 | - | 2022-08-24 | 2024-06-28 |
 | [.github](https://github.com/microsoftgraph/.github) | MicrosoftGraph GitHub organization configuration | None | 1 | MIT License | 2022-09-01 | 2024-05-20 |
-| [msgraph-sdk-python](https://github.com/microsoftgraph/msgraph-sdk-python) | None | Python | 332 | MIT License | 2022-09-09 | 2024-07-18 |
-| [msgraph-beta-sdk-python](https://github.com/microsoftgraph/msgraph-beta-sdk-python) | None | Python | 22 | MIT License | 2022-09-09 | 2024-07-18 |
+| [msgraph-sdk-python](https://github.com/microsoftgraph/msgraph-sdk-python) | None | Python | 332 | MIT License | 2022-09-09 | 2024-07-22 |
+| [msgraph-beta-sdk-python](https://github.com/microsoftgraph/msgraph-beta-sdk-python) | None | Python | 23 | MIT License | 2022-09-09 | 2024-07-22 |
 | [msgraph-dotnet-interactive-extension](https://github.com/microsoftgraph/msgraph-dotnet-interactive-extension) | An extension for .NET Interactive Notebooks that provides authenticated Microsoft Graph clients. | C# | 18 | MIT License | 2022-09-23 | 2024-06-24 |
 | [changelog-link-check](https://github.com/microsoftgraph/changelog-link-check) | This GitHub action blocks pull requests that include invalid links in changelog files | TypeScript | 0 | MIT License | 2022-12-02 | 2024-07-15 |
 | [msgraph-beta-sdk-ruby](https://github.com/microsoftgraph/msgraph-beta-sdk-ruby) | Microsoft Graph Beta Ruby SDK | Ruby | 6 | MIT License | 2022-12-28 | 2024-07-18 |
@@ -15150,7 +15150,7 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [msgraph-snippets-go](https://github.com/microsoftgraph/msgraph-snippets-go) | Repository of snippets in Microsoft Graph Go SDK documentation. | Go | 0 | MIT License | 2023-06-02 | 2024-07-15 |
 | [msgraph-snippets-typescript](https://github.com/microsoftgraph/msgraph-snippets-typescript) | Repository of snippets in Microsoft Graph TypeScript SDK documentation. | TypeScript | 1 | MIT License | 2023-06-06 | 2024-07-15 |
 | [eslint-config-msgraph](https://github.com/microsoftgraph/eslint-config-msgraph) | Shared eslint and prettier configs for the microsoftgraph org | JavaScript | 0 | MIT License | 2023-06-07 | 2024-05-23 |
-| [msgraph-snippets-java](https://github.com/microsoftgraph/msgraph-snippets-java) | About Repository of snippets in Microsoft Graph Java SDK documentation. | Java | 1 | MIT License | 2023-06-14 | 2024-06-24 |
+| [msgraph-snippets-java](https://github.com/microsoftgraph/msgraph-snippets-java) | About Repository of snippets in Microsoft Graph Java SDK documentation. | Java | 1 | MIT License | 2023-06-14 | 2024-07-22 |
 | [msgraph-snippets-php](https://github.com/microsoftgraph/msgraph-snippets-php) | Repository of snippets in Microsoft Graph PHP SDK documentation. | PHP | 0 | MIT License | 2023-06-26 | 2024-07-08 |
 | [msgraph-snippets-python](https://github.com/microsoftgraph/msgraph-snippets-python) | Repository of snippets in Microsoft Graph Python SDK documentation. | Python | 1 | MIT License | 2023-06-28 | 2024-07-15 |
 | [microsoft-graph-docs-contrib](https://github.com/microsoftgraph/microsoft-graph-docs-contrib) | Documentation for the Microsoft Graph REST API | PowerShell | 42 | Creative Commons Attribution 4.0 International | 2023-07-28 | 2024-07-20 |
@@ -15158,12 +15158,12 @@ The current published version works with Visual Studio 2015 Update 1 RC bits and
 | [msgraph-sample-github-connector-dotnet](https://github.com/microsoftgraph/msgraph-sample-github-connector-dotnet) | This .NET application shows how to create a Microsoft Graph connector for GitHub repos and issues. | C# | 7 | MIT License | 2023-10-05 | 2024-07-15 |
 | [msgraph-sample-github-connector-typescript](https://github.com/microsoftgraph/msgraph-sample-github-connector-typescript) | This Node.js application shows how to create a Microsoft Graph connector for GitHub repos and issues. | TypeScript | 1 | MIT License | 2023-10-06 | 2023-11-28 |
 | [msgraph-sample-github-connector-python](https://github.com/microsoftgraph/msgraph-sample-github-connector-python) | This Python application shows how to create a Microsoft Graph connector for GitHub repos and issues. | Python | 7 | MIT License | 2023-10-11 | 2024-07-16 |
-| [msgraph-connector-agent-sample](https://github.com/microsoftgraph/msgraph-connector-agent-sample) | This .NET application shows how to use the Microsoft Graph connector agent to create a connection to the Microsoft Search service and index custom items. | C# | 0 | MIT License | 2023-10-11 | 2024-05-27 |
+| [msgraph-connector-agent-sample](https://github.com/microsoftgraph/msgraph-connector-agent-sample) | This .NET application shows how to use the Microsoft Graph connector agent to create a connection to the Microsoft Search service and index custom items. | C# | 0 | MIT License | 2023-10-11 | 2024-07-22 |
 | [autorest](https://github.com/microsoftgraph/autorest) | OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python | TypeScript | 0 | MIT License | 2023-11-29 | 2023-11-29 |
 | [autorest.powershell](https://github.com/microsoftgraph/autorest.powershell) | AutoRest PowerShell Generator | C# | 2 | MIT License | 2023-12-05 | 2024-03-24 |
 | [msgraph-sample-eventgrid-notifications-dotnet](https://github.com/microsoftgraph/msgraph-sample-eventgrid-notifications-dotnet) | This C# sample listens for change notifications from Microsoft Graph delivered to Azure Event Grid. | C# | 0 | MIT License | 2023-12-07 | 2024-07-15 |
-| [msgraph-sample-eventgrid-notifications-typescript](https://github.com/microsoftgraph/msgraph-sample-eventgrid-notifications-typescript) | This TypeScript/Node.js sample listens for change notifications from Microsoft Graph delivered to Azure Event Grid. | TypeScript | 0 | MIT License | 2023-12-13 | 2024-07-15 |
-| [msgraph-sample-eventgrid-notifications-java](https://github.com/microsoftgraph/msgraph-sample-eventgrid-notifications-java) | This Java Spring sample listens for change notifications from Microsoft Graph delivered to Azure Event Grid. | Java | 0 | MIT License | 2023-12-21 | 2024-07-15 |
+| [msgraph-sample-eventgrid-notifications-typescript](https://github.com/microsoftgraph/msgraph-sample-eventgrid-notifications-typescript) | This TypeScript/Node.js sample listens for change notifications from Microsoft Graph delivered to Azure Event Grid. | TypeScript | 0 | MIT License | 2023-12-13 | 2024-07-22 |
+| [msgraph-sample-eventgrid-notifications-java](https://github.com/microsoftgraph/msgraph-sample-eventgrid-notifications-java) | This Java Spring sample listens for change notifications from Microsoft Graph delivered to Azure Event Grid. | Java | 0 | MIT License | 2023-12-21 | 2024-07-22 |
 | [msgraph-docs-validation](https://github.com/microsoftgraph/msgraph-docs-validation) | None | TypeScript | 0 | MIT License | 2024-01-10 | 2024-07-15 |
 | [msgraph-sdk-typescript-core](https://github.com/microsoftgraph/msgraph-sdk-typescript-core) | Core functionalities for the Microsoft Graph JavaScript SDKs fluent APIs | TypeScript | 0 | MIT License | 2024-01-24 | 2024-07-19 |
 | [msgraph-toc-gen](https://github.com/microsoftgraph/msgraph-toc-gen) | None | C# | 0 | MIT License | 2024-03-27 | 2024-07-15 |
