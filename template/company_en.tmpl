@@ -7,7 +7,7 @@ Top 3 Languages: {{ stat.top_3_languages }}
 Statistics Date: {{ time }}
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
-| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 {% for project in projects -%}
 | [{{ project.repo }}]({{ project.link }}) | {{ project.description }} | {{ project.language }} | {{ project.stars }} | {{ project.license if project.license }} | {{ project.created_at }} | {{ project.last_updated_at }} | {{ project.last_pushed_at }} |
 {% endfor %}
