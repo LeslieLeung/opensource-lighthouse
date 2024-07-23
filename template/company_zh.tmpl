@@ -7,7 +7,7 @@
 统计时间：{{ time }}
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
-| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 {% for project in projects -%}
 | [{{ project.repo }}]({{ project.link }}) | {{ project.description }} | {{ project.language }} | {{ project.stars }} | {{ project.license if project.license }} | {{ project.created_at }} | {{ project.last_updated_at }} | {{ project.last_pushed_at }} |
 {% endfor %}
