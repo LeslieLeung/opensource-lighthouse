@@ -1,13 +1,13 @@
 # X
 
-共 100 个项目，近半年内活跃项目 23 个，1 个团队， 201782 个 Star。
+共 100 个项目，近半年内活跃项目 23 个，1 个团队， 201784 个 Star。
 
 语言 Top 3：Scala, Java, Python
 
-统计时间：2024-07-23 08:22:00
+统计时间：2024-07-23 09:52:03
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
-| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | [hadoop-lzo](https://github.com/twitter/hadoop-lzo) | Refactored version of code.google.com/hadoop-gpl-compression for hadoop 0.20 | Shell | 546 | GNU General Public License v3.0 | 2009-09-21 | 2024-07-20 | 2024-04-24 |
 | [thrift_client](https://github.com/twitter/thrift_client) | A Thrift client wrapper that encapsulates some common failover behavior | Ruby | 196 | Apache License 2.0 | 2009-10-02 | 2023-11-15 | 2019-06-06 |
 | [twurl](https://github.com/twitter/twurl) | OAuth-enabled curl for the Twitter API | Ruby | 1790 | MIT License | 2009-10-18 | 2024-07-10 | 2023-07-20 |
@@ -107,4 +107,4 @@
 | [focus](https://github.com/twitter/focus) | Focus aligns Git worktree content based on outlines of a repository's Bazel build graph. Focused repos are sparse, shallow, and thin and unlock markedly better performance in large repos. | Rust | 92 | Apache License 2.0 | 2022-08-30 | 2024-07-05 | 2023-05-12 |
 | [birdwatch](https://github.com/twitter/birdwatch) | None | None | 66 | - | 2022-11-06 | 2024-07-08 | 2023-04-03 |
 | [the-algorithm](https://github.com/twitter/the-algorithm) | Source code for Twitter's Recommendation Algorithm | Scala | 61778 | GNU Affero General Public License v3.0 | 2023-03-27 | 2024-07-23 | 2024-07-10 |
-| [the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) | Source code for Twitter's Recommendation Algorithm | Python | 9974 | GNU Affero General Public License v3.0 | 2023-03-27 | 2024-07-22 | 2024-07-10 |
+| [the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) | Source code for Twitter's Recommendation Algorithm | Python | 9976 | GNU Affero General Public License v3.0 | 2023-03-27 | 2024-07-23 | 2024-07-10 |

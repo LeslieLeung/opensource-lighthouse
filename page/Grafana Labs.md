@@ -1,15 +1,15 @@
 # Grafana Labs
 
-共 707 个项目，近半年内活跃项目 351 个，1 个团队， 165248 个 Star。
+共 707 个项目，近半年内活跃项目 351 个，1 个团队， 165259 个 Star。
 
 语言 Top 3：Go, TypeScript, JavaScript
 
-统计时间：2024-07-23 08:22:00
+统计时间：2024-07-23 09:52:03
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
-| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | [carbon-relay-ng](https://github.com/grafana/carbon-relay-ng) | Fast carbon relay+aggregator with admin interfaces for making changes online - production ready | Go | 464 | Other | 2012-04-21 | 2024-07-03 | 2024-06-14 |
-| [grafana](https://github.com/grafana/grafana) | The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  | TypeScript | 61715 | GNU Affero General Public License v3.0 | 2013-12-11 | 2024-07-23 | 2024-07-23 |
+| [grafana](https://github.com/grafana/grafana) | The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  | TypeScript | 61717 | GNU Affero General Public License v3.0 | 2013-12-11 | 2024-07-23 | 2024-07-23 |
 | [grafana-docker-dev-env](https://github.com/grafana/grafana-docker-dev-env) | Dockerfile with graphite, grafana, elasticsearch, statsd, fake data generator | Python | 45 | - | 2014-03-16 | 2023-07-25 | 2016-02-11 |
 | [ansible-grafana](https://github.com/grafana/ansible-grafana) | Ansible role for grafana deployment | None | 8 | - | 2014-05-01 | 2020-04-27 | 2014-04-07 |
 | [puppet-grafana](https://github.com/grafana/puppet-grafana) | Grafana Puppet Module | Puppet | 5 | MIT License | 2014-05-01 | 2023-01-28 | 2014-03-27 |
@@ -51,14 +51,14 @@
 | [grafonnet-lib](https://github.com/grafana/grafonnet-lib) | Jsonnet library for generating Grafana dashboard files. | Jsonnet | 1079 | Apache License 2.0 | 2017-10-17 | 2024-07-20 | 2023-06-26 |
 | [react-grid-layout](https://github.com/grafana/react-grid-layout) | A draggable and resizable grid layout with responsive breakpoints, for React. | JavaScript | 5 | MIT License | 2017-10-18 | 2021-04-13 | 2018-02-27 |
 | [azure-template](https://github.com/grafana/azure-template) | None | Shell | 4 | - | 2017-10-20 | 2023-05-11 | 2023-05-11 |
-| [jsonnet-libs](https://github.com/grafana/jsonnet-libs) | Grafana Labs' Jsonnet libraries | Jsonnet | 609 | Other | 2017-10-31 | 2024-07-19 | 2024-07-22 |
+| [jsonnet-libs](https://github.com/grafana/jsonnet-libs) | Grafana Labs' Jsonnet libraries | Jsonnet | 609 | Other | 2017-10-31 | 2024-07-23 | 2024-07-23 |
 | [worldping-gw](https://github.com/grafana/worldping-gw) | Worldping Gateway service | Go | 0 | Apache License 2.0 | 2017-11-20 | 2023-01-09 | 2021-04-21 |
 | [grafana-plugin-model](https://github.com/grafana/grafana-plugin-model) | None | Go | 7 | Apache License 2.0 | 2018-01-16 | 2023-01-28 | 2020-05-14 |
 | [kubernetes-app](https://github.com/grafana/kubernetes-app) | A set of dashboards and panels for kubernetes. | TypeScript | 400 | Apache License 2.0 | 2018-01-23 | 2024-07-18 | 2021-02-15 |
 | [grafana-build-container](https://github.com/grafana/grafana-build-container) | Grafanas build container | Dockerfile | 6 | Apache License 2.0 | 2018-02-21 | 2023-01-28 | 2019-11-15 |
 | [cortex](https://github.com/grafana/cortex) | A multitenant, horizontally scalable Prometheus as a Service | Go | 25 | Apache License 2.0 | 2018-03-26 | 2023-02-23 | 2021-07-19 |
 | [build-container-cross](https://github.com/grafana/build-container-cross) | None | None | 0 | - | 2018-04-09 | 2018-04-09 | 2018-04-09 |
-| [loki](https://github.com/grafana/loki) | Like Prometheus, but for logs. | Go | 22899 | GNU Affero General Public License v3.0 | 2018-04-16 | 2024-07-23 | 2024-07-23 |
+| [loki](https://github.com/grafana/loki) | Like Prometheus, but for logs. | Go | 22902 | GNU Affero General Public License v3.0 | 2018-04-16 | 2024-07-23 | 2024-07-23 |
 | [devtools](https://github.com/grafana/devtools) | Various tools used by the developers of Grafana.  | Go | 11 | Apache License 2.0 | 2018-04-24 | 2023-10-22 | 2021-07-09 |
 | [grafana-image-renderer](https://github.com/grafana/grafana-image-renderer) | A Grafana backend plugin that handles rendering of panels & dashboards to PNGs using headless browser (Chromium/Chrome) | TypeScript | 361 | Apache License 2.0 | 2018-05-18 | 2024-07-15 | 2024-07-15 |
 | [test.k6.io](https://github.com/grafana/test.k6.io) | Simple PHP site to experiment with k6 | Hack | 2 | Apache License 2.0 | 2018-06-13 | 2023-11-14 | 2023-08-28 |
@@ -94,7 +94,7 @@
 | [tanka](https://github.com/grafana/tanka) | Flexible, reusable and concise configuration for Kubernetes | Go | 2298 | Apache License 2.0 | 2019-07-17 | 2024-07-23 | 2024-07-22 |
 | [gel-app](https://github.com/grafana/gel-app) | Experimental Grafana Backend Expressions/Transform Plugin (GEL) | Go | 2 | Apache License 2.0 | 2019-08-12 | 2023-01-28 | 2020-11-19 |
 | [grafana-starter-datasource](https://github.com/grafana/grafana-starter-datasource) | A starter for Grafana data source plugins | TypeScript | 19 | Apache License 2.0 | 2019-09-13 | 2023-06-25 | 2023-01-27 |
-| [grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) | A Go SDK for building backend plugins for Grafana | Go | 193 | Apache License 2.0 | 2019-09-23 | 2024-07-18 | 2024-07-22 |
+| [grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) | A Go SDK for building backend plugins for Grafana | Go | 193 | Apache License 2.0 | 2019-09-23 | 2024-07-18 | 2024-07-23 |
 | [golang](https://github.com/grafana/golang) | Docker Official Image packaging for golang | None | 0 | BSD 3-Clause "New" or "Revised" License | 2019-10-01 | 2019-10-01 | 2019-10-01 |
 | [opcua-datasource](https://github.com/grafana/opcua-datasource) | An OPC UA datasource for reading from OPC UA servers (DA/HDA/AE) into Grafana directly | CSS | 53 | GNU Affero General Public License v3.0 | 2019-10-21 | 2024-04-19 | 2024-07-10 |
 | [puppet-promtail](https://github.com/grafana/puppet-promtail) | Deploy and configure Grafana's Promtail with Puppet | Ruby | 17 | Apache License 2.0 | 2019-10-22 | 2023-09-26 | 2024-07-09 |
@@ -104,7 +104,7 @@
 | [tutorials](https://github.com/grafana/tutorials) | A series of tutorials for helping you make the most out of Grafana. | Makefile | 111 | Apache License 2.0 | 2019-11-04 | 2024-05-01 | 2023-01-30 |
 | [k6-timescaledb-stack](https://github.com/grafana/k6-timescaledb-stack) | Load testing stack - k6, TimescaleDB and Grafana | None | 30 | Apache License 2.0 | 2019-11-09 | 2023-01-28 | 2022-02-04 |
 | [cortex-jsonnet](https://github.com/grafana/cortex-jsonnet) | Deprecated: see https://github.com/grafana/mimir/tree/main/operations/mimir instead | Jsonnet | 74 | Apache License 2.0 | 2019-11-16 | 2024-05-17 | 2023-01-13 |
-| [agent](https://github.com/grafana/agent) | Vendor-neutral programmable observability pipelines. | Go | 1570 | Apache License 2.0 | 2019-11-25 | 2024-07-22 | 2024-07-18 |
+| [agent](https://github.com/grafana/agent) | Vendor-neutral programmable observability pipelines. | Go | 1571 | Apache License 2.0 | 2019-11-25 | 2024-07-23 | 2024-07-18 |
 | [strava-datasource](https://github.com/grafana/strava-datasource) | Strava datasource for Grafana dashboard | TypeScript | 179 | MIT License | 2019-11-29 | 2024-07-16 | 2024-04-05 |
 | [k6-example-azure-pipelines](https://github.com/grafana/k6-example-azure-pipelines) | How to run k6 load tests as part of a Azure Pipelines build | JavaScript | 18 | Apache License 2.0 | 2019-12-06 | 2023-12-06 | 2023-12-16 |
 | [k6-example-github-actions](https://github.com/grafana/k6-example-github-actions) | None | JavaScript | 32 | - | 2019-12-06 | 2024-04-09 | 2023-12-16 |
@@ -115,7 +115,7 @@
 | [synthetic-monitoring-app](https://github.com/grafana/synthetic-monitoring-app) | Synthetic Monitoring frontend application | TypeScript | 119 | GNU Affero General Public License v3.0 | 2020-01-09 | 2024-07-23 | 2024-07-23 |
 | [pentagon](https://github.com/grafana/pentagon) | Vault <-> Kubernetes Secrets | Go | 12 | Apache License 2.0 | 2020-01-23 | 2024-03-12 | 2022-01-25 |
 | [google-sheets-datasource](https://github.com/grafana/google-sheets-datasource) | Load Google Sheets in grafana | Go | 126 | Apache License 2.0 | 2020-01-24 | 2024-07-11 | 2024-07-11 |
-| [tempo](https://github.com/grafana/tempo) | Grafana Tempo is a high volume, minimal dependency distributed tracing backend. | Go | 3790 | GNU Affero General Public License v3.0 | 2020-01-24 | 2024-07-23 | 2024-07-23 |
+| [tempo](https://github.com/grafana/tempo) | Grafana Tempo is a high volume, minimal dependency distributed tracing backend. | Go | 3791 | GNU Affero General Public License v3.0 | 2020-01-24 | 2024-07-23 | 2024-07-23 |
 | [awesome-k6](https://github.com/grafana/awesome-k6) | A curated list of awesome tools, content and projects using k6 | None | 552 | Creative Commons Zero v1.0 Universal | 2020-01-28 | 2024-07-23 | 2024-07-21 |
 | [gsoc](https://github.com/grafana/gsoc) | Google summer of code  | None | 2 | MIT License | 2020-01-29 | 2023-01-28 | 2020-01-29 |
 | [node_exporter](https://github.com/grafana/node_exporter) | Exporter for machine metrics | Go | 3 | Apache License 2.0 | 2020-01-30 | 2024-06-11 | 2024-06-11 |
@@ -128,7 +128,7 @@
 | [django-statsd](https://github.com/grafana/django-statsd) | None | Python | 0 | Other | 2020-03-12 | 2020-03-12 | 2020-03-12 |
 | [timestream-datasource](https://github.com/grafana/timestream-datasource) | Amazon Timestream in Grafana | TypeScript | 23 | Apache License 2.0 | 2020-03-19 | 2024-07-04 | 2024-07-04 |
 | [k6-template-es6](https://github.com/grafana/k6-template-es6) | Template using Webpack and Babel to enable ES6 features in k6 tests | JavaScript | 81 | Apache License 2.0 | 2020-03-27 | 2024-07-12 | 2024-01-26 |
-| [github-datasource](https://github.com/grafana/github-datasource) | Grafana data source plugin using the Github API to retrieve and visualize Github data. | Go | 227 | Apache License 2.0 | 2020-03-27 | 2024-07-12 | 2024-07-22 |
+| [github-datasource](https://github.com/grafana/github-datasource) | Grafana data source plugin using the Github API to retrieve and visualize Github data. | Go | 227 | Apache License 2.0 | 2020-03-27 | 2024-07-23 | 2024-07-23 |
 | [grizzly](https://github.com/grafana/grizzly) | A utility for managing Jsonnet dashboards against the Grafana API | Go | 473 | Apache License 2.0 | 2020-03-28 | 2024-07-19 | 2024-07-19 |
 | [go-rsmq](https://github.com/grafana/go-rsmq) | Go implementation of https://github.com/smrchy/rsmq | Go | 10 | - | 2020-03-30 | 2023-06-16 | 2020-07-28 |
 | [k6-integrations-extras](https://github.com/grafana/k6-integrations-extras) | Community developed integrations and plugins for the Datadog Agent. | Python | 1 | BSD 3-Clause "New" or "Revised" License | 2020-04-06 | 2024-05-22 | 2020-08-06 |
@@ -167,7 +167,7 @@
 | [chaostoolkit-k6](https://github.com/grafana/chaostoolkit-k6) | None | Python | 13 | Apache License 2.0 | 2020-08-25 | 2024-03-11 | 2023-05-10 |
 | [k6-operator](https://github.com/grafana/k6-operator) | An operator for running distributed k6 tests. | Go | 543 | Apache License 2.0 | 2020-08-27 | 2024-07-19 | 2024-07-22 |
 | [process-exporter](https://github.com/grafana/process-exporter) | Prometheus exporter that mines /proc to report on selected processes  | Go | 0 | MIT License | 2020-09-02 | 2021-01-06 | 2021-01-06 |
-| [grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) | CSV, JSON, GraphQL, XML and HTML datasource for grafana. | TypeScript | 694 | Apache License 2.0 | 2020-09-04 | 2024-07-22 | 2024-07-22 |
+| [grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) | CSV, JSON, GraphQL, XML and HTML datasource for grafana. | TypeScript | 695 | Apache License 2.0 | 2020-09-04 | 2024-07-23 | 2024-07-22 |
 | [drone-downstream](https://github.com/grafana/drone-downstream) | Drone plugin to trigger downstream repositories to build | Go | 0 | Apache License 2.0 | 2020-09-10 | 2022-07-19 | 2023-10-04 |
 | [k6-example-jenkins](https://github.com/grafana/k6-example-jenkins) | How to run k6 load tests as part of a Jenkins build | Shell | 9 | Apache License 2.0 | 2020-09-14 | 2024-01-29 | 2023-12-18 |
 | [k6-example-circleci](https://github.com/grafana/k6-example-circleci) | How to run k6 load tests as part of a CircleCI build | Shell | 2 | Apache License 2.0 | 2020-09-15 | 2023-01-28 | 2022-03-07 |
@@ -210,7 +210,7 @@
 | [consul_exporter](https://github.com/grafana/consul_exporter) | Exporter for Consul metrics | None | 0 | Apache License 2.0 | 2020-12-02 | 2020-12-02 | 2020-12-02 |
 | [open-distro-for-elasticsearch-grafana-datasource](https://github.com/grafana/open-distro-for-elasticsearch-grafana-datasource) | Plugin for Open Distro for Elasticsearch  | TypeScript | 6 | Apache License 2.0 | 2020-12-07 | 2022-11-09 | 2023-01-10 |
 | [spring-boot-demo](https://github.com/grafana/spring-boot-demo) | A simple Spring Boot app to demo monitoring. | Java | 2 | Apache License 2.0 | 2020-12-30 | 2023-10-25 | 2021-12-13 |
-| [pyroscope](https://github.com/grafana/pyroscope) | Continuous Profiling Platform. Debug performance issues down to a single line of code | C | 9694 | GNU Affero General Public License v3.0 | 2020-12-31 | 2024-07-23 | 2024-07-22 |
+| [pyroscope](https://github.com/grafana/pyroscope) | Continuous Profiling Platform. Debug performance issues down to a single line of code | C | 9694 | GNU Affero General Public License v3.0 | 2020-12-31 | 2024-07-23 | 2024-07-23 |
 | [nodejs-demo](https://github.com/grafana/nodejs-demo) | A simple Node.js app to demo monitoring. | JavaScript | 0 | Apache License 2.0 | 2020-12-31 | 2020-12-31 | 2020-12-31 |
 | [json-iterator-go](https://github.com/grafana/json-iterator-go) | A high-performance 100% compatible drop-in replacement of "encoding/json" | None | 0 | MIT License | 2021-01-12 | 2021-01-12 | 2021-01-12 |
 | [smtprelay](https://github.com/grafana/smtprelay) | Simple Golang SMTP relay/proxy server | Go | 48 | MIT License | 2021-01-13 | 2024-07-19 | 2024-07-09 |
@@ -295,7 +295,7 @@
 | [xk6-output-timescaledb](https://github.com/grafana/xk6-output-timescaledb) | k6 extension to output real-time test metrics to TimescaleDB. | Go | 26 | Apache License 2.0 | 2021-07-29 | 2024-07-22 | 2024-06-10 |
 | [dskit](https://github.com/grafana/dskit) | Distributed systems kit | Go | 441 | Apache License 2.0 | 2021-08-04 | 2024-07-19 | 2024-07-23 |
 | [gem-gel-workshop](https://github.com/grafana/gem-gel-workshop) | None | None | 2 | Apache License 2.0 | 2021-08-04 | 2021-08-18 | 2021-08-18 |
-| [mimir-prometheus](https://github.com/grafana/mimir-prometheus) | None | Go | 32 | Apache License 2.0 | 2021-08-06 | 2024-07-17 | 2024-07-22 |
+| [mimir-prometheus](https://github.com/grafana/mimir-prometheus) | None | Go | 32 | Apache License 2.0 | 2021-08-06 | 2024-07-17 | 2024-07-23 |
 | [boilr](https://github.com/grafana/boilr) | :zap: boilerplate template manager that generates files or directories from template repositories | None | 0 | Apache License 2.0 | 2021-08-06 | 2021-08-06 | 2021-08-06 |
 | [bors-ng](https://github.com/grafana/bors-ng) | 👁 A merge bot for GitHub Pull Requests | Elixir | 1 | Apache License 2.0 | 2021-08-17 | 2022-09-03 | 2021-08-17 |
 | [thanos](https://github.com/grafana/thanos) | Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. | Go | 1 | Apache License 2.0 | 2021-08-20 | 2023-10-25 | 2023-01-15 |
@@ -311,7 +311,7 @@
 | [google-bigquery-datasource](https://github.com/grafana/google-bigquery-datasource) | Google BigQuery Datasource Plugin for Grafana. | TypeScript | 24 | Apache License 2.0 | 2021-09-15 | 2024-07-17 | 2024-07-17 |
 | [httpbin](https://github.com/grafana/httpbin) | An HTTPBin site to experiment with the k6 HTTP API | Python | 2 | ISC License | 2021-09-20 | 2023-08-23 | 2023-08-23 |
 | [sentry-datasource](https://github.com/grafana/sentry-datasource) | Grafana data source plugin for Sentry. | TypeScript | 21 | Apache License 2.0 | 2021-09-20 | 2024-07-22 | 2024-07-22 |
-| [plugin-tools](https://github.com/grafana/plugin-tools) | Create Grafana plugins with ease. | TypeScript | 55 | Apache License 2.0 | 2021-09-21 | 2024-07-16 | 2024-07-22 |
+| [plugin-tools](https://github.com/grafana/plugin-tools) | Create Grafana plugins with ease. | TypeScript | 55 | Apache License 2.0 | 2021-09-21 | 2024-07-16 | 2024-07-23 |
 | [faro-web-sdk](https://github.com/grafana/faro-web-sdk) | The Grafana Faro Web SDK, part of the Grafana Faro project, is a highly configurable web SDK for real user monitoring (RUM) that instruments browser frontend applications to capture observability signals. Frontend telemetry can then be correlated with backend and infrastructure data for full-stack observability. | TypeScript | 693 | Apache License 2.0 | 2021-09-23 | 2024-07-22 | 2024-07-10 |
 | [orbit_integrations_k6](https://github.com/grafana/orbit_integrations_k6) | None | None | 0 | - | 2021-09-29 | 2022-01-25 | 2021-09-29 |
 | [grafana-google-sdk-go](https://github.com/grafana/grafana-google-sdk-go) | Repo for sharing go code between Google data source plugins for Grafana | Go | 3 | Apache License 2.0 | 2021-10-04 | 2023-06-20 | 2023-05-04 |
@@ -377,7 +377,7 @@
 | [alpine-docker-image](https://github.com/grafana/alpine-docker-image) | Alpine Linux Docker image | Makefile | 2 | - | 2022-02-09 | 2023-06-20 | 2022-04-05 |
 | [clearbit-python](https://github.com/grafana/clearbit-python) | Clearbit Python library | Python | 0 | MIT License | 2022-02-10 | 2022-02-21 | 2022-02-21 |
 | [social-image](https://github.com/grafana/social-image) | little helper for throwing in a docker image and spitting out png files | None | 0 | Apache License 2.0 | 2022-02-15 | 2023-07-25 | 2022-02-15 |
-| [otel-profiling-go](https://github.com/grafana/otel-profiling-go) | Open Telemetry integration for Grafana Pyroscope and tracing solutions such as Grafana Tempo, Honeycomb, or Jaeger | Go | 74 | Apache License 2.0 | 2022-02-28 | 2024-06-28 | 2024-03-15 |
+| [otel-profiling-go](https://github.com/grafana/otel-profiling-go) | Open Telemetry integration for Grafana Pyroscope and tracing solutions such as Grafana Tempo, Honeycomb, or Jaeger | Go | 75 | Apache License 2.0 | 2022-02-28 | 2024-07-23 | 2024-03-15 |
 | [certified-operators](https://github.com/grafana/certified-operators) | Production catalog for Red Hat Certified Operator Bundles  | None | 0 | Apache License 2.0 | 2022-03-01 | 2022-02-21 | 2022-03-08 |
 | [lezer-logql](https://github.com/grafana/lezer-logql) | LogQL lezer grammar | JavaScript | 2 | Apache License 2.0 | 2022-03-02 | 2024-07-11 | 2024-07-11 |
 | [xyz-chart](https://github.com/grafana/xyz-chart) | XYZ Chart panel | TypeScript | 17 | Apache License 2.0 | 2022-03-04 | 2024-07-13 | 2024-05-31 |
@@ -395,7 +395,7 @@
 | [smimesign](https://github.com/grafana/smimesign) | An S/MIME signing utility for use with Git | Go | 0 | MIT License | 2022-03-16 | 2022-04-06 | 2022-04-08 |
 | [amixr-api-go-client](https://github.com/grafana/amixr-api-go-client) | None | Go | 3 | Apache License 2.0 | 2022-03-18 | 2024-07-05 | 2024-07-05 |
 | [code-coverage](https://github.com/grafana/code-coverage) | None | None | 0 | - | 2022-03-23 | 2022-03-23 | 2023-11-02 |
-| [intro-to-mltp](https://github.com/grafana/intro-to-mltp) | Introduction to Metrics, Logs, Traces and Profiles session companion code. | JavaScript | 281 | GNU Affero General Public License v3.0 | 2022-03-23 | 2024-07-20 | 2024-07-23 |
+| [intro-to-mltp](https://github.com/grafana/intro-to-mltp) | Introduction to Metrics, Logs, Traces and Profiles session companion code. | JavaScript | 282 | GNU Affero General Public License v3.0 | 2022-03-23 | 2024-07-23 | 2024-07-23 |
 | [loki-query-tee](https://github.com/grafana/loki-query-tee) | None | None | 0 | GNU Affero General Public License v3.0 | 2022-03-28 | 2022-03-28 | 2022-03-28 |
 | [incident-community](https://github.com/grafana/incident-community) | Public repository for Grafana Incident feedback, bug reports, discussions, and updates. | None | 25 | - | 2022-04-01 | 2024-05-28 | 2023-05-02 |
 | [slack-notify](https://github.com/grafana/slack-notify) | A Dockerized tool for sending messages to Slack channels | Go | 1 | Other | 2022-04-04 | 2022-04-12 | 2022-04-12 |
@@ -477,7 +477,7 @@
 | [crossplane-provider-aws](https://github.com/grafana/crossplane-provider-aws) | Official AWS Provider for Crossplane by Upbound. | None | 1 | Apache License 2.0 | 2022-12-15 | 2024-03-12 | 2024-03-26 |
 | [kubectl-nodepools](https://github.com/grafana/kubectl-nodepools) | A kubectl plugin for listing node pools/groups | Go | 18 | Apache License 2.0 | 2022-12-16 | 2024-05-29 | 2024-06-17 |
 | [slo-workshop-breakouts](https://github.com/grafana/slo-workshop-breakouts) | Breakout instructions for the SLO workshop | None | 7 | GNU Affero General Public License v3.0 | 2022-12-19 | 2024-06-21 | 2024-06-21 |
-| [scenes](https://github.com/grafana/scenes) | Build Grafana dashboards directly in your Grafana app plugins. | TypeScript | 127 | Apache License 2.0 | 2023-01-04 | 2024-07-22 | 2024-07-22 |
+| [scenes](https://github.com/grafana/scenes) | Build Grafana dashboards directly in your Grafana app plugins. | TypeScript | 127 | Apache License 2.0 | 2023-01-04 | 2024-07-22 | 2024-07-23 |
 | [pdc-agent](https://github.com/grafana/pdc-agent) | Private Datasource Connect Agent  | Go | 24 | Apache License 2.0 | 2023-01-05 | 2024-07-23 | 2024-07-23 |
 | [cloudflare-go](https://github.com/grafana/cloudflare-go) | Go library for the Cloudflare v4 API | None | 0 | BSD 3-Clause "New" or "Revised" License | 2023-01-10 | 2023-01-10 | 2023-01-11 |
 | [milksnakex](https://github.com/grafana/milksnakex) | A continuation of milksnake | Python | 0 | Apache License 2.0 | 2023-01-14 | 2023-04-27 | 2023-01-19 |
@@ -490,7 +490,7 @@
 | [dataplane](https://github.com/grafana/dataplane) | Grafana data plane tools and docs | Go | 9 | Apache License 2.0 | 2023-02-07 | 2024-06-27 | 2024-06-27 |
 | [grafonnet](https://github.com/grafana/grafonnet) | Jsonnet library for generating Grafana dashboards. | Jsonnet | 326 | Apache License 2.0 | 2023-02-08 | 2024-07-22 | 2024-07-19 |
 | [asserts-otel-processor](https://github.com/grafana/asserts-otel-processor) | OTEL Collector Processor to process spans | Go | 0 | - | 2023-02-17 | 2024-04-08 | 2023-10-09 |
-| [beyla](https://github.com/grafana/beyla) | eBPF-based autoinstrumentation of web applications and network metrics | C | 1275 | Apache License 2.0 | 2023-02-20 | 2024-07-22 | 2024-07-22 |
+| [beyla](https://github.com/grafana/beyla) | eBPF-based autoinstrumentation of web applications and network metrics | C | 1275 | Apache License 2.0 | 2023-02-20 | 2024-07-22 | 2024-07-23 |
 | [incident-go](https://github.com/grafana/incident-go) | Clients, scripts and examples for using the Grafana Incident API | Go | 1 | - | 2023-02-23 | 2023-05-17 | 2023-11-28 |
 | [grafana-build](https://github.com/grafana/grafana-build) | GitHub actions and packages for building Grafana | Rich Text Format | 7 | Apache License 2.0 | 2023-02-27 | 2024-07-15 | 2024-07-15 |
 | [action-setup-mage](https://github.com/grafana/action-setup-mage) | GitHub action for installing Mage. | JavaScript | 0 | - | 2023-02-28 | 2023-02-28 | 2023-02-28 |
@@ -573,7 +573,7 @@
 | [opentelemetry-go](https://github.com/grafana/opentelemetry-go) | OpenTelemetry Go API and SDK | Go | 0 | Apache License 2.0 | 2023-08-21 | 2024-05-24 | 2024-07-19 |
 | [k6-grpcbin](https://github.com/grafana/k6-grpcbin) | A simple gRPC service to experiment with the k6 gRCP API | Go | 4 | Apache License 2.0 | 2023-08-23 | 2024-07-11 | 2023-11-30 |
 | [grafana-openai-monitoring](https://github.com/grafana/grafana-openai-monitoring) | Python and NodeJS packages that monitors OpenAI API calls and send OpenAI usage metrics and logs to Grafana Cloud | Python | 19 | GNU General Public License v3.0 | 2023-08-23 | 2024-07-17 | 2024-04-25 |
-| [shared-workflows](https://github.com/grafana/shared-workflows) | A public-facing, centralized place to store reusable workflows used by Grafana Labs. | Go | 2 | GNU Affero General Public License v3.0 | 2023-08-23 | 2024-07-22 | 2024-07-22 |
+| [shared-workflows](https://github.com/grafana/shared-workflows) | A public-facing, centralized place to store reusable workflows used by Grafana Labs. | Go | 2 | GNU Affero General Public License v3.0 | 2023-08-23 | 2024-07-22 | 2024-07-23 |
 | [crossplane-provider-sql](https://github.com/grafana/crossplane-provider-sql) | An SQL provider for @crossplane | None | 0 | Apache License 2.0 | 2023-08-24 | 2023-08-24 | 2023-09-19 |
 | [grafana-opentelemetry-dotnet](https://github.com/grafana/grafana-opentelemetry-dotnet) | Grafana's distribution of OpenTelemetry instrumentation for .NET | C# | 29 | Apache License 2.0 | 2023-08-24 | 2024-07-15 | 2024-07-18 |
 | [river](https://github.com/grafana/river) | HCL-inspired configuration built for Grafana Agent | Go | 20 | Apache License 2.0 | 2023-08-25 | 2024-05-10 | 2024-04-09 |
@@ -623,13 +623,13 @@
 | [faro-javascript-bundler-plugins](https://github.com/grafana/faro-javascript-bundler-plugins) | A collection of plugins for various JavaScript bundlers. Used in conjunction with the Faro Web SDK to unlock additional features in Grafana Cloud Frontend Observability. | TypeScript | 3 | Apache License 2.0 | 2023-12-26 | 2024-07-03 | 2024-06-25 |
 | [go-jsonnet-debugger](https://github.com/grafana/go-jsonnet-debugger) | Fork of https://github.com/google/go-jsonnet adding debugging support to be submitted upstream | None | 0 | Apache License 2.0 | 2023-12-28 | 2024-06-11 | 2023-12-28 |
 | [redis-py](https://github.com/grafana/redis-py) | Redis Python Client | Python | 0 | MIT License | 2023-12-28 | 2023-12-28 | 2023-12-28 |
-| [backstage-plugin-grafana-catalog](https://github.com/grafana/backstage-plugin-grafana-catalog) | None | TypeScript | 6 | Apache License 2.0 | 2024-01-02 | 2024-07-08 | 2024-07-02 |
+| [backstage-plugin-grafana-catalog](https://github.com/grafana/backstage-plugin-grafana-catalog) | None | TypeScript | 7 | Apache License 2.0 | 2024-01-02 | 2024-07-23 | 2024-07-02 |
 | [collector-configurator](https://github.com/grafana/collector-configurator) | Fork of the agent configurator to work with otel | TypeScript | 0 | Apache License 2.0 | 2024-01-03 | 2024-01-29 | 2024-01-26 |
 | [slo-openapi-client](https://github.com/grafana/slo-openapi-client) | None | Mustache | 1 | Apache License 2.0 | 2024-01-11 | 2024-07-17 | 2024-07-17 |
 | [terraform-provider-grafana-adaptive-metrics](https://github.com/grafana/terraform-provider-grafana-adaptive-metrics) | Terraform provider for Grafana Adaptive Metrics | Go | 4 | Mozilla Public License 2.0 | 2024-01-11 | 2024-07-16 | 2024-07-16 |
 | [tap-mysql](https://github.com/grafana/tap-mysql) | Singer.io Tap for MySQL | Python | 0 | GNU Affero General Public License v3.0 | 2024-01-15 | 2024-01-15 | 2024-01-15 |
 | [k6-rollup-example](https://github.com/grafana/k6-rollup-example) | Example using `Rollup` to bundle k6 tests and release a shared library. | JavaScript | 3 | Apache License 2.0 | 2024-01-18 | 2024-05-02 | 2024-01-26 |
-| [grafana-com-public-clients](https://github.com/grafana/grafana-com-public-clients) | grafana.com API Clients | Mustache | 1 | - | 2024-01-18 | 2024-07-22 | 2024-07-22 |
+| [grafana-com-public-clients](https://github.com/grafana/grafana-com-public-clients) | grafana.com API Clients | Mustache | 1 | - | 2024-01-18 | 2024-07-23 | 2024-07-23 |
 | [agent-splitter](https://github.com/grafana/agent-splitter) | None | None | 1 | - | 2024-01-18 | 2024-02-05 | 2024-01-18 |
 | [agent-remote-config](https://github.com/grafana/agent-remote-config) | None | Makefile | 0 | Apache License 2.0 | 2024-01-22 | 2024-02-01 | 2024-05-07 |
 | [yugabyte-datasource](https://github.com/grafana/yugabyte-datasource) | The Yugabyte data source for Grafana allows you to query and visualize data from YugabyteDB. | TypeScript | 0 | Apache License 2.0 | 2024-01-24 | 2024-07-11 | 2024-07-11 |
@@ -653,7 +653,7 @@
 | [loki-hackathon-2024-03-logger-info](https://github.com/grafana/loki-hackathon-2024-03-logger-info) | Like Prometheus, but for logs. | Go | 0 | GNU Affero General Public License v3.0 | 2024-03-01 | 2024-03-04 | 2024-03-27 |
 | [proposals](https://github.com/grafana/proposals) | Design documents for Prometheus Ecosystem | None | 0 | Apache License 2.0 | 2024-03-01 | 2024-03-01 | 2024-02-01 |
 | [hackathon-2024-03-docbooks-docs](https://github.com/grafana/hackathon-2024-03-docbooks-docs) | None | None | 0 | - | 2024-03-02 | 2024-03-02 | 2024-03-07 |
-| [killercoda](https://github.com/grafana/killercoda) | This repository holds tutorials designed and hosted on Killercoda and interactive education platform. | Go | 2 | Apache License 2.0 | 2024-03-07 | 2024-07-22 | 2024-07-22 |
+| [killercoda](https://github.com/grafana/killercoda) | This repository holds tutorials designed and hosted on Killercoda and interactive education platform. | Go | 2 | Apache License 2.0 | 2024-03-07 | 2024-07-22 | 2024-07-23 |
 | [grafana-scenessubtabs-scenesapp](https://github.com/grafana/grafana-scenessubtabs-scenesapp) | A PoC of sub-tabs rendering within Grafana Scenes. | TypeScript | 0 | Apache License 2.0 | 2024-03-07 | 2024-03-20 | 2024-03-07 |
 | [prometheus-alertmanager-tutorial](https://github.com/grafana/prometheus-alertmanager-tutorial) | A Docker Compose Demo Example for the tutorials in the Prometheus documentation. | Go | 1 | - | 2024-03-10 | 2024-07-16 | 2024-03-10 |
 | [webinar-opentelemetry-getting-started](https://github.com/grafana/webinar-opentelemetry-getting-started) | None | Python | 2 | - | 2024-03-13 | 2024-04-03 | 2024-04-02 |
@@ -663,7 +663,7 @@
 | [vim-alloy](https://github.com/grafana/vim-alloy) | Grafana Alloy support for Vim/Neovim | Vim Script | 8 | Apache License 2.0 | 2024-03-20 | 2024-07-12 | 2024-05-11 |
 | [vscode-alloy](https://github.com/grafana/vscode-alloy) | Grafana Alloy support for VSCode | TypeScript | 3 | Apache License 2.0 | 2024-03-20 | 2024-07-11 | 2024-07-11 |
 | [k6-oss-workshop](https://github.com/grafana/k6-oss-workshop) | Grafana k6 - OSS Workshop | JavaScript | 12 | - | 2024-03-26 | 2024-06-26 | 2024-05-24 |
-| [explore-logs](https://github.com/grafana/explore-logs) | Repo for the Loki log exploration app | TypeScript | 250 | GNU Affero General Public License v3.0 | 2024-03-26 | 2024-07-22 | 2024-07-22 |
+| [explore-logs](https://github.com/grafana/explore-logs) | Repo for the Loki log exploration app | TypeScript | 250 | GNU Affero General Public License v3.0 | 2024-03-26 | 2024-07-22 | 2024-07-23 |
 | [loki-tutorial-enviroment](https://github.com/grafana/loki-tutorial-enviroment) | Environment for tutorial excercises | None | 0 | - | 2024-03-28 | 2024-03-28 | 2024-03-28 |
 | [k6pack](https://github.com/grafana/k6pack) | TypeScript transpiler and module bundler for k6 | Go | 3 | GNU Affero General Public License v3.0 | 2024-03-30 | 2024-07-16 | 2024-07-16 |
 | [setup-k6-action](https://github.com/grafana/setup-k6-action) | GitHub Action for installing Grafana k6 | TypeScript | 6 | Apache License 2.0 | 2024-04-02 | 2024-07-17 | 2024-07-15 |

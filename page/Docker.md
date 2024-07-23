@@ -1,16 +1,16 @@
 # Docker
 
-共 131 个项目，近半年内活跃项目 73 个，1 个团队， 167851 个 Star。
+共 131 个项目，近半年内活跃项目 73 个，1 个团队， 167859 个 Star。
 
 语言 Top 3：Go, JavaScript, TypeScript
 
-统计时间：2024-07-23 08:22:00
+统计时间：2024-07-23 09:52:03
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
-| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | [docker-py](https://github.com/docker/docker-py) | A Python library for the Docker Engine API | Python | 6729 | Apache License 2.0 | 2013-05-23 | 2024-07-23 | 2024-07-13 |
 | [gordon](https://github.com/docker/gordon) | Cli application to manage github pull requests  | Go | 176 | MIT License | 2013-10-30 | 2024-05-21 | 2020-06-11 |
-| [compose](https://github.com/docker/compose) | Define and run multi-container applications with Docker | Go | 33159 | Apache License 2.0 | 2013-12-09 | 2024-07-23 | 2024-07-22 |
+| [compose](https://github.com/docker/compose) | Define and run multi-container applications with Docker | Go | 33160 | Apache License 2.0 | 2013-12-09 | 2024-07-23 | 2024-07-23 |
 | [libtrust](https://github.com/docker/libtrust) | Primitives for identity and authorization | Go | 107 | Apache License 2.0 | 2014-05-27 | 2024-01-13 | 2016-07-08 |
 | [libchan](https://github.com/docker/libchan) | Like Go channels over the network | Go | 2472 | Apache License 2.0 | 2014-06-10 | 2024-05-23 | 2019-02-05 |
 | [kitematic](https://github.com/docker/kitematic) | Visual Docker Container Management on Mac & Windows | JavaScript | 12251 | Apache License 2.0 | 2014-08-27 | 2024-07-12 | 2021-06-11 |
@@ -52,7 +52,7 @@
 | [binfmt](https://github.com/docker/binfmt) | Please use https://github.com/linuxkit/linuxkit/tree/master/pkg/binfmt instead of this repo | Go | 44 | - | 2019-05-13 | 2024-05-31 | 2020-05-03 |
 | [engine-sync](https://github.com/docker/engine-sync) | Sync moby/moby with docker/engine | Shell | 8 | - | 2019-12-10 | 2024-06-10 | 2020-01-13 |
 | [getting-started](https://github.com/docker/getting-started) | Getting started with Docker | JavaScript | 2877 | Apache License 2.0 | 2020-02-03 | 2024-07-23 | 2024-06-16 |
-| [awesome-compose](https://github.com/docker/awesome-compose) | Awesome Docker Compose samples | HTML | 32341 | Creative Commons Zero v1.0 Universal | 2020-02-13 | 2024-07-23 | 2024-07-22 |
+| [awesome-compose](https://github.com/docker/awesome-compose) | Awesome Docker Compose samples | HTML | 32345 | Creative Commons Zero v1.0 Universal | 2020-02-13 | 2024-07-23 | 2024-07-22 |
 | [github-actions](https://github.com/docker/github-actions) | :warning: This repository is deprecated and has been replaced by docker/build-push-action@v2 | Go | 163 | Apache License 2.0 | 2020-02-17 | 2024-01-04 | 2021-06-22 |
 | [build-push-action](https://github.com/docker/build-push-action) | GitHub Action to build and push Docker images with Buildx | TypeScript | 4141 | Apache License 2.0 | 2020-02-17 | 2024-07-22 | 2024-07-22 |
 | [roadmap](https://github.com/docker/roadmap) | Welcome to the Public Roadmap for All Things Docker! We welcome your ideas.  | None | 1470 | Creative Commons Zero v1.0 Universal | 2020-03-05 | 2024-07-22 | 2024-05-29 |
@@ -60,12 +60,12 @@
 | [node-sdk](https://github.com/docker/node-sdk) | Docker CLI gRPC JavaScript SDK | JavaScript | 110 | Apache License 2.0 | 2020-06-09 | 2024-07-16 | 2024-06-17 |
 | [login-action](https://github.com/docker/login-action) | GitHub Action to login against a Docker registry | TypeScript | 1004 | Apache License 2.0 | 2020-08-15 | 2024-07-22 | 2024-07-22 |
 | [import-restrictions](https://github.com/docker/import-restrictions) | Restrict imports in your go project | Go | 9 | Apache License 2.0 | 2020-08-18 | 2024-06-10 | 2020-08-20 |
-| [setup-buildx-action](https://github.com/docker/setup-buildx-action) | GitHub Action to set up Docker Buildx | TypeScript | 915 | Apache License 2.0 | 2020-08-18 | 2024-07-22 | 2024-07-22 |
-| [setup-qemu-action](https://github.com/docker/setup-qemu-action) | GitHub Action to install QEMU static binaries | TypeScript | 417 | Apache License 2.0 | 2020-08-18 | 2024-07-22 | 2024-07-22 |
+| [setup-buildx-action](https://github.com/docker/setup-buildx-action) | GitHub Action to set up Docker Buildx | TypeScript | 916 | Apache License 2.0 | 2020-08-18 | 2024-07-23 | 2024-07-22 |
+| [setup-qemu-action](https://github.com/docker/setup-qemu-action) | GitHub Action to install QEMU static binaries | TypeScript | 418 | Apache License 2.0 | 2020-08-18 | 2024-07-23 | 2024-07-22 |
 | [hub-tool](https://github.com/docker/hub-tool) | 🧪 Docker Hub experimental CLI tool | Go | 320 | Apache License 2.0 | 2020-09-23 | 2024-07-23 | 2024-04-04 |
 | [cli-scan-feedback](https://github.com/docker/cli-scan-feedback) | Bug report for CLI Scanning | None | 3 | - | 2020-09-29 | 2023-10-06 | 2021-04-21 |
 | [bake-action](https://github.com/docker/bake-action) | GitHub Action to use Docker Buildx Bake as a high-level build command | TypeScript | 171 | Apache License 2.0 | 2020-10-06 | 2024-07-22 | 2024-07-22 |
-| [metadata-action](https://github.com/docker/metadata-action) | GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker | TypeScript | 868 | Apache License 2.0 | 2020-10-23 | 2024-07-22 | 2024-07-19 |
+| [metadata-action](https://github.com/docker/metadata-action) | GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker | TypeScript | 868 | Apache License 2.0 | 2020-10-23 | 2024-07-23 | 2024-07-23 |
 | [get-involved](https://github.com/docker/get-involved) | Get Involved with Docker | CSS | 23 | Apache License 2.0 | 2021-02-08 | 2024-03-27 | 2022-10-05 |
 | [dev-environments](https://github.com/docker/dev-environments) | None | None | 60 | - | 2021-06-17 | 2024-05-02 | 2022-01-10 |
 | [cli-docs-tool](https://github.com/docker/cli-docs-tool) | Utilities to generate (reference) documentation for the docker CLI | Go | 19 | Apache License 2.0 | 2021-07-29 | 2024-07-17 | 2024-07-17 |
@@ -118,7 +118,7 @@
 | [python-docker-dev](https://github.com/docker/python-docker-dev) | A simple Python app for the Python Language Guide in Docker's Docs | Python | 10 | - | 2023-08-01 | 2024-06-30 | 2024-05-06 |
 | [enable-macos-virtualization-framework](https://github.com/docker/enable-macos-virtualization-framework) | How-To Enable virtualization.framework on macOS hosts | None | 1 | MIT License | 2023-08-01 | 2024-04-02 | 2023-08-01 |
 | [docker-nodejs-sample](https://github.com/docker/docker-nodejs-sample) | A simple Node.js application for the guide in Docker's documentation | JavaScript | 14 | - | 2023-08-29 | 2024-07-06 | 2024-07-21 |
-| [genai-stack](https://github.com/docker/genai-stack) | Langchain + Docker + Neo4j + Ollama | Python | 3520 | Creative Commons Zero v1.0 Universal | 2023-09-13 | 2024-07-22 | 2024-07-10 |
+| [genai-stack](https://github.com/docker/genai-stack) | Langchain + Docker + Neo4j + Ollama | Python | 3521 | Creative Commons Zero v1.0 Universal | 2023-09-13 | 2024-07-23 | 2024-07-10 |
 | [compose-desktop](https://github.com/docker/compose-desktop) | None | None | 4 | Other | 2023-09-14 | 2024-06-23 | 2024-05-27 |
 | [dc23-secure-workshop](https://github.com/docker/dc23-secure-workshop) | DockerCon 2023 Secure Development with Docker hands-on exercises code | Dockerfile | 11 | - | 2023-09-26 | 2024-06-25 | 2024-03-27 |
 | [github-actions-runner](https://github.com/docker/github-actions-runner) | Docker's containerized github-actions runner | Shell | 11 | MIT License | 2023-09-29 | 2024-06-26 | 2023-10-01 |

@@ -1,16 +1,16 @@
 # Kubernetes
 
-共 156 个项目，近半年内活跃项目 140 个，1 个团队， 554758 个 Star。
+共 156 个项目，近半年内活跃项目 140 个，1 个团队， 554781 个 Star。
 
 语言 Top 3：Go, Shell, HTML
 
-统计时间：2024-07-23 08:22:00
+统计时间：2024-07-23 09:52:03
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
-| --- | --- | --- | --- | --- | --- | --- |
-| [kubernetes](https://github.com/kubernetes/kubernetes) | Production-Grade Container Scheduling and Management | Go | 108670 | Apache License 2.0 | 2014-06-06 | 2024-07-23 | 2024-07-23 |
-| [dashboard](https://github.com/kubernetes/dashboard) | General-purpose web UI for Kubernetes clusters | Go | 14124 | Apache License 2.0 | 2015-10-15 | 2024-07-23 | 2024-07-23 |
-| [website](https://github.com/kubernetes/website) | Kubernetes website and documentation repo:  | HTML | 4369 | Creative Commons Attribution 4.0 International | 2016-02-10 | 2024-07-23 | 2024-07-23 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| [kubernetes](https://github.com/kubernetes/kubernetes) | Production-Grade Container Scheduling and Management | Go | 108672 | Apache License 2.0 | 2014-06-06 | 2024-07-23 | 2024-07-23 |
+| [dashboard](https://github.com/kubernetes/dashboard) | General-purpose web UI for Kubernetes clusters | Go | 14125 | Apache License 2.0 | 2015-10-15 | 2024-07-23 | 2024-07-23 |
+| [website](https://github.com/kubernetes/website) | Kubernetes website and documentation repo:  | HTML | 4370 | Creative Commons Attribution 4.0 International | 2016-02-10 | 2024-07-23 | 2024-07-23 |
 | [release](https://github.com/kubernetes/release) | Release infrastructure for Kubernetes and related components | Go | 481 | Apache License 2.0 | 2016-03-23 | 2024-07-22 | 2024-07-23 |
 | [minikube](https://github.com/kubernetes/minikube) | Run Kubernetes locally | Go | 28867 | Apache License 2.0 | 2016-04-15 | 2024-07-23 | 2024-07-23 |
 | [test-infra](https://github.com/kubernetes/test-infra) | Test infrastructure for the Kubernetes project. | Go | 3808 | Apache License 2.0 | 2016-04-28 | 2024-07-23 | 2024-07-23 |
@@ -19,15 +19,15 @@
 | [kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) | Add-on agent to generate and expose cluster-level metrics. | Go | 5240 | Apache License 2.0 | 2016-05-06 | 2024-07-23 | 2024-07-19 |
 | [node-problem-detector](https://github.com/kubernetes/node-problem-detector) | This is a place for various problem detectors running on the Kubernetes nodes. | Go | 2853 | Apache License 2.0 | 2016-05-17 | 2024-07-23 | 2024-07-22 |
 | [kompose](https://github.com/kubernetes/kompose) | Convert Compose to Kubernetes | Go | 9332 | Apache License 2.0 | 2016-06-27 | 2024-07-23 | 2024-07-18 |
-| [kops](https://github.com/kubernetes/kops) | Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management | Go | 15748 | Apache License 2.0 | 2016-06-27 | 2024-07-23 | 2024-07-22 |
+| [kops](https://github.com/kubernetes/kops) | Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management | Go | 15750 | Apache License 2.0 | 2016-06-27 | 2024-07-23 | 2024-07-22 |
 | [kubernetes-template-project](https://github.com/kubernetes/kubernetes-template-project) | A template for starting new projects on the github.com/kubernetes organization | None | 184 | Apache License 2.0 | 2016-08-11 | 2024-07-17 | 2023-05-30 |
 | [git-sync](https://github.com/kubernetes/git-sync) | A sidecar app which clones a git repo and keeps it in sync with the upstream. | Shell | 2169 | Apache License 2.0 | 2016-08-20 | 2024-07-23 | 2024-07-18 |
 | [k8s.io](https://github.com/kubernetes/k8s.io) | Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites | HCL | 692 | Apache License 2.0 | 2016-08-22 | 2024-07-23 | 2024-07-23 |
-| [client-go](https://github.com/kubernetes/client-go) | Go client for Kubernetes. | Go | 8818 | Apache License 2.0 | 2016-08-25 | 2024-07-23 | 2024-07-23 |
+| [client-go](https://github.com/kubernetes/client-go) | Go client for Kubernetes. | Go | 8820 | Apache License 2.0 | 2016-08-25 | 2024-07-23 | 2024-07-23 |
 | [gengo](https://github.com/kubernetes/gengo) | gengo library for code generation. | Go | 543 | Apache License 2.0 | 2016-08-30 | 2024-07-15 | 2024-04-05 |
 | [perf-tests](https://github.com/kubernetes/perf-tests) | Performance tests and benchmarks | Go | 870 | Apache License 2.0 | 2016-09-21 | 2024-07-11 | 2024-07-23 |
-| [ingress-nginx](https://github.com/kubernetes/ingress-nginx) | Ingress-NGINX Controller for Kubernetes | Go | 17000 | Apache License 2.0 | 2016-11-04 | 2024-07-23 | 2024-07-22 |
-| [kubeadm](https://github.com/kubernetes/kubeadm) | Aggregator for issues filed against kubeadm | Go | 3696 | Apache License 2.0 | 2016-11-22 | 2024-07-21 | 2024-07-12 |
+| [ingress-nginx](https://github.com/kubernetes/ingress-nginx) | Ingress-NGINX Controller for Kubernetes | Go | 17002 | Apache License 2.0 | 2016-11-04 | 2024-07-23 | 2024-07-22 |
+| [kubeadm](https://github.com/kubernetes/kubeadm) | Aggregator for issues filed against kubeadm | Go | 3697 | Apache License 2.0 | 2016-11-22 | 2024-07-23 | 2024-07-12 |
 | [repo-infra](https://github.com/kubernetes/repo-infra) | Kubernetes repository infrastucture tools | Starlark | 97 | Apache License 2.0 | 2016-12-15 | 2024-05-05 | 2023-11-03 |
 | [dns](https://github.com/kubernetes/dns) | Kubernetes DNS service | Go | 898 | Apache License 2.0 | 2016-12-15 | 2024-07-16 | 2024-07-22 |
 | [apimachinery](https://github.com/kubernetes/apimachinery) | None | Go | 804 | Apache License 2.0 | 2017-01-09 | 2024-07-23 | 2024-07-20 |
@@ -63,7 +63,7 @@
 | [cloud-provider-alibaba-cloud](https://github.com/kubernetes/cloud-provider-alibaba-cloud) | CloudProvider for Alibaba Cloud  | Go | 354 | Apache License 2.0 | 2018-09-17 | 2024-07-13 | 2024-06-17 |
 | [cluster-bootstrap](https://github.com/kubernetes/cluster-bootstrap) | None | Go | 31 | Apache License 2.0 | 2018-10-03 | 2024-07-13 | 2024-07-17 |
 | [cloud-provider](https://github.com/kubernetes/cloud-provider) | cloud-provider defines the shared interfaces which Kubernetes cloud providers implement. These interfaces allow various controllers to integrate with any cloud provider in a pluggable fashion. Also serves as an issue tracker for SIG Cloud Provider. | Go | 235 | Apache License 2.0 | 2018-10-08 | 2024-07-18 | 2024-07-18 |
-| [klog](https://github.com/kubernetes/klog) | Leveled execution logs for Go (fork of https://github.com/golang/glog) | Go | 521 | Apache License 2.0 | 2018-10-25 | 2024-07-12 | 2024-07-09 |
+| [klog](https://github.com/kubernetes/klog) | Leveled execution logs for Go (fork of https://github.com/golang/glog) | Go | 521 | Apache License 2.0 | 2018-10-25 | 2024-07-23 | 2024-07-09 |
 | [node-api](https://github.com/kubernetes/node-api) | None | Go | 14 | Apache License 2.0 | 2018-11-20 | 2024-04-22 | 2023-04-26 |
 | [cloud-provider-sample](https://github.com/kubernetes/cloud-provider-sample) | Sample of how to build a cloud provider repo. This will build a Kubernetes image which deploys on bare metal. It uses the fake cloud provider. It consumes the K8s/K8s build artifact and adds to it the Cloud Controller Manager and CSI Daemon Set. | None | 20 | Apache License 2.0 | 2018-12-22 | 2024-07-21 | 2024-01-26 |
 | [component-base](https://github.com/kubernetes/component-base) | Shared code for kubernetes core components | Go | 105 | Apache License 2.0 | 2019-01-07 | 2024-07-22 | 2024-07-22 |
@@ -86,9 +86,9 @@
 | [cel-admission-webhook](https://github.com/kubernetes/cel-admission-webhook) | None | Go | 11 | Apache License 2.0 | 2023-04-25 | 2024-04-24 | 2023-09-20 |
 | [endpointslice](https://github.com/kubernetes/endpointslice) | None | Go | 6 | Apache License 2.0 | 2023-07-09 | 2024-07-13 | 2024-07-17 |
 | [cri-client](https://github.com/kubernetes/cri-client) | Container Runtime Interface client implementation | Go | 3 | Apache License 2.0 | 2024-04-29 | 2024-07-13 | 2024-07-16 |
-| [kubernetes](https://github.com/kubernetes/kubernetes) | Production-Grade Container Scheduling and Management | Go | 108670 | Apache License 2.0 | 2014-06-06 | 2024-07-23 | 2024-07-23 |
-| [dashboard](https://github.com/kubernetes/dashboard) | General-purpose web UI for Kubernetes clusters | Go | 14124 | Apache License 2.0 | 2015-10-15 | 2024-07-23 | 2024-07-23 |
-| [website](https://github.com/kubernetes/website) | Kubernetes website and documentation repo:  | HTML | 4369 | Creative Commons Attribution 4.0 International | 2016-02-10 | 2024-07-23 | 2024-07-23 |
+| [kubernetes](https://github.com/kubernetes/kubernetes) | Production-Grade Container Scheduling and Management | Go | 108672 | Apache License 2.0 | 2014-06-06 | 2024-07-23 | 2024-07-23 |
+| [dashboard](https://github.com/kubernetes/dashboard) | General-purpose web UI for Kubernetes clusters | Go | 14125 | Apache License 2.0 | 2015-10-15 | 2024-07-23 | 2024-07-23 |
+| [website](https://github.com/kubernetes/website) | Kubernetes website and documentation repo:  | HTML | 4370 | Creative Commons Attribution 4.0 International | 2016-02-10 | 2024-07-23 | 2024-07-23 |
 | [release](https://github.com/kubernetes/release) | Release infrastructure for Kubernetes and related components | Go | 481 | Apache License 2.0 | 2016-03-23 | 2024-07-22 | 2024-07-23 |
 | [minikube](https://github.com/kubernetes/minikube) | Run Kubernetes locally | Go | 28867 | Apache License 2.0 | 2016-04-15 | 2024-07-23 | 2024-07-23 |
 | [test-infra](https://github.com/kubernetes/test-infra) | Test infrastructure for the Kubernetes project. | Go | 3808 | Apache License 2.0 | 2016-04-28 | 2024-07-23 | 2024-07-23 |
@@ -97,15 +97,15 @@
 | [kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) | Add-on agent to generate and expose cluster-level metrics. | Go | 5240 | Apache License 2.0 | 2016-05-06 | 2024-07-23 | 2024-07-19 |
 | [node-problem-detector](https://github.com/kubernetes/node-problem-detector) | This is a place for various problem detectors running on the Kubernetes nodes. | Go | 2853 | Apache License 2.0 | 2016-05-17 | 2024-07-23 | 2024-07-22 |
 | [kompose](https://github.com/kubernetes/kompose) | Convert Compose to Kubernetes | Go | 9332 | Apache License 2.0 | 2016-06-27 | 2024-07-23 | 2024-07-18 |
-| [kops](https://github.com/kubernetes/kops) | Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management | Go | 15748 | Apache License 2.0 | 2016-06-27 | 2024-07-23 | 2024-07-22 |
+| [kops](https://github.com/kubernetes/kops) | Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management | Go | 15750 | Apache License 2.0 | 2016-06-27 | 2024-07-23 | 2024-07-22 |
 | [kubernetes-template-project](https://github.com/kubernetes/kubernetes-template-project) | A template for starting new projects on the github.com/kubernetes organization | None | 184 | Apache License 2.0 | 2016-08-11 | 2024-07-17 | 2023-05-30 |
 | [git-sync](https://github.com/kubernetes/git-sync) | A sidecar app which clones a git repo and keeps it in sync with the upstream. | Shell | 2169 | Apache License 2.0 | 2016-08-20 | 2024-07-23 | 2024-07-18 |
 | [k8s.io](https://github.com/kubernetes/k8s.io) | Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites | HCL | 692 | Apache License 2.0 | 2016-08-22 | 2024-07-23 | 2024-07-23 |
-| [client-go](https://github.com/kubernetes/client-go) | Go client for Kubernetes. | Go | 8818 | Apache License 2.0 | 2016-08-25 | 2024-07-23 | 2024-07-23 |
+| [client-go](https://github.com/kubernetes/client-go) | Go client for Kubernetes. | Go | 8820 | Apache License 2.0 | 2016-08-25 | 2024-07-23 | 2024-07-23 |
 | [gengo](https://github.com/kubernetes/gengo) | gengo library for code generation. | Go | 543 | Apache License 2.0 | 2016-08-30 | 2024-07-15 | 2024-04-05 |
 | [perf-tests](https://github.com/kubernetes/perf-tests) | Performance tests and benchmarks | Go | 870 | Apache License 2.0 | 2016-09-21 | 2024-07-11 | 2024-07-23 |
-| [ingress-nginx](https://github.com/kubernetes/ingress-nginx) | Ingress-NGINX Controller for Kubernetes | Go | 17000 | Apache License 2.0 | 2016-11-04 | 2024-07-23 | 2024-07-22 |
-| [kubeadm](https://github.com/kubernetes/kubeadm) | Aggregator for issues filed against kubeadm | Go | 3696 | Apache License 2.0 | 2016-11-22 | 2024-07-21 | 2024-07-12 |
+| [ingress-nginx](https://github.com/kubernetes/ingress-nginx) | Ingress-NGINX Controller for Kubernetes | Go | 17003 | Apache License 2.0 | 2016-11-04 | 2024-07-23 | 2024-07-22 |
+| [kubeadm](https://github.com/kubernetes/kubeadm) | Aggregator for issues filed against kubeadm | Go | 3697 | Apache License 2.0 | 2016-11-22 | 2024-07-23 | 2024-07-12 |
 | [repo-infra](https://github.com/kubernetes/repo-infra) | Kubernetes repository infrastucture tools | Starlark | 97 | Apache License 2.0 | 2016-12-15 | 2024-05-05 | 2023-11-03 |
 | [dns](https://github.com/kubernetes/dns) | Kubernetes DNS service | Go | 898 | Apache License 2.0 | 2016-12-15 | 2024-07-16 | 2024-07-22 |
 | [apimachinery](https://github.com/kubernetes/apimachinery) | None | Go | 804 | Apache License 2.0 | 2017-01-09 | 2024-07-23 | 2024-07-20 |
@@ -141,7 +141,7 @@
 | [cloud-provider-alibaba-cloud](https://github.com/kubernetes/cloud-provider-alibaba-cloud) | CloudProvider for Alibaba Cloud  | Go | 354 | Apache License 2.0 | 2018-09-17 | 2024-07-13 | 2024-06-17 |
 | [cluster-bootstrap](https://github.com/kubernetes/cluster-bootstrap) | None | Go | 31 | Apache License 2.0 | 2018-10-03 | 2024-07-13 | 2024-07-17 |
 | [cloud-provider](https://github.com/kubernetes/cloud-provider) | cloud-provider defines the shared interfaces which Kubernetes cloud providers implement. These interfaces allow various controllers to integrate with any cloud provider in a pluggable fashion. Also serves as an issue tracker for SIG Cloud Provider. | Go | 235 | Apache License 2.0 | 2018-10-08 | 2024-07-18 | 2024-07-18 |
-| [klog](https://github.com/kubernetes/klog) | Leveled execution logs for Go (fork of https://github.com/golang/glog) | Go | 521 | Apache License 2.0 | 2018-10-25 | 2024-07-12 | 2024-07-09 |
+| [klog](https://github.com/kubernetes/klog) | Leveled execution logs for Go (fork of https://github.com/golang/glog) | Go | 521 | Apache License 2.0 | 2018-10-25 | 2024-07-23 | 2024-07-09 |
 | [node-api](https://github.com/kubernetes/node-api) | None | Go | 14 | Apache License 2.0 | 2018-11-20 | 2024-04-22 | 2023-04-26 |
 | [cloud-provider-sample](https://github.com/kubernetes/cloud-provider-sample) | Sample of how to build a cloud provider repo. This will build a Kubernetes image which deploys on bare metal. It uses the fake cloud provider. It consumes the K8s/K8s build artifact and adds to it the Cloud Controller Manager and CSI Daemon Set. | None | 20 | Apache License 2.0 | 2018-12-22 | 2024-07-21 | 2024-01-26 |
 | [component-base](https://github.com/kubernetes/component-base) | Shared code for kubernetes core components | Go | 105 | Apache License 2.0 | 2019-01-07 | 2024-07-22 | 2024-07-22 |
