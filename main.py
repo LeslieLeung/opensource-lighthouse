@@ -146,6 +146,9 @@ for company, group in data_repos.groupby("company"):
         {"name": company, "projects": projects, "stats": company_stats},
     )
 
+# order companies by stars descending
+companies = sorted(companies, key=lambda x: x["stats"]["total_stars"], reverse=True)
+
 # stats
 total_repos = data_repos.shape[0]
 total_companies = len(companies)
