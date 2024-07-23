@@ -1,4 +1,3 @@
-import jinja2
 import pandas as pd
 
 from github import Github
@@ -39,6 +38,7 @@ columns = [
     "language",
     "created_at",
     "last_updated_at",
+    "last_pushed_at",
     "company",
     "description",
 ]
@@ -52,6 +52,7 @@ dtypes = {
     "language": str,
     "created_at": str,
     "last_updated_at": str,
+    "last_pushed_at": str,
     "company": str,
     "description": str,
 }
@@ -98,6 +99,7 @@ if not args.skip_fetch:
                 "language": repo.language,
                 "created_at": repo.created_at.date().strftime("%Y-%m-%d"),
                 "last_updated_at": repo.updated_at.date().strftime("%Y-%m-%d"),
+                "last_pushed_at": repo.pushed_at.date().strftime("%Y-%m-%d"),
                 "company": team_to_company[team],
             }
 
@@ -120,12 +122,12 @@ for company, group in data_repos.groupby("company"):
     total_teams = len(group["owner"].unique())
     total_stars = group["stars"].sum()
     top_3_languages = ", ".join(group["language"].value_counts().head(3).index.tolist())
-    # count projects updated within 180 days
+    # count projects pushed within 180 days
     active_projects = len(
         [
             project
             for project in projects
-            if datetime.datetime.strptime(project["last_updated_at"], "%Y-%m-%d")
+            if datetime.datetime.strptime(project["last_pushed_at"], "%Y-%m-%d")
             > cutoff_date
         ]
     )
