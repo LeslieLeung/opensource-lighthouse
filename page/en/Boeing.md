@@ -4,7 +4,7 @@ A total of 33 projects, 15 active projects in the last six months, 1 teams, and 
 
 Top 3 Languages: C++, Python, Go
 
-Statistics Date: 2024-07-23 09:52:03
+Statistics Date: 2024-07-24 08:07:20
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -36,8 +36,8 @@ Statistics Date: 2024-07-23 09:52:03
 | [meta-xilinx](https://github.com/Boeing/meta-xilinx) | None | C | 0 | MIT License | 2024-04-22 | 2024-07-09 | 2024-07-09 |
 | [linux](https://github.com/Boeing/linux) | Linux kernel stable tree mirror | C | 0 | Other | 2024-04-22 | 2024-07-08 | 2024-07-18 |
 | [linux-yocto](https://github.com/Boeing/linux-yocto) | None | C | 0 | Other | 2024-04-22 | 2024-07-09 | 2024-07-23 |
-| [openembedded-core](https://github.com/Boeing/openembedded-core) | None | BitBake | 0 | Other | 2024-04-22 | 2024-07-09 | 2024-07-22 |
-| [meta-openembedded](https://github.com/Boeing/meta-openembedded) | None | BitBake | 0 | MIT License | 2024-04-22 | 2024-07-09 | 2024-07-22 |
-| [meta-openembedded-contrib](https://github.com/Boeing/meta-openembedded-contrib) | None | BitBake | 0 | MIT License | 2024-04-22 | 2024-07-09 | 2024-07-22 |
+| [openembedded-core](https://github.com/Boeing/openembedded-core) | None | BitBake | 0 | Other | 2024-04-22 | 2024-07-09 | 2024-07-24 |
+| [meta-openembedded](https://github.com/Boeing/meta-openembedded) | None | BitBake | 0 | MIT License | 2024-04-22 | 2024-07-09 | 2024-07-23 |
+| [meta-openembedded-contrib](https://github.com/Boeing/meta-openembedded-contrib) | None | BitBake | 0 | MIT License | 2024-04-22 | 2024-07-09 | 2024-07-24 |
 | [bitbake](https://github.com/Boeing/bitbake) | None | None | 0 | - | 2024-04-22 | 2024-07-09 | 2024-07-13 |
 | [genai-for-multi-label](https://github.com/Boeing/genai-for-multi-label) | Fine-tuning LLMs for Multi-label Text Classification | None | 0 | - | 2024-07-01 | 2024-07-01 | 2024-07-01 |
