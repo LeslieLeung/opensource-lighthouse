@@ -4,6 +4,7 @@
 from typing import List, Optional
 from tqdm import tqdm
 from github import Auth, Github, Repository, NamedUser
+import requests
 
 
 def get_all_repos(user: str, token: Optional[str] = None) -> List[Repository]:
@@ -53,7 +54,7 @@ def get_top_starred_repos(user: str, n: int, token: Optional[str] = None) -> Lis
 
 def calculate_contributions_by_company(repo: Repository, companies: List[str], n: Optional[int] = None) -> dict:
     """
-    Calculate the contributions made by companies in a GitHub repository.
+    Calculate the contributions in terms of number of commits made by companies in a GitHub repository.
     Only contributors from the specified companies are considered.
 
     Args:
@@ -98,7 +99,7 @@ def calculate_contributions_by_company(repo: Repository, companies: List[str], n
 
 def calculate_single_company_contributions(repo: Repository, company: str, n: Optional[int] = None) -> float:
     """
-    Calculate the percentage contributions made by a single company in a GitHub repository.
+    Calculate the percentage contributions in terms of number of commits made by a single company in a GitHub repository.
 
     Args:
         repo (Repository): Repository object.
@@ -126,6 +127,53 @@ def calculate_single_company_contributions(repo: Repository, company: str, n: Op
     return (company_contributions / total_contributions) * 100
 
 
+def list_organizations_of_pr_creators(repo: Repository) -> List:
+    """
+    Retrieves a list of organizations associated with the creators of pull requests in a given repository.
+
+    Args:
+        repo (Repository): The repository object for which to retrieve the organizations.
+
+    Returns:
+        List: A list of organizations associated with the creators of pull requests.
+        Every element in the list is a dictionary containing 'org_name', 'percentage' and 'pull_request_creators'
+    """
+    owner = repo.owner.login
+    name = repo.name
+
+    url = 'https://api.ossinsight.io/v1/repos/{owner}/{name}/pull_request_creators/organizations/'.format(
+        owner=owner, name=name)
+
+    payload = {}
+    headers = {
+        'Accept': 'application/json'
+    }
+
+    response = requests.request("GET", url, headers=headers, data=payload)
+    response.raise_for_status()
+
+    data = response.json()['data']['rows']
+
+    return data
+
+
+def is_company_dominant_in_repo(repo: Repository, threshold: float) -> bool:
+    """
+    Checks if a company is dominant in a repository based on the percentage of pull request creators.
+
+    Args:
+        repo (Repository): The repository to check.
+        threshold (float): The threshold percentage for dominance. e.g. 0.3 for 30%.
+
+    Returns:
+        bool: True if the company is dominant, False otherwise.
+    """
+    result = list_organizations_of_pr_creators(repo)
+    if float(result[0]['percentage']) > threshold:
+        return True
+    return False
+
+
 if __name__ == "__main__":
     token = 'ghp_example'
     username = 'kubernetes'
@@ -134,7 +182,11 @@ if __name__ == "__main__":
 
     repos = get_top_starred_repos(username, 5, token)
     repo = repos[0]
+
     result1 = calculate_contributions_by_company(repo, companies, 100)
     print(f'Contributions by company: {result1}')
     result2 = calculate_single_company_contributions(repo, companies[0], 100)
     print(f'Contributions by single company {companies[0]}: {result2}')
+
+    result3 = is_company_dominant_in_repo(repo, 0.05)
+    print(f'Is company dominant in repo: {result3}')
