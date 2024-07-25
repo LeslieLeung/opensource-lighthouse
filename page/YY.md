@@ -1,10 +1,10 @@
 # YY
 
-共 40 个项目，近半年内活跃项目 0 个，1 个团队， 1139 个 Star。
+共 40 个项目，近半年内活跃项目 0 个，1 个团队， 1138 个 Star。
 
 语言 Top 3：JavaScript, Objective-C, CSS
 
-统计时间：2024-07-24 08:07:20
+统计时间：2024-07-25 08:08:16
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -36,7 +36,7 @@
 | [ENAutoBackUpTool](https://github.com/yyued/ENAutoBackUpTool) | None | JavaScript | 6 | - | 2017-07-27 | 2019-09-12 | 2017-07-27 |
 | [huozi.js](https://github.com/yyued/huozi.js) | A simple typography engine for CJK languages, especially designed for game rich-text. | JavaScript | 0 | Other | 2017-08-17 | 2017-08-17 | 2017-08-17 |
 | [YFT](https://github.com/yyued/YFT) | create Image and Label from Character-Bitmap. | Objective-C | 3 | MIT License | 2017-08-28 | 2019-04-30 | 2017-08-30 |
-| [flowhub](https://github.com/yyued/flowhub) | Through a simple way to deal with the event flow. | JavaScript | 112 | MIT License | 2017-09-06 | 2024-05-13 | 2023-01-06 |
+| [flowhub](https://github.com/yyued/flowhub) | Through a simple way to deal with the event flow. | JavaScript | 111 | MIT License | 2017-09-06 | 2024-07-24 | 2023-01-06 |
 | [TypeScript-Override](https://github.com/yyued/TypeScript-Override) | TypeScript Override Snippets | TypeScript | 0 | GNU General Public License v3.0 | 2017-09-15 | 2017-09-15 | 2017-09-18 |
 | [legolib](https://github.com/yyued/legolib) | 面向移动端的轻量级前端 Components，提供易用、可靠的解决方案 | CSS | 20 | MIT License | 2017-10-09 | 2021-07-28 | 2018-05-07 |
 | [H5Live](https://github.com/yyued/H5Live) | None | JavaScript | 15 | MIT License | 2017-10-19 | 2024-07-12 | 2017-11-04 |
