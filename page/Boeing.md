@@ -4,7 +4,7 @@
 
 语言 Top 3：C++, Python, Go
 
-统计时间：2024-07-26 08:07:09
+统计时间：2024-07-27 08:06:31
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -36,8 +36,8 @@
 | [meta-xilinx](https://github.com/Boeing/meta-xilinx) | None | C | 0 | MIT License | 2024-04-22 | 2024-07-09 | 2024-07-09 |
 | [linux](https://github.com/Boeing/linux) | Linux kernel stable tree mirror | C | 0 | Other | 2024-04-22 | 2024-07-08 | 2024-07-25 |
 | [linux-yocto](https://github.com/Boeing/linux-yocto) | None | C | 0 | Other | 2024-04-22 | 2024-07-09 | 2024-07-25 |
-| [openembedded-core](https://github.com/Boeing/openembedded-core) | None | BitBake | 0 | Other | 2024-04-22 | 2024-07-09 | 2024-07-26 |
+| [openembedded-core](https://github.com/Boeing/openembedded-core) | None | BitBake | 0 | Other | 2024-04-22 | 2024-07-09 | 2024-07-27 |
 | [meta-openembedded](https://github.com/Boeing/meta-openembedded) | None | BitBake | 0 | MIT License | 2024-04-22 | 2024-07-09 | 2024-07-26 |
 | [meta-openembedded-contrib](https://github.com/Boeing/meta-openembedded-contrib) | None | BitBake | 0 | MIT License | 2024-04-22 | 2024-07-09 | 2024-07-26 |
-| [bitbake](https://github.com/Boeing/bitbake) | None | None | 0 | - | 2024-04-22 | 2024-07-09 | 2024-07-24 |
+| [bitbake](https://github.com/Boeing/bitbake) | None | None | 0 | - | 2024-04-22 | 2024-07-09 | 2024-07-26 |
 | [genai-for-multi-label](https://github.com/Boeing/genai-for-multi-label) | Fine-tuning LLMs for Multi-label Text Classification | None | 0 | - | 2024-07-01 | 2024-07-01 | 2024-07-01 |

@@ -1,10 +1,10 @@
 # Sony
 
-共 75 个项目，近半年内活跃项目 37 个，1 个团队， 14876 个 Star。
+共 75 个项目，近半年内活跃项目 37 个，1 个团队， 14877 个 Star。
 
 语言 Top 3：Python, JavaScript, C++
 
-统计时间：2024-07-26 08:07:09
+统计时间：2024-07-27 08:06:31
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -21,9 +21,9 @@
 | [smarttennissensorsdk](https://github.com/sony/smarttennissensorsdk) | The Smart Tennis Sensor plugs into the end of a tennis racket and records data about all the shots you make throughout a game or practice. With the SDK, you can develop apps for analyzing and presenting that data in real-time. | Java | 9 | Apache License 2.0 | 2016-08-30 | 2024-07-25 | 2017-02-10 |
 | [openocd-nuttx](https://github.com/sony/openocd-nuttx) | Fork of OpenOCD with NuttX thread support. | C | 24 | GNU General Public License v2.0 | 2016-10-18 | 2024-06-08 | 2019-01-21 |
 | [nnabla-ext-cuda](https://github.com/sony/nnabla-ext-cuda) | A CUDA Extension of Neural Network Libraries | Cuda | 92 | Apache License 2.0 | 2017-06-21 | 2024-06-20 | 2024-06-20 |
-| [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2712 | Apache License 2.0 | 2017-06-26 | 2024-07-19 | 2024-06-20 |
+| [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2713 | Apache License 2.0 | 2017-06-26 | 2024-07-27 | 2024-06-20 |
 | [easyhttpcpp](https://github.com/sony/easyhttpcpp) | A cross-platform HTTP client library with a focus on usability and speed | C++ | 162 | MIT License | 2017-08-09 | 2024-07-03 | 2022-01-31 |
-| [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 136 | Apache License 2.0 | 2017-09-07 | 2024-06-24 | 2024-07-25 |
+| [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 136 | Apache License 2.0 | 2017-09-07 | 2024-07-26 | 2024-07-26 |
 | [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 31 | Apache License 2.0 | 2017-09-07 | 2024-05-11 | 2024-03-19 |
 | [cdp-js](https://github.com/sony/cdp-js) | Libraries/SDK modules for multi-platform application development | TypeScript | 22 | Apache License 2.0 | 2017-10-10 | 2024-02-11 | 2018-05-10 |
 | [cdp-lib](https://github.com/sony/cdp-lib) | Application template/libraries for cdp-js (Details: see cdp-js repository) | JavaScript | 6 | Apache License 2.0 | 2017-10-10 | 2017-11-13 | 2018-02-23 |
