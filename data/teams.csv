@@ -3,7 +3,12 @@ name,company
 Qihoo360,360
 wuba,58同城
 aws,Amazon
+ResearchKit,Apple
+WebKit,Apple
 apple,Apple
+apple-oss-distributions,Apple
+carekit-apple,Apple
+swiftlang,Apple
 boeing,Boeing
 bufbuild,Buf
 CanonicalLtd,Canonical
@@ -92,6 +97,7 @@ ibm,IBM
 JetBrains,JetBrains
 jina-ai,Jina AI
 kubernetes,Kubernetes
+llvm,LLVM Foundation
 facebook,Meta
 Azure,Microsoft
 Azure-Samples,Microsoft
