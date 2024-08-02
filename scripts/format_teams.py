@@ -40,5 +40,5 @@ def sort_csv(input_file, output_file):
 
 if __name__ == "__main__":
     input_file = 'data/teams.csv'
-    output_file = 'data/teams_formatted.csv'
+    output_file = 'data/teams.csv'
     sort_csv(input_file, output_file)
