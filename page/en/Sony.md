@@ -1,15 +1,15 @@
 # Sony
 
-A total of 75 projects, 36 active projects in the last six months, 1 teams, and 14894 stars.
+A total of 75 projects, 36 active projects in the last six months, 1 teams, and 14897 stars.
 
 Top 3 Languages: Python, JavaScript, C++
 
-Statistics Date: 2024-08-01 08:07:26
+Statistics Date: 2024-08-02 08:06:54
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 2841 | MIT License | 2015-05-29 | 2024-07-30 | 2024-05-05 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 3837 | MIT License | 2015-05-29 | 2024-07-31 | 2024-04-30 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 2842 | MIT License | 2015-05-29 | 2024-08-02 | 2024-05-05 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 3838 | MIT License | 2015-05-29 | 2024-08-01 | 2024-04-30 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 403 | MIT License | 2015-09-18 | 2024-07-13 | 2020-12-29 |
@@ -41,10 +41,10 @@ Statistics Date: 2024-08-01 08:07:26
 | [micro-notifier](https://github.com/sony/micro-notifier) | Simplified Pusher Clone | Go | 10 | MIT License | 2020-09-06 | 2024-05-07 | 2023-05-05 |
 | [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1171 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2024-07-30 | 2024-07-22 |
 | [lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) | None | Python | 0 | MIT License | 2021-03-25 | 2021-05-13 | 2021-05-13 |
-| [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 116 | Apache License 2.0 | 2021-06-11 | 2024-07-30 | 2024-07-30 |
+| [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 116 | Apache License 2.0 | 2021-06-11 | 2024-08-02 | 2024-08-02 |
 | [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 80 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2024-07-22 | 2024-07-22 |
-| [model_optimization](https://github.com/sony/model_optimization) | Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks. | Python | 291 | Apache License 2.0 | 2021-06-21 | 2024-07-31 | 2024-07-31 |
-| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 411 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2024-07-23 | 2024-07-22 |
+| [model_optimization](https://github.com/sony/model_optimization) | Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks. | Python | 291 | Apache License 2.0 | 2021-06-21 | 2024-08-01 | 2024-08-01 |
+| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 412 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2024-08-01 | 2024-07-22 |
 | [flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) | Flutter plugins for embedded Linux (eLinux) | C++ | 43 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2024-06-27 | 2024-05-02 |
 | [ds-research-code](https://github.com/sony/ds-research-code) | None | Python | 0 | - | 2021-07-19 | 2023-02-07 | 2023-01-30 |
 | [pyIEOE](https://github.com/sony/pyIEOE) | None | Python | 31 | MIT License | 2021-07-20 | 2024-06-20 | 2021-09-02 |
