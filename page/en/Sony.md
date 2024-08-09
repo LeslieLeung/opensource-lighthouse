@@ -1,15 +1,15 @@
 # Sony
 
-A total of 75 projects, 36 active projects in the last six months, 1 teams, and 14919 stars.
+A total of 75 projects, 36 active projects in the last six months, 1 teams, and 14924 stars.
 
 Top 3 Languages: Python, JavaScript, C++
 
-Statistics Date: 2024-08-08 08:07:31
+Statistics Date: 2024-08-09 08:07:38
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 2847 | MIT License | 2015-05-29 | 2024-08-08 | 2024-05-05 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 3842 | MIT License | 2015-05-29 | 2024-08-08 | 2024-04-30 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 2847 | MIT License | 2015-05-29 | 2024-08-09 | 2024-05-05 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 3842 | MIT License | 2015-05-29 | 2024-08-09 | 2024-04-30 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 403 | MIT License | 2015-09-18 | 2024-07-13 | 2020-12-29 |
@@ -43,7 +43,7 @@ Statistics Date: 2024-08-08 08:07:31
 | [lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) | None | Python | 0 | MIT License | 2021-03-25 | 2021-05-13 | 2021-05-13 |
 | [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 116 | Apache License 2.0 | 2021-06-11 | 2024-08-08 | 2024-08-08 |
 | [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 80 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2024-08-07 | 2024-08-07 |
-| [model_optimization](https://github.com/sony/model_optimization) | Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks. | Python | 291 | Apache License 2.0 | 2021-06-21 | 2024-08-07 | 2024-08-07 |
+| [model_optimization](https://github.com/sony/model_optimization) | Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks. | Python | 291 | Apache License 2.0 | 2021-06-21 | 2024-08-07 | 2024-08-08 |
 | [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 414 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2024-08-07 | 2024-08-07 |
 | [flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) | Flutter plugins for embedded Linux (eLinux) | C++ | 43 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2024-06-27 | 2024-05-02 |
 | [ds-research-code](https://github.com/sony/ds-research-code) | None | Python | 0 | - | 2021-07-19 | 2023-02-07 | 2023-01-30 |
@@ -66,20 +66,20 @@ Statistics Date: 2024-08-08 08:07:31
 | [pixel-guided-diffusion](https://github.com/sony/pixel-guided-diffusion) | Fine-grained Image Editing by Pixel-wise Guidance Using Diffusion Models | Python | 33 | Apache License 2.0 | 2023-04-06 | 2024-06-03 | 2023-06-09 |
 | [ARCv2_Ghidra](https://github.com/sony/ARCv2_Ghidra) | None | None | 0 | Apache License 2.0 | 2023-04-26 | 2023-04-26 | 2023-04-26 |
 | [gibbsddrm](https://github.com/sony/gibbsddrm) | None | Python | 21 | MIT License | 2023-04-26 | 2024-07-22 | 2023-05-29 |
-| [fp-diffusion](https://github.com/sony/fp-diffusion) | None | Jupyter Notebook | 16 | Apache License 2.0 | 2023-04-26 | 2024-07-12 | 2024-02-14 |
+| [fp-diffusion](https://github.com/sony/fp-diffusion) | None | Jupyter Notebook | 17 | Apache License 2.0 | 2023-04-26 | 2024-08-09 | 2024-02-14 |
 | [mct_quantizers](https://github.com/sony/mct_quantizers) | None | Python | 17 | Apache License 2.0 | 2023-05-09 | 2024-08-06 | 2024-08-08 |
 | [diffiner](https://github.com/sony/diffiner) | None | Python | 57 | MIT License | 2023-05-30 | 2024-07-22 | 2023-08-16 |
 | [hFT-Transformer](https://github.com/sony/hFT-Transformer) | Pytorch implementation of automatic music transcription method that uses a two-level hierarchical frequency-time Transformer architecture (hFT-Transformer). | Python | 69 | MIT License | 2023-06-26 | 2024-08-06 | 2023-07-11 |
-| [san](https://github.com/sony/san) | PyTorch implementation of slicing adversarial network (SAN) | Python | 74 | - | 2023-06-28 | 2024-08-07 | 2024-06-13 |
+| [san](https://github.com/sony/san) | PyTorch implementation of slicing adversarial network (SAN) | Python | 75 | - | 2023-06-28 | 2024-08-08 | 2024-06-13 |
 | [bigvsan](https://github.com/sony/bigvsan) | Pytorch implementation of BigVSAN | Python | 192 | MIT License | 2023-09-01 | 2024-08-07 | 2024-03-23 |
 | [bigvsan_eval](https://github.com/sony/bigvsan_eval) | Evaluation tool used in the BigVSAN paper | Python | 9 | MIT License | 2023-09-01 | 2024-04-02 | 2024-03-22 |
 | [timbre-trap](https://github.com/sony/timbre-trap) | Code for the paper "Timbre-Trap: A Low-Resource Framework for Instrument-Agnostic Music Transcription" | Python | 32 | MIT License | 2023-09-12 | 2024-07-30 | 2024-05-05 |
 | [custom_layers](https://github.com/sony/custom_layers) | None | Python | 7 | Apache License 2.0 | 2023-09-21 | 2024-05-08 | 2024-05-08 |
-| [ctm](https://github.com/sony/ctm) | None | Python | 208 | - | 2023-10-10 | 2024-08-07 | 2024-04-30 |
+| [ctm](https://github.com/sony/ctm) | None | Python | 210 | - | 2023-10-10 | 2024-08-09 | 2024-04-30 |
 | [SR-Display-Plugin-Preview-BL](https://github.com/sony/SR-Display-Plugin-Preview-BL) | None | Python | 5 | MIT License | 2023-12-13 | 2024-03-11 | 2024-05-24 |
 | [pyAutoPort](https://github.com/sony/pyAutoPort) | None | Python | 5 | BSD 3-Clause "New" or "Revised" License | 2023-12-13 | 2024-05-13 | 2024-05-13 |
 | [SR-Display-Plugin-Preview-ZB](https://github.com/sony/SR-Display-Plugin-Preview-ZB) | None | None | 1 | MIT License | 2024-02-19 | 2024-02-19 | 2024-02-19 |
-| [NeISF](https://github.com/sony/NeISF) | None | Python | 7 | Other | 2024-06-04 | 2024-07-26 | 2024-07-26 |
+| [NeISF](https://github.com/sony/NeISF) | None | Python | 8 | Other | 2024-06-04 | 2024-08-09 | 2024-07-26 |
 | [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 69 | MIT License | 2024-06-04 | 2024-07-15 | 2024-07-01 |
 | [silentcipher](https://github.com/sony/silentcipher) | None | Python | 10 | MIT License | 2024-06-05 | 2024-07-22 | 2024-07-22 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 2 | MIT License | 2024-07-09 | 2024-08-07 | 2024-07-12 |
