@@ -1,15 +1,15 @@
 # Sony
 
-共 76 个项目，近半年内活跃项目 37 个，1 个团队， 14927 个 Star。
+共 76 个项目，近半年内活跃项目 37 个，1 个团队， 14929 个 Star。
 
 语言 Top 3：Python, JavaScript, TypeScript
 
-统计时间：2024-08-10 08:06:37
+统计时间：2024-08-11 08:06:19
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 2847 | MIT License | 2015-05-29 | 2024-08-09 | 2024-05-05 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 3842 | MIT License | 2015-05-29 | 2024-08-09 | 2024-04-30 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 2848 | MIT License | 2015-05-29 | 2024-08-11 | 2024-05-05 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 3841 | MIT License | 2015-05-29 | 2024-08-10 | 2024-04-30 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 403 | MIT License | 2015-09-18 | 2024-07-13 | 2020-12-29 |
@@ -71,7 +71,7 @@
 | [diffiner](https://github.com/sony/diffiner) | None | Python | 57 | MIT License | 2023-05-30 | 2024-07-22 | 2023-08-16 |
 | [hFT-Transformer](https://github.com/sony/hFT-Transformer) | Pytorch implementation of automatic music transcription method that uses a two-level hierarchical frequency-time Transformer architecture (hFT-Transformer). | Python | 69 | MIT License | 2023-06-26 | 2024-08-06 | 2023-07-11 |
 | [san](https://github.com/sony/san) | PyTorch implementation of slicing adversarial network (SAN) | Python | 75 | - | 2023-06-28 | 2024-08-08 | 2024-06-13 |
-| [bigvsan](https://github.com/sony/bigvsan) | Pytorch implementation of BigVSAN | Python | 193 | MIT License | 2023-09-01 | 2024-08-09 | 2024-03-23 |
+| [bigvsan](https://github.com/sony/bigvsan) | Pytorch implementation of BigVSAN | Python | 195 | MIT License | 2023-09-01 | 2024-08-10 | 2024-03-23 |
 | [bigvsan_eval](https://github.com/sony/bigvsan_eval) | Evaluation tool used in the BigVSAN paper | Python | 9 | MIT License | 2023-09-01 | 2024-04-02 | 2024-03-22 |
 | [timbre-trap](https://github.com/sony/timbre-trap) | Code for the paper "Timbre-Trap: A Low-Resource Framework for Instrument-Agnostic Music Transcription" | Python | 32 | MIT License | 2023-09-12 | 2024-07-30 | 2024-05-05 |
 | [custom_layers](https://github.com/sony/custom_layers) | None | Python | 7 | Apache License 2.0 | 2023-09-21 | 2024-05-08 | 2024-05-08 |
