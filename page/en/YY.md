@@ -1,10 +1,10 @@
 # YY
 
-A total of 40 projects, 0 active projects in the last six months, 1 teams, and 1138 stars.
+A total of 40 projects, 0 active projects in the last six months, 1 teams, and 1139 stars.
 
 Top 3 Languages: JavaScript, Objective-C, CSS
 
-Statistics Date: 2024-08-16 08:07:18
+Statistics Date: 2024-08-17 08:07:09
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -43,7 +43,7 @@ Statistics Date: 2024-08-16 08:07:18
 | [Runtime-Type-Check-Proxy](https://github.com/yyued/Runtime-Type-Check-Proxy) | lightweight runtime arguments checking function. | JavaScript | 0 | MIT License | 2017-11-23 | 2017-11-24 | 2017-11-24 |
 | [view-boot](https://github.com/yyued/view-boot) | None | JavaScript | 0 | MIT License | 2017-12-27 | 2018-01-11 | 2018-02-06 |
 | [value-animator](https://github.com/yyued/value-animator) | None | TypeScript | 3 | - | 2018-01-11 | 2024-02-20 | 2019-10-16 |
-| [SVG-Skeleton](https://github.com/yyued/SVG-Skeleton) | Create the skeleton screen through SVG element | JavaScript | 165 | MIT License | 2018-01-16 | 2024-03-29 | 2018-01-31 |
+| [SVG-Skeleton](https://github.com/yyued/SVG-Skeleton) | Create the skeleton screen through SVG element | JavaScript | 166 | MIT License | 2018-01-16 | 2024-08-16 | 2018-01-31 |
 | [GPUImage](https://github.com/yyued/GPUImage) | An open source iOS framework for GPU-based image and video processing | Objective-C | 1 | BSD 3-Clause "New" or "Revised" License | 2018-04-27 | 2018-12-02 | 2018-04-28 |
 | [nice-commit](https://github.com/yyued/nice-commit) | 规范 Git Commit | JavaScript | 6 | - | 2019-05-08 | 2021-06-15 | 2019-08-13 |
 | [share-sheet](https://github.com/yyued/share-sheet) | share sheet | Vue | 5 | MIT License | 2020-09-27 | 2022-12-04 | 2020-09-28 |
