@@ -1,14 +1,14 @@
 # Sony
 
-共 76 个项目，近半年内活跃项目 35 个，1 个团队， 14974 个 Star。
+共 76 个项目，近半年内活跃项目 35 个，1 个团队， 14975 个 Star。
 
 语言 Top 3：Python, JavaScript, TypeScript
 
-统计时间：2024-08-17 08:07:09
+统计时间：2024-08-18 08:06:52
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 2858 | MIT License | 2015-05-29 | 2024-08-16 | 2024-05-05 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 2859 | MIT License | 2015-05-29 | 2024-08-17 | 2024-05-05 |
 | [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 3847 | MIT License | 2015-05-29 | 2024-08-17 | 2024-04-30 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
@@ -54,12 +54,12 @@
 | [sqvae](https://github.com/sony/sqvae) | Pytorch implementation of stochastically quantized variational autoencoder (SQ-VAE) | Python | 176 | Apache License 2.0 | 2022-05-26 | 2024-08-11 | 2022-07-20 |
 | [aibo-development-tutorial](https://github.com/sony/aibo-development-tutorial) | None | None | 7 | Other | 2022-06-28 | 2024-03-18 | 2022-06-30 |
 | [FxNorm-automix](https://github.com/sony/FxNorm-automix) | FxNorm-Automix - Implementation of automatic music mixing systems. We show how we can use wet music data and repurpose it to train a fully automatic mixing system | Python | 85 | MIT License | 2022-08-05 | 2024-08-15 | 2024-03-11 |
-| [polar-densification](https://github.com/sony/polar-densification) | None | Python | 22 | MIT License | 2022-09-13 | 2024-07-17 | 2023-03-24 |
+| [polar-densification](https://github.com/sony/polar-densification) | None | Python | 21 | MIT License | 2022-09-13 | 2024-08-18 | 2023-03-24 |
 | [nnabla-js](https://github.com/sony/nnabla-js) | None | TypeScript | 1 | Apache License 2.0 | 2022-09-16 | 2023-02-01 | 2023-01-13 |
 | [DiffRoll](https://github.com/sony/DiffRoll) | PyTorch implementation of DiffRoll, a diffusion-based generative automatic music transcription (AMT) model | Jupyter Notebook | 67 | MIT License | 2022-10-11 | 2024-08-16 | 2023-12-06 |
 | [creativeai](https://github.com/sony/creativeai) | None | CSS | 61 | - | 2022-11-21 | 2024-08-14 | 2024-07-01 |
 | [NDJIR](https://github.com/sony/NDJIR) | NDJIR: Neural Direct and Joint Inverse Rendering for Geometry, Lights, and Materials of Real Object | Python | 42 | Apache License 2.0 | 2022-12-14 | 2024-03-27 | 2023-02-08 |
-| [CLIPSep](https://github.com/sony/CLIPSep) | None | Python | 33 | MIT License | 2023-01-24 | 2024-08-13 | 2023-02-21 |
+| [CLIPSep](https://github.com/sony/CLIPSep) | None | Python | 34 | MIT License | 2023-01-24 | 2024-08-18 | 2023-02-21 |
 | [audio-visual-seld-dcase2023](https://github.com/sony/audio-visual-seld-dcase2023) | Baseline method for audio-visual sound event localization and detection task of DCASE 2023 challenge | Python | 35 | MIT License | 2023-02-20 | 2024-07-02 | 2023-09-05 |
 | [evsCluster](https://github.com/sony/evsCluster) | Python scripts to process EVS (Event-based vision sensor) data | Python | 5 | Other | 2023-03-15 | 2024-02-28 | 2024-01-30 |
 | [Instruct3Dto3D-doc](https://github.com/sony/Instruct3Dto3D-doc) | Official documentation of Instruct 3D-to-3D | HTML | 2 | - | 2023-03-23 | 2023-06-19 | 2023-03-29 |
