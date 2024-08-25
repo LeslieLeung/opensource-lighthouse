@@ -1,16 +1,16 @@
 # Buf
 
-共 60 个项目，近半年内活跃项目 47 个，1 个团队， 16168 个 Star。
+共 60 个项目，近半年内活跃项目 47 个，1 个团队， 16173 个 Star。
 
 语言 Top 3：Go, TypeScript, Makefile
 
-统计时间：2024-08-24 08:06:19
+统计时间：2024-08-25 08:06:47
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) | Protocol Buffer Validation - Being replaced by github.com/bufbuild/protovalidate | Go | 3738 | Apache License 2.0 | 2017-10-03 | 2024-08-24 | 2024-08-19 |
+| [protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) | Protocol Buffer Validation - Being replaced by github.com/bufbuild/protovalidate | Go | 3739 | Apache License 2.0 | 2017-10-03 | 2024-08-25 | 2024-08-19 |
 | [homebrew-buf](https://github.com/bufbuild/homebrew-buf) | Homebrew tap for Buf. | Shell | 12 | Apache License 2.0 | 2019-10-02 | 2024-08-22 | 2024-08-22 |
-| [buf](https://github.com/bufbuild/buf) | The best way of working with Protocol Buffers. | Go | 8766 | Apache License 2.0 | 2019-10-03 | 2024-08-23 | 2024-08-23 |
+| [buf](https://github.com/bufbuild/buf) | The best way of working with Protocol Buffers. | Go | 8769 | Apache License 2.0 | 2019-10-03 | 2024-08-25 | 2024-08-23 |
 | [vim-buf](https://github.com/bufbuild/vim-buf) | Vim integration for Buf. | Vim Script | 34 | Apache License 2.0 | 2019-10-03 | 2024-07-26 | 2024-08-22 |
 | [buf-examples](https://github.com/bufbuild/buf-examples) | Example repository that uses Buf. | C# | 72 | Apache License 2.0 | 2019-10-12 | 2024-07-27 | 2024-02-13 |
 | [makego](https://github.com/bufbuild/makego) | Makefile setup for our Golang projects. | Makefile | 97 | Apache License 2.0 | 2019-11-18 | 2024-08-20 | 2024-08-20 |
@@ -43,7 +43,7 @@
 | [knit-go](https://github.com/bufbuild/knit-go) | Knit standalone gateway and Go embeddable gateway | Go | 48 | Apache License 2.0 | 2023-05-03 | 2024-08-21 | 2024-08-21 |
 | [knit-ts](https://github.com/bufbuild/knit-ts) | TypeScript client for Knit | TypeScript | 25 | Apache License 2.0 | 2023-05-04 | 2024-08-10 | 2024-03-01 |
 | [protovalidate-cc](https://github.com/bufbuild/protovalidate-cc) | Protocol Buffer Validation for C++. | C++ | 11 | Apache License 2.0 | 2023-05-24 | 2024-08-07 | 2024-08-15 |
-| [protovalidate](https://github.com/bufbuild/protovalidate) | Protocol Buffer Validation - Go, Java, Python, and C++ Beta Releases! | Go | 792 | Apache License 2.0 | 2023-05-25 | 2024-08-23 | 2024-08-21 |
+| [protovalidate](https://github.com/bufbuild/protovalidate) | Protocol Buffer Validation - Go, Java, Python, and C++ Beta Releases! | Go | 793 | Apache License 2.0 | 2023-05-25 | 2024-08-25 | 2024-08-21 |
 | [protovalidate-go](https://github.com/bufbuild/protovalidate-go) | Protocol Buffer Validation for Go | Go | 252 | Apache License 2.0 | 2023-05-30 | 2024-08-23 | 2024-08-16 |
 | [httplb](https://github.com/bufbuild/httplb) | Client-side load balancing for net/http | Go | 44 | Apache License 2.0 | 2023-06-01 | 2024-08-20 | 2024-08-20 |
 | [protovalidate-python](https://github.com/bufbuild/protovalidate-python) | Protocol Buffer Validation for Python. | Python | 33 | Apache License 2.0 | 2023-06-01 | 2024-08-05 | 2024-08-22 |
