@@ -1,22 +1,22 @@
 # Sony
 
-A total of 76 projects, 35 active projects in the last six months, 1 teams, and 15004 stars.
+A total of 76 projects, 35 active projects in the last six months, 1 teams, and 15015 stars.
 
 Top 3 Languages: Python, JavaScript, TypeScript
 
-Statistics Date: 2024-08-25 08:06:47
+Statistics Date: 2024-08-26 08:08:29
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 2864 | MIT License | 2015-05-29 | 2024-08-22 | 2024-05-05 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 3848 | MIT License | 2015-05-29 | 2024-08-23 | 2024-04-30 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 2866 | MIT License | 2015-05-29 | 2024-08-26 | 2024-05-05 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 3849 | MIT License | 2015-05-29 | 2024-08-25 | 2024-04-30 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 403 | MIT License | 2015-09-18 | 2024-07-13 | 2020-12-29 |
 | [cdn-purge-control-php](https://github.com/sony/cdn-purge-control-php) | Multi CDN purge control library for PHP | PHP | 8 | MIT License | 2016-01-06 | 2023-04-07 | 2016-10-06 |
 | [huis-ui-creator](https://github.com/sony/huis-ui-creator) | None | JavaScript | 37 | Apache License 2.0 | 2016-02-02 | 2024-02-19 | 2024-07-02 |
 | [node-win-usbdev](https://github.com/sony/node-win-usbdev) | None | C++ | 3 | Apache License 2.0 | 2016-02-02 | 2023-03-29 | 2018-02-16 |
-| [pdaf-library](https://github.com/sony/pdaf-library) | None | C | 26 | BSD 3-Clause "New" or "Revised" License | 2016-03-25 | 2024-08-25 | 2016-03-28 |
+| [pdaf-library](https://github.com/sony/pdaf-library) | None | C | 28 | BSD 3-Clause "New" or "Revised" License | 2016-03-25 | 2024-08-26 | 2016-03-28 |
 | [smarttennissensormp4meta](https://github.com/sony/smarttennissensormp4meta) | None | Java | 4 | Apache License 2.0 | 2016-08-30 | 2022-03-12 | 2016-09-28 |
 | [smarttennissensorsdk](https://github.com/sony/smarttennissensorsdk) | The Smart Tennis Sensor plugs into the end of a tennis racket and records data about all the shots you make throughout a game or practice. With the SDK, you can develop apps for analyzing and presenting that data in real-time. | Java | 8 | Apache License 2.0 | 2016-08-30 | 2024-07-29 | 2017-02-10 |
 | [openocd-nuttx](https://github.com/sony/openocd-nuttx) | Fork of OpenOCD with NuttX thread support. | C | 24 | GNU General Public License v2.0 | 2016-10-18 | 2024-06-08 | 2019-01-21 |
@@ -30,7 +30,7 @@ Statistics Date: 2024-08-25 08:06:47
 | [cdp-cli](https://github.com/sony/cdp-cli) | Command line tools for generating start point of multi-platform application development (Details: see cdp-js repository) | HTML | 7 | Apache License 2.0 | 2017-10-10 | 2020-12-13 | 2018-07-13 |
 | [nnabla-examples](https://github.com/sony/nnabla-examples) | Neural Network Libraries https://nnabla.org/ - Examples | Python | 304 | Apache License 2.0 | 2017-11-05 | 2024-06-24 | 2024-06-24 |
 | [nnabla-c-runtime](https://github.com/sony/nnabla-c-runtime) | Neural Network Libraries https://nnabla.org/ - C Runtime | C | 49 | Apache License 2.0 | 2018-06-26 | 2024-08-08 | 2024-07-04 |
-| [mapray-js](https://github.com/sony/mapray-js) | JavaScript library for Interactive high quality 3D globes and maps in the browser | TypeScript | 137 | Apache License 2.0 | 2019-01-28 | 2024-08-08 | 2024-06-18 |
+| [mapray-js](https://github.com/sony/mapray-js) | JavaScript library for Interactive high quality 3D globes and maps in the browser | TypeScript | 139 | Apache License 2.0 | 2019-01-28 | 2024-08-26 | 2024-06-18 |
 | [typescript-fsa-redux-middleware](https://github.com/sony/typescript-fsa-redux-middleware) | Fluent syntax for defining typesafe Redux vanilla middlewares on top of typescript-fsa. | TypeScript | 10 | MIT License | 2019-01-29 | 2024-05-16 | 2020-01-24 |
 | [nnabla-doc](https://github.com/sony/nnabla-doc) | None | None | 1 | - | 2019-02-20 | 2024-05-29 | 2024-05-29 |
 | [nnabla-dataset-uploader](https://github.com/sony/nnabla-dataset-uploader) | None | Python | 0 | - | 2019-02-26 | 2019-03-15 | 2019-03-15 |
@@ -39,12 +39,12 @@ Statistics Date: 2024-08-25 08:06:47
 | [ai-research-code](https://github.com/sony/ai-research-code) | None | Python | 347 | Apache License 2.0 | 2020-04-14 | 2024-08-25 | 2023-09-12 |
 | [nnabla-nas](https://github.com/sony/nnabla-nas) | Neural Architecture Search for Neural Network Libraries | Python | 55 | Apache License 2.0 | 2020-06-15 | 2024-07-26 | 2024-01-22 |
 | [micro-notifier](https://github.com/sony/micro-notifier) | Simplified Pusher Clone | Go | 10 | MIT License | 2020-09-06 | 2024-05-07 | 2023-05-05 |
-| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1182 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2024-08-23 | 2024-08-22 |
+| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1183 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2024-08-25 | 2024-08-22 |
 | [lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) | None | Python | 0 | MIT License | 2021-03-25 | 2021-05-13 | 2021-05-13 |
 | [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 117 | Apache License 2.0 | 2021-06-11 | 2024-08-21 | 2024-08-21 |
-| [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 81 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2024-08-22 | 2024-08-22 |
-| [model_optimization](https://github.com/sony/model_optimization) | Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks. | Python | 295 | Apache License 2.0 | 2021-06-21 | 2024-08-22 | 2024-08-22 |
-| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 424 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2024-08-24 | 2024-08-22 |
+| [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 82 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2024-08-25 | 2024-08-22 |
+| [model_optimization](https://github.com/sony/model_optimization) | Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks. | Python | 295 | Apache License 2.0 | 2021-06-21 | 2024-08-25 | 2024-08-25 |
+| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 425 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2024-08-25 | 2024-08-22 |
 | [flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) | Flutter plugins for embedded Linux (eLinux) | C++ | 44 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2024-08-13 | 2024-05-02 |
 | [ds-research-code](https://github.com/sony/ds-research-code) | None | Python | 0 | - | 2021-07-19 | 2023-02-07 | 2023-01-30 |
 | [pyIEOE](https://github.com/sony/pyIEOE) | None | Python | 31 | MIT License | 2021-07-20 | 2024-06-20 | 2021-09-02 |
@@ -57,7 +57,7 @@ Statistics Date: 2024-08-25 08:06:47
 | [polar-densification](https://github.com/sony/polar-densification) | None | Python | 21 | MIT License | 2022-09-13 | 2024-08-18 | 2023-03-24 |
 | [nnabla-js](https://github.com/sony/nnabla-js) | None | TypeScript | 1 | Apache License 2.0 | 2022-09-16 | 2023-02-01 | 2023-01-13 |
 | [DiffRoll](https://github.com/sony/DiffRoll) | PyTorch implementation of DiffRoll, a diffusion-based generative automatic music transcription (AMT) model | Jupyter Notebook | 67 | MIT License | 2022-10-11 | 2024-08-16 | 2023-12-06 |
-| [creativeai](https://github.com/sony/creativeai) | None | CSS | 62 | - | 2022-11-21 | 2024-08-25 | 2024-08-22 |
+| [creativeai](https://github.com/sony/creativeai) | None | CSS | 62 | - | 2022-11-21 | 2024-08-26 | 2024-08-26 |
 | [NDJIR](https://github.com/sony/NDJIR) | NDJIR: Neural Direct and Joint Inverse Rendering for Geometry, Lights, and Materials of Real Object | Python | 42 | Apache License 2.0 | 2022-12-14 | 2024-03-27 | 2023-02-08 |
 | [CLIPSep](https://github.com/sony/CLIPSep) | None | Python | 35 | MIT License | 2023-01-24 | 2024-08-22 | 2023-02-21 |
 | [audio-visual-seld-dcase2023](https://github.com/sony/audio-visual-seld-dcase2023) | Baseline method for audio-visual sound event localization and detection task of DCASE 2023 challenge | Python | 36 | MIT License | 2023-02-20 | 2024-08-24 | 2023-09-05 |
@@ -66,7 +66,7 @@ Statistics Date: 2024-08-25 08:06:47
 | [pixel-guided-diffusion](https://github.com/sony/pixel-guided-diffusion) | Fine-grained Image Editing by Pixel-wise Guidance Using Diffusion Models | Python | 34 | Apache License 2.0 | 2023-04-06 | 2024-08-20 | 2023-06-09 |
 | [ARCv2_Ghidra](https://github.com/sony/ARCv2_Ghidra) | None | None | 0 | Apache License 2.0 | 2023-04-26 | 2023-04-26 | 2023-04-26 |
 | [gibbsddrm](https://github.com/sony/gibbsddrm) | None | Python | 21 | MIT License | 2023-04-26 | 2024-07-22 | 2023-05-29 |
-| [fp-diffusion](https://github.com/sony/fp-diffusion) | None | Jupyter Notebook | 17 | Apache License 2.0 | 2023-04-26 | 2024-08-09 | 2024-02-14 |
+| [fp-diffusion](https://github.com/sony/fp-diffusion) | None | Jupyter Notebook | 18 | Apache License 2.0 | 2023-04-26 | 2024-08-25 | 2024-02-14 |
 | [mct_quantizers](https://github.com/sony/mct_quantizers) | None | Python | 17 | Apache License 2.0 | 2023-05-09 | 2024-08-06 | 2024-08-08 |
 | [diffiner](https://github.com/sony/diffiner) | None | Python | 56 | MIT License | 2023-05-30 | 2024-08-24 | 2023-08-16 |
 | [hFT-Transformer](https://github.com/sony/hFT-Transformer) | Pytorch implementation of automatic music transcription method that uses a two-level hierarchical frequency-time Transformer architecture (hFT-Transformer). | Python | 69 | MIT License | 2023-06-26 | 2024-08-24 | 2023-07-11 |
@@ -80,7 +80,7 @@ Statistics Date: 2024-08-25 08:06:47
 | [pyAutoPort](https://github.com/sony/pyAutoPort) | None | Python | 5 | BSD 3-Clause "New" or "Revised" License | 2023-12-13 | 2024-05-13 | 2024-05-13 |
 | [SR-Display-Plugin-Preview-ZB](https://github.com/sony/SR-Display-Plugin-Preview-ZB) | None | None | 1 | MIT License | 2024-02-19 | 2024-02-19 | 2024-02-19 |
 | [NeISF](https://github.com/sony/NeISF) | None | Python | 8 | Other | 2024-06-04 | 2024-08-09 | 2024-07-26 |
-| [nnc-desktop](https://github.com/sony/nnc-desktop) | None | TypeScript | 3 | Apache License 2.0 | 2024-06-04 | 2024-08-19 | 2024-08-09 |
+| [nnc-desktop](https://github.com/sony/nnc-desktop) | None | TypeScript | 3 | Apache License 2.0 | 2024-06-04 | 2024-08-26 | 2024-08-09 |
 | [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 69 | MIT License | 2024-06-04 | 2024-07-15 | 2024-07-01 |
 | [silentcipher](https://github.com/sony/silentcipher) | None | Python | 11 | MIT License | 2024-06-05 | 2024-08-23 | 2024-07-22 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 3 | MIT License | 2024-07-09 | 2024-08-15 | 2024-07-12 |
