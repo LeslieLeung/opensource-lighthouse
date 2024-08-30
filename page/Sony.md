@@ -1,18 +1,18 @@
 # Sony
 
-共 77 个项目，近半年内活跃项目 36 个，1 个团队， 15110 个 Star。
+共 77 个项目，近半年内活跃项目 36 个，1 个团队， 15162 个 Star。
 
 语言 Top 3：Python, JavaScript, TypeScript
 
-统计时间：2024-08-29 08:07:28
+统计时间：2024-08-30 08:07:46
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 2873 | MIT License | 2015-05-29 | 2024-08-28 | 2024-05-05 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 3851 | MIT License | 2015-05-29 | 2024-08-28 | 2024-04-30 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 2874 | MIT License | 2015-05-29 | 2024-08-29 | 2024-05-05 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 3852 | MIT License | 2015-05-29 | 2024-08-30 | 2024-04-30 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
-| [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 402 | MIT License | 2015-09-18 | 2024-08-26 | 2020-12-29 |
+| [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 402 | MIT License | 2015-09-18 | 2024-08-30 | 2020-12-29 |
 | [cdn-purge-control-php](https://github.com/sony/cdn-purge-control-php) | Multi CDN purge control library for PHP | PHP | 8 | MIT License | 2016-01-06 | 2023-04-07 | 2016-10-06 |
 | [huis-ui-creator](https://github.com/sony/huis-ui-creator) | None | JavaScript | 37 | Apache License 2.0 | 2016-02-02 | 2024-02-19 | 2024-07-02 |
 | [node-win-usbdev](https://github.com/sony/node-win-usbdev) | None | C++ | 3 | Apache License 2.0 | 2016-02-02 | 2023-03-29 | 2018-02-16 |
@@ -21,9 +21,9 @@
 | [smarttennissensorsdk](https://github.com/sony/smarttennissensorsdk) | The Smart Tennis Sensor plugs into the end of a tennis racket and records data about all the shots you make throughout a game or practice. With the SDK, you can develop apps for analyzing and presenting that data in real-time. | Java | 8 | Apache License 2.0 | 2016-08-30 | 2024-07-29 | 2017-02-10 |
 | [openocd-nuttx](https://github.com/sony/openocd-nuttx) | Fork of OpenOCD with NuttX thread support. | C | 24 | GNU General Public License v2.0 | 2016-10-18 | 2024-06-08 | 2019-01-21 |
 | [nnabla-ext-cuda](https://github.com/sony/nnabla-ext-cuda) | A CUDA Extension of Neural Network Libraries | Cuda | 92 | Apache License 2.0 | 2017-06-21 | 2024-06-20 | 2024-06-20 |
-| [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2718 | Apache License 2.0 | 2017-06-26 | 2024-08-22 | 2024-06-20 |
+| [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2719 | Apache License 2.0 | 2017-06-26 | 2024-08-29 | 2024-06-20 |
 | [easyhttpcpp](https://github.com/sony/easyhttpcpp) | A cross-platform HTTP client library with a focus on usability and speed | C++ | 163 | MIT License | 2017-08-09 | 2024-08-22 | 2022-01-31 |
-| [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 136 | Apache License 2.0 | 2017-09-07 | 2024-08-01 | 2024-08-06 |
+| [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 137 | Apache License 2.0 | 2017-09-07 | 2024-08-29 | 2024-08-06 |
 | [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 32 | Apache License 2.0 | 2017-09-07 | 2024-08-21 | 2024-03-19 |
 | [cdp-js](https://github.com/sony/cdp-js) | Libraries/SDK modules for multi-platform application development | TypeScript | 22 | Apache License 2.0 | 2017-10-10 | 2024-02-11 | 2018-05-10 |
 | [cdp-lib](https://github.com/sony/cdp-lib) | Application template/libraries for cdp-js (Details: see cdp-js repository) | JavaScript | 6 | Apache License 2.0 | 2017-10-10 | 2017-11-13 | 2018-02-23 |
@@ -63,7 +63,7 @@
 | [audio-visual-seld-dcase2023](https://github.com/sony/audio-visual-seld-dcase2023) | Baseline method for audio-visual sound event localization and detection task of DCASE 2023 challenge | Python | 36 | MIT License | 2023-02-20 | 2024-08-24 | 2023-09-05 |
 | [evsCluster](https://github.com/sony/evsCluster) | Python scripts to process EVS (Event-based vision sensor) data | Python | 6 | Other | 2023-03-15 | 2024-08-22 | 2024-01-30 |
 | [Instruct3Dto3D-doc](https://github.com/sony/Instruct3Dto3D-doc) | Official documentation of Instruct 3D-to-3D | HTML | 2 | - | 2023-03-23 | 2023-06-19 | 2023-03-29 |
-| [pixel-guided-diffusion](https://github.com/sony/pixel-guided-diffusion) | Fine-grained Image Editing by Pixel-wise Guidance Using Diffusion Models | Python | 34 | Apache License 2.0 | 2023-04-06 | 2024-08-20 | 2023-06-09 |
+| [pixel-guided-diffusion](https://github.com/sony/pixel-guided-diffusion) | Fine-grained Image Editing by Pixel-wise Guidance Using Diffusion Models | Python | 35 | Apache License 2.0 | 2023-04-06 | 2024-08-30 | 2023-06-09 |
 | [ARCv2_Ghidra](https://github.com/sony/ARCv2_Ghidra) | None | None | 0 | Apache License 2.0 | 2023-04-26 | 2023-04-26 | 2023-04-26 |
 | [gibbsddrm](https://github.com/sony/gibbsddrm) | None | Python | 21 | MIT License | 2023-04-26 | 2024-07-22 | 2023-05-29 |
 | [fp-diffusion](https://github.com/sony/fp-diffusion) | None | Jupyter Notebook | 18 | Apache License 2.0 | 2023-04-26 | 2024-08-25 | 2024-02-14 |
@@ -75,13 +75,13 @@
 | [bigvsan_eval](https://github.com/sony/bigvsan_eval) | Evaluation tool used in the BigVSAN paper | Python | 9 | MIT License | 2023-09-01 | 2024-04-02 | 2024-03-22 |
 | [timbre-trap](https://github.com/sony/timbre-trap) | Code for the paper "Timbre-Trap: A Low-Resource Framework for Instrument-Agnostic Music Transcription" | Python | 32 | MIT License | 2023-09-12 | 2024-07-30 | 2024-05-05 |
 | [custom_layers](https://github.com/sony/custom_layers) | None | Python | 7 | Apache License 2.0 | 2023-09-21 | 2024-05-08 | 2024-05-08 |
-| [ctm](https://github.com/sony/ctm) | None | Python | 211 | - | 2023-10-10 | 2024-08-28 | 2024-04-30 |
+| [ctm](https://github.com/sony/ctm) | None | Python | 212 | - | 2023-10-10 | 2024-08-29 | 2024-04-30 |
 | [SR-Display-Plugin-Preview-BL](https://github.com/sony/SR-Display-Plugin-Preview-BL) | None | Python | 4 | MIT License | 2023-12-13 | 2024-08-17 | 2024-05-24 |
 | [pyAutoPort](https://github.com/sony/pyAutoPort) | None | Python | 5 | BSD 3-Clause "New" or "Revised" License | 2023-12-13 | 2024-05-13 | 2024-05-13 |
 | [SR-Display-Plugin-Preview-ZB](https://github.com/sony/SR-Display-Plugin-Preview-ZB) | None | None | 1 | MIT License | 2024-02-19 | 2024-02-19 | 2024-02-19 |
 | [NeISF](https://github.com/sony/NeISF) | None | Python | 8 | Other | 2024-06-04 | 2024-08-09 | 2024-07-26 |
 | [nnc-desktop](https://github.com/sony/nnc-desktop) | None | TypeScript | 3 | Apache License 2.0 | 2024-06-04 | 2024-08-26 | 2024-08-09 |
-| [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 69 | MIT License | 2024-06-04 | 2024-07-15 | 2024-07-01 |
+| [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 69 | MIT License | 2024-06-04 | 2024-08-29 | 2024-08-29 |
 | [silentcipher](https://github.com/sony/silentcipher) | None | Python | 11 | MIT License | 2024-06-05 | 2024-08-23 | 2024-07-22 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 3 | MIT License | 2024-07-09 | 2024-08-15 | 2024-07-12 |
-| [genwarp](https://github.com/sony/genwarp) | None | Python | 79 | MIT License | 2024-08-06 | 2024-08-29 | 2024-08-28 |
+| [genwarp](https://github.com/sony/genwarp) | None | Python | 125 | MIT License | 2024-08-06 | 2024-08-30 | 2024-08-30 |
