@@ -1,10 +1,10 @@
 # Sony
 
-共 77 个项目，近半年内活跃项目 36 个，1 个团队， 15175 个 Star。
+共 77 个项目，近半年内活跃项目 36 个，1 个团队， 15179 个 Star。
 
 语言 Top 3：Python, JavaScript, TypeScript
 
-统计时间：2024-08-31 08:06:50
+统计时间：2024-09-01 08:06:56
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -21,7 +21,7 @@
 | [smarttennissensorsdk](https://github.com/sony/smarttennissensorsdk) | The Smart Tennis Sensor plugs into the end of a tennis racket and records data about all the shots you make throughout a game or practice. With the SDK, you can develop apps for analyzing and presenting that data in real-time. | Java | 8 | Apache License 2.0 | 2016-08-30 | 2024-07-29 | 2017-02-10 |
 | [openocd-nuttx](https://github.com/sony/openocd-nuttx) | Fork of OpenOCD with NuttX thread support. | C | 24 | GNU General Public License v2.0 | 2016-10-18 | 2024-06-08 | 2019-01-21 |
 | [nnabla-ext-cuda](https://github.com/sony/nnabla-ext-cuda) | A CUDA Extension of Neural Network Libraries | Cuda | 92 | Apache License 2.0 | 2017-06-21 | 2024-06-20 | 2024-06-20 |
-| [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2719 | Apache License 2.0 | 2017-06-26 | 2024-08-29 | 2024-06-20 |
+| [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2720 | Apache License 2.0 | 2017-06-26 | 2024-08-31 | 2024-06-20 |
 | [easyhttpcpp](https://github.com/sony/easyhttpcpp) | A cross-platform HTTP client library with a focus on usability and speed | C++ | 163 | MIT License | 2017-08-09 | 2024-08-22 | 2022-01-31 |
 | [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 137 | Apache License 2.0 | 2017-09-07 | 2024-08-29 | 2024-08-06 |
 | [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 32 | Apache License 2.0 | 2017-09-07 | 2024-08-21 | 2024-03-19 |
@@ -84,4 +84,4 @@
 | [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 69 | MIT License | 2024-06-04 | 2024-08-29 | 2024-08-29 |
 | [silentcipher](https://github.com/sony/silentcipher) | None | Python | 11 | MIT License | 2024-06-05 | 2024-08-23 | 2024-07-22 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 3 | MIT License | 2024-07-09 | 2024-08-15 | 2024-07-12 |
-| [genwarp](https://github.com/sony/genwarp) | None | Python | 131 | MIT License | 2024-08-06 | 2024-08-31 | 2024-08-30 |
+| [genwarp](https://github.com/sony/genwarp) | None | Python | 134 | MIT License | 2024-08-06 | 2024-08-31 | 2024-08-30 |
