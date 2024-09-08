@@ -1,14 +1,14 @@
 # Sony
 
-共 77 个项目，近半年内活跃项目 35 个，1 个团队， 15243 个 Star。
+共 77 个项目，近半年内活跃项目 35 个，1 个团队， 15249 个 Star。
 
 语言 Top 3：Python, JavaScript, TypeScript
 
-统计时间：2024-09-07 08:06:28
+统计时间：2024-09-08 08:07:00
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 2883 | MIT License | 2015-05-29 | 2024-09-04 | 2024-05-05 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 2884 | MIT License | 2015-05-29 | 2024-09-07 | 2024-05-05 |
 | [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 3862 | MIT License | 2015-05-29 | 2024-09-05 | 2024-04-30 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
@@ -43,7 +43,7 @@
 | [lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) | None | Python | 0 | MIT License | 2021-03-25 | 2021-05-13 | 2021-05-13 |
 | [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 117 | Apache License 2.0 | 2021-06-11 | 2024-08-21 | 2024-09-03 |
 | [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 83 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2024-09-05 | 2024-09-05 |
-| [model_optimization](https://github.com/sony/model_optimization) | Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks. | Python | 296 | Apache License 2.0 | 2021-06-21 | 2024-09-07 | 2024-09-04 |
+| [model_optimization](https://github.com/sony/model_optimization) | Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks. | Python | 296 | Apache License 2.0 | 2021-06-21 | 2024-09-08 | 2024-09-08 |
 | [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 428 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2024-09-06 | 2024-09-05 |
 | [flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) | Flutter plugins for embedded Linux (eLinux) | C++ | 45 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2024-09-03 | 2024-05-02 |
 | [ds-research-code](https://github.com/sony/ds-research-code) | None | Python | 0 | - | 2021-07-19 | 2023-02-07 | 2023-01-30 |
@@ -84,4 +84,4 @@
 | [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 69 | MIT License | 2024-06-04 | 2024-08-29 | 2024-08-29 |
 | [silentcipher](https://github.com/sony/silentcipher) | None | Python | 11 | MIT License | 2024-06-05 | 2024-08-23 | 2024-07-22 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 3 | MIT License | 2024-07-09 | 2024-08-15 | 2024-07-12 |
-| [genwarp](https://github.com/sony/genwarp) | None | Python | 167 | MIT License | 2024-08-06 | 2024-09-07 | 2024-09-01 |
+| [genwarp](https://github.com/sony/genwarp) | None | Python | 172 | MIT License | 2024-08-06 | 2024-09-08 | 2024-09-01 |
