@@ -4,7 +4,7 @@
 
 语言 Top 3：C++, Python, Go
 
-统计时间：2024-09-23 08:08:27
+统计时间：2024-09-24 08:08:11
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -37,8 +37,8 @@
 | [linux](https://github.com/Boeing/linux) | Linux kernel stable tree mirror | C | 0 | Other | 2024-04-22 | 2024-07-08 | 2024-09-15 |
 | [linux-yocto](https://github.com/Boeing/linux-yocto) | None | C | 0 | Other | 2024-04-22 | 2024-07-09 | 2024-09-18 |
 | [openembedded-core](https://github.com/Boeing/openembedded-core) | None | BitBake | 1 | Other | 2024-04-22 | 2024-07-29 | 2024-09-22 |
-| [meta-openembedded](https://github.com/Boeing/meta-openembedded) | None | BitBake | 1 | MIT License | 2024-04-22 | 2024-08-20 | 2024-09-22 |
-| [meta-openembedded-contrib](https://github.com/Boeing/meta-openembedded-contrib) | None | BitBake | 0 | MIT License | 2024-04-22 | 2024-07-09 | 2024-09-22 |
+| [meta-openembedded](https://github.com/Boeing/meta-openembedded) | None | BitBake | 1 | MIT License | 2024-04-22 | 2024-08-20 | 2024-09-24 |
+| [meta-openembedded-contrib](https://github.com/Boeing/meta-openembedded-contrib) | None | BitBake | 0 | MIT License | 2024-04-22 | 2024-07-09 | 2024-09-24 |
 | [bitbake](https://github.com/Boeing/bitbake) | None | None | 0 | - | 2024-04-22 | 2024-07-09 | 2024-09-20 |
 | [genai-for-multi-label](https://github.com/Boeing/genai-for-multi-label) | Fine-tuning LLMs for Multi-label Text Classification | None | 0 | - | 2024-07-01 | 2024-07-01 | 2024-07-01 |
 | [step_to_sdf](https://github.com/Boeing/step_to_sdf) | This package provides a mechanism for converting between STEP and SDF. | None | 0 | - | 2024-08-12 | 2024-08-12 | 2024-08-12 |
