@@ -1,15 +1,15 @@
 # Sony
 
-共 78 个项目，近半年内活跃项目 33 个，1 个团队， 15366 个 Star。
+共 78 个项目，近半年内活跃项目 33 个，1 个团队， 15369 个 Star。
 
 语言 Top 3：Python, JavaScript, TypeScript
 
-统计时间：2024-09-24 08:08:11
+统计时间：2024-09-25 08:07:59
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 2897 | MIT License | 2015-05-29 | 2024-09-24 | 2024-05-05 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 3884 | MIT License | 2015-05-29 | 2024-09-23 | 2024-04-30 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 3885 | MIT License | 2015-05-29 | 2024-09-24 | 2024-04-30 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 403 | MIT License | 2015-09-18 | 2024-08-30 | 2020-12-29 |
@@ -43,9 +43,9 @@
 | [lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) | None | Python | 0 | MIT License | 2021-03-25 | 2021-05-13 | 2021-05-13 |
 | [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 118 | Apache License 2.0 | 2021-06-11 | 2024-09-20 | 2024-09-18 |
 | [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 84 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2024-09-19 | 2024-09-13 |
-| [model_optimization](https://github.com/sony/model_optimization) | Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks. | Python | 299 | Apache License 2.0 | 2021-06-21 | 2024-09-24 | 2024-09-24 |
+| [model_optimization](https://github.com/sony/model_optimization) | Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks. | Python | 300 | Apache License 2.0 | 2021-06-21 | 2024-09-25 | 2024-09-25 |
 | [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 438 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2024-09-24 | 2024-09-15 |
-| [flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) | Flutter plugins for embedded Linux (eLinux) | C++ | 45 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2024-09-22 | 2024-09-22 |
+| [flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) | Flutter plugins for embedded Linux (eLinux) | C++ | 45 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2024-09-25 | 2024-09-25 |
 | [ds-research-code](https://github.com/sony/ds-research-code) | None | Python | 0 | - | 2021-07-19 | 2023-02-07 | 2023-01-30 |
 | [pyIEOE](https://github.com/sony/pyIEOE) | None | Python | 31 | MIT License | 2021-07-20 | 2024-06-20 | 2021-09-02 |
 | [nnc-plugin](https://github.com/sony/nnc-plugin) | Plugins for Neural Network Console (https://dl.sony.com/). | Python | 15 | Apache License 2.0 | 2021-08-05 | 2024-06-06 | 2024-06-06 |
@@ -84,5 +84,5 @@
 | [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 68 | MIT License | 2024-06-04 | 2024-09-16 | 2024-08-29 |
 | [silentcipher](https://github.com/sony/silentcipher) | None | Python | 12 | MIT License | 2024-06-05 | 2024-09-14 | 2024-07-22 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 5 | MIT License | 2024-07-09 | 2024-09-19 | 2024-07-12 |
-| [genwarp](https://github.com/sony/genwarp) | None | Python | 199 | MIT License | 2024-08-06 | 2024-09-23 | 2024-09-13 |
+| [genwarp](https://github.com/sony/genwarp) | None | Python | 200 | MIT License | 2024-08-06 | 2024-09-24 | 2024-09-13 |
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 3 | MIT License | 2024-09-05 | 2024-09-18 | 2024-09-24 |

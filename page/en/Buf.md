@@ -1,16 +1,16 @@
 # Buf
 
-A total of 57 projects, 45 active projects in the last six months, 1 teams, and 16488 stars.
+A total of 57 projects, 45 active projects in the last six months, 1 teams, and 16499 stars.
 
 Top 3 Languages: Go, TypeScript, Makefile
 
-Statistics Date: 2024-09-24 08:08:11
+Statistics Date: 2024-09-25 08:07:59
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) | Protocol Buffer Validation - Being replaced by github.com/bufbuild/protovalidate | Go | 3757 | Apache License 2.0 | 2017-10-03 | 2024-09-20 | 2024-09-23 |
+| [protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) | Protocol Buffer Validation - Being replaced by github.com/bufbuild/protovalidate | Go | 3758 | Apache License 2.0 | 2017-10-03 | 2024-09-24 | 2024-09-23 |
 | [homebrew-buf](https://github.com/bufbuild/homebrew-buf) | Homebrew tap for Buf. | Shell | 12 | Apache License 2.0 | 2019-10-02 | 2024-09-18 | 2024-09-18 |
-| [buf](https://github.com/bufbuild/buf) | The best way of working with Protocol Buffers. | Go | 8897 | Apache License 2.0 | 2019-10-03 | 2024-09-24 | 2024-09-23 |
+| [buf](https://github.com/bufbuild/buf) | The best way of working with Protocol Buffers. | Go | 8902 | Apache License 2.0 | 2019-10-03 | 2024-09-25 | 2024-09-24 |
 | [vim-buf](https://github.com/bufbuild/vim-buf) | Vim integration for Buf. | Vim Script | 35 | Apache License 2.0 | 2019-10-03 | 2024-09-12 | 2024-09-18 |
 | [buf-examples](https://github.com/bufbuild/buf-examples) | Example repository that uses Buf. | C# | 72 | Apache License 2.0 | 2019-10-12 | 2024-07-27 | 2024-02-13 |
 | [makego](https://github.com/bufbuild/makego) | Makefile setup for our Golang projects. | Makefile | 99 | Apache License 2.0 | 2019-11-18 | 2024-09-20 | 2024-09-23 |
@@ -19,11 +19,11 @@ Statistics Date: 2024-09-24 08:08:11
 | [buf-setup-action](https://github.com/bufbuild/buf-setup-action) | None | TypeScript | 40 | Apache License 2.0 | 2021-03-17 | 2024-09-18 | 2024-09-18 |
 | [buf-lint-action](https://github.com/bufbuild/buf-lint-action) | None | TypeScript | 28 | Apache License 2.0 | 2021-03-17 | 2024-08-01 | 2024-08-01 |
 | [buf-push-action](https://github.com/bufbuild/buf-push-action) | None | Shell | 15 | Apache License 2.0 | 2021-03-17 | 2024-09-03 | 2024-08-01 |
-| [buf-breaking-action](https://github.com/bufbuild/buf-breaking-action) | None | TypeScript | 25 | Apache License 2.0 | 2021-03-17 | 2024-08-01 | 2024-08-01 |
+| [buf-breaking-action](https://github.com/bufbuild/buf-breaking-action) | None | TypeScript | 26 | Apache License 2.0 | 2021-03-17 | 2024-09-25 | 2024-08-01 |
 | [buf-tour](https://github.com/bufbuild/buf-tour) | None | Go | 48 | - | 2021-08-10 | 2024-09-18 | 2024-09-18 |
 | [rules_buf](https://github.com/bufbuild/rules_buf) | Bazel rules for Buf. | Starlark | 46 | Apache License 2.0 | 2021-11-16 | 2024-09-19 | 2024-07-12 |
 | [intellij-buf](https://github.com/bufbuild/intellij-buf) | IntelliJ plugin for Buf | Kotlin | 17 | Apache License 2.0 | 2022-03-08 | 2024-09-16 | 2024-09-23 |
-| [protobuf-es](https://github.com/bufbuild/protobuf-es) | Protocol Buffers for ECMAScript. The only JavaScript Protobuf library that is fully-compliant with Protobuf conformance tests. | TypeScript | 1093 | Apache License 2.0 | 2022-03-14 | 2024-09-23 | 2024-09-23 |
+| [protobuf-es](https://github.com/bufbuild/protobuf-es) | Protocol Buffers for ECMAScript. The only JavaScript Protobuf library that is fully-compliant with Protobuf conformance tests. | TypeScript | 1094 | Apache License 2.0 | 2022-03-14 | 2024-09-25 | 2024-09-23 |
 | [protocompile](https://github.com/bufbuild/protocompile) | A parsing/linking engine for protobuf; the guts for a pure Go replacement of protoc. | Go | 226 | Apache License 2.0 | 2022-08-11 | 2024-09-23 | 2024-09-23 |
 | [buf-language-server](https://github.com/bufbuild/buf-language-server) | Prototype for a Protobuf language server compatible with Buf. | Go | 126 | Apache License 2.0 | 2022-08-15 | 2024-09-20 | 2024-02-13 |
 | [plugins](https://github.com/bufbuild/plugins) | Remote Protobuf plugins available on the BSR | Dockerfile | 47 | Apache License 2.0 | 2022-08-16 | 2024-09-23 | 2024-09-23 |
@@ -35,21 +35,21 @@ Statistics Date: 2024-09-24 08:08:11
 | [prototransform](https://github.com/bufbuild/prototransform) | Client library for Buf Reflection API, for transforming Protobuf data. | Go | 44 | Apache License 2.0 | 2023-01-30 | 2024-09-23 | 2024-09-23 |
 | [analytics-go](https://github.com/bufbuild/analytics-go) | None | Go | 0 | MIT License | 2023-02-28 | 2024-02-14 | 2024-02-13 |
 | [.github](https://github.com/bufbuild/.github) | None | None | 1 | Apache License 2.0 | 2023-03-08 | 2024-08-28 | 2024-08-28 |
-| [modules](https://github.com/bufbuild/modules) | Collection of third-party modules managed and synced by Buf. | Go | 20 | Apache License 2.0 | 2023-03-16 | 2024-09-23 | 2024-09-23 |
+| [modules](https://github.com/bufbuild/modules) | Collection of third-party modules managed and synced by Buf. | Go | 20 | Apache License 2.0 | 2023-03-16 | 2024-09-24 | 2024-09-24 |
 | [protobuf-language-spec](https://github.com/bufbuild/protobuf-language-spec) | Comprehensive language specification for Protocol Buffers | None | 6 | Apache License 2.0 | 2023-04-10 | 2024-08-01 | 2024-02-13 |
 | [knit](https://github.com/bufbuild/knit) | GraphQL-like capabilities to services using Protocol Buffers, gRPC, and Connect | Go | 146 | Apache License 2.0 | 2023-04-24 | 2024-09-20 | 2024-04-19 |
 | [knit-proto](https://github.com/bufbuild/knit-proto) | Protocol definition for Knit | None | 7 | Apache License 2.0 | 2023-05-03 | 2024-08-01 | 2024-08-01 |
 | [knit-demo](https://github.com/bufbuild/knit-demo) | An example service built with Knit | Go | 6 | Apache License 2.0 | 2023-05-03 | 2024-08-16 | 2024-08-16 |
 | [knit-go](https://github.com/bufbuild/knit-go) | Knit standalone gateway and Go embeddable gateway | Go | 48 | Apache License 2.0 | 2023-05-03 | 2024-09-23 | 2024-09-23 |
 | [knit-ts](https://github.com/bufbuild/knit-ts) | TypeScript client for Knit | TypeScript | 25 | Apache License 2.0 | 2023-05-04 | 2024-08-10 | 2024-03-01 |
-| [protovalidate-cc](https://github.com/bufbuild/protovalidate-cc) | Protocol Buffer Validation for C++. | C++ | 13 | Apache License 2.0 | 2023-05-24 | 2024-09-23 | 2024-09-23 |
-| [protovalidate](https://github.com/bufbuild/protovalidate) | Protocol Buffer Validation - Go, Java, Python, and C++ Beta Releases! | Go | 858 | Apache License 2.0 | 2023-05-25 | 2024-09-24 | 2024-09-20 |
-| [protovalidate-go](https://github.com/bufbuild/protovalidate-go) | Protocol Buffer Validation for Go | Go | 263 | Apache License 2.0 | 2023-05-30 | 2024-09-23 | 2024-09-23 |
+| [protovalidate-cc](https://github.com/bufbuild/protovalidate-cc) | Protocol Buffer Validation for C++. | C++ | 13 | Apache License 2.0 | 2023-05-24 | 2024-09-23 | 2024-09-24 |
+| [protovalidate](https://github.com/bufbuild/protovalidate) | Protocol Buffer Validation - Go, Java, Python, and C++ Beta Releases! | Go | 860 | Apache License 2.0 | 2023-05-25 | 2024-09-24 | 2024-09-20 |
+| [protovalidate-go](https://github.com/bufbuild/protovalidate-go) | Protocol Buffer Validation for Go | Go | 264 | Apache License 2.0 | 2023-05-30 | 2024-09-24 | 2024-09-23 |
 | [httplb](https://github.com/bufbuild/httplb) | Client-side load balancing for net/http | Go | 45 | Apache License 2.0 | 2023-06-01 | 2024-09-03 | 2024-08-20 |
 | [protovalidate-python](https://github.com/bufbuild/protovalidate-python) | Protocol Buffer Validation for Python. | Python | 35 | Apache License 2.0 | 2023-06-01 | 2024-09-07 | 2024-09-23 |
 | [tree-sitter-cel](https://github.com/bufbuild/tree-sitter-cel) | Tree sitter grammar for the Common Expression Language (CEL) | C | 10 | Apache License 2.0 | 2023-06-23 | 2024-07-22 | 2024-02-13 |
 | [confluent-proto](https://github.com/bufbuild/confluent-proto) | Proto definitions for integrating Confluent Schema Registry with the BSR | Makefile | 4 | Apache License 2.0 | 2023-07-20 | 2024-08-01 | 2024-08-01 |
-| [protovalidate-java](https://github.com/bufbuild/protovalidate-java) | Protocol Buffer Validation for Java. | Java | 37 | Apache License 2.0 | 2023-07-21 | 2024-09-16 | 2024-09-23 |
+| [protovalidate-java](https://github.com/bufbuild/protovalidate-java) | Protocol Buffer Validation for Java. | Java | 37 | Apache License 2.0 | 2023-07-21 | 2024-09-16 | 2024-09-24 |
 | [connect-go](https://github.com/bufbuild/connect-go) | Moved to https://github.com/connectrpc/connect-go | Go | 3 | Apache License 2.0 | 2023-07-26 | 2023-10-12 | 2023-08-24 |
 | [connect-grpchealth-go](https://github.com/bufbuild/connect-grpchealth-go) | Moved to https://github.com/connectrpc/grpchealth-go | Go | 0 | Apache License 2.0 | 2023-07-26 | 2023-09-01 | 2023-08-01 |
 | [connect-grpcreflect-go](https://github.com/bufbuild/connect-grpcreflect-go) | Relocated to https://github.com/connectrpc/grpcreflect-go | Go | 0 | Apache License 2.0 | 2023-07-26 | 2023-09-01 | 2023-08-01 |
@@ -57,7 +57,7 @@ Statistics Date: 2024-09-24 08:08:11
 | [jest-environment-jsdom](https://github.com/bufbuild/jest-environment-jsdom) | A modern jsdom test environment for Jest | TypeScript | 4 | Apache License 2.0 | 2023-08-10 | 2024-09-02 | 2024-09-02 |
 | [gophercon-2023-workshop](https://github.com/bufbuild/gophercon-2023-workshop) | None | Go | 0 | - | 2023-09-22 | 2024-02-13 | 2024-02-13 |
 | [protoyaml-go](https://github.com/bufbuild/protoyaml-go) | Marshal and unmarshal Protobuf as YAML with rich error messages. | Go | 46 | Apache License 2.0 | 2023-09-27 | 2024-09-12 | 2024-09-12 |
-| [registry-proto](https://github.com/bufbuild/registry-proto) | BSR's new public API. Currently in development. | Makefile | 18 | Apache License 2.0 | 2023-10-26 | 2024-08-31 | 2024-09-13 |
+| [registry-proto](https://github.com/bufbuild/registry-proto) | BSR's new public API. Currently in development. | Makefile | 18 | Apache License 2.0 | 2023-10-26 | 2024-09-25 | 2024-09-25 |
 | [bufisk](https://github.com/bufbuild/bufisk) | Bazelisk, but for Buf. A user-friendly launcher for Buf. | Go | 7 | Apache License 2.0 | 2023-11-30 | 2024-09-03 | 2024-08-31 |
 | [protoplugin](https://github.com/bufbuild/protoplugin) | The missing library to write protoc plugins. | Go | 29 | Apache License 2.0 | 2024-03-04 | 2024-09-18 | 2024-09-11 |
 | [protoschema-plugins](https://github.com/bufbuild/protoschema-plugins) | Protobuf plugins that generate various schemas from protobuf files - JSON Schema, PubSub, etc. | Go | 18 | Apache License 2.0 | 2024-03-13 | 2024-08-30 | 2024-09-03 |
