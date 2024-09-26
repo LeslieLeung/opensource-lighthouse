@@ -1,14 +1,14 @@
 # LLVM Foundation
 
-A total of 33 projects, 22 active projects in the last six months, 1 teams, and 32454 stars.
+A total of 33 projects, 22 active projects in the last six months, 1 teams, and 32477 stars.
 
 Top 3 Languages: Python, HTML, C++
 
-Statistics Date: 2024-09-25 08:07:59
+Statistics Date: 2024-09-26 08:07:57
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [llvm-project](https://github.com/llvm/llvm-project) | The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. | LLVM | 28118 | Other | 2016-12-07 | 2024-09-25 | 2024-09-25 |
+| [llvm-project](https://github.com/llvm/llvm-project) | The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. | LLVM | 28133 | Other | 2016-12-07 | 2024-09-26 | 2024-09-26 |
 | [llvm-project-legacy-branches](https://github.com/llvm/llvm-project-legacy-branches) | Miscellaneous unofficial branches and tags converted from svn. | C++ | 3 | - | 2019-01-09 | 2023-05-31 | 2019-05-14 |
 | [llvm-archive](https://github.com/llvm/llvm-archive) | Archive of old/discontinued llvm projects, converted from SVN. | None | 9 | - | 2019-01-09 | 2024-07-30 | 2021-02-09 |
 | [llvm-lnt](https://github.com/llvm/llvm-lnt) | None | Python | 27 | Other | 2019-01-09 | 2024-09-04 | 2024-08-28 |
@@ -17,19 +17,19 @@ Statistics Date: 2024-09-25 08:07:59
 | [llvm-www-pubs](https://github.com/llvm/llvm-www-pubs) | None | HTML | 11 | - | 2019-01-09 | 2024-07-30 | 2021-01-28 |
 | [llvm-zorg](https://github.com/llvm/llvm-zorg) | None | Python | 65 | Other | 2019-01-09 | 2024-09-22 | 2024-09-18 |
 | [actions](https://github.com/llvm/actions) | None | TypeScript | 9 | Other | 2019-11-18 | 2024-08-08 | 2024-08-08 |
-| [mlir-www](https://github.com/llvm/mlir-www) | None | SCSS | 64 | - | 2019-12-09 | 2024-09-24 | 2024-09-25 |
+| [mlir-www](https://github.com/llvm/mlir-www) | None | SCSS | 64 | - | 2019-12-09 | 2024-09-24 | 2024-09-26 |
 | [www-releases](https://github.com/llvm/www-releases) | None | HTML | 6 | - | 2020-01-09 | 2024-09-17 | 2024-09-17 |
 | [temp-issue-tester](https://github.com/llvm/temp-issue-tester) | Repository for testing GitHub issue features | Python | 2 | - | 2020-02-01 | 2024-07-30 | 2024-02-03 |
 | [llvm-admin](https://github.com/llvm/llvm-admin) | Internal repository for LLVM admin scripts | Python | 4 | - | 2020-02-06 | 2024-07-30 | 2024-04-08 |
 | [clangd-www](https://github.com/llvm/clangd-www) | None | Markdown | 25 | Apache License 2.0 | 2020-02-12 | 2024-09-24 | 2024-09-24 |
-| [circt](https://github.com/llvm/circt) | Circuit IR Compilers and Tools | C++ | 1632 | Other | 2020-03-05 | 2024-09-25 | 2024-09-25 |
+| [circt](https://github.com/llvm/circt) | Circuit IR Compilers and Tools | C++ | 1634 | Other | 2020-03-05 | 2024-09-26 | 2024-09-26 |
 | [llvm-foundation-www](https://github.com/llvm/llvm-foundation-www) | LLVM Foundation Website | SCSS | 6 | - | 2020-04-03 | 2024-08-18 | 2024-08-18 |
 | [llvm-blog-www](https://github.com/llvm/llvm-blog-www) | The LLVM Project Blog | HTML | 25 | - | 2020-06-19 | 2024-09-23 | 2024-09-23 |
 | [Polygeist](https://github.com/llvm/Polygeist) | C/C++ frontend for MLIR. Also features polyhedral optimizations, parallel optimizations, and more! | C++ | 467 | Other | 2020-07-08 | 2024-09-20 | 2024-08-22 |
 | [llvm-project-staging](https://github.com/llvm/llvm-project-staging) | Staging repository for https://github.com/llvm/llvm-project. Used for official contributions to the LLVM project that LLVM contributors will collaboratively split up for regular patch review. | None | 10 | Other | 2020-07-09 | 2024-07-30 | 2021-08-24 |
 | [phabricator](https://github.com/llvm/phabricator) | Open software engineering platform and fun adventure game | PHP | 2 | Apache License 2.0 | 2020-07-28 | 2023-03-28 | 2021-10-07 |
-| [torch-mlir](https://github.com/llvm/torch-mlir) | The Torch-MLIR project aims to provide first class support from the PyTorch ecosystem to the MLIR ecosystem. | C++ | 1305 | Other | 2020-07-30 | 2024-09-24 | 2024-09-24 |
-| [circt-www](https://github.com/llvm/circt-www) | CIRCT website | SCSS | 10 | - | 2021-01-08 | 2024-09-12 | 2024-09-25 |
+| [torch-mlir](https://github.com/llvm/torch-mlir) | The Torch-MLIR project aims to provide first class support from the PyTorch ecosystem to the MLIR ecosystem. | C++ | 1311 | Other | 2020-07-30 | 2024-09-26 | 2024-09-26 |
+| [circt-www](https://github.com/llvm/circt-www) | CIRCT website | SCSS | 10 | - | 2021-01-08 | 2024-09-12 | 2024-09-26 |
 | [Community.o](https://github.com/llvm/Community.o) | Community.o website and other resources | None | 1 | - | 2021-02-06 | 2024-07-30 | 2023-03-16 |
 | [llvm-iwg](https://github.com/llvm/llvm-iwg) | The LLVM Infrastructure Working Group | None | 18 | Other | 2021-03-02 | 2024-09-14 | 2022-08-31 |
 | [vscode-mlir](https://github.com/llvm/vscode-mlir) | None | TypeScript | 50 | Other | 2021-07-28 | 2024-09-16 | 2024-05-17 |
