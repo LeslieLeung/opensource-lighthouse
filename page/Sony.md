@@ -1,10 +1,10 @@
 # Sony
 
-共 78 个项目，近半年内活跃项目 33 个，1 个团队， 15408 个 Star。
+共 78 个项目，近半年内活跃项目 33 个，1 个团队， 15410 个 Star。
 
 语言 Top 3：Python, JavaScript, TypeScript
 
-统计时间：2024-10-01 08:08:18
+统计时间：2024-10-02 08:07:59
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -43,7 +43,7 @@
 | [lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) | None | Python | 0 | MIT License | 2021-03-25 | 2021-05-13 | 2021-05-13 |
 | [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 120 | Apache License 2.0 | 2021-06-11 | 2024-09-28 | 2024-09-26 |
 | [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 84 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2024-09-19 | 2024-09-13 |
-| [model_optimization](https://github.com/sony/model_optimization) | Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks. | Python | 301 | Apache License 2.0 | 2021-06-21 | 2024-09-30 | 2024-10-01 |
+| [model_optimization](https://github.com/sony/model_optimization) | Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks. | Python | 302 | Apache License 2.0 | 2021-06-21 | 2024-10-01 | 2024-10-01 |
 | [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 443 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2024-09-28 | 2024-09-15 |
 | [flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) | Flutter plugins for embedded Linux (eLinux) | C++ | 46 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2024-09-27 | 2024-09-26 |
 | [ds-research-code](https://github.com/sony/ds-research-code) | None | Python | 0 | - | 2021-07-19 | 2023-02-07 | 2023-01-30 |
@@ -82,7 +82,7 @@
 | [NeISF](https://github.com/sony/NeISF) | None | Python | 8 | Other | 2024-06-04 | 2024-08-09 | 2024-07-26 |
 | [nnc-desktop](https://github.com/sony/nnc-desktop) | None | TypeScript | 8 | Apache License 2.0 | 2024-06-04 | 2024-10-01 | 2024-09-11 |
 | [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 69 | MIT License | 2024-06-04 | 2024-10-01 | 2024-10-01 |
-| [silentcipher](https://github.com/sony/silentcipher) | None | Python | 13 | MIT License | 2024-06-05 | 2024-09-27 | 2024-07-22 |
+| [silentcipher](https://github.com/sony/silentcipher) | None | Python | 14 | MIT License | 2024-06-05 | 2024-10-01 | 2024-07-22 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 5 | MIT License | 2024-07-09 | 2024-09-19 | 2024-07-12 |
 | [genwarp](https://github.com/sony/genwarp) | None | Python | 207 | MIT License | 2024-08-06 | 2024-09-29 | 2024-09-26 |
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 3 | MIT License | 2024-09-05 | 2024-09-27 | 2024-09-27 |
