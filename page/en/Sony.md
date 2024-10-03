@@ -1,14 +1,14 @@
 # Sony
 
-A total of 78 projects, 33 active projects in the last six months, 1 teams, and 15410 stars.
+A total of 78 projects, 33 active projects in the last six months, 1 teams, and 15412 stars.
 
 Top 3 Languages: Python, JavaScript, TypeScript
 
-Statistics Date: 2024-10-02 08:07:59
+Statistics Date: 2024-10-03 08:08:01
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 2898 | MIT License | 2015-05-29 | 2024-09-27 | 2024-05-05 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 2899 | MIT License | 2015-05-29 | 2024-10-02 | 2024-05-05 |
 | [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 3891 | MIT License | 2015-05-29 | 2024-09-30 | 2024-04-30 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
@@ -70,7 +70,7 @@ Statistics Date: 2024-10-02 08:07:59
 | [mct_quantizers](https://github.com/sony/mct_quantizers) | None | Python | 17 | Apache License 2.0 | 2023-05-09 | 2024-09-16 | 2024-09-16 |
 | [diffiner](https://github.com/sony/diffiner) | None | Python | 58 | MIT License | 2023-05-30 | 2024-09-19 | 2023-08-16 |
 | [hFT-Transformer](https://github.com/sony/hFT-Transformer) | Pytorch implementation of automatic music transcription method that uses a two-level hierarchical frequency-time Transformer architecture (hFT-Transformer). | Python | 70 | MIT License | 2023-06-26 | 2024-09-03 | 2023-07-11 |
-| [san](https://github.com/sony/san) | PyTorch implementation of slicing adversarial network (SAN) | Python | 85 | - | 2023-06-28 | 2024-09-28 | 2024-06-13 |
+| [san](https://github.com/sony/san) | PyTorch implementation of slicing adversarial network (SAN) | Python | 86 | - | 2023-06-28 | 2024-10-02 | 2024-06-13 |
 | [bigvsan](https://github.com/sony/bigvsan) | Pytorch implementation of BigVSAN | Python | 196 | MIT License | 2023-09-01 | 2024-08-29 | 2024-03-23 |
 | [bigvsan_eval](https://github.com/sony/bigvsan_eval) | Evaluation tool used in the BigVSAN paper | Python | 9 | MIT License | 2023-09-01 | 2024-04-02 | 2024-03-22 |
 | [timbre-trap](https://github.com/sony/timbre-trap) | Code for the paper "Timbre-Trap: A Low-Resource Framework for Instrument-Agnostic Music Transcription" | Python | 34 | MIT License | 2023-09-12 | 2024-09-05 | 2024-05-05 |
