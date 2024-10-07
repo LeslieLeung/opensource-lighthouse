@@ -1,15 +1,15 @@
 # Sony
 
-A total of 79 projects, 34 active projects in the last six months, 1 teams, and 15436 stars.
+A total of 79 projects, 34 active projects in the last six months, 1 teams, and 15440 stars.
 
 Top 3 Languages: Python, JavaScript, TypeScript
 
-Statistics Date: 2024-10-06 08:07:16
+Statistics Date: 2024-10-07 08:08:11
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 2900 | MIT License | 2015-05-29 | 2024-10-03 | 2024-05-05 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 3892 | MIT License | 2015-05-29 | 2024-10-03 | 2024-04-30 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 3893 | MIT License | 2015-05-29 | 2024-10-07 | 2024-04-30 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 403 | MIT License | 2015-09-18 | 2024-08-30 | 2020-12-29 |
@@ -51,7 +51,7 @@ Statistics Date: 2024-10-06 08:07:16
 | [nnc-plugin](https://github.com/sony/nnc-plugin) | Plugins for Neural Network Console (https://dl.sony.com/). | Python | 15 | Apache License 2.0 | 2021-08-05 | 2024-06-06 | 2024-06-06 |
 | [dolp-colorconstancy](https://github.com/sony/dolp-colorconstancy) | None | Python | 11 | MIT License | 2022-03-22 | 2024-05-14 | 2022-07-04 |
 | [nnabla-browser](https://github.com/sony/nnabla-browser) | Visualization toolkit for Neural Network Libraries | TypeScript | 9 | Apache License 2.0 | 2022-03-31 | 2024-07-06 | 2023-03-07 |
-| [sqvae](https://github.com/sony/sqvae) | Pytorch implementation of stochastically quantized variational autoencoder (SQ-VAE) | Python | 177 | Apache License 2.0 | 2022-05-26 | 2024-09-29 | 2022-07-20 |
+| [sqvae](https://github.com/sony/sqvae) | Pytorch implementation of stochastically quantized variational autoencoder (SQ-VAE) | Python | 178 | Apache License 2.0 | 2022-05-26 | 2024-10-07 | 2022-07-20 |
 | [aibo-development-tutorial](https://github.com/sony/aibo-development-tutorial) | None | None | 7 | Other | 2022-06-28 | 2024-03-18 | 2022-06-30 |
 | [FxNorm-automix](https://github.com/sony/FxNorm-automix) | FxNorm-Automix - Implementation of automatic music mixing systems. We show how we can use wet music data and repurpose it to train a fully automatic mixing system | Python | 93 | MIT License | 2022-08-05 | 2024-09-26 | 2024-03-11 |
 | [polar-densification](https://github.com/sony/polar-densification) | None | Python | 21 | MIT License | 2022-09-13 | 2024-08-18 | 2023-03-24 |
@@ -82,8 +82,8 @@ Statistics Date: 2024-10-06 08:07:16
 | [NeISF](https://github.com/sony/NeISF) | None | Python | 8 | Other | 2024-06-04 | 2024-08-09 | 2024-07-26 |
 | [nnc-desktop](https://github.com/sony/nnc-desktop) | None | TypeScript | 8 | Apache License 2.0 | 2024-06-04 | 2024-10-01 | 2024-09-11 |
 | [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 68 | MIT License | 2024-06-04 | 2024-10-04 | 2024-10-01 |
-| [silentcipher](https://github.com/sony/silentcipher) | None | Python | 15 | MIT License | 2024-06-05 | 2024-10-05 | 2024-07-22 |
+| [silentcipher](https://github.com/sony/silentcipher) | None | Python | 16 | MIT License | 2024-06-05 | 2024-10-06 | 2024-07-22 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 6 | MIT License | 2024-07-09 | 2024-10-04 | 2024-07-12 |
-| [genwarp](https://github.com/sony/genwarp) | None | Python | 206 | MIT License | 2024-08-06 | 2024-10-04 | 2024-09-26 |
+| [genwarp](https://github.com/sony/genwarp) | None | Python | 207 | MIT License | 2024-08-06 | 2024-10-07 | 2024-09-26 |
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 8 | MIT License | 2024-09-05 | 2024-10-06 | 2024-09-27 |
 | [esstra](https://github.com/sony/esstra) | None | Python | 3 | Other | 2024-10-03 | 2024-10-04 | 2024-10-04 |
