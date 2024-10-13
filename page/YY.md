@@ -1,16 +1,16 @@
 # YY
 
-共 40 个项目，近半年内活跃项目 0 个，1 个团队， 1140 个 Star。
+共 40 个项目，近半年内活跃项目 0 个，1 个团队， 1139 个 Star。
 
 语言 Top 3：JavaScript, Objective-C, CSS
 
-统计时间：2024-10-12 08:07:19
+统计时间：2024-10-13 08:07:21
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [grunt-workflow](https://github.com/yyued/grunt-workflow) | 这是一个帮助前端开发工程师简化工作的工具 | CSS | 13 | - | 2014-01-02 | 2019-08-13 | 2014-12-29 |
 | [Lego-Snippets](https://github.com/yyued/Lego-Snippets) | LegoUI Snippets for Sublime Text 2/3 | None | 2 | - | 2014-06-12 | 2017-07-07 | 2015-06-08 |
-| [TwitterPaggingViewer](https://github.com/yyued/TwitterPaggingViewer) | A twitter like navigation bar, page viewer. | Objective-C | 357 | MIT License | 2014-06-23 | 2024-04-23 | 2014-12-30 |
+| [TwitterPaggingViewer](https://github.com/yyued/TwitterPaggingViewer) | A twitter like navigation bar, page viewer. | Objective-C | 356 | MIT License | 2014-06-23 | 2024-10-12 | 2014-12-30 |
 | [LEGO-Mobile](https://github.com/yyued/LEGO-Mobile) | LEGO移动前端开发框架，提供简单、快速的 Web 开发体验 | JavaScript | 18 | - | 2014-06-23 | 2019-03-22 | 2014-06-23 |
 | [generator-lego](https://github.com/yyued/generator-lego) | F2E workflow, base on yeoman & gulp | CSS | 22 | MIT License | 2014-07-16 | 2022-11-02 | 2016-03-23 |
 | [CRChecker](https://github.com/yyued/CRChecker) | CRChecker is a debug tool, helps you find out circular reference problem. | Objective-C | 39 | MIT License | 2014-12-25 | 2019-08-13 | 2015-03-24 |
