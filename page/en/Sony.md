@@ -1,15 +1,15 @@
 # Sony
 
-A total of 79 projects, 34 active projects in the last six months, 1 teams, and 15470 stars.
+A total of 79 projects, 34 active projects in the last six months, 1 teams, and 15475 stars.
 
 Top 3 Languages: Python, JavaScript, TypeScript
 
-Statistics Date: 2024-10-13 08:07:21
+Statistics Date: 2024-10-14 08:08:30
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 2905 | MIT License | 2015-05-29 | 2024-10-12 | 2024-05-05 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 3899 | MIT License | 2015-05-29 | 2024-10-13 | 2024-04-30 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 2906 | MIT License | 2015-05-29 | 2024-10-13 | 2024-10-13 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 3900 | MIT License | 2015-05-29 | 2024-10-14 | 2024-10-13 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 403 | MIT License | 2015-09-18 | 2024-08-30 | 2020-12-29 |
@@ -56,7 +56,7 @@ Statistics Date: 2024-10-13 08:07:21
 | [FxNorm-automix](https://github.com/sony/FxNorm-automix) | FxNorm-Automix - Implementation of automatic music mixing systems. We show how we can use wet music data and repurpose it to train a fully automatic mixing system | Python | 93 | MIT License | 2022-08-05 | 2024-09-26 | 2024-03-11 |
 | [polar-densification](https://github.com/sony/polar-densification) | None | Python | 21 | MIT License | 2022-09-13 | 2024-08-18 | 2023-03-24 |
 | [nnabla-js](https://github.com/sony/nnabla-js) | None | TypeScript | 1 | Apache License 2.0 | 2022-09-16 | 2023-02-01 | 2023-01-13 |
-| [DiffRoll](https://github.com/sony/DiffRoll) | PyTorch implementation of DiffRoll, a diffusion-based generative automatic music transcription (AMT) model | Jupyter Notebook | 70 | MIT License | 2022-10-11 | 2024-09-24 | 2023-12-06 |
+| [DiffRoll](https://github.com/sony/DiffRoll) | PyTorch implementation of DiffRoll, a diffusion-based generative automatic music transcription (AMT) model | Jupyter Notebook | 71 | MIT License | 2022-10-11 | 2024-10-13 | 2023-12-06 |
 | [creativeai](https://github.com/sony/creativeai) | None | CSS | 63 | - | 2022-11-21 | 2024-10-04 | 2024-09-29 |
 | [NDJIR](https://github.com/sony/NDJIR) | NDJIR: Neural Direct and Joint Inverse Rendering for Geometry, Lights, and Materials of Real Object | Python | 42 | Apache License 2.0 | 2022-12-14 | 2024-03-27 | 2023-02-08 |
 | [CLIPSep](https://github.com/sony/CLIPSep) | None | Python | 35 | MIT License | 2023-01-24 | 2024-08-22 | 2023-02-21 |
@@ -75,7 +75,7 @@ Statistics Date: 2024-10-13 08:07:21
 | [bigvsan_eval](https://github.com/sony/bigvsan_eval) | Evaluation tool used in the BigVSAN paper | Python | 9 | MIT License | 2023-09-01 | 2024-04-02 | 2024-03-22 |
 | [timbre-trap](https://github.com/sony/timbre-trap) | Code for the paper "Timbre-Trap: A Low-Resource Framework for Instrument-Agnostic Music Transcription" | Python | 34 | MIT License | 2023-09-12 | 2024-09-05 | 2024-05-05 |
 | [custom_layers](https://github.com/sony/custom_layers) | None | Python | 7 | Apache License 2.0 | 2023-09-21 | 2024-09-16 | 2024-09-16 |
-| [ctm](https://github.com/sony/ctm) | None | Python | 225 | - | 2023-10-10 | 2024-10-13 | 2024-10-10 |
+| [ctm](https://github.com/sony/ctm) | None | Python | 226 | - | 2023-10-10 | 2024-10-13 | 2024-10-10 |
 | [SR-Display-Plugin-Preview-BL](https://github.com/sony/SR-Display-Plugin-Preview-BL) | None | Python | 4 | MIT License | 2023-12-13 | 2024-08-17 | 2024-05-24 |
 | [pyAutoPort](https://github.com/sony/pyAutoPort) | None | Python | 5 | BSD 3-Clause "New" or "Revised" License | 2023-12-13 | 2024-05-13 | 2024-05-13 |
 | [SR-Display-Plugin-Preview-ZB](https://github.com/sony/SR-Display-Plugin-Preview-ZB) | None | None | 1 | MIT License | 2024-02-19 | 2024-02-19 | 2024-02-19 |
@@ -84,6 +84,6 @@ Statistics Date: 2024-10-13 08:07:21
 | [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 68 | MIT License | 2024-06-04 | 2024-10-04 | 2024-10-01 |
 | [silentcipher](https://github.com/sony/silentcipher) | None | Python | 17 | MIT License | 2024-06-05 | 2024-10-07 | 2024-07-22 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 6 | MIT License | 2024-07-09 | 2024-10-04 | 2024-07-12 |
-| [genwarp](https://github.com/sony/genwarp) | None | Python | 209 | MIT License | 2024-08-06 | 2024-10-09 | 2024-09-26 |
+| [genwarp](https://github.com/sony/genwarp) | None | Python | 210 | MIT License | 2024-08-06 | 2024-10-14 | 2024-09-26 |
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 8 | MIT License | 2024-09-05 | 2024-10-06 | 2024-09-27 |
 | [esstra](https://github.com/sony/esstra) | A software suite for enhancing software supply chain transparency | Python | 3 | Other | 2024-10-03 | 2024-10-11 | 2024-10-11 |
