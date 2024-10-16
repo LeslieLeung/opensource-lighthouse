@@ -1,10 +1,10 @@
 # Sony
 
-共 79 个项目，近半年内活跃项目 34 个，1 个团队， 15484 个 Star。
+共 79 个项目，近半年内活跃项目 34 个，1 个团队， 15487 个 Star。
 
 语言 Top 3：Python, JavaScript, TypeScript
 
-统计时间：2024-10-15 08:08:16
+统计时间：2024-10-16 08:07:58
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -70,8 +70,8 @@
 | [mct_quantizers](https://github.com/sony/mct_quantizers) | None | Python | 17 | Apache License 2.0 | 2023-05-09 | 2024-09-16 | 2024-09-16 |
 | [diffiner](https://github.com/sony/diffiner) | None | Python | 58 | MIT License | 2023-05-30 | 2024-09-19 | 2023-08-16 |
 | [hFT-Transformer](https://github.com/sony/hFT-Transformer) | Pytorch implementation of automatic music transcription method that uses a two-level hierarchical frequency-time Transformer architecture (hFT-Transformer). | Python | 74 | MIT License | 2023-06-26 | 2024-10-07 | 2023-07-11 |
-| [san](https://github.com/sony/san) | PyTorch implementation of slicing adversarial network (SAN) | Python | 87 | - | 2023-06-28 | 2024-10-10 | 2024-06-13 |
-| [bigvsan](https://github.com/sony/bigvsan) | Pytorch implementation of BigVSAN | Python | 196 | MIT License | 2023-09-01 | 2024-08-29 | 2024-03-23 |
+| [san](https://github.com/sony/san) | PyTorch implementation of slicing adversarial network (SAN) | Python | 88 | - | 2023-06-28 | 2024-10-16 | 2024-06-13 |
+| [bigvsan](https://github.com/sony/bigvsan) | Pytorch implementation of BigVSAN | Python | 197 | MIT License | 2023-09-01 | 2024-10-16 | 2024-03-23 |
 | [bigvsan_eval](https://github.com/sony/bigvsan_eval) | Evaluation tool used in the BigVSAN paper | Python | 9 | MIT License | 2023-09-01 | 2024-04-02 | 2024-03-22 |
 | [timbre-trap](https://github.com/sony/timbre-trap) | Code for the paper "Timbre-Trap: A Low-Resource Framework for Instrument-Agnostic Music Transcription" | Python | 34 | MIT License | 2023-09-12 | 2024-09-05 | 2024-05-05 |
 | [custom_layers](https://github.com/sony/custom_layers) | None | Python | 7 | Apache License 2.0 | 2023-09-21 | 2024-09-16 | 2024-09-16 |
@@ -82,8 +82,8 @@
 | [NeISF](https://github.com/sony/NeISF) | None | Python | 8 | Other | 2024-06-04 | 2024-08-09 | 2024-07-26 |
 | [nnc-desktop](https://github.com/sony/nnc-desktop) | None | TypeScript | 8 | Apache License 2.0 | 2024-06-04 | 2024-10-01 | 2024-09-11 |
 | [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 68 | MIT License | 2024-06-04 | 2024-10-04 | 2024-10-01 |
-| [silentcipher](https://github.com/sony/silentcipher) | None | Python | 18 | MIT License | 2024-06-05 | 2024-10-15 | 2024-07-22 |
+| [silentcipher](https://github.com/sony/silentcipher) | None | Python | 19 | MIT License | 2024-06-05 | 2024-10-15 | 2024-07-22 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 6 | MIT License | 2024-07-09 | 2024-10-04 | 2024-07-12 |
 | [genwarp](https://github.com/sony/genwarp) | None | Python | 210 | MIT License | 2024-08-06 | 2024-10-14 | 2024-09-26 |
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 8 | MIT License | 2024-09-05 | 2024-10-06 | 2024-09-27 |
-| [esstra](https://github.com/sony/esstra) | A software suite for enhancing software supply chain transparency | Python | 3 | Other | 2024-10-03 | 2024-10-11 | 2024-10-11 |
+| [esstra](https://github.com/sony/esstra) | A software suite for enhancing software supply chain transparency | Python | 3 | Other | 2024-10-03 | 2024-10-16 | 2024-10-16 |
