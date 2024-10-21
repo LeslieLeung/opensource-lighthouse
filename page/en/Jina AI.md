@@ -1,15 +1,15 @@
 # Jina AI
 
-A total of 236 projects, 17 active projects in the last six months, 1 teams, and 58587 stars.
+A total of 236 projects, 17 active projects in the last six months, 1 teams, and 58610 stars.
 
 Top 3 Languages: Python, TypeScript, Jupyter Notebook
 
-Statistics Date: 2024-10-20 08:08:15
+Statistics Date: 2024-10-21 08:08:39
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [clip-as-service](https://github.com/jina-ai/clip-as-service) | 🏄 Scalable embedding, reasoning, ranking for images and sentences with CLIP | Python | 12416 | Other | 2018-11-12 | 2024-10-20 | 2024-01-23 |
-| [jina](https://github.com/jina-ai/jina) | ☁️ Build multimodal AI applications with cloud-native stack | Python | 21065 | Apache License 2.0 | 2020-02-13 | 2024-10-19 | 2024-10-01 |
+| [clip-as-service](https://github.com/jina-ai/clip-as-service) | 🏄 Scalable embedding, reasoning, ranking for images and sentences with CLIP | Python | 12421 | Other | 2018-11-12 | 2024-10-21 | 2024-01-23 |
+| [jina](https://github.com/jina-ai/jina) | ☁️ Build multimodal AI applications with cloud-native stack | Python | 21069 | Apache License 2.0 | 2020-02-13 | 2024-10-21 | 2024-10-01 |
 | [examples](https://github.com/jina-ai/examples) | Jina examples and demos to help you get started | Python | 453 | Apache License 2.0 | 2020-02-17 | 2024-09-19 | 2021-11-01 |
 | [docs](https://github.com/jina-ai/docs) | Jina V1 Official Documentation. For the latest one, please check out https://docs.jina.ai | HTML | 35 | - | 2020-03-09 | 2024-05-16 | 2022-06-13 |
 | [jina-hub](https://github.com/jina-ai/jina-hub) | An open-registry for hosting Jina executors via container images | Python | 104 | Apache License 2.0 | 2020-03-15 | 2024-07-01 | 2021-08-31 |
@@ -68,7 +68,7 @@ Statistics Date: 2024-10-20 08:08:15
 | [executor-video-torch-encoder](https://github.com/jina-ai/executor-video-torch-encoder) | None | Python | 1 | - | 2021-06-22 | 2024-04-02 | 2021-07-27 |
 | [executor-text-transformer-tf-encoder](https://github.com/jina-ai/executor-text-transformer-tf-encoder) | None | Python | 2 | - | 2021-06-22 | 2024-04-02 | 2021-07-27 |
 | [executor-audio-VGGishEncoder](https://github.com/jina-ai/executor-audio-VGGishEncoder) | None | Python | 1 | - | 2021-06-22 | 2024-04-02 | 2021-07-27 |
-| [executor-image-torch-object-detection-segmenter](https://github.com/jina-ai/executor-image-torch-object-detection-segmenter) | None | Python | 1 | - | 2021-06-23 | 2024-04-02 | 2021-07-29 |
+| [executor-image-torch-object-detection-segmenter](https://github.com/jina-ai/executor-image-torch-object-detection-segmenter) | None | Python | 2 | - | 2021-06-23 | 2024-10-20 | 2021-07-29 |
 | [executor-sentence-transformer](https://github.com/jina-ai/executor-sentence-transformer) | Executor wraps the sentence_encoder library and computes sentence embeddings. | Python | 3 | - | 2021-06-23 | 2024-04-02 | 2023-08-20 |
 | [executor-pdf-crafter](https://github.com/jina-ai/executor-pdf-crafter) | None | Python | 1 | - | 2021-06-24 | 2024-04-02 | 2021-07-28 |
 | [executor-image-tf-encoder](https://github.com/jina-ai/executor-image-tf-encoder) | None | Python | 1 | - | 2021-06-25 | 2024-04-02 | 2021-07-27 |
@@ -88,7 +88,7 @@ Statistics Date: 2024-10-20 08:08:15
 | [finetuner](https://github.com/jina-ai/finetuner) | :dart: Task-oriented embedding tuning for BERT, CLIP, etc. | Python | 1468 | Apache License 2.0 | 2021-08-11 | 2024-10-18 | 2024-03-11 |
 | [example-wikipedia-recommendation](https://github.com/jina-ai/example-wikipedia-recommendation) | An example of graph embeddings for wikipedia page recommendations | Jupyter Notebook | 10 | - | 2021-08-25 | 2024-09-12 | 2021-08-26 |
 | [annlite](https://github.com/jina-ai/annlite) | ⚡ A fast embedded library for approximate nearest neighbor search | Python | 216 | Apache License 2.0 | 2021-08-27 | 2024-10-18 | 2023-07-21 |
-| [.github](https://github.com/jina-ai/.github) | This repository stores github actions templates as described https://docs.github.com/en/actions/learn-github-actions/sharing-workflows-with-your-organization | None | 9 | - | 2021-09-06 | 2024-10-19 | 2024-10-19 |
+| [.github](https://github.com/jina-ai/.github) | This repository stores github actions templates as described https://docs.github.com/en/actions/learn-github-actions/sharing-workflows-with-your-organization | None | 9 | - | 2021-09-06 | 2024-10-20 | 2024-10-20 |
 | [executor-simpleindexer](https://github.com/jina-ai/executor-simpleindexer) | Simple Indexer  | Python | 13 | Apache License 2.0 | 2021-09-10 | 2024-04-20 | 2023-03-07 |
 | [executor-doc2query](https://github.com/jina-ai/executor-doc2query) | None | Python | 4 | Apache License 2.0 | 2021-09-13 | 2024-04-02 | 2022-07-27 |
 | [executor-text-transformers-torch-encoder](https://github.com/jina-ai/executor-text-transformers-torch-encoder) | **TransformerTorchEncoder** wraps the torch-version of transformers from huggingface. It encodes text data into dense vectors. | Python | 9 | - | 2021-09-20 | 2024-04-02 | 2023-03-06 |
@@ -98,7 +98,7 @@ Statistics Date: 2024-10-20 08:08:15
 | [executor-image-clip-encoder](https://github.com/jina-ai/executor-image-clip-encoder) | CLIPImageEncoder is an image encoder that wraps the image embedding functionality using the CLIP | Python | 8 | - | 2021-09-23 | 2024-06-25 | 2022-07-28 |
 | [executor-matchmerger](https://github.com/jina-ai/executor-matchmerger) | **MatchMerger** Merges the results of shards by appending all matches. | Python | 3 | - | 2021-09-23 | 2024-04-02 | 2022-09-12 |
 | [executor-simpleranker](https://github.com/jina-ai/executor-simpleranker) | **SimpleRanker** is a class aggregates the score of the matched doc from the matched chunks. | Python | 3 | - | 2021-09-23 | 2024-04-02 | 2022-07-28 |
-| [example-video-search](https://github.com/jina-ai/example-video-search) | This is an example of search videos using jina | Python | 21 | Apache License 2.0 | 2021-09-26 | 2024-09-06 | 2022-06-10 |
+| [example-video-search](https://github.com/jina-ai/example-video-search) | This is an example of search videos using jina | Python | 22 | Apache License 2.0 | 2021-09-26 | 2024-10-21 | 2022-06-10 |
 | [executor-faissindexer](https://github.com/jina-ai/executor-faissindexer) | A similarity search indexer based on Faiss. https://hub.jina.ai/executor/8gsd0tts | Python | 4 | - | 2021-09-26 | 2024-04-02 | 2022-03-28 |
 | [executor-video-frameextractor](https://github.com/jina-ai/executor-video-frameextractor) | An executor that extract the frames from videos with `ffmpeg` | Python | 2 | - | 2021-09-27 | 2024-04-02 | 2021-10-05 |
 | [executor-video-loader](https://github.com/jina-ai/executor-video-loader) | None | Python | 6 | - | 2021-10-04 | 2024-08-12 | 2022-06-09 |
@@ -195,7 +195,7 @@ Statistics Date: 2024-10-20 08:08:15
 | [client-go](https://github.com/jina-ai/client-go) | Golang Client for Jina (https://github.com/jina-ai/jina) | Go | 17 | Apache License 2.0 | 2022-10-01 | 2024-05-18 | 2023-12-15 |
 | [proposing-projects](https://github.com/jina-ai/proposing-projects) | This repo contains the LF AI & Data Project Proposal Process and Project Lifecycle. They explain the process to host new projects in LF AI & Data and provide a proposal template. | None | 0 | Other | 2022-10-05 | 2022-06-22 | 2022-10-05 |
 | [example-speech-to-image](https://github.com/jina-ai/example-speech-to-image) | An example of building a speech to image generation pipeline with Jina, Whisper and StableDiffusion | Python | 21 | - | 2022-10-12 | 2024-07-28 | 2022-12-15 |
-| [product-recommendation-redis-docarray](https://github.com/jina-ai/product-recommendation-redis-docarray) | None | Python | 22 | - | 2022-10-16 | 2024-06-25 | 2022-12-28 |
+| [product-recommendation-redis-docarray](https://github.com/jina-ai/product-recommendation-redis-docarray) | None | Python | 23 | - | 2022-10-16 | 2024-10-21 | 2022-12-28 |
 | [executor-redis-indexer](https://github.com/jina-ai/executor-redis-indexer) | None | Python | 1 | - | 2022-10-27 | 2022-11-23 | 2022-12-08 |
 | [staged-recipes](https://github.com/jina-ai/staged-recipes) | A place to submit conda recipes before they become fully fledged conda-forge feedstocks | Python | 0 | BSD 3-Clause "New" or "Revised" License | 2022-10-28 | 2022-10-28 | 2022-11-07 |
 | [executor-push-test](https://github.com/jina-ai/executor-push-test) | None | Python | 1 | - | 2022-11-01 | 2022-11-04 | 2022-11-02 |
@@ -234,13 +234,13 @@ Statistics Date: 2024-10-20 08:08:15
 | [mteb-es](https://github.com/jina-ai/mteb-es) | MTEB: Massive Text Embedding Benchmark with Spanish datasets | Python | 4 | Apache License 2.0 | 2024-01-12 | 2024-10-04 | 2024-02-19 |
 | [scenex-alt-texter](https://github.com/jina-ai/scenex-alt-texter) | Automatically generate alt tags for Ghost blog using SceneXplain | Python | 0 | - | 2024-01-23 | 2024-01-30 | 2024-02-16 |
 | [azure-metered-billing-accelerator](https://github.com/jina-ai/azure-metered-billing-accelerator) | None | F# | 0 | MIT License | 2024-01-25 | 2024-02-20 | 2024-02-23 |
-| [openclip](https://github.com/jina-ai/openclip) | An open source implementation of CLIP | Python | 8 | Other | 2024-01-29 | 2024-10-18 | 2024-10-18 |
+| [openclip](https://github.com/jina-ai/openclip) | An open source implementation of CLIP | Python | 9 | Other | 2024-01-29 | 2024-10-20 | 2024-10-18 |
 | [ColBERT](https://github.com/jina-ai/ColBERT) | ColBERT: state-of-the-art neural search (SIGIR'20, TACL'21, NeurIPS'21, NAACL'22, CIKM'22, ACL'23, EMNLP'23) | Python | 0 | MIT License | 2024-02-02 | 2024-02-04 | 2024-05-17 |
 | [paper-sag](https://github.com/jina-ai/paper-sag) | None | None | 0 | - | 2024-02-23 | 2024-02-23 | 2024-02-23 |
 | [csp-examples](https://github.com/jina-ai/csp-examples) | None | Jupyter Notebook | 0 | - | 2024-04-09 | 2024-10-17 | 2024-10-17 |
-| [reader](https://github.com/jina-ai/reader) | Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/ | TypeScript | 6699 | Apache License 2.0 | 2024-04-10 | 2024-10-19 | 2024-10-18 |
+| [reader](https://github.com/jina-ai/reader) | Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/ | TypeScript | 6707 | Apache License 2.0 | 2024-04-10 | 2024-10-21 | 2024-10-21 |
 | [puppeteer-extra-plugin-page-proxy](https://github.com/jina-ai/puppeteer-extra-plugin-page-proxy) | Additional module to use with 'puppeteer' for setting proxies per page basis. | None | 2 | - | 2024-04-23 | 2024-08-27 | 2024-04-23 |
 | [terminal-news](https://github.com/jina-ai/terminal-news) | Access Jina AI news via ssh guest@news.jina.ai | Python | 12 | Apache License 2.0 | 2024-05-03 | 2024-07-27 | 2024-05-03 |
 | [chunking](https://github.com/jina-ai/chunking) | None | Python | 2 | - | 2024-06-23 | 2024-09-27 | 2024-07-10 |
-| [late-chunking](https://github.com/jina-ai/late-chunking) | Code for explaining and evaluating late chunking (chunked pooling) | Python | 200 | Apache License 2.0 | 2024-08-06 | 2024-10-19 | 2024-10-08 |
+| [late-chunking](https://github.com/jina-ai/late-chunking) | Code for explaining and evaluating late chunking (chunked pooling) | Python | 202 | Apache License 2.0 | 2024-08-06 | 2024-10-21 | 2024-10-08 |
 | [vllm](https://github.com/jina-ai/vllm) | A high-throughput and memory-efficient inference and serving engine for LLMs | Python | 0 | Apache License 2.0 | 2024-08-29 | 2024-09-05 | 2024-09-05 |
