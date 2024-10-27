@@ -1,10 +1,10 @@
 # YY
 
-共 40 个项目，近半年内活跃项目 0 个，1 个团队， 1138 个 Star。
+共 40 个项目，近半年内活跃项目 0 个，1 个团队， 1137 个 Star。
 
 语言 Top 3：JavaScript, Objective-C, CSS
 
-统计时间：2024-10-26 08:07:13
+统计时间：2024-10-27 08:08:18
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -17,7 +17,7 @@
 | [PSD-Etiquette](https://github.com/yyued/PSD-Etiquette) | PSD图层管理指南 | None | 2 | GNU General Public License v2.0 | 2014-12-31 | 2017-07-06 | 2014-12-31 |
 | [LegoUI-pc](https://github.com/yyued/LegoUI-pc) | LegoUI, 一套基于BEM的轻量级前端UI库 | CSS | 8 | MIT License | 2015-01-06 | 2021-07-26 | 2015-12-28 |
 | [XCode-Color-Fixer](https://github.com/yyued/XCode-Color-Fixer) | StoryBoard / XIB 颜色偏差很严重，怎么破？XCode-Color-Fixer帮你忙！ | Objective-C | 125 | MIT License | 2015-03-24 | 2022-06-17 | 2015-03-24 |
-| [fe-guide](https://github.com/yyued/fe-guide) | Joyy UED 前端规范指南 | None | 93 | GNU General Public License v2.0 | 2015-04-27 | 2024-06-14 | 2021-09-18 |
+| [fe-guide](https://github.com/yyued/fe-guide) | Joyy UED 前端规范指南 | None | 92 | GNU General Public License v2.0 | 2015-04-27 | 2024-10-27 | 2021-09-18 |
 | [fe-solution](https://github.com/yyued/fe-solution) | 前端解决方案 | JavaScript | 2 | GNU General Public License v2.0 | 2015-04-27 | 2017-07-06 | 2015-04-28 |
 | [document-template](https://github.com/yyued/document-template) | The project document template | None | 1 | GNU General Public License v2.0 | 2015-05-08 | 2017-07-07 | 2015-05-08 |
 | [LegoUI-mobi](https://github.com/yyued/LegoUI-mobi) | None | CSS | 6 | - | 2015-05-19 | 2018-06-03 | 2015-06-08 |
