@@ -1,15 +1,15 @@
 # Sony
 
-共 79 个项目，近半年内活跃项目 34 个，1 个团队， 15560 个 Star。
+共 79 个项目，近半年内活跃项目 34 个，1 个团队， 15562 个 Star。
 
 语言 Top 3：Python, JavaScript, TypeScript
 
-统计时间：2024-10-27 08:08:18
+统计时间：2024-10-28 08:08:36
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 2924 | MIT License | 2015-05-29 | 2024-10-26 | 2024-10-13 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 3908 | MIT License | 2015-05-29 | 2024-10-26 | 2024-10-13 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 3909 | MIT License | 2015-05-29 | 2024-10-28 | 2024-10-13 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 403 | MIT License | 2015-09-18 | 2024-08-30 | 2020-12-29 |
@@ -84,6 +84,6 @@
 | [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 70 | MIT License | 2024-06-04 | 2024-10-19 | 2024-10-01 |
 | [silentcipher](https://github.com/sony/silentcipher) | None | Python | 20 | MIT License | 2024-06-05 | 2024-10-17 | 2024-07-22 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 6 | MIT License | 2024-07-09 | 2024-10-04 | 2024-07-12 |
-| [genwarp](https://github.com/sony/genwarp) | None | Python | 214 | MIT License | 2024-08-06 | 2024-10-23 | 2024-09-26 |
+| [genwarp](https://github.com/sony/genwarp) | None | Python | 215 | MIT License | 2024-08-06 | 2024-10-27 | 2024-09-26 |
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 10 | MIT License | 2024-09-05 | 2024-10-19 | 2024-09-27 |
 | [esstra](https://github.com/sony/esstra) | A software suite for enhancing software supply chain transparency | Python | 3 | Other | 2024-10-03 | 2024-10-16 | 2024-10-16 |
