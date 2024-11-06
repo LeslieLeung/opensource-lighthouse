@@ -1,10 +1,10 @@
 # Sony
 
-A total of 79 projects, 34 active projects in the last six months, 1 teams, and 15595 stars.
+A total of 79 projects, 34 active projects in the last six months, 1 teams, and 15597 stars.
 
 Top 3 Languages: Python, JavaScript, TypeScript
 
-Statistics Date: 2024-11-05 08:08:15
+Statistics Date: 2024-11-06 08:08:29
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -23,14 +23,14 @@ Statistics Date: 2024-11-05 08:08:15
 | [nnabla-ext-cuda](https://github.com/sony/nnabla-ext-cuda) | A CUDA Extension of Neural Network Libraries | Cuda | 92 | Apache License 2.0 | 2017-06-21 | 2024-06-20 | 2024-06-20 |
 | [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2724 | Apache License 2.0 | 2017-06-26 | 2024-10-22 | 2024-11-01 |
 | [easyhttpcpp](https://github.com/sony/easyhttpcpp) | A cross-platform HTTP client library with a focus on usability and speed | C++ | 163 | MIT License | 2017-08-09 | 2024-08-22 | 2022-01-31 |
-| [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 142 | Apache License 2.0 | 2017-09-07 | 2024-10-18 | 2024-11-01 |
-| [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 32 | Apache License 2.0 | 2017-09-07 | 2024-08-21 | 2024-03-19 |
+| [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 143 | Apache License 2.0 | 2017-09-07 | 2024-11-05 | 2024-11-05 |
+| [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 33 | Apache License 2.0 | 2017-09-07 | 2024-11-05 | 2024-03-19 |
 | [cdp-js](https://github.com/sony/cdp-js) | Libraries/SDK modules for multi-platform application development | TypeScript | 22 | Apache License 2.0 | 2017-10-10 | 2024-02-11 | 2018-05-10 |
 | [cdp-lib](https://github.com/sony/cdp-lib) | Application template/libraries for cdp-js (Details: see cdp-js repository) | JavaScript | 6 | Apache License 2.0 | 2017-10-10 | 2017-11-13 | 2018-02-23 |
 | [cdp-cli](https://github.com/sony/cdp-cli) | Command line tools for generating start point of multi-platform application development (Details: see cdp-js repository) | HTML | 7 | Apache License 2.0 | 2017-10-10 | 2020-12-13 | 2018-07-13 |
 | [nnabla-examples](https://github.com/sony/nnabla-examples) | Neural Network Libraries https://nnabla.org/ - Examples | Python | 305 | Apache License 2.0 | 2017-11-05 | 2024-10-28 | 2024-06-24 |
 | [nnabla-c-runtime](https://github.com/sony/nnabla-c-runtime) | Neural Network Libraries https://nnabla.org/ - C Runtime | C | 51 | Apache License 2.0 | 2018-06-26 | 2024-09-09 | 2024-07-04 |
-| [mapray-js](https://github.com/sony/mapray-js) | JavaScript library for Interactive high quality 3D globes and maps in the browser | TypeScript | 142 | Apache License 2.0 | 2019-01-28 | 2024-11-02 | 2024-06-18 |
+| [mapray-js](https://github.com/sony/mapray-js) | JavaScript library for Interactive high quality 3D globes and maps in the browser | TypeScript | 141 | Apache License 2.0 | 2019-01-28 | 2024-11-05 | 2024-06-18 |
 | [typescript-fsa-redux-middleware](https://github.com/sony/typescript-fsa-redux-middleware) | Fluent syntax for defining typesafe Redux vanilla middlewares on top of typescript-fsa. | TypeScript | 10 | MIT License | 2019-01-29 | 2024-05-16 | 2020-01-24 |
 | [nnabla-doc](https://github.com/sony/nnabla-doc) | None | None | 1 | - | 2019-02-20 | 2024-05-29 | 2024-05-29 |
 | [nnabla-dataset-uploader](https://github.com/sony/nnabla-dataset-uploader) | None | Python | 0 | - | 2019-02-26 | 2019-03-15 | 2019-03-15 |
@@ -39,11 +39,11 @@ Statistics Date: 2024-11-05 08:08:15
 | [ai-research-code](https://github.com/sony/ai-research-code) | None | Python | 348 | Apache License 2.0 | 2020-04-14 | 2024-10-22 | 2023-09-12 |
 | [nnabla-nas](https://github.com/sony/nnabla-nas) | Neural Architecture Search for Neural Network Libraries | Python | 56 | Apache License 2.0 | 2020-06-15 | 2024-10-21 | 2024-01-22 |
 | [micro-notifier](https://github.com/sony/micro-notifier) | Simplified Pusher Clone | Go | 10 | MIT License | 2020-09-06 | 2024-05-07 | 2023-05-05 |
-| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1211 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2024-11-03 | 2024-10-30 |
+| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1212 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2024-11-05 | 2024-10-30 |
 | [lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) | None | Python | 0 | MIT License | 2021-03-25 | 2021-05-13 | 2021-05-13 |
-| [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 120 | Apache License 2.0 | 2021-06-11 | 2024-11-05 | 2024-11-05 |
+| [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 120 | Apache License 2.0 | 2021-06-11 | 2024-11-06 | 2024-11-06 |
 | [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 87 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2024-10-26 | 2024-10-25 |
-| [model_optimization](https://github.com/sony/model_optimization) | Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks. | Python | 323 | Apache License 2.0 | 2021-06-21 | 2024-11-03 | 2024-11-04 |
+| [model_optimization](https://github.com/sony/model_optimization) | Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks. | Python | 323 | Apache License 2.0 | 2021-06-21 | 2024-11-06 | 2024-11-06 |
 | [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 460 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2024-11-03 | 2024-10-25 |
 | [flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) | Flutter plugins for embedded Linux (eLinux) | C++ | 47 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2024-10-30 | 2024-10-19 |
 | [ds-research-code](https://github.com/sony/ds-research-code) | None | Python | 0 | - | 2021-07-19 | 2023-02-07 | 2023-01-30 |
@@ -80,7 +80,7 @@ Statistics Date: 2024-11-05 08:08:15
 | [pyAutoPort](https://github.com/sony/pyAutoPort) | None | Python | 5 | BSD 3-Clause "New" or "Revised" License | 2023-12-13 | 2024-05-13 | 2024-05-13 |
 | [SR-Display-Plugin-Preview-ZB](https://github.com/sony/SR-Display-Plugin-Preview-ZB) | None | None | 1 | MIT License | 2024-02-19 | 2024-02-19 | 2024-02-19 |
 | [NeISF](https://github.com/sony/NeISF) | None | Python | 8 | Other | 2024-06-04 | 2024-11-04 | 2024-11-04 |
-| [nnc-desktop](https://github.com/sony/nnc-desktop) | None | TypeScript | 9 | Apache License 2.0 | 2024-06-04 | 2024-10-31 | 2024-11-01 |
+| [nnc-desktop](https://github.com/sony/nnc-desktop) | None | TypeScript | 9 | Apache License 2.0 | 2024-06-04 | 2024-10-31 | 2024-11-06 |
 | [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 70 | MIT License | 2024-06-04 | 2024-10-19 | 2024-10-01 |
 | [silentcipher](https://github.com/sony/silentcipher) | None | Python | 20 | MIT License | 2024-06-05 | 2024-10-17 | 2024-07-22 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 6 | MIT License | 2024-07-09 | 2024-10-04 | 2024-07-12 |
