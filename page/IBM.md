@@ -1,10 +1,10 @@
 # IBM
 
-共 3429 个项目，近半年内活跃项目 862 个，1 个团队， 98038 个 Star。
+共 3430 个项目，近半年内活跃项目 862 个，1 个团队， 98083 个 Star。
 
 语言 Top 3：Python, JavaScript, Jupyter Notebook
 
-统计时间：2024-12-07 08:07:41
+统计时间：2024-12-08 08:07:47
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -187,7 +187,7 @@
 | [java-microprofile-config](https://github.com/IBM/java-microprofile-config) | Demonstrates the features of the Eclipse MicroProfile Config API | Java | 8 | Apache License 2.0 | 2017-10-02 | 2024-11-04 | 2022-02-18 |
 | [metrics-collector-client-swift](https://github.com/IBM/metrics-collector-client-swift) | Swift client for the Deployment Tracker | Swift | 0 | Apache License 2.0 | 2017-10-02 | 2023-01-28 | 2017-12-20 |
 | [comanche](https://github.com/IBM/comanche) | Component-based development framework for memory-centric storage systems | C++ | 20 | Apache License 2.0 | 2017-10-03 | 2022-12-06 | 2024-09-06 |
-| [plex](https://github.com/IBM/plex) | The package of IBM’s typeface, IBM Plex. | CSS | 10052 | SIL Open Font License 1.1 | 2017-10-03 | 2024-12-07 | 2024-12-03 |
+| [plex](https://github.com/IBM/plex) | The package of IBM’s typeface, IBM Plex. | CSS | 10078 | SIL Open Font License 1.1 | 2017-10-03 | 2024-12-08 | 2024-12-03 |
 | [type-checker](https://github.com/IBM/type-checker) | Check if all of your typography complies with IBM Type. Just press CTRL + T | JavaScript | 6 | Other | 2017-10-03 | 2024-07-22 | 2022-02-14 |
 | [kafka-streaming-click-analysis](https://github.com/IBM/kafka-streaming-click-analysis) | Use Kafka and Apache Spark streaming to perform click stream analytics | Jupyter Notebook | 76 | Apache License 2.0 | 2017-10-05 | 2024-07-22 | 2020-02-29 |
 | [open-source-service-lifecycle-mgmt](https://github.com/IBM/open-source-service-lifecycle-mgmt) | open-source-service-lifecycle-mgmt | None | 3 | Apache License 2.0 | 2017-10-09 | 2024-07-03 | 2019-04-23 |
@@ -292,7 +292,7 @@
 | [MAX-ResNet-50](https://github.com/IBM/MAX-ResNet-50) | Identify objects in images using a first-generation deep residual network. | Python | 14 | Apache License 2.0 | 2018-03-09 | 2022-10-29 | 2022-11-22 |
 | [MAX-News-Text-Generator](https://github.com/IBM/MAX-News-Text-Generator) | Generate English-language text similar to the news articles in the One Billion Words data set. | Python | 26 | Apache License 2.0 | 2018-03-09 | 2024-07-25 | 2023-05-23 |
 | [MAX-Scene-Classifier](https://github.com/IBM/MAX-Scene-Classifier) | Image classifier for physical places/locations, based on the Places365-CNN Model | Python | 41 | Apache License 2.0 | 2018-03-09 | 2024-08-30 | 2023-05-23 |
-| [MAX-Inception-ResNet-v2](https://github.com/IBM/MAX-Inception-ResNet-v2) | Identify objects in images using a third-generation deep residual network. | Python | 28 | Apache License 2.0 | 2018-03-09 | 2023-04-12 | 2023-05-23 |
+| [MAX-Inception-ResNet-v2](https://github.com/IBM/MAX-Inception-ResNet-v2) | Identify objects in images using a third-generation deep residual network. | Python | 27 | Apache License 2.0 | 2018-03-09 | 2024-12-08 | 2023-05-23 |
 | [MAX-Image-Caption-Generator](https://github.com/IBM/MAX-Image-Caption-Generator) | IBM Code Model Asset Exchange: Show and Tell Image Caption Generator | Python | 84 | Apache License 2.0 | 2018-03-09 | 2024-07-01 | 2023-05-23 |
 | [MAX-Sports-Video-Classifier](https://github.com/IBM/MAX-Sports-Video-Classifier) | Categorize sports videos according to which sport the video depicts. | Python | 23 | Apache License 2.0 | 2018-03-09 | 2024-10-25 | 2022-11-22 |
 | [MAX-Object-Detector](https://github.com/IBM/MAX-Object-Detector) |  Localize and identify multiple objects in a single image. | Python | 290 | Apache License 2.0 | 2018-03-09 | 2024-11-06 | 2023-05-23 |
@@ -469,7 +469,7 @@
 | [quickcd](https://github.com/IBM/quickcd) | Define event handlers for GitHub repositories in Python. | Python | 6 | Apache License 2.0 | 2018-07-27 | 2024-07-18 | 2018-09-17 |
 | [NetDash](https://github.com/IBM/NetDash) | Platform agnostic network monitoring dashboard | Python | 3 | Apache License 2.0 | 2018-07-27 | 2024-10-15 | 2019-03-01 |
 | [icp-airways](https://github.com/IBM/icp-airways) | Build an airline booking platform with a microservices architecture deployed on a private cloud | TypeScript | 44 | Apache License 2.0 | 2018-08-02 | 2024-07-18 | 2019-11-01 |
-| [rl-testbed-for-energyplus](https://github.com/IBM/rl-testbed-for-energyplus) | Reinforcement Learning Testbed for Power Consumption Optimization using EnergyPlus | Python | 191 | MIT License | 2018-08-03 | 2024-11-30 | 2024-07-30 |
+| [rl-testbed-for-energyplus](https://github.com/IBM/rl-testbed-for-energyplus) | Reinforcement Learning Testbed for Power Consumption Optimization using EnergyPlus | Python | 192 | MIT License | 2018-08-03 | 2024-12-07 | 2024-07-30 |
 | [istio-hybrid](https://github.com/IBM/istio-hybrid) |  Using Istio Across Private and Public Clusters | Shell | 14 | Apache License 2.0 | 2018-08-07 | 2024-07-18 | 2019-04-20 |
 | [mixed-migration-forecasting](https://github.com/IBM/mixed-migration-forecasting) | Forecasting mixed migration for the Danish Refugee Council. | Jupyter Notebook | 12 | Apache License 2.0 | 2018-08-07 | 2024-11-25 | 2023-01-10 |
 | [cap](https://github.com/IBM/cap) | The Common Alerting Protocol (CAP) allows emergency messages to be simultaneously disseminated over a wide variety of existing and emerging public alerting systems. | Go | 20 | Apache License 2.0 | 2018-08-07 | 2024-08-02 | 2019-04-29 |
@@ -677,7 +677,7 @@
 | [ibmi-oss-examples](https://github.com/IBM/ibmi-oss-examples) | A set of examples for using open source tools on IBM i | Jupyter Notebook | 83 | Apache License 2.0 | 2019-01-11 | 2024-11-21 | 2023-01-12 |
 | [db2-event-store-iot-analytics](https://github.com/IBM/db2-event-store-iot-analytics) | IoT sensor temperature analysis and prediction with IBM Db2 Event Store | Jupyter Notebook | 4 | Apache License 2.0 | 2019-01-12 | 2024-08-23 | 2020-12-16 |
 | [openai-gym-ocaml](https://github.com/IBM/openai-gym-ocaml) | An OCaml binding for the openai-gym toolkit to develop and compare reinforcement learning algorithms. | OCaml | 16 | Apache License 2.0 | 2019-01-12 | 2023-12-14 | 2023-08-11 |
-| [monitor-custom-ml-engine-with-watson-openscale](https://github.com/IBM/monitor-custom-ml-engine-with-watson-openscale) | Deploy a Custom Machine Learning engine and Monitor Payload Logging and Fairness using AI OpenScale | Jupyter Notebook | 11 | Apache License 2.0 | 2019-01-14 | 2024-12-04 | 2023-01-05 |
+| [monitor-custom-ml-engine-with-watson-openscale](https://github.com/IBM/monitor-custom-ml-engine-with-watson-openscale) | Deploy a Custom Machine Learning engine and Monitor Payload Logging and Fairness using AI OpenScale | Jupyter Notebook | 12 | Apache License 2.0 | 2019-01-14 | 2024-12-07 | 2023-01-05 |
 | [socket-io](https://github.com/IBM/socket-io) | A Socket.IO client for C# | C# | 169 | Apache License 2.0 | 2019-01-16 | 2024-11-23 | 2019-02-01 |
 | [zimulator](https://github.com/IBM/zimulator) | a zbox-based generic simulation system | HTML | 1 | Apache License 2.0 | 2019-01-16 | 2024-06-17 | 2019-01-17 |
 | [decentralized-energy-fabric-on-IBP20](https://github.com/IBM/decentralized-energy-fabric-on-IBP20) | Set up a network on the IBM Blockchain Platform and deploy a decentralized energy smart contract on the network. | JavaScript | 42 | Apache License 2.0 | 2019-01-16 | 2024-11-01 | 2023-01-07 |
@@ -1020,7 +1020,7 @@
 | [iotp-oslc](https://github.com/IBM/iotp-oslc) | None | C++ | 0 | - | 2019-09-28 | 2024-07-03 | 2019-11-24 |
 | [use-deep-learning-in-ibm-cloud-functions](https://github.com/IBM/use-deep-learning-in-ibm-cloud-functions) | In support of "Leverage deep learning in Apache OpenWhisk / IBM Cloud Functions" tutorial | Python | 4 | Apache License 2.0 | 2019-09-30 | 2024-07-22 | 2020-04-23 |
 | [EvolveGCN](https://github.com/IBM/EvolveGCN) | Code for EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs | Python | 528 | Apache License 2.0 | 2019-10-03 | 2024-12-02 | 2021-10-11 |
-| [transition-amr-parser](https://github.com/IBM/transition-amr-parser) | SoTA Abstract Meaning Representation (AMR) parsing with word-node alignments in Pytorch. Includes checkpoints and other tools such as statistical significance Smatch. | Python | 245 | Apache License 2.0 | 2019-10-08 | 2024-11-29 | 2023-06-15 |
+| [transition-amr-parser](https://github.com/IBM/transition-amr-parser) | SoTA Abstract Meaning Representation (AMR) parsing with word-node alignments in Pytorch. Includes checkpoints and other tools such as statistical significance Smatch. | Python | 246 | Apache License 2.0 | 2019-10-08 | 2024-12-08 | 2023-06-15 |
 | [CustomPac](https://github.com/IBM/CustomPac) | Customized to your needs, IBM CustomPacs give you efficient and speedy installation and maintenance of your z/OS software. | None | 1 | Apache License 2.0 | 2019-10-15 | 2024-08-15 | 2022-12-06 |
 | [db2-jupyter](https://github.com/IBM/db2-jupyter) | Jupyter Magic commands for accessing Db2 data | Jupyter Notebook | 17 | Apache License 2.0 | 2019-10-15 | 2024-11-17 | 2024-09-16 |
 | [torc_py](https://github.com/IBM/torc_py) | torcpy is a platform-agnostic adaptive load balancing library that orchestrates the scheduling of task parallelism on both shared and distributed memory platforms. | Python | 18 | Eclipse Public License 1.0 | 2019-10-15 | 2024-07-22 | 2021-12-25 |
@@ -1216,7 +1216,7 @@
 | [devex-skit-monitor-toolchain](https://github.com/IBM/devex-skit-monitor-toolchain) | A toolchain template for monitoring Developer Experience starter kits. | None | 0 | Apache License 2.0 | 2020-02-17 | 2023-04-11 | 2023-01-04 |
 | [websphere-cct](https://github.com/IBM/websphere-cct) | WebSphere Application Server traditional Configuration Comparison Tool | Python | 14 | Apache License 2.0 | 2020-02-17 | 2023-06-07 | 2023-04-13 |
 | [ushiriki-policy-engine-reward-service](https://github.com/IBM/ushiriki-policy-engine-reward-service) | Example of a reward webservice exposing the Ushiriki Policy Engine | Python | 0 | Apache License 2.0 | 2020-02-17 | 2024-06-17 | 2022-06-22 |
-| [ibm-spectrum-scale-install-infra](https://github.com/IBM/ibm-spectrum-scale-install-infra) | Spectrum Scale Installation and Configuration | Python | 65 | Apache License 2.0 | 2020-02-17 | 2024-11-14 | 2024-11-28 |
+| [ibm-spectrum-scale-install-infra](https://github.com/IBM/ibm-spectrum-scale-install-infra) | Spectrum Scale Installation and Configuration | Python | 65 | Apache License 2.0 | 2020-02-17 | 2024-11-14 | 2024-12-07 |
 | [ibm-elastic-stack-operator](https://github.com/IBM/ibm-elastic-stack-operator) | Operator for IBM CloudPak common services | Shell | 1 | Apache License 2.0 | 2020-02-17 | 2024-07-03 | 2020-12-02 |
 | [credit-risk-workshop-cpd](https://github.com/IBM/credit-risk-workshop-cpd) | Workshop on Cloud Pak for Data using German credit risk | Jupyter Notebook | 12 | Apache License 2.0 | 2020-02-18 | 2024-03-08 | 2023-08-03 |
 | [python-ubi-openshift](https://github.com/IBM/python-ubi-openshift) | This code pattern is part of the Bee Travels project that focuses on deploying a python currency exchange application to Openshift 4 using Redhat's Universal Base Image(UBI) | Python | 8 | Apache License 2.0 | 2020-02-18 | 2023-07-27 | 2023-05-01 |
@@ -1231,7 +1231,7 @@
 | [ode](https://github.com/IBM/ode) | OSF Open Development Environment as modified by IBM | HTML | 4 | - | 2020-02-24 | 2023-08-30 | 2023-09-21 |
 | [tx-cics-tables](https://github.com/IBM/tx-cics-tables) | TXSeries CICS Data Tables prototype | C | 1 | Other | 2020-02-24 | 2024-07-22 | 2020-02-25 |
 | [migrate-app-to-openshift-using-ta](https://github.com/IBM/migrate-app-to-openshift-using-ta) | Transform your traditional on-premise application and deploy it as a containerized app on IBM Cloud Pak for Applications | Java | 3 | Apache License 2.0 | 2020-02-25 | 2024-07-22 | 2021-09-15 |
-| [AutoMLPipeline.jl](https://github.com/IBM/AutoMLPipeline.jl) | A package that makes it trivial to create and evaluate machine learning pipeline architectures. | Julia | 359 | MIT License | 2020-02-25 | 2024-11-11 | 2024-12-03 |
+| [AutoMLPipeline.jl](https://github.com/IBM/AutoMLPipeline.jl) | A package that makes it trivial to create and evaluate machine learning pipeline architectures. | Julia | 360 | MIT License | 2020-02-25 | 2024-12-07 | 2024-12-03 |
 | [Selmate-a-customizable-test-automation-tool](https://github.com/IBM/Selmate-a-customizable-test-automation-tool) | Selmate is developed as an extensible and customizable tool to automate regression testing for Web applications. It provides its own scripting language based on spreadsheet/xml and relevant API in Java for external communication. Selenium WebDriver is used internally by Selmate for all browser communication. This is an endeavor to minimize the programming effort required for test automation using Selenium. | Java | 3 | Apache License 2.0 | 2020-02-25 | 2024-04-01 | 2024-03-31 |
 | [dbb-zappbuild](https://github.com/IBM/dbb-zappbuild) | zAppBuild is a generic build solution for building z/OS applications using Apache Groovy build scripts and IBM Dependency Based Build (DBB) APIs. | Groovy | 42 | Apache License 2.0 | 2020-02-25 | 2024-11-26 | 2024-11-26 |
 | [exported-tests](https://github.com/IBM/exported-tests) | Exported Testing architecture for UI testing created by the Watson Health Pattern and Asset Library team | TypeScript | 2 | Apache License 2.0 | 2020-02-25 | 2024-06-17 | 2023-01-06 |
@@ -1321,7 +1321,7 @@
 | [unfeel-the-burn](https://github.com/IBM/unfeel-the-burn) | Winner: 1st Place IBM Track, 3rd Overall Best  | Python | 0 | Apache License 2.0 | 2020-04-10 | 2024-06-17 | 2020-04-20 |
 | [Streaming-Data-with-Apache-Kafka-Quicklab](https://github.com/IBM/Streaming-Data-with-Apache-Kafka-Quicklab) | Streaming Data with Apache Kafka Quicklab | HTML | 0 | Apache License 2.0 | 2020-04-10 | 2024-06-17 | 2020-04-24 |
 | [libjinventory](https://github.com/IBM/libjinventory) | Library providing an API for udev info for hardware elements. | Roff | 0 | Apache License 2.0 | 2020-04-10 | 2024-06-17 | 2020-09-22 |
-| [adaptive-federated-learning](https://github.com/IBM/adaptive-federated-learning) | Code for paper "Adaptive Federated Learning in Resource Constrained Edge Computing Systems" | Python | 252 | MIT License | 2020-04-11 | 2024-12-05 | 2024-10-08 |
+| [adaptive-federated-learning](https://github.com/IBM/adaptive-federated-learning) | Code for paper "Adaptive Federated Learning in Resource Constrained Edge Computing Systems" | Python | 253 | MIT License | 2020-04-11 | 2024-12-07 | 2024-10-08 |
 | [cloud-i-blog](https://github.com/IBM/cloud-i-blog) | You could find IBM i cloud related information here.  | SCSS | 2 | GNU General Public License v3.0 | 2020-04-13 | 2024-07-22 | 2021-03-02 |
 | [vnf-samples](https://github.com/IBM/vnf-samples) | This is a repository that contains samples for developing VNF. | None | 0 | MIT License | 2020-04-13 | 2024-06-17 | 2020-04-13 |
 | [coffee-donut-instructions](https://github.com/IBM/coffee-donut-instructions) | None | Jupyter Notebook | 12 | Apache License 2.0 | 2020-04-13 | 2024-07-22 | 2022-06-23 |
@@ -2027,7 +2027,7 @@
 | [UQ360](https://github.com/IBM/UQ360) | Uncertainty Quantification 360 (UQ360) is an extensible open-source toolkit that can help you estimate, communicate and use uncertainty in machine learning model predictions. | Python | 257 | Apache License 2.0 | 2021-04-28 | 2024-11-14 | 2024-08-20 |
 | [anomaly-prediction-streams-singlestore-cp4d](https://github.com/IBM/anomaly-prediction-streams-singlestore-cp4d) | Detect anamolies in streaming data | Java | 2 | Apache License 2.0 | 2021-04-29 | 2024-07-22 | 2022-01-18 |
 | [luban](https://github.com/IBM/luban) | Luban project to accelerate the deployment and usage of IBM Cloud Paks. It's a place IBMer, customer, business partner etc can use and contribute to this. | Python | 0 | Apache License 2.0 | 2021-04-30 | 2024-07-22 | 2022-01-06 |
-| [Project_CodeNet](https://github.com/IBM/Project_CodeNet) | This repository is to support contributions for tools for the Project CodeNet dataset hosted in DAX | Python | 1557 | Apache License 2.0 | 2021-05-03 | 2024-12-03 | 2022-12-15 |
+| [Project_CodeNet](https://github.com/IBM/Project_CodeNet) | This repository is to support contributions for tools for the Project CodeNet dataset hosted in DAX | Python | 1558 | Apache License 2.0 | 2021-05-03 | 2024-12-07 | 2022-12-15 |
 | [satellite-iot](https://github.com/IBM/satellite-iot) | IBM Cloud Satellite | HTML | 2 | Apache License 2.0 | 2021-05-03 | 2024-07-22 | 2021-06-22 |
 | [data-science-best-practices](https://github.com/IBM/data-science-best-practices) | The goal of this repository is to enable data scientists and ML engineers to develop data science use cases and making it ready for production use. This means focusing on the versioning, scalability, monitoring and engineering of the solution. | Ruby | 89 | Creative Commons Attribution 4.0 International | 2021-05-03 | 2024-11-25 | 2023-05-12 |
 | [maquina-vending](https://github.com/IBM/maquina-vending) | workshop for vending machine | None | 0 | Apache License 2.0 | 2021-05-04 | 2024-07-03 | 2021-06-16 |
@@ -2260,7 +2260,7 @@
 | [event-notifications-python-admin-sdk](https://github.com/IBM/event-notifications-python-admin-sdk) | Python server SDK for IBM Cloud Event Notifications service | Python | 1 | Apache License 2.0 | 2021-11-22 | 2024-10-30 | 2024-10-30 |
 | [zoau-node](https://github.com/IBM/zoau-node) | A node module for Z Open Automation Utilities (ZOAU) | JavaScript | 7 | Apache License 2.0 | 2021-11-22 | 2022-08-26 | 2023-04-18 |
 | [quantum-bayesian-estimation](https://github.com/IBM/quantum-bayesian-estimation) | Python code for Bayesian estimation of qubit SPAM and gate error parameters, based on Qiskit Pulse for hardware access. | Python | 1 | Apache License 2.0 | 2021-11-25 | 2024-09-03 | 2022-08-14 |
-| [LNN](https://github.com/IBM/LNN) | A `Neural = Symbolic` framework for sound and complete weighted real-value logic | Python | 240 | Apache License 2.0 | 2021-11-26 | 2024-12-06 | 2023-11-30 |
+| [LNN](https://github.com/IBM/LNN) | A `Neural = Symbolic` framework for sound and complete weighted real-value logic | Python | 241 | Apache License 2.0 | 2021-11-26 | 2024-12-07 | 2023-11-30 |
 | [LogicalFormulaEmbedder](https://github.com/IBM/LogicalFormulaEmbedder) | A collection of graph-based logical formula embedding methods | Python | 5 | Apache License 2.0 | 2021-11-28 | 2024-12-03 | 2021-11-30 |
 | [csm-dach-cloud-native-labs](https://github.com/IBM/csm-dach-cloud-native-labs) | Workshops to teach the basics of containerization and OpenShift. | Shell | 8 | Apache License 2.0 | 2021-11-29 | 2024-11-25 | 2024-11-25 |
 | [answer-type-prediction](https://github.com/IBM/answer-type-prediction) | This system can predict the knowledge base types of the answer to a given natural language question. | Python | 2 | Apache License 2.0 | 2021-11-29 | 2024-07-22 | 2021-11-29 |
@@ -2353,7 +2353,7 @@
 | [CubeSat](https://github.com/IBM/CubeSat) | CubeSat Project - Democratizing Access to Space | None | 0 | Apache License 2.0 | 2022-02-10 | 2024-07-22 | 2022-02-10 |
 | [cloud-catalog-onboarding](https://github.com/IBM/cloud-catalog-onboarding) | Example of release automation to onboard new versions to the IBM Cloud catalog | None | 0 | Apache License 2.0 | 2022-02-10 | 2024-07-22 | 2022-02-10 |
 | [bank-customer](https://github.com/IBM/bank-customer) | This repos is for CICD Pipeline tutorial on LinuxONE! | Java | 1 | Apache License 2.0 | 2022-02-10 | 2024-07-22 | 2022-03-06 |
-| [zshot](https://github.com/IBM/zshot) | Zero and Few shot named entity & relationships recognition | Python | 350 | MIT License | 2022-02-11 | 2024-11-23 | 2024-11-24 |
+| [zshot](https://github.com/IBM/zshot) | Zero and Few shot named entity & relationships recognition | Python | 351 | MIT License | 2022-02-11 | 2024-12-07 | 2024-11-24 |
 | [bank-account](https://github.com/IBM/bank-account) | This repos is for CICD Pipeline tutorial on LinuxONE. | Java | 0 | Apache License 2.0 | 2022-02-11 | 2024-07-22 | 2022-03-06 |
 | [bank-transaction](https://github.com/IBM/bank-transaction) | This repos is for CICD Pipeline tutorial on LinuxONE. | Java | 0 | Apache License 2.0 | 2022-02-11 | 2024-07-22 | 2022-03-06 |
 | [bank-portal](https://github.com/IBM/bank-portal) | This repos is for CICD Pipeline tutorial on LinuxONE. | Java | 1 | Apache License 2.0 | 2022-02-11 | 2024-07-22 | 2022-03-06 |
@@ -2587,7 +2587,7 @@
 | [biological_fuzzy_logic_networks](https://github.com/IBM/biological_fuzzy_logic_networks) | Differentiable Fuzzy Logic Networks for Biological Systems | Jupyter Notebook | 0 | MIT License | 2022-09-14 | 2024-04-22 | 2024-12-02 |
 | [tgcn-soil-moisture](https://github.com/IBM/tgcn-soil-moisture) | Code for our AAAI 2023 paper: | Jupyter Notebook | 1 | Apache License 2.0 | 2022-09-14 | 2023-06-03 | 2023-03-02 |
 | [misem](https://github.com/IBM/misem) | Multifaceted interpretable summary evaluation method (MISEM) | Python | 4 | Apache License 2.0 | 2022-09-15 | 2024-10-01 | 2022-09-16 |
-| [oss-ecosystem-grpc](https://github.com/IBM/oss-ecosystem-grpc) | ppc64le build for gRPC which is a modern, open source, high-performance remote procedure call (RPC) framework that can run anywhere. | None | 3 | Apache License 2.0 | 2022-09-15 | 2023-08-17 | 2024-11-17 |
+| [oss-ecosystem-grpc](https://github.com/IBM/oss-ecosystem-grpc) | ppc64le build for gRPC which is a modern, open source, high-performance remote procedure call (RPC) framework that can run anywhere. | None | 3 | Apache License 2.0 | 2022-09-15 | 2023-08-17 | 2024-12-08 |
 | [deformation-estimation-toolkit](https://github.com/IBM/deformation-estimation-toolkit) | Modular package with functions to estimate and correct deformations (of e.g. tissue) in videos. | Python | 3 | Apache License 2.0 | 2022-09-15 | 2023-11-24 | 2023-11-13 |
 | [nl2ltl](https://github.com/IBM/nl2ltl) | Natural Language (NL) to Linear Temporal Logic (LTL) | Python | 64 | MIT License | 2022-09-15 | 2024-12-05 | 2024-09-16 |
 | [CPD-SDK-Plus-Python](https://github.com/IBM/CPD-SDK-Plus-Python) | A Python package for Data Science related utility methods across multiple services. | Python | 0 | MIT License | 2022-09-16 | 2022-09-16 | 2024-01-31 |
@@ -2667,7 +2667,7 @@
 | [codenet-minerva-cargo](https://github.com/IBM/codenet-minerva-cargo) | Cargo is part of the Minerva project working on refactoring monoliths to microservices | Python | 10 | Apache License 2.0 | 2022-11-03 | 2024-11-14 | 2024-02-27 |
 | [my-mas-cookbook](https://github.com/IBM/my-mas-cookbook) | deployment, cookbook steps for Maximo Application Suite. | None | 3 | Apache License 2.0 | 2022-11-04 | 2024-08-01 | 2023-08-06 |
 | [zmodstack-deploy](https://github.com/IBM/zmodstack-deploy) | IBM Z & Cloud Modernization Stack deployment tools | Bicep | 4 | Apache License 2.0 | 2022-11-04 | 2024-01-03 | 2024-09-16 |
-| [molformer](https://github.com/IBM/molformer) | Repository for MolFormer | Jupyter Notebook | 269 | Apache License 2.0 | 2022-11-07 | 2024-12-04 | 2023-10-16 |
+| [molformer](https://github.com/IBM/molformer) | Repository for MolFormer | Jupyter Notebook | 270 | Apache License 2.0 | 2022-11-07 | 2024-12-08 | 2023-10-16 |
 | [ibm-watson-embed-charts](https://github.com/IBM/ibm-watson-embed-charts) | Example Helm charts for installing the IBM Watson Libraries for Embed products | Smarty | 1 | Apache License 2.0 | 2022-11-08 | 2024-09-27 | 2024-09-27 |
 | [ai-governance-factsheet-samples](https://github.com/IBM/ai-governance-factsheet-samples) | AI Governance factsheet sample assets, notebooks and apps. | Jupyter Notebook | 3 | Apache License 2.0 | 2022-11-08 | 2024-12-04 | 2024-12-04 |
 | [analog-nas](https://github.com/IBM/analog-nas) | Analog AI Neural Architecture Search (analog-nas) is a modular and flexible framework to facilitate implementation of Analog-aware Neural Architecture Search. | Jupyter Notebook | 45 | Apache License 2.0 | 2022-11-08 | 2024-11-13 | 2024-05-13 |
@@ -2887,7 +2887,7 @@
 | [watsonxdata-node-sdk](https://github.com/IBM/watsonxdata-node-sdk) | This is used for watsonx.data Node SDK | JavaScript | 3 | Apache License 2.0 | 2023-06-07 | 2024-12-04 | 2024-12-04 |
 | [watsonxdata-java-sdk](https://github.com/IBM/watsonxdata-java-sdk) | This is used for watsonx.data Java SDK | Java | 0 | Apache License 2.0 | 2023-06-07 | 2024-12-03 | 2024-12-03 |
 | [ibm-generative-ai-cli](https://github.com/IBM/ibm-generative-ai-cli) | Command line interface for working with the Generative AI API | JavaScript | 20 | MIT License | 2023-06-08 | 2024-11-10 | 2024-03-25 |
-| [cp4ba-jam-in-a-box](https://github.com/IBM/cp4ba-jam-in-a-box) | CP4BA Jam in a Box | None | 5 | Apache License 2.0 | 2023-06-09 | 2024-11-06 | 2024-11-29 |
+| [cp4ba-jam-in-a-box](https://github.com/IBM/cp4ba-jam-in-a-box) | CP4BA Jam in a Box | None | 5 | Apache License 2.0 | 2023-06-09 | 2024-11-06 | 2024-12-08 |
 | [twasdiag](https://github.com/IBM/twasdiag) | WebSphere Application Server traditional diagnostic web application | Java | 1 | Apache License 2.0 | 2023-06-12 | 2023-07-12 | 2023-12-04 |
 | [azure-marketplace-arm-templates](https://github.com/IBM/azure-marketplace-arm-templates) | Code referenced by Azure Marketplace listings for IBM Products | Shell | 1 | Apache License 2.0 | 2023-06-13 | 2024-11-25 | 2024-12-05 |
 | [magkit-test](https://github.com/IBM/magkit-test) | Library to aid in writing JUnit tests for the Magkit Magnolia modules | Java | 0 | Apache License 2.0 | 2023-06-13 | 2024-08-16 | 2024-09-16 |
@@ -2900,7 +2900,7 @@
 | [NeuralFuse](https://github.com/IBM/NeuralFuse) | [NeurIPS'24] "NeuralFuse: Learning to Recover the Accuracy of Access-Limited Neural Network Inference in Low-Voltage Regimes" | Python | 10 | Apache License 2.0 | 2023-06-21 | 2024-10-10 | 2024-02-22 |
 | [aligned_diffusion_bridges](https://github.com/IBM/aligned_diffusion_bridges) | Aligned Diffusion Schroedinger Bridges (UAI 2023) | Jupyter Notebook | 12 | MIT License | 2023-06-21 | 2024-11-18 | 2023-06-21 |
 | [swift-cloudant](https://github.com/IBM/swift-cloudant) | A native client for direct interaction with Cloudant and CouchDB in Swift. | Swift | 1 | Apache License 2.0 | 2023-06-22 | 2023-08-31 | 2024-10-16 |
-| [iobench](https://github.com/IBM/iobench) | IOBENCH is a IO meter tool (IO benchmark). It supports several IO engines (blocked IO, Linux asynchronous IO, POSIX AIO, direct SCSI, direct NVMe, IO URING, etc.). | C | 5 | Apache License 2.0 | 2023-06-25 | 2024-07-16 | 2023-06-25 |
+| [iobench](https://github.com/IBM/iobench) | IOBENCH is a IO meter tool (IO benchmark). It supports several IO engines (blocked IO, Linux asynchronous IO, POSIX AIO, direct SCSI, direct NVMe, IO URING, etc.). | C | 6 | Apache License 2.0 | 2023-06-25 | 2024-12-07 | 2023-06-25 |
 | [kafka-connect-loosehangerjeans-source](https://github.com/IBM/kafka-connect-loosehangerjeans-source) | Kafka Connect source connector used for generating simulated events for demos and tests. | Java | 1 | Apache License 2.0 | 2023-06-26 | 2024-11-27 | 2024-11-27 |
 | [calcite-explorations](https://github.com/IBM/calcite-explorations) | Calcite Explorations | None | 2 | Apache License 2.0 | 2023-06-27 | 2023-07-23 | 2023-06-27 |
 | [event-automation-demo](https://github.com/IBM/event-automation-demo) | Ansible playbook for deploying an instance of IBM Event Automation, populated with events for use in demos. | Shell | 9 | Apache License 2.0 | 2023-06-27 | 2024-11-27 | 2024-12-05 |
@@ -3001,7 +3001,7 @@
 | [text-corpus-distance-distributionality](https://github.com/IBM/text-corpus-distance-distributionality) | Repository of experiments for paper "Characterizing how 'distributional' NLP corpora distance metrics are" (Samuel Ackerman, George Kour, Eitan Farchi), published in the 2023 Joint Statistical Meetings proceedings. | Jupyter Notebook | 0 | Apache License 2.0 | 2023-10-11 | 2023-10-12 | 2023-10-12 |
 | [turbonomic-aws-config](https://github.com/IBM/turbonomic-aws-config) | Cloudformation template to create IAM Role with Turbonomic min permissions | None | 0 | MIT License | 2023-10-12 | 2023-10-12 | 2023-10-12 |
 | [ibm-developer-watsonx](https://github.com/IBM/ibm-developer-watsonx) | Storing code used in Generative AI Developer Guides on the IBM Developer Website | Jupyter Notebook | 7 | MIT License | 2023-10-15 | 2024-11-25 | 2024-03-04 |
-| [VillanDiffusion](https://github.com/IBM/VillanDiffusion) | Code Repo for the NeurIPS 2023 paper "VillanDiffusion: A Unified Backdoor Attack Framework for Diffusion Models" | Python | 20 | Apache License 2.0 | 2023-10-17 | 2024-11-27 | 2024-09-10 |
+| [VillanDiffusion](https://github.com/IBM/VillanDiffusion) | Code Repo for the NeurIPS 2023 paper "VillanDiffusion: A Unified Backdoor Attack Framework for Diffusion Models" | Python | 21 | Apache License 2.0 | 2023-10-17 | 2024-12-08 | 2024-09-10 |
 | [akora-renderer-react](https://github.com/IBM/akora-renderer-react) | React renderer tool for Cloud Pak for AIOps dashboard integration. | JavaScript | 0 | Apache License 2.0 | 2023-10-17 | 2023-10-18 | 2023-10-19 |
 | [platinum-demos](https://github.com/IBM/platinum-demos) | IBM Platinum Demos documentation | None | 1 | Apache License 2.0 | 2023-10-18 | 2024-11-22 | 2024-11-22 |
 | [watsonx-data-lab](https://github.com/IBM/watsonx-data-lab) | Documentation for watsonx.data Development Lab | HTML | 1 | Apache License 2.0 | 2023-10-18 | 2024-12-05 | 2024-12-05 |
@@ -3029,7 +3029,7 @@
 | [SemiStructuredEncoders](https://github.com/IBM/SemiStructuredEncoders) | The repository contains code to train TVM-KA model which can handle  semi-structured object sequences. We extend the examples code from Huggingface transformer repository to train our TVM-KA model. The link to the codebase can be found [here](https://github.ibm.com/rmurthyv/SemiStructuredEncoders) | None | 0 | Apache License 2.0 | 2023-11-13 | 2023-11-13 | 2023-11-13 |
 | [mrs-logic](https://github.com/IBM/mrs-logic) | A Semantic Parsing Toolkit for English utterances to ULKB | Python | 1 | Apache License 2.0 | 2023-11-13 | 2024-10-19 | 2024-07-27 |
 | [logs-router-go-sdk](https://github.com/IBM/logs-router-go-sdk) | Go SDK for Logs Routing | Go | 0 | Apache License 2.0 | 2023-11-13 | 2024-09-11 | 2024-09-11 |
-| [CRAIG](https://github.com/IBM/CRAIG) | Cloud Resource and Infrastructure-as-Code Generator (or CRAIG) allows users to generate Terraform to create a fully customizable environment on IBM Cloud. | JavaScript | 15 | Apache License 2.0 | 2023-11-13 | 2024-11-02 | 2024-12-07 |
+| [CRAIG](https://github.com/IBM/CRAIG) | Cloud Resource and Infrastructure-as-Code Generator (or CRAIG) allows users to generate Terraform to create a fully customizable environment on IBM Cloud. | JavaScript | 15 | Apache License 2.0 | 2023-11-13 | 2024-11-02 | 2024-12-08 |
 | [AFDistill](https://github.com/IBM/AFDistill) | Code for AlphaFold Distillation for Protein Design | Python | 9 | Apache License 2.0 | 2023-11-13 | 2024-11-07 | 2023-11-22 |
 | [learn-vector-symbolic-architectures-rule-formulations](https://github.com/IBM/learn-vector-symbolic-architectures-rule-formulations) | PyTorch Implementation of the paper "Probabilistic Abduction for Visual Abstract Reasoning via Learning Rules in Vector-symbolic Architectures" published in the 3rd Workshop on Mathematical Reasoning and AI at NeurIPS 2023. | Python | 7 | GNU General Public License v3.0 | 2023-11-13 | 2024-08-22 | 2023-11-14 |
 | [data-product-exchange-java-sdk](https://github.com/IBM/data-product-exchange-java-sdk) | Java SDK for IBM Data Product Hub Service.  | Java | 0 | Apache License 2.0 | 2023-11-14 | 2024-11-29 | 2024-11-29 |
@@ -3166,7 +3166,7 @@
 | [qattn](https://github.com/IBM/qattn) | Efficient GPU kernels for mixed-precision Vision Transformers in Triton | Python | 11 | MIT License | 2024-04-08 | 2024-11-22 | 2024-06-21 |
 | [godsect](https://github.com/IBM/godsect) | A utility to create Go structure types from DSECT information in ADATA file created by HLASM. | Go | 3 | Apache License 2.0 | 2024-04-08 | 2024-11-05 | 2024-05-03 |
 | [go-dsect](https://github.com/IBM/go-dsect) | A utility to create Go structure types from DSECT information in ADATA file created by HLASM. | Go | 0 | Apache License 2.0 | 2024-04-08 | 2024-04-09 | 2024-04-09 |
-| [data-prep-kit](https://github.com/IBM/data-prep-kit) | Open source project for data preparation of LLM application builders | Python | 342 | Apache License 2.0 | 2024-04-08 | 2024-12-07 | 2024-12-07 |
+| [data-prep-kit](https://github.com/IBM/data-prep-kit) | Open source project for data preparation of LLM application builders | Python | 345 | Apache License 2.0 | 2024-04-08 | 2024-12-08 | 2024-12-07 |
 | [watsonx-workshop-mlops](https://github.com/IBM/watsonx-workshop-mlops) | Workshop about MLOps with watsonx | None | 0 | Apache License 2.0 | 2024-04-09 | 2024-04-26 | 2024-05-06 |
 | [tensorlakehouse-openeo-driver](https://github.com/IBM/tensorlakehouse-openeo-driver) | IBM's OpenSource reference implementation of the OpenEO driver | Jupyter Notebook | 11 | Apache License 2.0 | 2024-04-10 | 2024-10-29 | 2024-10-16 |
 | [ibm-echo](https://github.com/IBM/ibm-echo) | IBM ECHO is a REST API client available as a Native app in macOS & Windows | JavaScript | 4 | Apache License 2.0 | 2024-04-11 | 2024-11-18 | 2024-11-18 |
@@ -3194,14 +3194,14 @@
 | [llm-watsonx](https://github.com/IBM/llm-watsonx) | None | Python | 6 | Apache License 2.0 | 2024-05-03 | 2024-09-17 | 2024-07-28 |
 | [ptc-test](https://github.com/IBM/ptc-test) | test run of git repo | None | 0 | Apache License 2.0 | 2024-05-05 | 2024-05-05 | 2024-05-05 |
 | [springboot-graphql-ref-impl](https://github.com/IBM/springboot-graphql-ref-impl) | This is a reference application showing an implementation of GraphQL API written using Spring Boot framework. It also showcases various features of GraphQL like directives, data-loaders, subscriptions etc. | None | 0 | Apache License 2.0 | 2024-05-06 | 2024-05-06 | 2024-05-06 |
-| [abductive-rule-learner-with-context-awareness](https://github.com/IBM/abductive-rule-learner-with-context-awareness) | PyTorch Implementation of the paper "Towards Learning Abductive Reasoning using VSA Distributed Representations". | Python | 12 | GNU General Public License v3.0 | 2024-05-06 | 2024-12-06 | 2024-12-06 |
+| [abductive-rule-learner-with-context-awareness](https://github.com/IBM/abductive-rule-learner-with-context-awareness) | PyTorch Implementation of the paper "Towards Learning Abductive Reasoning using VSA Distributed Representations". | Python | 12 | GNU General Public License v3.0 | 2024-05-06 | 2024-12-07 | 2024-12-07 |
 | [PolyTransformer](https://github.com/IBM/PolyTransformer) | Converting Transformers to Polynomial Form for Secure Inference Over Homomorphic Encryption | None | 6 | Apache License 2.0 | 2024-05-06 | 2024-11-22 | 2024-05-06 |
 | [polynomial-large-scale-CNNs](https://github.com/IBM/polynomial-large-scale-CNNs) | Polynomial Large Scale CNNs for Secure Prediction over Homomorphic Encrpytion | None | 0 | Apache License 2.0 | 2024-05-06 | 2024-05-06 | 2024-05-06 |
 | [pddlsl](https://github.com/IBM/pddlsl) | Code for reproducing https://arxiv.org/abs/2308.11905 | Python | 0 | MIT License | 2024-05-06 | 2024-05-09 | 2024-05-09 |
 | [elasticsearch-kibana-enterprise-search](https://github.com/IBM/elasticsearch-kibana-enterprise-search) | Learn how to deploy IBM Cloud Databases for Elasticsearch alongside Kibana and Enterprise Search | HCL | 0 | - | 2024-05-08 | 2024-05-08 | 2024-05-08 |
 | [Environmental-Intelligence](https://github.com/IBM/Environmental-Intelligence) | IBM Environmental Intelligence | Jupyter Notebook | 8 | Apache License 2.0 | 2024-05-15 | 2024-12-02 | 2024-12-02 |
 | [ei-geospatial-qgis-plugin](https://github.com/IBM/ei-geospatial-qgis-plugin) | IBM Environmental Intelligence: Geospatial APIs- QGIS Plugin | Python | 1 | GNU General Public License v2.0 | 2024-05-15 | 2024-11-23 | 2024-09-17 |
-| [terratorch](https://github.com/IBM/terratorch) | a Python toolkit for fine-tuning Geospatial Foundation Models (GFMs). | Python | 176 | Apache License 2.0 | 2024-05-15 | 2024-12-06 | 2024-12-06 |
+| [terratorch](https://github.com/IBM/terratorch) | a Python toolkit for fine-tuning Geospatial Foundation Models (GFMs). | Python | 178 | Apache License 2.0 | 2024-05-15 | 2024-12-07 | 2024-12-07 |
 | [spark-labs-vscode-extension](https://github.com/IBM/spark-labs-vscode-extension) | Spark Labs extension for IBM Analytics Engine | None | 0 | Other | 2024-05-17 | 2024-05-17 | 2024-05-17 |
 | [Adversarial-Prompt-Evaluation](https://github.com/IBM/Adversarial-Prompt-Evaluation) | Code Implementation of Adversarial Prompt Evaluation paper | Python | 3 | MIT License | 2024-05-20 | 2024-06-18 | 2024-06-18 |
 | [roks-try-it-da](https://github.com/IBM/roks-try-it-da) | the source code to hold the contents of the ROKS try-it deployable architecture | HCL | 0 | Apache License 2.0 | 2024-05-20 | 2024-07-01 | 2024-07-01 |
@@ -3260,7 +3260,7 @@
 | [wx-ibmcloud-solutions-scc](https://github.com/IBM/wx-ibmcloud-solutions-scc) | None | None | 0 | Apache License 2.0 | 2024-07-17 | 2024-10-23 | 2024-10-23 |
 | [guardium-quarantineusers](https://github.com/IBM/guardium-quarantineusers) | guardium and blocking the database users in guardium | None | 0 | Apache License 2.0 | 2024-07-18 | 2024-07-18 | 2024-07-18 |
 | [nz-lab](https://github.com/IBM/nz-lab) | Netezza Lab | HTML | 0 | Apache License 2.0 | 2024-07-22 | 2024-08-14 | 2024-08-14 |
-| [prompt-declaration-language](https://github.com/IBM/prompt-declaration-language) | Prompt Declaration Language (PDL) is a declarative prompt programming language. | Python | 91 | Apache License 2.0 | 2024-07-22 | 2024-12-05 | 2024-12-06 |
+| [prompt-declaration-language](https://github.com/IBM/prompt-declaration-language) | Prompt Declaration Language (PDL) is a declarative prompt programming language. | Python | 92 | Apache License 2.0 | 2024-07-22 | 2024-12-07 | 2024-12-06 |
 | [materials](https://github.com/IBM/materials) | Foundation Model for Materials - FM4M | Python | 91 | Apache License 2.0 | 2024-07-24 | 2024-12-06 | 2024-12-06 |
 | [coalitions-for-tool-use](https://github.com/IBM/coalitions-for-tool-use) | Repository containing assessment and evaluation strategies for examining if coalitions of pretrained LLMs can increase the robustness of AI Agents. | Python | 2 | MIT License | 2024-07-25 | 2024-08-12 | 2024-07-26 |
 | [presto-native-lab](https://github.com/IBM/presto-native-lab) | Presto Workshop - Dive into Presto C++, next-gen Presto | None | 0 | Apache License 2.0 | 2024-07-25 | 2024-07-31 | 2024-07-31 |
@@ -3287,7 +3287,7 @@
 | [mug](https://github.com/IBM/mug) | a PyTorch code to train a deep learning model to predict urban settlements in satellite images based on demographic and geospatial data | Jupyter Notebook | 6 | Apache License 2.0 | 2024-08-13 | 2024-11-16 | 2024-09-25 |
 | [configuration-aggregator-go-sdk](https://github.com/IBM/configuration-aggregator-go-sdk) | Configuration Aggregator Go SDK for App configuration service | Go | 0 | Apache License 2.0 | 2024-08-14 | 2024-11-05 | 2024-11-06 |
 | [conversational-prompt-engineering](https://github.com/IBM/conversational-prompt-engineering) | A repository providing code to help users craft tailored prompts through a chat with an LLM. | Python | 5 | Apache License 2.0 | 2024-08-18 | 2024-10-27 | 2024-11-12 |
-| [mac-ibm-migration-tool](https://github.com/IBM/mac-ibm-migration-tool) | macOS Utility to facilitate the mass migration of files/apps/preferences between devices. | Swift | 49 | Apache License 2.0 | 2024-08-21 | 2024-11-26 | 2024-11-04 |
+| [mac-ibm-migration-tool](https://github.com/IBM/mac-ibm-migration-tool) | macOS Utility to facilitate the mass migration of files/apps/preferences between devices. | Swift | 50 | Apache License 2.0 | 2024-08-21 | 2024-12-07 | 2024-11-04 |
 | [SalesEnablement-VMware-L3-draft](https://github.com/IBM/SalesEnablement-VMware-L3-draft) | Draft repo for VMware L3 update | HTML | 0 | Apache License 2.0 | 2024-08-22 | 2024-09-23 | 2024-09-23 |
 | [WatsonX-SDK-Db2-IBMi](https://github.com/IBM/WatsonX-SDK-Db2-IBMi) | WatsonX client SDK for Db2 on IBM i | None | 2 | GNU General Public License v3.0 | 2024-08-22 | 2024-10-24 | 2024-08-28 |
 | [aihwkit-lightning](https://github.com/IBM/aihwkit-lightning) | Scalable HW-Aware Training for Analog In-Memory Computing | Python | 15 | MIT License | 2024-08-22 | 2024-11-26 | 2024-11-20 |
@@ -3306,7 +3306,7 @@
 | [convert-to-safetensors](https://github.com/IBM/convert-to-safetensors) | Python utility to convert PyTorch model weights from '.bin' to '.safetensors' format. | Python | 3 | Apache License 2.0 | 2024-09-03 | 2024-11-14 | 2024-09-04 |
 | [extremal-python-dependencies](https://github.com/IBM/extremal-python-dependencies) | A utility for installing extremal versions of dependencies for more robust testing | Python | 3 | Apache License 2.0 | 2024-09-03 | 2024-11-05 | 2024-12-01 |
 | [lm-desk](https://github.com/IBM/lm-desk) | The LM Desk project is a central entrypoint for configuring a set of awesome tools that will power your desktop productivity using generative AI. This is a project-of-projects that brings together the best open source tools to get you developing faster. | Shell | 1 | Apache License 2.0 | 2024-09-03 | 2024-09-04 | 2024-09-03 |
-| [dolomite-engine](https://github.com/IBM/dolomite-engine) | Dolomite Engine is a library for pretraining/finetuning LLMs | Python | 25 | Apache License 2.0 | 2024-09-03 | 2024-12-07 | 2024-12-07 |
+| [dolomite-engine](https://github.com/IBM/dolomite-engine) | Dolomite Engine is a library for pretraining/finetuning LLMs | Python | 26 | Apache License 2.0 | 2024-09-03 | 2024-12-08 | 2024-12-08 |
 | [Hybrid-BPDN-solver](https://github.com/IBM/Hybrid-BPDN-solver) | Code associated with the paper E. van den Berg, "A hybrid quasi-Newton projected-gradient method with application to Lasso and Basis-Pursuit Denoise", Mathematical Programming Computation 12, 1–38 (2020). | MATLAB | 0 | GNU Lesser General Public License v2.1 | 2024-09-04 | 2024-09-05 | 2024-09-05 |
 | [Cost-Management-Operator-Validation](https://github.com/IBM/Cost-Management-Operator-Validation) | This repo will help clients to validate cmo matrix are matching from openshift prometheus | Go | 0 | Apache License 2.0 | 2024-09-05 | 2024-09-05 | 2024-09-05 |
 | [vector-distance-reference](https://github.com/IBM/vector-distance-reference) | Vector distance metrics implementation optimized for IBM Power Architecture | C++ | 2 | Apache License 2.0 | 2024-09-05 | 2024-10-07 | 2024-10-03 |
@@ -3347,8 +3347,8 @@
 | [javacore-analyser](https://github.com/IBM/javacore-analyser) | This is a tool to analyse IBM Javacore files and provide the report used to analyse hang/outage and performance issues. | Python | 2 | Apache License 2.0 | 2024-10-01 | 2024-12-06 | 2024-12-06 |
 | [ICSF-Education](https://github.com/IBM/ICSF-Education) | This repository contains public samples of REXX executables which can be used to invoke ICSF callable services. | REXX | 0 | MIT License | 2024-10-01 | 2024-11-15 | 2024-11-15 |
 | [oms-watsonx-starter-kit](https://github.com/IBM/oms-watsonx-starter-kit) | The project contains reference implementation for WatsonX Orchestrate and Sterling Order Management System integration patterns and sample implementations for watsonX Orchestrate skills. Customers can use these samples as a starter kit to build WatsonX Orchestrate integration. | TypeScript | 0 | Apache License 2.0 | 2024-10-02 | 2024-10-04 | 2024-10-04 |
-| [kernel-approximation-using-analog-in-memory-computing](https://github.com/IBM/kernel-approximation-using-analog-in-memory-computing) | Github repository associated with the Nature Machine Intelligence. "Kernel Approximation using Analog In-Memory Computing". | Python | 1 | MIT License | 2024-10-03 | 2024-11-11 | 2024-10-13 |
-| [opentalaria](https://github.com/IBM/opentalaria) | OpenTalaria is a lightweight message broker that implements the Kafka protocol and persists messages in SQLite. | Go | 5 | Apache License 2.0 | 2024-10-03 | 2024-12-05 | 2024-12-05 |
+| [kernel-approximation-using-analog-in-memory-computing](https://github.com/IBM/kernel-approximation-using-analog-in-memory-computing) | Github repository associated with the Nature Machine Intelligence paper "Kernel Approximation using Analog In-Memory Computing". | Python | 1 | MIT License | 2024-10-03 | 2024-12-07 | 2024-12-07 |
+| [opentalaria](https://github.com/IBM/opentalaria) | OpenTalaria is a lightweight message broker that implements the Kafka protocol and persists messages in SQLite. | Go | 6 | Apache License 2.0 | 2024-10-03 | 2024-12-07 | 2024-12-05 |
 | [limitations-lm-algorithmic-compositional-learning](https://github.com/IBM/limitations-lm-algorithmic-compositional-learning) | Python implementation of the paper "Limits of Transformer Language Models on Learning to Compose Algorithms", NeurIPS 2024. | Python | 1 | Apache License 2.0 | 2024-10-03 | 2024-12-06 | 2024-12-06 |
 | [openshift-profiler](https://github.com/IBM/openshift-profiler) | OpenShift Universal Profiler (Java,Python,Node.js,Go,C,C++) | None | 1 | Apache License 2.0 | 2024-10-03 | 2024-10-03 | 2024-10-03 |
 | [SafeLoRA](https://github.com/IBM/SafeLoRA) | Github repo for NeurIPS 2024 paper "Safe LoRA: the Silver Lining of Reducing Safety Risks when Fine-tuning Large Language Models" | Python | 2 | Apache License 2.0 | 2024-10-05 | 2024-12-01 | 2024-10-05 |
@@ -3431,9 +3431,10 @@
 | [instana-aws-blog-repo](https://github.com/IBM/instana-aws-blog-repo) | Instana AWS Blog Repo | Python | 0 | Apache License 2.0 | 2024-12-04 | 2024-12-06 | 2024-12-06 |
 | [lab-activity-recognition](https://github.com/IBM/lab-activity-recognition) | End-to-end pipeline for activity recognition in scientific laboratories | Python | 0 | MIT License | 2024-12-05 | 2024-12-06 | 2024-12-06 |
 | [ba-handson-jp](https://github.com/IBM/ba-handson-jp) | handson material for business automation products in Japanese | None | 0 | Apache License 2.0 | 2024-12-06 | 2024-12-06 | 2024-12-06 |
-| [raven-large-language-models](https://github.com/IBM/raven-large-language-models) | Code for "Towards Learning to Reason: Comparing LLMs with Neuro-Symbolic on Arithmetic Relations in Abstract Reasoning" | None | 0 | Apache License 2.0 | 2024-12-06 | 2024-12-06 | 2024-12-06 |
+| [raven-large-language-models](https://github.com/IBM/raven-large-language-models) | Code for "Towards Learning to Reason: Comparing LLMs with Neuro-Symbolic on Arithmetic Relations in Abstract Reasoning" | Python | 0 | Apache License 2.0 | 2024-12-06 | 2024-12-07 | 2024-12-07 |
 | [webmethods-helm-charts](https://github.com/IBM/webmethods-helm-charts) | IBM webMethods Helm Chart Repository | Smarty | 0 | Apache License 2.0 | 2024-12-06 | 2024-12-06 | 2024-12-06 |
 | [IM-web](https://github.com/IBM/IM-web) | Enhance Element-Web for flexible and consistent branding. Fork of https://github.com/element-hq/element-web | None | 0 | GNU Affero General Public License v3.0 | 2024-12-06 | 2024-12-06 | 2024-12-06 |
 | [multiscale-mambabyte](https://github.com/IBM/multiscale-mambabyte) | a byte-level language model | None | 1 | MIT License | 2024-12-06 | 2024-12-06 | 2024-12-06 |
 | [IM-ios](https://github.com/IBM/IM-ios) | Enhance element-x-ios for flexible and consistent branding. Fork of https://github.com/element-hq/element-x-ios | None | 0 | GNU Affero General Public License v3.0 | 2024-12-06 | 2024-12-06 | 2024-12-06 |
 | [IM-android](https://github.com/IBM/IM-android) | Enhance element-x-android for flexible and consistent branding. Fork of https://github.com/element-hq/element-x-android | None | 0 | GNU Affero General Public License v3.0 | 2024-12-06 | 2024-12-06 | 2024-12-06 |
+| [BCM](https://github.com/IBM/BCM) | Reproducing the results in our paper accepted to NeurIPS2024 | None | 0 | MIT License | 2024-12-08 | 2024-12-08 | 2024-12-08 |
