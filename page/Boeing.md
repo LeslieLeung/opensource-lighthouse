@@ -1,10 +1,10 @@
 # Boeing
 
-共 38 个项目，近半年内活跃项目 16 个，1 个团队， 422 个 Star。
+共 38 个项目，近半年内活跃项目 16 个，1 个团队， 423 个 Star。
 
 语言 Top 3：C++, Python, C
 
-统计时间：2024-12-12 08:08:41
+统计时间：2024-12-13 08:08:32
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -35,14 +35,14 @@
 | [Universal_Robots_ROS2_Driver](https://github.com/Boeing/Universal_Robots_ROS2_Driver) | Universal Robots ROS2 driver supporting CB3 and e-Series | None | 0 | BSD 3-Clause "New" or "Revised" License | 2024-01-23 | 2024-01-23 | 2024-01-17 |
 | [meta-xilinx](https://github.com/Boeing/meta-xilinx) | None | C | 0 | MIT License | 2024-04-22 | 2024-07-09 | 2024-07-09 |
 | [linux](https://github.com/Boeing/linux) | Linux kernel stable tree mirror | C | 0 | Other | 2024-04-22 | 2024-07-08 | 2024-12-11 |
-| [linux-yocto](https://github.com/Boeing/linux-yocto) | None | C | 0 | Other | 2024-04-22 | 2024-07-09 | 2024-12-10 |
-| [openembedded-core](https://github.com/Boeing/openembedded-core) | None | BitBake | 1 | Other | 2024-04-22 | 2024-07-29 | 2024-12-11 |
-| [meta-openembedded](https://github.com/Boeing/meta-openembedded) | None | BitBake | 1 | MIT License | 2024-04-22 | 2024-08-20 | 2024-12-11 |
-| [meta-openembedded-contrib](https://github.com/Boeing/meta-openembedded-contrib) | None | BitBake | 0 | MIT License | 2024-04-22 | 2024-07-09 | 2024-12-11 |
-| [bitbake](https://github.com/Boeing/bitbake) | None | None | 0 | - | 2024-04-22 | 2024-07-09 | 2024-12-11 |
+| [linux-yocto](https://github.com/Boeing/linux-yocto) | None | C | 0 | Other | 2024-04-22 | 2024-07-09 | 2024-12-13 |
+| [openembedded-core](https://github.com/Boeing/openembedded-core) | None | BitBake | 1 | Other | 2024-04-22 | 2024-07-29 | 2024-12-12 |
+| [meta-openembedded](https://github.com/Boeing/meta-openembedded) | None | BitBake | 1 | MIT License | 2024-04-22 | 2024-08-20 | 2024-12-12 |
+| [meta-openembedded-contrib](https://github.com/Boeing/meta-openembedded-contrib) | None | BitBake | 0 | MIT License | 2024-04-22 | 2024-07-09 | 2024-12-12 |
+| [bitbake](https://github.com/Boeing/bitbake) | None | None | 0 | - | 2024-04-22 | 2024-07-09 | 2024-12-12 |
 | [genai-for-multi-label](https://github.com/Boeing/genai-for-multi-label) | Fine-tuning LLMs for Multi-label Text Classification | None | 0 | - | 2024-07-01 | 2024-07-01 | 2024-07-01 |
 | [step_to_sdf](https://github.com/Boeing/step_to_sdf) | This package provides a mechanism for converting between STEP and SDF. | None | 0 | - | 2024-08-12 | 2024-08-12 | 2024-08-12 |
 | [aircraft-data-hierarchy](https://github.com/Boeing/aircraft-data-hierarchy) | None | Python | 6 | Apache License 2.0 | 2024-09-18 | 2024-12-10 | 2024-12-09 |
 | [standard-evaluator](https://github.com/Boeing/standard-evaluator) | None | None | 1 | Apache License 2.0 | 2024-09-18 | 2024-10-24 | 2024-10-24 |
-| [libc-test](https://github.com/Boeing/libc-test) | None | C | 1 | Other | 2024-11-06 | 2024-12-09 | 2024-12-04 |
+| [libc-test](https://github.com/Boeing/libc-test) | None | C | 2 | Other | 2024-11-06 | 2024-12-12 | 2024-12-04 |
 | [aviation_ner_sdr](https://github.com/Boeing/aviation_ner_sdr) | Collaboration work between FAA and Boeing on identifying safety hazards in Service Difficulty Reports (SDR) | Python | 0 | MIT License | 2024-12-10 | 2024-12-11 | 2024-12-11 |
