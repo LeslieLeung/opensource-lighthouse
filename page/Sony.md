@@ -1,10 +1,10 @@
 # Sony
 
-共 82 个项目，近半年内活跃项目 28 个，1 个团队， 15955 个 Star。
+共 82 个项目，近半年内活跃项目 28 个，1 个团队， 15957 个 Star。
 
 语言 Top 3：Python, JavaScript, TypeScript
 
-统计时间：2025-01-01 08:07:45
+统计时间：2025-01-02 08:07:52
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -39,12 +39,12 @@
 | [ai-research-code](https://github.com/sony/ai-research-code) | None | Python | 350 | Apache License 2.0 | 2020-04-14 | 2024-12-30 | 2023-09-12 |
 | [nnabla-nas](https://github.com/sony/nnabla-nas) | Neural Architecture Search for Neural Network Libraries | Python | 58 | Apache License 2.0 | 2020-06-15 | 2024-11-27 | 2024-01-22 |
 | [micro-notifier](https://github.com/sony/micro-notifier) | Simplified Pusher Clone | Go | 12 | MIT License | 2020-09-06 | 2024-12-29 | 2023-05-05 |
-| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1229 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2024-12-28 | 2024-12-17 |
+| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1230 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2025-01-02 | 2024-12-17 |
 | [lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) | None | Python | 0 | MIT License | 2021-03-25 | 2021-05-13 | 2021-05-13 |
 | [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 120 | Apache License 2.0 | 2021-06-11 | 2024-11-26 | 2024-12-16 |
 | [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 92 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2024-12-27 | 2024-12-19 |
 | [model_optimization](https://github.com/sony/model_optimization) | Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks. | Python | 341 | Apache License 2.0 | 2021-06-21 | 2024-12-31 | 2025-01-01 |
-| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 478 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2024-12-23 | 2024-12-19 |
+| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 479 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2025-01-02 | 2024-12-19 |
 | [flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) | Flutter plugins for embedded Linux (eLinux) | C++ | 49 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2024-12-13 | 2024-12-13 |
 | [ds-research-code](https://github.com/sony/ds-research-code) | None | Python | 0 | - | 2021-07-19 | 2023-02-07 | 2023-01-30 |
 | [pyIEOE](https://github.com/sony/pyIEOE) | None | Python | 31 | MIT License | 2021-07-20 | 2024-06-20 | 2021-09-02 |
@@ -67,7 +67,7 @@
 | [ARCv2_Ghidra](https://github.com/sony/ARCv2_Ghidra) | None | None | 0 | Apache License 2.0 | 2023-04-26 | 2023-04-26 | 2023-04-26 |
 | [gibbsddrm](https://github.com/sony/gibbsddrm) | None | Python | 24 | MIT License | 2023-04-26 | 2024-11-17 | 2023-05-29 |
 | [fp-diffusion](https://github.com/sony/fp-diffusion) | None | Jupyter Notebook | 24 | Apache License 2.0 | 2023-04-26 | 2024-12-23 | 2024-02-14 |
-| [mct_quantizers](https://github.com/sony/mct_quantizers) | None | Python | 18 | Apache License 2.0 | 2023-05-09 | 2024-12-31 | 2024-12-31 |
+| [mct_quantizers](https://github.com/sony/mct_quantizers) | None | Python | 18 | Apache License 2.0 | 2023-05-09 | 2025-01-01 | 2025-01-01 |
 | [diffiner](https://github.com/sony/diffiner) | None | Python | 59 | MIT License | 2023-05-30 | 2024-11-09 | 2023-08-16 |
 | [hFT-Transformer](https://github.com/sony/hFT-Transformer) | Pytorch implementation of automatic music transcription method that uses a two-level hierarchical frequency-time Transformer architecture (hFT-Transformer). | Python | 92 | MIT License | 2023-06-26 | 2025-01-01 | 2023-07-11 |
 | [san](https://github.com/sony/san) | PyTorch implementation of slicing adversarial network (SAN) | Python | 93 | - | 2023-06-28 | 2024-12-15 | 2024-06-13 |
