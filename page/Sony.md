@@ -1,10 +1,10 @@
 # Sony
 
-共 82 个项目，近半年内活跃项目 28 个，1 个团队， 15999 个 Star。
+共 82 个项目，近半年内活跃项目 28 个，1 个团队， 16002 个 Star。
 
 语言 Top 3：Python, JavaScript, TypeScript
 
-统计时间：2025-01-08 08:07:53
+统计时间：2025-01-09 08:07:50
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -36,15 +36,15 @@
 | [nnabla-dataset-uploader](https://github.com/sony/nnabla-dataset-uploader) | None | Python | 0 | - | 2019-02-26 | 2019-03-15 | 2019-03-15 |
 | [appsync-client-go](https://github.com/sony/appsync-client-go) | AWS AppSync golang client library | Go | 54 | MIT License | 2019-03-16 | 2024-12-25 | 2024-12-25 |
 | [isren](https://github.com/sony/isren) | None | JavaScript | 8 | MIT License | 2020-01-07 | 2023-01-12 | 2021-05-17 |
-| [ai-research-code](https://github.com/sony/ai-research-code) | None | Python | 350 | Apache License 2.0 | 2020-04-14 | 2024-12-30 | 2023-09-12 |
+| [ai-research-code](https://github.com/sony/ai-research-code) | None | Python | 350 | Apache License 2.0 | 2020-04-14 | 2025-01-08 | 2023-09-12 |
 | [nnabla-nas](https://github.com/sony/nnabla-nas) | Neural Architecture Search for Neural Network Libraries | Python | 58 | Apache License 2.0 | 2020-06-15 | 2024-11-27 | 2024-01-22 |
 | [micro-notifier](https://github.com/sony/micro-notifier) | Simplified Pusher Clone | Go | 12 | MIT License | 2020-09-06 | 2024-12-29 | 2023-05-05 |
-| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1232 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2025-01-07 | 2024-12-17 |
+| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1233 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2025-01-08 | 2024-12-17 |
 | [lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) | None | Python | 0 | MIT License | 2021-03-25 | 2021-05-13 | 2021-05-13 |
 | [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 120 | Apache License 2.0 | 2021-06-11 | 2024-11-26 | 2024-12-16 |
 | [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 92 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2024-12-27 | 2024-12-19 |
-| [model_optimization](https://github.com/sony/model_optimization) | Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks. | Python | 342 | Apache License 2.0 | 2021-06-21 | 2025-01-06 | 2025-01-07 |
-| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 483 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2025-01-04 | 2024-12-19 |
+| [model_optimization](https://github.com/sony/model_optimization) | Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks. | Python | 342 | Apache License 2.0 | 2021-06-21 | 2025-01-08 | 2025-01-08 |
+| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 484 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2025-01-08 | 2024-12-19 |
 | [flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) | Flutter plugins for embedded Linux (eLinux) | C++ | 49 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2024-12-13 | 2024-12-13 |
 | [ds-research-code](https://github.com/sony/ds-research-code) | None | Python | 0 | - | 2021-07-19 | 2023-02-07 | 2023-01-30 |
 | [pyIEOE](https://github.com/sony/pyIEOE) | None | Python | 31 | MIT License | 2021-07-20 | 2024-06-20 | 2021-09-02 |
@@ -53,7 +53,7 @@
 | [nnabla-browser](https://github.com/sony/nnabla-browser) | Visualization toolkit for Neural Network Libraries | TypeScript | 9 | Apache License 2.0 | 2022-03-31 | 2024-07-06 | 2023-03-07 |
 | [sqvae](https://github.com/sony/sqvae) | Pytorch implementation of stochastically quantized variational autoencoder (SQ-VAE) | Python | 184 | Apache License 2.0 | 2022-05-26 | 2024-12-17 | 2022-07-20 |
 | [aibo-development-tutorial](https://github.com/sony/aibo-development-tutorial) | None | None | 7 | Other | 2022-06-28 | 2024-03-18 | 2022-06-30 |
-| [FxNorm-automix](https://github.com/sony/FxNorm-automix) | FxNorm-Automix - Implementation of automatic music mixing systems. We show how we can use wet music data and repurpose it to train a fully automatic mixing system | Python | 96 | MIT License | 2022-08-05 | 2024-12-25 | 2024-03-11 |
+| [FxNorm-automix](https://github.com/sony/FxNorm-automix) | FxNorm-Automix - Implementation of automatic music mixing systems. We show how we can use wet music data and repurpose it to train a fully automatic mixing system | Python | 97 | MIT License | 2022-08-05 | 2025-01-08 | 2024-03-11 |
 | [polar-densification](https://github.com/sony/polar-densification) | None | Python | 22 | MIT License | 2022-09-13 | 2024-11-20 | 2023-03-24 |
 | [nnabla-js](https://github.com/sony/nnabla-js) | None | TypeScript | 1 | Apache License 2.0 | 2022-09-16 | 2023-02-01 | 2023-01-13 |
 | [DiffRoll](https://github.com/sony/DiffRoll) | PyTorch implementation of DiffRoll, a diffusion-based generative automatic music transcription (AMT) model | Jupyter Notebook | 71 | MIT License | 2022-10-11 | 2024-10-13 | 2023-12-06 |
@@ -86,7 +86,7 @@
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 7 | MIT License | 2024-07-09 | 2025-01-05 | 2024-12-11 |
 | [genwarp](https://github.com/sony/genwarp) | None | Python | 245 | MIT License | 2024-08-06 | 2025-01-08 | 2024-09-26 |
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 31 | MIT License | 2024-09-05 | 2025-01-02 | 2024-11-05 |
-| [esstra](https://github.com/sony/esstra) | A software suite for enhancing software supply chain transparency | Python | 3 | Other | 2024-10-03 | 2024-12-20 | 2025-01-07 |
+| [esstra](https://github.com/sony/esstra) | A software suite for enhancing software supply chain transparency | Python | 3 | Other | 2024-10-03 | 2025-01-09 | 2025-01-09 |
 | [pagoda](https://github.com/sony/pagoda) | None | Python | 12 | MIT License | 2024-10-23 | 2025-01-06 | 2024-11-21 |
 | [okg](https://github.com/sony/okg) | Official Repo for the paper "OKG: On-the-fly Keyword Generation in Search Sponsered Advertising" (Coling'25) | Jupyter Notebook | 1 | Other | 2024-11-15 | 2024-12-06 | 2024-11-26 |
 | [openmu](https://github.com/sony/openmu) | None | Python | 6 | MIT License | 2024-11-27 | 2025-01-06 | 2024-12-26 |
