@@ -1,14 +1,14 @@
 # Buf
 
-共 59 个项目，近半年内活跃项目 48 个，1 个团队， 17483 个 Star。
+共 59 个项目，近半年内活跃项目 48 个，1 个团队， 17486 个 Star。
 
 语言 Top 3：Go, TypeScript, Makefile
 
-统计时间：2025-01-11 08:06:56
+统计时间：2025-01-12 08:07:11
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) | Protocol Buffer Validation - Being replaced by github.com/bufbuild/protovalidate | Go | 3836 | Apache License 2.0 | 2017-10-03 | 2025-01-10 | 2025-01-06 |
+| [protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) | Protocol Buffer Validation - Being replaced by github.com/bufbuild/protovalidate | Go | 3837 | Apache License 2.0 | 2017-10-03 | 2025-01-11 | 2025-01-06 |
 | [homebrew-buf](https://github.com/bufbuild/homebrew-buf) | Homebrew tap for Buf. | Shell | 12 | Apache License 2.0 | 2019-10-02 | 2025-01-07 | 2025-01-07 |
 | [buf](https://github.com/bufbuild/buf) | The best way of working with Protocol Buffers. | Go | 9400 | Apache License 2.0 | 2019-10-03 | 2025-01-11 | 2025-01-10 |
 | [vim-buf](https://github.com/bufbuild/vim-buf) | Vim integration for Buf. | Vim Script | 35 | Apache License 2.0 | 2019-10-03 | 2024-09-12 | 2025-01-07 |
@@ -23,7 +23,7 @@
 | [buf-tour](https://github.com/bufbuild/buf-tour) | None | Go | 49 | - | 2021-08-10 | 2024-11-19 | 2024-11-19 |
 | [rules_buf](https://github.com/bufbuild/rules_buf) | Bazel rules for Buf. | Starlark | 49 | Apache License 2.0 | 2021-11-16 | 2024-12-25 | 2024-12-12 |
 | [intellij-buf](https://github.com/bufbuild/intellij-buf) | IntelliJ plugin for Buf | Kotlin | 18 | Apache License 2.0 | 2022-03-08 | 2025-01-07 | 2025-01-07 |
-| [protobuf-es](https://github.com/bufbuild/protobuf-es) | Protocol Buffers for ECMAScript. The only JavaScript Protobuf library that is fully-compliant with Protobuf conformance tests. | TypeScript | 1196 | Apache License 2.0 | 2022-03-14 | 2025-01-10 | 2025-01-08 |
+| [protobuf-es](https://github.com/bufbuild/protobuf-es) | Protocol Buffers for ECMAScript. The only JavaScript Protobuf library that is fully-compliant with Protobuf conformance tests. | TypeScript | 1197 | Apache License 2.0 | 2022-03-14 | 2025-01-11 | 2025-01-08 |
 | [protocompile](https://github.com/bufbuild/protocompile) | A parsing/linking engine for protobuf; the guts for a pure Go replacement of protoc. | Go | 250 | Apache License 2.0 | 2022-08-11 | 2025-01-11 | 2025-01-10 |
 | [buf-language-server](https://github.com/bufbuild/buf-language-server) | Archived: LSP support is being built into the Buf CLI | Go | 126 | Apache License 2.0 | 2022-08-15 | 2024-09-26 | 2024-02-13 |
 | [plugins](https://github.com/bufbuild/plugins) | Remote Protobuf plugins available on the BSR | Dockerfile | 53 | Apache License 2.0 | 2022-08-16 | 2025-01-10 | 2025-01-10 |
@@ -44,7 +44,7 @@
 | [knit-ts](https://github.com/bufbuild/knit-ts) | TypeScript client for Knit | TypeScript | 26 | Apache License 2.0 | 2023-05-04 | 2024-10-12 | 2024-03-01 |
 | [protovalidate-cc](https://github.com/bufbuild/protovalidate-cc) | Protocol Buffer Validation for C++. | C++ | 18 | Apache License 2.0 | 2023-05-24 | 2024-12-20 | 2024-12-20 |
 | [protovalidate](https://github.com/bufbuild/protovalidate) | Protocol Buffer Validation - Go, Java, Python, and C++ Beta Releases! | Go | 985 | Apache License 2.0 | 2023-05-25 | 2025-01-10 | 2025-01-07 |
-| [protovalidate-go](https://github.com/bufbuild/protovalidate-go) | Protocol Buffer Validation for Go | Go | 311 | Apache License 2.0 | 2023-05-30 | 2025-01-08 | 2025-01-09 |
+| [protovalidate-go](https://github.com/bufbuild/protovalidate-go) | Protocol Buffer Validation for Go | Go | 312 | Apache License 2.0 | 2023-05-30 | 2025-01-12 | 2025-01-09 |
 | [httplb](https://github.com/bufbuild/httplb) | Client-side load balancing for net/http | Go | 50 | Apache License 2.0 | 2023-06-01 | 2024-12-03 | 2024-12-03 |
 | [protovalidate-python](https://github.com/bufbuild/protovalidate-python) | Protocol Buffer Validation for Python. | Python | 40 | Apache License 2.0 | 2023-06-01 | 2025-01-10 | 2025-01-07 |
 | [tree-sitter-cel](https://github.com/bufbuild/tree-sitter-cel) | Tree sitter grammar for the Common Expression Language (CEL) | C | 11 | Apache License 2.0 | 2023-06-23 | 2025-01-03 | 2024-02-13 |
