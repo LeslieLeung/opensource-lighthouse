@@ -1,15 +1,15 @@
 # Sony
 
-A total of 82 projects, 29 active projects in the last six months, 1 teams, and 16061 stars.
+A total of 82 projects, 28 active projects in the last six months, 1 teams, and 16065 stars.
 
 Top 3 Languages: Python, JavaScript, TypeScript
 
-Statistics Date: 2025-01-17 08:07:40
+Statistics Date: 2025-01-18 08:06:40
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3003 | MIT License | 2015-05-29 | 2025-01-14 | 2024-12-30 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 3997 | MIT License | 2015-05-29 | 2025-01-16 | 2024-10-13 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3004 | MIT License | 2015-05-29 | 2025-01-18 | 2024-12-30 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 3999 | MIT License | 2015-05-29 | 2025-01-18 | 2024-10-13 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 402 | MIT License | 2015-09-18 | 2024-12-27 | 2020-12-29 |
@@ -23,7 +23,7 @@ Statistics Date: 2025-01-17 08:07:40
 | [nnabla-ext-cuda](https://github.com/sony/nnabla-ext-cuda) | A CUDA Extension of Neural Network Libraries | Cuda | 92 | Apache License 2.0 | 2017-06-21 | 2024-06-20 | 2024-06-20 |
 | [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2735 | Apache License 2.0 | 2017-06-26 | 2025-01-13 | 2024-11-15 |
 | [easyhttpcpp](https://github.com/sony/easyhttpcpp) | A cross-platform HTTP client library with a focus on usability and speed | C++ | 163 | MIT License | 2017-08-09 | 2024-08-22 | 2022-01-31 |
-| [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 151 | Apache License 2.0 | 2017-09-07 | 2025-01-16 | 2025-01-07 |
+| [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 151 | Apache License 2.0 | 2017-09-07 | 2025-01-17 | 2025-01-17 |
 | [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 33 | Apache License 2.0 | 2017-09-07 | 2024-11-05 | 2024-03-19 |
 | [cdp-js](https://github.com/sony/cdp-js) | Libraries/SDK modules for multi-platform application development | TypeScript | 22 | Apache License 2.0 | 2017-10-10 | 2024-02-11 | 2018-05-10 |
 | [cdp-lib](https://github.com/sony/cdp-lib) | Application template/libraries for cdp-js (Details: see cdp-js repository) | JavaScript | 6 | Apache License 2.0 | 2017-10-10 | 2017-11-13 | 2018-02-23 |
@@ -59,7 +59,7 @@ Statistics Date: 2025-01-17 08:07:40
 | [DiffRoll](https://github.com/sony/DiffRoll) | PyTorch implementation of DiffRoll, a diffusion-based generative automatic music transcription (AMT) model | Jupyter Notebook | 72 | MIT License | 2022-10-11 | 2025-01-11 | 2023-12-06 |
 | [creativeai](https://github.com/sony/creativeai) | None | CSS | 66 | - | 2022-11-21 | 2024-12-24 | 2024-12-24 |
 | [NDJIR](https://github.com/sony/NDJIR) | NDJIR: Neural Direct and Joint Inverse Rendering for Geometry, Lights, and Materials of Real Object | Python | 45 | Apache License 2.0 | 2022-12-14 | 2025-01-07 | 2023-02-08 |
-| [CLIPSep](https://github.com/sony/CLIPSep) | None | Python | 36 | MIT License | 2023-01-24 | 2024-12-17 | 2023-02-21 |
+| [CLIPSep](https://github.com/sony/CLIPSep) | None | Python | 37 | MIT License | 2023-01-24 | 2025-01-18 | 2023-02-21 |
 | [audio-visual-seld-dcase2023](https://github.com/sony/audio-visual-seld-dcase2023) | Baseline method for audio-visual sound event localization and detection task of DCASE 2023 challenge | Python | 50 | MIT License | 2023-02-20 | 2025-01-15 | 2023-09-05 |
 | [evsCluster](https://github.com/sony/evsCluster) | Python scripts to process EVS (Event-based vision sensor) data | Python | 8 | Other | 2023-03-15 | 2025-01-16 | 2024-01-30 |
 | [Instruct3Dto3D-doc](https://github.com/sony/Instruct3Dto3D-doc) | Official documentation of Instruct 3D-to-3D | HTML | 2 | - | 2023-03-23 | 2024-10-31 | 2024-10-31 |
