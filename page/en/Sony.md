@@ -1,15 +1,15 @@
 # Sony
 
-A total of 82 projects, 28 active projects in the last six months, 1 teams, and 16068 stars.
+A total of 82 projects, 28 active projects in the last six months, 1 teams, and 16072 stars.
 
 Top 3 Languages: Python, JavaScript, TypeScript
 
-Statistics Date: 2025-01-19 08:06:51
+Statistics Date: 2025-01-20 08:08:22
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3005 | MIT License | 2015-05-29 | 2025-01-18 | 2024-12-30 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 3999 | MIT License | 2015-05-29 | 2025-01-19 | 2024-10-13 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4002 | MIT License | 2015-05-29 | 2025-01-20 | 2024-10-13 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 402 | MIT License | 2015-09-18 | 2024-12-27 | 2020-12-29 |
@@ -69,7 +69,7 @@ Statistics Date: 2025-01-19 08:06:51
 | [fp-diffusion](https://github.com/sony/fp-diffusion) | None | Jupyter Notebook | 25 | Apache License 2.0 | 2023-04-26 | 2025-01-06 | 2024-02-14 |
 | [mct_quantizers](https://github.com/sony/mct_quantizers) | None | Python | 18 | Apache License 2.0 | 2023-05-09 | 2025-01-15 | 2025-01-15 |
 | [diffiner](https://github.com/sony/diffiner) | None | Python | 60 | MIT License | 2023-05-30 | 2025-01-07 | 2023-08-16 |
-| [hFT-Transformer](https://github.com/sony/hFT-Transformer) | Pytorch implementation of automatic music transcription method that uses a two-level hierarchical frequency-time Transformer architecture (hFT-Transformer). | Python | 96 | MIT License | 2023-06-26 | 2025-01-08 | 2023-07-11 |
+| [hFT-Transformer](https://github.com/sony/hFT-Transformer) | Pytorch implementation of automatic music transcription method that uses a two-level hierarchical frequency-time Transformer architecture (hFT-Transformer). | Python | 97 | MIT License | 2023-06-26 | 2025-01-19 | 2023-07-11 |
 | [san](https://github.com/sony/san) | PyTorch implementation of slicing adversarial network (SAN) | Python | 95 | - | 2023-06-28 | 2025-01-17 | 2024-06-13 |
 | [bigvsan](https://github.com/sony/bigvsan) | Pytorch implementation of BigVSAN | Python | 201 | MIT License | 2023-09-01 | 2024-12-15 | 2024-03-23 |
 | [bigvsan_eval](https://github.com/sony/bigvsan_eval) | Evaluation tool used in the BigVSAN paper | Python | 10 | MIT License | 2023-09-01 | 2024-11-25 | 2024-03-22 |
