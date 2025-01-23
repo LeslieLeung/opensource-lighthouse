@@ -1,15 +1,15 @@
 # Sony
 
-A total of 82 projects, 28 active projects in the last six months, 1 teams, and 16084 stars.
+A total of 82 projects, 28 active projects in the last six months, 1 teams, and 16090 stars.
 
 Top 3 Languages: Python, JavaScript, TypeScript
 
-Statistics Date: 2025-01-22 08:07:55
+Statistics Date: 2025-01-23 08:08:10
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3008 | MIT License | 2015-05-29 | 2025-01-22 | 2024-12-30 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4008 | MIT License | 2015-05-29 | 2025-01-22 | 2024-10-13 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3009 | MIT License | 2015-05-29 | 2025-01-22 | 2024-12-30 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4009 | MIT License | 2015-05-29 | 2025-01-23 | 2024-10-13 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 402 | MIT License | 2015-09-18 | 2024-12-27 | 2020-12-29 |
@@ -39,13 +39,13 @@ Statistics Date: 2025-01-22 08:07:55
 | [ai-research-code](https://github.com/sony/ai-research-code) | None | Python | 350 | Apache License 2.0 | 2020-04-14 | 2025-01-08 | 2023-09-12 |
 | [nnabla-nas](https://github.com/sony/nnabla-nas) | Neural Architecture Search for Neural Network Libraries | Python | 58 | Apache License 2.0 | 2020-06-15 | 2024-11-27 | 2024-01-22 |
 | [micro-notifier](https://github.com/sony/micro-notifier) | Simplified Pusher Clone | Go | 12 | MIT License | 2020-09-06 | 2024-12-29 | 2023-05-05 |
-| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1239 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2025-01-17 | 2025-01-14 |
+| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1240 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2025-01-22 | 2025-01-14 |
 | [lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) | None | Python | 0 | MIT License | 2021-03-25 | 2021-05-13 | 2021-05-13 |
 | [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 121 | Apache License 2.0 | 2021-06-11 | 2025-01-21 | 2024-12-16 |
 | [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 95 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2025-01-10 | 2024-12-19 |
 | [model_optimization](https://github.com/sony/model_optimization) | Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks. | Python | 347 | Apache License 2.0 | 2021-06-21 | 2025-01-22 | 2025-01-22 |
-| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 487 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2025-01-17 | 2024-12-19 |
-| [flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) | Flutter plugins for embedded Linux (eLinux) | C++ | 52 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2025-01-17 | 2024-12-13 |
+| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 488 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2025-01-22 | 2024-12-19 |
+| [flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) | Flutter plugins for embedded Linux (eLinux) | C++ | 53 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2025-01-22 | 2024-12-13 |
 | [ds-research-code](https://github.com/sony/ds-research-code) | None | Python | 0 | - | 2021-07-19 | 2023-02-07 | 2023-01-30 |
 | [pyIEOE](https://github.com/sony/pyIEOE) | None | Python | 31 | MIT License | 2021-07-20 | 2024-06-20 | 2021-09-02 |
 | [nnc-plugin](https://github.com/sony/nnc-plugin) | Plugins for Neural Network Console (https://dl.sony.com/). | Python | 16 | Apache License 2.0 | 2021-08-05 | 2024-12-29 | 2024-12-13 |
@@ -56,8 +56,8 @@ Statistics Date: 2025-01-22 08:07:55
 | [FxNorm-automix](https://github.com/sony/FxNorm-automix) | FxNorm-Automix - Implementation of automatic music mixing systems. We show how we can use wet music data and repurpose it to train a fully automatic mixing system | Python | 100 | MIT License | 2022-08-05 | 2025-01-18 | 2024-03-11 |
 | [polar-densification](https://github.com/sony/polar-densification) | None | Python | 22 | MIT License | 2022-09-13 | 2024-11-20 | 2023-03-24 |
 | [nnabla-js](https://github.com/sony/nnabla-js) | None | TypeScript | 1 | Apache License 2.0 | 2022-09-16 | 2023-02-01 | 2023-01-13 |
-| [DiffRoll](https://github.com/sony/DiffRoll) | PyTorch implementation of DiffRoll, a diffusion-based generative automatic music transcription (AMT) model | Jupyter Notebook | 72 | MIT License | 2022-10-11 | 2025-01-11 | 2023-12-06 |
-| [creativeai](https://github.com/sony/creativeai) | None | CSS | 66 | - | 2022-11-21 | 2024-12-24 | 2024-12-24 |
+| [DiffRoll](https://github.com/sony/DiffRoll) | PyTorch implementation of DiffRoll, a diffusion-based generative automatic music transcription (AMT) model | Jupyter Notebook | 73 | MIT License | 2022-10-11 | 2025-01-23 | 2023-12-06 |
+| [creativeai](https://github.com/sony/creativeai) | None | CSS | 66 | - | 2022-11-21 | 2025-01-23 | 2025-01-23 |
 | [NDJIR](https://github.com/sony/NDJIR) | NDJIR: Neural Direct and Joint Inverse Rendering for Geometry, Lights, and Materials of Real Object | Python | 45 | Apache License 2.0 | 2022-12-14 | 2025-01-07 | 2023-02-08 |
 | [CLIPSep](https://github.com/sony/CLIPSep) | None | Python | 37 | MIT License | 2023-01-24 | 2025-01-18 | 2023-02-21 |
 | [audio-visual-seld-dcase2023](https://github.com/sony/audio-visual-seld-dcase2023) | Baseline method for audio-visual sound event localization and detection task of DCASE 2023 challenge | Python | 50 | MIT License | 2023-02-20 | 2025-01-15 | 2023-09-05 |
@@ -86,7 +86,7 @@ Statistics Date: 2025-01-22 08:07:55
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 7 | MIT License | 2024-07-09 | 2025-01-05 | 2024-12-11 |
 | [genwarp](https://github.com/sony/genwarp) | None | Python | 250 | MIT License | 2024-08-06 | 2025-01-20 | 2024-09-26 |
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 33 | MIT License | 2024-09-05 | 2025-01-21 | 2024-11-05 |
-| [esstra](https://github.com/sony/esstra) | A software suite for enhancing software supply chain transparency | Python | 4 | Other | 2024-10-03 | 2025-01-21 | 2025-01-15 |
+| [esstra](https://github.com/sony/esstra) | A software suite for enhancing software supply chain transparency | Python | 4 | Other | 2024-10-03 | 2025-01-21 | 2025-01-23 |
 | [pagoda](https://github.com/sony/pagoda) | None | Python | 12 | MIT License | 2024-10-23 | 2025-01-06 | 2024-11-21 |
 | [okg](https://github.com/sony/okg) | Official Repo for the paper "OKG: On-the-fly Keyword Generation in Search Sponsered Advertising" (Coling'25) | Jupyter Notebook | 1 | Other | 2024-11-15 | 2024-12-06 | 2024-11-26 |
 | [openmu](https://github.com/sony/openmu) | None | Python | 6 | MIT License | 2024-11-27 | 2025-01-13 | 2024-12-26 |
