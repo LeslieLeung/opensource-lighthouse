@@ -1,14 +1,14 @@
 # Sony
 
-共 82 个项目，近半年内活跃项目 28 个，1 个团队， 16098 个 Star。
+共 82 个项目，近半年内活跃项目 28 个，1 个团队， 16100 个 Star。
 
 语言 Top 3：Python, JavaScript, TypeScript
 
-统计时间：2025-01-25 08:06:44
+统计时间：2025-01-26 08:06:57
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3012 | MIT License | 2015-05-29 | 2025-01-23 | 2024-12-30 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3013 | MIT License | 2015-05-29 | 2025-01-25 | 2024-12-30 |
 | [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4009 | MIT License | 2015-05-29 | 2025-01-24 | 2024-10-13 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
@@ -82,7 +82,7 @@
 | [NeISF](https://github.com/sony/NeISF) | None | Python | 9 | Other | 2024-06-04 | 2024-11-29 | 2024-11-04 |
 | [nnc-desktop](https://github.com/sony/nnc-desktop) | None | TypeScript | 14 | Apache License 2.0 | 2024-06-04 | 2024-12-29 | 2024-12-18 |
 | [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 75 | MIT License | 2024-06-04 | 2024-12-18 | 2024-12-04 |
-| [silentcipher](https://github.com/sony/silentcipher) | None | Python | 23 | MIT License | 2024-06-05 | 2024-12-16 | 2024-07-22 |
+| [silentcipher](https://github.com/sony/silentcipher) | None | Python | 24 | MIT License | 2024-06-05 | 2025-01-25 | 2024-07-22 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 7 | MIT License | 2024-07-09 | 2025-01-05 | 2024-12-11 |
 | [genwarp](https://github.com/sony/genwarp) | None | Python | 251 | MIT License | 2024-08-06 | 2025-01-23 | 2024-09-26 |
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 33 | MIT License | 2024-09-05 | 2025-01-21 | 2024-11-05 |
