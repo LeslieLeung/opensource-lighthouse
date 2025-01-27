@@ -1,10 +1,10 @@
 # Sony
 
-A total of 82 projects, 28 active projects in the last six months, 1 teams, and 16100 stars.
+A total of 82 projects, 28 active projects in the last six months, 1 teams, and 16102 stars.
 
 Top 3 Languages: Python, JavaScript, TypeScript
 
-Statistics Date: 2025-01-26 08:06:57
+Statistics Date: 2025-01-27 08:08:40
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -43,7 +43,7 @@ Statistics Date: 2025-01-26 08:06:57
 | [lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) | None | Python | 0 | MIT License | 2021-03-25 | 2021-05-13 | 2021-05-13 |
 | [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 121 | Apache License 2.0 | 2021-06-11 | 2025-01-21 | 2024-12-16 |
 | [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 95 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2025-01-10 | 2024-12-19 |
-| [model_optimization](https://github.com/sony/model_optimization) | Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks. | Python | 347 | Apache License 2.0 | 2021-06-21 | 2025-01-22 | 2025-01-22 |
+| [model_optimization](https://github.com/sony/model_optimization) | Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks. | Python | 347 | Apache License 2.0 | 2021-06-21 | 2025-01-22 | 2025-01-26 |
 | [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 488 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2025-01-22 | 2024-12-19 |
 | [flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) | Flutter plugins for embedded Linux (eLinux) | C++ | 53 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2025-01-22 | 2024-12-13 |
 | [ds-research-code](https://github.com/sony/ds-research-code) | None | Python | 0 | - | 2021-07-19 | 2023-02-07 | 2023-01-30 |
@@ -75,18 +75,18 @@ Statistics Date: 2025-01-26 08:06:57
 | [bigvsan_eval](https://github.com/sony/bigvsan_eval) | Evaluation tool used in the BigVSAN paper | Python | 10 | MIT License | 2023-09-01 | 2024-11-25 | 2024-03-22 |
 | [timbre-trap](https://github.com/sony/timbre-trap) | Code for the paper "Timbre-Trap: A Low-Resource Framework for Instrument-Agnostic Music Transcription" | Python | 36 | MIT License | 2023-09-12 | 2024-12-19 | 2024-05-05 |
 | [custom_layers](https://github.com/sony/custom_layers) | None | Python | 8 | Apache License 2.0 | 2023-09-21 | 2025-01-15 | 2025-01-15 |
-| [ctm](https://github.com/sony/ctm) | None | Python | 259 | - | 2023-10-10 | 2025-01-21 | 2024-10-10 |
+| [ctm](https://github.com/sony/ctm) | None | Python | 260 | - | 2023-10-10 | 2025-01-26 | 2024-10-10 |
 | [SR-Display-Plugin-Preview-BL](https://github.com/sony/SR-Display-Plugin-Preview-BL) | None | Python | 4 | MIT License | 2023-12-13 | 2024-08-17 | 2024-05-24 |
 | [pyAutoPort](https://github.com/sony/pyAutoPort) | None | Python | 5 | BSD 3-Clause "New" or "Revised" License | 2023-12-13 | 2025-01-16 | 2025-01-16 |
 | [SR-Display-Plugin-Preview-ZB](https://github.com/sony/SR-Display-Plugin-Preview-ZB) | None | None | 1 | MIT License | 2024-02-19 | 2024-02-19 | 2024-02-19 |
 | [NeISF](https://github.com/sony/NeISF) | None | Python | 9 | Other | 2024-06-04 | 2024-11-29 | 2024-11-04 |
 | [nnc-desktop](https://github.com/sony/nnc-desktop) | None | TypeScript | 14 | Apache License 2.0 | 2024-06-04 | 2024-12-29 | 2024-12-18 |
-| [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 75 | MIT License | 2024-06-04 | 2024-12-18 | 2024-12-04 |
+| [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 76 | MIT License | 2024-06-04 | 2025-01-26 | 2024-12-04 |
 | [silentcipher](https://github.com/sony/silentcipher) | None | Python | 24 | MIT License | 2024-06-05 | 2025-01-25 | 2024-07-22 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 7 | MIT License | 2024-07-09 | 2025-01-05 | 2024-12-11 |
 | [genwarp](https://github.com/sony/genwarp) | None | Python | 251 | MIT License | 2024-08-06 | 2025-01-23 | 2024-09-26 |
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 33 | MIT License | 2024-09-05 | 2025-01-21 | 2024-11-05 |
-| [esstra](https://github.com/sony/esstra) | A software suite for enhancing software supply chain transparency | Python | 4 | Other | 2024-10-03 | 2025-01-21 | 2025-01-23 |
+| [esstra](https://github.com/sony/esstra) | A software suite for enhancing software supply chain transparency | Python | 4 | Other | 2024-10-03 | 2025-01-27 | 2025-01-27 |
 | [pagoda](https://github.com/sony/pagoda) | None | Python | 15 | MIT License | 2024-10-23 | 2025-01-24 | 2024-11-21 |
 | [okg](https://github.com/sony/okg) | Official Repo for the paper "OKG: On-the-fly Keyword Generation in Search Sponsered Advertising" (Coling'25) | Jupyter Notebook | 1 | Other | 2024-11-15 | 2024-12-06 | 2024-11-26 |
 | [openmu](https://github.com/sony/openmu) | None | Python | 6 | MIT License | 2024-11-27 | 2025-01-13 | 2024-12-26 |
