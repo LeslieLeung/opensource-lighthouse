@@ -1,10 +1,10 @@
 # Sony
 
-A total of 82 projects, 28 active projects in the last six months, 1 teams, and 16106 stars.
+A total of 82 projects, 28 active projects in the last six months, 1 teams, and 16108 stars.
 
 Top 3 Languages: Python, JavaScript, TypeScript
 
-Statistics Date: 2025-01-28 08:07:51
+Statistics Date: 2025-01-29 08:07:45
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -23,7 +23,7 @@ Statistics Date: 2025-01-28 08:07:51
 | [nnabla-ext-cuda](https://github.com/sony/nnabla-ext-cuda) | A CUDA Extension of Neural Network Libraries | Cuda | 92 | Apache License 2.0 | 2017-06-21 | 2024-06-20 | 2024-06-20 |
 | [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2736 | Apache License 2.0 | 2017-06-26 | 2025-01-24 | 2024-11-15 |
 | [easyhttpcpp](https://github.com/sony/easyhttpcpp) | A cross-platform HTTP client library with a focus on usability and speed | C++ | 163 | MIT License | 2017-08-09 | 2024-08-22 | 2022-01-31 |
-| [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 151 | Apache License 2.0 | 2017-09-07 | 2025-01-17 | 2025-01-17 |
+| [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 152 | Apache License 2.0 | 2017-09-07 | 2025-01-28 | 2025-01-17 |
 | [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 33 | Apache License 2.0 | 2017-09-07 | 2024-11-05 | 2024-03-19 |
 | [cdp-js](https://github.com/sony/cdp-js) | Libraries/SDK modules for multi-platform application development | TypeScript | 22 | Apache License 2.0 | 2017-10-10 | 2024-02-11 | 2018-05-10 |
 | [cdp-lib](https://github.com/sony/cdp-lib) | Application template/libraries for cdp-js (Details: see cdp-js repository) | JavaScript | 6 | Apache License 2.0 | 2017-10-10 | 2017-11-13 | 2018-02-23 |
@@ -83,10 +83,10 @@ Statistics Date: 2025-01-28 08:07:51
 | [nnc-desktop](https://github.com/sony/nnc-desktop) | None | TypeScript | 14 | Apache License 2.0 | 2024-06-04 | 2024-12-29 | 2024-12-18 |
 | [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 76 | MIT License | 2024-06-04 | 2025-01-26 | 2024-12-04 |
 | [silentcipher](https://github.com/sony/silentcipher) | None | Python | 24 | MIT License | 2024-06-05 | 2025-01-25 | 2024-07-22 |
-| [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 7 | MIT License | 2024-07-09 | 2025-01-05 | 2024-12-11 |
+| [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 8 | MIT License | 2024-07-09 | 2025-01-28 | 2024-12-11 |
 | [genwarp](https://github.com/sony/genwarp) | None | Python | 251 | MIT License | 2024-08-06 | 2025-01-23 | 2024-09-26 |
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 33 | MIT License | 2024-09-05 | 2025-01-21 | 2024-11-05 |
 | [esstra](https://github.com/sony/esstra) | A software suite for enhancing software supply chain transparency | Python | 4 | Other | 2024-10-03 | 2025-01-27 | 2025-01-27 |
 | [pagoda](https://github.com/sony/pagoda) | None | Python | 15 | MIT License | 2024-10-23 | 2025-01-24 | 2024-11-21 |
-| [okg](https://github.com/sony/okg) | Official Repo for the paper "OKG: On-the-fly Keyword Generation in Search Sponsered Advertising" (Coling'25) | Jupyter Notebook | 1 | Other | 2024-11-15 | 2024-12-06 | 2024-11-26 |
+| [okg](https://github.com/sony/okg) | Official Repo for the paper "OKG: On-the-fly Keyword Generation in Search Sponsered Advertising" (Coling'25) | Jupyter Notebook | 1 | Other | 2024-11-15 | 2025-01-28 | 2025-01-28 |
 | [openmu](https://github.com/sony/openmu) | None | Python | 6 | MIT License | 2024-11-27 | 2025-01-13 | 2024-12-26 |
