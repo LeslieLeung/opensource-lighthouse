@@ -1,15 +1,15 @@
 # Sony
 
-A total of 82 projects, 28 active projects in the last six months, 1 teams, and 16108 stars.
+A total of 83 projects, 29 active projects in the last six months, 1 teams, and 16113 stars.
 
-Top 3 Languages: Python, JavaScript, TypeScript
+Top 3 Languages: Python, TypeScript, JavaScript
 
-Statistics Date: 2025-01-29 08:07:45
+Statistics Date: 2025-01-30 08:07:48
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3014 | MIT License | 2015-05-29 | 2025-01-27 | 2024-12-30 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4010 | MIT License | 2015-05-29 | 2025-01-27 | 2024-10-13 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4012 | MIT License | 2015-05-29 | 2025-01-29 | 2024-10-13 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 402 | MIT License | 2015-09-18 | 2024-12-27 | 2020-12-29 |
@@ -90,3 +90,4 @@ Statistics Date: 2025-01-29 08:07:45
 | [pagoda](https://github.com/sony/pagoda) | None | Python | 15 | MIT License | 2024-10-23 | 2025-01-24 | 2024-11-21 |
 | [okg](https://github.com/sony/okg) | Official Repo for the paper "OKG: On-the-fly Keyword Generation in Search Sponsered Advertising" (Coling'25) | Jupyter Notebook | 1 | Other | 2024-11-15 | 2025-01-28 | 2025-01-28 |
 | [openmu](https://github.com/sony/openmu) | None | Python | 6 | MIT License | 2024-11-27 | 2025-01-13 | 2024-12-26 |
+| [stamp](https://github.com/sony/stamp) | None | TypeScript | 3 | MIT License | 2025-01-20 | 2025-01-30 | 2025-01-30 |
