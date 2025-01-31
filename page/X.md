@@ -1,10 +1,10 @@
 # X
 
-共 101 个项目，近半年内活跃项目 11 个，1 个团队， 204260 个 Star。
+共 101 个项目，近半年内活跃项目 11 个，1 个团队， 204263 个 Star。
 
 语言 Top 3：Scala, Java, Python
 
-统计时间：2025-01-30 08:07:48
+统计时间：2025-01-31 08:07:30
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -62,7 +62,7 @@
 | [labella.js](https://github.com/twitter/labella.js) | Placing labels on a timeline without overlap. | JavaScript | 3883 | Apache License 2.0 | 2015-06-04 | 2025-01-08 | 2023-04-10 |
 | [pelikan](https://github.com/twitter/pelikan) | Pelikan is Twitter's unified cache backend | C | 1947 | Apache License 2.0 | 2015-09-20 | 2025-01-22 | 2023-10-11 |
 | [ccommon](https://github.com/twitter/ccommon) | Cache Commons | C | 101 | Apache License 2.0 | 2015-09-23 | 2025-01-23 | 2022-09-29 |
-| [rpc-perf](https://github.com/twitter/rpc-perf) | A tool for benchmarking RPC services | Rust | 464 | Apache License 2.0 | 2015-11-24 | 2025-01-10 | 2023-04-03 |
+| [rpc-perf](https://github.com/twitter/rpc-perf) | A tool for benchmarking RPC services | Rust | 465 | Apache License 2.0 | 2015-11-24 | 2025-01-31 | 2023-04-03 |
 | [scoot](https://github.com/twitter/scoot) | Scoot is a distributed task runner, supporting both a proprietary API and Bazel's Remote Execution. | Go | 353 | Apache License 2.0 | 2015-12-21 | 2025-01-19 | 2023-04-10 |
 | [second-control-probability-distributions](https://github.com/twitter/second-control-probability-distributions) | None | None | 6 | Apache License 2.0 | 2016-01-05 | 2025-01-08 | 2021-05-06 |
 | [GraphJet](https://github.com/twitter/GraphJet) | GraphJet is a real-time graph processing library. | Java | 722 | Apache License 2.0 | 2016-03-07 | 2025-01-19 | 2023-04-10 |
@@ -94,7 +94,7 @@
 | [dict_minimize](https://github.com/twitter/dict_minimize) | Access scipy optimizers from your favorite deep learning framework. | Python | 80 | Apache License 2.0 | 2020-08-04 | 2025-01-08 | 2023-06-30 |
 | [cache-trace](https://github.com/twitter/cache-trace) | A collection of Twitter's anonymized production cache traces. | Shell | 180 | Creative Commons Attribution 4.0 International | 2020-08-28 | 2025-01-21 | 2021-12-13 |
 | [bazel-multiversion](https://github.com/twitter/bazel-multiversion) | Bazel rules to resolve, fetch and manage 3rdparty JVM dependencies with support for multiple parallel versions of the same dependency. Powered by Coursier.  | Scala | 49 | Apache License 2.0 | 2020-10-04 | 2025-01-08 | 2023-06-01 |
-| [TwitterTextEditor](https://github.com/twitter/TwitterTextEditor) | A standalone, flexible API that provides a full-featured rich text editor for iOS applications. | Swift | 2993 | Apache License 2.0 | 2020-10-22 | 2025-01-28 | 2023-04-10 |
+| [TwitterTextEditor](https://github.com/twitter/TwitterTextEditor) | A standalone, flexible API that provides a full-featured rich text editor for iOS applications. | Swift | 2994 | Apache License 2.0 | 2020-10-22 | 2025-01-30 | 2023-04-10 |
 | [ios-twitter-apache-thrift](https://github.com/twitter/ios-twitter-apache-thrift) | A thrift encoding and decoding library for Swift | Swift | 44 | Apache License 2.0 | 2020-12-03 | 2025-01-08 | 2022-02-04 |
 | [check-my-repo](https://github.com/twitter/check-my-repo) | Automatically check repositories health and quality and build reports that help us understand the current state of Sauce Labs repositories | Vue | 12 | MIT License | 2021-01-21 | 2025-01-08 | 2023-04-10 |
 | [communitynotes](https://github.com/twitter/communitynotes) | Documentation and source code powering Twitter's Community Notes | Python | 1578 | Apache License 2.0 | 2021-01-25 | 2025-01-30 | 2025-01-22 |
@@ -106,6 +106,6 @@
 | [diffusion-rl](https://github.com/twitter/diffusion-rl) | None | Python | 75 | Apache License 2.0 | 2022-08-09 | 2025-01-08 | 2022-12-09 |
 | [focus](https://github.com/twitter/focus) | Focus aligns Git worktree content based on outlines of a repository's Bazel build graph. Focused repos are sparse, shallow, and thin and unlock markedly better performance in large repos. | Rust | 102 | Apache License 2.0 | 2022-08-30 | 2025-01-21 | 2023-05-12 |
 | [birdwatch](https://github.com/twitter/birdwatch) | None | None | 68 | - | 2022-11-06 | 2025-01-08 | 2023-04-03 |
-| [the-algorithm](https://github.com/twitter/the-algorithm) | Source code for Twitter's Recommendation Algorithm | Scala | 62841 | GNU Affero General Public License v3.0 | 2023-03-27 | 2025-01-30 | 2024-07-10 |
-| [the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) | Source code for Twitter's Recommendation Algorithm | Python | 10180 | GNU Affero General Public License v3.0 | 2023-03-27 | 2025-01-28 | 2024-07-10 |
+| [the-algorithm](https://github.com/twitter/the-algorithm) | Source code for Twitter's Recommendation Algorithm | Scala | 62843 | GNU Affero General Public License v3.0 | 2023-03-27 | 2025-01-30 | 2024-07-10 |
+| [the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) | Source code for Twitter's Recommendation Algorithm | Python | 10179 | GNU Affero General Public License v3.0 | 2023-03-27 | 2025-01-30 | 2024-07-10 |
 | [stitch](https://github.com/twitter/stitch) | None | Scala | 104 | Apache License 2.0 | 2024-11-05 | 2025-01-26 | 2024-11-07 |

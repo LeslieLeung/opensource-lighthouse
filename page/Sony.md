@@ -1,10 +1,10 @@
 # Sony
 
-共 83 个项目，近半年内活跃项目 29 个，1 个团队， 16113 个 Star。
+共 84 个项目，近半年内活跃项目 30 个，1 个团队， 16118 个 Star。
 
 语言 Top 3：Python, TypeScript, JavaScript
 
-统计时间：2025-01-30 08:07:48
+统计时间：2025-01-31 08:07:30
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -21,14 +21,14 @@
 | [smarttennissensorsdk](https://github.com/sony/smarttennissensorsdk) | The Smart Tennis Sensor plugs into the end of a tennis racket and records data about all the shots you make throughout a game or practice. With the SDK, you can develop apps for analyzing and presenting that data in real-time. | Java | 8 | Apache License 2.0 | 2016-08-30 | 2024-07-29 | 2017-02-10 |
 | [openocd-nuttx](https://github.com/sony/openocd-nuttx) | Fork of OpenOCD with NuttX thread support. | C | 24 | GNU General Public License v2.0 | 2016-10-18 | 2024-06-08 | 2019-01-21 |
 | [nnabla-ext-cuda](https://github.com/sony/nnabla-ext-cuda) | A CUDA Extension of Neural Network Libraries | Cuda | 92 | Apache License 2.0 | 2017-06-21 | 2024-06-20 | 2024-06-20 |
-| [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2736 | Apache License 2.0 | 2017-06-26 | 2025-01-24 | 2024-11-15 |
+| [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2737 | Apache License 2.0 | 2017-06-26 | 2025-01-30 | 2024-11-15 |
 | [easyhttpcpp](https://github.com/sony/easyhttpcpp) | A cross-platform HTTP client library with a focus on usability and speed | C++ | 163 | MIT License | 2017-08-09 | 2024-08-22 | 2022-01-31 |
 | [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 152 | Apache License 2.0 | 2017-09-07 | 2025-01-28 | 2025-01-17 |
 | [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 33 | Apache License 2.0 | 2017-09-07 | 2024-11-05 | 2024-03-19 |
 | [cdp-js](https://github.com/sony/cdp-js) | Libraries/SDK modules for multi-platform application development | TypeScript | 22 | Apache License 2.0 | 2017-10-10 | 2024-02-11 | 2018-05-10 |
 | [cdp-lib](https://github.com/sony/cdp-lib) | Application template/libraries for cdp-js (Details: see cdp-js repository) | JavaScript | 6 | Apache License 2.0 | 2017-10-10 | 2017-11-13 | 2018-02-23 |
 | [cdp-cli](https://github.com/sony/cdp-cli) | Command line tools for generating start point of multi-platform application development (Details: see cdp-js repository) | HTML | 7 | Apache License 2.0 | 2017-10-10 | 2020-12-13 | 2018-07-13 |
-| [nnabla-examples](https://github.com/sony/nnabla-examples) | Neural Network Libraries https://nnabla.org/ - Examples | Python | 306 | Apache License 2.0 | 2017-11-05 | 2024-11-08 | 2024-06-24 |
+| [nnabla-examples](https://github.com/sony/nnabla-examples) | Neural Network Libraries https://nnabla.org/ - Examples | Python | 307 | Apache License 2.0 | 2017-11-05 | 2025-01-30 | 2024-06-24 |
 | [nnabla-c-runtime](https://github.com/sony/nnabla-c-runtime) | Neural Network Libraries https://nnabla.org/ - C Runtime | C | 53 | Apache License 2.0 | 2018-06-26 | 2025-01-21 | 2024-07-04 |
 | [mapray-js](https://github.com/sony/mapray-js) | JavaScript library for Interactive high quality 3D globes and maps in the browser | TypeScript | 141 | Apache License 2.0 | 2019-01-28 | 2024-11-05 | 2024-06-18 |
 | [typescript-fsa-redux-middleware](https://github.com/sony/typescript-fsa-redux-middleware) | Fluent syntax for defining typesafe Redux vanilla middlewares on top of typescript-fsa. | TypeScript | 10 | MIT License | 2019-01-29 | 2024-05-16 | 2020-01-24 |
@@ -89,5 +89,6 @@
 | [esstra](https://github.com/sony/esstra) | A software suite for enhancing software supply chain transparency | Python | 4 | Other | 2024-10-03 | 2025-01-27 | 2025-01-27 |
 | [pagoda](https://github.com/sony/pagoda) | None | Python | 15 | MIT License | 2024-10-23 | 2025-01-24 | 2024-11-21 |
 | [okg](https://github.com/sony/okg) | Official Repo for the paper "OKG: On-the-fly Keyword Generation in Search Sponsered Advertising" (Coling'25) | Jupyter Notebook | 1 | Other | 2024-11-15 | 2025-01-28 | 2025-01-28 |
+| [dual-pixel-disparity](https://github.com/sony/dual-pixel-disparity) | None | Python | 0 | MIT License | 2024-11-19 | 2025-01-31 | 2025-01-29 |
 | [openmu](https://github.com/sony/openmu) | None | Python | 6 | MIT License | 2024-11-27 | 2025-01-13 | 2024-12-26 |
-| [stamp](https://github.com/sony/stamp) | None | TypeScript | 3 | MIT License | 2025-01-20 | 2025-01-30 | 2025-01-30 |
+| [stamp](https://github.com/sony/stamp) | None | TypeScript | 6 | MIT License | 2025-01-20 | 2025-01-30 | 2025-01-30 |
