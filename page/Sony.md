@@ -1,14 +1,14 @@
 # Sony
 
-共 86 个项目，近半年内活跃项目 32 个，1 个团队， 16136 个 Star。
+共 86 个项目，近半年内活跃项目 32 个，1 个团队， 16139 个 Star。
 
 语言 Top 3：Python, TypeScript, JavaScript
 
-统计时间：2025-02-04 08:08:11
+统计时间：2025-02-05 08:07:55
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3017 | MIT License | 2015-05-29 | 2025-02-04 | 2024-12-30 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3020 | MIT License | 2015-05-29 | 2025-02-05 | 2024-12-30 |
 | [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4012 | MIT License | 2015-05-29 | 2025-02-02 | 2024-10-13 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
@@ -57,7 +57,7 @@
 | [polar-densification](https://github.com/sony/polar-densification) | None | Python | 22 | MIT License | 2022-09-13 | 2024-11-20 | 2023-03-24 |
 | [nnabla-js](https://github.com/sony/nnabla-js) | None | TypeScript | 1 | Apache License 2.0 | 2022-09-16 | 2023-02-01 | 2023-01-13 |
 | [DiffRoll](https://github.com/sony/DiffRoll) | PyTorch implementation of DiffRoll, a diffusion-based generative automatic music transcription (AMT) model | Jupyter Notebook | 74 | MIT License | 2022-10-11 | 2025-02-01 | 2023-12-06 |
-| [creativeai](https://github.com/sony/creativeai) | None | CSS | 66 | - | 2022-11-21 | 2025-01-23 | 2025-01-23 |
+| [creativeai](https://github.com/sony/creativeai) | None | CSS | 66 | - | 2022-11-21 | 2025-02-05 | 2025-02-05 |
 | [NDJIR](https://github.com/sony/NDJIR) | NDJIR: Neural Direct and Joint Inverse Rendering for Geometry, Lights, and Materials of Real Object | Python | 45 | Apache License 2.0 | 2022-12-14 | 2025-01-07 | 2023-02-08 |
 | [CLIPSep](https://github.com/sony/CLIPSep) | None | Python | 37 | MIT License | 2023-01-24 | 2025-01-18 | 2023-02-21 |
 | [audio-visual-seld-dcase2023](https://github.com/sony/audio-visual-seld-dcase2023) | Baseline method for audio-visual sound event localization and detection task of DCASE 2023 challenge | Python | 50 | MIT License | 2023-02-20 | 2025-01-15 | 2023-09-05 |
@@ -74,7 +74,7 @@
 | [bigvsan](https://github.com/sony/bigvsan) | Pytorch implementation of BigVSAN | Python | 201 | MIT License | 2023-09-01 | 2024-12-15 | 2024-03-23 |
 | [bigvsan_eval](https://github.com/sony/bigvsan_eval) | Evaluation tool used in the BigVSAN paper | Python | 10 | MIT License | 2023-09-01 | 2024-11-25 | 2024-03-22 |
 | [timbre-trap](https://github.com/sony/timbre-trap) | Code for the paper "Timbre-Trap: A Low-Resource Framework for Instrument-Agnostic Music Transcription" | Python | 36 | MIT License | 2023-09-12 | 2024-12-19 | 2024-05-05 |
-| [custom_layers](https://github.com/sony/custom_layers) | None | Python | 8 | Apache License 2.0 | 2023-09-21 | 2025-01-15 | 2025-01-15 |
+| [custom_layers](https://github.com/sony/custom_layers) | None | Python | 8 | Apache License 2.0 | 2023-09-21 | 2025-01-15 | 2025-02-04 |
 | [ctm](https://github.com/sony/ctm) | None | Python | 261 | - | 2023-10-10 | 2025-02-03 | 2024-10-10 |
 | [SR-Display-Plugin-Preview-BL](https://github.com/sony/SR-Display-Plugin-Preview-BL) | None | Python | 4 | MIT License | 2023-12-13 | 2024-08-17 | 2024-05-24 |
 | [pyAutoPort](https://github.com/sony/pyAutoPort) | None | Python | 5 | BSD 3-Clause "New" or "Revised" License | 2023-12-13 | 2025-01-16 | 2025-01-16 |
@@ -92,5 +92,5 @@
 | [dual-pixel-disparity](https://github.com/sony/dual-pixel-disparity) | None | Python | 1 | MIT License | 2024-11-19 | 2025-02-03 | 2025-01-29 |
 | [openmu](https://github.com/sony/openmu) | None | Python | 6 | MIT License | 2024-11-27 | 2025-01-13 | 2024-12-26 |
 | [stamp](https://github.com/sony/stamp) | None | TypeScript | 6 | MIT License | 2025-01-20 | 2025-01-30 | 2025-01-30 |
-| [bl-flowsom_eval](https://github.com/sony/bl-flowsom_eval) | None | Jupyter Notebook | 0 | MIT License | 2025-01-28 | 2025-02-03 | 2025-02-03 |
-| [bl-flowsom_poc](https://github.com/sony/bl-flowsom_poc) | None | Python | 0 | Other | 2025-01-28 | 2025-01-31 | 2025-01-30 |
+| [bl-flowsom_eval](https://github.com/sony/bl-flowsom_eval) | None | Jupyter Notebook | 0 | MIT License | 2025-01-28 | 2025-02-04 | 2025-02-04 |
+| [bl-flowsom_poc](https://github.com/sony/bl-flowsom_poc) | None | Python | 0 | Other | 2025-01-28 | 2025-02-04 | 2025-02-04 |
