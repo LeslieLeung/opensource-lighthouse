@@ -1,10 +1,10 @@
 # Sony
 
-A total of 88 projects, 35 active projects in the last six months, 1 teams, and 16199 stars.
+A total of 88 projects, 35 active projects in the last six months, 1 teams, and 16201 stars.
 
 Top 3 Languages: Python, TypeScript, JavaScript
 
-Statistics Date: 2025-02-14 08:08:14
+Statistics Date: 2025-02-15 08:07:05
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -12,7 +12,7 @@ Statistics Date: 2025-02-14 08:08:14
 | [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4028 | MIT License | 2015-05-29 | 2025-02-14 | 2024-10-13 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
-| [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 402 | MIT License | 2015-09-18 | 2024-12-27 | 2020-12-29 |
+| [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 403 | MIT License | 2015-09-18 | 2025-02-14 | 2020-12-29 |
 | [cdn-purge-control-php](https://github.com/sony/cdn-purge-control-php) | Multi CDN purge control library for PHP | PHP | 8 | MIT License | 2016-01-06 | 2023-04-07 | 2016-10-06 |
 | [huis-ui-creator](https://github.com/sony/huis-ui-creator) | None | JavaScript | 37 | Apache License 2.0 | 2016-02-02 | 2024-02-19 | 2024-07-02 |
 | [node-win-usbdev](https://github.com/sony/node-win-usbdev) | None | C++ | 3 | Apache License 2.0 | 2016-02-02 | 2023-03-29 | 2018-02-16 |
@@ -81,17 +81,17 @@ Statistics Date: 2025-02-14 08:08:14
 | [SR-Display-Plugin-Preview-ZB](https://github.com/sony/SR-Display-Plugin-Preview-ZB) | None | None | 1 | MIT License | 2024-02-19 | 2024-02-19 | 2024-02-19 |
 | [NeISF](https://github.com/sony/NeISF) | None | Python | 9 | Other | 2024-06-04 | 2024-11-29 | 2024-11-04 |
 | [nnc-desktop](https://github.com/sony/nnc-desktop) | None | TypeScript | 16 | Apache License 2.0 | 2024-06-04 | 2025-02-09 | 2025-02-03 |
-| [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 81 | MIT License | 2024-06-04 | 2025-02-11 | 2025-02-10 |
+| [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 81 | MIT License | 2024-06-04 | 2025-02-14 | 2025-02-14 |
 | [silentcipher](https://github.com/sony/silentcipher) | None | Python | 24 | MIT License | 2024-06-05 | 2025-01-25 | 2024-07-22 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 8 | MIT License | 2024-07-09 | 2025-02-14 | 2025-02-14 |
 | [genwarp](https://github.com/sony/genwarp) | None | Python | 256 | MIT License | 2024-08-06 | 2025-02-13 | 2024-09-26 |
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 39 | MIT License | 2024-09-05 | 2025-02-11 | 2024-11-05 |
 | [esstra](https://github.com/sony/esstra) | A software suite for enhancing software supply chain transparency | Python | 4 | Other | 2024-10-03 | 2025-02-07 | 2025-01-27 |
 | [pagoda](https://github.com/sony/pagoda) | None | Python | 15 | MIT License | 2024-10-23 | 2025-02-12 | 2024-11-21 |
-| [okg](https://github.com/sony/okg) | Official Repo for the paper "OKG: On-the-fly Keyword Generation in Search Sponsered Advertising" (Coling'25) | Jupyter Notebook | 1 | Other | 2024-11-15 | 2025-01-28 | 2025-01-28 |
+| [okg](https://github.com/sony/okg) | Official Repo for the paper "OKG: On-the-fly Keyword Generation in Search Sponsered Advertising" (Coling'25) | Jupyter Notebook | 1 | Other | 2024-11-15 | 2025-02-14 | 2025-02-14 |
 | [dual-pixel-disparity](https://github.com/sony/dual-pixel-disparity) | None | Python | 2 | MIT License | 2024-11-19 | 2025-02-12 | 2025-01-29 |
 | [openmu](https://github.com/sony/openmu) | None | Python | 7 | MIT License | 2024-11-27 | 2025-02-12 | 2024-12-26 |
-| [stamp](https://github.com/sony/stamp) | None | TypeScript | 6 | MIT License | 2025-01-20 | 2025-01-30 | 2025-01-30 |
+| [stamp](https://github.com/sony/stamp) | None | TypeScript | 7 | MIT License | 2025-01-20 | 2025-02-15 | 2025-01-30 |
 | [ABA](https://github.com/sony/ABA) | None | Python | 0 | - | 2025-01-21 | 2025-02-05 | 2025-02-05 |
 | [bl-flowsom_eval](https://github.com/sony/bl-flowsom_eval) | None | Jupyter Notebook | 0 | MIT License | 2025-01-28 | 2025-02-04 | 2025-02-04 |
 | [bl-flowsom_poc](https://github.com/sony/bl-flowsom_poc) | None | Python | 0 | Other | 2025-01-28 | 2025-02-04 | 2025-02-04 |
