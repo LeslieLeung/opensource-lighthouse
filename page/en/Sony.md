@@ -1,15 +1,15 @@
 # Sony
 
-A total of 88 projects, 35 active projects in the last six months, 1 teams, and 16201 stars.
+A total of 88 projects, 35 active projects in the last six months, 1 teams, and 16202 stars.
 
 Top 3 Languages: Python, TypeScript, JavaScript
 
-Statistics Date: 2025-02-15 08:07:05
+Statistics Date: 2025-02-16 08:07:07
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3028 | MIT License | 2015-05-29 | 2025-02-13 | 2024-12-30 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4028 | MIT License | 2015-05-29 | 2025-02-14 | 2024-10-13 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4029 | MIT License | 2015-05-29 | 2025-02-15 | 2024-10-13 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 403 | MIT License | 2015-09-18 | 2025-02-14 | 2020-12-29 |
@@ -39,7 +39,7 @@ Statistics Date: 2025-02-15 08:07:05
 | [ai-research-code](https://github.com/sony/ai-research-code) | None | Python | 350 | Apache License 2.0 | 2020-04-14 | 2025-01-08 | 2023-09-12 |
 | [nnabla-nas](https://github.com/sony/nnabla-nas) | Neural Architecture Search for Neural Network Libraries | Python | 58 | Apache License 2.0 | 2020-06-15 | 2024-11-27 | 2024-01-22 |
 | [micro-notifier](https://github.com/sony/micro-notifier) | Simplified Pusher Clone | Go | 12 | MIT License | 2020-09-06 | 2024-12-29 | 2023-05-05 |
-| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1245 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2025-02-12 | 2025-02-12 |
+| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1244 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2025-02-16 | 2025-02-12 |
 | [lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) | None | Python | 0 | MIT License | 2021-03-25 | 2021-05-13 | 2021-05-13 |
 | [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 122 | Apache License 2.0 | 2021-06-11 | 2025-02-12 | 2024-12-16 |
 | [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 96 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2025-02-11 | 2024-12-19 |
@@ -51,7 +51,7 @@ Statistics Date: 2025-02-15 08:07:05
 | [nnc-plugin](https://github.com/sony/nnc-plugin) | Plugins for Neural Network Console (https://dl.sony.com/). | Python | 16 | Apache License 2.0 | 2021-08-05 | 2024-12-29 | 2024-12-13 |
 | [dolp-colorconstancy](https://github.com/sony/dolp-colorconstancy) | None | Python | 12 | MIT License | 2022-03-22 | 2024-10-31 | 2022-07-04 |
 | [nnabla-browser](https://github.com/sony/nnabla-browser) | Visualization toolkit for Neural Network Libraries | TypeScript | 9 | Apache License 2.0 | 2022-03-31 | 2024-07-06 | 2023-03-07 |
-| [sqvae](https://github.com/sony/sqvae) | Pytorch implementation of stochastically quantized variational autoencoder (SQ-VAE) | Python | 185 | Apache License 2.0 | 2022-05-26 | 2025-01-14 | 2022-07-20 |
+| [sqvae](https://github.com/sony/sqvae) | Pytorch implementation of stochastically quantized variational autoencoder (SQ-VAE) | Python | 186 | Apache License 2.0 | 2022-05-26 | 2025-02-16 | 2022-07-20 |
 | [aibo-development-tutorial](https://github.com/sony/aibo-development-tutorial) | None | None | 7 | Other | 2022-06-28 | 2024-03-18 | 2022-06-30 |
 | [FxNorm-automix](https://github.com/sony/FxNorm-automix) | FxNorm-Automix - Implementation of automatic music mixing systems. We show how we can use wet music data and repurpose it to train a fully automatic mixing system | Python | 100 | MIT License | 2022-08-05 | 2025-01-18 | 2024-03-11 |
 | [polar-densification](https://github.com/sony/polar-densification) | None | Python | 22 | MIT License | 2022-09-13 | 2024-11-20 | 2023-03-24 |
