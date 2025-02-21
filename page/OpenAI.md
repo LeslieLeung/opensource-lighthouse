@@ -1,18 +1,18 @@
 # OpenAI
 
-共 189 个项目，近半年内活跃项目 34 个，1 个团队， 550821 个 Star。
+共 189 个项目，近半年内活跃项目 34 个，1 个团队， 551575 个 Star。
 
 语言 Top 3：Python, TypeScript, Jupyter Notebook
 
-统计时间：2025-02-20 08:08:24
+统计时间：2025-02-21 08:08:14
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [kubernetes-ec2-autoscaler](https://github.com/openai/kubernetes-ec2-autoscaler) | A batch-optimized scaling manager for Kubernetes | Python | 867 | MIT License | 2016-03-03 | 2025-02-12 | 2019-06-07 |
-| [mujoco-py](https://github.com/openai/mujoco-py) | MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3. | Cython | 2921 | Other | 2016-04-24 | 2025-02-20 | 2023-12-10 |
+| [mujoco-py](https://github.com/openai/mujoco-py) | MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3. | Cython | 2922 | Other | 2016-04-24 | 2025-02-21 | 2023-12-10 |
 | [atari-py](https://github.com/openai/atari-py) | A packaged and slightly-modified version of https://github.com/bbitmaster/ale_python_interface | C++ | 377 | GNU General Public License v2.0 | 2016-04-27 | 2025-02-10 | 2023-05-20 |
 | [pachi-py](https://github.com/openai/pachi-py) | Python wrappers for Pachi. Contains a modified version of the bleeding-edge Pachi source code. | C | 41 | GNU General Public License v2.0 | 2016-04-27 | 2025-01-09 | 2023-04-02 |
-| [gym](https://github.com/openai/gym) | A toolkit for developing and comparing reinforcement learning algorithms. | Python | 35422 | Other | 2016-04-27 | 2025-02-20 | 2024-10-11 |
+| [gym](https://github.com/openai/gym) | A toolkit for developing and comparing reinforcement learning algorithms. | Python | 35426 | Other | 2016-04-27 | 2025-02-21 | 2024-10-11 |
 | [doom-py](https://github.com/openai/doom-py) | ViZDoom Python wrapper | C++ | 74 | MIT License | 2016-05-08 | 2025-01-03 | 2023-04-02 |
 | [InfoGAN](https://github.com/openai/InfoGAN) | Code for reproducing key results in the paper "InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets" | Python | 1059 | - | 2016-06-02 | 2025-01-30 | 2021-03-25 |
 | [gym-http-api](https://github.com/openai/gym-http-api) | API to access OpenAI Gym from other languages via HTTP | Python | 294 | MIT License | 2016-06-03 | 2025-01-19 | 2023-04-02 |
@@ -40,7 +40,7 @@
 | [staged-recipes](https://github.com/openai/staged-recipes) | A place to submit conda recipes before they become fully fledged conda-forge feedstocks | Python | 4 | BSD 3-Clause "New" or "Revised" License | 2016-12-03 | 2025-01-03 | 2016-12-02 |
 | [go-vncdriver-feedstock](https://github.com/openai/go-vncdriver-feedstock) | A conda-smithy repository for go-vncdriver. | Shell | 5 | BSD 3-Clause "New" or "Revised" License | 2016-12-03 | 2025-01-03 | 2023-05-20 |
 | [weightnorm](https://github.com/openai/weightnorm) | Example code for Weight Normalization, from "Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks" | Python | 364 | MIT License | 2016-12-03 | 2025-01-30 | 2018-11-22 |
-| [universe](https://github.com/openai/universe) | Universe: a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications. | Python | 7499 | MIT License | 2016-12-04 | 2025-02-19 | 2018-04-05 |
+| [universe](https://github.com/openai/universe) | Universe: a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications. | Python | 7500 | MIT License | 2016-12-04 | 2025-02-20 | 2018-04-05 |
 | [aws-fluent-plugin-kinesis](https://github.com/openai/aws-fluent-plugin-kinesis) | Fluentd output plugin that sends events to Amazon Kinesis Streams and Amazon Kinesis Firehose. | Ruby | 11 | Other | 2017-01-05 | 2025-02-01 | 2023-04-02 |
 | [retask](https://github.com/openai/retask) | Retask is a simple task queue implementation written for human beings. It provides generic solution to create and manage task queues.  | Python | 16 | MIT License | 2017-02-14 | 2025-01-03 | 2017-02-08 |
 | [evolution-strategies-starter](https://github.com/openai/evolution-strategies-starter) | Code for the paper "Evolution Strategies as a Scalable Alternative to Reinforcement Learning" | Python | 1581 | MIT License | 2017-03-24 | 2025-02-10 | 2019-10-31 |
@@ -51,7 +51,7 @@
 | [baselines](https://github.com/openai/baselines) | OpenAI Baselines: high-quality implementations of reinforcement learning algorithms | Python | 16032 | MIT License | 2017-05-24 | 2025-02-20 | 2024-08-01 |
 | [ot-gan](https://github.com/openai/ot-gan) |  Code for the paper "Improving GANs Using Optimal Transport" | Jupyter Notebook | 72 | MIT License | 2017-05-31 | 2025-01-12 | 2018-11-22 |
 | [atari-demo](https://github.com/openai/atari-demo) | Code for the blog post "Learning Montezuma’s Revenge from a Single Demonstration" | Python | 32 | MIT License | 2017-07-31 | 2025-01-03 | 2018-11-22 |
-| [multiagent-particle-envs](https://github.com/openai/multiagent-particle-envs) | Code for a multi-agent particle environment used in the paper "Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments" | Python | 2461 | MIT License | 2017-08-17 | 2025-02-20 | 2024-04-09 |
+| [multiagent-particle-envs](https://github.com/openai/multiagent-particle-envs) | Code for a multi-agent particle environment used in the paper "Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments" | Python | 2462 | MIT License | 2017-08-17 | 2025-02-20 | 2024-04-09 |
 | [robosumo](https://github.com/openai/robosumo) |  Code for the paper "Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments" | Python | 305 | - | 2017-10-11 | 2025-01-08 | 2023-04-13 |
 | [multiagent-competition](https://github.com/openai/multiagent-competition) |  Code for the paper "Emergent Complexity via Multi-agent Competition" | Python | 807 | - | 2017-10-11 | 2025-02-15 | 2023-04-02 |
 | [mlsh](https://github.com/openai/mlsh) |  Code for the paper "Meta-Learning Shared Hierarchies" | Python | 611 | - | 2017-10-26 | 2025-01-23 | 2023-07-06 |
@@ -59,7 +59,7 @@
 | [supervised-reptile](https://github.com/openai/supervised-reptile) | Code for the paper "On First-Order Meta-Learning Algorithms" | JavaScript | 999 | MIT License | 2017-12-05 | 2025-02-15 | 2023-05-20 |
 | [blocksparse](https://github.com/openai/blocksparse) | Efficient GPU kernels for block-sparse matrix multiplication and convolution | Cuda | 1035 | MIT License | 2017-12-06 | 2025-01-31 | 2023-06-08 |
 | [chef-logdna_agent](https://github.com/openai/chef-logdna_agent) | Installs the LogDNA host agent. Currently only supports apt systems. | Ruby | 8 | - | 2018-01-29 | 2025-01-03 | 2018-02-11 |
-| [maddpg](https://github.com/openai/maddpg) | Code for the MADDPG algorithm from the paper "Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments" | Python | 1713 | MIT License | 2018-02-01 | 2025-02-20 | 2024-04-01 |
+| [maddpg](https://github.com/openai/maddpg) | Code for the MADDPG algorithm from the paper "Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments" | Python | 1715 | MIT License | 2018-02-01 | 2025-02-21 | 2024-04-01 |
 | [deeptype](https://github.com/openai/deeptype) |  Code for the paper "DeepType: Multilingual Entity Linking by Neural Type System Evolution" | Python | 650 | Other | 2018-02-03 | 2025-02-20 | 2023-04-02 |
 | [retro](https://github.com/openai/retro) | Retro Games in Gym | C | 3456 | MIT License | 2018-02-07 | 2025-02-19 | 2024-02-22 |
 | [ceph-chef](https://github.com/openai/ceph-chef) | Chef cookbooks for managing a Ceph cluster | Ruby | 7 | - | 2018-02-14 | 2025-01-03 | 2023-04-02 |
@@ -74,12 +74,12 @@
 | [box2d-py](https://github.com/openai/box2d-py) | None | C++ | 40 | Other | 2018-08-07 | 2025-02-15 | 2023-04-02 |
 | [large-scale-curiosity](https://github.com/openai/large-scale-curiosity) | Code for the paper "Large-Scale Study of Curiosity-Driven Learning" | Python | 807 | - | 2018-08-14 | 2025-02-15 | 2021-08-12 |
 | [random-network-distillation](https://github.com/openai/random-network-distillation) | Code for the paper "Exploration by Random Network Distillation" | Python | 888 | - | 2018-10-16 | 2025-01-08 | 2020-10-01 |
-| [spinningup](https://github.com/openai/spinningup) | An educational resource to help anyone learn deep reinforcement learning. | Python | 10533 | MIT License | 2018-11-07 | 2025-02-20 | 2024-08-05 |
+| [spinningup](https://github.com/openai/spinningup) | An educational resource to help anyone learn deep reinforcement learning. | Python | 10536 | MIT License | 2018-11-07 | 2025-02-20 | 2024-08-05 |
 | [coinrun](https://github.com/openai/coinrun) | Code for the paper "Quantifying Transfer in Reinforcement Learning" | C++ | 397 | MIT License | 2018-11-19 | 2025-02-18 | 2023-10-07 |
 | [post--example](https://github.com/openai/post--example) | Example Distill article repository—clone, rename, start writing! | TeX | 7 | Creative Commons Attribution 4.0 International | 2019-01-22 | 2025-01-03 | 2023-04-02 |
 | [spinningup-workshop](https://github.com/openai/spinningup-workshop) | For educational materials related to the spinning up workshops. | TeX | 196 | - | 2019-02-01 | 2025-02-20 | 2019-02-12 |
 | [lucid](https://github.com/openai/lucid) | A collection of infrastructure and tools for research in neural network interpretability. | Jupyter Notebook | 35 | Apache License 2.0 | 2019-02-04 | 2025-01-03 | 2019-01-25 |
-| [gpt-2](https://github.com/openai/gpt-2) | Code for the paper "Language Models are Unsupervised Multitask Learners" | Python | 23053 | Other | 2019-02-11 | 2025-02-20 | 2024-08-14 |
+| [gpt-2](https://github.com/openai/gpt-2) | Code for the paper "Language Models are Unsupervised Multitask Learners" | Python | 23059 | Other | 2019-02-11 | 2025-02-21 | 2024-08-14 |
 | [neural-mmo](https://github.com/openai/neural-mmo) | Code for the paper "Neural MMO: A Massively Multiagent Game Environment for Training and Evaluating Intelligent Agents" | Python | 1600 | MIT License | 2019-02-28 | 2025-02-12 | 2023-07-21 |
 | [ebm_code_release](https://github.com/openai/ebm_code_release) | Code for Implicit Generation and Generalization with Energy Based Models | Python | 349 | - | 2019-03-08 | 2025-01-20 | 2023-04-25 |
 | [sparse_attention](https://github.com/openai/sparse_attention) | Examples of using sparse attention, as in "Generating Long Sequences with Sparse Transformers" | Python | 1550 | - | 2019-04-12 | 2025-02-19 | 2020-08-12 |
@@ -87,9 +87,9 @@
 | [gpt-2-output-dataset](https://github.com/openai/gpt-2-output-dataset) | Dataset of GPT-2 outputs for research in detection, biases, and more | Python | 1959 | MIT License | 2019-05-03 | 2025-02-14 | 2023-12-13 |
 | [ml-agents](https://github.com/openai/ml-agents) | Unity Machine Learning Agents Toolkit | Python | 85 | Apache License 2.0 | 2019-06-13 | 2025-01-03 | 2020-03-16 |
 | [orrb](https://github.com/openai/orrb) | Code for the paper "OpenAI Remote Rendering Backend" | C# | 242 | Other | 2019-06-28 | 2025-01-03 | 2023-07-06 |
-| [multi-agent-emergence-environments](https://github.com/openai/multi-agent-emergence-environments) | Environment generation code for the paper "Emergent Tool Use From Multi-Agent Autocurricula" | Python | 1687 | MIT License | 2019-08-12 | 2025-02-18 | 2024-07-30 |
+| [multi-agent-emergence-environments](https://github.com/openai/multi-agent-emergence-environments) | Environment generation code for the paper "Emergent Tool Use From Multi-Agent Autocurricula" | Python | 1688 | MIT License | 2019-08-12 | 2025-02-21 | 2024-07-30 |
 | [mujoco-worldgen](https://github.com/openai/mujoco-worldgen) | Automatic object XML generation for Mujoco | Python | 536 | MIT License | 2019-08-21 | 2025-02-11 | 2024-07-26 |
-| [lm-human-preferences](https://github.com/openai/lm-human-preferences) | Code for the paper Fine-Tuning Language Models from Human Preferences | Python | 1282 | MIT License | 2019-09-14 | 2025-02-20 | 2023-07-25 |
+| [lm-human-preferences](https://github.com/openai/lm-human-preferences) | Code for the paper Fine-Tuning Language Models from Human Preferences | Python | 1283 | MIT License | 2019-09-14 | 2025-02-20 | 2023-07-25 |
 | [monorepo-diff-buildkite-plugin](https://github.com/openai/monorepo-diff-buildkite-plugin) | Run separate pipelines for each folder in your monorepo | None | 5 | MIT License | 2019-09-25 | 2025-01-03 | 2019-05-23 |
 | [safety-starter-agents](https://github.com/openai/safety-starter-agents) | Basic constrained RL agents used in experiments for the "Benchmarking Safe Exploration in Deep Reinforcement Learning" paper. | Python | 403 | MIT License | 2019-11-21 | 2025-02-19 | 2023-04-02 |
 | [safety-gym](https://github.com/openai/safety-gym) | Tools for accelerating safe exploration research. | Python | 517 | MIT License | 2019-11-21 | 2025-02-11 | 2023-04-02 |
@@ -101,7 +101,7 @@
 | [jukebox](https://github.com/openai/jukebox) | Code for the paper "Jukebox: A Generative Model for Music" | Python | 7923 | Other | 2020-04-29 | 2025-02-19 | 2024-06-19 |
 | [image-gpt](https://github.com/openai/image-gpt) | None | Python | 2051 | Other | 2020-05-07 | 2025-02-20 | 2022-04-29 |
 | [consul-helm](https://github.com/openai/consul-helm) | Helm chart to install Consul and other associated components. | None | 8 | Mozilla Public License 2.0 | 2020-05-07 | 2025-01-03 | 2023-04-02 |
-| [gpt-3](https://github.com/openai/gpt-3) | GPT-3: Language Models are Few-Shot Learners | None | 15737 | - | 2020-05-18 | 2025-02-20 | 2020-09-18 |
+| [gpt-3](https://github.com/openai/gpt-3) | GPT-3: Language Models are Few-Shot Learners | None | 15739 | - | 2020-05-18 | 2025-02-21 | 2020-09-18 |
 | [gym3](https://github.com/openai/gym3) | Vectorized interface for reinforcement learning environments | Python | 139 | MIT License | 2020-06-03 | 2025-02-12 | 2023-04-02 |
 | [kubernetes](https://github.com/openai/kubernetes) | Production-Grade Container Scheduling and Management | Go | 49 | Apache License 2.0 | 2020-06-18 | 2025-02-06 | 2024-10-10 |
 | [go-retryablehttp](https://github.com/openai/go-retryablehttp) | Retryable HTTP client in Go | Go | 11 | Mozilla Public License 2.0 | 2020-06-25 | 2025-01-31 | 2023-04-02 |
@@ -113,49 +113,49 @@
 | [scheduler-plugins](https://github.com/openai/scheduler-plugins) | Repository for out-of-tree scheduler plugins based on scheduler framework. | Go | 10 | Apache License 2.0 | 2020-09-02 | 2025-01-31 | 2023-04-02 |
 | [psaw](https://github.com/openai/psaw) | Python Pushshift.io API Wrapper (for comment/submission search) | Python | 5 | BSD 2-Clause "Simplified" License | 2020-09-06 | 2025-01-03 | 2023-04-02 |
 | [robogym](https://github.com/openai/robogym) | Robotics Gym Environments | Python | 410 | MIT License | 2020-10-19 | 2025-02-08 | 2023-04-02 |
-| [openai-python](https://github.com/openai/openai-python) | The official Python library for the OpenAI API | Python | 24690 | Apache License 2.0 | 2020-10-25 | 2025-02-20 | 2025-02-17 |
+| [openai-python](https://github.com/openai/openai-python) | The official Python library for the OpenAI API | Python | 24713 | Apache License 2.0 | 2020-10-25 | 2025-02-21 | 2025-02-21 |
 | [pytorch](https://github.com/openai/pytorch) | Tensors and Dynamic neural networks in Python with strong GPU acceleration | C++ | 50 | Other | 2020-11-02 | 2025-01-22 | 2021-10-04 |
 | [vdvae](https://github.com/openai/vdvae) | Repository for the paper "Very Deep VAEs Generalize Autoregressive Models and Can Outperform Them on Images" | Python | 435 | MIT License | 2020-11-10 | 2025-02-19 | 2023-04-28 |
 | [understanding-rl-vision](https://github.com/openai/understanding-rl-vision) | Code for the paper "Understanding RL Vision" | Python | 46 | MIT License | 2020-11-14 | 2025-02-04 | 2023-04-02 |
 | [tabulate](https://github.com/openai/tabulate) | public release of Excel / OpenAI API integration | JavaScript | 120 | MIT License | 2020-11-20 | 2025-01-07 | 2023-04-02 |
 | [GPT-3-Encoder](https://github.com/openai/GPT-3-Encoder) | Javascript BPE Encoder Decoder for GPT-2 / GPT-3 | None | 123 | MIT License | 2020-11-23 | 2025-01-28 | 2023-04-02 |
-| [CLIP](https://github.com/openai/CLIP) | CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image | Jupyter Notebook | 27438 | MIT License | 2020-12-16 | 2025-02-20 | 2024-07-23 |
+| [CLIP](https://github.com/openai/CLIP) | CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image | Jupyter Notebook | 27457 | MIT License | 2020-12-16 | 2025-02-21 | 2024-07-23 |
 | [CLIP-featurevis](https://github.com/openai/CLIP-featurevis) | code for reproducing some of the diagrams in the paper "Multimodal Neurons in Artificial Neural Networks" | Python | 305 | - | 2021-01-26 | 2025-01-03 | 2021-03-21 |
-| [improved-diffusion](https://github.com/openai/improved-diffusion) | Release for Improved Denoising Diffusion Probabilistic Models | Python | 3426 | MIT License | 2021-02-08 | 2025-02-20 | 2024-07-18 |
+| [improved-diffusion](https://github.com/openai/improved-diffusion) | Release for Improved Denoising Diffusion Probabilistic Models | Python | 3430 | MIT License | 2021-02-08 | 2025-02-21 | 2024-07-18 |
 | [DALL-E](https://github.com/openai/DALL-E) | PyTorch package for the discrete VAE used for DALL·E. | Python | 10828 | Other | 2021-02-23 | 2025-02-20 | 2024-01-31 |
-| [grok](https://github.com/openai/grok) | None | Python | 4114 | MIT License | 2021-04-12 | 2025-02-20 | 2024-03-19 |
-| [guided-diffusion](https://github.com/openai/guided-diffusion) | None | Python | 6543 | MIT License | 2021-04-27 | 2025-02-20 | 2024-07-02 |
+| [grok](https://github.com/openai/grok) | None | Python | 4117 | MIT License | 2021-04-12 | 2025-02-20 | 2024-03-19 |
+| [guided-diffusion](https://github.com/openai/guided-diffusion) | None | Python | 6549 | MIT License | 2021-04-27 | 2025-02-20 | 2024-07-02 |
 | [miniF2F](https://github.com/openai/miniF2F) | Formal to Formal Mathematics Benchmark | Objective-C++ | 327 | - | 2021-05-04 | 2025-02-19 | 2023-08-16 |
 | [gen](https://github.com/openai/gen) | Common generator scripts for all client libraries | Shell | 6 | Apache License 2.0 | 2021-05-06 | 2025-01-03 | 2021-05-14 |
 | [etcd](https://github.com/openai/etcd) | Development repository for the etcd cookbook | Ruby | 8 | Apache License 2.0 | 2021-05-14 | 2025-01-03 | 2022-09-07 |
 | [lean-gym](https://github.com/openai/lean-gym) | None | Lean | 180 | Apache License 2.0 | 2021-05-21 | 2025-02-01 | 2023-01-23 |
 | [LHOPT](https://github.com/openai/LHOPT) | Learned Hyperparameter Optimizers | Python | 58 | MIT License | 2021-06-01 | 2025-01-03 | 2021-06-01 |
 | [code-align-evals-data](https://github.com/openai/code-align-evals-data) | None | Python | 28 | MIT License | 2021-06-24 | 2025-01-03 | 2021-07-21 |
-| [human-eval](https://github.com/openai/human-eval) | Code for the paper "Evaluating Large Language Models Trained on Code" | Python | 2574 | MIT License | 2021-07-06 | 2025-02-19 | 2025-01-17 |
+| [human-eval](https://github.com/openai/human-eval) | Code for the paper "Evaluating Large Language Models Trained on Code" | Python | 2575 | MIT License | 2021-07-06 | 2025-02-20 | 2025-01-17 |
 | [ppo-ewma](https://github.com/openai/ppo-ewma) | Code for the paper "Batch size invariance for policy optimization" | Jupyter Notebook | 47 | MIT License | 2021-08-23 | 2025-02-19 | 2023-04-02 |
-| [grade-school-math](https://github.com/openai/grade-school-math) | None | Python | 1192 | - | 2021-10-20 | 2025-02-20 | 2024-01-21 |
+| [grade-school-math](https://github.com/openai/grade-school-math) | None | Python | 1193 | - | 2021-10-20 | 2025-02-20 | 2024-01-21 |
 | [openai-quickstart-python](https://github.com/openai/openai-quickstart-python) | Python example app from the OpenAI API quickstart tutorial | None | 1732 | MIT License | 2021-11-30 | 2025-02-17 | 2024-06-14 |
-| [glide-text2im](https://github.com/openai/glide-text2im) | GLIDE: a diffusion-based text-conditional image synthesis model | Python | 3585 | MIT License | 2021-12-10 | 2025-02-19 | 2024-03-08 |
-| [openai-openapi](https://github.com/openai/openai-openapi) | OpenAPI specification for the OpenAI API | None | 1864 | MIT License | 2021-12-14 | 2025-02-19 | 2025-02-11 |
-| [openai-node](https://github.com/openai/openai-node) | Official JavaScript / TypeScript library for the OpenAI API | TypeScript | 8575 | Apache License 2.0 | 2021-12-14 | 2025-02-20 | 2025-02-18 |
-| [openai-quickstart-node](https://github.com/openai/openai-quickstart-node) | Node.js example app from the OpenAI API quickstart tutorial | JavaScript | 2555 | MIT License | 2022-01-20 | 2025-02-18 | 2025-01-23 |
+| [glide-text2im](https://github.com/openai/glide-text2im) | GLIDE: a diffusion-based text-conditional image synthesis model | Python | 3586 | MIT License | 2021-12-10 | 2025-02-21 | 2024-03-08 |
+| [openai-openapi](https://github.com/openai/openai-openapi) | OpenAPI specification for the OpenAI API | None | 1867 | MIT License | 2021-12-14 | 2025-02-21 | 2025-02-11 |
+| [openai-node](https://github.com/openai/openai-node) | Official JavaScript / TypeScript library for the OpenAI API | TypeScript | 8584 | Apache License 2.0 | 2021-12-14 | 2025-02-21 | 2025-02-20 |
+| [openai-quickstart-node](https://github.com/openai/openai-quickstart-node) | Node.js example app from the OpenAI API quickstart tutorial | JavaScript | 2557 | MIT License | 2022-01-20 | 2025-02-20 | 2025-01-23 |
 | [following-instructions-human-feedback](https://github.com/openai/following-instructions-human-feedback) | None | None | 1195 | - | 2022-01-25 | 2025-02-20 | 2022-12-11 |
-| [openai-cookbook](https://github.com/openai/openai-cookbook) | Examples and guides for using the OpenAI API | MDX | 61931 | MIT License | 2022-03-11 | 2025-02-20 | 2025-02-20 |
+| [openai-cookbook](https://github.com/openai/openai-cookbook) | Examples and guides for using the OpenAI API | MDX | 61944 | MIT License | 2022-03-11 | 2025-02-21 | 2025-02-20 |
 | [dalle-2-preview](https://github.com/openai/dalle-2-preview) | None | None | 1043 | - | 2022-03-30 | 2025-02-12 | 2022-07-20 |
-| [Video-Pre-Training](https://github.com/openai/Video-Pre-Training) | Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos | Python | 1412 | MIT License | 2022-06-22 | 2025-02-19 | 2024-06-10 |
+| [Video-Pre-Training](https://github.com/openai/Video-Pre-Training) | Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos | Python | 1413 | MIT License | 2022-06-22 | 2025-02-20 | 2024-06-10 |
 | [moderation-api-release](https://github.com/openai/moderation-api-release) | None | None | 122 | MIT License | 2022-07-21 | 2025-02-10 | 2022-08-09 |
 | [human-eval-infilling](https://github.com/openai/human-eval-infilling) | Code for the paper "Efficient Training of Language Models to Fill in the Middle" | Python | 172 | MIT License | 2022-07-29 | 2025-02-17 | 2023-04-02 |
-| [whisper](https://github.com/openai/whisper) | Robust Speech Recognition via Large-Scale Weak Supervision | Python | 76600 | MIT License | 2022-09-16 | 2025-02-20 | 2025-01-04 |
+| [whisper](https://github.com/openai/whisper) | Robust Speech Recognition via Large-Scale Weak Supervision | Python | 76693 | MIT License | 2022-09-16 | 2025-02-21 | 2025-01-04 |
 | [dallify-discord-bot](https://github.com/openai/dallify-discord-bot) | Example code for using OpenAI’s NodeJS SDK with discord.js SDK to create a Discord Bot that uses Slash Commands. | TypeScript | 144 | MIT License | 2022-11-09 | 2025-02-12 | 2024-01-03 |
-| [tiktoken](https://github.com/openai/tiktoken) | tiktoken is a fast BPE tokeniser for use with OpenAI's models. | Python | 13451 | MIT License | 2022-12-01 | 2025-02-20 | 2025-02-14 |
-| [point-e](https://github.com/openai/point-e) | Point cloud diffusion for 3D model synthesis | Python | 6636 | MIT License | 2022-12-06 | 2025-02-20 | 2024-07-04 |
-| [gpt-discord-bot](https://github.com/openai/gpt-discord-bot) | Example Discord bot written in Python that uses the completions API to have conversations with the `text-davinci-003` model, and the moderations API to filter the messages. | Python | 1802 | MIT License | 2022-12-21 | 2025-02-18 | 2024-06-07 |
-| [evals](https://github.com/openai/evals) | Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks. | Python | 15516 | Other | 2023-01-23 | 2025-02-20 | 2024-12-18 |
-| [consistency_models](https://github.com/openai/consistency_models) | Official repo for consistency models. | Python | 6246 | MIT License | 2023-02-26 | 2025-02-20 | 2024-03-22 |
+| [tiktoken](https://github.com/openai/tiktoken) | tiktoken is a fast BPE tokeniser for use with OpenAI's models. | Python | 13475 | MIT License | 2022-12-01 | 2025-02-21 | 2025-02-14 |
+| [point-e](https://github.com/openai/point-e) | Point cloud diffusion for 3D model synthesis | Python | 6638 | MIT License | 2022-12-06 | 2025-02-20 | 2024-07-04 |
+| [gpt-discord-bot](https://github.com/openai/gpt-discord-bot) | Example Discord bot written in Python that uses the completions API to have conversations with the `text-davinci-003` model, and the moderations API to filter the messages. | Python | 1802 | MIT License | 2022-12-21 | 2025-02-20 | 2024-06-07 |
+| [evals](https://github.com/openai/evals) | Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks. | Python | 15525 | Other | 2023-01-23 | 2025-02-21 | 2024-12-18 |
+| [consistency_models](https://github.com/openai/consistency_models) | Official repo for consistency models. | Python | 6247 | MIT License | 2023-02-26 | 2025-02-21 | 2024-03-22 |
 | [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) | The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language. | Python | 21121 | MIT License | 2023-03-23 | 2025-02-19 | 2024-07-04 |
 | [plugins-quickstart](https://github.com/openai/plugins-quickstart) | Get a ChatGPT plugin up and running in under 5 minutes! | Python | 4234 | MIT License | 2023-04-06 | 2025-02-18 | 2024-01-30 |
-| [prm800k](https://github.com/openai/prm800k) | 800,000 step-level correctness labels on LLM solutions to MATH problems | Python | 1907 | MIT License | 2023-04-13 | 2025-02-20 | 2023-06-01 |
-| [shap-e](https://github.com/openai/shap-e) | Generate 3D objects conditioned on text or images | Python | 11805 | MIT License | 2023-04-19 | 2025-02-20 | 2024-06-22 |
+| [prm800k](https://github.com/openai/prm800k) | 800,000 step-level correctness labels on LLM solutions to MATH problems | Python | 1908 | MIT License | 2023-04-13 | 2025-02-21 | 2023-06-01 |
+| [shap-e](https://github.com/openai/shap-e) | Generate 3D objects conditioned on text or images | Python | 11806 | MIT License | 2023-04-19 | 2025-02-20 | 2024-06-22 |
 | [automated-interpretability](https://github.com/openai/automated-interpretability) | None | Python | 992 | - | 2023-05-08 | 2025-02-19 | 2024-03-06 |
 | [consistency_models_cifar10](https://github.com/openai/consistency_models_cifar10) | Consistency models trained on CIFAR-10, in JAX. | Jupyter Notebook | 140 | Apache License 2.0 | 2023-06-02 | 2025-02-12 | 2023-08-22 |
 | [democratic-inputs](https://github.com/openai/democratic-inputs) | None | HTML | 59 | - | 2023-07-20 | 2025-02-12 | 2024-03-05 |
@@ -170,30 +170,30 @@
 | [azure-cli](https://github.com/openai/azure-cli) | Azure Command-Line Interface | None | 7 | MIT License | 2023-12-11 | 2025-01-03 | 2023-12-10 |
 | [weak-to-strong](https://github.com/openai/weak-to-strong) | None | Python | 2521 | MIT License | 2023-12-13 | 2025-02-13 | 2024-05-19 |
 | [openai-security-bots](https://github.com/openai/openai-security-bots) | None | Python | 359 | MIT License | 2024-01-11 | 2025-02-05 | 2024-04-18 |
-| [swarm](https://github.com/openai/swarm) | Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team. | Python | 18774 | MIT License | 2024-02-22 | 2025-02-20 | 2024-10-15 |
+| [swarm](https://github.com/openai/swarm) | Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team. | Python | 18791 | MIT License | 2024-02-22 | 2025-02-21 | 2024-10-15 |
 | [transformer-debugger](https://github.com/openai/transformer-debugger) | None | Python | 4058 | MIT License | 2024-03-11 | 2025-02-20 | 2024-06-04 |
 | [main-branch-check-action](https://github.com/openai/main-branch-check-action) | A GitHub Action for checking the status of a workflow on the main branch as a status on the PR | JavaScript | 3 | MIT License | 2024-04-10 | 2025-02-05 | 2024-04-30 |
-| [simple-evals](https://github.com/openai/simple-evals) | None | Python | 2340 | MIT License | 2024-04-11 | 2025-02-20 | 2025-02-08 |
-| [openai-dotnet](https://github.com/openai/openai-dotnet) | The official .NET library for the OpenAI API | C# | 1800 | MIT License | 2024-04-25 | 2025-02-20 | 2025-02-19 |
-| [openai-assistants-quickstart](https://github.com/openai/openai-assistants-quickstart) | OpenAI Assistants API quickstart with Next.js. | TypeScript | 1734 | MIT License | 2024-05-01 | 2025-02-20 | 2024-07-29 |
+| [simple-evals](https://github.com/openai/simple-evals) | None | Python | 2344 | MIT License | 2024-04-11 | 2025-02-21 | 2025-02-08 |
+| [openai-dotnet](https://github.com/openai/openai-dotnet) | The official .NET library for the OpenAI API | C# | 1804 | MIT License | 2024-04-25 | 2025-02-21 | 2025-02-20 |
+| [openai-assistants-quickstart](https://github.com/openai/openai-assistants-quickstart) | OpenAI Assistants API quickstart with Next.js. | TypeScript | 1737 | MIT License | 2024-05-01 | 2025-02-21 | 2024-07-29 |
 | [sparse_autoencoder](https://github.com/openai/sparse_autoencoder) | None | Python | 421 | MIT License | 2024-06-12 | 2025-02-18 | 2024-07-19 |
 | [GPTs-are-GPTs](https://github.com/openai/GPTs-are-GPTs) | None | Jupyter Notebook | 25 | MIT License | 2024-06-17 | 2025-02-05 | 2024-06-20 |
-| [safety-rbr-code-and-data](https://github.com/openai/safety-rbr-code-and-data) | Code and example data for the paper: Rule Based Rewards for Language Model Safety | Jupyter Notebook | 178 | MIT License | 2024-07-19 | 2025-02-08 | 2024-07-19 |
-| [openai-go](https://github.com/openai/openai-go) | The official Go library for the OpenAI API | Go | 1190 | Apache License 2.0 | 2024-07-22 | 2025-02-20 | 2025-02-19 |
-| [build-hours](https://github.com/openai/build-hours) | Build hours code to share. | Jupyter Notebook | 204 | MIT License | 2024-07-29 | 2025-02-19 | 2024-12-13 |
+| [safety-rbr-code-and-data](https://github.com/openai/safety-rbr-code-and-data) | Code and example data for the paper: Rule Based Rewards for Language Model Safety | Jupyter Notebook | 178 | MIT License | 2024-07-19 | 2025-02-21 | 2024-07-19 |
+| [openai-go](https://github.com/openai/openai-go) | The official Go library for the OpenAI API | Go | 1199 | Apache License 2.0 | 2024-07-22 | 2025-02-21 | 2025-02-19 |
+| [build-hours](https://github.com/openai/build-hours) | Build hours code to share. | Jupyter Notebook | 205 | MIT License | 2024-07-29 | 2025-02-21 | 2024-12-13 |
 | [fedramp-et](https://github.com/openai/fedramp-et) | None | None | 5 | - | 2024-08-23 | 2025-02-05 | 2024-08-30 |
-| [openai-realtime-console](https://github.com/openai/openai-realtime-console) | React app for inspecting, building and debugging with the Realtime API | JavaScript | 2914 | MIT License | 2024-09-30 | 2025-02-20 | 2025-02-09 |
-| [openai-realtime-api-beta](https://github.com/openai/openai-realtime-api-beta) | Node.js + JavaScript reference client for the Realtime API (beta) | JavaScript | 862 | MIT License | 2024-09-30 | 2025-02-19 | 2024-11-07 |
-| [mle-bench](https://github.com/openai/mle-bench) | MLE-bench is a benchmark for measuring how well AI agents perform at machine learning engineering | Python | 616 | Other | 2024-10-08 | 2025-02-19 | 2025-01-14 |
-| [openai-java](https://github.com/openai/openai-java) | The official Java library for the OpenAI API | Kotlin | 497 | Apache License 2.0 | 2024-10-31 | 2025-02-20 | 2025-02-19 |
-| [chz](https://github.com/openai/chz) | None | Python | 18 | MIT License | 2024-11-08 | 2025-02-19 | 2025-02-18 |
-| [openai-realtime-embedded-sdk](https://github.com/openai/openai-realtime-embedded-sdk) | A SDK to using the Realtime API with Microcontrollers like the ESP32 | C++ | 1468 | MIT License | 2024-11-14 | 2025-02-20 | 2025-01-05 |
+| [openai-realtime-console](https://github.com/openai/openai-realtime-console) | React app for inspecting, building and debugging with the Realtime API | JavaScript | 2919 | MIT License | 2024-09-30 | 2025-02-21 | 2025-02-09 |
+| [openai-realtime-api-beta](https://github.com/openai/openai-realtime-api-beta) | Node.js + JavaScript reference client for the Realtime API (beta) | JavaScript | 865 | MIT License | 2024-09-30 | 2025-02-21 | 2024-11-07 |
+| [mle-bench](https://github.com/openai/mle-bench) | MLE-bench is a benchmark for measuring how well AI agents perform at machine learning engineering | Python | 618 | Other | 2024-10-08 | 2025-02-21 | 2025-01-14 |
+| [openai-java](https://github.com/openai/openai-java) | The official Java library for the OpenAI API | Kotlin | 506 | Apache License 2.0 | 2024-10-31 | 2025-02-21 | 2025-02-21 |
+| [chz](https://github.com/openai/chz) | None | Python | 19 | MIT License | 2024-11-08 | 2025-02-21 | 2025-02-18 |
+| [openai-realtime-embedded-sdk](https://github.com/openai/openai-realtime-embedded-sdk) | A SDK to using the Realtime API with Microcontrollers like the ESP32 | C++ | 1469 | MIT License | 2024-11-14 | 2025-02-21 | 2025-01-05 |
 | [learning-lab](https://github.com/openai/learning-lab) | None | Python | 23 | MIT License | 2024-12-13 | 2025-02-03 | 2024-12-14 |
-| [openai-structured-outputs-samples](https://github.com/openai/openai-structured-outputs-samples) | Sample apps to help developers get started with Structured Outputs | TypeScript | 601 | MIT License | 2024-12-16 | 2025-02-18 | 2025-01-10 |
+| [openai-structured-outputs-samples](https://github.com/openai/openai-structured-outputs-samples) | Sample apps to help developers get started with Structured Outputs | TypeScript | 602 | MIT License | 2024-12-16 | 2025-02-20 | 2025-01-10 |
 | [openai-realtime-twilio-demo](https://github.com/openai/openai-realtime-twilio-demo) | None | TypeScript | 205 | MIT License | 2024-12-16 | 2025-02-19 | 2024-12-30 |
-| [openai-realtime-solar-system](https://github.com/openai/openai-realtime-solar-system) | Demo showing how to use the OpenAI Realtime API to navigate a 3D scene via tool calling | TypeScript | 357 | MIT License | 2025-01-13 | 2025-02-19 | 2025-01-29 |
-| [openai-realtime-agents](https://github.com/openai/openai-realtime-agents) | This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API. | TypeScript | 4997 | MIT License | 2025-01-16 | 2025-02-20 | 2025-02-13 |
+| [openai-realtime-solar-system](https://github.com/openai/openai-realtime-solar-system) | Demo showing how to use the OpenAI Realtime API to navigate a 3D scene via tool calling | TypeScript | 358 | MIT License | 2025-01-13 | 2025-02-20 | 2025-01-29 |
+| [openai-realtime-agents](https://github.com/openai/openai-realtime-agents) | This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API. | TypeScript | 5009 | MIT License | 2025-01-16 | 2025-02-21 | 2025-02-13 |
 | [openai-builder-lab](https://github.com/openai/openai-builder-lab) | None | TypeScript | 30 | Other | 2025-01-30 | 2025-02-19 | 2025-02-03 |
 | [openai-builder-lab-solution](https://github.com/openai/openai-builder-lab-solution) | None | TypeScript | 10 | Other | 2025-01-30 | 2025-02-18 | 2025-01-31 |
-| [model_spec](https://github.com/openai/model_spec) | The OpenAI Model Spec | None | 249 | Creative Commons Zero v1.0 Universal | 2025-02-06 | 2025-02-19 | 2025-02-12 |
-| [SWELancer-Benchmark](https://github.com/openai/SWELancer-Benchmark) | This repo contains the dataset and code for the paper "SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?" | Python | 521 | MIT License | 2025-02-18 | 2025-02-20 | 2025-02-20 |
+| [model_spec](https://github.com/openai/model_spec) | The OpenAI Model Spec | None | 252 | Creative Commons Zero v1.0 Universal | 2025-02-06 | 2025-02-21 | 2025-02-12 |
+| [SWELancer-Benchmark](https://github.com/openai/SWELancer-Benchmark) | This repo contains the dataset and code for the paper "SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?" | Python | 960 | MIT License | 2025-02-18 | 2025-02-21 | 2025-02-20 |
