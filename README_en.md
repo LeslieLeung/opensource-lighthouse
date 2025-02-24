@@ -11,78 +11,78 @@ A comprehensive summary of open-source teams and projects from various "big comp
 
 ## Statistics
 
-A total of 48461 projects, 62 companies, and 206 teams.
+A total of 48469 projects, 62 companies, and 206 teams.
 
 > [!TIP] 
 > You can click on the company name to view project details.
 
 | Company | Number of Teams | Number of Projects | Number of Active Projects in the Last Six Months | Total Stars | Top 3 Languages |
 | --- | --- | --- | --- | --- | --- |
-| [Google](page/Google.md) | 60 | 10448 | 3246 | 5116643 | Python, Java, JavaScript |
-| [Microsoft](page/Microsoft.md) | 29 | 16198 | 5532 | 4594183 | C#, Python, TypeScript |
-| [The Apache Software Foundation](page/The%20Apache%20Software%20Foundation.md) | 1 | 2721 | 1512 | 1180350 | Java, HTML, JavaScript |
-| [阿里巴巴](page/阿里巴巴.md) | 8 | 1354 | 383 | 1132369 | Java, Python, JavaScript |
-| [Meta](page/Meta.md) | 1 | 144 | 114 | 1010577 | C++, JavaScript, Rust |
-| [腾讯](page/腾讯.md) | 12 | 1076 | 364 | 680756 | Python, JavaScript, Java |
-| [Kubernetes](page/Kubernetes.md) | 1 | 158 | 144 | 579592 | Go, Shell, HTML |
-| [OpenAI](page/OpenAI.md) | 1 | 189 | 34 | 552087 | Python, TypeScript, Jupyter Notebook |
-| [Hugging Face](page/Hugging%20Face.md) | 1 | 295 | 138 | 496588 | Python, Jupyter Notebook, Rust |
-| [Vercel](page/Vercel.md) | 1 | 165 | 60 | 437300 | TypeScript, JavaScript, Shell |
-| [百度](page/百度.md) | 5 | 712 | 72 | 399890 | JavaScript, Python, C++ |
-| [Apple](page/Apple.md) | 6 | 893 | 338 | 368995 | C, C++, Python |
-| [HashiCorp](page/HashiCorp.md) | 1 | 919 | 360 | 311640 | Go, HCL, Shell |
-| [深度求索](page/深度求索.md) | 1 | 17 | 9 | 257971 | Python, Makefile |
-| [Netflix](page/Netflix.md) | 1 | 231 | 64 | 233994 | Java, JavaScript, Python |
-| [Amazon](page/Amazon.md) | 1 | 480 | 331 | 226107 | Python, Go, Java |
-| [X](page/X.md) | 1 | 101 | 8 | 204541 | Scala, Java, Python |
-| [JetBrains](page/JetBrains.md) | 1 | 725 | 275 | 204351 | Java, Kotlin, C# |
-| [Cloud Native Computing Foundation (CNCF)](page/Cloud%20Native%20Computing%20Foundation%20(CNCF).md) | 4 | 383 | 233 | 198140 | Go, Shell, HTML |
-| [Grafana Labs](page/Grafana%20Labs.md) | 1 | 815 | 379 | 183054 | Go, TypeScript, JavaScript |
-| [Docker](page/Docker.md) | 1 | 142 | 60 | 180002 | Go, TypeScript, JavaScript |
-| [Uber](page/Uber.md) | 2 | 192 | 54 | 175809 | Go, JavaScript, Python |
-| [字节跳动](page/字节跳动.md) | 4 | 377 | 145 | 171251 | Python, Go, C |
-| [Cloudflare](page/Cloudflare.md) | 1 | 486 | 458 | 165817 | JavaScript, Go, TypeScript |
-| [Shopify](page/Shopify.md) | 1 | 1087 | 266 | 163982 | Ruby, JavaScript, Go |
-| [清华大学](page/清华大学.md) | 2 | 167 | 62 | 161651 | Python, HTML, C++ |
-| [Datawhale](page/Datawhale.md) | 1 | 139 | 57 | 144490 | Jupyter Notebook, Python, HTML |
-| [饿了么](page/饿了么.md) | 2 | 94 | 1 | 125242 | JavaScript, Vue, Python |
-| [滴滴](page/滴滴.md) | 2 | 104 | 17 | 109878 | JavaScript, Java, Go |
-| [IBM](page/IBM.md) | 1 | 3498 | 851 | 100301 | Python, JavaScript, Java |
-| [哔哩哔哩](page/哔哩哔哩.md) | 1 | 78 | 11 | 93184 | C++, C, Java |
-| [美团](page/美团.md) | 3 | 137 | 4 | 91421 | Java, JavaScript, Python |
-| [Jina AI](page/Jina%20AI.md) | 1 | 240 | 17 | 63500 | Python, TypeScript, Jupyter Notebook |
-| [Canonical](page/Canonical.md) | 5 | 2129 | 1255 | 57641 | Python, Shell, Go |
-| [小米](page/小米.md) | 1 | 80 | 13 | 48853 | Java, Python, Go |
-| [360](page/360.md) | 2 | 92 | 9 | 44818 | C++, JavaScript, C |
-| [LLVM Foundation](page/LLVM%20Foundation.md) | 1 | 39 | 23 | 35865 | Python, HTML, C++ |
-| [京东](page/京东.md) | 1 | 92 | 19 | 26054 | Java, TypeScript, Go |
-| [网易](page/网易.md) | 1 | 93 | 4 | 21754 | JavaScript, Java, TypeScript |
-| [知乎](page/知乎.md) | 1 | 33 | 1 | 20964 | C++, Java, Go |
-| [爱奇艺](page/爱奇艺.md) | 1 | 19 | 2 | 20476 | Java, C, Python |
-| [Buf](page/Buf.md) | 1 | 60 | 51 | 17768 | Go, TypeScript, Makefile |
-| [七牛](page/七牛.md) | 1 | 152 | 22 | 16330 | Go, Java, JavaScript |
-| [Sony](page/Sony.md) | 1 | 91 | 39 | 16277 | Python, JavaScript, TypeScript |
-| [豆瓣](page/豆瓣.md) | 1 | 69 | 9 | 15227 | Python, Go, C |
+| [Google](page/Google.md) | 60 | 10449 | 3244 | 5117550 | Python, Java, JavaScript |
+| [Microsoft](page/Microsoft.md) | 29 | 16200 | 5525 | 4596689 | C#, Python, TypeScript |
+| [The Apache Software Foundation](page/The%20Apache%20Software%20Foundation.md) | 1 | 2722 | 1515 | 1182955 | Java, HTML, JavaScript |
+| [阿里巴巴](page/阿里巴巴.md) | 8 | 1354 | 384 | 1132769 | Java, Python, JavaScript |
+| [Meta](page/Meta.md) | 1 | 144 | 114 | 1010691 | C++, JavaScript, Rust |
+| [腾讯](page/腾讯.md) | 12 | 1076 | 364 | 680938 | Python, JavaScript, Java |
+| [Kubernetes](page/Kubernetes.md) | 1 | 158 | 144 | 579687 | Go, Shell, HTML |
+| [OpenAI](page/OpenAI.md) | 1 | 189 | 34 | 552422 | Python, TypeScript, Jupyter Notebook |
+| [Hugging Face](page/Hugging%20Face.md) | 1 | 295 | 137 | 497329 | Python, Jupyter Notebook, Rust |
+| [Vercel](page/Vercel.md) | 1 | 165 | 60 | 437463 | TypeScript, JavaScript, Shell |
+| [百度](page/百度.md) | 5 | 712 | 72 | 400020 | JavaScript, Python, C++ |
+| [Apple](page/Apple.md) | 6 | 893 | 336 | 369090 | C, C++, Python |
+| [HashiCorp](page/HashiCorp.md) | 1 | 919 | 360 | 311691 | Go, HCL, Shell |
+| [深度求索](page/深度求索.md) | 1 | 18 | 10 | 266788 | Python, Makefile, C++ |
+| [Netflix](page/Netflix.md) | 1 | 231 | 63 | 234009 | Java, JavaScript, Python |
+| [Amazon](page/Amazon.md) | 1 | 480 | 331 | 226155 | Python, Go, Java |
+| [X](page/X.md) | 1 | 101 | 8 | 204559 | Scala, Java, Python |
+| [JetBrains](page/JetBrains.md) | 1 | 725 | 274 | 204391 | Java, Kotlin, C# |
+| [Cloud Native Computing Foundation (CNCF)](page/Cloud%20Native%20Computing%20Foundation%20(CNCF).md) | 4 | 383 | 233 | 198208 | Go, Shell, HTML |
+| [Grafana Labs](page/Grafana%20Labs.md) | 1 | 815 | 378 | 183144 | Go, TypeScript, JavaScript |
+| [Docker](page/Docker.md) | 1 | 142 | 60 | 180055 | Go, TypeScript, JavaScript |
+| [Uber](page/Uber.md) | 2 | 192 | 54 | 175858 | Go, JavaScript, Python |
+| [字节跳动](page/字节跳动.md) | 4 | 377 | 144 | 171451 | Python, Go, C |
+| [Cloudflare](page/Cloudflare.md) | 1 | 486 | 458 | 165881 | JavaScript, Go, TypeScript |
+| [Shopify](page/Shopify.md) | 1 | 1087 | 265 | 164013 | Ruby, JavaScript, Go |
+| [清华大学](page/清华大学.md) | 2 | 167 | 62 | 161725 | Python, HTML, C++ |
+| [Datawhale](page/Datawhale.md) | 1 | 139 | 57 | 144770 | Jupyter Notebook, Python, HTML |
+| [饿了么](page/饿了么.md) | 2 | 94 | 1 | 125244 | JavaScript, Vue, Python |
+| [滴滴](page/滴滴.md) | 2 | 104 | 16 | 109887 | JavaScript, Java, Go |
+| [IBM](page/IBM.md) | 1 | 3499 | 850 | 100336 | Python, JavaScript, Java |
+| [哔哩哔哩](page/哔哩哔哩.md) | 1 | 78 | 11 | 93189 | C++, C, Java |
+| [美团](page/美团.md) | 3 | 137 | 4 | 91423 | Java, JavaScript, Python |
+| [Jina AI](page/Jina%20AI.md) | 1 | 240 | 17 | 63556 | Python, TypeScript, Jupyter Notebook |
+| [Canonical](page/Canonical.md) | 5 | 2131 | 1256 | 57663 | Python, Shell, Go |
+| [小米](page/小米.md) | 1 | 80 | 13 | 48884 | Java, Python, Go |
+| [360](page/360.md) | 2 | 92 | 9 | 44813 | C++, JavaScript, C |
+| [LLVM Foundation](page/LLVM%20Foundation.md) | 1 | 39 | 23 | 35893 | Python, HTML, C++ |
+| [京东](page/京东.md) | 1 | 92 | 19 | 26059 | Java, TypeScript, Go |
+| [网易](page/网易.md) | 1 | 93 | 4 | 21756 | JavaScript, Java, TypeScript |
+| [知乎](page/知乎.md) | 1 | 33 | 1 | 20970 | C++, Java, Go |
+| [爱奇艺](page/爱奇艺.md) | 1 | 19 | 2 | 20478 | Java, C, Python |
+| [Buf](page/Buf.md) | 1 | 60 | 50 | 17770 | Go, TypeScript, Makefile |
+| [七牛](page/七牛.md) | 1 | 152 | 22 | 16331 | Go, Java, JavaScript |
+| [Sony](page/Sony.md) | 1 | 91 | 39 | 16288 | Python, JavaScript, TypeScript |
+| [豆瓣](page/豆瓣.md) | 1 | 69 | 9 | 15228 | Python, Go, C |
 | [极光开发者](page/极光开发者.md) | 1 | 93 | 15 | 13733 | Objective-C, Java, JavaScript |
-| [唯品会](page/唯品会.md) | 1 | 16 | 1 | 12719 | C, Java, Objective-C |
-| [开放原子开源基金会](page/开放原子开源基金会.md) | 1 | 9 | 3 | 12646 | C++, Go, HTML |
-| [蚂蚁集团](page/蚂蚁集团.md) | 1 | 95 | 22 | 12304 | Python, Java, C |
-| [携程](page/携程.md) | 1 | 49 | 8 | 11537 | Java, JavaScript, C |
-| [58同城](page/58同城.md) | 1 | 32 | 3 | 10540 | TypeScript, Java, Dart |
-| [新浪微博](page/新浪微博.md) | 1 | 21 | 6 | 9526 | Java, Go, C |
+| [唯品会](page/唯品会.md) | 1 | 16 | 1 | 12716 | C, Java, Objective-C |
+| [开放原子开源基金会](page/开放原子开源基金会.md) | 1 | 9 | 3 | 12644 | C++, Go, HTML |
+| [蚂蚁集团](page/蚂蚁集团.md) | 1 | 95 | 22 | 12307 | Python, Java, C |
+| [携程](page/携程.md) | 1 | 49 | 8 | 11541 | Java, JavaScript, C |
+| [58同城](page/58同城.md) | 1 | 32 | 3 | 10541 | TypeScript, Java, Dart |
+| [新浪微博](page/新浪微博.md) | 1 | 21 | 6 | 9525 | Java, Go, C |
 | [去哪儿](page/去哪儿.md) | 1 | 47 | 0 | 8174 | JavaScript, Objective-C, Java |
-| [陌陌](page/陌陌.md) | 1 | 15 | 1 | 7470 | Java, Python, PHP |
+| [陌陌](page/陌陌.md) | 1 | 15 | 1 | 7471 | Java, Python, PHP |
 | [当当](page/当当.md) | 1 | 8 | 0 | 5465 | Java, Lua |
 | [斗鱼](page/斗鱼.md) | 1 | 10 | 2 | 5095 | Go, JavaScript, Shell |
-| [快手](page/快手.md) | 1 | 4 | 0 | 3874 | C++, Dart, Java |
-| [环信](page/环信.md) | 1 | 158 | 45 | 3480 | Java, Objective-C, Erlang |
+| [快手](page/快手.md) | 1 | 4 | 0 | 3875 | C++, Dart, Java |
+| [环信](page/环信.md) | 1 | 158 | 44 | 3482 | Java, Objective-C, Erlang |
 | [华为](page/华为.md) | 1 | 109 | 7 | 2031 | Python, Java, Go |
 | [YY](page/YY.md) | 1 | 40 | 0 | 1139 | JavaScript, Objective-C, CSS |
 | [搜狐](page/搜狐.md) | 1 | 3 | 0 | 768 | C, C++ |
 | [Boeing](page/Boeing.md) | 1 | 38 | 12 | 439 | C++, Python, C |
 
 
-Statistics Date: 2025-02-23 08:07:19
+Statistics Date: 2025-02-24 08:08:57
 
 ## Teams
 
