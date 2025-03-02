@@ -1,15 +1,15 @@
 # Sony
 
-共 97 个项目，近半年内活跃项目 45 个，1 个团队， 16333 个 Star。
+共 97 个项目，近半年内活跃项目 45 个，1 个团队， 16336 个 Star。
 
 语言 Top 3：Python, JavaScript, TypeScript
 
-统计时间：2025-03-01 08:07:19
+统计时间：2025-03-02 08:07:18
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3058 | MIT License | 2015-05-29 | 2025-02-28 | 2024-12-30 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4041 | MIT License | 2015-05-29 | 2025-02-28 | 2024-10-13 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3060 | MIT License | 2015-05-29 | 2025-03-01 | 2024-12-30 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4041 | MIT License | 2015-05-29 | 2025-03-01 | 2024-10-13 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 404 | MIT License | 2015-09-18 | 2025-02-20 | 2020-12-29 |
@@ -75,7 +75,7 @@
 | [bigvsan_eval](https://github.com/sony/bigvsan_eval) | Evaluation tool used in the BigVSAN paper | Python | 11 | MIT License | 2023-09-01 | 2025-02-09 | 2024-03-22 |
 | [timbre-trap](https://github.com/sony/timbre-trap) | Code for the paper "Timbre-Trap: A Low-Resource Framework for Instrument-Agnostic Music Transcription" | Python | 38 | MIT License | 2023-09-12 | 2025-02-27 | 2024-05-05 |
 | [custom_layers](https://github.com/sony/custom_layers) | None | Python | 8 | Apache License 2.0 | 2023-09-21 | 2025-02-19 | 2025-02-19 |
-| [ctm](https://github.com/sony/ctm) | None | Python | 268 | - | 2023-10-10 | 2025-02-25 | 2024-10-10 |
+| [ctm](https://github.com/sony/ctm) | None | Python | 269 | - | 2023-10-10 | 2025-03-01 | 2024-10-10 |
 | [SR-Display-Plugin-Preview-BL](https://github.com/sony/SR-Display-Plugin-Preview-BL) | None | Python | 4 | MIT License | 2023-12-13 | 2024-08-17 | 2024-05-24 |
 | [pyAutoPort](https://github.com/sony/pyAutoPort) | None | Python | 6 | BSD 3-Clause "New" or "Revised" License | 2023-12-13 | 2025-02-25 | 2025-01-16 |
 | [SR-Display-Plugin-Preview-ZB](https://github.com/sony/SR-Display-Plugin-Preview-ZB) | None | None | 1 | MIT License | 2024-02-19 | 2024-02-19 | 2024-02-19 |
