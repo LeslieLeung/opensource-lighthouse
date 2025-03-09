@@ -1,10 +1,10 @@
 # Sony
 
-A total of 98 projects, 46 active projects in the last six months, 1 teams, and 16376 stars.
+A total of 98 projects, 46 active projects in the last six months, 1 teams, and 16380 stars.
 
 Top 3 Languages: Python, JavaScript, TypeScript
 
-Statistics Date: 2025-03-08 08:06:21
+Statistics Date: 2025-03-09 08:07:26
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -39,11 +39,11 @@ Statistics Date: 2025-03-08 08:06:21
 | [ai-research-code](https://github.com/sony/ai-research-code) | None | Python | 350 | Apache License 2.0 | 2020-04-14 | 2025-01-08 | 2023-09-12 |
 | [nnabla-nas](https://github.com/sony/nnabla-nas) | Neural Architecture Search for Neural Network Libraries | Python | 59 | Apache License 2.0 | 2020-06-15 | 2025-03-03 | 2024-01-22 |
 | [micro-notifier](https://github.com/sony/micro-notifier) | Simplified Pusher Clone | Go | 12 | MIT License | 2020-09-06 | 2024-12-29 | 2023-05-05 |
-| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1249 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2025-03-07 | 2025-02-12 |
+| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1250 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2025-03-08 | 2025-02-12 |
 | [lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) | None | Python | 0 | MIT License | 2021-03-25 | 2021-05-13 | 2021-05-13 |
 | [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 123 | Apache License 2.0 | 2021-06-11 | 2025-02-26 | 2024-12-16 |
 | [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 99 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2025-03-06 | 2024-12-19 |
-| [model_optimization](https://github.com/sony/model_optimization) | Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks. | Python | 368 | Apache License 2.0 | 2021-06-21 | 2025-03-05 | 2025-03-05 |
+| [model_optimization](https://github.com/sony/model_optimization) | Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks. | Python | 369 | Apache License 2.0 | 2021-06-21 | 2025-03-08 | 2025-03-05 |
 | [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 496 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2025-03-05 | 2024-12-19 |
 | [flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) | Flutter plugins for embedded Linux (eLinux) | C++ | 54 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2025-03-08 | 2024-12-13 |
 | [ds-research-code](https://github.com/sony/ds-research-code) | None | Python | 0 | - | 2021-07-19 | 2023-02-07 | 2023-01-30 |
@@ -88,7 +88,7 @@ Statistics Date: 2025-03-08 08:06:21
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 39 | MIT License | 2024-09-05 | 2025-02-11 | 2024-11-05 |
 | [esstra](https://github.com/sony/esstra) | A software suite for enhancing software supply chain transparency | Python | 5 | Other | 2024-10-03 | 2025-03-06 | 2025-03-06 |
 | [pagoda](https://github.com/sony/pagoda) | None | Python | 17 | MIT License | 2024-10-23 | 2025-02-19 | 2024-11-21 |
-| [okg](https://github.com/sony/okg) | Official Repo for The Paper "OKG: On-the-fly Keyword Generation in Search Sponsered Advertising" (Coling'25) | Jupyter Notebook | 2 | Other | 2024-11-15 | 2025-02-18 | 2025-02-14 |
+| [okg](https://github.com/sony/okg) | Official Repo for The Paper "OKG: On-the-fly Keyword Generation in Search Sponsered Advertising" (Coling'25) | Jupyter Notebook | 3 | Other | 2024-11-15 | 2025-03-09 | 2025-02-14 |
 | [dual-pixel-disparity](https://github.com/sony/dual-pixel-disparity) | None | Python | 2 | MIT License | 2024-11-19 | 2025-02-12 | 2025-01-29 |
 | [openmu](https://github.com/sony/openmu) | None | Python | 7 | MIT License | 2024-11-27 | 2025-02-12 | 2024-12-26 |
 | [stamp](https://github.com/sony/stamp) | None | TypeScript | 7 | MIT License | 2025-01-20 | 2025-02-28 | 2025-02-28 |
@@ -103,6 +103,6 @@ Statistics Date: 2025-03-08 08:06:21
 | [QuietWalk](https://github.com/sony/QuietWalk) | None | JavaScript | 0 | - | 2025-02-12 | 2025-02-23 | 2025-02-23 |
 | [talkhier](https://github.com/sony/talkhier) | Official Repo for The Paper "Talk Structurally, Act Hierarchically: A Collaborative Framework for LLM Multi-Agent Systems" | Python | 41 | Other | 2025-02-13 | 2025-03-07 | 2025-02-24 |
 | [aki](https://github.com/sony/aki) | Official implementation of "Seeing is Understanding: Unlocking Causal Attention into Modality-Mutual Attention for Multimodal LLMs" | Python | 6 | Other | 2025-02-13 | 2025-03-07 | 2025-03-06 |
-| [vct](https://github.com/sony/vct) | None | Jupyter Notebook | 3 | - | 2025-02-14 | 2025-03-03 | 2025-02-25 |
+| [vct](https://github.com/sony/vct) | None | Jupyter Notebook | 4 | - | 2025-02-14 | 2025-03-08 | 2025-02-25 |
 | [EXID](https://github.com/sony/EXID) | Official implementation of Enhancing Generalization of Offline RL in Data-Limited Settings with Heuristic Rules (Accepted in IEEE TRANSACTIONS ON ARTIFICIAL INTELLIGENCE 2025) | Jupyter Notebook | 0 | MIT License | 2025-02-19 | 2025-02-27 | 2025-02-20 |
 | [humangif](https://github.com/sony/humangif) | None | Python | 0 | MIT License | 2025-02-25 | 2025-02-27 | 2025-02-27 |
