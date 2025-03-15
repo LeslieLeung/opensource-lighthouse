@@ -4,7 +4,7 @@
 
 语言 Top 3：C++, Python, C
 
-统计时间：2025-03-14 08:08:19
+统计时间：2025-03-15 08:07:22
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -43,6 +43,6 @@
 | [genai-for-multi-label](https://github.com/Boeing/genai-for-multi-label) | Fine-tuning LLMs for Multi-label Text Classification | None | 0 | - | 2024-07-01 | 2024-07-01 | 2024-07-01 |
 | [step_to_sdf](https://github.com/Boeing/step_to_sdf) | This package provides a mechanism for converting between STEP and SDF. | None | 0 | - | 2024-08-12 | 2024-08-12 | 2024-08-12 |
 | [aircraft-data-hierarchy](https://github.com/Boeing/aircraft-data-hierarchy) | None | Python | 8 | Apache License 2.0 | 2024-09-18 | 2025-03-07 | 2025-03-13 |
-| [standard-evaluator](https://github.com/Boeing/standard-evaluator) | None | HTML | 3 | Other | 2024-09-18 | 2025-03-13 | 2025-03-13 |
+| [standard-evaluator](https://github.com/Boeing/standard-evaluator) | None | HTML | 3 | Other | 2024-09-18 | 2025-03-14 | 2025-03-14 |
 | [libc-test](https://github.com/Boeing/libc-test) | None | C | 2 | Other | 2024-11-06 | 2024-12-12 | 2024-12-04 |
 | [aviation_ner_sdr](https://github.com/Boeing/aviation_ner_sdr) | Collaboration work between FAA and Boeing on identifying safety hazards in Service Difficulty Reports (SDR) | Python | 0 | MIT License | 2024-12-10 | 2024-12-20 | 2024-12-20 |
