@@ -1,14 +1,14 @@
 # Sony
 
-A total of 102 projects, 50 active projects in the last six months, 1 teams, and 16547 stars.
+A total of 102 projects, 50 active projects in the last six months, 1 teams, and 16551 stars.
 
 Top 3 Languages: Python, JavaScript, Jupyter Notebook
 
-Statistics Date: 2025-03-29 08:07:25
+Statistics Date: 2025-03-30 08:07:30
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3101 | MIT License | 2015-05-29 | 2025-03-28 | 2025-03-25 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3102 | MIT License | 2015-05-29 | 2025-03-29 | 2025-03-25 |
 | [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4068 | MIT License | 2015-05-29 | 2025-03-29 | 2024-10-13 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
@@ -44,7 +44,7 @@ Statistics Date: 2025-03-29 08:07:25
 | [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 121 | Apache License 2.0 | 2021-06-11 | 2025-03-21 | 2024-12-16 |
 | [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 99 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2025-03-06 | 2024-12-19 |
 | [model_optimization](https://github.com/sony/model_optimization) | Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks. | Python | 379 | Apache License 2.0 | 2021-06-21 | 2025-03-28 | 2025-03-27 |
-| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 504 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2025-03-28 | 2024-12-19 |
+| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 505 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2025-03-29 | 2024-12-19 |
 | [flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) | Flutter plugins for embedded Linux (eLinux) | C++ | 54 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2025-03-08 | 2024-12-13 |
 | [ds-research-code](https://github.com/sony/ds-research-code) | None | Python | 0 | - | 2021-07-19 | 2023-02-07 | 2023-01-30 |
 | [pyIEOE](https://github.com/sony/pyIEOE) | None | Python | 31 | MIT License | 2021-07-20 | 2025-02-17 | 2025-02-21 |
@@ -84,7 +84,7 @@ Statistics Date: 2025-03-29 08:07:25
 | [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 85 | MIT License | 2024-06-04 | 2025-03-15 | 2025-02-14 |
 | [silentcipher](https://github.com/sony/silentcipher) | None | Python | 44 | MIT License | 2024-06-05 | 2025-03-24 | 2024-07-22 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 12 | MIT License | 2024-07-09 | 2025-03-15 | 2025-03-05 |
-| [genwarp](https://github.com/sony/genwarp) | None | Python | 265 | MIT License | 2024-08-06 | 2025-03-29 | 2024-09-26 |
+| [genwarp](https://github.com/sony/genwarp) | None | Python | 267 | MIT License | 2024-08-06 | 2025-03-30 | 2024-09-26 |
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 40 | MIT License | 2024-09-05 | 2025-03-12 | 2024-11-05 |
 | [esstra](https://github.com/sony/esstra) | A software suite for enhancing software supply chain transparency | Python | 7 | Other | 2024-10-03 | 2025-03-27 | 2025-03-25 |
 | [pagoda](https://github.com/sony/pagoda) | None | Python | 17 | MIT License | 2024-10-23 | 2025-02-19 | 2024-11-21 |
