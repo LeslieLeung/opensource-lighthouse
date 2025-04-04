@@ -1,15 +1,15 @@
 # Jina AI
 
-A total of 241 projects, 17 active projects in the last six months, 1 teams, and 65661 stars.
+A total of 241 projects, 17 active projects in the last six months, 1 teams, and 65694 stars.
 
 Top 3 Languages: Python, TypeScript, Jupyter Notebook
 
-Statistics Date: 2025-04-03 08:08:39
+Statistics Date: 2025-04-04 08:08:37
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [clip-as-service](https://github.com/jina-ai/clip-as-service) | 🏄 Scalable embedding, reasoning, ranking for images and sentences with CLIP | Python | 12621 | Other | 2018-11-12 | 2025-04-01 | 2024-01-23 |
-| [serve](https://github.com/jina-ai/serve) | ☁️ Build multimodal AI applications with cloud-native stack | Python | 21495 | Apache License 2.0 | 2020-02-13 | 2025-04-03 | 2025-03-24 |
+| [clip-as-service](https://github.com/jina-ai/clip-as-service) | 🏄 Scalable embedding, reasoning, ranking for images and sentences with CLIP | Python | 12622 | Other | 2018-11-12 | 2025-04-03 | 2024-01-23 |
+| [serve](https://github.com/jina-ai/serve) | ☁️ Build multimodal AI applications with cloud-native stack | Python | 21495 | Apache License 2.0 | 2020-02-13 | 2025-04-04 | 2025-03-24 |
 | [examples](https://github.com/jina-ai/examples) | Jina examples and demos to help you get started | Python | 458 | Apache License 2.0 | 2020-02-17 | 2025-03-11 | 2021-11-01 |
 | [docs](https://github.com/jina-ai/docs) | Jina V1 Official Documentation. For the latest one, please check out https://docs.jina.ai | HTML | 35 | - | 2020-03-09 | 2024-05-16 | 2022-06-13 |
 | [jina-hub](https://github.com/jina-ai/jina-hub) | An open-registry for hosting Jina executors via container images | Python | 108 | Apache License 2.0 | 2020-03-15 | 2025-01-19 | 2021-08-31 |
@@ -18,9 +18,9 @@ Statistics Date: 2025-04-03 08:08:39
 | [press-kit](https://github.com/jina-ai/press-kit) | Visual branding, identity, color palette of Jina AI Limited | None | 4 | - | 2020-04-10 | 2024-04-02 | 2022-11-18 |
 | [dashboard](https://github.com/jina-ai/dashboard) | Interactive UI for analyzing Jina logs, designing Flows and viewing Hub images | TypeScript | 118 | Apache License 2.0 | 2020-04-10 | 2025-01-19 | 2022-09-29 |
 | [legal](https://github.com/jina-ai/legal) | Legal statements apply to services and products that Jina AI Limited offers. | None | 2 | Apache License 2.0 | 2020-04-23 | 2025-03-06 | 2020-04-26 |
-| [jina-ai.github.io](https://github.com/jina-ai/jina-ai.github.io) | Homepage of Jina AI | HTML | 36 | - | 2020-04-23 | 2025-04-03 | 2025-04-03 |
+| [jina-ai.github.io](https://github.com/jina-ai/jina-ai.github.io) | Homepage of Jina AI | HTML | 37 | - | 2020-04-23 | 2025-04-04 | 2025-04-03 |
 | [career](https://github.com/jina-ai/career) | Find out job opportunities at Jina AI | None | 18 | - | 2020-04-29 | 2024-04-02 | 2020-10-09 |
-| [api](https://github.com/jina-ai/api) | API schema of Jina command line interface exposed as JSON and YAML files. | HTML | 11 | Apache License 2.0 | 2020-05-02 | 2025-03-04 | 2025-02-25 |
+| [api](https://github.com/jina-ai/api) | API schema of Jina command line interface exposed as JSON and YAML files. | HTML | 12 | Apache License 2.0 | 2020-05-02 | 2025-04-04 | 2025-02-25 |
 | [jinabox.js](https://github.com/jina-ai/jinabox.js) | A lightweight, customizable omnibox in Javascript, for use with a Jina backend. | JavaScript | 221 | Apache License 2.0 | 2020-05-03 | 2025-02-12 | 2021-06-08 |
 | [cookiecutter-jina](https://github.com/jina-ai/cookiecutter-jina) | Cookiecutter template for a Jina project | Python | 10 | Apache License 2.0 | 2020-06-07 | 2024-04-02 | 2022-01-24 |
 | [cookiecutter-jina-executor](https://github.com/jina-ai/cookiecutter-jina-executor) | Cookiecutter for building a new Jina executor | Python | 1 | Apache License 2.0 | 2020-08-19 | 2024-04-02 | 2021-07-26 |
@@ -39,7 +39,7 @@ Statistics Date: 2025-04-03 08:08:39
 | [jupyter-notebooks](https://github.com/jina-ai/jupyter-notebooks) | None | Jupyter Notebook | 3 | Apache License 2.0 | 2021-01-12 | 2024-04-02 | 2022-03-09 |
 | [react-flow-chart](https://github.com/jina-ai/react-flow-chart) | A flexible, stateless, declarative flow chart library for react. | None | 3 | MIT License | 2021-01-22 | 2024-04-02 | 2020-11-10 |
 | [GSoC](https://github.com/jina-ai/GSoC) | Google Summer of Code | None | 64 | - | 2021-02-16 | 2025-03-05 | 2023-04-04 |
-| [workshops](https://github.com/jina-ai/workshops) | None | Jupyter Notebook | 19 | - | 2021-02-18 | 2024-08-14 | 2024-07-11 |
+| [workshops](https://github.com/jina-ai/workshops) | None | Jupyter Notebook | 20 | - | 2021-02-18 | 2025-04-04 | 2024-07-11 |
 | [terraform-jina-jinad-aws](https://github.com/jina-ai/terraform-jina-jinad-aws) | Module for deploying JinaD on AWS | HCL | 3 | Apache License 2.0 | 2021-02-27 | 2024-04-02 | 2021-10-22 |
 | [cloud-helper](https://github.com/jina-ai/cloud-helper) | Library of helper tools to interact with cloud resources. | Python | 1 | Apache License 2.0 | 2021-04-29 | 2024-04-02 | 2021-05-18 |
 | [cookiecutter_test](https://github.com/jina-ai/cookiecutter_test) | Test Repo for the cookie-cuter implementation | JavaScript | 1 | - | 2021-05-11 | 2024-04-02 | 2021-05-11 |
@@ -88,7 +88,7 @@ Statistics Date: 2025-04-03 08:08:39
 | [finetuner](https://github.com/jina-ai/finetuner) | :dart: Task-oriented embedding tuning for BERT, CLIP, etc. | Python | 1491 | Apache License 2.0 | 2021-08-11 | 2025-03-28 | 2024-03-11 |
 | [example-wikipedia-recommendation](https://github.com/jina-ai/example-wikipedia-recommendation) | An example of graph embeddings for wikipedia page recommendations | Jupyter Notebook | 10 | - | 2021-08-25 | 2024-09-12 | 2021-08-26 |
 | [annlite](https://github.com/jina-ai/annlite) | ⚡ A fast embedded library for approximate nearest neighbor search | Python | 228 | Apache License 2.0 | 2021-08-27 | 2025-04-01 | 2023-07-21 |
-| [.github](https://github.com/jina-ai/.github) | This repository stores github actions templates as described https://docs.github.com/en/actions/learn-github-actions/sharing-workflows-with-your-organization | None | 10 | - | 2021-09-06 | 2025-01-06 | 2024-12-06 |
+| [.github](https://github.com/jina-ai/.github) | This repository stores github actions templates as described https://docs.github.com/en/actions/learn-github-actions/sharing-workflows-with-your-organization | None | 11 | - | 2021-09-06 | 2025-04-04 | 2024-12-06 |
 | [executor-simpleindexer](https://github.com/jina-ai/executor-simpleindexer) | Simple Indexer  | Python | 13 | Apache License 2.0 | 2021-09-10 | 2025-03-05 | 2023-03-07 |
 | [executor-doc2query](https://github.com/jina-ai/executor-doc2query) | None | Python | 4 | Apache License 2.0 | 2021-09-13 | 2024-04-02 | 2022-07-27 |
 | [executor-text-transformers-torch-encoder](https://github.com/jina-ai/executor-text-transformers-torch-encoder) | **TransformerTorchEncoder** wraps the torch-version of transformers from huggingface. It encodes text data into dense vectors. | Python | 9 | - | 2021-09-20 | 2024-04-02 | 2023-03-06 |
@@ -130,7 +130,7 @@ Statistics Date: 2025-04-03 08:08:39
 | [executor-text-transformerqa](https://github.com/jina-ai/executor-text-transformerqa) | **TransformerQAExecutor* wraps a question-answering model from huggingface and return relevant answers given questions and contexts/paragraphs. | Python | 4 | - | 2021-12-06 | 2024-04-02 | 2022-07-28 |
 | [executor-image-clothing-segmenter](https://github.com/jina-ai/executor-image-clothing-segmenter) | An executor that performs image segmentation on fashion items | Python | 6 | MIT License | 2021-12-08 | 2024-11-05 | 2022-06-09 |
 | [example-multimodal-fashion-search](https://github.com/jina-ai/example-multimodal-fashion-search) | Input text or image, get back matching image fashion results, using Jina, DocArray, and CLIP | Python | 49 | Apache License 2.0 | 2021-12-13 | 2024-12-13 | 2022-09-20 |
-| [fastapi](https://github.com/jina-ai/fastapi) | None | Python | 7 | MIT License | 2021-12-22 | 2024-07-29 | 2024-08-20 |
+| [fastapi](https://github.com/jina-ai/fastapi) | None | Python | 8 | MIT License | 2021-12-22 | 2025-04-04 | 2024-08-20 |
 | [rich](https://github.com/jina-ai/rich) | Rich is a Python library for rich text and beautiful formatting in the terminal. | Python | 1 | MIT License | 2021-12-23 | 2024-04-02 | 2021-12-23 |
 | [executor-onnx-encoder](https://github.com/jina-ai/executor-onnx-encoder) | An executor that loads ONNX models and embeds documents using the ONNX runtime. | Python | 3 | - | 2021-12-24 | 2025-01-16 | 2022-06-10 |
 | [executor-image-preprocessor](https://github.com/jina-ai/executor-image-preprocessor) | An executor that performs standard pre-processing and normalization on images. | Python | 6 | - | 2021-12-24 | 2024-04-02 | 2022-08-08 |
@@ -184,7 +184,7 @@ Statistics Date: 2025-04-03 08:08:39
 | [CLIP](https://github.com/jina-ai/CLIP) | Contrastive Language-Image Pretraining | None | 1 | MIT License | 2022-07-19 | 2023-03-30 | 2022-07-14 |
 | [executor-text-rocketqa-dual-encoder](https://github.com/jina-ai/executor-text-rocketqa-dual-encoder) | None | Python | 0 | Apache License 2.0 | 2022-07-21 | 2022-07-21 | 2022-07-21 |
 | [executor-text-rocketqa-cross-reranker](https://github.com/jina-ai/executor-text-rocketqa-cross-reranker) | None | Python | 0 | Apache License 2.0 | 2022-07-21 | 2022-07-21 | 2022-07-21 |
-| [Events](https://github.com/jina-ai/Events) | public presentations and infographics in the Jina community. | Jupyter Notebook | 2 | Apache License 2.0 | 2022-07-25 | 2025-02-22 | 2025-01-23 |
+| [Events](https://github.com/jina-ai/Events) | public presentations and infographics in the Jina community. | Jupyter Notebook | 3 | Apache License 2.0 | 2022-07-25 | 2025-04-04 | 2025-01-23 |
 | [vue3-json-viewer](https://github.com/jina-ai/vue3-json-viewer) | Simple JSON viewer component, for Vue.js 3.x  | Vue | 1 | MIT License | 2022-07-26 | 2022-07-26 | 2022-07-26 |
 | [SwinIR](https://github.com/jina-ai/SwinIR) | SwinIR: Image Restoration Using Swin Transformer (official repository) | Python | 1 | Apache License 2.0 | 2022-07-26 | 2023-03-30 | 2022-08-10 |
 | [executor-codegen-paddlenlp-generator](https://github.com/jina-ai/executor-codegen-paddlenlp-generator) | None | Python | 1 | Apache License 2.0 | 2022-07-30 | 2022-08-07 | 2022-07-30 |
@@ -226,26 +226,26 @@ Statistics Date: 2025-04-03 08:08:39
 | [jinaai-py](https://github.com/jina-ai/jinaai-py) | None | Python | 53 | Apache License 2.0 | 2023-06-09 | 2025-03-16 | 2024-02-14 |
 | [fastapi-serve](https://github.com/jina-ai/fastapi-serve) | FastAPI to the Cloud, Batteries Included! ☁️🔋🚀 | Python | 145 | Apache License 2.0 | 2023-07-11 | 2025-01-25 | 2023-08-22 |
 | [textbook](https://github.com/jina-ai/textbook) | distill chatGPT coding ability into small model (1b) | Python | 28 | - | 2023-07-24 | 2025-02-05 | 2023-09-07 |
-| [mteb-long-documents](https://github.com/jina-ai/mteb-long-documents) | MTEB: Massive Text Embedding Benchmark | Python | 2 | Apache License 2.0 | 2023-09-08 | 2024-09-19 | 2024-09-19 |
-| [jina-sagemaker](https://github.com/jina-ai/jina-sagemaker) | Jina Embedding Models on AWS SageMaker | Jupyter Notebook | 11 | Apache License 2.0 | 2023-09-13 | 2025-04-03 | 2025-04-03 |
+| [mteb-long-documents](https://github.com/jina-ai/mteb-long-documents) | MTEB: Massive Text Embedding Benchmark | Python | 3 | Apache License 2.0 | 2023-09-08 | 2025-04-04 | 2024-09-19 |
+| [jina-sagemaker](https://github.com/jina-ai/jina-sagemaker) | Jina Embedding Models on AWS SageMaker | Jupyter Notebook | 12 | Apache License 2.0 | 2023-09-13 | 2025-04-04 | 2025-04-03 |
 | [terraform-jcloud-aws-infra](https://github.com/jina-ai/terraform-jcloud-aws-infra) | JCloud terraform modules for AWS | HCL | 2 | Apache License 2.0 | 2023-09-14 | 2025-02-22 | 2024-01-22 |
 | [mteb-de](https://github.com/jina-ai/mteb-de) | MTEB: Massive Text Embedding Benchmark | Python | 11 | Apache License 2.0 | 2023-10-31 | 2024-12-10 | 2024-01-29 |
 | [UniEval](https://github.com/jina-ai/UniEval) | Repository for EMNLP 2022 Paper: Towards a Unified Multi-Dimensional Evaluator for Text Generation | None | 0 | MIT License | 2023-12-08 | 2023-12-08 | 2023-12-11 |
 | [mteb-es](https://github.com/jina-ai/mteb-es) | MTEB: Massive Text Embedding Benchmark with Spanish datasets | Python | 4 | Apache License 2.0 | 2024-01-12 | 2024-10-04 | 2024-02-19 |
 | [scenex-alt-texter](https://github.com/jina-ai/scenex-alt-texter) | Automatically generate alt tags for Ghost blog using SceneXplain | Python | 0 | - | 2024-01-23 | 2024-01-30 | 2024-02-16 |
 | [azure-metered-billing-accelerator](https://github.com/jina-ai/azure-metered-billing-accelerator) | None | F# | 0 | MIT License | 2024-01-25 | 2024-02-20 | 2024-02-23 |
-| [openclip](https://github.com/jina-ai/openclip) | An open source implementation of CLIP | Python | 19 | Other | 2024-01-29 | 2025-03-23 | 2024-11-06 |
+| [openclip](https://github.com/jina-ai/openclip) | An open source implementation of CLIP | Python | 20 | Other | 2024-01-29 | 2025-04-04 | 2024-11-06 |
 | [ColBERT](https://github.com/jina-ai/ColBERT) | ColBERT: state-of-the-art neural search (SIGIR'20, TACL'21, NeurIPS'21, NAACL'22, CIKM'22, ACL'23, EMNLP'23) | Python | 5 | MIT License | 2024-02-02 | 2025-03-25 | 2024-05-17 |
 | [paper-sag](https://github.com/jina-ai/paper-sag) | None | None | 0 | - | 2024-02-23 | 2024-02-23 | 2024-02-23 |
-| [csp-examples](https://github.com/jina-ai/csp-examples) | None | Jupyter Notebook | 1 | - | 2024-04-09 | 2025-04-01 | 2025-04-01 |
-| [reader](https://github.com/jina-ai/reader) | Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/ | TypeScript | 8463 | Apache License 2.0 | 2024-04-10 | 2025-04-03 | 2025-04-03 |
-| [puppeteer-extra-plugin-page-proxy](https://github.com/jina-ai/puppeteer-extra-plugin-page-proxy) | Additional module to use with 'puppeteer' for setting proxies per page basis. | None | 2 | - | 2024-04-23 | 2025-02-23 | 2024-10-29 |
+| [csp-examples](https://github.com/jina-ai/csp-examples) | None | Jupyter Notebook | 2 | - | 2024-04-09 | 2025-04-04 | 2025-04-03 |
+| [reader](https://github.com/jina-ai/reader) | Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/ | TypeScript | 8468 | Apache License 2.0 | 2024-04-10 | 2025-04-04 | 2025-04-03 |
+| [puppeteer-extra-plugin-page-proxy](https://github.com/jina-ai/puppeteer-extra-plugin-page-proxy) | Additional module to use with 'puppeteer' for setting proxies per page basis. | None | 3 | - | 2024-04-23 | 2025-04-04 | 2024-10-29 |
 | [terminal-news](https://github.com/jina-ai/terminal-news) | Access Jina AI news via ssh guest@news.jina.ai | Python | 13 | Apache License 2.0 | 2024-05-03 | 2024-12-11 | 2024-05-03 |
-| [chunking](https://github.com/jina-ai/chunking) | None | Python | 4 | - | 2024-06-23 | 2024-12-18 | 2024-07-10 |
-| [late-chunking](https://github.com/jina-ai/late-chunking) | Code for explaining and evaluating late chunking (chunked pooling) | Python | 358 | Apache License 2.0 | 2024-08-06 | 2025-04-01 | 2024-12-23 |
-| [vllm](https://github.com/jina-ai/vllm) | A high-throughput and memory-efficient inference and serving engine for LLMs | Python | 2 | Apache License 2.0 | 2024-08-29 | 2025-03-12 | 2025-01-17 |
-| [meta-prompt](https://github.com/jina-ai/meta-prompt) | For LLMs to better code with Jina API | HTML | 140 | Apache License 2.0 | 2024-10-28 | 2025-04-02 | 2025-03-19 |
-| [llm-query-expansion](https://github.com/jina-ai/llm-query-expansion) | Query Expension for Better Query Embedding using LLMs | Python | 43 | Apache License 2.0 | 2025-01-17 | 2025-03-28 | 2025-02-18 |
-| [node-DeepResearch](https://github.com/jina-ai/node-DeepResearch) | Keep searching, reading webpages, reasoning until it finds the answer (or exceeding the token budget) | TypeScript | 3796 | Apache License 2.0 | 2025-01-26 | 2025-04-03 | 2025-04-03 |
-| [deepsearch-ui](https://github.com/jina-ai/deepsearch-ui) | Jina DeepSearch UI | JavaScript | 88 | Apache License 2.0 | 2025-02-17 | 2025-04-02 | 2025-03-28 |
-| [node-serp](https://github.com/jina-ai/node-serp) | LLM-as-SERP | TypeScript | 60 | - | 2025-02-26 | 2025-03-30 | 2025-03-03 |
+| [chunking](https://github.com/jina-ai/chunking) | None | Python | 5 | - | 2024-06-23 | 2025-04-04 | 2024-07-10 |
+| [late-chunking](https://github.com/jina-ai/late-chunking) | Code for explaining and evaluating late chunking (chunked pooling) | Python | 359 | Apache License 2.0 | 2024-08-06 | 2025-04-04 | 2024-12-23 |
+| [vllm](https://github.com/jina-ai/vllm) | A high-throughput and memory-efficient inference and serving engine for LLMs | Python | 3 | Apache License 2.0 | 2024-08-29 | 2025-04-04 | 2025-01-17 |
+| [meta-prompt](https://github.com/jina-ai/meta-prompt) | For LLMs to better code with Jina API | HTML | 142 | Apache License 2.0 | 2024-10-28 | 2025-04-04 | 2025-03-19 |
+| [llm-query-expansion](https://github.com/jina-ai/llm-query-expansion) | Query Expension for Better Query Embedding using LLMs | Python | 44 | Apache License 2.0 | 2025-01-17 | 2025-04-04 | 2025-02-18 |
+| [node-DeepResearch](https://github.com/jina-ai/node-DeepResearch) | Keep searching, reading webpages, reasoning until it finds the answer (or exceeding the token budget) | TypeScript | 3803 | Apache License 2.0 | 2025-01-26 | 2025-04-04 | 2025-04-03 |
+| [deepsearch-ui](https://github.com/jina-ai/deepsearch-ui) | Jina DeepSearch UI | JavaScript | 89 | Apache License 2.0 | 2025-02-17 | 2025-04-04 | 2025-03-28 |
+| [node-serp](https://github.com/jina-ai/node-serp) | LLM-as-SERP | TypeScript | 62 | - | 2025-02-26 | 2025-04-04 | 2025-03-03 |
