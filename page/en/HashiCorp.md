@@ -1,44 +1,44 @@
 # HashiCorp
 
-A total of 914 projects, 378 active projects in the last six months, 1 teams, and 314112 stars.
+A total of 914 projects, 378 active projects in the last six months, 1 teams, and 314162 stars.
 
 Top 3 Languages: Go, HCL, Shell
 
-Statistics Date: 2025-04-04 08:08:37
+Statistics Date: 2025-04-05 08:07:23
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [vagrant](https://github.com/hashicorp/vagrant) | Vagrant is a tool for building and distributing development environments. | Ruby | 26573 | Other | 2010-01-21 | 2025-04-04 | 2025-04-04 |
+| [vagrant](https://github.com/hashicorp/vagrant) | Vagrant is a tool for building and distributing development environments. | Ruby | 26573 | Other | 2010-01-21 | 2025-04-05 | 2025-04-04 |
 | [vagrant-installers](https://github.com/hashicorp/vagrant-installers) | Project to automatically create Vagrant installers for various platforms. | Shell | 172 | MIT License | 2012-01-15 | 2025-04-04 | 2025-04-04 |
 | [puppet-bootstrap](https://github.com/hashicorp/puppet-bootstrap) | A collection of single-file scripts to bootstrap your machines with Puppet. | Shell | 443 | Mozilla Public License 2.0 | 2012-12-03 | 2025-01-28 | 2023-02-01 |
 | [force-www](https://github.com/hashicorp/force-www) | Our small rack up we use to force www on our domains. | Ruby | 6 | Mozilla Public License 2.0 | 2012-12-20 | 2023-11-20 | 2023-02-01 |
 | [vagrant-docs-old](https://github.com/hashicorp/vagrant-docs-old) | This is a temporary repository with the old Vagrant documentation. | None | 8 | - | 2013-01-01 | 2023-01-28 | 2014-01-10 |
 | [heroku-buildpack-middleman](https://github.com/hashicorp/heroku-buildpack-middleman) | The simplest, cleanest Middleman buildpack for Heroku out there. | Shell | 42 | MIT License | 2013-02-02 | 2020-01-07 | 2014-10-22 |
 | [heroku-buildpack-rubygem-server](https://github.com/hashicorp/heroku-buildpack-rubygem-server) | Heroku buildpack to run a RubyGems server. | Shell | 52 | MIT License | 2013-02-04 | 2022-10-18 | 2013-02-04 |
-| [packer](https://github.com/hashicorp/packer) | Packer is a tool for creating identical machine images for multiple platforms from a single source configuration. | Go | 15301 | Other | 2013-03-23 | 2025-04-04 | 2025-04-04 |
+| [packer](https://github.com/hashicorp/packer) | Packer is a tool for creating identical machine images for multiple platforms from a single source configuration. | Go | 15300 | Other | 2013-03-23 | 2025-04-04 | 2025-04-05 |
 | [go-metrics](https://github.com/hashicorp/go-metrics) | A Golang library for exporting performance and runtime metrics to external metrics systems (i.e. statsite, statsd) | Go | 1502 | MIT License | 2013-08-09 | 2025-04-04 | 2025-03-14 |
 | [net-rpc-msgpackrpc](https://github.com/hashicorp/net-rpc-msgpackrpc) | Library for creating Go RPC client/server. | Go | 54 | MIT License | 2013-08-20 | 2025-02-24 | 2025-02-24 |
 | [memberlist](https://github.com/hashicorp/memberlist) | Golang package for gossip based membership and failure detection | Go | 3791 | Mozilla Public License 2.0 | 2013-09-09 | 2025-04-04 | 2025-03-13 |
 | [serf](https://github.com/hashicorp/serf) | Service orchestration and management tool. | Go | 5925 | Mozilla Public License 2.0 | 2013-10-01 | 2025-04-04 | 2025-03-12 |
 | [logutils](https://github.com/hashicorp/logutils) | Utilities for slightly better logging in Go (Golang). | Go | 368 | Mozilla Public License 2.0 | 2013-10-09 | 2025-02-08 | 2024-12-02 |
 | [gomemcache](https://github.com/hashicorp/gomemcache) | Go Memcached client library #golang | Go | 8 | - | 2013-10-22 | 2024-03-24 | 2023-01-17 |
-| [consul](https://github.com/hashicorp/consul) | Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure. | Go | 28848 | Other | 2013-11-04 | 2025-04-04 | 2025-04-03 |
-| [raft](https://github.com/hashicorp/raft) | Golang implementation of the Raft consensus protocol | Go | 8507 | Mozilla Public License 2.0 | 2013-11-05 | 2025-04-04 | 2025-04-03 |
+| [consul](https://github.com/hashicorp/consul) | Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure. | Go | 28851 | Other | 2013-11-04 | 2025-04-05 | 2025-04-04 |
+| [raft](https://github.com/hashicorp/raft) | Golang implementation of the Raft consensus protocol | Go | 8508 | Mozilla Public License 2.0 | 2013-11-05 | 2025-04-05 | 2025-04-03 |
 | [vagrant-spec](https://github.com/hashicorp/vagrant-spec) | Tool and library for testing Vagrant plugins. | Ruby | 77 | Mozilla Public License 2.0 | 2013-12-04 | 2024-11-28 | 2023-09-15 |
 | [mdns](https://github.com/hashicorp/mdns) | Simple mDNS client/server library in Golang | Go | 1240 | MIT License | 2014-01-29 | 2025-03-29 | 2025-02-24 |
 | [vagrant-plugin-changelog](https://github.com/hashicorp/vagrant-plugin-changelog) | This is the CHANGELOG for `vagrant-share`, `vagrant-login` and `vagrant-vmware-*`. | None | 32 | Mozilla Public License 2.0 | 2014-03-11 | 2023-08-23 | 2023-01-12 |
-| [terraform](https://github.com/hashicorp/terraform) | Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. | Go | 44915 | Other | 2014-03-13 | 2025-04-04 | 2025-04-03 |
+| [terraform](https://github.com/hashicorp/terraform) | Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. | Go | 44923 | Other | 2014-03-13 | 2025-04-05 | 2025-04-04 |
 | [go-version](https://github.com/hashicorp/go-version) | A Go (golang) library for parsing and verifying versions and version constraints. | Go | 1674 | Mozilla Public License 2.0 | 2014-03-26 | 2025-04-04 | 2025-04-01 |
 | [vagrant_cloud](https://github.com/hashicorp/vagrant_cloud) | Vagrant Cloud API wrapper for Ruby | Ruby | 16 | MIT License | 2014-04-03 | 2025-04-04 | 2025-04-04 |
 | [raft-mdb](https://github.com/hashicorp/raft-mdb) | LMDB backend for Raft | Go | 138 | Mozilla Public License 2.0 | 2014-04-19 | 2025-02-09 | 2023-09-19 |
 | [go-syslog](https://github.com/hashicorp/go-syslog) | Golang syslog wrapper, cross-compile friendly | Go | 68 | MIT License | 2014-05-02 | 2025-03-27 | 2025-02-17 |
-| [envconsul](https://github.com/hashicorp/envconsul) | Launch a subprocess with environment variables using data from @HashiCorp Consul and Vault. | Go | 2020 | Mozilla Public License 2.0 | 2014-05-13 | 2025-04-04 | 2025-01-17 |
+| [envconsul](https://github.com/hashicorp/envconsul) | Launch a subprocess with environment variables using data from @HashiCorp Consul and Vault. | Go | 2021 | Mozilla Public License 2.0 | 2014-05-13 | 2025-04-05 | 2025-01-17 |
 | [yamux](https://github.com/hashicorp/yamux) | Golang connection multiplexing library | Go | 2325 | Mozilla Public License 2.0 | 2014-05-22 | 2025-04-04 | 2025-03-17 |
 | [consul-replicate](https://github.com/hashicorp/consul-replicate) | Consul cross-DC KV replication daemon. | Go | 517 | Mozilla Public License 2.0 | 2014-06-12 | 2025-03-26 | 2025-03-26 |
 | [consul-haproxy](https://github.com/hashicorp/consul-haproxy) | Consul HAProxy connector for real-time configuration | Go | 277 | Mozilla Public License 2.0 | 2014-07-02 | 2024-10-03 | 2014-10-21 |
 | [libucl](https://github.com/hashicorp/libucl) | Universal configuration library parser | None | 8 | - | 2014-07-23 | 2023-02-12 | 2023-01-12 |
-| [hcl](https://github.com/hashicorp/hcl) | HCL is the HashiCorp configuration language. | Go | 5417 | Mozilla Public License 2.0 | 2014-07-31 | 2025-04-04 | 2025-04-03 |
-| [golang-lru](https://github.com/hashicorp/golang-lru) | Golang LRU cache | Go | 4547 | Mozilla Public License 2.0 | 2014-08-06 | 2025-04-04 | 2025-02-27 |
+| [hcl](https://github.com/hashicorp/hcl) | HCL is the HashiCorp configuration language. | Go | 5418 | Mozilla Public License 2.0 | 2014-07-31 | 2025-04-04 | 2025-04-03 |
+| [golang-lru](https://github.com/hashicorp/golang-lru) | Golang LRU cache | Go | 4548 | Mozilla Public License 2.0 | 2014-08-06 | 2025-04-04 | 2025-02-27 |
 | [go-checkpoint](https://github.com/hashicorp/go-checkpoint) | None | Go | 42 | Mozilla Public License 2.0 | 2014-08-28 | 2025-02-11 | 2025-02-17 |
 | [ruby-checkpoint](https://github.com/hashicorp/ruby-checkpoint) | None | Shell | 2 | Mozilla Public License 2.0 | 2014-09-01 | 2025-04-04 | 2025-04-04 |
 | [middleman-hashicorp](https://github.com/hashicorp/middleman-hashicorp) | HashiCorp's custom middleman extensions and common bundles | JavaScript | 43 | MIT License | 2014-10-06 | 2023-06-11 | 2023-03-20 |
@@ -48,10 +48,10 @@ Statistics Date: 2025-04-04 08:08:37
 | [atlas-go](https://github.com/hashicorp/atlas-go) | The official Go client for HashiCorp's Atlas | Go | 74 | Mozilla Public License 2.0 | 2014-10-26 | 2023-01-25 | 2023-02-01 |
 | [atlas-upload-cli](https://github.com/hashicorp/atlas-upload-cli) | CLI to upload application code to Atlas. | Go | 42 | Mozilla Public License 2.0 | 2014-10-27 | 2023-09-27 | 2016-09-21 |
 | [go.net](https://github.com/hashicorp/go.net) | Fork of code.google.com/p/go.net | Go | 18 | BSD 3-Clause "New" or "Revised" License | 2014-11-03 | 2024-11-25 | 2024-11-25 |
-| [go-multierror](https://github.com/hashicorp/go-multierror) | A Go (golang) package for representing a list of errors as a single error. | Go | 2435 | Mozilla Public License 2.0 | 2014-12-15 | 2025-04-04 | 2025-03-13 |
+| [go-multierror](https://github.com/hashicorp/go-multierror) | A Go (golang) package for representing a list of errors as a single error. | Go | 2436 | Mozilla Public License 2.0 | 2014-12-15 | 2025-04-04 | 2025-03-13 |
 | [raft-boltdb](https://github.com/hashicorp/raft-boltdb) | Raft backend implementation using BoltDB | Go | 677 | Mozilla Public License 2.0 | 2015-01-30 | 2025-03-29 | 2025-03-03 |
 | [scada-client](https://github.com/hashicorp/scada-client) | Implements a Golang client to the HashiCorp SCADA system | Go | 8 | Mozilla Public License 2.0 | 2015-01-30 | 2024-01-27 | 2023-02-01 |
-| [vault](https://github.com/hashicorp/vault) | A tool for secrets management, encryption as a service, and privileged access management | Go | 32120 | Other | 2015-02-25 | 2025-04-04 | 2025-04-04 |
+| [vault](https://github.com/hashicorp/vault) | A tool for secrets management, encryption as a service, and privileged access management | Go | 32137 | Other | 2015-02-25 | 2025-04-05 | 2025-04-04 |
 | [aws-sdk-go](https://github.com/hashicorp/aws-sdk-go) | A fork of awslabs/aws-sdk-go to keep hashicorp/terraform stable. You should use awslabs/aws-sdk-go instead. | Go | 4 | Other | 2015-02-25 | 2021-06-17 | 2019-01-08 |
 | [consul-migrate](https://github.com/hashicorp/consul-migrate) | Consul server data migrator | Go | 20 | Mozilla Public License 2.0 | 2015-03-28 | 2023-01-28 | 2015-05-20 |
 | [atlas-terraform-tutorial](https://github.com/hashicorp/atlas-terraform-tutorial) | Terraform configuration for the Atlas Terraform Tutorial | HCL | 17 | Mozilla Public License 2.0 | 2015-04-09 | 2023-06-15 | 2023-02-01 |
@@ -61,7 +61,7 @@ Statistics Date: 2025-04-04 08:08:37
 | [vault-ruby](https://github.com/hashicorp/vault-ruby) | The official Ruby client for HashiCorp's Vault | Ruby | 347 | Mozilla Public License 2.0 | 2015-04-24 | 2025-03-06 | 2024-05-20 |
 | [vault-rails](https://github.com/hashicorp/vault-rails) | A Rails plugin for easily integrating Vault secrets | Ruby | 338 | Mozilla Public License 2.0 | 2015-04-29 | 2025-02-11 | 2024-07-15 |
 | [atlas-terraform-github-tutorial](https://github.com/hashicorp/atlas-terraform-github-tutorial) | None | None | 4 | - | 2015-05-15 | 2023-01-28 | 2016-08-28 |
-| [nomad](https://github.com/hashicorp/nomad) | Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. | Go | 15361 | Other | 2015-06-01 | 2025-04-04 | 2025-04-04 |
+| [nomad](https://github.com/hashicorp/nomad) | Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. | Go | 15362 | Other | 2015-06-01 | 2025-04-04 | 2025-04-04 |
 | [otto](https://github.com/hashicorp/otto) | Development and deployment made easy. | HTML | 4254 | Mozilla Public License 2.0 | 2015-06-01 | 2025-03-04 | 2020-06-26 |
 | [go-immutable-radix](https://github.com/hashicorp/go-immutable-radix) | An immutable radix tree implementation in Golang | Go | 1034 | Mozilla Public License 2.0 | 2015-06-01 | 2025-04-01 | 2025-02-24 |
 | [go-memdb](https://github.com/hashicorp/go-memdb) | Golang in-memory database built on immutable radix trees | Go | 3268 | Mozilla Public License 2.0 | 2015-06-16 | 2025-04-04 | 2025-03-24 |
@@ -77,23 +77,23 @@ Statistics Date: 2025-04-04 08:08:37
 | [rtmo-pipeline](https://github.com/hashicorp/rtmo-pipeline) | Road To Modern Ops: Automated Operations | Ruby | 0 | - | 2015-09-22 | 2023-07-25 | 2015-10-20 |
 | [packer-list-all-files](https://github.com/hashicorp/packer-list-all-files) | None | None | 1 | - | 2015-10-06 | 2024-07-28 | 2015-10-06 |
 | [uuid](https://github.com/hashicorp/uuid) | Deprecated, please use github.com/hashicorp/go-uuid instead | Go | 19 | Mozilla Public License 2.0 | 2015-10-12 | 2024-01-03 | 2023-01-17 |
-| [go-getter](https://github.com/hashicorp/go-getter) | Package for downloading things from a string URL using a variety of protocols. | Go | 1690 | Mozilla Public License 2.0 | 2015-10-12 | 2025-04-04 | 2025-03-20 |
+| [go-getter](https://github.com/hashicorp/go-getter) | Package for downloading things from a string URL using a variety of protocols. | Go | 1691 | Mozilla Public License 2.0 | 2015-10-12 | 2025-04-04 | 2025-03-20 |
 | [go-gatedio](https://github.com/hashicorp/go-gatedio) | Provides a unified interface for wrapping io objects in a mutex | Go | 19 | Mozilla Public License 2.0 | 2015-10-13 | 2024-11-25 | 2024-12-02 |
 | [lets-chat](https://github.com/hashicorp/lets-chat) | Let's Chat repo for the Road to Modern Ops curriculum | JavaScript | 17 | MIT License | 2015-10-15 | 2023-11-20 | 2020-07-15 |
 | [demo-app-nodejs](https://github.com/hashicorp/demo-app-nodejs) | None | JavaScript | 9 | Mozilla Public License 2.0 | 2015-10-16 | 2024-11-01 | 2023-02-01 |
-| [go-cleanhttp](https://github.com/hashicorp/go-cleanhttp) | None | Go | 389 | Mozilla Public License 2.0 | 2015-10-22 | 2025-03-31 | 2025-03-03 |
+| [go-cleanhttp](https://github.com/hashicorp/go-cleanhttp) | None | Go | 390 | Mozilla Public License 2.0 | 2015-10-22 | 2025-04-04 | 2025-03-03 |
 | [otto-example-app-plugin](https://github.com/hashicorp/otto-example-app-plugin) | Example app type plugin for Otto (ottoproject.io) | Go | 19 | - | 2015-11-02 | 2023-01-28 | 2016-01-16 |
 | [best-practices](https://github.com/hashicorp/best-practices) | None | HCL | 1477 | Mozilla Public License 2.0 | 2015-11-10 | 2025-03-18 | 2018-12-29 |
 | [go-retryablehttp](https://github.com/hashicorp/go-retryablehttp) | Retryable HTTP client in Go | Go | 2097 | Mozilla Public License 2.0 | 2015-12-07 | 2025-04-04 | 2025-04-03 |
 | [go-reap](https://github.com/hashicorp/go-reap) | Child process reaping utilities for Go | Go | 66 | Mozilla Public License 2.0 | 2015-12-08 | 2025-02-15 | 2023-02-01 |
 | [go-uuid](https://github.com/hashicorp/go-uuid) | Generates UUID-format strings using purely high quality random bytes | Go | 183 | Mozilla Public License 2.0 | 2015-12-16 | 2025-03-12 | 2025-02-27 |
-| [go-plugin](https://github.com/hashicorp/go-plugin) | Golang plugin system over RPC. | Go | 5449 | Mozilla Public License 2.0 | 2016-01-21 | 2025-04-04 | 2025-03-27 |
+| [go-plugin](https://github.com/hashicorp/go-plugin) | Golang plugin system over RPC. | Go | 5450 | Mozilla Public License 2.0 | 2016-01-21 | 2025-04-04 | 2025-03-27 |
 | [docker-base](https://github.com/hashicorp/docker-base) | Base images for releasing HashiCorp products as Docker containers. | Shell | 30 | Mozilla Public License 2.0 | 2016-01-29 | 2024-09-12 | 2016-04-11 |
 | [docker-consul](https://github.com/hashicorp/docker-consul) | Official Docker images for Consul. | Dockerfile | 400 | Mozilla Public License 2.0 | 2016-01-29 | 2025-02-17 | 2023-06-26 |
 | [hil](https://github.com/hashicorp/hil) | HIL is a small embedded language for string interpolations. | Go | 397 | Mozilla Public License 2.0 | 2016-01-30 | 2025-03-19 | 2025-04-01 |
 | [schedbench](https://github.com/hashicorp/schedbench) | A scheduler performance benchmarking framework | Go | 12 | Mozilla Public License 2.0 | 2016-02-08 | 2024-10-06 | 2023-02-06 |
 | [docker-basetool](https://github.com/hashicorp/docker-basetool) | Simple Go tool to help bootstrap base images that have limited functionality. | Go | 9 | Mozilla Public License 2.0 | 2016-02-09 | 2023-01-28 | 2017-02-08 |
-| [go-sockaddr](https://github.com/hashicorp/go-sockaddr) | IP Address/UNIX Socket convenience functions for Go | Go | 274 | Mozilla Public License 2.0 | 2016-03-02 | 2025-03-30 | 2025-04-03 |
+| [go-sockaddr](https://github.com/hashicorp/go-sockaddr) | IP Address/UNIX Socket convenience functions for Go | Go | 274 | Mozilla Public License 2.0 | 2016-03-02 | 2025-03-30 | 2025-04-04 |
 | [c1m](https://github.com/hashicorp/c1m) | Nomad, Terraform, and Packer configurations for the Million Container Challenge (C1M) | HCL | 173 | Mozilla Public License 2.0 | 2016-03-16 | 2024-10-03 | 2023-01-25 |
 | [docker-hub-images](https://github.com/hashicorp/docker-hub-images) | Automatic builds of container images for Docker Hub | Shell | 129 | Mozilla Public License 2.0 | 2016-04-13 | 2024-12-27 | 2022-02-02 |
 | [go-rootcerts](https://github.com/hashicorp/go-rootcerts) | Functions for loading root certificates for TLS connections. | Go | 83 | Mozilla Public License 2.0 | 2016-05-03 | 2025-03-13 | 2025-03-17 |
@@ -123,13 +123,13 @@ Statistics Date: 2025-04-04 08:08:37
 | [nomad-ruby](https://github.com/hashicorp/nomad-ruby) | The official Ruby client for Nomad | Ruby | 29 | Mozilla Public License 2.0 | 2017-05-30 | 2023-02-28 | 2020-04-21 |
 | [go-envparse](https://github.com/hashicorp/go-envparse) | Minimal environment variable parser for Go | Go | 51 | Mozilla Public License 2.0 | 2017-06-02 | 2025-01-10 | 2024-11-20 |
 | [go-hclog](https://github.com/hashicorp/go-hclog) | A common logging package for HashiCorp tools | Go | 326 | MIT License | 2017-06-02 | 2025-03-27 | 2025-03-31 |
-| [terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) | The AWS Provider enables Terraform to manage AWS resources. | Go | 10188 | Mozilla Public License 2.0 | 2017-06-05 | 2025-04-04 | 2025-04-04 |
+| [terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) | The AWS Provider enables Terraform to manage AWS resources. | Go | 10190 | Mozilla Public License 2.0 | 2017-06-05 | 2025-04-05 | 2025-04-04 |
 | [terraform-provider-vsphere](https://github.com/hashicorp/terraform-provider-vsphere) | Terraform Provider for VMware vSphere | Go | 634 | Mozilla Public License 2.0 | 2017-06-05 | 2025-03-31 | 2025-03-31 |
 | [terraform-provider-consul](https://github.com/hashicorp/terraform-provider-consul) | Terraform Consul provider | Go | 125 | Mozilla Public License 2.0 | 2017-06-05 | 2025-03-27 | 2025-03-27 |
 | [terraform-provider-tls](https://github.com/hashicorp/terraform-provider-tls) | Utility provider that works with Transport Layer Security keys and certificates. It provides resources that allow private keys, certificates and certficate requests to be created as part of a Terraform deployment. | Go | 201 | Mozilla Public License 2.0 | 2017-06-05 | 2025-04-02 | 2025-04-02 |
 | [terraform-provider-cobbler](https://github.com/hashicorp/terraform-provider-cobbler) | Terraform Cobbler provider | Go | 8 | Mozilla Public License 2.0 | 2017-06-05 | 2023-01-28 | 2020-11-21 |
-| [terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) | Terraform provider for Azure Resource Manager | Go | 4695 | Mozilla Public License 2.0 | 2017-06-05 | 2025-04-04 | 2025-04-04 |
-| [terraform-provider-nomad](https://github.com/hashicorp/terraform-provider-nomad) | Terraform Nomad provider | Go | 147 | Mozilla Public License 2.0 | 2017-06-05 | 2025-04-02 | 2025-04-03 |
+| [terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) | Terraform provider for Azure Resource Manager | Go | 4696 | Mozilla Public License 2.0 | 2017-06-05 | 2025-04-04 | 2025-04-04 |
+| [terraform-provider-nomad](https://github.com/hashicorp/terraform-provider-nomad) | Terraform Nomad provider | Go | 147 | Mozilla Public License 2.0 | 2017-06-05 | 2025-04-04 | 2025-04-04 |
 | [terraform-provider-http](https://github.com/hashicorp/terraform-provider-http) | Utility provider for interacting with generic HTTP servers as part of a Terraform configuration. | Go | 218 | Mozilla Public License 2.0 | 2017-06-05 | 2025-03-31 | 2025-04-02 |
 | [terraform-provider-bitbucket](https://github.com/hashicorp/terraform-provider-bitbucket) | This Terraform provider is archived per our provider archiving process: https://terraform.io/docs/internals/archiving.html | Go | 32 | Mozilla Public License 2.0 | 2017-06-05 | 2024-08-23 | 2020-12-07 |
 | [terraform-provider-logentries](https://github.com/hashicorp/terraform-provider-logentries) | Terraform LogEntries provider. Please note: This Terraform provider is archived per our provider archiving process: https://terraform.io/docs/internals/archiving.html | Go | 6 | Mozilla Public License 2.0 | 2017-06-05 | 2024-08-06 | 2020-12-08 |
@@ -138,7 +138,7 @@ Statistics Date: 2025-04-04 08:08:37
 | [terraform-provider-chef](https://github.com/hashicorp/terraform-provider-chef) | Terraform Chef provider | Go | 12 | Mozilla Public License 2.0 | 2017-06-05 | 2023-01-28 | 2020-04-23 |
 | [terraform-provider-ultradns](https://github.com/hashicorp/terraform-provider-ultradns) | Terraform UltraDNS provider. Please note: This Terraform provider is archived per our provider archiving process: https://terraform.io/docs/internals/archiving.html | Go | 7 | Mozilla Public License 2.0 | 2017-06-05 | 2024-09-20 | 2020-12-08 |
 | [terraform-provider-postgresql](https://github.com/hashicorp/terraform-provider-postgresql) | As part of our introduction to self-service publishing in the Terraform Registry, this copy of the provider has been archived, and ownership has been transferred to active maintainers in the community. Please see the new location on the Terraform Registry: https://registry.terraform.io/providers/cyrilgdn/postgresql | Go | 103 | Mozilla Public License 2.0 | 2017-06-05 | 2024-10-03 | 2020-12-14 |
-| [terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) | Terraform Provider for Google Cloud Platform | Go | 2451 | Mozilla Public License 2.0 | 2017-06-05 | 2025-04-04 | 2025-04-04 |
+| [terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) | Terraform Provider for Google Cloud Platform | Go | 2458 | Mozilla Public License 2.0 | 2017-06-05 | 2025-04-05 | 2025-04-05 |
 | [terraform-provider-dyn](https://github.com/hashicorp/terraform-provider-dyn) | Terraform Dyn provider. Please note: This Terraform provider is archived per our provider archiving process: https://terraform.io/docs/internals/archiving.html | Go | 7 | Mozilla Public License 2.0 | 2017-06-05 | 2024-08-06 | 2020-12-07 |
 | [terraform-provider-mailgun](https://github.com/hashicorp/terraform-provider-mailgun) | Archived in favor of https://github.com/wgebis/terraform-provider-mailgun | Go | 8 | Mozilla Public License 2.0 | 2017-06-05 | 2023-01-28 | 2020-07-27 |
 | [terraform-provider-influxdb](https://github.com/hashicorp/terraform-provider-influxdb) | Terraform InfluxDB provider | Go | 19 | Mozilla Public License 2.0 | 2017-06-05 | 2024-08-06 | 2020-08-31 |
@@ -173,7 +173,7 @@ Statistics Date: 2025-04-04 08:08:37
 | [sentinel-sdk](https://github.com/hashicorp/sentinel-sdk) | This SDK allows developers to extend Sentinel to source external information for use in their policies. | Go | 52 | Mozilla Public License 2.0 | 2017-08-29 | 2025-03-18 | 2025-03-24 |
 | [vault-plugin-auth-kubernetes](https://github.com/hashicorp/vault-plugin-auth-kubernetes) | Vault authentication plugin for Kubernetes Service Accounts | Go | 211 | Mozilla Public License 2.0 | 2017-08-31 | 2025-04-02 | 2025-04-02 |
 | [faas-nomad](https://github.com/hashicorp/faas-nomad) | OpenFaaS plugin for Nomad | Go | 255 | MIT License | 2017-09-06 | 2025-02-13 | 2021-03-18 |
-| [levant](https://github.com/hashicorp/levant) | An open source templating and deployment tool for HashiCorp Nomad jobs | Go | 835 | Mozilla Public License 2.0 | 2017-09-09 | 2025-03-30 | 2025-04-04 |
+| [levant](https://github.com/hashicorp/levant) | An open source templating and deployment tool for HashiCorp Nomad jobs | Go | 835 | Mozilla Public License 2.0 | 2017-09-09 | 2025-03-30 | 2025-04-05 |
 | [hcl2](https://github.com/hashicorp/hcl2) | Former temporary home for experimental new version of HCL | Go | 375 | Mozilla Public License 2.0 | 2017-09-11 | 2025-03-30 | 2019-10-02 |
 | [terraform-google-consul](https://github.com/hashicorp/terraform-google-consul) | A Terraform Module for how to run Consul on Google Cloud using Terraform and Packer | HCL | 94 | Apache License 2.0 | 2017-09-12 | 2024-10-01 | 2023-01-25 |
 | [terraform-google-vault](https://github.com/hashicorp/terraform-google-vault) | A Terraform Module for how to run Vault on Google Cloud using Terraform and Packer | HCL | 115 | Apache License 2.0 | 2017-09-12 | 2024-10-04 | 2023-01-25 |
@@ -232,7 +232,7 @@ Statistics Date: 2025-04-04 08:08:37
 | [api-double](https://github.com/hashicorp/api-double) | None | JavaScript | 5 | Mozilla Public License 2.0 | 2018-07-18 | 2022-11-10 | 2024-03-26 |
 | [tfe-ux-core-practitioner](https://github.com/hashicorp/tfe-ux-core-practitioner) | None | HCL | 0 | Mozilla Public License 2.0 | 2018-07-24 | 2023-01-14 | 2023-02-01 |
 | [demo-consul-101](https://github.com/hashicorp/demo-consul-101) | Tutorial code and binaries for the HashiCorp Consul beginner course. | Go | 82 | Mozilla Public License 2.0 | 2018-08-01 | 2025-02-13 | 2024-04-29 |
-| [terraform-provider-tfe](https://github.com/hashicorp/terraform-provider-tfe) | Official HCP Terraform and Terraform Enterprise provider, maintained by HashiCorp. Provision HCP Terraform or Terraform Enterprise - with Terraform! | Go | 170 | Mozilla Public License 2.0 | 2018-08-07 | 2025-04-02 | 2025-04-03 |
+| [terraform-provider-tfe](https://github.com/hashicorp/terraform-provider-tfe) | Official HCP Terraform and Terraform Enterprise provider, maintained by HashiCorp. Provision HCP Terraform or Terraform Enterprise - with Terraform! | Go | 170 | Mozilla Public License 2.0 | 2018-08-07 | 2025-04-04 | 2025-04-04 |
 | [vault-plugin-secrets-alicloud](https://github.com/hashicorp/vault-plugin-secrets-alicloud) | Dynamic secrets for Alibaba Cloud. | Go | 1 | Mozilla Public License 2.0 | 2018-08-08 | 2025-02-04 | 2025-04-01 |
 | [microsoft-oss-conference](https://github.com/hashicorp/microsoft-oss-conference) |  Terraform configuration and Kubernetes manifests used for Microsoft Canada OSS conference presentation. | HCL | 1 | MIT License | 2018-08-09 | 2023-01-12 | 2023-02-01 |
 | [demo-nomad-101](https://github.com/hashicorp/demo-nomad-101) | Demo code for the HashiCorp Nomad 101 course. https://www.hashicorp.com/training | HCL | 6 | Mozilla Public License 2.0 | 2018-08-09 | 2023-01-22 | 2023-02-01 |
@@ -241,8 +241,8 @@ Statistics Date: 2025-04-04 08:08:37
 | [ptfe-migration-terraform](https://github.com/hashicorp/ptfe-migration-terraform) | Terraform modules to be used for upgrading from the AMI to Installer | HCL | 0 | Mozilla Public License 2.0 | 2018-09-11 | 2023-01-13 | 2023-02-01 |
 | [vault-plugin-secrets-gcpkms](https://github.com/hashicorp/vault-plugin-secrets-gcpkms) | Manage, encrypt, decrypt, sign, and verify data with @GoogleCloudPlatform KMS and @HashiCorp Vault | Go | 11 | Mozilla Public License 2.0 | 2018-09-18 | 2025-02-13 | 2025-03-13 |
 | [terraform-provider-rightscale](https://github.com/hashicorp/terraform-provider-rightscale) | Terraform Rightscale provider. Please note: This Terraform provider is archived per our provider archiving process: https://terraform.io/docs/internals/archiving.html | Go | 4 | Mozilla Public License 2.0 | 2018-09-19 | 2023-01-28 | 2020-12-08 |
-| [terraform-provider-google-beta](https://github.com/hashicorp/terraform-provider-google-beta) | Terraform Provider for Google Cloud Platform (Beta) | Go | 278 | Mozilla Public License 2.0 | 2018-09-20 | 2025-04-04 | 2025-04-04 |
-| [vault-helm](https://github.com/hashicorp/vault-helm) | Helm chart to install Vault and other associated components. | Shell | 1142 | Mozilla Public License 2.0 | 2018-10-02 | 2025-03-31 | 2025-03-31 |
+| [terraform-provider-google-beta](https://github.com/hashicorp/terraform-provider-google-beta) | Terraform Provider for Google Cloud Platform (Beta) | Go | 279 | Mozilla Public License 2.0 | 2018-09-20 | 2025-04-05 | 2025-04-05 |
+| [vault-helm](https://github.com/hashicorp/vault-helm) | Helm chart to install Vault and other associated components. | Shell | 1143 | Mozilla Public License 2.0 | 2018-10-02 | 2025-04-04 | 2025-03-31 |
 | [terraform-github-actions](https://github.com/hashicorp/terraform-github-actions) | Terraform GitHub Actions | Shell | 624 | Mozilla Public License 2.0 | 2018-10-11 | 2024-11-28 | 2020-05-06 |
 | [realitycheck](https://github.com/hashicorp/realitycheck) | A sample app that reality-checks some basic CircleCI features | None | 0 | MIT License | 2018-11-08 | 2020-07-24 | 2020-07-24 |
 | [go-azure-helpers](https://github.com/hashicorp/go-azure-helpers) | This repository contains various helpers and wrappers for working with Azure and the Azure SDK for Go. | Go | 59 | Mozilla Public License 2.0 | 2018-11-13 | 2025-03-27 | 2025-04-03 |
@@ -259,7 +259,7 @@ Statistics Date: 2025-04-04 08:08:37
 | [kolide-quickstart](https://github.com/hashicorp/kolide-quickstart) | [DEPRECATED] A quickstart demo for Kolide tools | Shell | 0 | MIT License | 2019-01-30 | 2019-01-30 | 2018-05-29 |
 | [Master-Consumer-Repo](https://github.com/hashicorp/Master-Consumer-Repo) | None | HCL | 0 | - | 2019-02-11 | 2023-01-28 | 2019-02-11 |
 | [vic](https://github.com/hashicorp/vic) | vSphere Integrated Containers Engine is a container runtime for vSphere. | Go | 1 | Other | 2019-02-15 | 2024-11-21 | 2025-03-20 |
-| [aws-sdk-go-base](https://github.com/hashicorp/aws-sdk-go-base) | AWS Go SDK Base Client and Helper Function Library | Go | 38 | Mozilla Public License 2.0 | 2019-02-17 | 2025-03-28 | 2025-04-03 |
+| [aws-sdk-go-base](https://github.com/hashicorp/aws-sdk-go-base) | AWS Go SDK Base Client and Helper Function Library | Go | 38 | Mozilla Public License 2.0 | 2019-02-17 | 2025-04-04 | 2025-04-04 |
 | [nomad-education-content](https://github.com/hashicorp/nomad-education-content) | Misc content that can be linked to from guides, docs, etc | HCL | 2 | Mozilla Public License 2.0 | 2019-02-19 | 2023-01-12 | 2023-05-02 |
 | [.github](https://github.com/hashicorp/.github) | HashiCorp Default Community Health Files | None | 8 | Mozilla Public License 2.0 | 2019-02-22 | 2024-03-15 | 2024-06-10 |
 | [puppet-vault-function-vagrant](https://github.com/hashicorp/puppet-vault-function-vagrant) | A Vault setup to use a Deferred function to look up secrets from Vault using the agent's cert as authentication | Puppet | 1 | MIT License | 2019-03-04 | 2024-07-25 | 2020-02-10 |
@@ -272,7 +272,7 @@ Statistics Date: 2025-04-04 08:08:37
 | [raft-fuzzy](https://github.com/hashicorp/raft-fuzzy) | Fuzz Testing for the github.com/hashicorp/raft library | Go | 29 | Mozilla Public License 2.0 | 2019-04-17 | 2024-07-07 | 2023-02-25 |
 | [se-terraform-vault-workshop](https://github.com/hashicorp/se-terraform-vault-workshop) | Training slides, Terraform code, and instructions for trainers | Ruby | 17 | Apache License 2.0 | 2019-04-22 | 2023-09-30 | 2025-02-24 |
 | [vault-plugin-auth-kerberos](https://github.com/hashicorp/vault-plugin-auth-kerberos) | A plugin for HashiCorp Vault enabling Kerberos authentication. | Go | 18 | Mozilla Public License 2.0 | 2019-04-22 | 2025-03-25 | 2025-04-01 |
-| [vault-plugin-auth-cf](https://github.com/hashicorp/vault-plugin-auth-cf) | A Vault plugin for authenticating using Cloud Foundry's identity certificates. | Go | 6 | Mozilla Public License 2.0 | 2019-04-25 | 2025-02-07 | 2025-04-01 |
+| [vault-plugin-auth-cf](https://github.com/hashicorp/vault-plugin-auth-cf) | A Vault plugin for authenticating using Cloud Foundry's identity certificates. | Go | 6 | Mozilla Public License 2.0 | 2019-04-25 | 2025-02-07 | 2025-04-04 |
 | [structure-icons](https://github.com/hashicorp/structure-icons) | None | JavaScript | 6 | Mozilla Public License 2.0 | 2019-04-29 | 2024-02-20 | 2024-02-20 |
 | [next-mdx-enhanced](https://github.com/hashicorp/next-mdx-enhanced) | A Next.js plugin that enables MDX pages, layouts, and front matter | JavaScript | 504 | Mozilla Public License 2.0 | 2019-04-29 | 2025-03-24 | 2023-03-23 |
 | [consul-k8s-l7-obs-guide](https://github.com/hashicorp/consul-k8s-l7-obs-guide) | This repo contains application and dashboard definitions for the Consul Layer 7 observability with Kubernetes guide located at learn.hashicorp.com | None | 2 | Mozilla Public License 2.0 | 2019-05-02 | 2023-01-13 | 2023-03-29 |
@@ -291,7 +291,7 @@ Statistics Date: 2025-04-04 08:08:37
 | [instruqt-assets](https://github.com/hashicorp/instruqt-assets) | Image files for instruqt platform tracks | None | 0 | Apache License 2.0 | 2019-07-02 | 2023-01-03 | 2023-01-03 |
 | [magic-modules](https://github.com/hashicorp/magic-modules) | Automatically generate Google Cloud Platform support for OSS IaaC Projects | Go | 8 | Apache License 2.0 | 2019-07-02 | 2024-12-09 | 2024-12-09 |
 | [research-resources](https://github.com/hashicorp/research-resources) | A collection of sites, papers and other resources that we hope will be of use if you are beginning to look at academic research | None | 51 | Mozilla Public License 2.0 | 2019-07-06 | 2025-03-30 | 2023-01-17 |
-| [nomad-driver-podman](https://github.com/hashicorp/nomad-driver-podman) | A nomad task driver plugin for sandboxing workloads in podman containers | Go | 238 | Mozilla Public License 2.0 | 2019-07-07 | 2025-04-01 | 2025-04-04 |
+| [nomad-driver-podman](https://github.com/hashicorp/nomad-driver-podman) | A nomad task driver plugin for sandboxing workloads in podman containers | Go | 238 | Mozilla Public License 2.0 | 2019-07-07 | 2025-04-01 | 2025-04-05 |
 | [tfc-policy-sets-migration](https://github.com/hashicorp/tfc-policy-sets-migration) | Policy set migration utility for Terraform Cloud | Go | 3 | Mozilla Public License 2.0 | 2019-07-08 | 2023-01-17 | 2023-02-01 |
 | [hands-on-with-vault-on-kubernetes](https://github.com/hashicorp/hands-on-with-vault-on-kubernetes) | Hands-on with Vault on Kubernetes Tutorial | Shell | 79 | - | 2019-07-14 | 2024-08-20 | 2019-08-12 |
 | [tf-sdk-migrator](https://github.com/hashicorp/tf-sdk-migrator) | CLI tool to migrate Terraform providers to the new plugin SDK | Go | 11 | Mozilla Public License 2.0 | 2019-07-15 | 2024-08-06 | 2022-05-13 |
@@ -369,7 +369,7 @@ Statistics Date: 2025-04-04 08:08:37
 | [go-cty-funcs](https://github.com/hashicorp/go-cty-funcs) | go-cty specific functions; mainly used in HCL2 templates | Go | 9 | Mozilla Public License 2.0 | 2020-01-22 | 2025-02-10 | 2025-02-17 |
 | [ember-cli-rails](https://github.com/hashicorp/ember-cli-rails) | Unify your EmberCLI and Rails Workflows | None | 0 | MIT License | 2020-01-23 | 2024-10-08 | 2021-08-25 |
 | [vault-plugin-secrets-openldap](https://github.com/hashicorp/vault-plugin-secrets-openldap) | OpenLDAP secret engine for Vault  | Go | 19 | Mozilla Public License 2.0 | 2020-01-24 | 2025-03-28 | 2025-04-03 |
-| [nomad-autoscaler](https://github.com/hashicorp/nomad-autoscaler) | Nomad Autoscaler brings autoscaling to your Nomad workloads. | Go | 438 | Mozilla Public License 2.0 | 2020-01-24 | 2025-04-01 | 2025-04-04 |
+| [nomad-autoscaler](https://github.com/hashicorp/nomad-autoscaler) | Nomad Autoscaler brings autoscaling to your Nomad workloads. | Go | 438 | Mozilla Public License 2.0 | 2020-01-24 | 2025-04-01 | 2025-04-05 |
 | [terraform-provider-incapsula](https://github.com/hashicorp/terraform-provider-incapsula) | Terraform provider for Incapsula by Impervia. Please note: This Terraform provider is archived per our provider archiving process: https://terraform.io/docs/internals/archiving.html | Go | 0 | Mozilla Public License 2.0 | 2020-01-28 | 2024-08-06 | 2020-12-08 |
 | [learn-inspec](https://github.com/hashicorp/learn-inspec) | Inspec tests for the learn platform. | Ruby | 15 | Mozilla Public License 2.0 | 2020-01-28 | 2024-10-14 | 2023-10-02 |
 | [terraform-provider-auth0](https://github.com/hashicorp/terraform-provider-auth0) | Please see https://github.com/alexkappa/terraform-provider-auth0 | Go | 27 | Mozilla Public License 2.0 | 2020-01-28 | 2024-08-06 | 2020-08-24 |
@@ -404,8 +404,8 @@ Statistics Date: 2025-04-04 08:08:37
 | [go-cty](https://github.com/hashicorp/go-cty) | Fork of upstream zclconf/go-cty for use in the terraform-plugin-sdk | Go | 3 | MIT License | 2020-04-13 | 2025-03-31 | 2025-03-31 |
 | [vault-app-dev-training](https://github.com/hashicorp/vault-app-dev-training) | Instruqt Repository for Ticketmaster Vault Training | Shell | 3 | Mozilla Public License 2.0 | 2020-04-16 | 2023-09-15 | 2023-09-15 |
 | [raft-wal](https://github.com/hashicorp/raft-wal) | experimental raft storage | Go | 96 | Mozilla Public License 2.0 | 2020-04-17 | 2025-04-03 | 2025-03-11 |
-| [boundary-ui](https://github.com/hashicorp/boundary-ui) | Monorepo for Boundary UIs and addons. | JavaScript | 89 | Other | 2020-04-20 | 2025-04-03 | 2025-04-04 |
-| [next-mdx-remote](https://github.com/hashicorp/next-mdx-remote) | Load MDX content from anywhere | TypeScript | 2897 | Mozilla Public License 2.0 | 2020-04-23 | 2025-04-04 | 2024-06-19 |
+| [boundary-ui](https://github.com/hashicorp/boundary-ui) | Monorepo for Boundary UIs and addons. | JavaScript | 89 | Other | 2020-04-20 | 2025-04-04 | 2025-04-04 |
+| [next-mdx-remote](https://github.com/hashicorp/next-mdx-remote) | Load MDX content from anywhere | TypeScript | 2896 | Mozilla Public License 2.0 | 2020-04-23 | 2025-04-04 | 2024-06-19 |
 | [setup-terraform](https://github.com/hashicorp/setup-terraform) | Sets up Terraform CLI in your GitHub Actions workflow. | JavaScript | 1452 | Mozilla Public License 2.0 | 2020-04-23 | 2025-04-04 | 2025-04-02 |
 | [next-remote-watch](https://github.com/hashicorp/next-remote-watch) | Decorated local server for next.js that enables reloads from remote data changes | JavaScript | 357 | Mozilla Public License 2.0 | 2020-04-25 | 2025-03-28 | 2024-06-16 |
 | [terraform-aws-awx](https://github.com/hashicorp/terraform-aws-awx) | None | HCL | 0 | Apache License 2.0 | 2020-04-26 | 2023-07-25 | 2023-02-01 |
@@ -443,7 +443,7 @@ Statistics Date: 2025-04-04 08:08:37
 | [lookerbot](https://github.com/hashicorp/lookerbot) | Lookerbot lets you access all your Looker data from Slack! Super fun! | None | 0 | MIT License | 2020-06-26 | 2020-06-26 | 2023-06-25 |
 | [terraform-provider-nks](https://github.com/hashicorp/terraform-provider-nks) | Terraform NKS provider | Go | 0 | Mozilla Public License 2.0 | 2020-06-26 | 2024-08-06 | 2020-06-30 |
 | [gpu-monitoring-tools](https://github.com/hashicorp/gpu-monitoring-tools) | Tools for monitoring NVIDIA GPUs on Linux  | None | 0 | Apache License 2.0 | 2020-06-28 | 2020-06-28 | 2023-04-06 |
-| [homebrew-tap](https://github.com/hashicorp/homebrew-tap) | Homebrew Tap of HashiCorp products and tools | Ruby | 139 | Mozilla Public License 2.0 | 2020-07-01 | 2025-04-02 | 2025-04-02 |
+| [homebrew-tap](https://github.com/hashicorp/homebrew-tap) | Homebrew Tap of HashiCorp products and tools | Ruby | 139 | Mozilla Public License 2.0 | 2020-07-01 | 2025-04-04 | 2025-04-04 |
 | [video-content](https://github.com/hashicorp/video-content) | None | HCL | 3 | - | 2020-07-09 | 2023-01-28 | 2020-08-06 |
 | [waypoint-hzn](https://github.com/hashicorp/waypoint-hzn) | Waypoint URL Service API (Horizon "Frontend") | Go | 39 | Mozilla Public License 2.0 | 2020-07-11 | 2024-06-25 | 2023-09-25 |
 | [terraform-provider-cloudamqp](https://github.com/hashicorp/terraform-provider-cloudamqp) | Moved to https://github.com/cloudamqp/terraform-provider-cloudamqp | Go | 2 | Mozilla Public License 2.0 | 2020-07-13 | 2023-01-28 | 2020-11-11 |
@@ -599,18 +599,18 @@ Statistics Date: 2025-04-04 08:08:37
 | [field-demos-vault-expand-team-transformers-assets](https://github.com/hashicorp/field-demos-vault-expand-team-transformers-assets) | Assets for hashicorp/field-demos-vault-expand-team-transformers | None | 0 | Mozilla Public License 2.0 | 2021-03-12 | 2021-12-13 | 2023-01-03 |
 | [field-demos-consul-expand-team-qapla-assets](https://github.com/hashicorp/field-demos-consul-expand-team-qapla-assets) | Assets for hashicorp/field-demos-consul-expand-team-qapla | HCL | 6 | Mozilla Public License 2.0 | 2021-03-12 | 2023-07-26 | 2023-03-29 |
 | [learn-boundary-upgrade](https://github.com/hashicorp/learn-boundary-upgrade) | None | HCL | 2 | Mozilla Public License 2.0 | 2021-03-15 | 2024-11-25 | 2024-11-25 |
-| [jsonapi](https://github.com/hashicorp/jsonapi) | jsonapi.org style payload serializer and deserializer | Go | 8 | MIT License | 2021-03-17 | 2025-03-05 | 2025-04-03 |
-| [packer-plugin-amazon](https://github.com/hashicorp/packer-plugin-amazon) | Packer plugin for Amazon AMI Builder | Go | 79 | Mozilla Public License 2.0 | 2021-03-19 | 2025-03-18 | 2025-04-02 |
+| [jsonapi](https://github.com/hashicorp/jsonapi) | jsonapi.org style payload serializer and deserializer | Go | 8 | MIT License | 2021-03-17 | 2025-04-04 | 2025-04-04 |
+| [packer-plugin-amazon](https://github.com/hashicorp/packer-plugin-amazon) | Packer plugin for Amazon AMI Builder | Go | 79 | Mozilla Public License 2.0 | 2021-03-19 | 2025-03-18 | 2025-04-04 |
 | [consul-ecs](https://github.com/hashicorp/consul-ecs) | Support for Consul Service Mesh on AWS ECS | Go | 26 | Mozilla Public License 2.0 | 2021-03-23 | 2025-02-28 | 2025-03-13 |
 | [hcdiag](https://github.com/hashicorp/hcdiag) | hcdiag is a CLI utility that collects and bundles product and platform diagnostics. It supports Consul, Nomad, TFE, and Vault. | Go | 56 | Mozilla Public License 2.0 | 2021-03-26 | 2025-04-01 | 2025-04-02 |
 | [learn-vault-kubernetes](https://github.com/hashicorp/learn-vault-kubernetes) | Terraform examples to provision a Kubernetes clusters for Vault tutorials use | HCL | 4 | Mozilla Public License 2.0 | 2021-04-04 | 2024-11-27 | 2024-11-27 |
 | [packer-plugin-ansible](https://github.com/hashicorp/packer-plugin-ansible) | Packer plugin for Ansible Provisioner | Go | 55 | Mozilla Public License 2.0 | 2021-04-07 | 2025-03-14 | 2025-04-02 |
-| [packer-plugin-googlecompute](https://github.com/hashicorp/packer-plugin-googlecompute) | Packer plugin for Google Compute Builder | Go | 28 | Mozilla Public License 2.0 | 2021-04-08 | 2025-03-09 | 2025-04-02 |
+| [packer-plugin-googlecompute](https://github.com/hashicorp/packer-plugin-googlecompute) | Packer plugin for Google Compute Builder | Go | 28 | Mozilla Public License 2.0 | 2021-04-08 | 2025-04-04 | 2025-04-04 |
 | [packer-plugin-vsphere](https://github.com/hashicorp/packer-plugin-vsphere) | Packer plugin for VMware vSphere Builder | Go | 109 | Mozilla Public License 2.0 | 2021-04-09 | 2025-03-20 | 2025-04-02 |
 | [terraform-plugin-framework](https://github.com/hashicorp/terraform-plugin-framework) | A next-generation framework for building Terraform providers. | Go | 330 | Mozilla Public License 2.0 | 2021-04-09 | 2025-04-02 | 2025-04-03 |
 | [terraform-plugin-log](https://github.com/hashicorp/terraform-plugin-log) | Module for logging from Terraform plugins. | Go | 22 | Mozilla Public License 2.0 | 2021-04-12 | 2025-03-24 | 2025-03-31 |
 | [packer-plugin-virtualbox](https://github.com/hashicorp/packer-plugin-virtualbox) | Packer plugin for VritualBox Builder | Go | 25 | Mozilla Public License 2.0 | 2021-04-14 | 2025-03-26 | 2025-04-02 |
-| [packer-plugin-qemu](https://github.com/hashicorp/packer-plugin-qemu) | Packer plugin for QEMU Builder | Go | 68 | Mozilla Public License 2.0 | 2021-04-14 | 2025-02-18 | 2025-04-02 |
+| [packer-plugin-qemu](https://github.com/hashicorp/packer-plugin-qemu) | Packer plugin for QEMU Builder | Go | 68 | Mozilla Public License 2.0 | 2021-04-14 | 2025-02-18 | 2025-04-04 |
 | [packer-plugin-vmware](https://github.com/hashicorp/packer-plugin-vmware) | Packer plugin for VMware Builder | Go | 51 | Mozilla Public License 2.0 | 2021-04-14 | 2025-03-28 | 2025-04-02 |
 | [packer-plugin-vagrant](https://github.com/hashicorp/packer-plugin-vagrant) | Packer plugin for Vagrant | Go | 17 | Mozilla Public License 2.0 | 2021-04-14 | 2024-12-25 | 2024-11-19 |
 | [packer-plugin-jdcloud](https://github.com/hashicorp/packer-plugin-jdcloud) | Packer plugin for JD Cloud Image Builder | Go | 3 | Mozilla Public License 2.0 | 2021-04-14 | 2024-09-29 | 2024-08-08 |
@@ -643,7 +643,7 @@ us at packer@hashicorp.com.
 provisioner to run the provisioning tools made available by this plugin. If interested in maintaining this plugin please reach out to
 us at packer@hashicorp.com.
  | Go | 1 | Mozilla Public License 2.0 | 2021-04-14 | 2024-07-22 | 2021-11-11 |
-| [terraform-provider-awscc](https://github.com/hashicorp/terraform-provider-awscc) | Terraform AWS Cloud Control provider | HCL | 279 | Mozilla Public License 2.0 | 2021-04-15 | 2025-04-03 | 2025-04-04 |
+| [terraform-provider-awscc](https://github.com/hashicorp/terraform-provider-awscc) | Terraform AWS Cloud Control provider | HCL | 279 | Mozilla Public License 2.0 | 2021-04-15 | 2025-04-04 | 2025-04-04 |
 | [aws-cloudformation-resource-schema-sdk-go](https://github.com/hashicorp/aws-cloudformation-resource-schema-sdk-go) | This package provides AWS CloudFormation Resource Schema functionality in Go | Go | 6 | Mozilla Public License 2.0 | 2021-04-19 | 2025-02-16 | 2024-11-27 |
 | [consul-global-scale-benchmark](https://github.com/hashicorp/consul-global-scale-benchmark) | Terraform configurations and helper scripts for Consul Global Scale Benchmark | HCL | 9 | Mozilla Public License 2.0 | 2021-04-19 | 2024-08-21 | 2023-03-29 |
 | [learn-consul-vms](https://github.com/hashicorp/learn-consul-vms) | None | Shell | 5 | Mozilla Public License 2.0 | 2021-04-21 | 2024-11-25 | 2024-11-25 |
@@ -670,7 +670,7 @@ us at packer@hashicorp.com.
 | [release-on-push-action](https://github.com/hashicorp/release-on-push-action) | Github Action to create a git tag + release when pushed to master | Clojure | 0 | MIT License | 2021-05-27 | 2023-09-28 | 2023-09-15 |
 | [dawdle](https://github.com/hashicorp/dawdle) | Proxy for testing network disconnects and jitter/throttling | Go | 16 | Mozilla Public License 2.0 | 2021-06-08 | 2025-01-29 | 2025-01-30 |
 | [vault-servicenow-credential-resolver](https://github.com/hashicorp/vault-servicenow-credential-resolver) | None | Java | 0 | Mozilla Public License 2.0 | 2021-06-08 | 2024-09-26 | 2024-09-26 |
-| [vagrant-vmware-desktop](https://github.com/hashicorp/vagrant-vmware-desktop) | Official provider for VMware desktop products: Fusion, Player, and Workstation. | Go | 282 | Mozilla Public License 2.0 | 2021-06-08 | 2025-04-04 | 2025-04-04 |
+| [vagrant-vmware-desktop](https://github.com/hashicorp/vagrant-vmware-desktop) | Official provider for VMware desktop products: Fusion, Player, and Workstation. | Go | 284 | Mozilla Public License 2.0 | 2021-06-08 | 2025-04-05 | 2025-04-04 |
 | [vagrant-share](https://github.com/hashicorp/vagrant-share) | Vagrant Share allows you to share your Vagrant environment with anyone in the world | Ruby | 7 | Mozilla Public License 2.0 | 2021-06-09 | 2024-12-12 | 2023-09-18 |
 | [setup-hc-releases](https://github.com/hashicorp/setup-hc-releases) | None | Shell | 0 | Mozilla Public License 2.0 | 2021-06-17 | 2024-05-08 | 2024-05-08 |
 | [setup-signore](https://github.com/hashicorp/setup-signore) | None | JavaScript | 0 | Mozilla Public License 2.0 | 2021-06-17 | 2025-03-31 | 2025-04-02 |
@@ -688,10 +688,10 @@ us at packer@hashicorp.com.
 | [terraform-aws-vault-ent-starter](https://github.com/hashicorp/terraform-aws-vault-ent-starter) | A Terraform Module for provisioning an Enterprise Vault cluster (using integrated storage) in AWS as described by HashiCorp reference architecture. | HCL | 24 | Mozilla Public License 2.0 | 2021-07-26 | 2023-12-23 | 2022-07-28 |
 | [terraform-azure-vault-ent-starter](https://github.com/hashicorp/terraform-azure-vault-ent-starter) | A Terraform Module for provisioning an Enterprise Vault cluster (using integrated storage) as described by HashiCorp reference architecture. | HCL | 7 | Mozilla Public License 2.0 | 2021-07-26 | 2023-07-17 | 2022-07-28 |
 | [terraform-gcp-vault-ent-starter](https://github.com/hashicorp/terraform-gcp-vault-ent-starter) | A Terraform Module for provisioning an Enterprise Vault cluster (using integrated storage) as described by HashiCorp reference architecture. | HCL | 4 | Mozilla Public License 2.0 | 2021-07-26 | 2023-01-27 | 2022-06-30 |
-| [dev-portal](https://github.com/hashicorp/dev-portal) | the home of developer.hashicorp.com | TypeScript | 70 | Mozilla Public License 2.0 | 2021-07-30 | 2025-04-03 | 2025-04-03 |
+| [dev-portal](https://github.com/hashicorp/dev-portal) | the home of developer.hashicorp.com | TypeScript | 70 | Mozilla Public License 2.0 | 2021-07-30 | 2025-04-04 | 2025-04-04 |
 | [terraform-kubernetes-terraform-cloud-operator](https://github.com/hashicorp/terraform-kubernetes-terraform-cloud-operator) | Install the Terraform Cloud Operator into your Kubernetes cluster | HCL | 3 | Mozilla Public License 2.0 | 2021-08-04 | 2023-07-25 | 2023-02-13 |
 | [field-povs-consul](https://github.com/hashicorp/field-povs-consul) | None | Shell | 4 | Mozilla Public License 2.0 | 2021-08-05 | 2023-01-03 | 2023-03-29 |
-| [terraform-plugin-testing](https://github.com/hashicorp/terraform-plugin-testing) | Module for testing Terraform providers | Go | 55 | Mozilla Public License 2.0 | 2021-08-06 | 2025-04-02 | 2025-04-03 |
+| [terraform-plugin-testing](https://github.com/hashicorp/terraform-plugin-testing) | Module for testing Terraform providers | Go | 55 | Mozilla Public License 2.0 | 2021-08-06 | 2025-04-02 | 2025-04-05 |
 | [boundary-guides](https://github.com/hashicorp/boundary-guides) | SE guides for Boundary | None | 5 | Mozilla Public License 2.0 | 2021-08-09 | 2023-01-14 | 2023-01-14 |
 | [nomad-openapi](https://github.com/hashicorp/nomad-openapi) | OpenAPI specification and related artifacts for HashiCorp Nomad | Python | 59 | Mozilla Public License 2.0 | 2021-08-13 | 2024-10-13 | 2023-09-18 |
 | [field-demo-terraform-build-your-own-provider](https://github.com/hashicorp/field-demo-terraform-build-your-own-provider) | None | Shell | 2 | Mozilla Public License 2.0 | 2021-08-16 | 2023-01-28 | 2024-01-08 |
@@ -699,7 +699,7 @@ us at packer@hashicorp.com.
 | [terraform-azure-labs](https://github.com/hashicorp/terraform-azure-labs) | Terraform Azure Labs | HCL | 3 | Apache License 2.0 | 2021-08-30 | 2023-07-25 | 2023-02-13 |
 | [terraform-aws-hcp-consul](https://github.com/hashicorp/terraform-aws-hcp-consul) | Terraform module for HCP Consul on AWS | HCL | 12 | Mozilla Public License 2.0 | 2021-08-31 | 2023-12-31 | 2023-10-20 |
 | [boundary-plugin-azure](https://github.com/hashicorp/boundary-plugin-azure) | Azure host catalog plugin | Go | 2 | Mozilla Public License 2.0 | 2021-09-08 | 2025-03-24 | 2025-03-24 |
-| [nomad-pack](https://github.com/hashicorp/nomad-pack) | None | Go | 405 | Mozilla Public License 2.0 | 2021-09-13 | 2025-04-02 | 2025-04-04 |
+| [nomad-pack](https://github.com/hashicorp/nomad-pack) | None | Go | 405 | Mozilla Public License 2.0 | 2021-09-13 | 2025-04-02 | 2025-04-05 |
 | [boundary-plugin-aws](https://github.com/hashicorp/boundary-plugin-aws) | Boundary Host Plugin (AWS) | Go | 13 | Mozilla Public License 2.0 | 2021-09-16 | 2025-03-17 | 2025-03-17 |
 | [go-hmac-drbg](https://github.com/hashicorp/go-hmac-drbg) | Deterministic random bit generator using hmac/sha256 as per NIST 800-90A | Go | 2 | MIT License | 2021-09-16 | 2024-07-30 | 2021-09-16 |
 | [waypoint-helm](https://github.com/hashicorp/waypoint-helm) | Helm chart to install Waypoint and other associated components. | Smarty | 29 | Mozilla Public License 2.0 | 2021-09-21 | 2024-09-05 | 2023-08-14 |
@@ -711,7 +711,7 @@ us at packer@hashicorp.com.
 | [example-nomad-pack-registry](https://github.com/hashicorp/example-nomad-pack-registry) | An example registry for Nomad Pack. Clone this repository to get started with custom packs. | Smarty | 7 | Mozilla Public License 2.0 | 2021-09-28 | 2024-02-05 | 2023-02-13 |
 | [actions-generate-metadata](https://github.com/hashicorp/actions-generate-metadata) | A GitHub action for generating metadata for CRT | Go | 4 | Mozilla Public License 2.0 | 2021-09-29 | 2024-07-15 | 2024-10-28 |
 | [front-matter-schema](https://github.com/hashicorp/front-matter-schema) | Github Action for validating front matter YAML against a schema | JavaScript | 1 | MIT License | 2021-10-04 | 2022-09-15 | 2023-02-13 |
-| [cdktf-aws-cdk](https://github.com/hashicorp/cdktf-aws-cdk) | Use AWS CDK constructs in CDKTF projects | TypeScript | 99 | Mozilla Public License 2.0 | 2021-10-08 | 2025-03-31 | 2025-04-04 |
+| [cdktf-aws-cdk](https://github.com/hashicorp/cdktf-aws-cdk) | Use AWS CDK constructs in CDKTF projects | TypeScript | 99 | Mozilla Public License 2.0 | 2021-10-08 | 2025-04-04 | 2025-04-04 |
 | [sami-tf](https://github.com/hashicorp/sami-tf) | None | HCL | 0 | Mozilla Public License 2.0 | 2021-10-11 | 2021-10-12 | 2023-02-20 |
 | [go-gin-gorm-opencensus](https://github.com/hashicorp/go-gin-gorm-opencensus) | OpenCensus instrumentation for Gin and Gorm | Go | 0 | MIT License | 2021-10-14 | 2025-02-28 | 2025-02-28 |
 | [js-bexpr](https://github.com/hashicorp/js-bexpr) | Generic boolean expression evaluation in JavaScript | JavaScript | 3 | Mozilla Public License 2.0 | 2021-10-15 | 2023-10-28 | 2023-02-13 |
@@ -722,7 +722,7 @@ us at packer@hashicorp.com.
 | [terraform-azure-consul-ent-starter](https://github.com/hashicorp/terraform-azure-consul-ent-starter) | A Terraform Module for provisioning an Enterprise Consul cluster in Azure as described by HashiCorp reference architecture. | HCL | 0 | Mozilla Public License 2.0 | 2021-10-29 | 2023-01-27 | 2022-05-06 |
 | [terraform-gcp-consul-ent-starter](https://github.com/hashicorp/terraform-gcp-consul-ent-starter) | A Terraform Module for provisioning an Enterprise Consul cluster in GCP as described by HashiCorp reference architecture. | HCL | 0 | Mozilla Public License 2.0 | 2021-10-29 | 2023-01-27 | 2022-07-15 |
 | [field-workshops-terraform-foundations-assets](https://github.com/hashicorp/field-workshops-terraform-foundations-assets) | Additional assets for field-workshops-terraform-foundations | HCL | 0 | Mozilla Public License 2.0 | 2021-11-01 | 2021-11-16 | 2023-02-13 |
-| [design-system](https://github.com/hashicorp/design-system) | Helios Design System | TypeScript | 460 | Mozilla Public License 2.0 | 2021-11-01 | 2025-04-03 | 2025-04-03 |
+| [design-system](https://github.com/hashicorp/design-system) | Helios Design System | TypeScript | 461 | Mozilla Public License 2.0 | 2021-11-01 | 2025-04-04 | 2025-04-04 |
 | [web-platform-packages](https://github.com/hashicorp/web-platform-packages) | Scripts and plugins that provide centralized defaults for HashiCorp Next.js web properties | TypeScript | 21 | Mozilla Public License 2.0 | 2021-11-02 | 2024-09-01 | 2025-01-17 |
 | [hello-vault-dotnet](https://github.com/hashicorp/hello-vault-dotnet) | Runnable C# examples of how to integrate an application with HashiCorp Vault. | C# | 31 | Mozilla Public License 2.0 | 2021-11-03 | 2025-03-17 | 2024-09-05 |
 | [hello-vault-go](https://github.com/hashicorp/hello-vault-go) | Runnable examples in Go of how to integrate an application with HashiCorp Vault. | Go | 107 | Mozilla Public License 2.0 | 2021-11-05 | 2025-03-13 | 2025-03-13 |
@@ -761,7 +761,7 @@ us at packer@hashicorp.com.
 | [vscode-hcl](https://github.com/hashicorp/vscode-hcl) | HCL (HashiCorp Configuration Language) Extension for Visual Studio Code | TypeScript | 49 | Mozilla Public License 2.0 | 2022-02-24 | 2025-03-29 | 2025-03-31 |
 | [terraform-runtask-integrations](https://github.com/hashicorp/terraform-runtask-integrations) | None | HCL | 0 | Mozilla Public License 2.0 | 2022-02-24 | 2023-07-25 | 2023-02-20 |
 | [action-setup-bob](https://github.com/hashicorp/action-setup-bob) | GitHub action to setup bob CLI | None | 1 | Mozilla Public License 2.0 | 2022-02-28 | 2024-12-06 | 2025-03-17 |
-| [terraform-docs-common](https://github.com/hashicorp/terraform-docs-common) | Content for Terraform's documentation. | MDX | 37 | Mozilla Public License 2.0 | 2022-02-28 | 2025-04-03 | 2025-04-03 |
+| [terraform-docs-common](https://github.com/hashicorp/terraform-docs-common) | Content for Terraform's documentation. | MDX | 37 | Mozilla Public License 2.0 | 2022-02-28 | 2025-04-03 | 2025-04-04 |
 | [terraform-docs-agents](https://github.com/hashicorp/terraform-docs-agents) | Content for Terraform's agents documentation. | MDX | 8 | Mozilla Public License 2.0 | 2022-02-28 | 2025-04-03 | 2025-04-03 |
 | [mog](https://github.com/hashicorp/mog) | Code generation tool used internally by Consul for converting api types into core types | Go | 9 | Mozilla Public License 2.0 | 2022-03-14 | 2022-10-17 | 2024-05-13 |
 | [token-talk](https://github.com/hashicorp/token-talk) | None | Makefile | 0 | - | 2022-03-16 | 2022-03-18 | 2023-01-25 |
@@ -796,10 +796,10 @@ us at packer@hashicorp.com.
 | [hcp-vault-eks-jwt-auth](https://github.com/hashicorp/hcp-vault-eks-jwt-auth) | Configuration for HCP Vault with EKS and JWT Auth Method tutorial | None | 0 | Mozilla Public License 2.0 | 2022-05-27 | 2022-07-12 | 2023-02-27 |
 | [microservices-architecture-on-aws-sentinel](https://github.com/hashicorp/microservices-architecture-on-aws-sentinel) | Sentinel policy sets for the microservices-architecture-on-aws repo | HCL | 1 | Mozilla Public License 2.0 | 2022-05-31 | 2023-04-20 | 2025-02-24 |
 | [microservices-architecture-on-aws-consul](https://github.com/hashicorp/microservices-architecture-on-aws-consul) | Terraform Consul configuration for the microservices-architecture-on-aws repo | HCL | 1 | Mozilla Public License 2.0 | 2022-05-31 | 2022-06-02 | 2023-03-29 |
-| [terraform-cdk-action](https://github.com/hashicorp/terraform-cdk-action) | The Terraform CDK GitHub Action allows you to run CDKTF as part of your CI/CD workflow | TypeScript | 48 | Mozilla Public License 2.0 | 2022-06-10 | 2025-03-31 | 2025-03-31 |
-| [go-azure-sdk](https://github.com/hashicorp/go-azure-sdk) | An opinionated Go SDK for Azure Resource Manager | Go | 40 | Mozilla Public License 2.0 | 2022-06-10 | 2025-03-31 | 2025-03-31 |
+| [terraform-cdk-action](https://github.com/hashicorp/terraform-cdk-action) | The Terraform CDK GitHub Action allows you to run CDKTF as part of your CI/CD workflow | TypeScript | 48 | Mozilla Public License 2.0 | 2022-06-10 | 2025-04-04 | 2025-04-04 |
+| [go-azure-sdk](https://github.com/hashicorp/go-azure-sdk) | An opinionated Go SDK for Azure Resource Manager | Go | 40 | Mozilla Public License 2.0 | 2022-06-10 | 2025-04-04 | 2025-04-04 |
 | [immutable-infrastructure](https://github.com/hashicorp/immutable-infrastructure) | None | HCL | 0 | Mozilla Public License 2.0 | 2022-06-15 | 2024-02-01 | 2023-02-27 |
-| [hcp-terraform-operator](https://github.com/hashicorp/hcp-terraform-operator) | Kubernetes Operator allows managing HCP Terraform resources via Kubernetes Custom Resources. | Go | 143 | Mozilla Public License 2.0 | 2022-06-21 | 2025-04-01 | 2025-04-02 |
+| [hcp-terraform-operator](https://github.com/hashicorp/hcp-terraform-operator) | Kubernetes Operator allows managing HCP Terraform resources via Kubernetes Custom Resources. | Go | 143 | Mozilla Public License 2.0 | 2022-06-21 | 2025-04-01 | 2025-04-04 |
 | [hcp-link](https://github.com/hashicorp/hcp-link) | HCP Link | Go | 3 | Mozilla Public License 2.0 | 2022-06-22 | 2024-09-26 | 2024-07-05 |
 | [hcp-scada-provider](https://github.com/hashicorp/hcp-scada-provider) | HCP SCADA Provider | Go | 7 | Mozilla Public License 2.0 | 2022-06-22 | 2025-02-27 | 2025-03-10 |
 | [vault-client-dotnet](https://github.com/hashicorp/vault-client-dotnet) | HashiCorp Vault client library in C# | C# | 46 | Mozilla Public License 2.0 | 2022-06-28 | 2025-02-19 | 2024-08-19 |
@@ -842,7 +842,7 @@ us at packer@hashicorp.com.
 | [cluster-api-provider-terraform-cloud](https://github.com/hashicorp/cluster-api-provider-terraform-cloud) | Kubernetes Cluster API Provider for Terraform Cloud | Go | 38 | Mozilla Public License 2.0 | 2022-10-24 | 2025-01-22 | 2024-03-13 |
 | [setup-golang](https://github.com/hashicorp/setup-golang) | An action for setting up Go compiler and GitHub Actions cache | None | 9 | Mozilla Public License 2.0 | 2022-10-29 | 2024-08-08 | 2024-01-11 |
 | [actions-set-product-version](https://github.com/hashicorp/actions-set-product-version) | Reusable action to automatically set product versions  | None | 1 | Mozilla Public License 2.0 | 2022-11-14 | 2024-06-17 | 2024-10-28 |
-| [vault-secrets-operator](https://github.com/hashicorp/vault-secrets-operator) | The Vault Secrets Operator (VSO) allows Pods to consume Vault secrets natively from Kubernetes Secrets. | Go | 511 | Other | 2022-11-15 | 2025-04-02 | 2025-04-03 |
+| [vault-secrets-operator](https://github.com/hashicorp/vault-secrets-operator) | The Vault Secrets Operator (VSO) allows Pods to consume Vault secrets natively from Kubernetes Secrets. | Go | 511 | Other | 2022-11-15 | 2025-04-04 | 2025-04-04 |
 | [consul-cluster-peering-setup-module](https://github.com/hashicorp/consul-cluster-peering-setup-module) | This repo contains a Terraform module for easily peering multiple Consul clusters together. | HCL | 5 | Mozilla Public License 2.0 | 2022-11-17 | 2023-05-26 | 2023-09-20 |
 | [sa-ssdp-aws](https://github.com/hashicorp/sa-ssdp-aws) | Solution Architecture - Secure Service Networking - AWS | HCL | 1 | Mozilla Public License 2.0 | 2022-11-23 | 2024-01-31 | 2023-03-27 |
 | [ember-asciinema-player](https://github.com/hashicorp/ember-asciinema-player) | Asciinema Player for Ember | JavaScript | 2 | Mozilla Public License 2.0 | 2022-12-10 | 2023-03-03 | 2023-08-03 |
@@ -852,7 +852,7 @@ us at packer@hashicorp.com.
 | [vault-workflows-common](https://github.com/hashicorp/vault-workflows-common) | Reusable workflows for use by Vault OSS repos | Python | 5 | Mozilla Public License 2.0 | 2023-01-17 | 2025-04-02 | 2025-04-02 |
 | [waypoint-client](https://github.com/hashicorp/waypoint-client) | A HTTP API Client for Waypoint | Go | 5 | Mozilla Public License 2.0 | 2023-01-17 | 2024-09-05 | 2023-04-18 |
 | [copywrite](https://github.com/hashicorp/copywrite) | Automate copyright headers and license files at scale | Go | 92 | Mozilla Public License 2.0 | 2023-01-19 | 2025-03-18 | 2025-03-19 |
-| [setup-copywrite](https://github.com/hashicorp/setup-copywrite) | GitHub Action for downloading and installing the copywrite CLI | JavaScript | 5 | Mozilla Public License 2.0 | 2023-01-20 | 2024-09-25 | 2025-04-03 |
+| [setup-copywrite](https://github.com/hashicorp/setup-copywrite) | GitHub Action for downloading and installing the copywrite CLI | JavaScript | 5 | Mozilla Public License 2.0 | 2023-01-20 | 2024-09-25 | 2025-04-04 |
 | [terraform-aws-waypoint-ecs](https://github.com/hashicorp/terraform-aws-waypoint-ecs) | Terraform module which creates the AWS infrastructure that the Hashicorp Waypoint ECS platform plugin requires | HCL | 7 | Mozilla Public License 2.0 | 2023-01-30 | 2024-12-29 | 2024-11-18 |
 | [terraform-provider-waypoint](https://github.com/hashicorp/terraform-provider-waypoint) | Terraform Provider for Waypoint | Go | 4 | Mozilla Public License 2.0 | 2023-02-17 | 2024-10-22 | 2024-04-12 |
 | [consul-telemetry-collector](https://github.com/hashicorp/consul-telemetry-collector) | consul-telemetry-collector receives metrics from Envoy proxies in a Consul service mesh and exports them to HCP and other OTLP compliant endpoint | Go | 14 | Mozilla Public License 2.0 | 2023-02-17 | 2025-03-28 | 2025-03-31 |
@@ -879,7 +879,7 @@ us at packer@hashicorp.com.
 | [terraform-null-waypoint-template-starter](https://github.com/hashicorp/terraform-null-waypoint-template-starter) | The simplest possible terraform no-code module to go with a waypoint template | HCL | 0 | Mozilla Public License 2.0 | 2023-06-22 | 2024-11-07 | 2024-11-13 |
 | [vault-pki-cieps-example](https://github.com/hashicorp/vault-pki-cieps-example) | Example Certificate Issuance External Policy Service (CIEPS) implementation | Go | 0 | Mozilla Public License 2.0 | 2023-07-07 | 2025-04-01 | 2025-04-01 |
 | [terraform-plugin-framework-jsontypes](https://github.com/hashicorp/terraform-plugin-framework-jsontypes) | JSON String Custom Types for Terraform Plugin Framework | Go | 5 | Mozilla Public License 2.0 | 2023-07-20 | 2025-03-24 | 2025-03-31 |
-| [terraform-plugin-framework-nettypes](https://github.com/hashicorp/terraform-plugin-framework-nettypes) | Networking Custom Types for Terraform Plugin Framework | Go | 2 | Mozilla Public License 2.0 | 2023-07-20 | 2025-03-24 | 2025-03-31 |
+| [terraform-plugin-framework-nettypes](https://github.com/hashicorp/terraform-plugin-framework-nettypes) | Networking Custom Types for Terraform Plugin Framework | Go | 2 | Mozilla Public License 2.0 | 2023-07-20 | 2025-03-24 | 2025-04-04 |
 | [terraform-plugin-framework-timetypes](https://github.com/hashicorp/terraform-plugin-framework-timetypes) | Timestamp Custom Types for Terraform Plugin Framework | Go | 4 | Mozilla Public License 2.0 | 2023-07-20 | 2025-03-24 | 2025-03-31 |
 | [ember-pollster](https://github.com/hashicorp/ember-pollster) | Simple, testable polling for Ember applications. | JavaScript | 1 | MIT License | 2023-07-24 | 2025-03-06 | 2025-03-06 |
 | [mql](https://github.com/hashicorp/mql) | Model Query Language (mql) is a query language for your database models. | Go | 54 | Mozilla Public License 2.0 | 2023-08-02 | 2025-03-04 | 2025-03-07 |
@@ -888,12 +888,12 @@ us at packer@hashicorp.com.
 | [go-rate](https://github.com/hashicorp/go-rate) | None | Go | 4 | Mozilla Public License 2.0 | 2023-09-12 | 2025-03-25 | 2025-03-25 |
 | [vault-hcp-lib](https://github.com/hashicorp/vault-hcp-lib) | HCP Vault Library | Go | 0 | Mozilla Public License 2.0 | 2023-09-15 | 2025-03-06 | 2025-03-07 |
 | [terraform-run-task-scaffolding-go](https://github.com/hashicorp/terraform-run-task-scaffolding-go) | Quick start repository for creating a Terraform Cloud/Enterprise Run Task in Go  | Go | 3 | Mozilla Public License 2.0 | 2023-09-27 | 2025-03-14 | 2024-12-13 |
-| [cli](https://github.com/hashicorp/cli) | A Go library for implementing command-line interfaces. | Go | 22 | Mozilla Public License 2.0 | 2023-11-20 | 2025-04-02 | 2025-04-01 |
+| [cli](https://github.com/hashicorp/cli) | A Go library for implementing command-line interfaces. | Go | 22 | Mozilla Public License 2.0 | 2023-11-20 | 2025-04-02 | 2025-04-04 |
 | [colorstring](https://github.com/hashicorp/colorstring) | Go (golang) library for colorizing strings for terminal output. | Go | 0 | MIT License | 2023-12-20 | 2023-12-20 | 2023-12-25 |
 | [vault-msgraph-sdk](https://github.com/hashicorp/vault-msgraph-sdk) | Autogenerated Go SDK for Azure | Go | 0 | MIT License | 2023-12-21 | 2024-01-17 | 2024-01-17 |
-| [hcp](https://github.com/hashicorp/hcp) | HCP Command-Line Interface | Go | 16 | Mozilla Public License 2.0 | 2024-01-17 | 2025-04-03 | 2025-04-03 |
+| [hcp](https://github.com/hashicorp/hcp) | HCP Command-Line Interface | Go | 16 | Mozilla Public License 2.0 | 2024-01-17 | 2025-04-03 | 2025-04-04 |
 | [actions-pr-guidelines](https://github.com/hashicorp/actions-pr-guidelines) | Action that holds the PR Guidelines Workflow | None | 0 | - | 2024-01-23 | 2024-01-23 | 2024-11-07 |
-| [web-unified-docs](https://github.com/hashicorp/web-unified-docs) | Hashicorp Unified Docs | MDX | 3 | Other | 2024-02-07 | 2025-04-02 | 2025-04-02 |
+| [web-unified-docs](https://github.com/hashicorp/web-unified-docs) | Hashicorp Unified Docs | MDX | 3 | Other | 2024-02-07 | 2025-04-04 | 2025-04-05 |
 | [rollouts-plugin-trafficrouter-consul](https://github.com/hashicorp/rollouts-plugin-trafficrouter-consul) | Fork of Argo Rollouts Plugin for Consul Service Mesh. See official repo in link. | Go | 1 | Apache License 2.0 | 2024-02-15 | 2025-03-21 | 2025-03-26 |
 | [boundary-plugin-minio](https://github.com/hashicorp/boundary-plugin-minio) | Boundary storage plugin for MinIO | Go | 1 | Mozilla Public License 2.0 | 2024-02-22 | 2025-03-19 | 2025-03-19 |
 | [nomad-driver-exec2](https://github.com/hashicorp/nomad-driver-exec2) | An official Nomad task driver plugin for sandboxing workloads using native Linux kernel features  | Go | 11 | Mozilla Public License 2.0 | 2024-03-04 | 2025-03-08 | 2025-02-05 |
