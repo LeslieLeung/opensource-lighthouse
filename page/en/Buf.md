@@ -1,16 +1,16 @@
 # Buf
 
-A total of 62 projects, 51 active projects in the last six months, 1 teams, and 18241 stars.
+A total of 62 projects, 51 active projects in the last six months, 1 teams, and 18248 stars.
 
 Top 3 Languages: Go, TypeScript, Makefile
 
-Statistics Date: 2025-04-12 08:07:28
+Statistics Date: 2025-04-13 08:07:46
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) | Protocol Buffer Validation - Being replaced by github.com/bufbuild/protovalidate | Go | 3895 | Apache License 2.0 | 2017-10-03 | 2025-04-11 | 2025-04-07 |
+| [protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) | Protocol Buffer Validation - Being replaced by github.com/bufbuild/protovalidate | Go | 3896 | Apache License 2.0 | 2017-10-03 | 2025-04-12 | 2025-04-07 |
 | [homebrew-buf](https://github.com/bufbuild/homebrew-buf) | Homebrew tap for Buf. | Shell | 13 | Apache License 2.0 | 2019-10-02 | 2025-04-08 | 2025-04-08 |
-| [buf](https://github.com/bufbuild/buf) | The best way of working with Protocol Buffers. | Go | 9772 | Apache License 2.0 | 2019-10-03 | 2025-04-12 | 2025-04-11 |
+| [buf](https://github.com/bufbuild/buf) | The best way of working with Protocol Buffers. | Go | 9776 | Apache License 2.0 | 2019-10-03 | 2025-04-13 | 2025-04-12 |
 | [vim-buf](https://github.com/bufbuild/vim-buf) | Vim integration for Buf. | Vim Script | 35 | Apache License 2.0 | 2019-10-03 | 2024-09-12 | 2025-04-08 |
 | [buf-examples](https://github.com/bufbuild/buf-examples) | Example repository that uses Buf. | Go | 83 | Apache License 2.0 | 2019-10-12 | 2025-04-11 | 2025-04-10 |
 | [makego](https://github.com/bufbuild/makego) | Makefile setup for our Golang projects. | Makefile | 104 | Apache License 2.0 | 2019-11-18 | 2025-04-10 | 2025-04-10 |
@@ -23,7 +23,7 @@ Statistics Date: 2025-04-12 08:07:28
 | [buf-tour](https://github.com/bufbuild/buf-tour) | None | Go | 52 | - | 2021-08-10 | 2025-03-09 | 2024-11-19 |
 | [rules_buf](https://github.com/bufbuild/rules_buf) | Bazel rules for Buf. | Starlark | 50 | Apache License 2.0 | 2021-11-16 | 2025-03-24 | 2025-01-18 |
 | [intellij-buf](https://github.com/bufbuild/intellij-buf) | IntelliJ plugin for Buf | Kotlin | 21 | Apache License 2.0 | 2022-03-08 | 2025-04-02 | 2025-04-02 |
-| [protobuf-es](https://github.com/bufbuild/protobuf-es) | Protocol Buffers for ECMAScript. The only JavaScript Protobuf library that is fully-compliant with Protobuf conformance tests. | TypeScript | 1268 | Apache License 2.0 | 2022-03-14 | 2025-04-11 | 2025-04-10 |
+| [protobuf-es](https://github.com/bufbuild/protobuf-es) | Protocol Buffers for ECMAScript. The only JavaScript Protobuf library that is fully-compliant with Protobuf conformance tests. | TypeScript | 1269 | Apache License 2.0 | 2022-03-14 | 2025-04-12 | 2025-04-10 |
 | [protocompile](https://github.com/bufbuild/protocompile) | A parsing/linking engine for protobuf; the guts for a pure Go replacement of protoc. | Go | 263 | Apache License 2.0 | 2022-08-11 | 2025-04-07 | 2025-04-11 |
 | [buf-language-server](https://github.com/bufbuild/buf-language-server) | Archived: LSP support is being built into the Buf CLI | Go | 130 | Apache License 2.0 | 2022-08-15 | 2025-04-06 | 2024-02-13 |
 | [plugins](https://github.com/bufbuild/plugins) | Remote Protobuf plugins available on the BSR | Dockerfile | 55 | Apache License 2.0 | 2022-08-16 | 2025-04-10 | 2025-04-10 |
@@ -60,7 +60,7 @@ Statistics Date: 2025-04-12 08:07:28
 | [registry-proto](https://github.com/bufbuild/registry-proto) | BSR's new public API. Currently in development. | Makefile | 19 | Apache License 2.0 | 2023-10-26 | 2025-04-08 | 2025-04-08 |
 | [bufisk](https://github.com/bufbuild/bufisk) | Bazelisk, but for Buf. A user-friendly launcher for Buf. | Go | 8 | Apache License 2.0 | 2023-11-30 | 2025-03-12 | 2025-03-19 |
 | [protoplugin](https://github.com/bufbuild/protoplugin) | The missing library to write protoc plugins. | Go | 37 | Apache License 2.0 | 2024-03-04 | 2025-03-29 | 2025-02-18 |
-| [protoschema-plugins](https://github.com/bufbuild/protoschema-plugins) | Protobuf plugins that generate various schemas from protobuf files - JSON Schema, PubSub, etc. | Go | 34 | Apache License 2.0 | 2024-03-13 | 2025-04-10 | 2025-04-10 |
+| [protoschema-plugins](https://github.com/bufbuild/protoschema-plugins) | Protobuf plugins that generate various schemas from protobuf files - JSON Schema, PubSub, etc. | Go | 35 | Apache License 2.0 | 2024-03-13 | 2025-04-13 | 2025-04-10 |
 | [buf-action](https://github.com/bufbuild/buf-action) | Build, format, lint, and check for breaking changes in your Protobuf schemas, and automatically publish to the Buf Schema Registry. | TypeScript | 32 | Apache License 2.0 | 2024-05-24 | 2025-03-30 | 2025-04-07 |
 | [bufstream-demo](https://github.com/bufbuild/bufstream-demo) | A demo of Bufstream, a drop-in replacement for Apache Kafka that's 8x less expensive to operate and brings broker-side schema awareness to Kafka | Go | 42 | Apache License 2.0 | 2024-07-02 | 2025-04-10 | 2025-04-01 |
 | [bufplugin](https://github.com/bufbuild/bufplugin) | The APIs for plugins to the Buf platform. | Makefile | 4 | Apache License 2.0 | 2024-09-04 | 2025-01-21 | 2025-01-21 |
