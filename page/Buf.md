@@ -1,16 +1,16 @@
 # Buf
 
-共 62 个项目，近半年内活跃项目 51 个，1 个团队， 18287 个 Star。
+共 62 个项目，近半年内活跃项目 51 个，1 个团队， 18289 个 Star。
 
 语言 Top 3：Go, TypeScript, Makefile
 
-统计时间：2025-04-19 08:07:26
+统计时间：2025-04-20 08:07:35
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) | Protocol Buffer Validation - Being replaced by github.com/bufbuild/protovalidate | Go | 3901 | Apache License 2.0 | 2017-10-03 | 2025-04-18 | 2025-04-16 |
 | [homebrew-buf](https://github.com/bufbuild/homebrew-buf) | Homebrew tap for Buf. | Shell | 12 | Apache License 2.0 | 2019-10-02 | 2025-04-14 | 2025-04-08 |
-| [buf](https://github.com/bufbuild/buf) | The best way of working with Protocol Buffers. | Go | 9799 | Apache License 2.0 | 2019-10-03 | 2025-04-18 | 2025-04-17 |
+| [buf](https://github.com/bufbuild/buf) | The best way of working with Protocol Buffers. | Go | 9801 | Apache License 2.0 | 2019-10-03 | 2025-04-20 | 2025-04-17 |
 | [vim-buf](https://github.com/bufbuild/vim-buf) | Vim integration for Buf. | Vim Script | 35 | Apache License 2.0 | 2019-10-03 | 2024-09-12 | 2025-04-08 |
 | [buf-examples](https://github.com/bufbuild/buf-examples) | Example repository that uses Buf. | Go | 83 | Apache License 2.0 | 2019-10-12 | 2025-04-11 | 2025-04-17 |
 | [makego](https://github.com/bufbuild/makego) | Makefile setup for our Golang projects. | Makefile | 104 | Apache License 2.0 | 2019-11-18 | 2025-04-10 | 2025-04-10 |

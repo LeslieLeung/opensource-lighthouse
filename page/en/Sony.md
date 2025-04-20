@@ -1,14 +1,14 @@
 # Sony
 
-A total of 102 projects, 48 active projects in the last six months, 1 teams, and 16644 stars.
+A total of 102 projects, 48 active projects in the last six months, 1 teams, and 16649 stars.
 
 Top 3 Languages: Python, JavaScript, Jupyter Notebook
 
-Statistics Date: 2025-04-19 08:07:26
+Statistics Date: 2025-04-20 08:07:35
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3115 | MIT License | 2015-05-29 | 2025-04-19 | 2025-03-25 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3117 | MIT License | 2015-05-29 | 2025-04-20 | 2025-03-25 |
 | [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4078 | MIT License | 2015-05-29 | 2025-04-18 | 2024-10-13 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
@@ -52,7 +52,7 @@ Statistics Date: 2025-04-19 08:07:26
 | [dolp-colorconstancy](https://github.com/sony/dolp-colorconstancy) | None | Python | 13 | MIT License | 2022-03-22 | 2025-04-15 | 2022-07-04 |
 | [nnabla-browser](https://github.com/sony/nnabla-browser) | Visualization toolkit for Neural Network Libraries | TypeScript | 9 | Apache License 2.0 | 2022-03-31 | 2024-07-06 | 2023-03-07 |
 | [sqvae](https://github.com/sony/sqvae) | Pytorch implementation of stochastically quantized variational autoencoder (SQ-VAE) | Python | 187 | Apache License 2.0 | 2022-05-26 | 2025-04-02 | 2022-07-20 |
-| [aibo-development-tutorial](https://github.com/sony/aibo-development-tutorial) | None | None | 7 | Other | 2022-06-28 | 2024-03-18 | 2022-06-30 |
+| [aibo-development-tutorial](https://github.com/sony/aibo-development-tutorial) | None | None | 8 | Other | 2022-06-28 | 2025-04-20 | 2022-06-30 |
 | [FxNorm-automix](https://github.com/sony/FxNorm-automix) | FxNorm-Automix - Implementation of automatic music mixing systems. We show how we can use wet music data and repurpose it to train a fully automatic mixing system | Python | 111 | MIT License | 2022-08-05 | 2025-04-13 | 2024-03-11 |
 | [polar-densification](https://github.com/sony/polar-densification) | None | Python | 24 | MIT License | 2022-09-13 | 2025-04-15 | 2023-03-24 |
 | [nnabla-js](https://github.com/sony/nnabla-js) | None | TypeScript | 1 | Apache License 2.0 | 2022-09-16 | 2023-02-01 | 2023-01-13 |
@@ -84,7 +84,7 @@ Statistics Date: 2025-04-19 08:07:26
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 13 | MIT License | 2024-07-09 | 2025-04-12 | 2025-03-05 |
 | [genwarp](https://github.com/sony/genwarp) | None | Python | 269 | MIT License | 2024-08-06 | 2025-04-17 | 2024-09-26 |
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 40 | MIT License | 2024-09-05 | 2025-03-12 | 2024-11-05 |
-| [esstra](https://github.com/sony/esstra) | A software suite for enhancing software supply chain transparency | Python | 9 | Other | 2024-10-03 | 2025-04-17 | 2025-04-17 |
+| [esstra](https://github.com/sony/esstra) | A software suite for enhancing software supply chain transparency | Python | 10 | Other | 2024-10-03 | 2025-04-20 | 2025-04-17 |
 | [pagoda](https://github.com/sony/pagoda) | None | Python | 18 | MIT License | 2024-10-23 | 2025-04-10 | 2024-11-21 |
 | [okg](https://github.com/sony/okg) | Official Repo for The Paper "OKG: On-the-fly Keyword Generation in Search Sponsered Advertising" (Coling'25) | Jupyter Notebook | 3 | Other | 2024-11-15 | 2025-03-09 | 2025-02-14 |
 | [dual-pixel-disparity](https://github.com/sony/dual-pixel-disparity) | None | Python | 5 | MIT License | 2024-11-19 | 2025-04-16 | 2025-03-27 |
@@ -107,6 +107,6 @@ Statistics Date: 2025-04-19 08:07:26
 | [EXID](https://github.com/sony/EXID) | Official implementation of Enhancing Generalization of Offline RL in Data-Limited Settings with Heuristic Rules (Accepted in IEEE TRANSACTIONS ON ARTIFICIAL INTELLIGENCE 2025) | Jupyter Notebook | 0 | MIT License | 2025-02-19 | 2025-02-27 | 2025-02-20 |
 | [humangif](https://github.com/sony/humangif) | None | Python | 0 | MIT License | 2025-02-25 | 2025-02-27 | 2025-02-27 |
 | [alice](https://github.com/sony/alice) | None | Jupyter Notebook | 0 | MIT License | 2025-03-10 | 2025-03-10 | 2025-03-10 |
-| [clews](https://github.com/sony/clews) | None | Python | 3 | MIT License | 2025-03-12 | 2025-04-08 | 2025-03-19 |
+| [clews](https://github.com/sony/clews) | None | Python | 4 | MIT License | 2025-03-12 | 2025-04-20 | 2025-03-19 |
 | [learning-feet-imu-locomotion](https://github.com/sony/learning-feet-imu-locomotion) | None | JavaScript | 0 | - | 2025-03-24 | 2025-04-11 | 2025-04-11 |
 | [di4c](https://github.com/sony/di4c) | None | Python | 3 | MIT License | 2025-04-02 | 2025-04-10 | 2025-04-02 |
