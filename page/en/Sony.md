@@ -1,15 +1,15 @@
 # Sony
 
-A total of 102 projects, 48 active projects in the last six months, 1 teams, and 16696 stars.
+A total of 102 projects, 48 active projects in the last six months, 1 teams, and 16703 stars.
 
 Top 3 Languages: Python, JavaScript, Jupyter Notebook
 
-Statistics Date: 2025-04-25 08:08:50
+Statistics Date: 2025-04-26 08:07:36
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3126 | MIT License | 2015-05-29 | 2025-04-24 | 2025-03-25 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4101 | MIT License | 2015-05-29 | 2025-04-25 | 2024-10-13 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4103 | MIT License | 2015-05-29 | 2025-04-26 | 2024-10-13 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 409 | MIT License | 2015-09-18 | 2025-04-22 | 2020-12-29 |
@@ -21,9 +21,9 @@ Statistics Date: 2025-04-25 08:08:50
 | [smarttennissensorsdk](https://github.com/sony/smarttennissensorsdk) | The Smart Tennis Sensor plugs into the end of a tennis racket and records data about all the shots you make throughout a game or practice. With the SDK, you can develop apps for analyzing and presenting that data in real-time. | Java | 8 | Apache License 2.0 | 2016-08-30 | 2024-07-29 | 2017-02-10 |
 | [openocd-nuttx](https://github.com/sony/openocd-nuttx) | Fork of OpenOCD with NuttX thread support. | C | 24 | GNU General Public License v2.0 | 2016-10-18 | 2024-06-08 | 2019-01-21 |
 | [nnabla-ext-cuda](https://github.com/sony/nnabla-ext-cuda) | A CUDA Extension of Neural Network Libraries | Cuda | 92 | Apache License 2.0 | 2017-06-21 | 2024-06-20 | 2024-06-20 |
-| [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2745 | Apache License 2.0 | 2017-06-26 | 2025-04-23 | 2024-11-15 |
+| [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2746 | Apache License 2.0 | 2017-06-26 | 2025-04-25 | 2024-11-15 |
 | [easyhttpcpp](https://github.com/sony/easyhttpcpp) | A cross-platform HTTP client library with a focus on usability and speed | C++ | 163 | MIT License | 2017-08-09 | 2025-04-23 | 2022-01-31 |
-| [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 160 | Apache License 2.0 | 2017-09-07 | 2025-04-24 | 2025-04-24 |
+| [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 160 | Apache License 2.0 | 2017-09-07 | 2025-04-24 | 2025-04-25 |
 | [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 34 | Apache License 2.0 | 2017-09-07 | 2025-04-05 | 2024-03-19 |
 | [cdp-js](https://github.com/sony/cdp-js) | Libraries/SDK modules for multi-platform application development | TypeScript | 22 | Apache License 2.0 | 2017-10-10 | 2024-02-11 | 2018-05-10 |
 | [cdp-lib](https://github.com/sony/cdp-lib) | Application template/libraries for cdp-js (Details: see cdp-js repository) | JavaScript | 6 | Apache License 2.0 | 2017-10-10 | 2017-11-13 | 2018-02-23 |
@@ -79,8 +79,8 @@ Statistics Date: 2025-04-25 08:08:50
 | [SR-Display-Plugin-Preview-ZB](https://github.com/sony/SR-Display-Plugin-Preview-ZB) | None | None | 1 | MIT License | 2024-02-19 | 2024-02-19 | 2024-02-19 |
 | [NeISF](https://github.com/sony/NeISF) | None | Python | 11 | Other | 2024-06-04 | 2025-03-24 | 2024-11-04 |
 | [nnc-desktop](https://github.com/sony/nnc-desktop) | None | TypeScript | 18 | Apache License 2.0 | 2024-06-04 | 2025-04-08 | 2025-04-01 |
-| [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 91 | MIT License | 2024-06-04 | 2025-04-24 | 2025-03-31 |
-| [silentcipher](https://github.com/sony/silentcipher) | None | Python | 50 | MIT License | 2024-06-05 | 2025-04-22 | 2024-07-22 |
+| [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 92 | MIT License | 2024-06-04 | 2025-04-25 | 2025-03-31 |
+| [silentcipher](https://github.com/sony/silentcipher) | None | Python | 51 | MIT License | 2024-06-05 | 2025-04-25 | 2024-07-22 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 13 | MIT License | 2024-07-09 | 2025-04-12 | 2025-03-05 |
 | [genwarp](https://github.com/sony/genwarp) | None | Python | 270 | MIT License | 2024-08-06 | 2025-04-21 | 2024-09-26 |
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 40 | MIT License | 2024-09-05 | 2025-03-12 | 2024-11-05 |
@@ -92,12 +92,12 @@ Statistics Date: 2025-04-25 08:08:50
 | [Hi-ResLDM](https://github.com/sony/Hi-ResLDM) | None | None | 0 | - | 2025-01-11 | 2025-03-11 | 2025-02-12 |
 | [stamp](https://github.com/sony/stamp) | None | TypeScript | 7 | MIT License | 2025-01-20 | 2025-04-04 | 2025-04-04 |
 | [ABA](https://github.com/sony/ABA) | Official Repo for The Paper "Adaptive Budget Optimization for Multichannel Advertising Using Combinatorial Bandits" (AAMAS'25) | Python | 0 | Other | 2025-01-21 | 2025-02-19 | 2025-02-18 |
-| [MambaPEFT](https://github.com/sony/MambaPEFT) | None | Python | 10 | Apache License 2.0 | 2025-01-24 | 2025-04-18 | 2025-03-27 |
+| [MambaPEFT](https://github.com/sony/MambaPEFT) | None | Python | 11 | Apache License 2.0 | 2025-01-24 | 2025-04-25 | 2025-03-27 |
 | [bl-flowsom_eval](https://github.com/sony/bl-flowsom_eval) | None | Jupyter Notebook | 0 | MIT License | 2025-01-28 | 2025-02-04 | 2025-02-04 |
 | [bl-flowsom_poc](https://github.com/sony/bl-flowsom_poc) | None | Python | 0 | Other | 2025-01-28 | 2025-02-04 | 2025-02-04 |
 | [jys](https://github.com/sony/jys) | None | Python | 1 | - | 2025-02-06 | 2025-03-27 | 2025-02-25 |
 | [hero](https://github.com/sony/hero) | None | None | 0 | - | 2025-02-06 | 2025-02-25 | 2025-02-25 |
-| [wpse](https://github.com/sony/wpse) | None | Python | 0 | MIT License | 2025-02-06 | 2025-04-14 | 2025-04-14 |
+| [wpse](https://github.com/sony/wpse) | None | Python | 1 | MIT License | 2025-02-06 | 2025-04-26 | 2025-04-14 |
 | [CaR](https://github.com/sony/CaR) | None | Python | 4 | MIT License | 2025-02-06 | 2025-04-15 | 2025-02-07 |
 | [DFM](https://github.com/sony/DFM) | None | JavaScript | 0 | - | 2025-02-12 | 2025-02-24 | 2025-02-24 |
 | [QuietWalk](https://github.com/sony/QuietWalk) | None | JavaScript | 0 | - | 2025-02-12 | 2025-02-23 | 2025-02-23 |
