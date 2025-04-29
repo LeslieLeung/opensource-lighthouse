@@ -1,15 +1,15 @@
 # Sony
 
-A total of 102 projects, 48 active projects in the last six months, 1 teams, and 16711 stars.
+A total of 102 projects, 47 active projects in the last six months, 1 teams, and 16716 stars.
 
 Top 3 Languages: Python, JavaScript, Jupyter Notebook
 
-Statistics Date: 2025-04-28 08:23:00
+Statistics Date: 2025-04-29 08:09:24
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3126 | MIT License | 2015-05-29 | 2025-04-24 | 2025-03-25 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4103 | MIT License | 2015-05-29 | 2025-04-26 | 2024-10-13 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3128 | MIT License | 2015-05-29 | 2025-04-29 | 2025-03-25 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4103 | MIT License | 2015-05-29 | 2025-04-28 | 2024-10-13 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 409 | MIT License | 2015-09-18 | 2025-04-22 | 2020-12-29 |
@@ -34,7 +34,7 @@ Statistics Date: 2025-04-28 08:23:00
 | [typescript-fsa-redux-middleware](https://github.com/sony/typescript-fsa-redux-middleware) | Fluent syntax for defining typesafe Redux vanilla middlewares on top of typescript-fsa. | TypeScript | 10 | MIT License | 2019-01-29 | 2024-05-16 | 2020-01-24 |
 | [nnabla-doc](https://github.com/sony/nnabla-doc) | None | None | 1 | - | 2019-02-20 | 2024-05-29 | 2024-05-29 |
 | [nnabla-dataset-uploader](https://github.com/sony/nnabla-dataset-uploader) | None | Python | 0 | - | 2019-02-26 | 2019-03-15 | 2019-03-15 |
-| [appsync-client-go](https://github.com/sony/appsync-client-go) | AWS AppSync golang client library | Go | 54 | MIT License | 2019-03-16 | 2024-12-25 | 2024-12-25 |
+| [appsync-client-go](https://github.com/sony/appsync-client-go) | AWS AppSync golang client library | Go | 54 | MIT License | 2019-03-16 | 2025-04-29 | 2025-04-29 |
 | [isren](https://github.com/sony/isren) | None | JavaScript | 8 | MIT License | 2020-01-07 | 2023-01-12 | 2021-05-17 |
 | [ai-research-code](https://github.com/sony/ai-research-code) | None | Python | 352 | Apache License 2.0 | 2020-04-14 | 2025-03-15 | 2023-09-12 |
 | [nnabla-nas](https://github.com/sony/nnabla-nas) | Neural Architecture Search for Neural Network Libraries | Python | 59 | Apache License 2.0 | 2020-06-15 | 2025-04-20 | 2024-01-22 |
@@ -43,7 +43,7 @@ Statistics Date: 2025-04-28 08:23:00
 | [lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) | None | Python | 0 | MIT License | 2021-03-25 | 2021-05-13 | 2021-05-13 |
 | [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 122 | Apache License 2.0 | 2021-06-11 | 2025-04-04 | 2024-12-16 |
 | [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 98 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2025-04-24 | 2024-12-19 |
-| [model_optimization](https://github.com/sony/model_optimization) | Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks. | Python | 388 | Apache License 2.0 | 2021-06-21 | 2025-04-27 | 2025-04-28 |
+| [model_optimization](https://github.com/sony/model_optimization) | Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks. | Python | 389 | Apache License 2.0 | 2021-06-21 | 2025-04-28 | 2025-04-28 |
 | [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 525 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2025-04-22 | 2024-12-19 |
 | [flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) | Flutter plugins for embedded Linux (eLinux) | C++ | 54 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2025-03-08 | 2024-12-13 |
 | [ds-research-code](https://github.com/sony/ds-research-code) | None | Python | 0 | - | 2021-07-19 | 2023-02-07 | 2023-01-30 |
@@ -63,7 +63,7 @@ Statistics Date: 2025-04-28 08:23:00
 | [audio-visual-seld-dcase2023](https://github.com/sony/audio-visual-seld-dcase2023) | Baseline method for audio-visual sound event localization and detection task of DCASE 2023 challenge | Python | 51 | MIT License | 2023-02-20 | 2025-03-19 | 2025-03-19 |
 | [evsCluster](https://github.com/sony/evsCluster) | Python scripts to process EVS (Event-based vision sensor) data | Python | 9 | Other | 2023-03-15 | 2025-02-10 | 2024-01-30 |
 | [Instruct3Dto3D-doc](https://github.com/sony/Instruct3Dto3D-doc) | Official documentation of Instruct 3D-to-3D | HTML | 2 | - | 2023-03-23 | 2024-10-31 | 2024-10-31 |
-| [pixel-guided-diffusion](https://github.com/sony/pixel-guided-diffusion) | Fine-grained Image Editing by Pixel-wise Guidance Using Diffusion Models | Python | 38 | Apache License 2.0 | 2023-04-06 | 2024-12-26 | 2023-06-09 |
+| [pixel-guided-diffusion](https://github.com/sony/pixel-guided-diffusion) | Fine-grained Image Editing by Pixel-wise Guidance Using Diffusion Models | Python | 39 | Apache License 2.0 | 2023-04-06 | 2025-04-29 | 2023-06-09 |
 | [ARCv2_Ghidra](https://github.com/sony/ARCv2_Ghidra) | None | None | 0 | Apache License 2.0 | 2023-04-26 | 2023-04-26 | 2023-04-26 |
 | [gibbsddrm](https://github.com/sony/gibbsddrm) | None | Python | 29 | MIT License | 2023-04-26 | 2025-04-25 | 2023-05-29 |
 | [fp-diffusion](https://github.com/sony/fp-diffusion) | None | Jupyter Notebook | 27 | Apache License 2.0 | 2023-04-26 | 2025-04-27 | 2024-02-14 |
@@ -77,7 +77,7 @@ Statistics Date: 2025-04-28 08:23:00
 | [SR-Display-Plugin-Preview-BL](https://github.com/sony/SR-Display-Plugin-Preview-BL) | None | Python | 4 | MIT License | 2023-12-13 | 2024-08-17 | 2024-05-24 |
 | [pyAutoPort](https://github.com/sony/pyAutoPort) | None | Python | 6 | BSD 3-Clause "New" or "Revised" License | 2023-12-13 | 2025-02-25 | 2025-01-16 |
 | [SR-Display-Plugin-Preview-ZB](https://github.com/sony/SR-Display-Plugin-Preview-ZB) | None | None | 1 | MIT License | 2024-02-19 | 2024-02-19 | 2024-02-19 |
-| [NeISF](https://github.com/sony/NeISF) | None | Python | 12 | Other | 2024-06-04 | 2025-04-28 | 2024-11-04 |
+| [NeISF](https://github.com/sony/NeISF) | None | Python | 13 | Other | 2024-06-04 | 2025-04-29 | 2024-11-04 |
 | [nnc-desktop](https://github.com/sony/nnc-desktop) | None | TypeScript | 18 | Apache License 2.0 | 2024-06-04 | 2025-04-08 | 2025-04-01 |
 | [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 92 | MIT License | 2024-06-04 | 2025-04-25 | 2025-03-31 |
 | [silentcipher](https://github.com/sony/silentcipher) | None | Python | 51 | MIT License | 2024-06-05 | 2025-04-25 | 2024-07-22 |
