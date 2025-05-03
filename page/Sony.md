@@ -1,15 +1,15 @@
 # Sony
 
-共 102 个项目，近半年内活跃项目 48 个，1 个团队， 16730 个 Star。
+共 102 个项目，近半年内活跃项目 47 个，1 个团队， 16740 个 Star。
 
 语言 Top 3：Python, JavaScript, Jupyter Notebook
 
-统计时间：2025-05-02 08:08:55
+统计时间：2025-05-03 08:08:02
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3128 | MIT License | 2015-05-29 | 2025-04-29 | 2025-03-25 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4109 | MIT License | 2015-05-29 | 2025-05-02 | 2025-05-01 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3129 | MIT License | 2015-05-29 | 2025-05-03 | 2025-03-25 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4110 | MIT License | 2015-05-29 | 2025-05-03 | 2025-05-01 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 410 | MIT License | 2015-09-18 | 2025-04-29 | 2020-12-29 |
@@ -39,11 +39,11 @@
 | [ai-research-code](https://github.com/sony/ai-research-code) | None | Python | 352 | Apache License 2.0 | 2020-04-14 | 2025-03-15 | 2023-09-12 |
 | [nnabla-nas](https://github.com/sony/nnabla-nas) | Neural Architecture Search for Neural Network Libraries | Python | 59 | Apache License 2.0 | 2020-06-15 | 2025-04-20 | 2024-01-22 |
 | [micro-notifier](https://github.com/sony/micro-notifier) | Simplified Pusher Clone | Go | 13 | MIT License | 2020-09-06 | 2025-03-31 | 2023-05-05 |
-| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1264 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2025-04-20 | 2025-02-12 |
+| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1265 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2025-05-02 | 2025-02-12 |
 | [lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) | None | Python | 0 | MIT License | 2021-03-25 | 2021-05-13 | 2021-05-13 |
 | [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 122 | Apache License 2.0 | 2021-06-11 | 2025-04-30 | 2024-12-16 |
 | [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 98 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2025-04-24 | 2024-12-19 |
-| [model_optimization](https://github.com/sony/model_optimization) | Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks. | Python | 389 | Apache License 2.0 | 2021-06-21 | 2025-04-29 | 2025-04-29 |
+| [model_optimization](https://github.com/sony/model_optimization) | Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks. | Python | 390 | Apache License 2.0 | 2021-06-21 | 2025-05-02 | 2025-04-29 |
 | [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 525 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2025-04-22 | 2024-12-19 |
 | [flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) | Flutter plugins for embedded Linux (eLinux) | C++ | 55 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2025-05-02 | 2024-12-13 |
 | [ds-research-code](https://github.com/sony/ds-research-code) | None | Python | 0 | - | 2021-07-19 | 2023-02-07 | 2023-01-30 |
@@ -80,7 +80,7 @@
 | [NeISF](https://github.com/sony/NeISF) | None | Python | 13 | Other | 2024-06-04 | 2025-04-29 | 2024-11-04 |
 | [nnc-desktop](https://github.com/sony/nnc-desktop) | None | TypeScript | 18 | Apache License 2.0 | 2024-06-04 | 2025-04-08 | 2025-04-01 |
 | [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 93 | MIT License | 2024-06-04 | 2025-05-02 | 2025-03-31 |
-| [silentcipher](https://github.com/sony/silentcipher) | None | Python | 52 | MIT License | 2024-06-05 | 2025-04-30 | 2024-07-22 |
+| [silentcipher](https://github.com/sony/silentcipher) | None | Python | 53 | MIT License | 2024-06-05 | 2025-05-03 | 2024-07-22 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 13 | MIT License | 2024-07-09 | 2025-04-12 | 2025-03-05 |
 | [genwarp](https://github.com/sony/genwarp) | None | Python | 272 | MIT License | 2024-08-06 | 2025-04-27 | 2024-09-26 |
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 41 | MIT License | 2024-09-05 | 2025-04-29 | 2024-11-05 |
@@ -95,7 +95,7 @@
 | [MambaPEFT](https://github.com/sony/MambaPEFT) | None | Python | 11 | Apache License 2.0 | 2025-01-24 | 2025-04-25 | 2025-03-27 |
 | [bl-flowsom_eval](https://github.com/sony/bl-flowsom_eval) | None | Jupyter Notebook | 0 | MIT License | 2025-01-28 | 2025-02-04 | 2025-02-04 |
 | [bl-flowsom_poc](https://github.com/sony/bl-flowsom_poc) | None | Python | 0 | Other | 2025-01-28 | 2025-02-04 | 2025-02-04 |
-| [jys](https://github.com/sony/jys) | None | Python | 1 | - | 2025-02-06 | 2025-03-27 | 2025-02-25 |
+| [jys](https://github.com/sony/jys) | None | Python | 2 | - | 2025-02-06 | 2025-05-02 | 2025-02-25 |
 | [hero](https://github.com/sony/hero) | None | None | 0 | - | 2025-02-06 | 2025-02-25 | 2025-02-25 |
 | [wpse](https://github.com/sony/wpse) | None | Python | 3 | MIT License | 2025-02-06 | 2025-04-29 | 2025-04-14 |
 | [CaR](https://github.com/sony/CaR) | None | Python | 4 | MIT License | 2025-02-06 | 2025-04-15 | 2025-02-07 |
@@ -103,10 +103,10 @@
 | [QuietWalk](https://github.com/sony/QuietWalk) | None | JavaScript | 0 | - | 2025-02-12 | 2025-02-23 | 2025-02-23 |
 | [talkhier](https://github.com/sony/talkhier) | Official Repo for The Paper "Talk Structurally, Act Hierarchically: A Collaborative Framework for LLM Multi-Agent Systems" | Python | 50 | Other | 2025-02-13 | 2025-04-30 | 2025-02-24 |
 | [aki](https://github.com/sony/aki) | Official implementation of "Seeing is Understanding: Unlocking Causal Attention into Modality-Mutual Attention for Multimodal LLMs" | Python | 18 | Other | 2025-02-13 | 2025-04-21 | 2025-03-17 |
-| [vct](https://github.com/sony/vct) | None | Jupyter Notebook | 11 | - | 2025-02-14 | 2025-05-02 | 2025-02-25 |
+| [vct](https://github.com/sony/vct) | None | Jupyter Notebook | 13 | - | 2025-02-14 | 2025-05-03 | 2025-02-25 |
 | [EXID](https://github.com/sony/EXID) | Official implementation of Enhancing Generalization of Offline RL in Data-Limited Settings with Heuristic Rules (Accepted in IEEE TRANSACTIONS ON ARTIFICIAL INTELLIGENCE 2025) | Jupyter Notebook | 0 | MIT License | 2025-02-19 | 2025-02-27 | 2025-02-20 |
 | [humangif](https://github.com/sony/humangif) | None | Python | 0 | MIT License | 2025-02-25 | 2025-02-27 | 2025-02-27 |
 | [alice](https://github.com/sony/alice) | None | Jupyter Notebook | 0 | MIT License | 2025-03-10 | 2025-03-10 | 2025-03-10 |
-| [clews](https://github.com/sony/clews) | None | Python | 5 | MIT License | 2025-03-12 | 2025-04-27 | 2025-03-19 |
+| [clews](https://github.com/sony/clews) | None | Python | 6 | MIT License | 2025-03-12 | 2025-05-03 | 2025-03-19 |
 | [learning-feet-imu-locomotion](https://github.com/sony/learning-feet-imu-locomotion) | None | JavaScript | 0 | - | 2025-03-24 | 2025-04-11 | 2025-04-11 |
-| [di4c](https://github.com/sony/di4c) | None | Python | 3 | MIT License | 2025-04-02 | 2025-04-10 | 2025-04-02 |
+| [di4c](https://github.com/sony/di4c) | None | Python | 4 | MIT License | 2025-04-02 | 2025-05-02 | 2025-04-02 |
