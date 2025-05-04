@@ -1,15 +1,15 @@
 # Sony
 
-共 102 个项目，近半年内活跃项目 47 个，1 个团队， 16740 个 Star。
+共 102 个项目，近半年内活跃项目 46 个，1 个团队， 16742 个 Star。
 
 语言 Top 3：Python, JavaScript, Jupyter Notebook
 
-统计时间：2025-05-03 08:08:02
+统计时间：2025-05-04 08:07:59
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3129 | MIT License | 2015-05-29 | 2025-05-03 | 2025-03-25 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4110 | MIT License | 2015-05-29 | 2025-05-03 | 2025-05-01 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4110 | MIT License | 2015-05-29 | 2025-05-03 | 2025-05-04 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 410 | MIT License | 2015-09-18 | 2025-04-29 | 2020-12-29 |
@@ -56,7 +56,7 @@
 | [FxNorm-automix](https://github.com/sony/FxNorm-automix) | FxNorm-Automix - Implementation of automatic music mixing systems. We show how we can use wet music data and repurpose it to train a fully automatic mixing system | Python | 111 | MIT License | 2022-08-05 | 2025-04-13 | 2024-03-11 |
 | [polar-densification](https://github.com/sony/polar-densification) | None | Python | 24 | MIT License | 2022-09-13 | 2025-04-15 | 2023-03-24 |
 | [nnabla-js](https://github.com/sony/nnabla-js) | None | TypeScript | 1 | Apache License 2.0 | 2022-09-16 | 2023-02-01 | 2023-01-13 |
-| [DiffRoll](https://github.com/sony/DiffRoll) | PyTorch implementation of DiffRoll, a diffusion-based generative automatic music transcription (AMT) model | Jupyter Notebook | 75 | MIT License | 2022-10-11 | 2025-04-17 | 2023-12-06 |
+| [DiffRoll](https://github.com/sony/DiffRoll) | PyTorch implementation of DiffRoll, a diffusion-based generative automatic music transcription (AMT) model | Jupyter Notebook | 76 | MIT License | 2022-10-11 | 2025-05-04 | 2023-12-06 |
 | [creativeai](https://github.com/sony/creativeai) | None | CSS | 67 | - | 2022-11-21 | 2025-04-25 | 2025-04-01 |
 | [NDJIR](https://github.com/sony/NDJIR) | NDJIR: Neural Direct and Joint Inverse Rendering for Geometry, Lights, and Materials of Real Object | Python | 47 | Apache License 2.0 | 2022-12-14 | 2025-03-12 | 2023-02-08 |
 | [CLIPSep](https://github.com/sony/CLIPSep) | None | Python | 40 | MIT License | 2023-01-24 | 2025-03-18 | 2023-02-21 |
@@ -89,7 +89,7 @@
 | [okg](https://github.com/sony/okg) | Official Repo for The Paper "OKG: On-the-fly Keyword Generation in Search Sponsered Advertising" (Coling'25) | Jupyter Notebook | 3 | Other | 2024-11-15 | 2025-03-09 | 2025-02-14 |
 | [dual-pixel-disparity](https://github.com/sony/dual-pixel-disparity) | None | Python | 5 | MIT License | 2024-11-19 | 2025-04-16 | 2025-03-27 |
 | [openmu](https://github.com/sony/openmu) | None | Python | 7 | MIT License | 2024-11-27 | 2025-02-12 | 2024-12-26 |
-| [Hi-ResLDM](https://github.com/sony/Hi-ResLDM) | None | None | 0 | - | 2025-01-11 | 2025-03-11 | 2025-02-12 |
+| [Hi-ResLDM](https://github.com/sony/Hi-ResLDM) | None | None | 1 | - | 2025-01-11 | 2025-05-04 | 2025-02-12 |
 | [stamp](https://github.com/sony/stamp) | None | TypeScript | 7 | MIT License | 2025-01-20 | 2025-04-04 | 2025-04-04 |
 | [ABA](https://github.com/sony/ABA) | Official Repo for The Paper "Adaptive Budget Optimization for Multichannel Advertising Using Combinatorial Bandits" (AAMAS'25) | Python | 0 | Other | 2025-01-21 | 2025-02-19 | 2025-02-18 |
 | [MambaPEFT](https://github.com/sony/MambaPEFT) | None | Python | 11 | Apache License 2.0 | 2025-01-24 | 2025-04-25 | 2025-03-27 |
