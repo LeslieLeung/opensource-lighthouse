@@ -1,10 +1,10 @@
 # YY
 
-A total of 40 projects, 0 active projects in the last six months, 1 teams, and 1146 stars.
+A total of 40 projects, 0 active projects in the last six months, 1 teams, and 1147 stars.
 
 Top 3 Languages: JavaScript, Objective-C, CSS
 
-Statistics Date: 2025-05-08 08:09:32
+Statistics Date: 2025-05-09 08:08:48
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -21,7 +21,7 @@ Statistics Date: 2025-05-08 08:09:32
 | [fe-solution](https://github.com/yyued/fe-solution) | 前端解决方案 | JavaScript | 2 | GNU General Public License v2.0 | 2015-04-27 | 2017-07-06 | 2015-04-28 |
 | [document-template](https://github.com/yyued/document-template) | The project document template | None | 1 | GNU General Public License v2.0 | 2015-05-08 | 2017-07-07 | 2015-05-08 |
 | [LegoUI-mobi](https://github.com/yyued/LegoUI-mobi) | None | CSS | 6 | - | 2015-05-19 | 2018-06-03 | 2015-06-08 |
-| [lottery](https://github.com/yyued/lottery) | 一个浏览器端抽奖动画js组件 | JavaScript | 13 | - | 2015-05-20 | 2024-11-14 | 2015-06-30 |
+| [lottery](https://github.com/yyued/lottery) | 一个浏览器端抽奖动画js组件 | JavaScript | 14 | - | 2015-05-20 | 2025-05-08 | 2015-06-30 |
 | [fekit](https://github.com/yyued/fekit) | f2e dev toolkit | JavaScript | 2 | - | 2015-06-10 | 2025-01-25 | 2015-07-02 |
 | [fekit.crx](https://github.com/yyued/fekit.crx) | f2e toolkit chrome-extension dev env | JavaScript | 4 | - | 2015-08-11 | 2017-07-06 | 2015-10-25 |
 | [MagicDrag](https://github.com/yyued/MagicDrag) | MagicDrag is an application introducing page components build for Interactive Animations. | Swift | 45 | MIT License | 2016-01-27 | 2022-03-26 | 2016-02-03 |
