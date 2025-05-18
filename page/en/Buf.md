@@ -1,14 +1,14 @@
 # Buf
 
-A total of 67 projects, 57 active projects in the last six months, 1 teams, and 18534 stars.
+A total of 67 projects, 57 active projects in the last six months, 1 teams, and 18538 stars.
 
 Top 3 Languages: Go, TypeScript, Makefile
 
-Statistics Date: 2025-05-17 08:07:52
+Statistics Date: 2025-05-18 08:07:55
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) | Protocol Buffer Validation - replaced by https://github.com/bufbuild/protovalidate | Go | 3919 | Apache License 2.0 | 2017-10-03 | 2025-05-16 | 2025-05-14 |
+| [protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) | Protocol Buffer Validation - replaced by https://github.com/bufbuild/protovalidate | Go | 3920 | Apache License 2.0 | 2017-10-03 | 2025-05-17 | 2025-05-14 |
 | [homebrew-buf](https://github.com/bufbuild/homebrew-buf) | Homebrew tap for Buf. | Shell | 13 | Apache License 2.0 | 2019-10-02 | 2025-05-12 | 2025-05-12 |
 | [buf](https://github.com/bufbuild/buf) | The best way of working with Protocol Buffers. | Go | 9891 | Apache License 2.0 | 2019-10-03 | 2025-05-16 | 2025-05-14 |
 | [vim-buf](https://github.com/bufbuild/vim-buf) | Vim integration for Buf. | Vim Script | 35 | Apache License 2.0 | 2019-10-03 | 2024-09-12 | 2025-05-12 |
@@ -43,7 +43,7 @@ Statistics Date: 2025-05-17 08:07:52
 | [knit-go](https://github.com/bufbuild/knit-go) | Knit standalone gateway and Go embeddable gateway | Go | 50 | Apache License 2.0 | 2023-05-03 | 2025-04-17 | 2025-04-17 |
 | [knit-ts](https://github.com/bufbuild/knit-ts) | TypeScript client for Knit | TypeScript | 27 | Apache License 2.0 | 2023-05-04 | 2025-03-21 | 2025-02-13 |
 | [protovalidate-cc](https://github.com/bufbuild/protovalidate-cc) | Protocol Buffer Validation for C++. | C++ | 19 | Apache License 2.0 | 2023-05-24 | 2025-05-08 | 2025-05-08 |
-| [protovalidate](https://github.com/bufbuild/protovalidate) | Protocol Buffer Validation - Go, Java, Python, C++ and JS/TS | Go | 1103 | Apache License 2.0 | 2023-05-25 | 2025-05-16 | 2025-05-15 |
+| [protovalidate](https://github.com/bufbuild/protovalidate) | Protocol Buffer Validation - Go, Java, Python, C++ and JS/TS | Go | 1105 | Apache License 2.0 | 2023-05-25 | 2025-05-17 | 2025-05-15 |
 | [protovalidate-go](https://github.com/bufbuild/protovalidate-go) | Protocol Buffer Validation for Go | Go | 375 | Apache License 2.0 | 2023-05-30 | 2025-05-16 | 2025-05-14 |
 | [httplb](https://github.com/bufbuild/httplb) | Client-side load balancing for net/http | Go | 65 | Apache License 2.0 | 2023-06-01 | 2025-05-13 | 2025-05-13 |
 | [protovalidate-python](https://github.com/bufbuild/protovalidate-python) | Protocol Buffer Validation for Python. | Python | 44 | Apache License 2.0 | 2023-06-01 | 2025-05-12 | 2025-05-12 |
@@ -71,7 +71,7 @@ Statistics Date: 2025-05-17 08:07:52
 | [bazel-central-registry](https://github.com/bufbuild/bazel-central-registry) | The central registry of Bazel modules for the Bzlmod external dependency system. | None | 0 | Apache License 2.0 | 2025-01-17 | 2025-01-17 | 2025-04-25 |
 | [terraform-modules-bufstream](https://github.com/bufbuild/terraform-modules-bufstream) | None | HCL | 1 | Apache License 2.0 | 2025-03-11 | 2025-05-14 | 2025-05-14 |
 | [buf-quickstart](https://github.com/bufbuild/buf-quickstart) | Example code for quickstarts in the Buf docs | None | 0 | - | 2025-03-18 | 2025-04-25 | 2025-04-25 |
-| [protovalidate-es](https://github.com/bufbuild/protovalidate-es) | Protocol Buffer Validation for ECMAScript | TypeScript | 28 | Apache License 2.0 | 2025-04-28 | 2025-05-16 | 2025-05-16 |
+| [protovalidate-es](https://github.com/bufbuild/protovalidate-es) | Protocol Buffer Validation for ECMAScript | TypeScript | 29 | Apache License 2.0 | 2025-04-28 | 2025-05-18 | 2025-05-16 |
 | [interrupt-go](https://github.com/bufbuild/interrupt-go) | A small helper library to handle interrupt signals in Go programs. | Go | 1 | Apache License 2.0 | 2025-05-09 | 2025-05-10 | 2025-05-09 |
 | [app-go](https://github.com/bufbuild/app-go) | A library to help build Go applications. | Go | 2 | Apache License 2.0 | 2025-05-09 | 2025-05-10 | 2025-05-09 |
 | [standard-go](https://github.com/bufbuild/standard-go) | Extensions to the Go standard library. | Go | 1 | Apache License 2.0 | 2025-05-12 | 2025-05-12 | 2025-05-12 |
