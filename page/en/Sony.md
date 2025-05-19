@@ -1,15 +1,15 @@
 # Sony
 
-A total of 103 projects, 47 active projects in the last six months, 1 teams, and 16812 stars.
+A total of 103 projects, 47 active projects in the last six months, 1 teams, and 16815 stars.
 
 Top 3 Languages: Python, JavaScript, Jupyter Notebook
 
-Statistics Date: 2025-05-18 08:07:55
+Statistics Date: 2025-05-19 08:09:58
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3141 | MIT License | 2015-05-29 | 2025-05-17 | 2025-03-25 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4130 | MIT License | 2015-05-29 | 2025-05-18 | 2025-05-18 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3143 | MIT License | 2015-05-29 | 2025-05-18 | 2025-03-25 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4129 | MIT License | 2015-05-29 | 2025-05-19 | 2025-05-18 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 410 | MIT License | 2015-09-18 | 2025-04-29 | 2020-12-29 |
@@ -39,11 +39,11 @@ Statistics Date: 2025-05-18 08:07:55
 | [ai-research-code](https://github.com/sony/ai-research-code) | None | Python | 352 | Apache License 2.0 | 2020-04-14 | 2025-03-15 | 2023-09-12 |
 | [nnabla-nas](https://github.com/sony/nnabla-nas) | Neural Architecture Search for Neural Network Libraries | Python | 59 | Apache License 2.0 | 2020-06-15 | 2025-04-20 | 2024-01-22 |
 | [micro-notifier](https://github.com/sony/micro-notifier) | Simplified Pusher Clone | Go | 13 | MIT License | 2020-09-06 | 2025-03-31 | 2023-05-05 |
-| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1270 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2025-05-17 | 2025-05-15 |
+| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1270 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2025-05-17 | 2025-05-19 |
 | [lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) | None | Python | 0 | MIT License | 2021-03-25 | 2021-05-13 | 2021-05-13 |
 | [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 124 | Apache License 2.0 | 2021-06-11 | 2025-05-10 | 2024-12-16 |
 | [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 98 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2025-04-24 | 2024-12-19 |
-| [model_optimization](https://github.com/sony/model_optimization) | Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks. | Python | 395 | Apache License 2.0 | 2021-06-21 | 2025-05-15 | 2025-05-15 |
+| [model_optimization](https://github.com/sony/model_optimization) | Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks. | Python | 395 | Apache License 2.0 | 2021-06-21 | 2025-05-18 | 2025-05-18 |
 | [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 532 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2025-05-17 | 2024-12-19 |
 | [flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) | Flutter plugins for embedded Linux (eLinux) | C++ | 55 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2025-05-02 | 2024-12-13 |
 | [ds-research-code](https://github.com/sony/ds-research-code) | None | Python | 0 | - | 2021-07-19 | 2023-02-07 | 2023-01-30 |
@@ -51,7 +51,7 @@ Statistics Date: 2025-05-18 08:07:55
 | [nnc-plugin](https://github.com/sony/nnc-plugin) | Plugins for Neural Network Console (https://dl.sony.com/). | Python | 16 | Apache License 2.0 | 2021-08-05 | 2024-12-29 | 2024-12-13 |
 | [dolp-colorconstancy](https://github.com/sony/dolp-colorconstancy) | None | Python | 13 | MIT License | 2022-03-22 | 2025-04-15 | 2022-07-04 |
 | [nnabla-browser](https://github.com/sony/nnabla-browser) | Visualization toolkit for Neural Network Libraries | TypeScript | 9 | Apache License 2.0 | 2022-03-31 | 2024-07-06 | 2023-03-07 |
-| [sqvae](https://github.com/sony/sqvae) | Pytorch implementation of stochastically quantized variational autoencoder (SQ-VAE) | Python | 187 | Apache License 2.0 | 2022-05-26 | 2025-04-02 | 2022-07-20 |
+| [sqvae](https://github.com/sony/sqvae) | Pytorch implementation of stochastically quantized variational autoencoder (SQ-VAE) | Python | 188 | Apache License 2.0 | 2022-05-26 | 2025-05-19 | 2022-07-20 |
 | [aibo-development-tutorial](https://github.com/sony/aibo-development-tutorial) | None | None | 8 | Other | 2022-06-28 | 2025-04-20 | 2022-06-30 |
 | [FxNorm-automix](https://github.com/sony/FxNorm-automix) | FxNorm-Automix - Implementation of automatic music mixing systems. We show how we can use wet music data and repurpose it to train a fully automatic mixing system | Python | 112 | MIT License | 2022-08-05 | 2025-05-11 | 2024-03-11 |
 | [polar-densification](https://github.com/sony/polar-densification) | None | Python | 26 | MIT License | 2022-09-13 | 2025-05-16 | 2023-03-24 |
@@ -79,12 +79,12 @@ Statistics Date: 2025-05-18 08:07:55
 | [SR-Display-Plugin-Preview-ZB](https://github.com/sony/SR-Display-Plugin-Preview-ZB) | None | None | 1 | MIT License | 2024-02-19 | 2024-02-19 | 2024-02-19 |
 | [NeISF](https://github.com/sony/NeISF) | None | Python | 13 | Other | 2024-06-04 | 2025-05-15 | 2025-05-15 |
 | [nnc-desktop](https://github.com/sony/nnc-desktop) | None | TypeScript | 18 | Apache License 2.0 | 2024-06-04 | 2025-04-08 | 2025-04-01 |
-| [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 93 | MIT License | 2024-06-04 | 2025-05-02 | 2025-03-31 |
+| [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 94 | MIT License | 2024-06-04 | 2025-05-18 | 2025-03-31 |
 | [silentcipher](https://github.com/sony/silentcipher) | None | Python | 53 | MIT License | 2024-06-05 | 2025-05-08 | 2024-07-22 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 13 | MIT License | 2024-07-09 | 2025-04-12 | 2025-03-05 |
 | [genwarp](https://github.com/sony/genwarp) | None | Python | 276 | MIT License | 2024-08-06 | 2025-05-12 | 2024-09-26 |
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 41 | MIT License | 2024-09-05 | 2025-04-29 | 2024-11-05 |
-| [esstra](https://github.com/sony/esstra) | A software suite for enhancing software supply chain transparency | Python | 12 | Other | 2024-10-03 | 2025-04-27 | 2025-05-08 |
+| [esstra](https://github.com/sony/esstra) | A software suite for enhancing software supply chain transparency | Python | 12 | Other | 2024-10-03 | 2025-05-19 | 2025-05-19 |
 | [pagoda](https://github.com/sony/pagoda) | None | Python | 18 | MIT License | 2024-10-23 | 2025-04-10 | 2024-11-21 |
 | [okg](https://github.com/sony/okg) | Official Repo for The Paper "OKG: On-the-fly Keyword Generation in Search Sponsered Advertising" (Coling'25) | Jupyter Notebook | 3 | Other | 2024-11-15 | 2025-03-09 | 2025-02-14 |
 | [dual-pixel-disparity](https://github.com/sony/dual-pixel-disparity) | None | Python | 5 | MIT License | 2024-11-19 | 2025-04-16 | 2025-03-27 |
@@ -110,4 +110,4 @@ Statistics Date: 2025-05-18 08:07:55
 | [clews](https://github.com/sony/clews) | None | Python | 11 | MIT License | 2025-03-12 | 2025-05-12 | 2025-03-19 |
 | [learning-feet-imu-locomotion](https://github.com/sony/learning-feet-imu-locomotion) | None | JavaScript | 0 | - | 2025-03-24 | 2025-04-11 | 2025-04-11 |
 | [di4c](https://github.com/sony/di4c) | None | Python | 4 | MIT License | 2025-04-02 | 2025-05-02 | 2025-04-02 |
-| [sbctm](https://github.com/sony/sbctm) | Schrödinger bridge consistency trajectory models for speech enhancement | Python | 1 | Other | 2025-05-09 | 2025-05-17 | 2025-05-14 |
+| [sbctm](https://github.com/sony/sbctm) | Schrödinger bridge consistency trajectory models for speech enhancement | Python | 1 | Other | 2025-05-09 | 2025-05-19 | 2025-05-14 |
