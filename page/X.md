@@ -1,10 +1,10 @@
 # X
 
-共 101 个项目，近半年内活跃项目 7 个，1 个团队， 205159 个 Star。
+共 101 个项目，近半年内活跃项目 7 个，1 个团队， 205167 个 Star。
 
 语言 Top 3：Scala, Java, Python
 
-统计时间：2025-05-24 08:07:56
+统计时间：2025-05-25 08:07:58
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -15,7 +15,7 @@
 | [scala_school](https://github.com/twitter/scala_school) | Lessons in the Fundamentals of Scala | HTML | 3719 | Apache License 2.0 | 2010-09-08 | 2025-05-22 | 2023-04-10 |
 | [finagle](https://github.com/twitter/finagle) | A fault tolerant, protocol-agnostic RPC system | Scala | 8823 | Apache License 2.0 | 2010-10-19 | 2025-05-22 | 2025-04-23 |
 | [joauth](https://github.com/twitter/joauth) | A Java library for authenticating HTTP Requests using OAuth | Java | 216 | Apache License 2.0 | 2010-12-16 | 2025-03-05 | 2023-04-10 |
-| [opensource-website](https://github.com/twitter/opensource-website) | Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source. | SCSS | 3089 | Apache License 2.0 | 2011-02-23 | 2025-05-22 | 2025-05-05 |
+| [opensource-website](https://github.com/twitter/opensource-website) | Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source. | SCSS | 3090 | Apache License 2.0 | 2011-02-23 | 2025-05-24 | 2025-05-05 |
 | [util](https://github.com/twitter/util) | Wonderful reusable code from Twitter | Scala | 2717 | Apache License 2.0 | 2011-03-26 | 2025-05-14 | 2025-05-14 |
 | [scrooge](https://github.com/twitter/scrooge) | A Thrift parser/generator | Scala | 797 | Apache License 2.0 | 2011-08-22 | 2025-04-29 | 2025-04-02 |
 | [hogan.js](https://github.com/twitter/hogan.js) | A compiler for the Mustache templating language | JavaScript | 5139 | Apache License 2.0 | 2011-12-21 | 2025-03-27 | 2023-04-10 |
@@ -29,7 +29,7 @@
 | [activerecord-reputation-system](https://github.com/twitter/activerecord-reputation-system) | An Active Record Reputation System for Rails | Ruby | 1334 | Apache License 2.0 | 2012-05-17 | 2025-03-10 | 2016-01-14 |
 | [twemcache](https://github.com/twitter/twemcache) | Twemcache is the Twitter Memcached | C | 930 | BSD 3-Clause "New" or "Revised" License | 2012-07-10 | 2025-04-24 | 2021-11-01 |
 | [twitter-cldr-js](https://github.com/twitter/twitter-cldr-js) | JavaScript implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.  Based on twitter-cldr-rb. | JavaScript | 348 | Apache License 2.0 | 2012-07-25 | 2025-03-15 | 2023-04-10 |
-| [algebird](https://github.com/twitter/algebird) | Abstract Algebra for Scala | Scala | 2296 | Apache License 2.0 | 2012-08-02 | 2025-04-29 | 2024-08-19 |
+| [algebird](https://github.com/twitter/algebird) | Abstract Algebra for Scala | Scala | 2297 | Apache License 2.0 | 2012-08-02 | 2025-05-25 | 2024-08-19 |
 | [twitter-cldr-npm](https://github.com/twitter/twitter-cldr-npm) | TwitterCldr npm package | JavaScript | 51 | Apache License 2.0 | 2012-09-11 | 2025-01-08 | 2023-04-10 |
 | [tormenta](https://github.com/twitter/tormenta) | Scala extensions for Storm | Scala | 134 | Apache License 2.0 | 2012-09-14 | 2025-01-08 | 2019-06-07 |
 | [summingbird](https://github.com/twitter/summingbird) | Streaming MapReduce with Scalding and Storm | Scala | 2133 | Apache License 2.0 | 2012-09-25 | 2025-05-05 | 2022-01-19 |
@@ -53,7 +53,7 @@
 | [BreakoutDetection](https://github.com/twitter/BreakoutDetection) | Breakout Detection via Robust E-Statistics | C++ | 758 | GNU General Public License v2.0 | 2014-10-24 | 2025-05-17 | 2017-08-15 |
 | [twitter-korean-text](https://github.com/twitter/twitter-korean-text) | Korean tokenizer | Scala | 859 | Apache License 2.0 | 2014-10-29 | 2025-05-16 | 2023-04-10 |
 | [twemoji](https://github.com/twitter/twemoji) | Emoji for everyone. https://twemoji.twitter.com/ | HTML | 17050 | MIT License | 2014-11-06 | 2025-05-23 | 2024-08-16 |
-| [twitter-text](https://github.com/twitter/twitter-text) | Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform. | HTML | 3100 | Apache License 2.0 | 2014-12-03 | 2025-05-24 | 2024-04-26 |
+| [twitter-text](https://github.com/twitter/twitter-text) | Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform. | HTML | 3101 | Apache License 2.0 | 2014-12-03 | 2025-05-24 | 2024-04-26 |
 | [AnomalyDetection](https://github.com/twitter/AnomalyDetection) | Anomaly Detection with R | R | 3599 | GNU General Public License v3.0 | 2014-12-09 | 2025-05-20 | 2019-08-30 |
 | [d3kit](https://github.com/twitter/d3kit) | D3Kit is a set tools to speed D3 related project development | JavaScript | 430 | MIT License | 2015-01-10 | 2025-05-08 | 2021-11-01 |
 | [pants](https://github.com/twitter/pants) | Pants Build System | Python | 87 | Apache License 2.0 | 2015-01-15 | 2025-01-08 | 2023-08-05 |
@@ -106,6 +106,6 @@
 | [diffusion-rl](https://github.com/twitter/diffusion-rl) | None | Python | 76 | Apache License 2.0 | 2022-08-09 | 2025-05-13 | 2022-12-09 |
 | [focus](https://github.com/twitter/focus) | Focus aligns Git worktree content based on outlines of a repository's Bazel build graph. Focused repos are sparse, shallow, and thin and unlock markedly better performance in large repos. | Rust | 106 | Apache License 2.0 | 2022-08-30 | 2025-04-22 | 2023-05-12 |
 | [birdwatch](https://github.com/twitter/birdwatch) | None | None | 67 | - | 2022-11-06 | 2025-04-07 | 2023-04-03 |
-| [the-algorithm](https://github.com/twitter/the-algorithm) | Source code for Twitter's Recommendation Algorithm | Scala | 63199 | GNU Affero General Public License v3.0 | 2023-03-27 | 2025-05-23 | 2024-07-10 |
-| [the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) | Source code for Twitter's Recommendation Algorithm | Python | 10242 | GNU Affero General Public License v3.0 | 2023-03-27 | 2025-05-24 | 2024-07-10 |
+| [the-algorithm](https://github.com/twitter/the-algorithm) | Source code for Twitter's Recommendation Algorithm | Scala | 63201 | GNU Affero General Public License v3.0 | 2023-03-27 | 2025-05-25 | 2024-07-10 |
+| [the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) | Source code for Twitter's Recommendation Algorithm | Python | 10245 | GNU Affero General Public License v3.0 | 2023-03-27 | 2025-05-25 | 2024-07-10 |
 | [stitch](https://github.com/twitter/stitch) | None | Scala | 109 | Apache License 2.0 | 2024-11-05 | 2025-04-17 | 2024-11-07 |

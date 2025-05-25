@@ -1,18 +1,18 @@
 # Sony
 
-共 104 个项目，近半年内活跃项目 47 个，1 个团队， 16856 个 Star。
+共 104 个项目，近半年内活跃项目 47 个，1 个团队， 16861 个 Star。
 
 语言 Top 3：Python, JavaScript, Jupyter Notebook
 
-统计时间：2025-05-24 08:07:56
+统计时间：2025-05-25 08:07:58
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3151 | MIT License | 2015-05-29 | 2025-05-23 | 2025-03-25 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4131 | MIT License | 2015-05-29 | 2025-05-21 | 2025-05-18 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3153 | MIT License | 2015-05-29 | 2025-05-25 | 2025-03-25 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4132 | MIT License | 2015-05-29 | 2025-05-25 | 2025-05-18 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
-| [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 410 | MIT License | 2015-09-18 | 2025-04-29 | 2020-12-29 |
+| [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 411 | MIT License | 2015-09-18 | 2025-05-25 | 2020-12-29 |
 | [cdn-purge-control-php](https://github.com/sony/cdn-purge-control-php) | Multi CDN purge control library for PHP | PHP | 8 | MIT License | 2016-01-06 | 2023-04-07 | 2016-10-06 |
 | [huis-ui-creator](https://github.com/sony/huis-ui-creator) | None | JavaScript | 37 | Apache License 2.0 | 2016-02-02 | 2024-02-19 | 2024-07-02 |
 | [node-win-usbdev](https://github.com/sony/node-win-usbdev) | None | C++ | 3 | Apache License 2.0 | 2016-02-02 | 2023-03-29 | 2018-02-16 |
@@ -44,7 +44,7 @@
 | [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 124 | Apache License 2.0 | 2021-06-11 | 2025-05-10 | 2024-12-16 |
 | [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 99 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2025-05-20 | 2024-12-19 |
 | [model_optimization](https://github.com/sony/model_optimization) | Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks. | Python | 397 | Apache License 2.0 | 2021-06-21 | 2025-05-24 | 2025-05-22 |
-| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 536 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2025-05-24 | 2024-12-19 |
+| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 537 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2025-05-24 | 2024-12-19 |
 | [flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) | Flutter plugins for embedded Linux (eLinux) | C++ | 55 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2025-05-02 | 2024-12-13 |
 | [ds-research-code](https://github.com/sony/ds-research-code) | None | Python | 0 | - | 2021-07-19 | 2023-02-07 | 2023-01-30 |
 | [pyIEOE](https://github.com/sony/pyIEOE) | None | Python | 31 | MIT License | 2021-07-20 | 2025-02-17 | 2025-02-21 |
