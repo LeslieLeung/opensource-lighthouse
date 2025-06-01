@@ -1,10 +1,10 @@
 # Sony
 
-共 104 个项目，近半年内活跃项目 47 个，1 个团队， 16895 个 Star。
+共 104 个项目，近半年内活跃项目 47 个，1 个团队， 16897 个 Star。
 
 语言 Top 3：Python, JavaScript, Jupyter Notebook
 
-统计时间：2025-05-31 08:08:17
+统计时间：2025-06-01 08:08:19
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -57,7 +57,7 @@
 | [polar-densification](https://github.com/sony/polar-densification) | None | Python | 27 | MIT License | 2022-09-13 | 2025-05-23 | 2023-03-24 |
 | [nnabla-js](https://github.com/sony/nnabla-js) | None | TypeScript | 1 | Apache License 2.0 | 2022-09-16 | 2023-02-01 | 2023-01-13 |
 | [DiffRoll](https://github.com/sony/DiffRoll) | PyTorch implementation of DiffRoll, a diffusion-based generative automatic music transcription (AMT) model | Jupyter Notebook | 77 | MIT License | 2022-10-11 | 2025-05-06 | 2023-12-06 |
-| [creativeai](https://github.com/sony/creativeai) | None | CSS | 68 | - | 2022-11-21 | 2025-05-23 | 2025-05-23 |
+| [creativeai](https://github.com/sony/creativeai) | None | CSS | 69 | - | 2022-11-21 | 2025-06-01 | 2025-06-01 |
 | [NDJIR](https://github.com/sony/NDJIR) | NDJIR: Neural Direct and Joint Inverse Rendering for Geometry, Lights, and Materials of Real Object | Python | 47 | Apache License 2.0 | 2022-12-14 | 2025-03-12 | 2023-02-08 |
 | [CLIPSep](https://github.com/sony/CLIPSep) | None | Python | 40 | MIT License | 2023-01-24 | 2025-03-18 | 2023-02-21 |
 | [audio-visual-seld-dcase2023](https://github.com/sony/audio-visual-seld-dcase2023) | Baseline method for audio-visual sound event localization and detection task of DCASE 2023 challenge | Python | 51 | MIT License | 2023-02-20 | 2025-03-19 | 2025-03-19 |
@@ -80,7 +80,7 @@
 | [NeISF](https://github.com/sony/NeISF) | None | Python | 15 | Other | 2024-06-04 | 2025-05-28 | 2025-05-15 |
 | [nnc-desktop](https://github.com/sony/nnc-desktop) | None | TypeScript | 19 | Apache License 2.0 | 2024-06-04 | 2025-05-28 | 2025-04-01 |
 | [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 96 | MIT License | 2024-06-04 | 2025-05-30 | 2025-03-31 |
-| [silentcipher](https://github.com/sony/silentcipher) | None | Python | 52 | MIT License | 2024-06-05 | 2025-05-27 | 2024-07-22 |
+| [silentcipher](https://github.com/sony/silentcipher) | None | Python | 53 | MIT License | 2024-06-05 | 2025-06-01 | 2024-07-22 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 14 | MIT License | 2024-07-09 | 2025-05-28 | 2025-03-05 |
 | [genwarp](https://github.com/sony/genwarp) | None | Python | 278 | MIT License | 2024-08-06 | 2025-05-26 | 2024-09-26 |
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 41 | MIT License | 2024-09-05 | 2025-04-29 | 2024-11-05 |
