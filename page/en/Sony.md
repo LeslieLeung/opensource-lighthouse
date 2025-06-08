@@ -1,14 +1,14 @@
 # Sony
 
-A total of 104 projects, 47 active projects in the last six months, 1 teams, and 16931 stars.
+A total of 104 projects, 47 active projects in the last six months, 1 teams, and 16937 stars.
 
 Top 3 Languages: Python, JavaScript, Jupyter Notebook
 
-Statistics Date: 2025-06-07 08:07:58
+Statistics Date: 2025-06-08 08:08:04
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3175 | MIT License | 2015-05-29 | 2025-06-05 | 2025-06-04 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3180 | MIT License | 2015-05-29 | 2025-06-08 | 2025-06-04 |
 | [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4138 | MIT License | 2015-05-29 | 2025-06-06 | 2025-05-18 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
@@ -44,7 +44,7 @@ Statistics Date: 2025-06-07 08:07:58
 | [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 124 | Apache License 2.0 | 2021-06-11 | 2025-05-10 | 2024-12-16 |
 | [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 100 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2025-06-05 | 2024-12-19 |
 | [model_optimization](https://github.com/sony/model_optimization) | Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks. | Python | 398 | Apache License 2.0 | 2021-06-21 | 2025-06-05 | 2025-06-05 |
-| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 543 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2025-06-06 | 2025-05-27 |
+| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 544 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2025-06-07 | 2025-05-27 |
 | [flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) | Flutter plugins for embedded Linux (eLinux) | C++ | 56 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2025-06-05 | 2024-12-13 |
 | [ds-research-code](https://github.com/sony/ds-research-code) | None | Python | 0 | - | 2021-07-19 | 2023-02-07 | 2023-01-30 |
 | [pyIEOE](https://github.com/sony/pyIEOE) | None | Python | 31 | MIT License | 2021-07-20 | 2025-02-17 | 2025-02-21 |

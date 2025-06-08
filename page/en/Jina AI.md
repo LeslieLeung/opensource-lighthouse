@@ -1,15 +1,15 @@
 # Jina AI
 
-A total of 245 projects, 18 active projects in the last six months, 1 teams, and 67247 stars.
+A total of 245 projects, 18 active projects in the last six months, 1 teams, and 67254 stars.
 
 Top 3 Languages: Python, TypeScript, Jupyter Notebook
 
-Statistics Date: 2025-06-07 08:07:58
+Statistics Date: 2025-06-08 08:08:04
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [clip-as-service](https://github.com/jina-ai/clip-as-service) | 🏄 Scalable embedding, reasoning, ranking for images and sentences with CLIP | Python | 12678 | Other | 2018-11-12 | 2025-06-07 | 2024-01-23 |
-| [serve](https://github.com/jina-ai/serve) | ☁️ Build multimodal AI applications with cloud-native stack | Python | 21603 | Apache License 2.0 | 2020-02-13 | 2025-06-06 | 2025-03-24 |
+| [serve](https://github.com/jina-ai/serve) | ☁️ Build multimodal AI applications with cloud-native stack | Python | 21604 | Apache License 2.0 | 2020-02-13 | 2025-06-07 | 2025-03-24 |
 | [examples](https://github.com/jina-ai/examples) | Jina examples and demos to help you get started | Python | 460 | Apache License 2.0 | 2020-02-17 | 2025-05-20 | 2021-11-01 |
 | [docs](https://github.com/jina-ai/docs) | Jina V1 Official Documentation. For the latest one, please check out https://docs.jina.ai | HTML | 35 | - | 2020-03-09 | 2024-05-16 | 2022-06-13 |
 | [jina-hub](https://github.com/jina-ai/jina-hub) | An open-registry for hosting Jina executors via container images | Python | 108 | Apache License 2.0 | 2020-03-15 | 2025-04-30 | 2021-08-31 |
@@ -244,12 +244,12 @@ Statistics Date: 2025-06-07 08:07:58
 | [chunking](https://github.com/jina-ai/chunking) | None | Python | 7 | - | 2024-06-23 | 2025-04-13 | 2024-07-10 |
 | [late-chunking](https://github.com/jina-ai/late-chunking) | Code for explaining and evaluating late chunking (chunked pooling) | Python | 398 | Apache License 2.0 | 2024-08-06 | 2025-06-06 | 2024-12-23 |
 | [vllm](https://github.com/jina-ai/vllm) | A high-throughput and memory-efficient inference and serving engine for LLMs | Python | 3 | Apache License 2.0 | 2024-08-29 | 2025-04-04 | 2025-01-17 |
-| [meta-prompt](https://github.com/jina-ai/meta-prompt) | For LLMs to better code with Jina API | HTML | 150 | Apache License 2.0 | 2024-10-28 | 2025-06-01 | 2025-04-18 |
+| [meta-prompt](https://github.com/jina-ai/meta-prompt) | For LLMs to better code with Jina API | HTML | 151 | Apache License 2.0 | 2024-10-28 | 2025-06-07 | 2025-04-18 |
 | [llm-query-expansion](https://github.com/jina-ai/llm-query-expansion) | Query Expension for Better Query Embedding using LLMs | Python | 51 | Apache License 2.0 | 2025-01-17 | 2025-05-30 | 2025-02-18 |
-| [node-DeepResearch](https://github.com/jina-ai/node-DeepResearch) | Keep searching, reading webpages, reasoning until it finds the answer (or exceeding the token budget) | TypeScript | 4400 | Apache License 2.0 | 2025-01-26 | 2025-06-07 | 2025-06-06 |
+| [node-DeepResearch](https://github.com/jina-ai/node-DeepResearch) | Keep searching, reading webpages, reasoning until it finds the answer (or exceeding the token budget) | TypeScript | 4404 | Apache License 2.0 | 2025-01-26 | 2025-06-07 | 2025-06-06 |
 | [deepsearch-ui](https://github.com/jina-ai/deepsearch-ui) | Jina DeepSearch UI | JavaScript | 112 | Apache License 2.0 | 2025-02-17 | 2025-06-06 | 2025-06-06 |
 | [node-serp](https://github.com/jina-ai/node-serp) | LLM-as-SERP | TypeScript | 66 | - | 2025-02-26 | 2025-05-17 | 2025-03-03 |
 | [multimodal-reranker-test](https://github.com/jina-ai/multimodal-reranker-test) | samples to evaluate a multimodal neural reranker | None | 0 | Apache License 2.0 | 2025-04-07 | 2025-04-07 | 2025-04-07 |
 | [image-assets](https://github.com/jina-ai/image-assets) | None | None | 0 | - | 2025-04-09 | 2025-04-09 | 2025-04-09 |
-| [correlations](https://github.com/jina-ai/correlations) | Simple UI for debugging correlations of text embeddings | HTML | 268 | Apache License 2.0 | 2025-05-26 | 2025-06-06 | 2025-05-28 |
+| [correlations](https://github.com/jina-ai/correlations) | Simple UI for debugging correlations of text embeddings | HTML | 269 | Apache License 2.0 | 2025-05-26 | 2025-06-08 | 2025-05-28 |
 | [vidore-benchmark-fork](https://github.com/jina-ai/vidore-benchmark-fork) | Vision Document Retrieval (ViDoRe): Benchmark. Evaluation code for the ColPali paper. | None | 0 | MIT License | 2025-06-06 | 2025-06-06 | 2025-06-06 |
