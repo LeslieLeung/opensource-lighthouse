@@ -1,14 +1,14 @@
 # Sony
 
-A total of 104 projects, 47 active projects in the last six months, 1 teams, and 16949 stars.
+A total of 104 projects, 47 active projects in the last six months, 1 teams, and 16953 stars.
 
 Top 3 Languages: Python, JavaScript, Jupyter Notebook
 
-Statistics Date: 2025-06-09 08:10:24
+Statistics Date: 2025-06-10 08:09:42
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3184 | MIT License | 2015-05-29 | 2025-06-09 | 2025-06-04 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3186 | MIT License | 2015-05-29 | 2025-06-10 | 2025-06-04 |
 | [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4140 | MIT License | 2015-05-29 | 2025-06-09 | 2025-05-18 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
@@ -53,7 +53,7 @@ Statistics Date: 2025-06-09 08:10:24
 | [nnabla-browser](https://github.com/sony/nnabla-browser) | Visualization toolkit for Neural Network Libraries | TypeScript | 9 | Apache License 2.0 | 2022-03-31 | 2024-07-06 | 2023-03-07 |
 | [sqvae](https://github.com/sony/sqvae) | Pytorch implementation of stochastically quantized variational autoencoder (SQ-VAE) | Python | 188 | Apache License 2.0 | 2022-05-26 | 2025-05-19 | 2022-07-20 |
 | [aibo-development-tutorial](https://github.com/sony/aibo-development-tutorial) | None | None | 8 | Other | 2022-06-28 | 2025-04-20 | 2022-06-30 |
-| [FxNorm-automix](https://github.com/sony/FxNorm-automix) | FxNorm-Automix - Implementation of automatic music mixing systems. We show how we can use wet music data and repurpose it to train a fully automatic mixing system | Python | 114 | MIT License | 2022-08-05 | 2025-05-29 | 2024-03-11 |
+| [FxNorm-automix](https://github.com/sony/FxNorm-automix) | FxNorm-Automix - Implementation of automatic music mixing systems. We show how we can use wet music data and repurpose it to train a fully automatic mixing system | Python | 115 | MIT License | 2022-08-05 | 2025-06-10 | 2024-03-11 |
 | [polar-densification](https://github.com/sony/polar-densification) | None | Python | 27 | MIT License | 2022-09-13 | 2025-05-23 | 2023-03-24 |
 | [nnabla-js](https://github.com/sony/nnabla-js) | None | TypeScript | 1 | Apache License 2.0 | 2022-09-16 | 2023-02-01 | 2023-01-13 |
 | [DiffRoll](https://github.com/sony/DiffRoll) | PyTorch implementation of DiffRoll, a diffusion-based generative automatic music transcription (AMT) model | Jupyter Notebook | 77 | MIT License | 2022-10-11 | 2025-05-06 | 2023-12-06 |
@@ -80,7 +80,7 @@ Statistics Date: 2025-06-09 08:10:24
 | [NeISF](https://github.com/sony/NeISF) | None | Python | 15 | Other | 2024-06-04 | 2025-05-28 | 2025-05-15 |
 | [nnc-desktop](https://github.com/sony/nnc-desktop) | None | TypeScript | 19 | Apache License 2.0 | 2024-06-04 | 2025-05-28 | 2025-04-01 |
 | [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 96 | MIT License | 2024-06-04 | 2025-05-30 | 2025-03-31 |
-| [silentcipher](https://github.com/sony/silentcipher) | None | Python | 55 | MIT License | 2024-06-05 | 2025-06-05 | 2024-07-22 |
+| [silentcipher](https://github.com/sony/silentcipher) | None | Python | 56 | MIT License | 2024-06-05 | 2025-06-09 | 2024-07-22 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 14 | MIT License | 2024-07-09 | 2025-06-09 | 2025-06-09 |
 | [genwarp](https://github.com/sony/genwarp) | None | Python | 278 | MIT License | 2024-08-06 | 2025-05-26 | 2024-09-26 |
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 44 | MIT License | 2024-09-05 | 2025-06-02 | 2024-11-05 |
