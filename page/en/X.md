@@ -1,10 +1,10 @@
 # X
 
-A total of 101 projects, 8 active projects in the last six months, 1 teams, and 205397 stars.
+A total of 101 projects, 8 active projects in the last six months, 1 teams, and 205400 stars.
 
 Top 3 Languages: Scala, Java, Python
 
-Statistics Date: 2025-06-21 08:08:10
+Statistics Date: 2025-06-22 08:08:15
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -23,7 +23,7 @@ Statistics Date: 2025-06-21 08:08:10
 | [effectivescala](https://github.com/twitter/effectivescala) | Twitter's Effective Scala Guide | HTML | 2243 | Other | 2012-01-31 | 2025-06-08 | 2023-04-10 |
 | [finatra](https://github.com/twitter/finatra) | Fast, testable, Scala services built on TwitterServer and Finagle | Scala | 2268 | Apache License 2.0 | 2012-02-16 | 2025-06-05 | 2025-04-21 |
 | [cassovary](https://github.com/twitter/cassovary) | Cassovary is a simple big graph processing library for the JVM | Scala | 1049 | Apache License 2.0 | 2012-02-21 | 2025-05-23 | 2021-10-08 |
-| [twemproxy](https://github.com/twitter/twemproxy) | A fast, light-weight proxy for memcached and redis | C | 12258 | Apache License 2.0 | 2012-02-22 | 2025-06-20 | 2024-03-29 |
+| [twemproxy](https://github.com/twitter/twemproxy) | A fast, light-weight proxy for memcached and redis | C | 12259 | Apache License 2.0 | 2012-02-22 | 2025-06-22 | 2024-03-29 |
 | [twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb) | Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more. | Ruby | 684 | Apache License 2.0 | 2012-02-25 | 2025-06-05 | 2025-02-21 |
 | [innovators-patent-agreement](https://github.com/twitter/innovators-patent-agreement) | Innovators Patent Agreement (IPA) | None | 928 | - | 2012-04-16 | 2025-05-23 | 2016-06-14 |
 | [activerecord-reputation-system](https://github.com/twitter/activerecord-reputation-system) | An Active Record Reputation System for Rails | Ruby | 1333 | Apache License 2.0 | 2012-05-17 | 2025-06-19 | 2016-01-14 |
@@ -71,7 +71,7 @@ Statistics Date: 2025-06-21 08:08:10
 | [dodo](https://github.com/twitter/dodo) | The Twitter OSS Project Builder | Shell | 39 | Apache License 2.0 | 2016-07-17 | 2025-01-08 | 2024-05-07 |
 | [analytics-infra-governance](https://github.com/twitter/analytics-infra-governance) | Description of the process for how to commit, review, and release code to the Scalding OSS family (Scalding, Summingbird, Algebird, Bijection, Storehaus, etc) | None | 12 | Apache License 2.0 | 2016-07-24 | 2025-01-08 | 2017-10-06 |
 | [nodes](https://github.com/twitter/nodes) |  A library to implement asynchronous dependency graphs for services in Java | Java | 258 | Apache License 2.0 | 2016-08-08 | 2025-05-31 | 2023-04-10 |
-| [ios-twitter-image-pipeline](https://github.com/twitter/ios-twitter-image-pipeline) | Twitter Image Pipeline is a robust and performant image loading and caching framework for iOS clients | C | 1858 | Apache License 2.0 | 2017-01-26 | 2025-06-14 | 2024-01-26 |
+| [ios-twitter-image-pipeline](https://github.com/twitter/ios-twitter-image-pipeline) | Twitter Image Pipeline is a robust and performant image loading and caching framework for iOS clients | C | 1857 | Apache License 2.0 | 2017-01-26 | 2025-06-21 | 2024-01-26 |
 | [groupcache](https://github.com/twitter/groupcache) | groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases. | Go | 25 | Apache License 2.0 | 2017-01-28 | 2025-03-18 | 2023-04-10 |
 | [Serial](https://github.com/twitter/Serial) | Light-weight, fast framework for object serialization in Java, with Android support. | Java | 1017 | Apache License 2.0 | 2017-07-13 | 2025-06-18 | 2023-04-10 |
 | [rsc](https://github.com/twitter/rsc) | Experimental Scala compiler focused on compilation speed | Scala | 1237 | Apache License 2.0 | 2017-08-17 | 2025-06-16 | 2021-10-21 |
@@ -97,7 +97,7 @@ Statistics Date: 2025-06-21 08:08:10
 | [TwitterTextEditor](https://github.com/twitter/TwitterTextEditor) | A standalone, flexible API that provides a full-featured rich text editor for iOS applications. | Swift | 3010 | Apache License 2.0 | 2020-10-22 | 2025-06-19 | 2023-04-10 |
 | [ios-twitter-apache-thrift](https://github.com/twitter/ios-twitter-apache-thrift) | A thrift encoding and decoding library for Swift | Swift | 46 | Apache License 2.0 | 2020-12-03 | 2025-05-23 | 2022-02-04 |
 | [check-my-repo](https://github.com/twitter/check-my-repo) | Automatically check repositories health and quality and build reports that help us understand the current state of Sauce Labs repositories | Vue | 12 | MIT License | 2021-01-21 | 2025-03-25 | 2023-04-10 |
-| [communitynotes](https://github.com/twitter/communitynotes) | Documentation and source code powering Twitter's Community Notes | Python | 1673 | Apache License 2.0 | 2021-01-25 | 2025-06-19 | 2025-06-16 |
+| [communitynotes](https://github.com/twitter/communitynotes) | Documentation and source code powering Twitter's Community Notes | Python | 1674 | Apache License 2.0 | 2021-01-25 | 2025-06-22 | 2025-06-16 |
 | [dodo-build](https://github.com/twitter/dodo-build) | A Github Action for running Dodo: The Twitter OSS Project Builder | TypeScript | 5 | Apache License 2.0 | 2021-02-09 | 2025-01-08 | 2023-05-12 |
 | [twitter.github.io](https://github.com/twitter/twitter.github.io) | None | HTML | 74 | Apache License 2.0 | 2021-05-25 | 2025-02-10 | 2021-10-11 |
 | [compose-rules](https://github.com/twitter/compose-rules) | Static checks to aid with a healthy adoption of Compose | Kotlin | 1380 | Other | 2022-05-25 | 2025-06-16 | 2023-12-30 |
@@ -106,6 +106,6 @@ Statistics Date: 2025-06-21 08:08:10
 | [diffusion-rl](https://github.com/twitter/diffusion-rl) | None | Python | 76 | Apache License 2.0 | 2022-08-09 | 2025-05-13 | 2022-12-09 |
 | [focus](https://github.com/twitter/focus) | Focus aligns Git worktree content based on outlines of a repository's Bazel build graph. Focused repos are sparse, shallow, and thin and unlock markedly better performance in large repos. | Rust | 106 | Apache License 2.0 | 2022-08-30 | 2025-04-22 | 2023-05-12 |
 | [birdwatch](https://github.com/twitter/birdwatch) | None | None | 67 | - | 2022-11-06 | 2025-04-07 | 2023-04-03 |
-| [the-algorithm](https://github.com/twitter/the-algorithm) | Source code for Twitter's Recommendation Algorithm | Scala | 63314 | GNU Affero General Public License v3.0 | 2023-03-27 | 2025-06-21 | 2024-07-10 |
-| [the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) | Source code for Twitter's Recommendation Algorithm | Python | 10266 | GNU Affero General Public License v3.0 | 2023-03-27 | 2025-06-20 | 2024-07-10 |
+| [the-algorithm](https://github.com/twitter/the-algorithm) | Source code for Twitter's Recommendation Algorithm | Scala | 63317 | GNU Affero General Public License v3.0 | 2023-03-27 | 2025-06-22 | 2024-07-10 |
+| [the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) | Source code for Twitter's Recommendation Algorithm | Python | 10265 | GNU Affero General Public License v3.0 | 2023-03-27 | 2025-06-22 | 2024-07-10 |
 | [stitch](https://github.com/twitter/stitch) | None | Scala | 111 | Apache License 2.0 | 2024-11-05 | 2025-06-18 | 2024-11-07 |
