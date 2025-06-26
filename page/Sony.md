@@ -1,15 +1,15 @@
 # Sony
 
-共 105 个项目，近半年内活跃项目 44 个，1 个团队， 17045 个 Star。
+共 106 个项目，近半年内活跃项目 45 个，1 个团队， 17048 个 Star。
 
 语言 Top 3：Python, JavaScript, Jupyter Notebook
 
-统计时间：2025-06-25 08:09:30
+统计时间：2025-06-26 08:09:41
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3211 | MIT License | 2015-05-29 | 2025-06-25 | 2025-06-04 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4153 | MIT License | 2015-05-29 | 2025-06-24 | 2025-06-23 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3214 | MIT License | 2015-05-29 | 2025-06-26 | 2025-06-04 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4154 | MIT License | 2015-05-29 | 2025-06-26 | 2025-06-23 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 413 | MIT License | 2015-09-18 | 2025-06-24 | 2020-12-29 |
@@ -22,7 +22,7 @@
 | [openocd-nuttx](https://github.com/sony/openocd-nuttx) | Fork of OpenOCD with NuttX thread support. | C | 24 | GNU General Public License v2.0 | 2016-10-18 | 2024-06-08 | 2019-01-21 |
 | [nnabla-ext-cuda](https://github.com/sony/nnabla-ext-cuda) | A CUDA Extension of Neural Network Libraries | Cuda | 92 | Apache License 2.0 | 2017-06-21 | 2024-06-20 | 2024-06-20 |
 | [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2752 | Apache License 2.0 | 2017-06-26 | 2025-06-11 | 2024-11-15 |
-| [easyhttpcpp](https://github.com/sony/easyhttpcpp) | A cross-platform HTTP client library with a focus on usability and speed | C++ | 164 | MIT License | 2017-08-09 | 2025-06-21 | 2022-01-31 |
+| [easyhttpcpp](https://github.com/sony/easyhttpcpp) | A cross-platform HTTP client library with a focus on usability and speed | C++ | 163 | MIT License | 2017-08-09 | 2025-06-26 | 2022-01-31 |
 | [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 164 | Apache License 2.0 | 2017-09-07 | 2025-06-12 | 2025-06-24 |
 | [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 36 | Apache License 2.0 | 2017-09-07 | 2025-06-14 | 2024-03-19 |
 | [cdp-js](https://github.com/sony/cdp-js) | Libraries/SDK modules for multi-platform application development | TypeScript | 22 | Apache License 2.0 | 2017-10-10 | 2024-02-11 | 2018-05-10 |
@@ -43,7 +43,7 @@
 | [lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) | None | Python | 0 | MIT License | 2021-03-25 | 2021-05-13 | 2021-05-13 |
 | [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 124 | Apache License 2.0 | 2021-06-11 | 2025-05-10 | 2024-12-16 |
 | [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 103 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2025-06-20 | 2024-12-19 |
-| [model_optimization](https://github.com/sony/model_optimization) | Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks. | Python | 401 | Apache License 2.0 | 2021-06-21 | 2025-06-24 | 2025-06-24 |
+| [model_optimization](https://github.com/sony/model_optimization) | Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks. | Python | 401 | Apache License 2.0 | 2021-06-21 | 2025-06-24 | 2025-06-25 |
 | [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 552 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2025-06-23 | 2025-05-27 |
 | [flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) | Flutter plugins for embedded Linux (eLinux) | C++ | 56 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2025-06-05 | 2024-12-13 |
 | [ds-research-code](https://github.com/sony/ds-research-code) | None | Jupyter Notebook | 0 | - | 2021-07-19 | 2025-06-25 | 2025-06-25 |
@@ -112,4 +112,5 @@
 | [di4c](https://github.com/sony/di4c) | None | Python | 7 | MIT License | 2025-04-02 | 2025-06-03 | 2025-04-02 |
 | [x590schema](https://github.com/sony/x590schema) | None | Python | 2 | MIT License | 2025-05-08 | 2025-06-16 | 2025-05-29 |
 | [sbctm](https://github.com/sony/sbctm) | Schrödinger bridge consistency trajectory models for speech enhancement | Python | 1 | Other | 2025-05-09 | 2025-05-19 | 2025-05-14 |
+| [oil](https://github.com/sony/oil) | Official Repo for The Paper "Auto-Bidding in Real-Time Auctions via Oracle Imitation Learning" (KDD'25, Research Track) | Python | 0 | MIT License | 2025-05-23 | 2025-06-26 | 2025-05-23 |
 | [NeISFpp](https://github.com/sony/NeISFpp) | None | Python | 1 | Other | 2025-06-09 | 2025-06-18 | 2025-06-13 |
