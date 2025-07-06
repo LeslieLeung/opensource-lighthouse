@@ -1,15 +1,15 @@
 # Sony
 
-A total of 106 projects, 50 active projects in the last six months, 1 teams, and 16703 stars.
+A total of 106 projects, 51 active projects in the last six months, 1 teams, and 16706 stars.
 
 Top 3 Languages: Python, JavaScript, Jupyter Notebook
 
-Statistics Date: 2025-07-05 08:08:17
+Statistics Date: 2025-07-06 08:08:05
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3227 | MIT License | 2015-05-29 | 2025-07-05 | 2025-07-05 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4170 | MIT License | 2015-05-29 | 2025-07-05 | 2025-06-28 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3228 | MIT License | 2015-05-29 | 2025-07-05 | 2025-07-05 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4172 | MIT License | 2015-05-29 | 2025-07-06 | 2025-07-05 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 413 | MIT License | 2015-09-18 | 2025-06-24 | 2020-12-29 |
@@ -38,7 +38,7 @@ Statistics Date: 2025-07-05 08:08:17
 | [isren](https://github.com/sony/isren) | None | JavaScript | 8 | MIT License | 2020-01-07 | 2023-01-12 | 2021-05-17 |
 | [ai-research-code](https://github.com/sony/ai-research-code) | None | Python | 354 | Apache License 2.0 | 2020-04-14 | 2025-06-23 | 2023-09-12 |
 | [nnabla-nas](https://github.com/sony/nnabla-nas) | Neural Architecture Search for Neural Network Libraries | Python | 59 | Apache License 2.0 | 2020-06-15 | 2025-06-11 | 2024-01-22 |
-| [micro-notifier](https://github.com/sony/micro-notifier) | Simplified Pusher Clone | Go | 13 | MIT License | 2020-09-06 | 2025-03-31 | 2023-05-05 |
+| [micro-notifier](https://github.com/sony/micro-notifier) | Simplified Pusher Clone | Go | 13 | MIT License | 2020-09-06 | 2025-07-06 | 2025-07-06 |
 | [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1290 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2025-07-02 | 2025-06-26 |
 | [lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) | None | Python | 0 | MIT License | 2021-03-25 | 2021-05-13 | 2021-05-13 |
 | [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 124 | Apache License 2.0 | 2021-06-11 | 2025-05-10 | 2024-12-16 |
