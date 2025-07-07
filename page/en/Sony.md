@@ -1,15 +1,15 @@
 # Sony
 
-A total of 106 projects, 51 active projects in the last six months, 1 teams, and 16706 stars.
+A total of 106 projects, 51 active projects in the last six months, 1 teams, and 16715 stars.
 
 Top 3 Languages: Python, JavaScript, Jupyter Notebook
 
-Statistics Date: 2025-07-06 08:08:05
+Statistics Date: 2025-07-07 08:10:31
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3228 | MIT License | 2015-05-29 | 2025-07-05 | 2025-07-05 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4172 | MIT License | 2015-05-29 | 2025-07-06 | 2025-07-05 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3229 | MIT License | 2015-05-29 | 2025-07-07 | 2025-07-05 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4176 | MIT License | 2015-05-29 | 2025-07-07 | 2025-07-05 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 413 | MIT License | 2015-09-18 | 2025-06-24 | 2020-12-29 |
@@ -30,7 +30,7 @@ Statistics Date: 2025-07-06 08:08:05
 | [cdp-cli](https://github.com/sony/cdp-cli) | Command line tools for generating start point of multi-platform application development (Details: see cdp-js repository) | HTML | 7 | Apache License 2.0 | 2017-10-10 | 2020-12-13 | 2018-07-13 |
 | [nnabla-examples](https://github.com/sony/nnabla-examples) | Neural Network Libraries https://nnabla.org/ - Examples | Python | 307 | Apache License 2.0 | 2017-11-05 | 2025-06-30 | 2025-06-30 |
 | [nnabla-c-runtime](https://github.com/sony/nnabla-c-runtime) | Neural Network Libraries https://nnabla.org/ - C Runtime | C | 55 | Apache License 2.0 | 2018-06-26 | 2025-06-30 | 2025-06-30 |
-| [mapray-js](https://github.com/sony/mapray-js) | JavaScript library for Interactive high quality 3D globes and maps in the browser | TypeScript | 141 | Apache License 2.0 | 2019-01-28 | 2025-06-13 | 2025-06-16 |
+| [mapray-js](https://github.com/sony/mapray-js) | JavaScript library for Interactive high quality 3D globes and maps in the browser | TypeScript | 142 | Apache License 2.0 | 2019-01-28 | 2025-07-07 | 2025-06-16 |
 | [typescript-fsa-redux-middleware](https://github.com/sony/typescript-fsa-redux-middleware) | Fluent syntax for defining typesafe Redux vanilla middlewares on top of typescript-fsa. | TypeScript | 10 | MIT License | 2019-01-29 | 2024-05-16 | 2020-01-24 |
 | [nnabla-doc](https://github.com/sony/nnabla-doc) | None | None | 1 | - | 2019-02-20 | 2024-05-29 | 2024-05-29 |
 | [nnabla-dataset-uploader](https://github.com/sony/nnabla-dataset-uploader) | None | Python | 0 | - | 2019-02-26 | 2019-03-15 | 2019-03-15 |
@@ -39,7 +39,7 @@ Statistics Date: 2025-07-06 08:08:05
 | [ai-research-code](https://github.com/sony/ai-research-code) | None | Python | 354 | Apache License 2.0 | 2020-04-14 | 2025-06-23 | 2023-09-12 |
 | [nnabla-nas](https://github.com/sony/nnabla-nas) | Neural Architecture Search for Neural Network Libraries | Python | 59 | Apache License 2.0 | 2020-06-15 | 2025-06-11 | 2024-01-22 |
 | [micro-notifier](https://github.com/sony/micro-notifier) | Simplified Pusher Clone | Go | 13 | MIT License | 2020-09-06 | 2025-07-06 | 2025-07-06 |
-| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1290 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2025-07-02 | 2025-06-26 |
+| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1292 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2025-07-06 | 2025-06-26 |
 | [lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) | None | Python | 0 | MIT License | 2021-03-25 | 2021-05-13 | 2021-05-13 |
 | [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 124 | Apache License 2.0 | 2021-06-11 | 2025-05-10 | 2024-12-16 |
 | [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 103 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2025-06-20 | 2024-12-19 |
@@ -72,7 +72,7 @@ Statistics Date: 2025-07-06 08:08:05
 | [bigvsan](https://github.com/sony/bigvsan) | Pytorch implementation of BigVSAN | Python | 202 | MIT License | 2023-09-01 | 2025-06-21 | 2024-03-23 |
 | [bigvsan_eval](https://github.com/sony/bigvsan_eval) | Evaluation tool used in the BigVSAN paper | Python | 11 | MIT License | 2023-09-01 | 2025-02-09 | 2024-03-22 |
 | [timbre-trap](https://github.com/sony/timbre-trap) | Code for the paper "Timbre-Trap: A Low-Resource Framework for Instrument-Agnostic Music Transcription" | Python | 39 | MIT License | 2023-09-12 | 2025-04-17 | 2024-05-05 |
-| [ctm](https://github.com/sony/ctm) | None | Python | 293 | - | 2023-10-10 | 2025-07-04 | 2024-10-10 |
+| [ctm](https://github.com/sony/ctm) | None | Python | 292 | - | 2023-10-10 | 2025-07-06 | 2024-10-10 |
 | [SR-Display-Plugin-Preview-BL](https://github.com/sony/SR-Display-Plugin-Preview-BL) | None | Python | 4 | MIT License | 2023-12-13 | 2024-08-17 | 2024-05-24 |
 | [pyAutoPort](https://github.com/sony/pyAutoPort) | None | Python | 6 | BSD 3-Clause "New" or "Revised" License | 2023-12-13 | 2025-07-03 | 2025-07-03 |
 | [SR-Display-Plugin-Preview-ZB](https://github.com/sony/SR-Display-Plugin-Preview-ZB) | None | None | 1 | MIT License | 2024-02-19 | 2024-02-19 | 2024-02-19 |
@@ -94,7 +94,7 @@ Statistics Date: 2025-07-06 08:08:05
 | [MambaPEFT](https://github.com/sony/MambaPEFT) | None | Python | 14 | Apache License 2.0 | 2025-01-24 | 2025-06-27 | 2025-03-27 |
 | [bl-flowsom_eval](https://github.com/sony/bl-flowsom_eval) | None | Jupyter Notebook | 0 | MIT License | 2025-01-28 | 2025-02-04 | 2025-02-04 |
 | [bl-flowsom_poc](https://github.com/sony/bl-flowsom_poc) | None | Python | 1 | Other | 2025-01-28 | 2025-05-26 | 2025-02-04 |
-| [jys](https://github.com/sony/jys) | None | Python | 4 | - | 2025-02-06 | 2025-05-28 | 2025-02-25 |
+| [jys](https://github.com/sony/jys) | None | Python | 5 | - | 2025-02-06 | 2025-07-07 | 2025-02-25 |
 | [hero](https://github.com/sony/hero) | None | Python | 1 | - | 2025-02-06 | 2025-05-22 | 2025-05-12 |
 | [wpse](https://github.com/sony/wpse) | None | Python | 3 | MIT License | 2025-02-06 | 2025-05-21 | 2025-05-21 |
 | [CaR](https://github.com/sony/CaR) | None | Python | 4 | MIT License | 2025-02-06 | 2025-06-05 | 2025-02-07 |
@@ -112,5 +112,5 @@ Statistics Date: 2025-07-06 08:08:05
 | [x590schema](https://github.com/sony/x590schema) | None | Python | 2 | MIT License | 2025-05-08 | 2025-06-16 | 2025-05-29 |
 | [sbctm](https://github.com/sony/sbctm) | Schrödinger bridge consistency trajectory models for speech enhancement | Python | 1 | Other | 2025-05-09 | 2025-05-19 | 2025-05-14 |
 | [oil](https://github.com/sony/oil) | Official Repo for The Paper "Auto-Bidding in Real-Time Auctions via Oracle Imitation Learning" (KDD'25, Research Track) | Python | 0 | MIT License | 2025-05-23 | 2025-06-26 | 2025-05-23 |
-| [neural-network-console](https://github.com/sony/neural-network-console) | None | C++ | 0 | Apache License 2.0 | 2025-05-29 | 2025-07-02 | 2025-06-26 |
+| [neural-network-console](https://github.com/sony/neural-network-console) | None | C++ | 1 | Apache License 2.0 | 2025-05-29 | 2025-07-07 | 2025-06-26 |
 | [NeISFpp](https://github.com/sony/NeISFpp) | None | Python | 1 | Other | 2025-06-09 | 2025-06-18 | 2025-06-13 |
