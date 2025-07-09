@@ -1,21 +1,21 @@
 # Buf
 
-共 68 个项目，近半年内活跃项目 57 个，1 个团队， 18949 个 Star。
+共 68 个项目，近半年内活跃项目 57 个，1 个团队， 18956 个 Star。
 
 语言 Top 3：Go, TypeScript, Makefile
 
-统计时间：2025-07-08 08:09:41
+统计时间：2025-07-09 08:09:22
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) | Protocol Buffer Validation - replaced by https://github.com/bufbuild/protovalidate | Go | 3979 | Apache License 2.0 | 2017-10-03 | 2025-07-08 | 2025-07-07 |
+| [protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) | Protocol Buffer Validation - replaced by https://github.com/bufbuild/protovalidate | Go | 3980 | Apache License 2.0 | 2017-10-03 | 2025-07-08 | 2025-07-07 |
 | [homebrew-buf](https://github.com/bufbuild/homebrew-buf) | Homebrew tap for Buf. | Shell | 13 | Apache License 2.0 | 2019-10-02 | 2025-06-17 | 2025-06-17 |
-| [buf](https://github.com/bufbuild/buf) | The best way of working with Protocol Buffers. | Go | 10025 | Apache License 2.0 | 2019-10-03 | 2025-07-08 | 2025-07-07 |
+| [buf](https://github.com/bufbuild/buf) | The best way of working with Protocol Buffers. | Go | 10031 | Apache License 2.0 | 2019-10-03 | 2025-07-09 | 2025-07-08 |
 | [vim-buf](https://github.com/bufbuild/vim-buf) | Vim integration for Buf. | Vim Script | 35 | Apache License 2.0 | 2019-10-03 | 2024-09-12 | 2025-06-17 |
 | [buf-examples](https://github.com/bufbuild/buf-examples) | Example repository that uses Buf. | TypeScript | 88 | Apache License 2.0 | 2019-10-12 | 2025-07-01 | 2025-06-19 |
 | [makego](https://github.com/bufbuild/makego) | Makefile setup for our Golang projects. | Makefile | 104 | Apache License 2.0 | 2019-11-18 | 2025-06-17 | 2025-06-17 |
 | [buf-gradle-plugin](https://github.com/bufbuild/buf-gradle-plugin) | Gradle plugin for the Buf CLI | Kotlin | 54 | Apache License 2.0 | 2020-08-29 | 2025-06-23 | 2025-06-30 |
-| [vscode-buf](https://github.com/bufbuild/vscode-buf) | Visual Studio Code integration for Buf. | TypeScript | 67 | Apache License 2.0 | 2020-12-23 | 2025-05-26 | 2025-07-04 |
+| [vscode-buf](https://github.com/bufbuild/vscode-buf) | Visual Studio Code integration for Buf. | TypeScript | 67 | Apache License 2.0 | 2020-12-23 | 2025-05-26 | 2025-07-08 |
 | [buf-setup-action](https://github.com/bufbuild/buf-setup-action) | None | TypeScript | 38 | Apache License 2.0 | 2021-03-17 | 2025-04-24 | 2025-01-23 |
 | [buf-lint-action](https://github.com/bufbuild/buf-lint-action) | None | TypeScript | 28 | Apache License 2.0 | 2021-03-17 | 2025-04-24 | 2025-01-24 |
 | [buf-push-action](https://github.com/bufbuild/buf-push-action) | None | Shell | 15 | Apache License 2.0 | 2021-03-17 | 2025-04-14 | 2025-02-12 |
@@ -35,7 +35,7 @@
 | [prototransform](https://github.com/bufbuild/prototransform) | Client library for Buf Reflection API, for transforming Protobuf data. | Go | 48 | Apache License 2.0 | 2023-01-30 | 2025-05-13 | 2025-05-02 |
 | [analytics-go](https://github.com/bufbuild/analytics-go) | None | Go | 0 | MIT License | 2023-02-28 | 2024-02-14 | 2024-02-13 |
 | [.github](https://github.com/bufbuild/.github) | None | None | 0 | Apache License 2.0 | 2023-03-08 | 2025-05-02 | 2025-05-02 |
-| [modules](https://github.com/bufbuild/modules) | Collection of third-party modules managed and synced by Buf. | Go | 27 | Apache License 2.0 | 2023-03-16 | 2025-07-07 | 2025-07-07 |
+| [modules](https://github.com/bufbuild/modules) | Collection of third-party modules managed and synced by Buf. | Go | 27 | Apache License 2.0 | 2023-03-16 | 2025-07-08 | 2025-07-08 |
 | [protobuf-language-spec](https://github.com/bufbuild/protobuf-language-spec) | Comprehensive language specification for Protocol Buffers | None | 6 | Apache License 2.0 | 2023-04-10 | 2024-08-01 | 2024-02-13 |
 | [knit](https://github.com/bufbuild/knit) | GraphQL-like capabilities to services using Protocol Buffers, gRPC, and Connect | Go | 159 | Apache License 2.0 | 2023-04-24 | 2025-06-16 | 2025-05-29 |
 | [knit-proto](https://github.com/bufbuild/knit-proto) | Protocol definition for Knit | None | 6 | Apache License 2.0 | 2023-05-03 | 2025-04-14 | 2025-02-13 |
