@@ -1,10 +1,10 @@
 # Amazon
 
-共 500 个项目，近半年内活跃项目 332 个，1 个团队， 232845 个 Star。
+共 500 个项目，近半年内活跃项目 332 个，1 个团队， 232901 个 Star。
 
 语言 Top 3：Python, Go, Java
 
-统计时间：2025-07-19 08:08:24
+统计时间：2025-07-20 08:08:33
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -13,9 +13,9 @@
 | [aws-sdk-ruby](https://github.com/aws/aws-sdk-ruby) | The official AWS SDK for Ruby | Ruby | 3617 | Apache License 2.0 | 2011-07-14 | 2025-07-18 | 2025-07-18 |
 | [aws-sdk-net](https://github.com/aws/aws-sdk-net) | None | C# | 8 | Apache License 2.0 | 2012-01-23 | 2025-07-19 | 2025-07-18 |
 | [aws-sdk-js](https://github.com/aws/aws-sdk-js) | AWS SDK for JavaScript in the browser and Node.js (In Maintenance Mode, End-of-Life on 09/08/2025). The AWS SDK for JavaScript v3 in the browser and Node.js is available here: https://github.com/aws/aws-sdk-js-v3 | JavaScript | 7629 | Apache License 2.0 | 2012-09-05 | 2025-07-16 | 2025-04-14 |
-| [aws-sdk-php](https://github.com/aws/aws-sdk-php) | Official repository of the AWS SDK for PHP (@awsforphp) | PHP | 6137 | Apache License 2.0 | 2012-10-17 | 2025-07-18 | 2025-07-18 |
+| [aws-sdk-php](https://github.com/aws/aws-sdk-php) | Official repository of the AWS SDK for PHP (@awsforphp) | PHP | 6137 | Apache License 2.0 | 2012-10-17 | 2025-07-19 | 2025-07-18 |
 | [aws-sdk-php-zf2](https://github.com/aws/aws-sdk-php-zf2) | ZF2 module for using the AWS SDK for PHP to interact with AWS services like S3, DynamoDB, SQS, EC2, etc. | PHP | 105 | Apache License 2.0 | 2012-11-06 | 2025-06-12 | 2025-03-10 |
-| [aws-cli](https://github.com/aws/aws-cli) | Universal Command Line Interface for Amazon Web Services | Python | 16219 | Other | 2012-11-20 | 2025-07-18 | 2025-07-18 |
+| [aws-cli](https://github.com/aws/aws-cli) | Universal Command Line Interface for Amazon Web Services | Python | 16225 | Other | 2012-11-20 | 2025-07-20 | 2025-07-20 |
 | [aws-sdk-php-silex](https://github.com/aws/aws-sdk-php-silex) | Simple Silex service provider for including the AWS SDK for PHP | PHP | 81 | Apache License 2.0 | 2013-01-22 | 2025-06-19 | 2025-03-10 |
 | [aws-sdk-php-laravel](https://github.com/aws/aws-sdk-php-laravel) | A Laravel 6+ service provider for the AWS SDK for PHP | PHP | 1707 | Apache License 2.0 | 2013-02-13 | 2025-07-12 | 2025-03-10 |
 | [opsworks-cookbooks](https://github.com/aws/opsworks-cookbooks) | Chef Cookbooks for the AWS OpsWorks Service | Ruby | 1048 | Other | 2013-02-18 | 2025-06-20 | 2023-04-10 |
@@ -29,12 +29,12 @@
 | [aws-codedeploy-agent](https://github.com/aws/aws-codedeploy-agent) | Host Agent for AWS CodeDeploy | Ruby | 335 | Apache License 2.0 | 2014-10-22 | 2025-07-01 | 2024-11-18 |
 | [aws-eb-glassfish-dockerfiles](https://github.com/aws/aws-eb-glassfish-dockerfiles) | Official Elastic Beanstalk repository for GlassFish docker files.  | Dockerfile | 33 | Apache License 2.0 | 2014-10-28 | 2024-04-28 | 2022-02-06 |
 | [aws-eb-python-dockerfiles](https://github.com/aws/aws-eb-python-dockerfiles) | Official Elastic Beanstalk repository for Python docker files. | Shell | 62 | Other | 2014-10-30 | 2024-06-17 | 2017-10-02 |
-| [amazon-ecs-agent](https://github.com/aws/amazon-ecs-agent) | Amazon Elastic Container Service Agent | Go | 2119 | Apache License 2.0 | 2014-12-04 | 2025-07-15 | 2025-07-19 |
+| [amazon-ecs-agent](https://github.com/aws/amazon-ecs-agent) | Amazon Elastic Container Service Agent | Go | 2121 | Apache License 2.0 | 2014-12-04 | 2025-07-20 | 2025-07-19 |
 | [aws-sdk-go](https://github.com/aws/aws-sdk-go) | AWS SDK for the Go programming language (In Maintenance Mode, End-of-Life on 07/31/2025). The AWS SDK for Go v2 is available here: https://github.com/aws/aws-sdk-go-v2 | Go | 8713 | Apache License 2.0 | 2014-12-05 | 2025-07-18 | 2025-04-23 |
 | [amazon-ecs-init](https://github.com/aws/amazon-ecs-init) | ecs-init is now part of the amazon-ecs-agent repo https://github.com/aws/amazon-ecs-agent/tree/master/ecs-init | Go | 198 | Apache License 2.0 | 2014-12-08 | 2025-04-26 | 2023-08-31 |
 | [aws-sdk-mobile-analytics-js](https://github.com/aws/aws-sdk-mobile-analytics-js) | Amazon Mobile Analytics JavaScript SDK | JavaScript | 83 | Apache License 2.0 | 2015-03-10 | 2025-05-11 | 2018-12-29 |
 | [aws-sdk-rails](https://github.com/aws/aws-sdk-rails) | Official repository for the aws-sdk-rails gem, which integrates the AWS SDK for Ruby with Ruby on Rails. | Ruby | 610 | Other | 2015-03-17 | 2025-06-11 | 2025-05-28 |
-| [aws-sdk-cpp](https://github.com/aws/aws-sdk-cpp) | AWS SDK for C++ | C++ | 2109 | Apache License 2.0 | 2015-05-11 | 2025-07-18 | 2025-07-18 |
+| [aws-sdk-cpp](https://github.com/aws/aws-sdk-cpp) | AWS SDK for C++ | C++ | 2110 | Apache License 2.0 | 2015-05-11 | 2025-07-19 | 2025-07-18 |
 | [aws-dotnet-session-provider](https://github.com/aws/aws-dotnet-session-provider) | A session state provider for ASP.NET applications that stores the sessions in Amazon DynamoDB | C# | 42 | Apache License 2.0 | 2015-05-12 | 2025-07-08 | 2025-05-07 |
 | [aws-lambda-java-libs](https://github.com/aws/aws-lambda-java-libs) | Official mirror for interface definitions and helper classes for Java code running on the AWS Lambda platform. | C++ | 540 | Apache License 2.0 | 2015-05-18 | 2025-07-16 | 2025-07-16 |
 | [aws-php-sns-message-validator](https://github.com/aws/aws-php-sns-message-validator) | Amazon SNS message validation for PHP | PHP | 215 | Apache License 2.0 | 2015-05-26 | 2025-07-15 | 2025-03-10 |
@@ -43,7 +43,7 @@
 | [aws-record-ruby](https://github.com/aws/aws-record-ruby) | Official repository for the aws-record gem, an abstraction for Amazon DynamoDB. | Ruby | 321 | Apache License 2.0 | 2015-06-26 | 2025-06-22 | 2025-06-09 |
 | [aws-sdk-php-symfony](https://github.com/aws/aws-sdk-php-symfony) | None | PHP | 358 | Apache License 2.0 | 2015-06-26 | 2025-06-27 | 2025-03-10 |
 | [amazon-cognito-dotnet](https://github.com/aws/amazon-cognito-dotnet) | Official repository for Amazon Cognito Sync Manager SDK for Dotnet. | C# | 10 | Apache License 2.0 | 2015-07-13 | 2024-04-29 | 2023-04-10 |
-| [aws-iot-device-sdk-embedded-C](https://github.com/aws/aws-iot-device-sdk-embedded-C) | SDK for connecting to AWS IoT from a device using embedded C. | C | 1027 | MIT License | 2015-09-23 | 2025-07-18 | 2025-07-18 |
+| [aws-iot-device-sdk-embedded-C](https://github.com/aws/aws-iot-device-sdk-embedded-C) | SDK for connecting to AWS IoT from a device using embedded C. | C | 1029 | MIT License | 2015-09-23 | 2025-07-19 | 2025-07-18 |
 | [amazon-ecs-cli](https://github.com/aws/amazon-ecs-cli) | The Amazon ECS CLI enables users to run their applications on ECS/Fargate using the Docker Compose file format, quickly provision resources, push/pull images in ECR, and monitor running applications on ECS/Fargate. | Go | 1804 | Other | 2015-09-30 | 2025-07-10 | 2024-06-11 |
 | [aws-iot-device-sdk-arduino-yun](https://github.com/aws/aws-iot-device-sdk-arduino-yun) | SDK for connecting to AWS IoT from an Arduino Yún.  | Python | 163 | Apache License 2.0 | 2015-09-30 | 2025-06-16 | 2018-03-29 |
 | [aws-iot-device-sdk-js](https://github.com/aws/aws-iot-device-sdk-js) | SDK for connecting to AWS IoT from a device using JavaScript/Node.js | JavaScript | 966 | Apache License 2.0 | 2015-09-30 | 2025-07-12 | 2024-10-25 |
@@ -61,7 +61,7 @@
 | [amazon-ecs-logs-collector](https://github.com/aws/amazon-ecs-logs-collector) | The script will be used to collect general os logs as well as Docker and ecs-agent logs, it also support to enable debug mode for docker and ecs-agent in Amazon Linux.  | Shell | 191 | Apache License 2.0 | 2016-09-27 | 2025-07-13 | 2025-02-26 |
 | [serverless-application-model](https://github.com/aws/serverless-application-model) | The AWS Serverless Application Model (AWS SAM) transform is a AWS CloudFormation macro that transforms SAM templates into CloudFormation templates. | Python | 9467 | Apache License 2.0 | 2016-10-10 | 2025-07-18 | 2025-07-11 |
 | [aws-iot-device-sdk-cpp](https://github.com/aws/aws-iot-device-sdk-cpp) | SDK for connecting to AWS IoT from a device using C++ | C++ | 123 | Apache License 2.0 | 2016-10-18 | 2025-07-16 | 2024-10-25 |
-| [aws-fpga](https://github.com/aws/aws-fpga) | Official repository of the AWS EC2 FPGA Hardware and Software Development Kit | SystemVerilog | 1581 | Other | 2016-11-04 | 2025-07-18 | 2025-07-17 |
+| [aws-fpga](https://github.com/aws/aws-fpga) | Official repository of the AWS EC2 FPGA Hardware and Software Development Kit | SystemVerilog | 1582 | Other | 2016-11-04 | 2025-07-19 | 2025-07-17 |
 | [aws-logging-dotnet](https://github.com/aws/aws-logging-dotnet) | .NET Libraries for integrating Amazon CloudWatch Logs with popular .NET logging libraries | C# | 304 | Apache License 2.0 | 2016-11-10 | 2025-07-13 | 2025-07-10 |
 | [aws-lambda-dotnet](https://github.com/aws/aws-lambda-dotnet) | Libraries, samples and tools to help .NET Core developers develop AWS Lambda functions. | C# | 1627 | Apache License 2.0 | 2016-11-11 | 2025-07-18 | 2025-07-18 |
 | [Trusted-Advisor-Tools](https://github.com/aws/Trusted-Advisor-Tools) | The sample functions provided help to automate AWS Trusted Advisor best practices using Amazon Cloudwatch events and AWS Lambda. | Python | 280 | Apache License 2.0 | 2016-11-23 | 2025-07-15 | 2024-11-04 |
@@ -74,26 +74,26 @@
 | [aws-xray-sdk-java](https://github.com/aws/aws-xray-sdk-java) | The official AWS X-Ray Recorder SDK for Java. | Java | 95 | Apache License 2.0 | 2017-03-06 | 2025-07-01 | 2025-07-01 |
 | [aws-xray-sdk-node](https://github.com/aws/aws-xray-sdk-node) | The official AWS X-Ray SDK for Node.js. | JavaScript | 281 | Apache License 2.0 | 2017-03-10 | 2025-07-17 | 2025-05-12 |
 | [connect-rtc-js](https://github.com/aws/connect-rtc-js) | Provide softphone support to AmazonConnect customers when they choose to directly integrate with our API and not using our web app. | JavaScript | 85 | Apache License 2.0 | 2017-03-31 | 2025-05-22 | 2025-05-22 |
-| [aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) | Modularized AWS SDK for JavaScript. | TypeScript | 3364 | Apache License 2.0 | 2017-04-04 | 2025-07-18 | 2025-07-18 |
+| [aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) | Modularized AWS SDK for JavaScript. | TypeScript | 3365 | Apache License 2.0 | 2017-04-04 | 2025-07-20 | 2025-07-18 |
 | [aws-codebuild-docker-images](https://github.com/aws/aws-codebuild-docker-images) | Official AWS CodeBuild repository for managed Docker images http://docs.aws.amazon.com/codebuild/latest/userguide/build-env-ref.html | Dockerfile | 1151 | Other | 2017-04-26 | 2025-07-18 | 2025-04-04 |
 | [aws-toolkit-azure-devops](https://github.com/aws/aws-toolkit-azure-devops) | AWS Toolkit for Azure DevOps | TypeScript | 257 | Other | 2017-05-12 | 2025-07-19 | 2025-03-19 |
 | [aws-toolkit-jetbrains](https://github.com/aws/aws-toolkit-jetbrains) | AWS Toolkit for JetBrains - a plugin for interacting with AWS from JetBrains IDEs | Kotlin | 808 | Apache License 2.0 | 2017-05-16 | 2025-07-19 | 2025-07-18 |
-| [aws-sam-cli](https://github.com/aws/aws-sam-cli) | CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM | Python | 6617 | Apache License 2.0 | 2017-05-23 | 2025-07-18 | 2025-07-19 |
+| [aws-sam-cli](https://github.com/aws/aws-sam-cli) | CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM | Python | 6617 | Apache License 2.0 | 2017-05-23 | 2025-07-18 | 2025-07-20 |
 | [aws-sdk-java-v2](https://github.com/aws/aws-sdk-java-v2) | The official AWS SDK for Java - Version 2 | Java | 2423 | Apache License 2.0 | 2017-06-23 | 2025-07-18 | 2025-07-19 |
 | [lumberyard](https://github.com/aws/lumberyard) | Amazon Lumberyard is a free AAA game engine deeply integrated with AWS and Twitch – with full source. | C++ | 2079 | Other | 2017-06-30 | 2025-07-16 | 2022-09-29 |
-| [aws-sdk-go-v2](https://github.com/aws/aws-sdk-go-v2) | AWS SDK for the Go programming language.  | Go | 3160 | Apache License 2.0 | 2017-07-02 | 2025-07-19 | 2025-07-19 |
+| [aws-sdk-go-v2](https://github.com/aws/aws-sdk-go-v2) | AWS SDK for the Go programming language.  | Go | 3161 | Apache License 2.0 | 2017-07-02 | 2025-07-20 | 2025-07-19 |
 | [aws-greengrass-core-sdk-python](https://github.com/aws/aws-greengrass-core-sdk-python) | SDK to use with functions running on Greengrass Core using Python | Python | 60 | Apache License 2.0 | 2017-07-12 | 2025-02-25 | 2023-04-10 |
 | [aws-xray-sdk-go](https://github.com/aws/aws-xray-sdk-go) | AWS X-Ray SDK for the Go programming language. | Go | 282 | Apache License 2.0 | 2017-07-19 | 2025-07-05 | 2025-05-12 |
 | [amazon-ecs-cluster-state-service](https://github.com/aws/amazon-ecs-cluster-state-service) | Materialized local view of your ECS cluster state built on top of the Amazon ECS event stream. | Go | 16 | Apache License 2.0 | 2017-08-15 | 2024-05-22 | 2023-04-10 |
 | [homebrew-tap](https://github.com/aws/homebrew-tap) | Homebrew formulae that allows installation of AWS tools through the Homebrew package manager. | Ruby | 112 | Apache License 2.0 | 2017-09-12 | 2025-06-28 | 2025-06-28 |
 | [aws-xray-sdk-python](https://github.com/aws/aws-xray-sdk-python) | AWS X-Ray SDK for the Python programming language | Python | 334 | Apache License 2.0 | 2017-09-18 | 2025-07-07 | 2025-06-18 |
 | [aws-dynamodb-encryption-python](https://github.com/aws/aws-dynamodb-encryption-python) | Amazon DynamoDB Encryption Client for Python | Python | 96 | Apache License 2.0 | 2017-09-20 | 2025-07-03 | 2025-07-03 |
-| [jsii](https://github.com/aws/jsii) | jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase! | TypeScript | 2759 | Apache License 2.0 | 2017-10-04 | 2025-07-18 | 2025-07-16 |
-| [aws-cdk](https://github.com/aws/aws-cdk) | The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code | TypeScript | 12310 | Apache License 2.0 | 2017-10-04 | 2025-07-19 | 2025-07-18 |
+| [jsii](https://github.com/aws/jsii) | jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase! | TypeScript | 2758 | Apache License 2.0 | 2017-10-04 | 2025-07-19 | 2025-07-16 |
+| [aws-cdk](https://github.com/aws/aws-cdk) | The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code | TypeScript | 12313 | Apache License 2.0 | 2017-10-04 | 2025-07-20 | 2025-07-18 |
 | [aws-cdk-rfcs](https://github.com/aws/aws-cdk-rfcs) | RFCs for the AWS CDK | JavaScript | 563 | Apache License 2.0 | 2017-10-04 | 2025-07-15 | 2025-07-18 |
 | [amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) | Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS | Go | 2375 | Apache License 2.0 | 2017-10-19 | 2025-07-18 | 2025-07-18 |
 | [aws-lambda-go](https://github.com/aws/aws-lambda-go) | Libraries, samples and tools to help Go developers develop AWS Lambda functions. | Go | 3740 | Apache License 2.0 | 2017-10-19 | 2025-07-18 | 2025-06-02 |
-| [amazon-sagemaker-examples](https://github.com/aws/amazon-sagemaker-examples) | Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker.  | Jupyter Notebook | 10598 | Apache License 2.0 | 2017-10-23 | 2025-07-18 | 2025-07-03 |
+| [amazon-sagemaker-examples](https://github.com/aws/amazon-sagemaker-examples) | Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker.  | Jupyter Notebook | 10599 | Apache License 2.0 | 2017-10-23 | 2025-07-19 | 2025-07-03 |
 | [aws-xray-sdk-ruby](https://github.com/aws/aws-xray-sdk-ruby) | The official AWS X-Ray Recorder SDK for Ruby | Ruby | 60 | Apache License 2.0 | 2017-11-02 | 2024-12-19 | 2024-12-19 |
 | [aws-ops-wheel](https://github.com/aws/aws-ops-wheel) | The AWS Ops Wheel is a randomizer that biases for options that haven’t come up recently; you can also outright cheat and specify the next result to be generated. | JavaScript | 340 | Apache License 2.0 | 2017-11-09 | 2025-07-11 | 2025-07-18 |
 | [aws-extensions-for-dotnet-cli](https://github.com/aws/aws-extensions-for-dotnet-cli) | Extensions to the dotnet CLI to simplify the process of building and publishing .NET Core applications to AWS services | C# | 383 | Apache License 2.0 | 2017-11-09 | 2025-06-21 | 2025-07-02 |
@@ -124,7 +124,7 @@
 | [aws-dax-go](https://github.com/aws/aws-dax-go) | AWS DAX SDK for the Go programming language. https://aws.amazon.com/dynamodb/dax | Go | 48 | Apache License 2.0 | 2018-06-20 | 2024-12-10 | 2024-12-10 |
 | [aws-ec2-instance-connect-config](https://github.com/aws/aws-ec2-instance-connect-config) | This is the ssh daemon configuration and necessary EC2 instance scripting to enable EC2 Instance Connect. Also included is various package manager configurations for packaging for various Linux distributions.  | Shell | 84 | Apache License 2.0 | 2018-07-15 | 2025-03-07 | 2024-06-13 |
 | [aws-ec2-instance-connect-cli](https://github.com/aws/aws-ec2-instance-connect-cli) | This is an all-in-one client for EC2 Instance Connect that handles key brokerage and establishing connection to EC2 Instances through an interface near-identical to standard system ssh, sftp, and other utilities.  | Python | 165 | Apache License 2.0 | 2018-07-15 | 2025-07-07 | 2023-06-15 |
-| [aws-toolkit-vscode](https://github.com/aws/aws-toolkit-vscode) | Amazon Q, CodeCatalyst, Local Lambda debug, SAM/CFN syntax, ECS Terminal, AWS resources | TypeScript | 1743 | Apache License 2.0 | 2018-07-20 | 2025-07-19 | 2025-07-19 |
+| [aws-toolkit-vscode](https://github.com/aws/aws-toolkit-vscode) | Amazon Q, CodeCatalyst, Local Lambda debug, SAM/CFN syntax, ECS Terminal, AWS resources | TypeScript | 1745 | Apache License 2.0 | 2018-07-20 | 2025-07-20 | 2025-07-19 |
 | [aws-encryption-sdk-javascript](https://github.com/aws/aws-encryption-sdk-javascript) | AWS Encryption SDK for Javascript and Node.js | TypeScript | 249 | Apache License 2.0 | 2018-07-24 | 2025-06-07 | 2025-05-07 |
 | [amazon-freertos-ble-ios-sdk](https://github.com/aws/amazon-freertos-ble-ios-sdk) | iOS SDK for FreeRTOS Bluetooth Devices | Swift | 43 | Apache License 2.0 | 2018-09-13 | 2025-03-26 | 2023-07-19 |
 | [amazon-freertos-ble-android-sdk](https://github.com/aws/amazon-freertos-ble-android-sdk) | Android SDK for FreeRTOS Bluetooth Devices. | Java | 50 | Apache License 2.0 | 2018-09-17 | 2025-05-29 | 2023-07-19 |
@@ -135,7 +135,7 @@
 | [aws-sdk-net-extensions-cognito](https://github.com/aws/aws-sdk-net-extensions-cognito) | An extension library to assist in the Amazon Cognito User Pools authentication process | C# | 103 | Apache License 2.0 | 2018-10-03 | 2025-07-06 | 2025-06-23 |
 | [aws-aspnet-cognito-identity-provider](https://github.com/aws/aws-aspnet-cognito-identity-provider) | ASP.NET Core Identity Provider for Amazon Cognito | C# | 222 | Apache License 2.0 | 2018-10-03 | 2025-07-18 | 2025-07-10 |
 | [aws-ofi-nccl](https://github.com/aws/aws-ofi-nccl) | This is a plugin which lets EC2 developers use libfabric as network provider while running NCCL applications. | C++ | 177 | Apache License 2.0 | 2018-10-05 | 2025-07-15 | 2025-07-15 |
-| [aws-k8s-tester](https://github.com/aws/aws-k8s-tester) | Tools for testing Kubernetes on AWS | Go | 179 | Apache License 2.0 | 2018-10-09 | 2025-07-17 | 2025-07-17 |
+| [aws-k8s-tester](https://github.com/aws/aws-k8s-tester) | Tools for testing Kubernetes on AWS | Go | 179 | Apache License 2.0 | 2018-10-09 | 2025-07-20 | 2025-07-20 |
 | [aws-secretsmanager-caching-java](https://github.com/aws/aws-secretsmanager-caching-java) | The AWS Secrets Manager Java caching client enables in-process caching of secrets for Java applications. | Java | 74 | Apache License 2.0 | 2018-10-22 | 2025-06-18 | 2025-07-15 |
 | [aws-secretsmanager-caching-python](https://github.com/aws/aws-secretsmanager-caching-python) | The AWS Secrets Manager Python caching client enables in-process caching of secrets for Python applications. | Python | 144 | Apache License 2.0 | 2018-10-22 | 2025-07-13 | 2025-07-15 |
 | [aws-secretsmanager-jdbc](https://github.com/aws/aws-secretsmanager-jdbc) | The AWS Secrets Manager JDBC Library enables Java developers to easily connect to SQL databases using secrets stored in AWS Secrets Manager. | Java | 177 | Apache License 2.0 | 2018-10-22 | 2025-07-11 | 2025-07-15 |
@@ -152,7 +152,7 @@
 | [aws-ssm-data-protection-provider-for-aspnet](https://github.com/aws/aws-ssm-data-protection-provider-for-aspnet) | An extension library to assist with ASP.NET data protection in AWS Lambda. | C# | 65 | Apache License 2.0 | 2018-11-15 | 2025-06-23 | 2025-07-02 |
 | [sagemaker-rl-container](https://github.com/aws/sagemaker-rl-container) | A set of dockerfiles that provide Reinforcement Learning solutions for use in SageMaker.  | Python | 81 | Apache License 2.0 | 2018-11-20 | 2025-06-18 | 2024-04-08 |
 | [aws-app-mesh-examples](https://github.com/aws/aws-app-mesh-examples) | AWS App Mesh is a service mesh that you can use with your microservices to manage service to service communication. | Shell | 864 | MIT No Attribution | 2018-11-23 | 2025-07-10 | 2025-05-16 |
-| [containers-roadmap](https://github.com/aws/containers-roadmap) | This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).  | Shell | 5296 | Other | 2018-11-25 | 2025-07-16 | 2025-03-25 |
+| [containers-roadmap](https://github.com/aws/containers-roadmap) | This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).  | Shell | 5295 | Other | 2018-11-25 | 2025-07-19 | 2025-03-25 |
 | [libfabric](https://github.com/aws/libfabric) | AWS Libfabric | C | 41 | Other | 2018-12-05 | 2025-07-10 | 2025-07-07 |
 | [.github](https://github.com/aws/.github) | None | None | 7 | - | 2019-02-18 | 2024-12-20 | 2024-10-15 |
 | [amazon-elastic-inference-tools](https://github.com/aws/amazon-elastic-inference-tools) | Amazon Elastic Inference tools and utilities. | Python | 17 | Apache License 2.0 | 2019-02-19 | 2024-06-17 | 2020-04-08 |
@@ -206,9 +206,9 @@
 | [constructs](https://github.com/aws/constructs) | Define composable configuration models through code | TypeScript | 436 | Apache License 2.0 | 2020-01-03 | 2025-07-16 | 2025-07-16 |
 | [shim-loggers-for-containerd](https://github.com/aws/shim-loggers-for-containerd) | Shim logger repository for streaming container logs when using Containerd | Go | 54 | Apache License 2.0 | 2020-01-06 | 2025-07-13 | 2025-07-17 |
 | [aws-toolkit-common](https://github.com/aws/aws-toolkit-common) | Shared components for the AWS Toolkits | C# | 41 | Apache License 2.0 | 2020-01-09 | 2025-07-18 | 2025-07-18 |
-| [deep-learning-containers](https://github.com/aws/deep-learning-containers) | AWS Deep Learning Containers are pre-built Docker images that make it easier to run popular deep learning frameworks and tools on AWS. | Python | 1087 | Other | 2020-01-17 | 2025-07-18 | 2025-07-18 |
-| [aws-graviton-getting-started](https://github.com/aws/aws-graviton-getting-started) | Helping developers to use AWS Graviton2, Graviton3, and Graviton4 processors which power the 6th, 7th, and 8th generation of Amazon EC2 instances (C6g[d], M6g[d], R6g[d], T4g, X2gd, C6gn, I4g, Im4gn, Is4gen, G5g, C7g[d][n], M7g[d], R7g[d], R8g). | Python | 957 | Other | 2020-01-28 | 2025-07-17 | 2025-06-03 |
-| [smithy-go](https://github.com/aws/smithy-go) | Smithy code generators for Go (in development) | Java | 210 | Apache License 2.0 | 2020-02-06 | 2025-07-10 | 2025-07-18 |
+| [deep-learning-containers](https://github.com/aws/deep-learning-containers) | AWS Deep Learning Containers are pre-built Docker images that make it easier to run popular deep learning frameworks and tools on AWS. | Python | 1088 | Other | 2020-01-17 | 2025-07-20 | 2025-07-19 |
+| [aws-graviton-getting-started](https://github.com/aws/aws-graviton-getting-started) | Helping developers to use AWS Graviton2, Graviton3, and Graviton4 processors which power the 6th, 7th, and 8th generation of Amazon EC2 instances (C6g[d], M6g[d], R6g[d], T4g, X2gd, C6gn, I4g, Im4gn, Is4gen, G5g, C7g[d][n], M7g[d], R7g[d], R8g). | Python | 958 | Other | 2020-01-28 | 2025-07-19 | 2025-06-03 |
+| [smithy-go](https://github.com/aws/smithy-go) | Smithy code generators for Go (in development) | Java | 211 | Apache License 2.0 | 2020-02-06 | 2025-07-20 | 2025-07-18 |
 | [amazon-ec2-metadata-mock](https://github.com/aws/amazon-ec2-metadata-mock) | A tool to simulate Amazon EC2 instance metadata | Go | 285 | Apache License 2.0 | 2020-02-14 | 2025-07-03 | 2025-06-06 |
 | [aws-sigv4-auth-cassandra-java-driver-plugin](https://github.com/aws/aws-sigv4-auth-cassandra-java-driver-plugin) | A SigV4 authentication plugin for the open-source DataStax Java Driver for Apache Cassandra.  Allows use of AWS IAM users and roles for direct authentication. | Java | 14 | Apache License 2.0 | 2020-02-24 | 2025-04-25 | 2025-06-27 |
 | [amazon-eks-diag](https://github.com/aws/amazon-eks-diag) | None | PowerShell | 9 | Apache License 2.0 | 2020-03-04 | 2025-03-09 | 2023-10-13 |
@@ -220,14 +220,14 @@
 | [amazon-ec2-instance-selector](https://github.com/aws/amazon-ec2-instance-selector) | A CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory | Go | 908 | Apache License 2.0 | 2020-04-09 | 2025-07-18 | 2025-07-14 |
 | [amazon-sagemaker-clarify](https://github.com/aws/amazon-sagemaker-clarify) | Fairness Aware Machine Learning. Bias detection and mitigation for datasets and models. | Python | 71 | Apache License 2.0 | 2020-04-21 | 2025-07-16 | 2025-04-04 |
 | [amazon-chime-sdk-component-library-react](https://github.com/aws/amazon-chime-sdk-component-library-react) | Amazon Chime React Component Library with integrations with the Amazon Chime SDK. | TypeScript | 281 | Apache License 2.0 | 2020-05-05 | 2025-07-11 | 2025-07-11 |
-| [aws-lc](https://github.com/aws/aws-lc) | AWS-LC is a general-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers. It іs based on code from the Google BoringSSL project and the OpenSSL project. | Assembly | 574 | Other | 2020-05-14 | 2025-07-18 | 2025-07-18 |
+| [aws-lc](https://github.com/aws/aws-lc) | AWS-LC is a general-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers. It іs based on code from the Google BoringSSL project and the OpenSSL project. | Assembly | 575 | Other | 2020-05-14 | 2025-07-19 | 2025-07-18 |
 | [sagemaker-spark-container](https://github.com/aws/sagemaker-spark-container) | The SageMaker Spark Container is a Docker image used to run data processing workloads with the Spark framework on Amazon SageMaker. | Python | 38 | Apache License 2.0 | 2020-05-20 | 2025-06-23 | 2025-07-01 |
 | [aws-xray-dotnet-agent](https://github.com/aws/aws-xray-dotnet-agent) | The official AWS X-Ray Auto Instrumentation Agent for .Net. | C# | 23 | Apache License 2.0 | 2020-06-04 | 2024-12-19 | 2024-12-19 |
 | [aws-rfdk](https://github.com/aws/aws-rfdk) | The Render Farm Deployment Kit on AWS is a library for use with the AWS Cloud Development Kit that helps you define your render farm cloud infrastructure as code. | TypeScript | 113 | Apache License 2.0 | 2020-06-23 | 2025-07-18 | 2025-07-18 |
 | [s2n-quic](https://github.com/aws/s2n-quic) | An implementation of the IETF QUIC protocol | Rust | 1258 | Apache License 2.0 | 2020-06-25 | 2025-07-18 | 2025-07-18 |
 | [porting-assistant-dotnet-datastore](https://github.com/aws/porting-assistant-dotnet-datastore) | The 'Porting Assistant for .NET' is a standalone compatibility analyzer that helps customers to port their .NET Framework (“.NET”) applications to .NET Core on Linux. | C# | 58 | Apache License 2.0 | 2020-06-27 | 2024-11-07 | 2024-11-07 |
 | [ec2-spot-instances-integrations-roadmap](https://github.com/aws/ec2-spot-instances-integrations-roadmap) | None | None | 96 | Other | 2020-07-06 | 2025-05-02 | 2021-11-18 |
-| [karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) | Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity. | Go | 7371 | Apache License 2.0 | 2020-07-09 | 2025-07-18 | 2025-07-18 |
+| [karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) | Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity. | Go | 7372 | Apache License 2.0 | 2020-07-09 | 2025-07-20 | 2025-07-18 |
 | [homebrew-aws](https://github.com/aws/homebrew-aws) | Homebrew is a package manager for macOS which provides easy installation and update management of additional software. This Tap (repository) contains the Formulae that are used in the macOS AMI that AWS offers. | Ruby | 69 | Apache License 2.0 | 2020-07-16 | 2025-04-23 | 2025-04-23 |
 | [amazon-redshift-jdbc-driver](https://github.com/aws/amazon-redshift-jdbc-driver) | Redshift JDBC Driver. It supports JDBC 4.2 specification. | Java | 65 | Apache License 2.0 | 2020-07-25 | 2025-06-09 | 2025-05-29 |
 | [http-desync-guardian](https://github.com/aws/http-desync-guardian) | Analyze HTTP requests to minimize risks of HTTP Desync attacks (precursor for HTTP request smuggling/splitting).  | Rust | 266 | Apache License 2.0 | 2020-07-27 | 2025-07-15 | 2020-12-31 |
@@ -336,7 +336,7 @@
 | [aws-sdk-js-codemod](https://github.com/aws/aws-sdk-js-codemod) | Codemod scripts to update AWS SDK for JavaScript APIs. | TypeScript | 79 | MIT No Attribution | 2022-02-28 | 2025-07-04 | 2025-07-03 |
 | [firelens-datajet](https://github.com/aws/firelens-datajet) | Route test data to Fluent Bit flexibly | EJS | 7 | Apache License 2.0 | 2022-03-07 | 2025-05-16 | 2025-07-18 |
 | [pg_tle](https://github.com/aws/pg_tle) | Framework for building trusted language extensions for PostgreSQL | C | 379 | Apache License 2.0 | 2022-03-08 | 2025-07-17 | 2025-06-10 |
-| [amazon-ec2-spot-interrupter](https://github.com/aws/amazon-ec2-spot-interrupter) | The ec2-spot-interrupter is a simple CLI tool that triggers Amazon EC2 Spot Interruption Notifications and Rebalance Recommendations. | Go | 99 | Apache License 2.0 | 2022-03-14 | 2025-07-01 | 2023-12-07 |
+| [amazon-ec2-spot-interrupter](https://github.com/aws/amazon-ec2-spot-interrupter) | The ec2-spot-interrupter is a simple CLI tool that triggers Amazon EC2 Spot Interruption Notifications and Rebalance Recommendations. | Go | 100 | Apache License 2.0 | 2022-03-14 | 2025-07-19 | 2023-12-07 |
 | [aws-fpga-f1-u200](https://github.com/aws/aws-fpga-f1-u200) | None | VHDL | 6 | Other | 2022-04-07 | 2024-05-14 | 2022-06-23 |
 | [aws-mysql-odbc](https://github.com/aws/aws-mysql-odbc) | The Amazon Web Services (AWS) ODBC Driver for MySQL allows an application to take advantage of the features of clustered MySQL databases. It is based on and can be used as a drop-in compatible for the MySQL Connector/ODBC driver, and is compatible with all MySQL deployments. | C++ | 43 | Other | 2022-04-11 | 2025-05-24 | 2025-05-24 |
 | [amazon-redshift-odbc-driver](https://github.com/aws/amazon-redshift-odbc-driver) | None | C | 23 | Apache License 2.0 | 2022-04-28 | 2025-07-11 | 2025-07-11 |
@@ -372,7 +372,7 @@
 | [graph-explorer](https://github.com/aws/graph-explorer) | React-based web application that enables users to visualize both property graph and RDF data and explore connections between data without having to write graph queries.  | TypeScript | 382 | Apache License 2.0 | 2022-10-26 | 2025-07-18 | 2025-07-18 |
 | [selective-search-with-mutual-information-cotraining](https://github.com/aws/selective-search-with-mutual-information-cotraining) | None | Python | 5 | Apache License 2.0 | 2022-10-27 | 2025-07-08 | 2025-07-08 |
 | [aws-nitro-enclaves-k8s-device-plugin](https://github.com/aws/aws-nitro-enclaves-k8s-device-plugin) | Nitro Enclaves Kubernetes Device Plugin | Go | 25 | Apache License 2.0 | 2022-10-31 | 2025-04-28 | 2025-04-28 |
-| [aws-lc-rs](https://github.com/aws/aws-lc-rs) | aws-lc-rs is a cryptographic library using AWS-LC for its cryptographic operations. The library strives to be API-compatible with the popular Rust library named ring. | Rust | 455 | Other | 2022-11-01 | 2025-07-15 | 2025-07-15 |
+| [aws-lc-rs](https://github.com/aws/aws-lc-rs) | aws-lc-rs is a cryptographic library using AWS-LC for its cryptographic operations. The library strives to be API-compatible with the popular Rust library named ring. | Rust | 457 | Other | 2022-11-01 | 2025-07-19 | 2025-07-15 |
 | [aws-application-networking-k8s](https://github.com/aws/aws-application-networking-k8s) | A Kubernetes controller for Amazon VPC Lattice | Go | 216 | Apache License 2.0 | 2022-11-03 | 2025-07-16 | 2025-07-11 |
 | [aws-lambda-snapstart-java-rules](https://github.com/aws/aws-lambda-snapstart-java-rules) | None | Java | 52 | Apache License 2.0 | 2022-11-04 | 2025-05-03 | 2024-02-29 |
 | [thinkbox-cm-library](https://github.com/aws/thinkbox-cm-library) | None | CMake | 10 | Apache License 2.0 | 2022-11-14 | 2024-07-09 | 2022-11-15 |
@@ -399,15 +399,15 @@
 | [aws-ec2-imdsv2-get](https://github.com/aws/aws-ec2-imdsv2-get) | EC2 imds get tool to help with interfacing with IMDS on EC2 instances | Rust | 9 | Apache License 2.0 | 2023-01-19 | 2025-03-03 | 2025-01-10 |
 | [aws-parallelcluster-ui](https://github.com/aws/aws-parallelcluster-ui) | None | TypeScript | 32 | Apache License 2.0 | 2023-01-20 | 2025-07-18 | 2025-07-18 |
 | [neptune-export](https://github.com/aws/neptune-export) | None | Java | 14 | Apache License 2.0 | 2023-02-03 | 2025-06-16 | 2025-06-16 |
-| [jsii-compiler](https://github.com/aws/jsii-compiler) | The jsii compiler for TypeScript | TypeScript | 38 | Apache License 2.0 | 2023-02-07 | 2025-07-19 | 2025-07-19 |
-| [jsii-rosetta](https://github.com/aws/jsii-rosetta) | The jsii sample code transliterator | TypeScript | 25 | Apache License 2.0 | 2023-02-07 | 2025-07-19 | 2025-07-19 |
+| [jsii-compiler](https://github.com/aws/jsii-compiler) | The jsii compiler for TypeScript | TypeScript | 38 | Apache License 2.0 | 2023-02-07 | 2025-07-20 | 2025-07-20 |
+| [jsii-rosetta](https://github.com/aws/jsii-rosetta) | The jsii sample code transliterator | TypeScript | 25 | Apache License 2.0 | 2023-02-07 | 2025-07-20 | 2025-07-20 |
 | [dotnet-foss](https://github.com/aws/dotnet-foss) | None | None | 85 | MIT No Attribution | 2023-02-14 | 2025-06-15 | 2024-11-20 |
 | [redshift-test-drive](https://github.com/aws/redshift-test-drive) | None | Python | 15 | Apache License 2.0 | 2023-02-23 | 2025-06-17 | 2024-10-16 |
 | [awesome-redshift](https://github.com/aws/awesome-redshift) | None | None | 73 | - | 2023-03-06 | 2025-04-03 | 2023-06-08 |
 | [theroutingloop](https://github.com/aws/theroutingloop) | Code for Twitch The Routing Loop Site | HTML | 1 | Apache License 2.0 | 2023-03-08 | 2025-07-18 | 2025-07-18 |
 | [aws-imds-packet-analyzer](https://github.com/aws/aws-imds-packet-analyzer) | None | Python | 138 | Apache License 2.0 | 2023-03-13 | 2025-05-20 | 2025-03-05 |
 | [common-io-ble](https://github.com/aws/common-io-ble) | None | C | 4 | MIT License | 2023-04-04 | 2024-04-28 | 2024-09-03 |
-| [pgactive](https://github.com/aws/pgactive) | None | C | 966 | Apache License 2.0 | 2023-04-05 | 2025-07-19 | 2025-06-19 |
+| [pgactive](https://github.com/aws/pgactive) | None | C | 974 | Apache License 2.0 | 2023-04-05 | 2025-07-20 | 2025-06-19 |
 | [personalize-kafka-connector](https://github.com/aws/personalize-kafka-connector) | None | Java | 11 | Apache License 2.0 | 2023-04-07 | 2025-01-02 | 2023-08-30 |
 | [common-io-basic](https://github.com/aws/common-io-basic) | A basic set of I/O libraries for pins and serial communications on embedded devices. | C | 13 | MIT License | 2023-04-10 | 2025-05-31 | 2025-05-09 |
 | [neptune-gremlin-client](https://github.com/aws/neptune-gremlin-client) | A Java Gremlin client for Amazon Neptune that allows you to change the endpoints used by the client as it is running. | Java | 5 | Apache License 2.0 | 2023-04-19 | 2025-06-03 | 2025-06-03 |
@@ -441,7 +441,7 @@
 | [aws-s3-accessgrants-plugin-java-v2](https://github.com/aws/aws-s3-accessgrants-plugin-java-v2) | None | Java | 4 | Apache License 2.0 | 2023-10-04 | 2025-01-14 | 2024-10-23 |
 | [amazon-sagemaker-feedback](https://github.com/aws/amazon-sagemaker-feedback) | Amazon SageMaker Public Feedback Dashboard | None | 7 | Creative Commons Attribution Share Alike 4.0 International | 2023-10-16 | 2025-02-26 | 2024-06-07 |
 | [aws-s3-accessgrants-plugin-java-v1](https://github.com/aws/aws-s3-accessgrants-plugin-java-v1) | None | Java | 1 | Apache License 2.0 | 2023-10-19 | 2024-10-01 | 2024-10-01 |
-| [res](https://github.com/aws/res) | Research and Engineering Studio (RES) is an AWS supported open source product that enables IT administrators to provide an easy-to-use web portal for scientists and engineers to run technical computing workloads on AWS. | Python | 97 | Apache License 2.0 | 2023-10-20 | 2025-07-18 | 2025-07-18 |
+| [res](https://github.com/aws/res) | Research and Engineering Studio (RES) is an AWS supported open source product that enables IT administrators to provide an easy-to-use web portal for scientists and engineers to run technical computing workloads on AWS. | Python | 98 | Apache License 2.0 | 2023-10-20 | 2025-07-19 | 2025-07-18 |
 | [iot-expresslink-plant-reference](https://github.com/aws/iot-expresslink-plant-reference) | None | JavaScript | 3 | MIT No Attribution | 2023-10-30 | 2025-04-29 | 2025-04-29 |
 | [amazon-inspector-container-image-scanner-jenkins-plugin](https://github.com/aws/amazon-inspector-container-image-scanner-jenkins-plugin) | None | Java | 6 | Apache License 2.0 | 2023-11-01 | 2025-07-17 | 2025-07-17 |
 | [amazon-inspector-container-image-scanner-teamcity-plugin](https://github.com/aws/amazon-inspector-container-image-scanner-teamcity-plugin) | None | Java | 2 | - | 2023-11-01 | 2025-03-20 | 2025-03-20 |
@@ -470,8 +470,8 @@
 | [sagemaker-hyperpod-cli](https://github.com/aws/sagemaker-hyperpod-cli) |  A CLI tool that helps manage training jobs on the SageMaker HyperPod clusters orchestrated by Amazon EKS | Python | 27 | Apache License 2.0 | 2024-08-13 | 2025-07-18 | 2025-07-18 |
 | [device-storelibrary-cpp](https://github.com/aws/device-storelibrary-cpp) | The device-storelibrary-cpp Stream Store and KV Store encapsulate best practices for reliable data persistence including handling all types of data corruption that happens to edge devices. The database also provides simple primitives enabling reliable data upload by offering persistent iterators to track what is successfully uploaded or not. | C++ | 4 | Apache License 2.0 | 2024-08-13 | 2025-01-21 | 2024-09-24 |
 | [amazon-q-eclipse](https://github.com/aws/amazon-q-eclipse) | Amazon Q for Eclipse | Java | 18 | Apache License 2.0 | 2024-08-29 | 2025-07-17 | 2025-07-17 |
-| [amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) | ✨ Agentic chat experience in your terminal. Build applications using natural language. | Rust | 1226 | Apache License 2.0 | 2024-09-23 | 2025-07-18 | 2025-07-18 |
-| [aws-cdk-cli](https://github.com/aws/aws-cdk-cli) | AWS CDK Toolkit | TypeScript | 69 | Apache License 2.0 | 2024-09-27 | 2025-07-18 | 2025-07-18 |
+| [amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) | ✨ Agentic chat experience in your terminal. Build applications using natural language. | Rust | 1231 | Apache License 2.0 | 2024-09-23 | 2025-07-20 | 2025-07-18 |
+| [aws-cdk-cli](https://github.com/aws/aws-cdk-cli) | AWS CDK Toolkit | TypeScript | 69 | Apache License 2.0 | 2024-09-27 | 2025-07-19 | 2025-07-19 |
 | [aws-cdk-cli-testing](https://github.com/aws/aws-cdk-cli-testing) | Tests for the AWS CDK CLI | TypeScript | 8 | Apache License 2.0 | 2024-10-01 | 2025-07-15 | 2025-04-22 |
 | [limitless-compatibility-assessment-tool](https://github.com/aws/limitless-compatibility-assessment-tool) | Limitless Compatibility Assessment Tool is a compatibility assessment tool for AWS Aurora PostgreSQL Limitless Database | Java | 2 | - | 2024-10-01 | 2025-01-07 | 2025-02-10 |
 | [aws-rds-odbc](https://github.com/aws/aws-rds-odbc) | The Amazon Web Services (AWS) RDS Library for ODBC drivers allow the Amazon Web Services (AWS) ODBC drivers to take advantage of AWS RDS functionality inside an Amazon Aurora database (DB) cluster. | C++ | 1 | Apache License 2.0 | 2024-10-24 | 2025-05-22 | 2025-05-22 |
@@ -484,7 +484,7 @@
 | [aws-actionmailbox-ses-ruby](https://github.com/aws/aws-actionmailbox-ses-ruby) | None | Ruby | 6 | Apache License 2.0 | 2024-11-11 | 2025-07-08 | 2025-06-04 |
 | [aws-activejob-sqs-ruby](https://github.com/aws/aws-activejob-sqs-ruby) | None | Ruby | 29 | Apache License 2.0 | 2024-11-11 | 2025-06-18 | 2025-06-04 |
 | [aws-actiondispatch-dynamodb-ruby](https://github.com/aws/aws-actiondispatch-dynamodb-ruby) | None | Ruby | 3 | Apache License 2.0 | 2024-11-11 | 2025-05-28 | 2025-05-28 |
-| [jsii-superchain](https://github.com/aws/jsii-superchain) | A debian-based Docker image bundling all the SDKs and tools required in order to package jsii projects in all supported languages. | Dockerfile | 0 | Apache License 2.0 | 2024-11-12 | 2025-07-15 | 2025-07-17 |
+| [jsii-superchain](https://github.com/aws/jsii-superchain) | A debian-based Docker image bundling all the SDKs and tools required in order to package jsii projects in all supported languages. | Dockerfile | 0 | Apache License 2.0 | 2024-11-12 | 2025-07-15 | 2025-07-20 |
 | [aws-iot-device-sdk-swift](https://github.com/aws/aws-iot-device-sdk-swift) | None | Swift | 5 | Apache License 2.0 | 2024-11-15 | 2025-07-14 | 2025-07-15 |
 | [Unified-Studio-for-Amazon-Sagemaker](https://github.com/aws/Unified-Studio-for-Amazon-Sagemaker) | None | Python | 30 | MIT No Attribution | 2024-11-16 | 2025-07-10 | 2025-06-18 |
 | [network-flow-monitor-agent](https://github.com/aws/network-flow-monitor-agent) | Amazon CloudWatch Network Monitoring - Network Flow Monitor agent repository | Rust | 10 | Apache License 2.0 | 2024-11-27 | 2025-07-18 | 2025-07-18 |
@@ -495,7 +495,7 @@
 | [eks-node-monitoring-agent](https://github.com/aws/eks-node-monitoring-agent) | None | Mustache | 7 | Apache License 2.0 | 2025-02-13 | 2025-07-15 | 2025-06-18 |
 | [aws-dax-go-v2](https://github.com/aws/aws-dax-go-v2) | AWS DAX SDK for the Go programming language. https://aws.amazon.com/dynamodb/dax | Go | 6 | Apache License 2.0 | 2025-02-17 | 2025-05-20 | 2025-03-17 |
 | [amazon-cloudwatch-agent-selinux](https://github.com/aws/amazon-cloudwatch-agent-selinux) | None | Shell | 4 | GNU General Public License v2.0 | 2025-03-03 | 2025-05-01 | 2025-06-16 |
-| [nova-act](https://github.com/aws/nova-act) | Amazon Nova Act is a research preview of a new AI model for developers to build agents that take actions in web browsers | Python | 734 | Apache License 2.0 | 2025-03-10 | 2025-07-18 | 2025-07-16 |
+| [nova-act](https://github.com/aws/nova-act) | Amazon Nova Act is a research preview of a new AI model for developers to build agents that take actions in web browsers | Python | 735 | Apache License 2.0 | 2025-03-10 | 2025-07-19 | 2025-07-16 |
 | [aws-fpga-resources](https://github.com/aws/aws-fpga-resources) | None | None | 0 | Apache License 2.0 | 2025-03-14 | 2025-05-08 | 2025-05-14 |
 | [modern-data-architecture-accelerator](https://github.com/aws/modern-data-architecture-accelerator) | None | TypeScript | 18 | Apache License 2.0 | 2025-04-09 | 2025-07-02 | 2025-06-10 |
 | [aws-cloudwatch-synthetics-sdk-java](https://github.com/aws/aws-cloudwatch-synthetics-sdk-java) | The official AWS Cloudwatch Synthetics SDK for Java runtime based canaries. | Java | 0 | Apache License 2.0 | 2025-04-25 | 2025-05-20 | 2025-05-19 |
@@ -505,6 +505,6 @@
 | [aws-bedrock-token-generator-python](https://github.com/aws/aws-bedrock-token-generator-python) | None | Python | 2 | Other | 2025-06-19 | 2025-07-17 | 2025-07-03 |
 | [aws-bedrock-token-generator-java](https://github.com/aws/aws-bedrock-token-generator-java) | None | Java | 0 | Apache License 2.0 | 2025-06-23 | 2025-07-03 | 2025-07-03 |
 | [aws-bedrock-token-generator-js](https://github.com/aws/aws-bedrock-token-generator-js) | None | TypeScript | 0 | Apache License 2.0 | 2025-06-23 | 2025-07-03 | 2025-06-30 |
-| [nova-prompt-optimizer](https://github.com/aws/nova-prompt-optimizer) | A Python SDK for optimizing prompts for Amazon Nova Models. | Python | 20 | Apache License 2.0 | 2025-06-25 | 2025-07-19 | 2025-07-16 |
-| [bedrock-agentcore-sdk-python](https://github.com/aws/bedrock-agentcore-sdk-python) | Python SDK for transforming any AI agent into a production-ready application. Framework-agnostic primitives for runtime, memory, authentication, and tools with AWS-managed infrastructure. | Python | 27 | Apache License 2.0 | 2025-07-07 | 2025-07-19 | 2025-07-18 |
-| [bedrock-agentcore-starter-toolkit](https://github.com/aws/bedrock-agentcore-starter-toolkit) | CLI toolkit for deploying AI agents to Amazon Bedrock AgentCore. Zero infrastructure management with built-in gateway and memory integrations. | Python | 19 | Apache License 2.0 | 2025-07-12 | 2025-07-18 | 2025-07-18 |
+| [nova-prompt-optimizer](https://github.com/aws/nova-prompt-optimizer) | A Python SDK for optimizing prompts for Amazon Nova Models. | Python | 21 | Apache License 2.0 | 2025-06-25 | 2025-07-20 | 2025-07-16 |
+| [bedrock-agentcore-sdk-python](https://github.com/aws/bedrock-agentcore-sdk-python) | Python SDK for transforming any AI agent into a production-ready application. Framework-agnostic primitives for runtime, memory, authentication, and tools with AWS-managed infrastructure. | Python | 34 | Apache License 2.0 | 2025-07-07 | 2025-07-20 | 2025-07-18 |
+| [bedrock-agentcore-starter-toolkit](https://github.com/aws/bedrock-agentcore-starter-toolkit) | CLI toolkit for deploying AI agents to Amazon Bedrock AgentCore. Zero infrastructure management with built-in gateway and memory integrations. | Python | 26 | Apache License 2.0 | 2025-07-12 | 2025-07-20 | 2025-07-18 |
