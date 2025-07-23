@@ -1,10 +1,10 @@
 # X
 
-共 101 个项目，近半年内活跃项目 9 个，1 个团队， 205653 个 Star。
+共 101 个项目，近半年内活跃项目 9 个，1 个团队， 205656 个 Star。
 
 语言 Top 3：Scala, Java, Python
 
-统计时间：2025-07-22 08:09:50
+统计时间：2025-07-23 08:10:08
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -52,9 +52,9 @@
 | [wordpress](https://github.com/twitter/wordpress) | The official Twitter plugin for WordPress. Embed Twitter content and grow your audience on Twitter. | PHP | 332 | MIT License | 2014-10-20 | 2025-07-16 | 2022-04-06 |
 | [BreakoutDetection](https://github.com/twitter/BreakoutDetection) | Breakout Detection via Robust E-Statistics | C++ | 759 | GNU General Public License v2.0 | 2014-10-24 | 2025-06-03 | 2017-08-15 |
 | [twitter-korean-text](https://github.com/twitter/twitter-korean-text) | Korean tokenizer | Scala | 860 | Apache License 2.0 | 2014-10-29 | 2025-07-10 | 2023-04-10 |
-| [twemoji](https://github.com/twitter/twemoji) | Emoji for everyone. https://twemoji.twitter.com/ | HTML | 17130 | MIT License | 2014-11-06 | 2025-07-19 | 2024-08-16 |
-| [twitter-text](https://github.com/twitter/twitter-text) | Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform. | HTML | 3109 | Apache License 2.0 | 2014-12-03 | 2025-07-14 | 2024-04-26 |
-| [AnomalyDetection](https://github.com/twitter/AnomalyDetection) | Anomaly Detection with R | R | 3601 | GNU General Public License v3.0 | 2014-12-09 | 2025-07-19 | 2019-08-30 |
+| [twemoji](https://github.com/twitter/twemoji) | Emoji for everyone. https://twemoji.twitter.com/ | HTML | 17133 | MIT License | 2014-11-06 | 2025-07-22 | 2024-08-16 |
+| [twitter-text](https://github.com/twitter/twitter-text) | Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform. | HTML | 3110 | Apache License 2.0 | 2014-12-03 | 2025-07-22 | 2024-04-26 |
+| [AnomalyDetection](https://github.com/twitter/AnomalyDetection) | Anomaly Detection with R | R | 3603 | GNU General Public License v3.0 | 2014-12-09 | 2025-07-23 | 2019-08-30 |
 | [d3kit](https://github.com/twitter/d3kit) | D3Kit is a set tools to speed D3 related project development | JavaScript | 429 | MIT License | 2015-01-10 | 2025-07-21 | 2021-11-01 |
 | [pants](https://github.com/twitter/pants) | Pants Build System | Python | 87 | Apache License 2.0 | 2015-01-15 | 2025-01-08 | 2023-08-05 |
 | [sslconfig](https://github.com/twitter/sslconfig) | Twitter's OpenSSL Configuration | None | 44 | MIT License | 2015-03-05 | 2025-06-01 | 2021-10-08 |
@@ -86,7 +86,7 @@
 | [twemoji-parser](https://github.com/twitter/twemoji-parser) | A simple library for identifying emoji entities within a string in order to render them as Twemoji. | Scala | 171 | MIT License | 2018-10-02 | 2025-07-11 | 2024-04-22 |
 | [gpl-commitment](https://github.com/twitter/gpl-commitment) | Twitter's GPL Cooperation Commitment | None | 7 | - | 2018-10-26 | 2025-01-08 | 2021-07-13 |
 | [sqrl](https://github.com/twitter/sqrl) | A Safe, Stateful Rules Language for Event Streams | TypeScript | 98 | Apache License 2.0 | 2018-12-06 | 2025-01-08 | 2023-04-10 |
-| [rezolus](https://github.com/twitter/rezolus) | Systems performance telemetry | Rust | 1584 | Apache License 2.0 | 2019-04-01 | 2025-07-11 | 2023-05-01 |
+| [rezolus](https://github.com/twitter/rezolus) | Systems performance telemetry | Rust | 1583 | Apache License 2.0 | 2019-04-01 | 2025-07-22 | 2023-05-01 |
 | [curation-style-guide](https://github.com/twitter/curation-style-guide) | Document Repository for Twitter's Curation Style Guide | None | 12 | - | 2019-05-31 | 2025-01-08 | 2019-06-20 |
 | [.github](https://github.com/twitter/.github) | Twitter GitHub Organization-wide files | None | 59 | - | 2019-06-13 | 2025-06-19 | 2024-02-09 |
 | [rustcommon](https://github.com/twitter/rustcommon) | Common Twitter Rust lib | Rust | 339 | Apache License 2.0 | 2019-11-25 | 2025-07-18 | 2022-10-19 |
@@ -106,6 +106,6 @@
 | [diffusion-rl](https://github.com/twitter/diffusion-rl) | None | Python | 78 | Apache License 2.0 | 2022-08-09 | 2025-06-25 | 2022-12-09 |
 | [focus](https://github.com/twitter/focus) | Focus aligns Git worktree content based on outlines of a repository's Bazel build graph. Focused repos are sparse, shallow, and thin and unlock markedly better performance in large repos. | Rust | 107 | Apache License 2.0 | 2022-08-30 | 2025-07-21 | 2023-05-12 |
 | [birdwatch](https://github.com/twitter/birdwatch) | None | None | 67 | - | 2022-11-06 | 2025-04-07 | 2023-04-03 |
-| [the-algorithm](https://github.com/twitter/the-algorithm) | Source code for Twitter's Recommendation Algorithm | Scala | 63423 | GNU Affero General Public License v3.0 | 2023-03-27 | 2025-07-22 | 2024-07-10 |
-| [the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) | Source code for Twitter's Recommendation Algorithm | Python | 10301 | GNU Affero General Public License v3.0 | 2023-03-27 | 2025-07-21 | 2024-07-10 |
+| [the-algorithm](https://github.com/twitter/the-algorithm) | Source code for Twitter's Recommendation Algorithm | Scala | 63423 | GNU Affero General Public License v3.0 | 2023-03-27 | 2025-07-23 | 2024-07-10 |
+| [the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) | Source code for Twitter's Recommendation Algorithm | Python | 10299 | GNU Affero General Public License v3.0 | 2023-03-27 | 2025-07-23 | 2024-07-10 |
 | [stitch](https://github.com/twitter/stitch) | None | Scala | 111 | Apache License 2.0 | 2024-11-05 | 2025-06-18 | 2024-11-07 |
