@@ -1,22 +1,22 @@
 # Sony
 
-A total of 109 projects, 54 active projects in the last six months, 1 teams, and 16812 stars.
+A total of 109 projects, 54 active projects in the last six months, 1 teams, and 16817 stars.
 
 Top 3 Languages: Python, JavaScript, Jupyter Notebook
 
-Statistics Date: 2025-07-26 08:08:22
+Statistics Date: 2025-07-27 08:08:48
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3256 | MIT License | 2015-05-29 | 2025-07-24 | 2025-07-05 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4187 | MIT License | 2015-05-29 | 2025-07-26 | 2025-07-05 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4188 | MIT License | 2015-05-29 | 2025-07-26 | 2025-07-05 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 413 | MIT License | 2015-09-18 | 2025-06-24 | 2020-12-29 |
 | [cdn-purge-control-php](https://github.com/sony/cdn-purge-control-php) | Multi CDN purge control library for PHP | PHP | 8 | MIT License | 2016-01-06 | 2023-04-07 | 2016-10-06 |
 | [huis-ui-creator](https://github.com/sony/huis-ui-creator) | None | JavaScript | 38 | Apache License 2.0 | 2016-02-02 | 2025-07-11 | 2024-07-02 |
 | [node-win-usbdev](https://github.com/sony/node-win-usbdev) | None | C++ | 3 | Apache License 2.0 | 2016-02-02 | 2023-03-29 | 2018-02-16 |
-| [pdaf-library](https://github.com/sony/pdaf-library) | None | C | 33 | BSD 3-Clause "New" or "Revised" License | 2016-03-25 | 2025-04-27 | 2016-03-28 |
+| [pdaf-library](https://github.com/sony/pdaf-library) | None | C | 34 | BSD 3-Clause "New" or "Revised" License | 2016-03-25 | 2025-07-26 | 2016-03-28 |
 | [smarttennissensormp4meta](https://github.com/sony/smarttennissensormp4meta) | None | Java | 4 | Apache License 2.0 | 2016-08-30 | 2022-03-12 | 2016-09-28 |
 | [smarttennissensorsdk](https://github.com/sony/smarttennissensorsdk) | The Smart Tennis Sensor plugs into the end of a tennis racket and records data about all the shots you make throughout a game or practice. With the SDK, you can develop apps for analyzing and presenting that data in real-time. | Java | 8 | Apache License 2.0 | 2016-08-30 | 2024-07-29 | 2017-02-10 |
 | [openocd-nuttx](https://github.com/sony/openocd-nuttx) | Fork of OpenOCD with NuttX thread support. | C | 24 | GNU General Public License v2.0 | 2016-10-18 | 2024-06-08 | 2019-01-21 |
@@ -36,7 +36,7 @@ Statistics Date: 2025-07-26 08:08:22
 | [nnabla-dataset-uploader](https://github.com/sony/nnabla-dataset-uploader) | None | Python | 0 | - | 2019-02-26 | 2019-03-15 | 2019-03-15 |
 | [appsync-client-go](https://github.com/sony/appsync-client-go) | AWS AppSync golang client library | Go | 54 | MIT License | 2019-03-16 | 2025-04-29 | 2025-04-29 |
 | [isren](https://github.com/sony/isren) | None | JavaScript | 8 | MIT License | 2020-01-07 | 2023-01-12 | 2021-05-17 |
-| [ai-research-code](https://github.com/sony/ai-research-code) | None | Python | 355 | Apache License 2.0 | 2020-04-14 | 2025-07-09 | 2023-09-12 |
+| [ai-research-code](https://github.com/sony/ai-research-code) | None | Python | 356 | Apache License 2.0 | 2020-04-14 | 2025-07-26 | 2023-09-12 |
 | [nnabla-nas](https://github.com/sony/nnabla-nas) | Neural Architecture Search for Neural Network Libraries | Python | 60 | Apache License 2.0 | 2020-06-15 | 2025-07-14 | 2024-01-22 |
 | [micro-notifier](https://github.com/sony/micro-notifier) | Simplified Pusher Clone | Go | 13 | MIT License | 2020-09-06 | 2025-07-06 | 2025-07-06 |
 | [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1294 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2025-07-22 | 2025-07-25 |
@@ -82,7 +82,7 @@ Statistics Date: 2025-07-26 08:08:22
 | [silentcipher](https://github.com/sony/silentcipher) | None | Python | 61 | MIT License | 2024-06-05 | 2025-07-11 | 2024-07-22 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 15 | MIT License | 2024-07-09 | 2025-06-29 | 2025-06-09 |
 | [genwarp](https://github.com/sony/genwarp) | None | Python | 285 | MIT License | 2024-08-06 | 2025-07-25 | 2024-09-26 |
-| [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 48 | MIT License | 2024-09-05 | 2025-07-24 | 2024-11-05 |
+| [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 49 | MIT License | 2024-09-05 | 2025-07-26 | 2024-11-05 |
 | [esstra](https://github.com/sony/esstra) | A software suite for enhancing software supply chain transparency | Python | 18 | Other | 2024-10-03 | 2025-07-24 | 2025-07-24 |
 | [pagoda](https://github.com/sony/pagoda) | None | Python | 20 | MIT License | 2024-10-23 | 2025-06-19 | 2024-11-21 |
 | [okg](https://github.com/sony/okg) | Official Repo for The Paper "OKG: On-the-fly Keyword Generation in Search Sponsered Advertising" (Coling'25) | Jupyter Notebook | 5 | Other | 2024-11-15 | 2025-07-16 | 2025-02-14 |
@@ -116,4 +116,4 @@ Statistics Date: 2025-07-26 08:08:22
 | [NeISFpp](https://github.com/sony/NeISFpp) | None | Python | 1 | Other | 2025-06-09 | 2025-07-25 | 2025-07-25 |
 | [BannerAgency](https://github.com/sony/BannerAgency) |  The official repo for BannerAgency: Advertising Banner Design with Multimodal LLM Agents | Python | 0 | - | 2025-07-01 | 2025-07-24 | 2025-07-01 |
 | [tool-use-few-shot-transfer](https://github.com/sony/tool-use-few-shot-transfer) | None | HTML | 0 | - | 2025-07-14 | 2025-07-16 | 2025-07-16 |
-| [DeepResonance](https://github.com/sony/DeepResonance) | None | Python | 0 | MIT License | 2025-07-15 | 2025-07-16 | 2025-07-15 |
+| [DeepResonance](https://github.com/sony/DeepResonance) | None | Python | 1 | MIT License | 2025-07-15 | 2025-07-26 | 2025-07-15 |

@@ -1,16 +1,16 @@
 # X
 
-A total of 101 projects, 9 active projects in the last six months, 1 teams, and 205694 stars.
+A total of 101 projects, 9 active projects in the last six months, 1 teams, and 205697 stars.
 
 Top 3 Languages: Scala, Java, Python
 
-Statistics Date: 2025-07-26 08:08:22
+Statistics Date: 2025-07-27 08:08:48
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [hadoop-lzo](https://github.com/twitter/hadoop-lzo) | Refactored version of code.google.com/hadoop-gpl-compression for hadoop 0.20 | Shell | 552 | GNU General Public License v3.0 | 2009-09-21 | 2025-07-15 | 2024-04-24 |
 | [thrift_client](https://github.com/twitter/thrift_client) | A Thrift client wrapper that encapsulates some common failover behavior | Ruby | 198 | Apache License 2.0 | 2009-10-02 | 2025-02-10 | 2019-06-06 |
-| [twurl](https://github.com/twitter/twurl) | OAuth-enabled curl for the Twitter API | Ruby | 1803 | MIT License | 2009-10-18 | 2025-07-04 | 2023-07-20 |
+| [twurl](https://github.com/twitter/twurl) | OAuth-enabled curl for the Twitter API | Ruby | 1802 | MIT License | 2009-10-18 | 2025-07-27 | 2023-07-20 |
 | [elephant-bird](https://github.com/twitter/elephant-bird) | Twitter's collection of LZO and Protocol Buffer-related Hadoop, Pig, Hive, and HBase code. | Java | 1136 | Apache License 2.0 | 2010-03-25 | 2025-06-10 | 2023-04-10 |
 | [scala_school](https://github.com/twitter/scala_school) | Lessons in the Fundamentals of Scala | HTML | 3712 | Apache License 2.0 | 2010-09-08 | 2025-07-18 | 2023-04-10 |
 | [finagle](https://github.com/twitter/finagle) | A fault tolerant, protocol-agnostic RPC system | Scala | 8832 | Apache License 2.0 | 2010-10-19 | 2025-07-24 | 2025-06-05 |
@@ -106,6 +106,6 @@ Statistics Date: 2025-07-26 08:08:22
 | [diffusion-rl](https://github.com/twitter/diffusion-rl) | None | Python | 78 | Apache License 2.0 | 2022-08-09 | 2025-06-25 | 2022-12-09 |
 | [focus](https://github.com/twitter/focus) | Focus aligns Git worktree content based on outlines of a repository's Bazel build graph. Focused repos are sparse, shallow, and thin and unlock markedly better performance in large repos. | Rust | 107 | Apache License 2.0 | 2022-08-30 | 2025-07-21 | 2023-05-12 |
 | [birdwatch](https://github.com/twitter/birdwatch) | None | None | 67 | - | 2022-11-06 | 2025-04-07 | 2023-04-03 |
-| [the-algorithm](https://github.com/twitter/the-algorithm) | Source code for Twitter's Recommendation Algorithm | Scala | 63437 | GNU Affero General Public License v3.0 | 2023-03-27 | 2025-07-26 | 2024-07-10 |
-| [the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) | Source code for Twitter's Recommendation Algorithm | Python | 10304 | GNU Affero General Public License v3.0 | 2023-03-27 | 2025-07-26 | 2024-07-10 |
+| [the-algorithm](https://github.com/twitter/the-algorithm) | Source code for Twitter's Recommendation Algorithm | Scala | 63439 | GNU Affero General Public License v3.0 | 2023-03-27 | 2025-07-27 | 2024-07-10 |
+| [the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) | Source code for Twitter's Recommendation Algorithm | Python | 10306 | GNU Affero General Public License v3.0 | 2023-03-27 | 2025-07-26 | 2024-07-10 |
 | [stitch](https://github.com/twitter/stitch) | None | Scala | 112 | Apache License 2.0 | 2024-11-05 | 2025-07-23 | 2024-11-07 |
