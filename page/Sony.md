@@ -1,15 +1,15 @@
 # Sony
 
-共 110 个项目，近半年内活跃项目 55 个，1 个团队， 16852 个 Star。
+共 110 个项目，近半年内活跃项目 53 个，1 个团队， 16855 个 Star。
 
 语言 Top 3：Python, JavaScript, Jupyter Notebook
 
-统计时间：2025-08-02 08:08:49
+统计时间：2025-08-03 08:08:48
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3260 | MIT License | 2015-05-29 | 2025-07-30 | 2025-07-05 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4194 | MIT License | 2015-05-29 | 2025-08-01 | 2025-07-05 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3261 | MIT License | 2015-05-29 | 2025-08-03 | 2025-07-05 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4195 | MIT License | 2015-05-29 | 2025-08-02 | 2025-07-05 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 413 | MIT License | 2015-09-18 | 2025-06-24 | 2020-12-29 |
@@ -79,7 +79,7 @@
 | [NeISF](https://github.com/sony/NeISF) | None | Python | 18 | Other | 2024-06-04 | 2025-07-05 | 2025-05-15 |
 | [nnc-desktop](https://github.com/sony/nnc-desktop) | None | TypeScript | 21 | Apache License 2.0 | 2024-06-04 | 2025-07-25 | 2025-06-30 |
 | [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 97 | MIT License | 2024-06-04 | 2025-07-02 | 2025-03-31 |
-| [silentcipher](https://github.com/sony/silentcipher) | None | Python | 61 | MIT License | 2024-06-05 | 2025-07-11 | 2024-07-22 |
+| [silentcipher](https://github.com/sony/silentcipher) | None | Python | 62 | MIT License | 2024-06-05 | 2025-08-03 | 2024-07-22 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 15 | MIT License | 2024-07-09 | 2025-06-29 | 2025-06-09 |
 | [genwarp](https://github.com/sony/genwarp) | None | Python | 286 | MIT License | 2024-08-06 | 2025-07-27 | 2024-09-26 |
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 51 | MIT License | 2024-09-05 | 2025-08-01 | 2024-11-05 |
