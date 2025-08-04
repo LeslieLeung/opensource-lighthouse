@@ -1,10 +1,10 @@
 # Apple
 
-A total of 929 projects, 295 active projects in the last six months, 6 teams, and 416313 stars.
+A total of 929 projects, 295 active projects in the last six months, 6 teams, and 416440 stars.
 
 Top 3 Languages: C, C++, Python
 
-Statistics Date: 2025-08-03 08:08:48
+Statistics Date: 2025-08-04 08:10:29
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -19,13 +19,13 @@ Statistics Date: 2025-08-03 08:08:48
 | [SageResearch](https://github.com/ResearchKit/SageResearch) | None | Swift | 24 | BSD 3-Clause "New" or "Revised" License | 2017-12-11 | 2025-03-03 | 2024-01-12 |
 | [WebKit-http](https://github.com/WebKit/WebKit-http) | Deprecated unofficial http mirror of the WebKit SVN repository | None | 4992 | - | 2011-01-11 | 2025-07-17 | 2022-02-10 |
 | [explainers](https://github.com/WebKit/explainers) | Explainers from WebKit contributors | JavaScript | 385 | - | 2020-01-11 | 2025-07-21 | 2025-06-06 |
-| [WebKit](https://github.com/WebKit/WebKit) | Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux. | JavaScript | 8864 | - | 2020-12-11 | 2025-08-03 | 2025-08-03 |
+| [WebKit](https://github.com/WebKit/WebKit) | Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux. | JavaScript | 8865 | - | 2020-12-11 | 2025-08-04 | 2025-08-04 |
 | [Speedometer](https://github.com/WebKit/Speedometer) | An open source repository for the Speedometer benchmark | JavaScript | 664 | Other | 2022-06-02 | 2025-07-30 | 2025-07-30 |
 | [standards-positions](https://github.com/WebKit/standards-positions) | WebKit's positions on emerging web specifications | Python | 288 | - | 2022-06-28 | 2025-08-01 | 2025-06-05 |
 | [Documentation](https://github.com/WebKit/Documentation) | Documentation for the WebKit project, hosted at https://docs.webkit.org. | None | 74 | - | 2022-09-16 | 2025-07-28 | 2025-07-16 |
 | [MotionMark](https://github.com/WebKit/MotionMark) | MotionMark Browser Benchmark | JavaScript | 46 | Other | 2023-05-18 | 2025-07-24 | 2025-03-18 |
 | [JetStream](https://github.com/WebKit/JetStream) | An open source repository for the JetStream benchmark | JavaScript | 10 | Other | 2024-10-30 | 2025-07-31 | 2025-07-31 |
-| [cups](https://github.com/apple/cups) | Apple CUPS Sources | C | 2061 | Apache License 2.0 | 2015-10-12 | 2025-08-01 | 2024-07-12 |
+| [cups](https://github.com/apple/cups) | Apple CUPS Sources | C | 2062 | Apache License 2.0 | 2015-10-12 | 2025-08-03 | 2024-07-12 |
 | [swift-lldb](https://github.com/apple/swift-lldb) | This is the version of LLDB that supports the Swift programming language & REPL. | C++ | 673 | Other | 2015-10-23 | 2025-07-27 | 2020-01-08 |
 | [swift-llvm](https://github.com/apple/swift-llvm) | None | LLVM | 816 | Other | 2015-11-02 | 2025-07-06 | 2019-11-12 |
 | [swift-clang](https://github.com/apple/swift-clang) | None | C++ | 670 | Other | 2015-11-02 | 2025-07-20 | 2019-11-10 |
@@ -34,7 +34,7 @@ Statistics Date: 2025-08-03 08:08:48
 | [swift-internals](https://github.com/apple/swift-internals) | None | HTML | 182 | Other | 2016-01-21 | 2025-06-30 | 2022-06-10 |
 | [fstools](https://github.com/apple/fstools) | The Filesystem Tools project is a place where the Apple filesystem teams will be publishing some of the tools we use to test the filesystems that are part of macOS. These tools will be useful to developers who are writing new macOS filesystems, or testing macOS network filesystems against their servers. | C | 63 | Other | 2016-01-25 | 2025-06-18 | 2016-09-14 |
 | [swift-compiler-rt](https://github.com/apple/swift-compiler-rt) | None | C | 98 | Other | 2016-01-27 | 2025-06-30 | 2019-10-25 |
-| [swift-xcode-playground-support](https://github.com/apple/swift-xcode-playground-support) | Logging and communication to allow Swift toolchains to communicate with Xcode. | Swift | 304 | Apache License 2.0 | 2016-05-11 | 2025-08-02 | 2025-08-02 |
+| [swift-xcode-playground-support](https://github.com/apple/swift-xcode-playground-support) | Logging and communication to allow Swift toolchains to communicate with Xcode. | Swift | 304 | Apache License 2.0 | 2016-05-11 | 2025-08-02 | 2025-08-03 |
 | [ccs-caldavclientlibrary](https://github.com/apple/ccs-caldavclientlibrary) | CalDAV/CardDAV Testing Tool Used by CalendarServer | HTML | 42 | Apache License 2.0 | 2016-08-04 | 2025-06-30 | 2024-02-24 |
 | [ccs-caldavtester](https://github.com/apple/ccs-caldavtester) | CalDAV/CardDAV Testing Framework used by CalendarServer | Python | 56 | Apache License 2.0 | 2016-08-04 | 2025-06-30 | 2024-02-24 |
 | [ccs-calendarserver](https://github.com/apple/ccs-calendarserver) | The Calendar and Contacts Server. | Python | 497 | Apache License 2.0 | 2016-08-04 | 2025-07-10 | 2020-02-12 |
@@ -44,25 +44,25 @@ Statistics Date: 2025-08-03 08:08:48
 | [ccs-pyopendirectory](https://github.com/apple/ccs-pyopendirectory) | Python OpenDirectory library used by CalendarServer | C++ | 21 | Apache License 2.0 | 2016-08-04 | 2025-06-30 | 2018-11-03 |
 | [ccs-pysecuretransport](https://github.com/apple/ccs-pysecuretransport) | Twisted SecureTransport library used by CalendarServer | Python | 21 | Apache License 2.0 | 2016-08-04 | 2025-06-30 | 2017-02-27 |
 | [ccs-twistedextensions](https://github.com/apple/ccs-twistedextensions) | Extensions to Twisted used by CalendarServer | Python | 17 | Apache License 2.0 | 2016-08-04 | 2025-06-30 | 2019-05-08 |
-| [swift-protobuf](https://github.com/apple/swift-protobuf) | Plugin and runtime library for using protobuf with Swift | Swift | 4710 | Apache License 2.0 | 2016-09-02 | 2025-07-31 | 2025-07-31 |
+| [swift-protobuf](https://github.com/apple/swift-protobuf) | Plugin and runtime library for using protobuf with Swift | Swift | 4712 | Apache License 2.0 | 2016-09-02 | 2025-08-04 | 2025-07-31 |
 | [swift-protobuf-plugin](https://github.com/apple/swift-protobuf-plugin) | Moved to apple/swift-protobuf | None | 752 | Apache License 2.0 | 2016-09-02 | 2025-06-30 | 2017-06-05 |
 | [swift-protobuf-test-conformance](https://github.com/apple/swift-protobuf-test-conformance) | Plugin for Google's conformance test to verify compatibility of swift-protobuf | None | 24 | Apache License 2.0 | 2016-09-02 | 2025-06-30 | 2016-12-13 |
 | [darwin-xnu](https://github.com/apple/darwin-xnu) | Legacy mirror of Darwin Kernel. Replaced by https://github.com/apple-oss-distributions/xnu | C | 11152 | Other | 2017-06-02 | 2025-08-02 | 2023-01-13 |
 | [darwin-libpthread](https://github.com/apple/darwin-libpthread) | Legacy mirror of Darwin PThread Library. Replaced by https://github.com/apple-oss-distributions/libpthread | C | 162 | Other | 2017-06-02 | 2025-06-30 | 2021-07-06 |
 | [darwin-libplatform](https://github.com/apple/darwin-libplatform) | Legacy mirror of  Darwin Platform Library. Replaced by https://github.com/apple-oss-distributions/libplatform | C | 130 | Apache License 2.0 | 2017-06-02 | 2025-06-30 | 2021-02-02 |
-| [coremltools](https://github.com/apple/coremltools) | Core ML tools contain supporting tools for Core ML model conversion, editing, and validation. | Python | 4869 | BSD 3-Clause "New" or "Revised" License | 2017-06-30 | 2025-08-02 | 2025-08-01 |
+| [coremltools](https://github.com/apple/coremltools) | Core ML tools contain supporting tools for Core ML model conversion, editing, and validation. | Python | 4870 | BSD 3-Clause "New" or "Revised" License | 2017-06-30 | 2025-08-03 | 2025-08-01 |
 | [turicreate](https://github.com/apple/turicreate) | Turi Create simplifies the development of custom machine learning models. | C++ | 11202 | BSD 3-Clause "New" or "Revised" License | 2017-12-01 | 2025-08-02 | 2023-11-01 |
-| [foundationdb](https://github.com/apple/foundationdb) | FoundationDB - the open source, distributed, transactional key-value store | C++ | 15554 | Apache License 2.0 | 2017-12-14 | 2025-08-03 | 2025-08-01 |
-| [swift-nio](https://github.com/apple/swift-nio) | Event-driven network application framework for high performance protocol servers & clients, non-blocking. | Swift | 8220 | Apache License 2.0 | 2018-02-06 | 2025-08-01 | 2025-08-01 |
+| [foundationdb](https://github.com/apple/foundationdb) | FoundationDB - the open source, distributed, transactional key-value store | C++ | 15556 | Apache License 2.0 | 2017-12-14 | 2025-08-04 | 2025-08-01 |
+| [swift-nio](https://github.com/apple/swift-nio) | Event-driven network application framework for high performance protocol servers & clients, non-blocking. | Swift | 8222 | Apache License 2.0 | 2018-02-06 | 2025-08-03 | 2025-08-01 |
 | [swift-nio-ssl](https://github.com/apple/swift-nio-ssl) | TLS Support for SwiftNIO, based on BoringSSL. | Assembly | 407 | Apache License 2.0 | 2018-02-20 | 2025-07-30 | 2025-07-30 |
 | [swift-nio-ssl-support](https://github.com/apple/swift-nio-ssl-support) | None | Swift | 30 | Apache License 2.0 | 2018-02-20 | 2025-06-30 | 2020-12-08 |
 | [swift-nio-zlib-support](https://github.com/apple/swift-nio-zlib-support) | None | Swift | 27 | Apache License 2.0 | 2018-02-20 | 2025-06-30 | 2021-07-14 |
 | [swift-nio-http2](https://github.com/apple/swift-nio-http2) | HTTP/2 support for SwiftNIO | Swift | 480 | Apache License 2.0 | 2018-03-03 | 2025-07-30 | 2025-07-30 |
 | [swift-nio-nghttp2-support](https://github.com/apple/swift-nio-nghttp2-support) | None | Swift | 14 | Apache License 2.0 | 2018-03-03 | 2025-06-30 | 2020-12-08 |
-| [swift-nio-extras](https://github.com/apple/swift-nio-extras) | Useful code around SwiftNIO. | Swift | 220 | Apache License 2.0 | 2018-05-14 | 2025-07-30 | 2025-07-30 |
+| [swift-nio-extras](https://github.com/apple/swift-nio-extras) | Useful code around SwiftNIO. | Swift | 221 | Apache License 2.0 | 2018-05-14 | 2025-08-04 | 2025-07-30 |
 | [ml-all-pairs](https://github.com/apple/ml-all-pairs) | A data generator for studying learning from weak supervision. | Python | 37 | Other | 2018-06-06 | 2025-06-30 | 2022-09-11 |
 | [swift-numerics](https://github.com/apple/swift-numerics) | Advanced mathematical types and functions for Swift | Swift | 1771 | Apache License 2.0 | 2018-07-16 | 2025-07-24 | 2025-05-28 |
-| [swift-nio-transport-services](https://github.com/apple/swift-nio-transport-services) | Extensions for SwiftNIO to support Apple platforms as first-class citizens. | Swift | 308 | Apache License 2.0 | 2018-07-18 | 2025-07-30 | 2025-07-30 |
+| [swift-nio-transport-services](https://github.com/apple/swift-nio-transport-services) | Extensions for SwiftNIO to support Apple platforms as first-class citizens. | Swift | 309 | Apache License 2.0 | 2018-07-18 | 2025-08-03 | 2025-07-30 |
 | [servicetalk](https://github.com/apple/servicetalk) | A networking framework that evolves with your application | Java | 976 | Apache License 2.0 | 2018-09-07 | 2025-08-01 | 2025-08-01 |
 | [swift-nio-examples](https://github.com/apple/swift-nio-examples) | examples of how to use swift-nio | Swift | 248 | Apache License 2.0 | 2018-09-12 | 2025-07-30 | 2025-07-30 |
 | [swift-clang-tools-extra](https://github.com/apple/swift-clang-tools-extra) | None | C++ | 15 | Other | 2018-11-27 | 2025-01-05 | 2019-11-01 |
@@ -75,8 +75,8 @@ Statistics Date: 2025-08-03 08:08:48
 | [swift-statsd-client](https://github.com/apple/swift-statsd-client) | metrics backend for swift-metrics that uses the statsd protocol | Swift | 64 | Apache License 2.0 | 2019-06-02 | 2025-07-30 | 2025-07-30 |
 | [llvm-monorepo-root](https://github.com/apple/llvm-monorepo-root) | None | None | 9 | Other | 2019-07-09 | 2024-07-18 | 2019-10-16 |
 | [apple-llvm-infrastructure-tools](https://github.com/apple/apple-llvm-infrastructure-tools) | None | C++ | 49 | Other | 2019-07-11 | 2025-07-24 | 2023-10-10 |
-| [swift-distributed-actors](https://github.com/apple/swift-distributed-actors) | Peer-to-peer cluster implementation for Swift Distributed Actors | Swift | 644 | Apache License 2.0 | 2019-07-23 | 2025-07-25 | 2025-07-21 |
-| [swift-crypto](https://github.com/apple/swift-crypto) | Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms. | Assembly | 1585 | Apache License 2.0 | 2019-07-23 | 2025-08-01 | 2025-07-31 |
+| [swift-distributed-actors](https://github.com/apple/swift-distributed-actors) | Peer-to-peer cluster implementation for Swift Distributed Actors | Swift | 645 | Apache License 2.0 | 2019-07-23 | 2025-08-03 | 2025-07-21 |
+| [swift-crypto](https://github.com/apple/swift-crypto) | Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms. | Assembly | 1586 | Apache License 2.0 | 2019-07-23 | 2025-08-03 | 2025-07-31 |
 | [swift-nio-ssh](https://github.com/apple/swift-nio-ssh) | SwiftNIO SSH is a programmatic implementation of SSH using SwiftNIO | Swift | 448 | Apache License 2.0 | 2019-07-25 | 2025-07-30 | 2025-07-30 |
 | [llvm-project-v5](https://github.com/apple/llvm-project-v5) | None | C++ | 9 | Other | 2019-10-17 | 2024-07-18 | 2019-10-22 |
 | [llvm-project-v5-split](https://github.com/apple/llvm-project-v5-split) | None | C++ | 7 | Other | 2019-10-17 | 2024-07-18 | 2019-10-22 |
@@ -90,7 +90,7 @@ Statistics Date: 2025-08-03 08:08:48
 | [swift-standard-library-preview](https://github.com/apple/swift-standard-library-preview) | None | Swift | 260 | Apache License 2.0 | 2020-02-03 | 2025-06-10 | 2021-12-05 |
 | [swift-evolution-staging](https://github.com/apple/swift-evolution-staging) | None | Swift | 36 | Apache License 2.0 | 2020-02-03 | 2024-11-24 | 2023-09-11 |
 | [swift-argument-parser](https://github.com/apple/swift-argument-parser) | Straightforward, type-safe argument parsing for Swift | Swift | 3537 | Apache License 2.0 | 2020-02-20 | 2025-08-02 | 2025-07-24 |
-| [password-manager-resources](https://github.com/apple/password-manager-resources) | A place for creators and users of password managers to collaborate on resources to make password management better. | JavaScript | 4447 | MIT License | 2020-03-19 | 2025-07-31 | 2025-07-28 |
+| [password-manager-resources](https://github.com/apple/password-manager-resources) | A place for creators and users of password managers to collaborate on resources to make password management better. | JavaScript | 4449 | MIT License | 2020-03-19 | 2025-08-03 | 2025-07-28 |
 | [swift-service-discovery](https://github.com/apple/swift-service-discovery) | A service discovery API for Swift. | Swift | 228 | Apache License 2.0 | 2020-04-23 | 2025-07-30 | 2025-07-30 |
 | [ml-dab](https://github.com/apple/ml-dab) | None | Python | 23 | Other | 2020-05-02 | 2024-11-22 | 2022-04-28 |
 | [ml-quant](https://github.com/apple/ml-quant) | Research publication code for "Least Squares Binary Quantization of Neural Networks" | Python | 83 | Other | 2020-05-12 | 2025-03-12 | 2023-03-01 |
@@ -108,15 +108,15 @@ Statistics Date: 2025-08-03 08:08:48
 | [swift-distributed-tracing](https://github.com/apple/swift-distributed-tracing) | Instrumentation library for Swift server applications | Swift | 257 | Apache License 2.0 | 2020-09-24 | 2025-07-31 | 2025-07-30 |
 | [swift-distributed-tracing-baggage-core](https://github.com/apple/swift-distributed-tracing-baggage-core) | Minimal context propagation container | Swift | 13 | Apache License 2.0 | 2020-09-24 | 2024-08-13 | 2023-04-05 |
 | [swift-service-context](https://github.com/apple/swift-service-context) | Minimal type-safe context propagation container | Swift | 170 | Apache License 2.0 | 2020-09-24 | 2025-08-01 | 2025-07-30 |
-| [swift-system](https://github.com/apple/swift-system) | Low-level system calls and types for Swift | Swift | 1291 | Apache License 2.0 | 2020-09-25 | 2025-08-01 | 2025-08-01 |
-| [swift-algorithms](https://github.com/apple/swift-algorithms) | Commonly used sequence and collection algorithms for Swift | Swift | 6200 | Apache License 2.0 | 2020-10-01 | 2025-08-01 | 2025-03-05 |
+| [swift-system](https://github.com/apple/swift-system) | Low-level system calls and types for Swift | Swift | 1293 | Apache License 2.0 | 2020-09-25 | 2025-08-04 | 2025-08-04 |
+| [swift-algorithms](https://github.com/apple/swift-algorithms) | Commonly used sequence and collection algorithms for Swift | Swift | 6201 | Apache License 2.0 | 2020-10-01 | 2025-08-03 | 2025-03-05 |
 | [swift-atomics](https://github.com/apple/swift-atomics) | Low-level atomic operations for Swift | Swift | 1133 | Apache License 2.0 | 2020-10-01 | 2025-07-24 | 2025-07-09 |
 | [ml-qrecc](https://github.com/apple/ml-qrecc) | Open-Domain Question Answering Goes Conversational via Question Rewriting | Python | 158 | Apache License 2.0 | 2020-10-08 | 2025-08-01 | 2022-05-23 |
 | [swift-distributed-tracing-extras](https://github.com/apple/swift-distributed-tracing-extras) | None | Swift | 38 | Apache License 2.0 | 2020-10-14 | 2025-07-11 | 2025-05-30 |
 | [swift-metrics-extras](https://github.com/apple/swift-metrics-extras) | None | Swift | 57 | Apache License 2.0 | 2020-10-14 | 2025-07-30 | 2025-07-30 |
 | [ml-tree-dst](https://github.com/apple/ml-tree-dst) | None | Python | 33 | Apache License 2.0 | 2020-10-16 | 2024-11-22 | 2022-06-15 |
 | [ml-collegial-ensembles](https://github.com/apple/ml-collegial-ensembles) | None | Python | 11 | Other | 2020-10-22 | 2024-11-22 | 2022-06-16 |
-| [tensorflow_macos](https://github.com/apple/tensorflow_macos) | TensorFlow for macOS 11.0+ accelerated using Apple's ML Compute framework.  | Shell | 3674 | Other | 2020-11-05 | 2025-07-28 | 2021-10-31 |
+| [tensorflow_macos](https://github.com/apple/tensorflow_macos) | TensorFlow for macOS 11.0+ accelerated using Apple's ML Compute framework.  | Shell | 3673 | Other | 2020-11-05 | 2025-08-03 | 2021-10-31 |
 | [ml-hypersim](https://github.com/apple/ml-hypersim) | Hypersim: A Photorealistic Synthetic Dataset for Holistic Indoor Scene Understanding | Python | 1863 | Other | 2020-11-16 | 2025-07-31 | 2025-07-23 |
 | [ml-flair](https://github.com/apple/ml-flair) | A large labelled image dataset for benchmarking in federated learning | Jupyter Notebook | 98 | Other | 2020-12-09 | 2025-07-18 | 2024-03-06 |
 | [ml-equivariant-neural-rendering](https://github.com/apple/ml-equivariant-neural-rendering) | None | Jupyter Notebook | 102 | Other | 2020-12-16 | 2025-02-19 | 2022-04-02 |
@@ -147,14 +147,14 @@ Statistics Date: 2025-08-03 08:08:48
 | [ARKitScenes](https://github.com/apple/ARKitScenes) | This repo accompanies the research paper, ARKitScenes - A Diverse Real-World Dataset for 3D Indoor Scene Understanding Using Mobile RGB-D Data and contains the data, scripts to visualize and process assets, and training code described in our paper. | Python | 783 | Other | 2021-10-26 | 2025-07-31 | 2024-09-21 |
 | [GCGC](https://github.com/apple/GCGC) | None | Jupyter Notebook | 451 | Apache License 2.0 | 2021-11-02 | 2025-07-15 | 2024-10-14 |
 | [ml-core](https://github.com/apple/ml-core) | None | Python | 33 | Other | 2021-11-29 | 2025-01-11 | 2021-12-03 |
-| [swift-async-algorithms](https://github.com/apple/swift-async-algorithms) | Async Algorithms for Swift | Swift | 3347 | Apache License 2.0 | 2022-01-10 | 2025-08-02 | 2025-07-02 |
+| [swift-async-algorithms](https://github.com/apple/swift-async-algorithms) | Async Algorithms for Swift | Swift | 3351 | Apache License 2.0 | 2022-01-10 | 2025-08-04 | 2025-07-02 |
 | [ml-hierarchical-confusion-matrix](https://github.com/apple/ml-hierarchical-confusion-matrix) | Neo: Hierarchical Confusion Matrix Visualization (CHI 2022) | TypeScript | 311 | Other | 2022-03-22 | 2025-08-01 | 2025-08-01 |
 | [ml-code-switched-speech-translation](https://github.com/apple/ml-code-switched-speech-translation) | This repository contains the code and instructions needed to reproduce the dataset splits for out paper "Speech Translation for Code-Switched Speech". | Python | 29 | Other | 2022-04-07 | 2025-01-06 | 2022-04-08 |
 | [ml-fct](https://github.com/apple/ml-fct) | Research publication code for "Forward Compatible Training for Large-Scale Embedding Retrieval Systems", CVPR 2022, and "FastFill: Efficient Compatible Model Update", ICLR 2023 | Python | 55 | Other | 2022-04-13 | 2025-02-05 | 2023-03-02 |
 | [swift-issues](https://github.com/apple/swift-issues) | DO NOT MODIFY ISSUES | None | 5 | - | 2022-01-03 | 2024-02-23 | 2022-04-24 |
 | [sample-cloudkit-zonesharing](https://github.com/apple/sample-cloudkit-zonesharing) | None | Swift | 54 | MIT License | 2022-05-11 | 2025-06-21 | 2022-09-13 |
 | [ml-sad](https://github.com/apple/ml-sad) | None | Python | 42 | Other | 2022-05-13 | 2024-12-09 | 2022-11-20 |
-| [unityplugins](https://github.com/apple/unityplugins) | None | C# | 847 | Apache License 2.0 | 2022-05-16 | 2025-08-01 | 2025-06-09 |
+| [unityplugins](https://github.com/apple/unityplugins) | None | C# | 848 | Apache License 2.0 | 2022-05-16 | 2025-08-03 | 2025-06-09 |
 | [device-management](https://github.com/apple/device-management) | Device management schema data for MDM. | None | 780 | MIT License | 2022-05-20 | 2025-07-23 | 2025-06-12 |
 | [ml-no-token-left-behind](https://github.com/apple/ml-no-token-left-behind) | None | Jupyter Notebook | 141 | Other | 2022-05-31 | 2025-03-14 | 2022-11-25 |
 | [sample-food-truck](https://github.com/apple/sample-food-truck) | SwiftUI sample code from WWDC22 | Swift | 1795 | MIT License | 2022-05-31 | 2025-07-30 | 2023-08-18 |
@@ -175,17 +175,17 @@ Statistics Date: 2025-08-03 08:08:48
 | [swift-certificates](https://github.com/apple/swift-certificates) | An implementation of X.509 for Swift | Swift | 257 | Apache License 2.0 | 2022-10-12 | 2025-07-31 | 2025-07-31 |
 | [AudioUnit-Examples](https://github.com/apple/AudioUnit-Examples) | AudioUnit Examples | Swift | 84 | Other | 2022-10-12 | 2025-07-01 | 2022-11-08 |
 | [swift-asn1](https://github.com/apple/swift-asn1) | An implementation of ASN.1 for Swift | Swift | 154 | Apache License 2.0 | 2022-10-28 | 2025-07-30 | 2025-07-30 |
-| [ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) | Stable Diffusion with Core ML on Apple Silicon | Python | 17515 | MIT License | 2022-11-16 | 2025-08-03 | 2025-07-03 |
+| [ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) | Stable Diffusion with Core ML on Apple Silicon | Python | 17514 | MIT License | 2022-11-16 | 2025-08-03 | 2025-07-03 |
 | [swift-http-types](https://github.com/apple/swift-http-types) | Version-independent HTTP currency types for Swift | Swift | 964 | Apache License 2.0 | 2022-11-17 | 2025-07-30 | 2025-07-30 |
 | [ml-aspanformer](https://github.com/apple/ml-aspanformer) | None | Python | 233 | Other | 2022-12-05 | 2025-07-23 | 2023-01-17 |
 | [.github](https://github.com/apple/.github) | None | None | 2 | - | 2023-01-17 | 2025-06-16 | 2025-06-06 |
-| [axlearn](https://github.com/apple/axlearn) | An Extensible Deep Learning Library | Python | 2217 | Apache License 2.0 | 2023-02-25 | 2025-08-01 | 2025-07-30 |
+| [axlearn](https://github.com/apple/axlearn) | An Extensible Deep Learning Library | Python | 2218 | Apache License 2.0 | 2023-02-25 | 2025-08-04 | 2025-07-30 |
 | [VideoFlashingReduction](https://github.com/apple/VideoFlashingReduction) | None | Mathematica | 179 | MIT License | 2023-03-14 | 2025-06-01 | 2023-05-10 |
 | [ml-facelit](https://github.com/apple/ml-facelit) | Official repository of FaceLit: Neural 3D Relightable Faces (CVPR 2023) | Python | 483 | Other | 2023-04-03 | 2025-07-28 | 2023-07-05 |
 | [ml-robust-expert-augmentations](https://github.com/apple/ml-robust-expert-augmentations) | None | Python | 26 | Other | 2023-04-06 | 2025-02-01 | 2023-08-04 |
 | [ml-translate-vis](https://github.com/apple/ml-translate-vis) | Angler: Machine Translation Visualization (CHI 2023) | TypeScript | 68 | Other | 2023-04-13 | 2025-06-01 | 2023-07-12 |
 | [ml-tract](https://github.com/apple/ml-tract) | None | Python | 48 | Other | 2023-04-18 | 2025-06-18 | 2023-04-24 |
-| [swift-openapi-generator](https://github.com/apple/swift-openapi-generator) | Generate Swift client and server code from an OpenAPI document. | Swift | 1687 | Apache License 2.0 | 2023-04-20 | 2025-08-03 | 2025-07-31 |
+| [swift-openapi-generator](https://github.com/apple/swift-openapi-generator) | Generate Swift client and server code from an OpenAPI document. | Swift | 1687 | Apache License 2.0 | 2023-04-20 | 2025-08-04 | 2025-08-04 |
 | [swift-openapi-runtime](https://github.com/apple/swift-openapi-runtime) | API package for code generated by Swift OpenAPI Generator. | Swift | 225 | Apache License 2.0 | 2023-04-20 | 2025-07-29 | 2025-07-29 |
 | [swift-openapi-urlsession](https://github.com/apple/swift-openapi-urlsession) | URLSession transport for Swift OpenAPI Generator. | Swift | 192 | Apache License 2.0 | 2023-04-20 | 2025-07-30 | 2025-07-30 |
 | [dnikit](https://github.com/apple/dnikit) | A Python toolkit for analyzing machine learning models and datasets. | Python | 80 | Apache License 2.0 | 2023-04-29 | 2025-06-19 | 2023-09-08 |
@@ -194,11 +194,11 @@ Statistics Date: 2025-08-03 08:08:48
 | [ml-autofocusformer](https://github.com/apple/ml-autofocusformer) | This is an official implementation for "AutoFocusFormer: Image Segmentation off the Grid". | Python | 125 | Other | 2023-05-11 | 2025-05-24 | 2023-06-15 |
 | [ml-autofocusformer-segmentation](https://github.com/apple/ml-autofocusformer-segmentation) | This is an official implementation for "AutoFocusFormer: Image Segmentation off the Grid". | Python | 69 | Other | 2023-05-11 | 2025-07-25 | 2023-07-22 |
 | [sample-cloudkit-sync-engine](https://github.com/apple/sample-cloudkit-sync-engine) | None | Swift | 222 | MIT License | 2023-05-11 | 2025-08-03 | 2024-01-12 |
-| [homebrew-apple](https://github.com/apple/homebrew-apple) | None | Ruby | 2268 | - | 2023-05-18 | 2025-08-02 | 2024-06-15 |
+| [homebrew-apple](https://github.com/apple/homebrew-apple) | None | Ruby | 2267 | - | 2023-05-18 | 2025-08-03 | 2024-06-15 |
 | [sample-backyard-birds](https://github.com/apple/sample-backyard-birds) | None | Swift | 593 | MIT License | 2023-05-18 | 2025-07-27 | 2023-12-11 |
 | [ml-destseg](https://github.com/apple/ml-destseg) | None | Python | 79 | Other | 2023-05-23 | 2025-07-24 | 2024-05-16 |
-| [app-store-server-library-java](https://github.com/apple/app-store-server-library-java) | The Java server library for the App Store Server API and App Store Server Notifications. | Java | 218 | MIT License | 2023-05-31 | 2025-08-03 | 2025-07-22 |
-| [app-store-server-library-node](https://github.com/apple/app-store-server-library-node) | The Node.js server library for the App Store Server API and App Store Server Notifications. | TypeScript | 278 | MIT License | 2023-05-31 | 2025-08-03 | 2025-08-03 |
+| [app-store-server-library-java](https://github.com/apple/app-store-server-library-java) | The Java server library for the App Store Server API and App Store Server Notifications. | Java | 220 | MIT License | 2023-05-31 | 2025-08-04 | 2025-07-22 |
+| [app-store-server-library-node](https://github.com/apple/app-store-server-library-node) | The Node.js server library for the App Store Server API and App Store Server Notifications. | TypeScript | 279 | MIT License | 2023-05-31 | 2025-08-03 | 2025-08-04 |
 | [app-store-server-library-python](https://github.com/apple/app-store-server-library-python) | The Python server library for the App Store Server API and App Store Server Notifications. | Python | 217 | MIT License | 2023-05-31 | 2025-07-30 | 2025-06-12 |
 | [app-store-server-library-swift](https://github.com/apple/app-store-server-library-swift) | The Swift server library for the App Store Server API and App Store Server Notifications. | Swift | 256 | MIT License | 2023-05-31 | 2025-07-25 | 2025-07-08 |
 | [ml-tune-mode-convbn](https://github.com/apple/ml-tune-mode-convbn) | Tune-Mode ConvBN Blocks For Efficient Transfer Learning | Python | 17 | Other | 2023-06-12 | 2025-02-24 | 2023-08-01 |
@@ -213,7 +213,7 @@ Statistics Date: 2025-08-03 08:08:48
 | [ml-symphony](https://github.com/apple/ml-symphony) | Symphony: Interactive Data Widgets (CHI 2022) | Svelte | 63 | Other | 2023-07-28 | 2025-04-06 | 2023-08-11 |
 | [ml-dr](https://github.com/apple/ml-dr) | A light-weight implementation of ICCV2023 paper "Reinforce Data, Multiply Impact: Improved Model Accuracy and Robustness with Dataset Reinforcement." | Python | 79 | Other | 2023-08-04 | 2025-01-07 | 2023-09-22 |
 | [ml-neilfpp](https://github.com/apple/ml-neilfpp) | None | Python | 104 | Other | 2023-08-07 | 2025-03-25 | 2023-08-15 |
-| [ml-fastvit](https://github.com/apple/ml-fastvit) | This repository contains the official implementation of the research paper, "FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization" ICCV 2023 | Python | 1946 | Other | 2023-08-15 | 2025-08-03 | 2023-11-30 |
+| [ml-fastvit](https://github.com/apple/ml-fastvit) | This repository contains the official implementation of the research paper, "FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization" ICCV 2023 | Python | 1947 | Other | 2023-08-15 | 2025-08-03 | 2023-11-30 |
 | [ml-heart-rate-models](https://github.com/apple/ml-heart-rate-models) | None | Python | 72 | Other | 2023-08-17 | 2025-06-23 | 2023-08-24 |
 | [ml-spatial-librispeech](https://github.com/apple/ml-spatial-librispeech) | A large synthetic dataset of spatial audio with multiple labels | None | 113 | Other | 2023-08-18 | 2025-07-26 | 2023-10-25 |
 | [ml-codeswitching-translations](https://github.com/apple/ml-codeswitching-translations) | None | None | 8 | Other | 2023-08-28 | 2024-11-01 | 2023-10-11 |
@@ -240,7 +240,7 @@ Statistics Date: 2025-08-03 08:08:48
 | [pkl-k8s](https://github.com/apple/pkl-k8s) | Templates for using Pkl with Kubernetes | Pkl | 129 | Apache License 2.0 | 2024-01-19 | 2025-07-09 | 2025-03-24 |
 | [pkl-package-docs](https://github.com/apple/pkl-package-docs) | Documentation for Pkl packages | Kotlin | 12 | Apache License 2.0 | 2024-01-19 | 2025-04-08 | 2025-07-29 |
 | [pkl-pantry](https://github.com/apple/pkl-pantry) | Shared Pkl packages | Pkl | 252 | Apache License 2.0 | 2024-01-19 | 2025-07-29 | 2025-07-29 |
-| [pkl](https://github.com/apple/pkl) | A configuration as code language with rich validation and tooling. | Java | 10777 | Apache License 2.0 | 2024-01-19 | 2025-08-03 | 2025-07-31 |
+| [pkl](https://github.com/apple/pkl) | A configuration as code language with rich validation and tooling. | Java | 10779 | Apache License 2.0 | 2024-01-19 | 2025-08-03 | 2025-07-31 |
 | [pkl-go](https://github.com/apple/pkl-go) | Pkl bindings for the Go programming language | Go | 299 | Apache License 2.0 | 2024-01-19 | 2025-07-31 | 2025-07-31 |
 | [pkl-go-examples](https://github.com/apple/pkl-go-examples) | Examples for using Pkl within Go applications | Go | 177 | Apache License 2.0 | 2024-01-19 | 2025-07-29 | 2025-07-29 |
 | [pkl-intellij](https://github.com/apple/pkl-intellij) | JetBrains editor plugins providing Pkl language support | Kotlin | 61 | Apache License 2.0 | 2024-01-19 | 2025-07-28 | 2025-07-28 |
@@ -259,7 +259,7 @@ Statistics Date: 2025-08-03 08:08:48
 | [pkl.tmbundle](https://github.com/apple/pkl.tmbundle) | TextMate bundle for Pkl | Pkl | 9 | Apache License 2.0 | 2024-02-16 | 2025-05-10 | 2025-03-17 |
 | [ml-lucid-datagen](https://github.com/apple/ml-lucid-datagen) | None | Python | 32 | Other | 2024-02-16 | 2025-03-14 | 2024-03-04 |
 | [ml-mofi](https://github.com/apple/ml-mofi) | None | Python | 59 | Other | 2024-02-19 | 2025-07-31 | 2024-03-14 |
-| [ml-mobileclip](https://github.com/apple/ml-mobileclip) | This repository contains the official implementation of the research paper, "MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training" CVPR 2024 | Python | 1010 | Other | 2024-03-01 | 2025-08-01 | 2024-11-22 |
+| [ml-mobileclip](https://github.com/apple/ml-mobileclip) | This repository contains the official implementation of the research paper, "MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training" CVPR 2024 | Python | 1011 | Other | 2024-03-01 | 2025-08-03 | 2024-11-22 |
 | [ml-veclip](https://github.com/apple/ml-veclip) | The official repo for the paper "VeCLIP: Improving CLIP Training via Visual-enriched Captions" | Jupyter Notebook | 246 | Other | 2024-03-06 | 2025-08-03 | 2025-01-22 |
 | [ml-rpm-bench](https://github.com/apple/ml-rpm-bench) | None | Python | 41 | Other | 2024-03-07 | 2025-04-15 | 2024-07-24 |
 | [ml-MixupMP](https://github.com/apple/ml-MixupMP) | None | Python | 6 | Other | 2024-03-07 | 2025-01-13 | 2024-08-09 |
@@ -274,18 +274,18 @@ Statistics Date: 2025-08-03 08:08:48
 | [ml-ogen](https://github.com/apple/ml-ogen) | None | Python | 13 | Other | 2024-04-05 | 2025-04-24 | 2024-04-07 |
 | [ml-4m](https://github.com/apple/ml-4m) | 4M: Massively Multimodal Masked Modeling | Python | 1755 | Apache License 2.0 | 2024-04-08 | 2025-08-02 | 2025-06-02 |
 | [ml-hugs](https://github.com/apple/ml-hugs) | Official repository of HUGS: Human Gaussian Splats (CVPR 2024) | Python | 306 | Other | 2024-04-09 | 2025-08-02 | 2024-05-01 |
-| [corenet](https://github.com/apple/corenet) | CoreNet: A library for training deep neural networks | Jupyter Notebook | 7016 | Other | 2024-04-18 | 2025-08-01 | 2025-05-09 |
+| [corenet](https://github.com/apple/corenet) | CoreNet: A library for training deep neural networks | Jupyter Notebook | 7015 | Other | 2024-04-18 | 2025-08-04 | 2025-05-09 |
 | [ml-agm](https://github.com/apple/ml-agm) | None | Python | 44 | Other | 2024-05-03 | 2025-05-20 | 2024-05-03 |
 | [ml-recurrent-drafter](https://github.com/apple/ml-recurrent-drafter) | None | Python | 215 | Apache License 2.0 | 2024-05-24 | 2025-07-31 | 2025-01-23 |
 | [ml-keyframer](https://github.com/apple/ml-keyframer) | Keyframer: Empowering Animation Design Using Large Language Models | JavaScript | 50 | Other | 2024-05-28 | 2025-08-02 | 2024-06-03 |
-| [swift-homomorphic-encryption](https://github.com/apple/swift-homomorphic-encryption) | Homomorphic Encryption library and applications in Swift | Swift | 561 | Apache License 2.0 | 2024-06-17 | 2025-07-31 | 2025-07-31 |
+| [swift-homomorphic-encryption](https://github.com/apple/swift-homomorphic-encryption) | Homomorphic Encryption library and applications in Swift | Swift | 562 | Apache License 2.0 | 2024-06-17 | 2025-08-04 | 2025-07-31 |
 | [swift-homomorphic-encryption-protobuf](https://github.com/apple/swift-homomorphic-encryption-protobuf) | Protocol buffers definitions for Swift Homomorphic Encryption | None | 21 | Apache License 2.0 | 2024-06-17 | 2025-07-13 | 2025-06-18 |
 | [pir-service-example](https://github.com/apple/pir-service-example) | Example PIR service & documentation for Live Caller ID Lookup & NEURLFilter | Swift | 181 | Apache License 2.0 | 2024-06-26 | 2025-07-24 | 2025-07-09 |
 | [ml-vfm-kt](https://github.com/apple/ml-vfm-kt) | None | None | 14 | - | 2024-07-01 | 2025-06-09 | 2024-07-02 |
 | [ml-aura](https://github.com/apple/ml-aura) | Whispering Experts: Neural Interventions for Toxicity Mitigation in Language Models, ICML 2024 | Python | 21 | Other | 2024-07-02 | 2025-06-07 | 2024-07-07 |
 | [ml-tweak](https://github.com/apple/ml-tweak) | None | Python | 8 | Other | 2024-07-10 | 2025-04-14 | 2024-07-10 |
 | [music-feed-examples](https://github.com/apple/music-feed-examples) | None | Java | 19 | Other | 2024-07-11 | 2025-04-07 | 2024-07-24 |
-| [pkl-lsp](https://github.com/apple/pkl-lsp) | Language server for Pkl, implementing the server-side of the Language Server Protocol. | Kotlin | 57 | Apache License 2.0 | 2024-07-19 | 2025-08-01 | 2025-07-28 |
+| [pkl-lsp](https://github.com/apple/pkl-lsp) | Language server for Pkl, implementing the server-side of the Language Server Protocol. | Kotlin | 58 | Apache License 2.0 | 2024-07-19 | 2025-08-03 | 2025-07-28 |
 | [ml-superposition-prompting](https://github.com/apple/ml-superposition-prompting) | None | Python | 145 | Other | 2024-07-19 | 2025-07-13 | 2024-07-19 |
 | [ml-sampleplan](https://github.com/apple/ml-sampleplan) | None | Python | 6 | Other | 2024-07-30 | 2025-04-09 | 2025-04-09 |
 | [ToolSandbox](https://github.com/apple/ToolSandbox) | None | Python | 194 | Other | 2024-07-30 | 2025-08-01 | 2024-08-12 |
@@ -294,9 +294,9 @@ Statistics Date: 2025-08-03 08:08:48
 | [ml-gendered-translation](https://github.com/apple/ml-gendered-translation) | None | Ruby | 6 | Other | 2024-07-31 | 2025-04-03 | 2024-07-31 |
 | [ml-mdm](https://github.com/apple/ml-mdm) | Train high-quality text-to-image diffusion models in a data & compute efficient manner | Python | 501 | MIT License | 2024-08-02 | 2025-07-14 | 2025-03-27 |
 | [ml-toad](https://github.com/apple/ml-toad) | None | Python | 14 | Other | 2024-08-13 | 2025-04-07 | 2024-08-27 |
-| [ml-mycelium](https://github.com/apple/ml-mycelium) |   About  Interactive web viewer for exploring large neural networks—powers the graph visualization of Talaria | JavaScript | 64 | Other | 2024-08-13 | 2025-08-01 | 2024-10-07 |
+| [ml-mycelium](https://github.com/apple/ml-mycelium) |   About  Interactive web viewer for exploring large neural networks—powers the graph visualization of Talaria | JavaScript | 65 | Other | 2024-08-13 | 2025-08-03 | 2024-10-07 |
 | [tensor-visualizer](https://github.com/apple/tensor-visualizer) | A Jupyter widget to visualize tensor data in notebooks. | Svelte | 59 | Other | 2024-08-23 | 2025-07-01 | 2024-08-28 |
-| [ml-depth-pro](https://github.com/apple/ml-depth-pro) | Depth Pro: Sharp Monocular Metric Depth in Less Than a Second. | Python | 4719 | Other | 2024-08-26 | 2025-08-02 | 2025-04-21 |
+| [ml-depth-pro](https://github.com/apple/ml-depth-pro) | Depth Pro: Sharp Monocular Metric Depth in Less Than a Second. | Python | 4719 | Other | 2024-08-26 | 2025-08-04 | 2025-04-21 |
 | [ml-slowfast-llava](https://github.com/apple/ml-slowfast-llava) | SlowFast-LLaVA: A Strong Training-Free Baseline for Video Large Language Models | Python | 235 | Other | 2024-08-26 | 2025-07-20 | 2024-09-16 |
 | [ml-sigmoid-attention](https://github.com/apple/ml-sigmoid-attention) | None | Python | 293 | Other | 2024-09-05 | 2025-07-22 | 2025-04-23 |
 | [swift-container-plugin](https://github.com/apple/swift-container-plugin) | Build and publish container images using Swift Package Manager | Swift | 332 | Apache License 2.0 | 2024-09-05 | 2025-07-26 | 2025-07-11 |
@@ -311,12 +311,12 @@ Statistics Date: 2025-08-03 08:08:48
 | [ml-negative-sampling](https://github.com/apple/ml-negative-sampling) | None | Python | 12 | Other | 2024-10-25 | 2025-06-26 | 2024-10-30 |
 | [ml-kg-mt](https://github.com/apple/ml-kg-mt) | None | Python | 18 | Other | 2024-11-08 | 2025-07-27 | 2024-11-08 |
 | [ml-divide-or-conquer](https://github.com/apple/ml-divide-or-conquer) | None | Python | 13 | Other | 2024-11-09 | 2025-02-08 | 2024-11-19 |
-| [ml-cross-entropy](https://github.com/apple/ml-cross-entropy) | None | Python | 507 | Other | 2024-11-13 | 2025-07-31 | 2025-07-28 |
+| [ml-cross-entropy](https://github.com/apple/ml-cross-entropy) | None | Python | 508 | Other | 2024-11-13 | 2025-08-03 | 2025-07-28 |
 | [ml-acn-embed](https://github.com/apple/ml-acn-embed) | Acoustic Neighbor Embeddings | Python | 25 | Other | 2024-11-13 | 2025-07-20 | 2025-07-13 |
 | [ml-kpconvx](https://github.com/apple/ml-kpconvx) | None | Python | 58 | Other | 2024-11-14 | 2025-08-02 | 2024-12-24 |
 | [ml-speech-is-more-than-words](https://github.com/apple/ml-speech-is-more-than-words) | None | None | 8 | Other | 2024-11-15 | 2025-07-16 | 2025-05-12 |
 | [ml-act](https://github.com/apple/ml-act) | None | Python | 53 | Other | 2024-11-20 | 2025-07-23 | 2024-11-22 |
-| [ml-tarflow](https://github.com/apple/ml-tarflow) | None | Python | 258 | Other | 2024-12-07 | 2025-08-02 | 2024-12-17 |
+| [ml-tarflow](https://github.com/apple/ml-tarflow) | None | Python | 260 | Other | 2024-12-07 | 2025-08-03 | 2024-12-17 |
 | [ml-gsm-symbolic](https://github.com/apple/ml-gsm-symbolic) | GSM-Symbolic templates and generated data | None | 65 | Other | 2024-12-07 | 2025-07-18 | 2024-12-08 |
 | [ml-interactive-data-augmentation](https://github.com/apple/ml-interactive-data-augmentation) | Interactive Data Augmentation (CHI 2025) | Svelte | 22 | Other | 2024-12-11 | 2025-07-02 | 2025-03-20 |
 | [ml-gbc](https://github.com/apple/ml-gbc) | None | Python | 104 | Other | 2024-12-19 | 2025-07-20 | 2025-07-13 |
@@ -328,30 +328,30 @@ Statistics Date: 2025-08-03 08:08:48
 | [ml-reversal-blessing](https://github.com/apple/ml-reversal-blessing) | None | Python | 10 | Other | 2025-03-19 | 2025-07-31 | 2025-07-31 |
 | [ml-internal-llms-instruction-following](https://github.com/apple/ml-internal-llms-instruction-following) | None | Python | 10 | Other | 2025-03-19 | 2025-07-21 | 2025-03-19 |
 | [ml-uncertainty-llms-instruction-following](https://github.com/apple/ml-uncertainty-llms-instruction-following) | None | Python | 6 | Other | 2025-03-19 | 2025-04-27 | 2025-03-19 |
-| [swift-play-experimental](https://github.com/apple/swift-play-experimental) | None | Swift | 102 | Apache License 2.0 | 2025-03-19 | 2025-07-30 | 2025-07-30 |
+| [swift-play-experimental](https://github.com/apple/swift-play-experimental) | None | Swift | 103 | Apache License 2.0 | 2025-03-19 | 2025-08-04 | 2025-07-30 |
 | [ml-cubifyanything](https://github.com/apple/ml-cubifyanything) | None | Python | 305 | Other | 2025-03-20 | 2025-07-31 | 2025-03-21 |
 | [ml-tic-lm](https://github.com/apple/ml-tic-lm) | None | Python | 12 | Other | 2025-03-25 | 2025-07-28 | 2025-07-23 |
 | [ml-flextok](https://github.com/apple/ml-flextok) | FlexTok: Resampling Images into 1D Token Sequences of Flexible Length | Jupyter Notebook | 234 | Other | 2025-04-01 | 2025-08-03 | 2025-06-02 |
 | [visatronic-demo](https://github.com/apple/visatronic-demo) | Visatronic: A Multimodal Decoder-Only Model for Speech Synthesis | HTML | 15 | Other | 2025-04-03 | 2025-07-01 | 2025-05-28 |
 | [dmel-demo](https://github.com/apple/dmel-demo) | dMel: Speech Tokenization Made Simple | HTML | 14 | Other | 2025-04-03 | 2025-07-08 | 2025-05-13 |
-| [ml-matrix3d](https://github.com/apple/ml-matrix3d) | [CVPR 2025 Highlight] Matrix3D: Large Photogrammetry Model All-in-One | Python | 508 | Other | 2025-04-09 | 2025-08-02 | 2025-07-15 |
+| [ml-matrix3d](https://github.com/apple/ml-matrix3d) | [CVPR 2025 Highlight] Matrix3D: Large Photogrammetry Model All-in-One | Python | 510 | Other | 2025-04-09 | 2025-08-04 | 2025-07-15 |
 | [sample-fbounds-safety-adoption](https://github.com/apple/sample-fbounds-safety-adoption) | Sample Adoption of the Bounds Safety Extension in C | HTML | 3 | - | 2025-04-11 | 2025-07-04 | 2025-04-16 |
 | [ml-comotion](https://github.com/apple/ml-comotion) | None | Python | 201 | Other | 2025-04-15 | 2025-07-31 | 2025-04-16 |
 | [ml-space-benchmark](https://github.com/apple/ml-space-benchmark) | Code and data for "Does Spatial Cognition Emerge in Frontier Models?" | Python | 21 | Other | 2025-04-16 | 2025-07-20 | 2025-04-18 |
 | [ml-ui-jepa](https://github.com/apple/ml-ui-jepa) | None | Python | 5 | Other | 2025-04-25 | 2025-07-15 | 2025-04-25 |
-| [ml-fastvlm](https://github.com/apple/ml-fastvlm) | This repository contains the official implementation of "FastVLM: Efficient Vision Encoding for Vision Language Models" - CVPR 2025 | Python | 5232 | Other | 2025-05-01 | 2025-08-03 | 2025-05-05 |
+| [ml-fastvlm](https://github.com/apple/ml-fastvlm) | This repository contains the official implementation of "FastVLM: Efficient Vision Encoding for Vision Language Models" - CVPR 2025 | Python | 5247 | Other | 2025-05-01 | 2025-08-04 | 2025-05-05 |
 | [swift-ntp](https://github.com/apple/swift-ntp) | Swift NTP library using Swift NIO. Provides an NTPClient. | Swift | 71 | Apache License 2.0 | 2025-05-05 | 2025-07-30 | 2025-07-11 |
-| [embedding-atlas](https://github.com/apple/embedding-atlas) | Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata. | TypeScript | 345 | MIT License | 2025-05-07 | 2025-08-03 | 2025-07-30 |
+| [embedding-atlas](https://github.com/apple/embedding-atlas) | Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata. | TypeScript | 355 | MIT License | 2025-05-07 | 2025-08-03 | 2025-07-30 |
 | [dmel](https://github.com/apple/dmel) | None | Python | 11 | Other | 2025-05-13 | 2025-07-21 | 2025-05-13 |
 | [swift-binary-parsing](https://github.com/apple/swift-binary-parsing) | None | Swift | 294 | Apache License 2.0 | 2025-05-24 | 2025-07-31 | 2025-07-14 |
 | [ml-synthbias](https://github.com/apple/ml-synthbias) | None | None | 3 | Other | 2025-05-27 | 2025-07-27 | 2025-07-15 |
 | [ml-isqoe](https://github.com/apple/ml-isqoe) | Official implementation of the paper "What Makes for a Good Stereoscopic Image" CVPRW 2025 | Python | 14 | Other | 2025-05-27 | 2025-07-11 | 2025-05-27 |
 | [container-builder-shim](https://github.com/apple/container-builder-shim) | Shim for connecting Swift host code to BuildKit running in a container.  | Go | 96 | Apache License 2.0 | 2025-05-28 | 2025-07-29 | 2025-07-29 |
 | [ml-aspera](https://github.com/apple/ml-aspera) | Data generation engine, sandbox environment and evaluation tools accompanying "ASPERA: A Simulated Environment to Evaluate Planning for Complex Action Execution". | Python | 6 | Other | 2025-05-28 | 2025-07-29 | 2025-07-25 |
-| [containerization](https://github.com/apple/containerization) | Containerization is a Swift package for running Linux containers on macOS. | Swift | 7651 | Apache License 2.0 | 2025-05-29 | 2025-08-03 | 2025-08-01 |
-| [container](https://github.com/apple/container) | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  | Swift | 17972 | Apache License 2.0 | 2025-05-30 | 2025-08-03 | 2025-07-31 |
+| [containerization](https://github.com/apple/containerization) | Containerization is a Swift package for running Linux containers on macOS. | Swift | 7667 | Apache License 2.0 | 2025-05-29 | 2025-08-04 | 2025-08-01 |
+| [container](https://github.com/apple/container) | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  | Swift | 18002 | Apache License 2.0 | 2025-05-30 | 2025-08-04 | 2025-07-31 |
 | [ml-selfreflect](https://github.com/apple/ml-selfreflect) | None | Python | 13 | Other | 2025-06-30 | 2025-07-20 | 2025-07-01 |
-| [ml-diffucoder](https://github.com/apple/ml-diffucoder) | DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation | Python | 675 | Other | 2025-07-01 | 2025-08-02 | 2025-07-09 |
+| [ml-diffucoder](https://github.com/apple/ml-diffucoder) | DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation | Python | 679 | Other | 2025-07-01 | 2025-08-04 | 2025-07-09 |
 | [ml-gie-bench](https://github.com/apple/ml-gie-bench) | None | Python | 10 | Other | 2025-07-03 | 2025-07-28 | 2025-07-24 |
 | [ml-tada](https://github.com/apple/ml-tada) | None | Python | 10 | Other | 2025-07-03 | 2025-07-20 | 2025-07-03 |
 | [ml-predict](https://github.com/apple/ml-predict) | None | Python | 6 | Other | 2025-07-09 | 2025-07-20 | 2025-07-09 |
@@ -635,7 +635,7 @@ Statistics Date: 2025-08-03 08:08:48
 | [distribution-Developer_Tools](https://github.com/apple-oss-distributions/distribution-Developer_Tools) | None | None | 137 | - | 2021-10-04 | 2025-07-07 | 2025-05-07 |
 | [distribution-OS_X_Server](https://github.com/apple-oss-distributions/distribution-OS_X_Server) | None | None | 65 | - | 2021-10-04 | 2025-07-28 | 2023-09-10 |
 | [distribution-iOS](https://github.com/apple-oss-distributions/distribution-iOS) | None | None | 167 | - | 2021-10-04 | 2025-07-30 | 2025-05-21 |
-| [distribution-macOS](https://github.com/apple-oss-distributions/distribution-macOS) | None | None | 721 | - | 2021-10-04 | 2025-08-02 | 2025-05-21 |
+| [distribution-macOS](https://github.com/apple-oss-distributions/distribution-macOS) | None | None | 722 | - | 2021-10-04 | 2025-08-03 | 2025-05-21 |
 | [doc_cmds](https://github.com/apple-oss-distributions/doc_cmds) | None | C | 3 | - | 2021-10-04 | 2025-05-07 | 2025-05-07 |
 | [dovecot](https://github.com/apple-oss-distributions/dovecot) | None | C | 6 | - | 2021-10-04 | 2024-12-26 | 2022-04-08 |
 | [drvAppleCMD646Root](https://github.com/apple-oss-distributions/drvAppleCMD646Root) | None | C++ | 1 | - | 2021-10-04 | 2023-01-15 | 2021-10-06 |
@@ -864,7 +864,7 @@ Statistics Date: 2025-08-03 08:08:48
 | [yacc](https://github.com/apple-oss-distributions/yacc) | None | C | 2 | - | 2021-10-04 | 2025-04-11 | 2021-10-06 |
 | [zip](https://github.com/apple-oss-distributions/zip) | None | C | 6 | - | 2021-10-04 | 2025-05-07 | 2025-05-07 |
 | [zlib](https://github.com/apple-oss-distributions/zlib) | None | C | 13 | - | 2021-10-04 | 2025-05-08 | 2025-05-07 |
-| [zsh](https://github.com/apple-oss-distributions/zsh) | None | C | 49 | - | 2021-10-04 | 2025-07-29 | 2024-09-30 |
+| [zsh](https://github.com/apple-oss-distributions/zsh) | None | C | 50 | - | 2021-10-04 | 2025-08-04 | 2024-09-30 |
 | [uboot](https://github.com/apple-oss-distributions/uboot) | None | C | 11 | Other | 2024-02-06 | 2025-03-04 | 2024-02-06 |
 | [CareKit](https://github.com/carekit-apple/CareKit) | CareKit is an open source software framework for creating apps that help people better understand and manage their health. | Swift | 2461 | Other | 2016-04-14 | 2025-08-02 | 2025-05-13 |
 | [IBM-HyperProtectSDK](https://github.com/carekit-apple/IBM-HyperProtectSDK) | The IBM Hyper Protect iOS SDK for CareKit is an addon for the CareKit framework that consumes IBM Hyper Protect Services for zero-trust persistent cloud storage and bi-directional synchronization across multiple devices with just 2 lines of code | Swift | 12 | BSD 3-Clause "New" or "Revised" License | 2020-03-11 | 2024-05-04 | 2020-09-02 |
@@ -873,54 +873,54 @@ Statistics Date: 2025-08-03 08:08:48
 | [WWDC21-RecoverApp](https://github.com/carekit-apple/WWDC21-RecoverApp) | None | Swift | 40 | - | 2021-06-07 | 2025-07-30 | 2022-07-05 |
 | [CareKitSample](https://github.com/carekit-apple/CareKitSample) | A sample app that demonstrates how to use CareKit's APIs | Swift | 12 | Other | 2021-06-16 | 2025-08-02 | 2021-06-25 |
 | [CareKitCatalog](https://github.com/carekit-apple/CareKitCatalog) | A catalog app that visually documents many of the features in CareKit | Swift | 11 | Other | 2021-06-16 | 2025-06-10 | 2021-06-25 |
-| [swift](https://github.com/swiftlang/swift) | The Swift Programming Language | C++ | 68914 | Apache License 2.0 | 2015-10-23 | 2025-08-03 | 2025-08-02 |
-| [swift-llbuild](https://github.com/swiftlang/swift-llbuild) | A low-level build system, used by Xcode and the Swift Package Manager | C++ | 1220 | Apache License 2.0 | 2015-10-23 | 2025-07-23 | 2025-08-02 |
-| [swift-package-manager](https://github.com/swiftlang/swift-package-manager) | The Package Manager for the Swift Programming Language | Swift | 9983 | Apache License 2.0 | 2015-10-23 | 2025-08-02 | 2025-08-02 |
-| [swift-evolution](https://github.com/swiftlang/swift-evolution) | This maintains proposals for changes and user-visible enhancements to the Swift Programming Language. | Markdown | 15656 | Apache License 2.0 | 2015-11-03 | 2025-08-02 | 2025-07-31 |
-| [swift-corelibs-foundation](https://github.com/swiftlang/swift-corelibs-foundation) | The Foundation Project, providing core utilities, internationalization, and OS independence | C | 5377 | Apache License 2.0 | 2015-11-09 | 2025-08-01 | 2025-08-02 |
-| [swift-corelibs-libdispatch](https://github.com/swiftlang/swift-corelibs-libdispatch) | The libdispatch Project, (a.k.a. Grand Central Dispatch), for concurrency on multicore hardware | C | 2523 | Apache License 2.0 | 2015-11-09 | 2025-07-31 | 2025-08-02 |
-| [swift-corelibs-xctest](https://github.com/swiftlang/swift-corelibs-xctest) | The XCTest Project, A Swift core library for providing unit test support | Swift | 1164 | Apache License 2.0 | 2015-11-09 | 2025-07-24 | 2025-08-02 |
-| [example-package-playingcard](https://github.com/swiftlang/example-package-playingcard) | Example package for use with the Swift Package Manager | Swift | 340 | Apache License 2.0 | 2015-11-10 | 2025-08-02 | 2025-06-05 |
+| [swift](https://github.com/swiftlang/swift) | The Swift Programming Language | C++ | 68916 | Apache License 2.0 | 2015-10-23 | 2025-08-04 | 2025-08-04 |
+| [swift-llbuild](https://github.com/swiftlang/swift-llbuild) | A low-level build system, used by Xcode and the Swift Package Manager | C++ | 1220 | Apache License 2.0 | 2015-10-23 | 2025-07-23 | 2025-08-03 |
+| [swift-package-manager](https://github.com/swiftlang/swift-package-manager) | The Package Manager for the Swift Programming Language | Swift | 9983 | Apache License 2.0 | 2015-10-23 | 2025-08-02 | 2025-08-03 |
+| [swift-evolution](https://github.com/swiftlang/swift-evolution) | This maintains proposals for changes and user-visible enhancements to the Swift Programming Language. | Markdown | 15655 | Apache License 2.0 | 2015-11-03 | 2025-08-04 | 2025-07-31 |
+| [swift-corelibs-foundation](https://github.com/swiftlang/swift-corelibs-foundation) | The Foundation Project, providing core utilities, internationalization, and OS independence | C | 5379 | Apache License 2.0 | 2015-11-09 | 2025-08-03 | 2025-08-03 |
+| [swift-corelibs-libdispatch](https://github.com/swiftlang/swift-corelibs-libdispatch) | The libdispatch Project, (a.k.a. Grand Central Dispatch), for concurrency on multicore hardware | C | 2523 | Apache License 2.0 | 2015-11-09 | 2025-07-31 | 2025-08-03 |
+| [swift-corelibs-xctest](https://github.com/swiftlang/swift-corelibs-xctest) | The XCTest Project, A Swift core library for providing unit test support | Swift | 1164 | Apache License 2.0 | 2015-11-09 | 2025-07-24 | 2025-08-03 |
+| [example-package-playingcard](https://github.com/swiftlang/example-package-playingcard) | Example package for use with the Swift Package Manager | Swift | 341 | Apache License 2.0 | 2015-11-10 | 2025-08-03 | 2025-06-05 |
 | [example-package-deckofplayingcards](https://github.com/swiftlang/example-package-deckofplayingcards) | Example package for use with the Swift Package Manager | Swift | 196 | Apache License 2.0 | 2015-11-10 | 2025-07-31 | 2025-06-05 |
 | [example-package-dealer](https://github.com/swiftlang/example-package-dealer) | Example package for use with the Swift Package Manager | Swift | 359 | Apache License 2.0 | 2015-11-10 | 2025-07-31 | 2025-07-16 |
-| [swift-docker](https://github.com/swiftlang/swift-docker) | Docker Official Image packaging for Swift | Dockerfile | 1394 | Apache License 2.0 | 2015-12-03 | 2025-08-01 | 2025-07-22 |
-| [swift-integration-tests](https://github.com/swiftlang/swift-integration-tests) | Automated tests for validating the generated Swift snapshots behave correctly | Python | 112 | - | 2015-12-05 | 2025-07-15 | 2025-08-02 |
-| [swift-cmark](https://github.com/swiftlang/swift-cmark) | CommonMark parsing and rendering library and program in C | C | 296 | Other | 2015-12-13 | 2025-07-30 | 2025-08-02 |
+| [swift-docker](https://github.com/swiftlang/swift-docker) | Docker Official Image packaging for Swift | Dockerfile | 1396 | Apache License 2.0 | 2015-12-03 | 2025-08-03 | 2025-07-22 |
+| [swift-integration-tests](https://github.com/swiftlang/swift-integration-tests) | Automated tests for validating the generated Swift snapshots behave correctly | Python | 112 | - | 2015-12-05 | 2025-07-15 | 2025-08-03 |
+| [swift-cmark](https://github.com/swiftlang/swift-cmark) | CommonMark parsing and rendering library and program in C | C | 296 | Other | 2015-12-13 | 2025-07-30 | 2025-08-03 |
 | [swift-source-compat-suite](https://github.com/swiftlang/swift-source-compat-suite) | The infrastructure and project index comprising the Swift source compatibility suite. | Python | 284 | Apache License 2.0 | 2017-01-10 | 2025-07-23 | 2025-07-23 |
 | [swift-community-hosted-continuous-integration](https://github.com/swiftlang/swift-community-hosted-continuous-integration) | Swift Community-Hosted Continuous Integration | None | 118 | Apache License 2.0 | 2017-11-16 | 2025-06-30 | 2025-02-07 |
-| [swift-stress-tester](https://github.com/swiftlang/swift-stress-tester) | Stress testing utilities for Swift's tooling | Swift | 211 | Apache License 2.0 | 2018-03-10 | 2025-06-30 | 2025-08-02 |
-| [swift-tools-support-core](https://github.com/swiftlang/swift-tools-support-core) | Contains common infrastructural code for both SwiftPM and llbuild. | Swift | 417 | Apache License 2.0 | 2018-03-27 | 2025-08-03 | 2025-08-02 |
-| [swift-syntax](https://github.com/swiftlang/swift-syntax) | A set of Swift libraries for parsing, inspecting, generating, and transforming Swift source code. | Swift | 3483 | Apache License 2.0 | 2018-07-31 | 2025-07-31 | 2025-08-02 |
-| [sourcekit-lsp](https://github.com/swiftlang/sourcekit-lsp) | Language Server Protocol implementation for Swift and C-based languages | Swift | 3577 | Apache License 2.0 | 2018-10-26 | 2025-08-02 | 2025-08-02 |
-| [indexstore-db](https://github.com/swiftlang/indexstore-db) | Index database library for use with sourcekit-lsp | C++ | 359 | Apache License 2.0 | 2018-10-26 | 2025-08-01 | 2025-08-02 |
-| [swift-format](https://github.com/swiftlang/swift-format) | Formatting technology for Swift source code | Swift | 2737 | Apache License 2.0 | 2019-07-09 | 2025-08-02 | 2025-08-02 |
-| [swift-driver](https://github.com/swiftlang/swift-driver) | Swift compiler driver reimplementation in Swift | Swift | 824 | Apache License 2.0 | 2019-10-10 | 2025-08-02 | 2025-08-02 |
-| [llvm-project](https://github.com/swiftlang/llvm-project) | The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.  This fork is used to manage Swift’s stable releases of Clang as well as support the Swift project. | LLVM | 1179 | Other | 2019-10-17 | 2025-08-02 | 2025-08-03 |
+| [swift-stress-tester](https://github.com/swiftlang/swift-stress-tester) | Stress testing utilities for Swift's tooling | Swift | 211 | Apache License 2.0 | 2018-03-10 | 2025-06-30 | 2025-08-03 |
+| [swift-tools-support-core](https://github.com/swiftlang/swift-tools-support-core) | Contains common infrastructural code for both SwiftPM and llbuild. | Swift | 417 | Apache License 2.0 | 2018-03-27 | 2025-08-03 | 2025-08-03 |
+| [swift-syntax](https://github.com/swiftlang/swift-syntax) | A set of Swift libraries for parsing, inspecting, generating, and transforming Swift source code. | Swift | 3484 | Apache License 2.0 | 2018-07-31 | 2025-08-03 | 2025-08-03 |
+| [sourcekit-lsp](https://github.com/swiftlang/sourcekit-lsp) | Language Server Protocol implementation for Swift and C-based languages | Swift | 3579 | Apache License 2.0 | 2018-10-26 | 2025-08-03 | 2025-08-03 |
+| [indexstore-db](https://github.com/swiftlang/indexstore-db) | Index database library for use with sourcekit-lsp | C++ | 359 | Apache License 2.0 | 2018-10-26 | 2025-08-01 | 2025-08-03 |
+| [swift-format](https://github.com/swiftlang/swift-format) | Formatting technology for Swift source code | Swift | 2738 | Apache License 2.0 | 2019-07-09 | 2025-08-03 | 2025-08-03 |
+| [swift-driver](https://github.com/swiftlang/swift-driver) | Swift compiler driver reimplementation in Swift | Swift | 824 | Apache License 2.0 | 2019-10-10 | 2025-08-02 | 2025-08-03 |
+| [llvm-project](https://github.com/swiftlang/llvm-project) | The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.  This fork is used to manage Swift’s stable releases of Clang as well as support the Swift project. | LLVM | 1180 | Other | 2019-10-17 | 2025-08-04 | 2025-08-04 |
 | [swift-se0270-range-set](https://github.com/swiftlang/swift-se0270-range-set) | Swift Evolution preview package for SE-0270. | Swift | 20 | Apache License 2.0 | 2020-02-06 | 2024-07-18 | 2024-07-17 |
 | [swift-package-collection-generator](https://github.com/swiftlang/swift-package-collection-generator) | A collection of packages and tooling for generating and consuming package feeds. | Swift | 112 | Apache License 2.0 | 2020-10-23 | 2025-07-25 | 2025-03-21 |
-| [swift-docc](https://github.com/swiftlang/swift-docc) | Documentation compiler that produces rich API reference documentation and interactive tutorials for your Swift framework or package. | Swift | 1265 | Apache License 2.0 | 2021-07-19 | 2025-08-02 | 2025-08-02 |
-| [swift-markdown](https://github.com/swiftlang/swift-markdown) | A Swift package for parsing, building, editing, and analyzing Markdown documents. | Swift | 3028 | Apache License 2.0 | 2021-07-19 | 2025-08-01 | 2025-08-02 |
+| [swift-docc](https://github.com/swiftlang/swift-docc) | Documentation compiler that produces rich API reference documentation and interactive tutorials for your Swift framework or package. | Swift | 1265 | Apache License 2.0 | 2021-07-19 | 2025-08-02 | 2025-08-03 |
+| [swift-markdown](https://github.com/swiftlang/swift-markdown) | A Swift package for parsing, building, editing, and analyzing Markdown documents. | Swift | 3028 | Apache License 2.0 | 2021-07-19 | 2025-08-01 | 2025-08-03 |
 | [swift-docc-render](https://github.com/swiftlang/swift-docc-render) | Web renderer for Swift-DocC documentation. | JavaScript | 331 | Apache License 2.0 | 2021-07-19 | 2025-07-31 | 2025-07-31 |
-| [swift-docc-symbolkit](https://github.com/swiftlang/swift-docc-symbolkit) | A Swift package for encoding and decoding Swift Symbol Graph files. | Swift | 195 | Apache License 2.0 | 2021-07-19 | 2025-07-30 | 2025-08-02 |
+| [swift-docc-symbolkit](https://github.com/swiftlang/swift-docc-symbolkit) | A Swift package for encoding and decoding Swift Symbol Graph files. | Swift | 195 | Apache License 2.0 | 2021-07-19 | 2025-07-30 | 2025-08-03 |
 | [swift-installer-scripts](https://github.com/swiftlang/swift-installer-scripts) | None | CMake | 78 | Apache License 2.0 | 2021-07-20 | 2025-07-31 | 2025-07-31 |
 | [swift-package-registry-compatibility-test-suite](https://github.com/swiftlang/swift-package-registry-compatibility-test-suite) | Tools for building and testing Swift package registry server that implements SE-0292 and SE-0321 | Swift | 8 | Apache License 2.0 | 2021-07-22 | 2025-02-15 | 2024-07-23 |
 | [swift-se0288-is-power](https://github.com/swiftlang/swift-se0288-is-power) | Preview package for Swift Evolution proposal SE-0288 | Swift | 8 | Apache License 2.0 | 2021-09-08 | 2025-01-11 | 2024-07-17 |
-| [swift-experimental-string-processing](https://github.com/swiftlang/swift-experimental-string-processing) | An early experimental general-purpose pattern matching engine for Swift. | Swift | 291 | Apache License 2.0 | 2021-09-25 | 2025-07-15 | 2025-08-02 |
-| [swift-lmdb](https://github.com/swiftlang/swift-lmdb) | Read-only mirror of official repo on openldap.org. Issues and pull requests here are ignored. Use OpenLDAP ITS for issues. | C | 33 | - | 2021-10-13 | 2025-07-30 | 2025-08-02 |
-| [swift-docc-render-artifact](https://github.com/swiftlang/swift-docc-render-artifact) | Pre-built copy of the web renderer for Swift-DocC documentation. | None | 21 | Apache License 2.0 | 2021-10-15 | 2025-08-01 | 2025-08-02 |
+| [swift-experimental-string-processing](https://github.com/swiftlang/swift-experimental-string-processing) | An early experimental general-purpose pattern matching engine for Swift. | Swift | 291 | Apache License 2.0 | 2021-09-25 | 2025-07-15 | 2025-08-03 |
+| [swift-lmdb](https://github.com/swiftlang/swift-lmdb) | Read-only mirror of official repo on openldap.org. Issues and pull requests here are ignored. Use OpenLDAP ITS for issues. | C | 33 | - | 2021-10-13 | 2025-07-30 | 2025-08-03 |
+| [swift-docc-render-artifact](https://github.com/swiftlang/swift-docc-render-artifact) | Pre-built copy of the web renderer for Swift-DocC documentation. | None | 21 | Apache License 2.0 | 2021-10-15 | 2025-08-01 | 2025-08-03 |
 | [swift-docc-plugin](https://github.com/swiftlang/swift-docc-plugin) | Swift Package Manager command plugin for Swift-DocC | Swift | 358 | Apache License 2.0 | 2021-11-15 | 2025-07-23 | 2025-07-06 |
-| [vscode-swift](https://github.com/swiftlang/vscode-swift) | Visual Studio Code Extension for Swift | TypeScript | 953 | Apache License 2.0 | 2021-11-23 | 2025-08-01 | 2025-07-31 |
-| [swift-org-website](https://github.com/swiftlang/swift-org-website) | Swift.org website | SCSS | 529 | Other | 2022-02-11 | 2025-08-02 | 2025-08-02 |
+| [vscode-swift](https://github.com/swiftlang/vscode-swift) | Visual Studio Code Extension for Swift | TypeScript | 954 | Apache License 2.0 | 2021-11-23 | 2025-08-04 | 2025-07-31 |
+| [swift-org-website](https://github.com/swiftlang/swift-org-website) | Swift.org website | SCSS | 529 | Other | 2022-02-11 | 2025-08-03 | 2025-08-03 |
 | [swiftly](https://github.com/swiftlang/swiftly) | A Swift toolchain installer and manager, written in Swift. | Swift | 773 | Apache License 2.0 | 2022-06-20 | 2025-07-31 | 2025-07-30 |
 | [swift-llvm-bindings](https://github.com/swiftlang/swift-llvm-bindings) | Swift Bindings for LLVM Project APIs | Swift | 97 | Apache License 2.0 | 2022-07-11 | 2025-07-06 | 2025-07-18 |
 | [swift-book](https://github.com/swiftlang/swift-book) | The Swift Programming Language book | Markdown | 1858 | Apache License 2.0 | 2022-08-02 | 2025-08-01 | 2025-07-29 |
-| [swift-testing](https://github.com/swiftlang/swift-testing) | A modern, expressive testing package for Swift | Swift | 2030 | Apache License 2.0 | 2022-12-19 | 2025-08-03 | 2025-08-02 |
+| [swift-testing](https://github.com/swiftlang/swift-testing) | A modern, expressive testing package for Swift | Swift | 2030 | Apache License 2.0 | 2022-12-19 | 2025-08-03 | 2025-08-03 |
 | [swift-getting-started-package-library](https://github.com/swiftlang/swift-getting-started-package-library) | Getting started with Swift: Library with SwiftPM | Swift | 21 | Apache License 2.0 | 2023-01-08 | 2025-08-01 | 2025-08-01 |
 | [swift-getting-started-cli](https://github.com/swiftlang/swift-getting-started-cli) | Getting started with Swift: CLI tool with SwiftPM | Swift | 61 | Apache License 2.0 | 2023-01-08 | 2025-07-11 | 2025-06-04 |
-| [swift-foundation](https://github.com/swiftlang/swift-foundation) | The Foundation project | Swift | 2554 | Apache License 2.0 | 2023-01-19 | 2025-08-01 | 2025-08-02 |
-| [swift-foundation-icu](https://github.com/swiftlang/swift-foundation-icu) | None | C | 65 | Apache License 2.0 | 2023-01-19 | 2025-07-31 | 2025-08-02 |
+| [swift-foundation](https://github.com/swiftlang/swift-foundation) | The Foundation project | Swift | 2555 | Apache License 2.0 | 2023-01-19 | 2025-08-03 | 2025-08-03 |
+| [swift-foundation-icu](https://github.com/swiftlang/swift-foundation-icu) | None | C | 65 | Apache License 2.0 | 2023-01-19 | 2025-07-31 | 2025-08-03 |
 | [swift-sdk-generator](https://github.com/swiftlang/swift-sdk-generator) | Generate Swift SDKs for cross-compilation | Swift | 205 | Apache License 2.0 | 2023-02-01 | 2025-08-02 | 2025-08-02 |
-| [swift-cmake-examples](https://github.com/swiftlang/swift-cmake-examples) | None | CMake | 148 | Apache License 2.0 | 2023-06-02 | 2025-07-31 | 2025-07-10 |
+| [swift-cmake-examples](https://github.com/swiftlang/swift-cmake-examples) | None | CMake | 149 | Apache License 2.0 | 2023-06-02 | 2025-08-03 | 2025-07-10 |
 | [example-package-figlet](https://github.com/swiftlang/example-package-figlet) | Example package to be used as part of Swift's getting started guides | Swift | 26 | Apache License 2.0 | 2023-08-16 | 2025-07-16 | 2025-06-04 |
 | [swift-aoc-starter-example](https://github.com/swiftlang/swift-aoc-starter-example) | Swift starter project for solving Advent of Code challenges. | Swift | 240 | Apache License 2.0 | 2023-12-01 | 2025-07-31 | 2024-12-01 |
 | [swift-embedded-examples](https://github.com/swiftlang/swift-embedded-examples) | A collection of example projects using Embedded Swift | Swift | 933 | Apache License 2.0 | 2023-12-01 | 2025-08-02 | 2025-08-01 |
@@ -934,6 +934,6 @@ Statistics Date: 2025-08-03 08:08:48
 | [swift-toolchain-sqlite](https://github.com/swiftlang/swift-toolchain-sqlite) | Copy of SQLite for use by clients within the Swift toolchain.  This is not a general-purpose wrapper for SQLite. | C | 28 | Apache License 2.0 | 2024-08-05 | 2025-07-18 | 2025-07-08 |
 | [swift-java](https://github.com/swiftlang/swift-java) | Java interopability support for Swift | Swift | 1014 | Apache License 2.0 | 2024-09-24 | 2025-08-03 | 2025-08-03 |
 | [event-fosdem](https://github.com/swiftlang/event-fosdem) | Repo for coordinating the Swift DevRoom at FOSDEM | HTML | 2 | Apache License 2.0 | 2024-10-30 | 2025-02-19 | 2025-02-19 |
-| [swift-build](https://github.com/swiftlang/swift-build) | A high-level build system based on llbuild, used by Xcode, Swift Playground, and the Swift Package Manager | Swift | 2102 | Apache License 2.0 | 2025-01-28 | 2025-08-02 | 2025-08-02 |
-| [swift-subprocess](https://github.com/swiftlang/swift-subprocess) | Subprocess is a cross-platform package for spawning processes in Swift. | Swift | 367 | Apache License 2.0 | 2025-03-31 | 2025-08-02 | 2025-08-01 |
+| [swift-build](https://github.com/swiftlang/swift-build) | A high-level build system based on llbuild, used by Xcode, Swift Playground, and the Swift Package Manager | Swift | 2101 | Apache License 2.0 | 2025-01-28 | 2025-08-03 | 2025-08-03 |
+| [swift-subprocess](https://github.com/swiftlang/swift-subprocess) | Subprocess is a cross-platform package for spawning processes in Swift. | Swift | 368 | Apache License 2.0 | 2025-03-31 | 2025-08-03 | 2025-08-01 |
 | [swift-server-todos-tutorial](https://github.com/swiftlang/swift-server-todos-tutorial) | A tutorial for building a server-side TODO management application using Swift. | Swift | 11 | Apache License 2.0 | 2025-06-03 | 2025-06-20 | 2025-06-04 |
