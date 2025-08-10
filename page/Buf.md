@@ -1,16 +1,16 @@
 # Buf
 
-共 69 个项目，近半年内活跃项目 56 个，1 个团队， 19673 个 Star。
+共 69 个项目，近半年内活跃项目 56 个，1 个团队， 19677 个 Star。
 
 语言 Top 3：Go, TypeScript, Makefile
 
-统计时间：2025-08-09 08:08:30
+统计时间：2025-08-10 08:08:35
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) | Protocol Buffer Validation - replaced by https://github.com/bufbuild/protovalidate | Go | 3997 | Apache License 2.0 | 2017-10-03 | 2025-08-09 | 2025-08-04 |
 | [homebrew-buf](https://github.com/bufbuild/homebrew-buf) | Homebrew tap for Buf. | Shell | 13 | Apache License 2.0 | 2019-10-02 | 2025-08-06 | 2025-08-06 |
-| [buf](https://github.com/bufbuild/buf) | The best way of working with Protocol Buffers. | Go | 10144 | Apache License 2.0 | 2019-10-03 | 2025-08-09 | 2025-08-06 |
+| [buf](https://github.com/bufbuild/buf) | The best way of working with Protocol Buffers. | Go | 10146 | Apache License 2.0 | 2019-10-03 | 2025-08-09 | 2025-08-06 |
 | [vim-buf](https://github.com/bufbuild/vim-buf) | Vim integration for Buf. | Vim Script | 37 | Apache License 2.0 | 2019-10-03 | 2025-07-23 | 2025-07-31 |
 | [buf-examples](https://github.com/bufbuild/buf-examples) | Example repository that uses Buf. | TypeScript | 91 | Apache License 2.0 | 2019-10-12 | 2025-07-30 | 2025-07-30 |
 | [makego](https://github.com/bufbuild/makego) | Makefile setup for our Golang projects. | Makefile | 104 | Apache License 2.0 | 2019-11-18 | 2025-08-04 | 2025-08-08 |
@@ -76,4 +76,4 @@
 | [app-go](https://github.com/bufbuild/app-go) | A library to help build Go applications. | Go | 3 | Apache License 2.0 | 2025-05-09 | 2025-06-25 | 2025-05-09 |
 | [standard-go](https://github.com/bufbuild/standard-go) | Extensions to the Go standard library. | Go | 3 | Apache License 2.0 | 2025-05-12 | 2025-07-19 | 2025-05-12 |
 | [buf-plugin-protovalidate-strict](https://github.com/bufbuild/buf-plugin-protovalidate-strict) | A Buf check plugin for strictly enforcing Protovalidate annotations. | Go | 2 | Apache License 2.0 | 2025-06-25 | 2025-07-17 | 2025-06-28 |
-| [hyperpb-go](https://github.com/bufbuild/hyperpb-go) | 10x faster dynamic Protobuf parsing in Go that’s even 3x faster than generated code. | Go | 481 | Apache License 2.0 | 2025-07-14 | 2025-08-08 | 2025-08-05 |
+| [hyperpb-go](https://github.com/bufbuild/hyperpb-go) | 10x faster dynamic Protobuf parsing in Go that’s even 3x faster than generated code. | Go | 483 | Apache License 2.0 | 2025-07-14 | 2025-08-09 | 2025-08-05 |
