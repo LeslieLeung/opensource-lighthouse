@@ -1,14 +1,14 @@
 # Sony
 
-A total of 110 projects, 51 active projects in the last six months, 1 teams, and 16903 stars.
+A total of 110 projects, 51 active projects in the last six months, 1 teams, and 16907 stars.
 
 Top 3 Languages: Python, JavaScript, Jupyter Notebook
 
-Statistics Date: 2025-08-13 08:09:30
+Statistics Date: 2025-08-14 08:09:52
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3275 | MIT License | 2015-05-29 | 2025-08-13 | 2025-08-04 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3276 | MIT License | 2015-05-29 | 2025-08-14 | 2025-08-14 |
 | [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4206 | MIT License | 2015-05-29 | 2025-08-13 | 2025-07-05 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
@@ -28,7 +28,7 @@ Statistics Date: 2025-08-13 08:09:30
 | [cdp-js](https://github.com/sony/cdp-js) | Libraries/SDK modules for multi-platform application development | TypeScript | 22 | Apache License 2.0 | 2017-10-10 | 2024-02-11 | 2018-05-10 |
 | [cdp-lib](https://github.com/sony/cdp-lib) | Application template/libraries for cdp-js (Details: see cdp-js repository) | JavaScript | 6 | Apache License 2.0 | 2017-10-10 | 2017-11-13 | 2018-02-23 |
 | [cdp-cli](https://github.com/sony/cdp-cli) | Command line tools for generating start point of multi-platform application development (Details: see cdp-js repository) | HTML | 7 | Apache License 2.0 | 2017-10-10 | 2020-12-13 | 2018-07-13 |
-| [nnabla-examples](https://github.com/sony/nnabla-examples) | Neural Network Libraries https://nnabla.org/ - Examples | Python | 307 | Apache License 2.0 | 2017-11-05 | 2025-06-30 | 2025-06-30 |
+| [nnabla-examples](https://github.com/sony/nnabla-examples) | Neural Network Libraries https://nnabla.org/ - Examples | Python | 307 | Apache License 2.0 | 2017-11-05 | 2025-08-13 | 2025-06-30 |
 | [nnabla-c-runtime](https://github.com/sony/nnabla-c-runtime) | Neural Network Libraries - C Runtime | C | 55 | Apache License 2.0 | 2018-06-26 | 2025-07-29 | 2025-07-29 |
 | [mapray-js](https://github.com/sony/mapray-js) | JavaScript library for Interactive high quality 3D globes and maps in the browser | TypeScript | 142 | Apache License 2.0 | 2019-01-28 | 2025-07-25 | 2025-07-25 |
 | [typescript-fsa-redux-middleware](https://github.com/sony/typescript-fsa-redux-middleware) | Fluent syntax for defining typesafe Redux vanilla middlewares on top of typescript-fsa. | TypeScript | 10 | MIT License | 2019-01-29 | 2024-05-16 | 2020-01-24 |
@@ -81,7 +81,7 @@ Statistics Date: 2025-08-13 08:09:30
 | [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 97 | MIT License | 2024-06-04 | 2025-07-02 | 2025-03-31 |
 | [silentcipher](https://github.com/sony/silentcipher) | None | Python | 63 | MIT License | 2024-06-05 | 2025-08-12 | 2024-07-22 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 15 | MIT License | 2024-07-09 | 2025-06-29 | 2025-06-09 |
-| [genwarp](https://github.com/sony/genwarp) | None | Python | 289 | MIT License | 2024-08-06 | 2025-08-06 | 2024-09-26 |
+| [genwarp](https://github.com/sony/genwarp) | None | Python | 291 | MIT License | 2024-08-06 | 2025-08-13 | 2024-09-26 |
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 51 | MIT License | 2024-09-05 | 2025-08-01 | 2024-11-05 |
 | [esstra](https://github.com/sony/esstra) | A software suite for enhancing software supply chain transparency | Python | 18 | Other | 2024-10-03 | 2025-08-05 | 2025-08-05 |
 | [pagoda](https://github.com/sony/pagoda) | None | Python | 20 | MIT License | 2024-10-23 | 2025-06-19 | 2024-11-21 |
@@ -111,7 +111,7 @@ Statistics Date: 2025-08-13 08:09:30
 | [di4c](https://github.com/sony/di4c) | None | Python | 8 | MIT License | 2025-04-02 | 2025-07-24 | 2025-04-02 |
 | [x590schema](https://github.com/sony/x590schema) | None | Python | 2 | MIT License | 2025-05-08 | 2025-06-16 | 2025-05-29 |
 | [sbctm](https://github.com/sony/sbctm) | Schrödinger bridge consistency trajectory models for speech enhancement | Python | 6 | Other | 2025-05-09 | 2025-07-23 | 2025-07-17 |
-| [oil](https://github.com/sony/oil) | Official Repo for The Paper "Auto-Bidding in Real-Time Auctions via Oracle Imitation Learning" (KDD'25, Research Track) | Python | 0 | MIT License | 2025-05-23 | 2025-06-26 | 2025-05-23 |
+| [oil](https://github.com/sony/oil) | Official Repo for The Paper "Auto-Bidding in Real-Time Auctions via Oracle Imitation Learning" (KDD'25, Research Track) | Python | 1 | MIT License | 2025-05-23 | 2025-08-13 | 2025-05-23 |
 | [neural-network-console](https://github.com/sony/neural-network-console) | None | C++ | 4 | Apache License 2.0 | 2025-05-29 | 2025-08-07 | 2025-07-31 |
 | [NeISFpp](https://github.com/sony/NeISFpp) | None | Python | 1 | Other | 2025-06-09 | 2025-07-25 | 2025-07-25 |
 | [BannerAgency](https://github.com/sony/BannerAgency) |  The official repo for BannerAgency: Advertising Banner Design with Multimodal LLM Agents | Python | 5 | - | 2025-07-01 | 2025-08-09 | 2025-08-04 |
