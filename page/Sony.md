@@ -1,20 +1,20 @@
 # Sony
 
-共 110 个项目，近半年内活跃项目 51 个，1 个团队， 16907 个 Star。
+共 110 个项目，近半年内活跃项目 51 个，1 个团队， 16917 个 Star。
 
 语言 Top 3：Python, JavaScript, Jupyter Notebook
 
-统计时间：2025-08-14 08:09:52
+统计时间：2025-08-15 08:09:48
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3276 | MIT License | 2015-05-29 | 2025-08-14 | 2025-08-14 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3278 | MIT License | 2015-05-29 | 2025-08-15 | 2025-08-14 |
 | [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4206 | MIT License | 2015-05-29 | 2025-08-13 | 2025-07-05 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 413 | MIT License | 2015-09-18 | 2025-06-24 | 2020-12-29 |
 | [cdn-purge-control-php](https://github.com/sony/cdn-purge-control-php) | Multi CDN purge control library for PHP | PHP | 8 | MIT License | 2016-01-06 | 2023-04-07 | 2016-10-06 |
-| [huis-ui-creator](https://github.com/sony/huis-ui-creator) | None | JavaScript | 38 | Apache License 2.0 | 2016-02-02 | 2025-07-11 | 2024-07-02 |
+| [huis-ui-creator](https://github.com/sony/huis-ui-creator) | None | JavaScript | 39 | Apache License 2.0 | 2016-02-02 | 2025-08-15 | 2024-07-02 |
 | [node-win-usbdev](https://github.com/sony/node-win-usbdev) | None | C++ | 3 | Apache License 2.0 | 2016-02-02 | 2023-03-29 | 2018-02-16 |
 | [pdaf-library](https://github.com/sony/pdaf-library) | None | C | 35 | BSD 3-Clause "New" or "Revised" License | 2016-03-25 | 2025-07-31 | 2016-03-28 |
 | [smarttennissensormp4meta](https://github.com/sony/smarttennissensormp4meta) | None | Java | 4 | Apache License 2.0 | 2016-08-30 | 2022-03-12 | 2016-09-28 |
@@ -39,11 +39,11 @@
 | [ai-research-code](https://github.com/sony/ai-research-code) | None | Python | 356 | Apache License 2.0 | 2020-04-14 | 2025-07-26 | 2023-09-12 |
 | [nnabla-nas](https://github.com/sony/nnabla-nas) | Neural Architecture Search for Neural Network Libraries | Python | 60 | Apache License 2.0 | 2020-06-15 | 2025-07-14 | 2024-01-22 |
 | [micro-notifier](https://github.com/sony/micro-notifier) | Simplified Pusher Clone | Go | 13 | MIT License | 2020-09-06 | 2025-07-30 | 2025-07-30 |
-| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1296 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2025-08-08 | 2025-07-25 |
+| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1297 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2025-08-14 | 2025-07-25 |
 | [lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) | None | Python | 0 | MIT License | 2021-03-25 | 2021-05-13 | 2021-05-13 |
 | [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 124 | Apache License 2.0 | 2021-06-11 | 2025-05-10 | 2024-12-16 |
 | [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 104 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2025-07-18 | 2024-12-19 |
-| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 568 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2025-08-13 | 2025-07-09 |
+| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 571 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2025-08-14 | 2025-07-09 |
 | [flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) | Flutter plugins for embedded Linux (eLinux) | C++ | 58 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2025-08-08 | 2024-12-13 |
 | [ds-research-code](https://github.com/sony/ds-research-code) | None | Jupyter Notebook | 1 | - | 2021-07-19 | 2025-08-06 | 2025-08-06 |
 | [pyIEOE](https://github.com/sony/pyIEOE) | None | Python | 32 | MIT License | 2021-07-20 | 2025-07-22 | 2025-02-21 |
@@ -52,7 +52,7 @@
 | [nnabla-browser](https://github.com/sony/nnabla-browser) | Visualization toolkit for Neural Network Libraries | TypeScript | 9 | Apache License 2.0 | 2022-03-31 | 2024-07-06 | 2023-03-07 |
 | [sqvae](https://github.com/sony/sqvae) | Pytorch implementation of stochastically quantized variational autoencoder (SQ-VAE) | Python | 190 | Apache License 2.0 | 2022-05-26 | 2025-06-19 | 2022-07-20 |
 | [aibo-development-tutorial](https://github.com/sony/aibo-development-tutorial) | None | None | 8 | Other | 2022-06-28 | 2025-04-20 | 2022-06-30 |
-| [FxNorm-automix](https://github.com/sony/FxNorm-automix) | FxNorm-Automix - Implementation of automatic music mixing systems. We show how we can use wet music data and repurpose it to train a fully automatic mixing system | Python | 123 | MIT License | 2022-08-05 | 2025-07-29 | 2024-03-11 |
+| [FxNorm-automix](https://github.com/sony/FxNorm-automix) | FxNorm-Automix - Implementation of automatic music mixing systems. We show how we can use wet music data and repurpose it to train a fully automatic mixing system | Python | 124 | MIT License | 2022-08-05 | 2025-08-15 | 2024-03-11 |
 | [polar-densification](https://github.com/sony/polar-densification) | None | Python | 29 | MIT License | 2022-09-13 | 2025-07-23 | 2023-03-24 |
 | [nnabla-js](https://github.com/sony/nnabla-js) | None | TypeScript | 1 | Apache License 2.0 | 2022-09-16 | 2023-02-01 | 2023-01-13 |
 | [DiffRoll](https://github.com/sony/DiffRoll) | PyTorch implementation of DiffRoll, a diffusion-based generative automatic music transcription (AMT) model | Jupyter Notebook | 78 | MIT License | 2022-10-11 | 2025-08-06 | 2023-12-06 |
@@ -63,7 +63,7 @@
 | [evsCluster](https://github.com/sony/evsCluster) | Python scripts to process EVS (Event-based vision sensor) data | Python | 10 | Other | 2023-03-15 | 2025-07-15 | 2024-01-30 |
 | [Instruct3Dto3D-doc](https://github.com/sony/Instruct3Dto3D-doc) | Official documentation of Instruct 3D-to-3D | HTML | 2 | - | 2023-03-23 | 2024-10-31 | 2024-10-31 |
 | [pixel-guided-diffusion](https://github.com/sony/pixel-guided-diffusion) | Fine-grained Image Editing by Pixel-wise Guidance Using Diffusion Models | Python | 39 | Apache License 2.0 | 2023-04-06 | 2025-04-29 | 2023-06-09 |
-| [ARCv2_Ghidra](https://github.com/sony/ARCv2_Ghidra) | None | None | 0 | Apache License 2.0 | 2023-04-26 | 2023-04-26 | 2023-04-26 |
+| [ARCv2_Ghidra](https://github.com/sony/ARCv2_Ghidra) | None | None | 1 | Apache License 2.0 | 2023-04-26 | 2025-08-15 | 2023-04-26 |
 | [gibbsddrm](https://github.com/sony/gibbsddrm) | None | Python | 30 | MIT License | 2023-04-26 | 2025-06-06 | 2023-05-29 |
 | [fp-diffusion](https://github.com/sony/fp-diffusion) | None | Jupyter Notebook | 29 | Apache License 2.0 | 2023-04-26 | 2025-08-10 | 2024-02-14 |
 | [diffiner](https://github.com/sony/diffiner) | None | Python | 63 | MIT License | 2023-05-30 | 2025-06-24 | 2023-08-16 |
@@ -93,7 +93,7 @@
 | [ABA](https://github.com/sony/ABA) | Official Repo for The Paper "Adaptive Budget Optimization for Multichannel Advertising Using Combinatorial Bandits" (AAMAS'25) | Python | 2 | Other | 2025-01-21 | 2025-07-28 | 2025-02-18 |
 | [MambaPEFT](https://github.com/sony/MambaPEFT) | None | Python | 16 | Apache License 2.0 | 2025-01-24 | 2025-07-29 | 2025-03-27 |
 | [bl-flowsom_eval](https://github.com/sony/bl-flowsom_eval) | None | Jupyter Notebook | 0 | MIT License | 2025-01-28 | 2025-02-04 | 2025-02-04 |
-| [bl-flowsom_poc](https://github.com/sony/bl-flowsom_poc) | None | Python | 1 | Other | 2025-01-28 | 2025-05-26 | 2025-02-04 |
+| [bl-flowsom_poc](https://github.com/sony/bl-flowsom_poc) | None | Python | 1 | Other | 2025-01-28 | 2025-08-14 | 2025-02-04 |
 | [jys](https://github.com/sony/jys) | None | Python | 5 | - | 2025-02-06 | 2025-07-07 | 2025-02-25 |
 | [hero](https://github.com/sony/hero) | None | Python | 1 | - | 2025-02-06 | 2025-05-22 | 2025-05-12 |
 | [wpse](https://github.com/sony/wpse) | None | Python | 3 | MIT License | 2025-02-06 | 2025-05-21 | 2025-05-21 |
@@ -111,7 +111,7 @@
 | [di4c](https://github.com/sony/di4c) | None | Python | 8 | MIT License | 2025-04-02 | 2025-07-24 | 2025-04-02 |
 | [x590schema](https://github.com/sony/x590schema) | None | Python | 2 | MIT License | 2025-05-08 | 2025-06-16 | 2025-05-29 |
 | [sbctm](https://github.com/sony/sbctm) | Schrödinger bridge consistency trajectory models for speech enhancement | Python | 6 | Other | 2025-05-09 | 2025-07-23 | 2025-07-17 |
-| [oil](https://github.com/sony/oil) | Official Repo for The Paper "Auto-Bidding in Real-Time Auctions via Oracle Imitation Learning" (KDD'25, Research Track) | Python | 1 | MIT License | 2025-05-23 | 2025-08-13 | 2025-05-23 |
+| [oil](https://github.com/sony/oil) | Official Repo for The Paper "Auto-Bidding in Real-Time Auctions via Oracle Imitation Learning" (KDD'25, Research Track) | Python | 2 | MIT License | 2025-05-23 | 2025-08-14 | 2025-05-23 |
 | [neural-network-console](https://github.com/sony/neural-network-console) | None | C++ | 4 | Apache License 2.0 | 2025-05-29 | 2025-08-07 | 2025-07-31 |
 | [NeISFpp](https://github.com/sony/NeISFpp) | None | Python | 1 | Other | 2025-06-09 | 2025-07-25 | 2025-07-25 |
 | [BannerAgency](https://github.com/sony/BannerAgency) |  The official repo for BannerAgency: Advertising Banner Design with Multimodal LLM Agents | Python | 5 | - | 2025-07-01 | 2025-08-09 | 2025-08-04 |
