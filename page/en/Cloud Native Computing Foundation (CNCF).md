@@ -1,14 +1,14 @@
 # Cloud Native Computing Foundation (CNCF)
 
-A total of 392 projects, 245 active projects in the last six months, 4 teams, and 211094 stars.
+A total of 392 projects, 245 active projects in the last six months, 4 teams, and 211153 stars.
 
 Top 3 Languages: Go, Shell, HTML
 
-Statistics Date: 2025-08-24 08:07:54
+Statistics Date: 2025-08-25 08:10:07
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [toc](https://github.com/cncf/toc) | ⚖️ The CNCF Technical Oversight Committee (TOC) is the technical governing body of the CNCF Foundation. | Go | 1758 | - | 2015-12-07 | 2025-08-22 | 2025-08-22 |
+| [toc](https://github.com/cncf/toc) | ⚖️ The CNCF Technical Oversight Committee (TOC) is the technical governing body of the CNCF Foundation. | Go | 1758 | - | 2015-12-07 | 2025-08-25 | 2025-08-25 |
 | [artwork](https://github.com/cncf/artwork) | 🎨 CNCF-related logos and artwork | None | 608 | Other | 2015-12-07 | 2025-08-19 | 2025-08-18 |
 | [cluster](https://github.com/cncf/cluster) | 🖥🖥🖥🖥CNCF Community Cluster | None | 157 | - | 2016-04-04 | 2025-06-10 | 2025-06-10 |
 | [presentations](https://github.com/cncf/presentations) | 📊 Presentations from the CNCF community to share and reuse | Go | 935 | - | 2016-04-05 | 2025-08-11 | 2025-08-18 |
@@ -17,14 +17,14 @@ Statistics Date: 2025-08-24 08:07:54
 | [ambassadors](https://github.com/cncf/ambassadors) | 🌏🌎🌍 CNCF Ambassadors | None | 160 | - | 2016-07-11 | 2025-07-29 | 2025-07-29 |
 | [foundation](https://github.com/cncf/foundation) | ☁️♮🏛 This repo contains several documents related to the operation of the CNCF. File non-technical issues related to CNCF here. | Rich Text Format | 617 | Other | 2016-08-17 | 2025-08-22 | 2025-08-22 |
 | [landscape](https://github.com/cncf/landscape) | 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquarters location. | None | 9670 | Apache License 2.0 | 2016-11-04 | 2025-08-24 | 2025-08-22 |
-| [mentoring](https://github.com/cncf/mentoring) | 👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF Mentoring + CommunityBridge + Summer of Code | None | 2657 | Apache License 2.0 | 2017-02-08 | 2025-08-23 | 2025-08-21 |
+| [mentoring](https://github.com/cncf/mentoring) | 👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF Mentoring + CommunityBridge + Summer of Code | None | 2659 | Apache License 2.0 | 2017-02-08 | 2025-08-24 | 2025-08-21 |
 | [wg-ci](https://github.com/cncf/wg-ci) | 🔄CNCF CI Working Group | None | 37 | Apache License 2.0 | 2017-02-23 | 2025-02-23 | 2022-04-07 |
 | [tag-storage](https://github.com/cncf/tag-storage) | 🗄CNCF Storage TAG | None | 171 | Apache License 2.0 | 2017-02-28 | 2025-06-16 | 2025-02-17 |
 | [wg-networking](https://github.com/cncf/wg-networking) | 📡📶CNCF Networking WG | None | 26 | Apache License 2.0 | 2017-03-02 | 2022-06-27 | 2019-04-24 |
-| [curriculum](https://github.com/cncf/curriculum) | 📚Open Source Curriculum for CNCF Certification Courses | None | 6150 | - | 2017-03-28 | 2025-08-23 | 2025-08-12 |
+| [curriculum](https://github.com/cncf/curriculum) | 📚Open Source Curriculum for CNCF Certification Courses | None | 6153 | - | 2017-03-28 | 2025-08-25 | 2025-08-12 |
 | [gitdm.archive](https://github.com/cncf/gitdm.archive) | 📜Fork for tracking CNCF projects | Ruby | 168 | - | 2017-04-17 | 2025-05-06 | 2023-03-29 |
 | [velocity](https://github.com/cncf/velocity) | 🚅Track development velocity | Shell | 210 | Apache License 2.0 | 2017-04-26 | 2025-08-20 | 2025-07-24 |
-| [wg-serverless](https://github.com/cncf/wg-serverless) | CNCF Serverless WG | None | 1533 | Apache License 2.0 | 2017-04-28 | 2025-08-13 | 2025-08-13 |
+| [wg-serverless](https://github.com/cncf/wg-serverless) | CNCF Serverless WG | None | 1534 | Apache License 2.0 | 2017-04-28 | 2025-08-24 | 2025-08-13 |
 | [images](https://github.com/cncf/images) | Images for deploying to clouds | None | 8 | Apache License 2.0 | 2017-05-23 | 2023-01-28 | 2017-05-23 |
 | [devstats.archive](https://github.com/cncf/devstats.archive) | 📈CNCF-created tool for analyzing and graphing developer contributions | Shell | 440 | Apache License 2.0 | 2017-07-29 | 2025-04-12 | 2023-03-29 |
 | [servicedesk](https://github.com/cncf/servicedesk) | 💁‍♀️💁‍♂️📥 Maintainers can get project-related help from the CNCF | None | 78 | - | 2017-07-31 | 2025-08-16 | 2025-04-07 |
@@ -35,9 +35,9 @@ Statistics Date: 2025-08-24 08:07:54
 | [dev-affiliations](https://github.com/cncf/dev-affiliations) | 📜Current list of developer affiliations, used by DevStats and gitdm | None | 4 | Apache License 2.0 | 2017-10-27 | 2023-01-28 | 2017-10-27 |
 | [contribute](https://github.com/cncf/contribute) | 🙋🏿‍♀️🙋🏽‍♂️🙋🏻‍♀️Contribution guide to the CNCF ecosystem | Go | 162 | Apache License 2.0 | 2017-12-21 | 2025-08-15 | 2022-10-24 |
 | [filterable-landscape](https://github.com/cncf/filterable-landscape) | Interactive version of the Cloud Native Landscape | JavaScript | 9 | Apache License 2.0 | 2018-01-06 | 2023-02-23 | 2018-03-10 |
-| [communitygroups](https://github.com/cncf/communitygroups) | 👩🏿‍💻👨🏿‍💻👩🏾‍💻👨🏾‍💻👩🏽‍💻👨🏽‍💻👩🏼‍💻👨🏼‍💻👩🏻‍💻👨🏻‍💻CNCF Community Groups (formerly meetups) | None | 193 | Apache License 2.0 | 2018-01-17 | 2025-08-22 | 2025-07-31 |
+| [communitygroups](https://github.com/cncf/communitygroups) | 👩🏿‍💻👨🏿‍💻👩🏾‍💻👨🏾‍💻👩🏽‍💻👨🏽‍💻👩🏼‍💻👨🏼‍💻👩🏻‍💻👨🏻‍💻CNCF Community Groups (formerly meetups) | None | 194 | Apache License 2.0 | 2018-01-17 | 2025-08-24 | 2025-07-31 |
 | [serverless-landscape](https://github.com/cncf/serverless-landscape) | CNCF Serverless Landscape | None | 4 | Apache License 2.0 | 2018-02-08 | 2023-01-28 | 2018-02-08 |
-| [tag-security](https://github.com/cncf/tag-security) | 🔐CNCF Security Technical Advisory Group -- secure access, policy control, privacy, auditing, explainability and more! | HTML | 2214 | Other | 2018-03-13 | 2025-08-23 | 2025-08-15 |
+| [tag-security](https://github.com/cncf/tag-security) | 🔐CNCF Security Technical Advisory Group -- secure access, policy control, privacy, auditing, explainability and more! | HTML | 2216 | Other | 2018-03-13 | 2025-08-24 | 2025-08-15 |
 | [hnanalysis](https://github.com/cncf/hnanalysis) | 👩🏾‍💻📰Hacker News analysis | Go | 8 | Apache License 2.0 | 2018-04-04 | 2022-11-24 | 2019-10-07 |
 | [cnf-testbed](https://github.com/cncf/cnf-testbed) | ARCHIVED: 🧪🛏️Cloud-native Network Function (CNF) Testbed --> See LFN Cloud Native Telecom Initiative https://wiki.lfnetworking.org/pages/viewpage.action?pageId=113213592 | Shell | 164 | Apache License 2.0 | 2018-04-09 | 2025-02-28 | 2024-02-06 |
 | [svg-autocrop](https://github.com/cncf/svg-autocrop) | 🚗🌽🔳An NPM module to autocrop and slim down SVGs | JavaScript | 109 | Apache License 2.0 | 2018-04-19 | 2025-04-25 | 2022-03-27 |
@@ -68,7 +68,7 @@ Statistics Date: 2025-08-24 08:07:54
 | [kubernetes-community-days](https://github.com/cncf/kubernetes-community-days) | 📅 Kubernetes Community Days website | None | 256 | Apache License 2.0 | 2019-05-31 | 2025-08-13 | 2025-07-25 |
 | [devstats-helm](https://github.com/cncf/devstats-helm) | 📈DevStats deployment on Kubernetes using Equinix servers and Helm, CoreDNS, containerd, MetalLB, OpenEBS, nginx-ingress, nginx, cert-manager, nfs-server-provisioner. | Shell | 14 | Apache License 2.0 | 2019-05-31 | 2025-07-08 | 2025-07-08 |
 | [clone-page-tree](https://github.com/cncf/clone-page-tree) | 👩‍👩‍👧‍👧 📄🌲Wordpress plugin to duplicate a page and all of its subpages | PHP | 7 | GNU General Public License v2.0 | 2019-06-03 | 2025-02-23 | 2021-01-16 |
-| [tag-app-delivery](https://github.com/cncf/tag-app-delivery) | 📨🚚CNCF App Delivery TAG | HTML | 824 | Apache License 2.0 | 2019-06-07 | 2025-08-17 | 2025-04-16 |
+| [tag-app-delivery](https://github.com/cncf/tag-app-delivery) | 📨🚚CNCF App Delivery TAG | HTML | 825 | Apache License 2.0 | 2019-06-07 | 2025-08-24 | 2025-04-16 |
 | [contributors-world-map](https://github.com/cncf/contributors-world-map) | 🧑🏿‍💻🌍🌎🌏🗺Scripts to create videos and animated GIFs for world map of contributors/contributions | Shell | 3 | Apache License 2.0 | 2019-07-04 | 2023-07-25 | 2019-07-04 |
 | [merge-sh-dbs](https://github.com/cncf/merge-sh-dbs) | 🔀🗄🎩Tool to merge Sorting Hat databases | TSQL | 2 | Apache License 2.0 | 2019-07-16 | 2021-10-15 | 2020-03-04 |
 | [apisnoopregexp](https://github.com/cncf/apisnoopregexp) | ⭕️API snoop regexp matching | TSQL | 3 | Apache License 2.0 | 2019-07-22 | 2021-10-15 | 2019-08-28 |
@@ -116,9 +116,9 @@ Statistics Date: 2025-08-24 08:07:54
 | [people](https://github.com/cncf/people) | Stores the data that will populate the various people listings on cncf.io | Makefile | 125 | MIT License | 2021-08-17 | 2025-08-23 | 2025-08-23 |
 | [cncf-fuzzing](https://github.com/cncf/cncf-fuzzing) | ✨🔐 CNCF Fuzzers | Go | 127 | Apache License 2.0 | 2021-10-27 | 2025-08-06 | 2025-08-06 |
 | [dcochecker](https://github.com/cncf/dcochecker) | ✔️ DCO Checker GitHub Action | None | 5 | Apache License 2.0 | 2021-10-27 | 2025-02-23 | 2021-11-11 |
-| [clomonitor](https://github.com/cncf/clomonitor) | CLOMonitor is a tool that periodically checks open source projects repositories to verify they meet certain project health best practices | TypeScript | 136 | Apache License 2.0 | 2022-01-14 | 2025-08-18 | 2025-08-19 |
+| [clomonitor](https://github.com/cncf/clomonitor) | CLOMonitor is a tool that periodically checks open source projects repositories to verify they meet certain project health best practices | TypeScript | 136 | Apache License 2.0 | 2022-01-14 | 2025-08-25 | 2025-08-25 |
 | [credits](https://github.com/cncf/credits) | None | HCL | 4 | Apache License 2.0 | 2022-01-22 | 2022-09-13 | 2022-12-05 |
-| [landscape-graph](https://github.com/cncf/landscape-graph) | CNCF Landscape Graph, data model, and applications. | Jupyter Notebook | 49 | Other | 2022-04-21 | 2025-08-24 | 2025-08-24 |
+| [landscape-graph](https://github.com/cncf/landscape-graph) | CNCF Landscape Graph, data model, and applications. | Jupyter Notebook | 50 | Other | 2022-04-21 | 2025-08-25 | 2025-08-25 |
 | [tag-env-sustainability](https://github.com/cncf/tag-env-sustainability) | 🌳🌍♻️ TAG Environmental Sustainability | HTML | 262 | Apache License 2.0 | 2022-05-12 | 2025-07-13 | 2025-05-30 |
 | [gitvote](https://github.com/cncf/gitvote) | GitVote is a GitHub application that allows holding a vote on issues and pull requests | Rust | 124 | Apache License 2.0 | 2022-05-31 | 2025-08-15 | 2025-08-19 |
 | [wg-coc](https://github.com/cncf/wg-coc) | ⚖️ CNCF Code of Conduct WG | None | 16 | Apache License 2.0 | 2022-06-10 | 2025-04-09 | 2025-01-30 |
@@ -135,8 +135,8 @@ Statistics Date: 2025-08-24 08:07:54
 | [clowarden](https://github.com/cncf/clowarden) | CLOWarden is a tool that manages access to resources across multiple services | Rust | 55 | Apache License 2.0 | 2023-03-17 | 2025-08-15 | 2025-08-19 |
 | [landscape-2](https://github.com/cncf/landscape-2) | 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets. | None | 1 | Apache License 2.0 | 2023-03-20 | 2023-03-20 | 2023-03-20 |
 | [landscape-3](https://github.com/cncf/landscape-3) | 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets. | CSS | 2 | Apache License 2.0 | 2023-03-20 | 2025-02-23 | 2023-03-20 |
-| [devstats](https://github.com/cncf/devstats) | 📈CNCF-created tool for analyzing and graphing developer contributions | Shell | 109 | Apache License 2.0 | 2023-03-30 | 2025-08-23 | 2025-08-23 |
-| [gitdm](https://github.com/cncf/gitdm) | 📜Fork for tracking CNCF projects | Ruby | 62 | - | 2023-03-30 | 2025-08-22 | 2025-08-22 |
+| [devstats](https://github.com/cncf/devstats) | 📈CNCF-created tool for analyzing and graphing developer contributions | Shell | 109 | Apache License 2.0 | 2023-03-30 | 2025-08-25 | 2025-08-25 |
+| [gitdm](https://github.com/cncf/gitdm) | 📜Fork for tracking CNCF projects | Ruby | 62 | - | 2023-03-30 | 2025-08-25 | 2025-08-25 |
 | [automation](https://github.com/cncf/automation) | Tools to manage CNCF maintenance tasks | Go | 8 | Apache License 2.0 | 2023-04-14 | 2025-08-20 | 2025-08-20 |
 | [devstats-landscape-sync](https://github.com/cncf/devstats-landscape-sync) | 📈🌄 Check if cncf/landscape projects data is in sync with cncf/devstats and report if it isn't via email | Go | 4 | Apache License 2.0 | 2023-04-24 | 2025-06-18 | 2025-06-18 |
 | [kuma-website](https://github.com/cncf/kuma-website) | 🐻 The official website for Kuma, the control plane for modern service connectivity. | None | 1 | Apache License 2.0 | 2023-06-06 | 2023-06-06 | 2023-06-06 |
@@ -173,7 +173,7 @@ Statistics Date: 2025-08-24 08:07:54
 | [eventing](https://github.com/knative/eventing) | Event-driven application platform for Kubernetes | Go | 1486 | Apache License 2.0 | 2018-03-12 | 2025-08-22 | 2025-08-21 |
 | [build-templates](https://github.com/knative/build-templates) | A library of build templates. | Shell | 180 | Apache License 2.0 | 2018-04-20 | 2025-07-20 | 2019-09-05 |
 | [test-infra](https://github.com/knative/test-infra) | Test infrastructure for the Knative project | Go | 82 | Apache License 2.0 | 2018-06-04 | 2025-03-10 | 2023-11-20 |
-| [docs](https://github.com/knative/docs) | User documentation for Knative components. | JavaScript | 4842 | Other | 2018-06-21 | 2025-08-23 | 2025-08-21 |
+| [docs](https://github.com/knative/docs) | User documentation for Knative components. | JavaScript | 4845 | Other | 2018-06-21 | 2025-08-25 | 2025-08-21 |
 | [website](https://github.com/knative/website) | Hugo templates for the Knative website. | HTML | 23 | Other | 2018-07-16 | 2024-01-21 | 2021-12-10 |
 | [pkg](https://github.com/knative/pkg) | Knative common packages | Go | 272 | Apache License 2.0 | 2018-07-25 | 2025-08-20 | 2025-08-21 |
 | [caching](https://github.com/knative/caching) | Knative API definition for caching abstractions. | Go | 39 | Apache License 2.0 | 2018-08-30 | 2025-08-20 | 2025-08-21 |
@@ -198,54 +198,54 @@ Statistics Date: 2025-08-24 08:07:54
 | [actions](https://github.com/knative/actions) | None | None | 12 | Apache License 2.0 | 2022-03-10 | 2025-08-12 | 2025-08-12 |
 | [.artifacthub](https://github.com/knative/.artifacthub) | Repository for sharing Knative resources to ArtifactHub | Shell | 0 | Apache License 2.0 | 2023-02-13 | 2023-10-20 | 2023-08-03 |
 | [toolbox](https://github.com/knative/toolbox) | Toolbox: tools used in Knative project | Go | 4 | Apache License 2.0 | 2023-03-10 | 2025-08-17 | 2025-06-12 |
-| [python](https://github.com/kubernetes-client/python) | Official Python client library for kubernetes | Python | 7297 | Apache License 2.0 | 2016-10-31 | 2025-08-23 | 2025-08-20 |
+| [python](https://github.com/kubernetes-client/python) | Official Python client library for kubernetes | Python | 7299 | Apache License 2.0 | 2016-10-31 | 2025-08-25 | 2025-08-20 |
 | [gen](https://github.com/kubernetes-client/gen) | Common generator scripts for all client libraries | Shell | 153 | Apache License 2.0 | 2017-03-23 | 2025-08-02 | 2025-05-02 |
 | [go-base](https://github.com/kubernetes-client/go-base) | None | Go | 10 | Apache License 2.0 | 2017-03-29 | 2025-03-17 | 2019-02-05 |
 | [go](https://github.com/kubernetes-client/go) | OpenAPI based generated Go Client for Kubernetes | Go | 224 | Apache License 2.0 | 2017-03-29 | 2025-08-22 | 2022-03-08 |
 | [python-base](https://github.com/kubernetes-client/python-base) | None | Python | 71 | Apache License 2.0 | 2017-04-19 | 2025-03-17 | 2022-02-25 |
-| [javascript](https://github.com/kubernetes-client/javascript) | JavaScript client | TypeScript | 2182 | Apache License 2.0 | 2017-04-28 | 2025-08-22 | 2025-08-22 |
+| [javascript](https://github.com/kubernetes-client/javascript) | JavaScript client | TypeScript | 2183 | Apache License 2.0 | 2017-04-28 | 2025-08-24 | 2025-08-25 |
 | [ruby](https://github.com/kubernetes-client/ruby) | Work in progress | Ruby | 81 | Apache License 2.0 | 2017-05-07 | 2025-07-27 | 2023-08-30 |
-| [java](https://github.com/kubernetes-client/java) | Official Java client library for kubernetes | Java | 3815 | Apache License 2.0 | 2017-05-08 | 2025-08-23 | 2025-08-22 |
-| [csharp](https://github.com/kubernetes-client/csharp) | Officially supported dotnet Kubernetes Client library  | C# | 1173 | Apache License 2.0 | 2017-05-12 | 2025-08-24 | 2025-08-12 |
+| [java](https://github.com/kubernetes-client/java) | Official Java client library for kubernetes | Java | 3815 | Apache License 2.0 | 2017-05-08 | 2025-08-23 | 2025-08-25 |
+| [csharp](https://github.com/kubernetes-client/csharp) | Officially supported dotnet Kubernetes Client library  | C# | 1174 | Apache License 2.0 | 2017-05-12 | 2025-08-24 | 2025-08-12 |
 | [haskell](https://github.com/kubernetes-client/haskell) | Haskell client for the kubernetes API. A work in progress. | Haskell | 129 | Apache License 2.0 | 2017-12-21 | 2025-03-17 | 2024-09-07 |
 | [perl](https://github.com/kubernetes-client/perl) | Perl(5) client library for Kubernetes. Work In Progress. | Perl | 24 | Apache License 2.0 | 2019-03-20 | 2025-03-17 | 2021-03-01 |
 | [c](https://github.com/kubernetes-client/c) | Official C client library for Kubernetes | C | 173 | Apache License 2.0 | 2020-03-17 | 2025-08-22 | 2025-08-22 |
 | [.github](https://github.com/kubernetes-client/.github) | Default files for all repos in the Kubernetes Client GitHub org | None | 2 | Apache License 2.0 | 2020-08-07 | 2025-03-17 | 2020-08-07 |
 | [randfill](https://github.com/kubernetes-sigs/randfill) | Fuzz testing for go. | Go | 8 | Apache License 2.0 | 2015-03-01 | 2025-06-30 | 2025-03-04 |
-| [kubespray](https://github.com/kubernetes-sigs/kubespray) | Deploy a Production Ready Kubernetes Cluster | Jinja | 17465 | Apache License 2.0 | 2015-10-03 | 2025-08-24 | 2025-08-24 |
-| [node-feature-discovery](https://github.com/kubernetes-sigs/node-feature-discovery) | Node feature discovery for Kubernetes | Go | 927 | Apache License 2.0 | 2016-07-23 | 2025-08-19 | 2025-08-19 |
+| [kubespray](https://github.com/kubernetes-sigs/kubespray) | Deploy a Production Ready Kubernetes Cluster | Jinja | 17472 | Apache License 2.0 | 2015-10-03 | 2025-08-25 | 2025-08-25 |
+| [node-feature-discovery](https://github.com/kubernetes-sigs/node-feature-discovery) | Node feature discovery for Kubernetes | Go | 927 | Apache License 2.0 | 2016-07-23 | 2025-08-19 | 2025-08-24 |
 | [cluster-proportional-autoscaler](https://github.com/kubernetes-sigs/cluster-proportional-autoscaler) | Kubernetes Cluster Proportional Autoscaler Container | Go | 705 | Apache License 2.0 | 2016-08-02 | 2025-08-21 | 2025-08-21 |
 | [cluster-capacity](https://github.com/kubernetes-sigs/cluster-capacity) | Cluster capacity analysis | Go | 453 | Apache License 2.0 | 2016-09-26 | 2025-08-20 | 2025-05-16 |
 | [reference-docs](https://github.com/kubernetes-sigs/reference-docs) | Tools to build reference documentation for Kubernetes APIs and CLIs. | HTML | 107 | Apache License 2.0 | 2016-12-19 | 2025-08-17 | 2025-07-04 |
-| [cri-tools](https://github.com/kubernetes-sigs/cri-tools) | CLI and validation tools for Kubelet Container Runtime Interface (CRI) . | Go | 1864 | Apache License 2.0 | 2017-01-27 | 2025-08-23 | 2025-08-22 |
-| [external-dns](https://github.com/kubernetes-sigs/external-dns) | Configure external DNS servers dynamically from Kubernetes resources | Go | 8426 | Apache License 2.0 | 2017-02-09 | 2025-08-24 | 2025-08-22 |
+| [cri-tools](https://github.com/kubernetes-sigs/cri-tools) | CLI and validation tools for Kubelet Container Runtime Interface (CRI) . | Go | 1865 | Apache License 2.0 | 2017-01-27 | 2025-08-25 | 2025-08-25 |
+| [external-dns](https://github.com/kubernetes-sigs/external-dns) | Configure external DNS servers dynamically from Kubernetes resources | Go | 8428 | Apache License 2.0 | 2017-02-09 | 2025-08-24 | 2025-08-25 |
 | [custom-metrics-apiserver](https://github.com/kubernetes-sigs/custom-metrics-apiserver) | Framework for implementing custom metrics support for Kubernetes | Go | 519 | Apache License 2.0 | 2017-03-09 | 2025-08-19 | 2025-08-19 |
 | [aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller) | A Kubernetes controller for Elastic Load Balancers | Go | 4133 | Apache License 2.0 | 2017-03-10 | 2025-08-22 | 2025-08-22 |
 | [apiserver-builder-alpha](https://github.com/kubernetes-sigs/apiserver-builder-alpha) | apiserver-builder-alpha implements libraries and tools to quickly and easily build Kubernetes apiservers/controllers to support custom resource types based on APIServer Aggregation | Go | 815 | Apache License 2.0 | 2017-04-27 | 2025-08-09 | 2024-01-11 |
 | [prometheus-adapter](https://github.com/kubernetes-sigs/prometheus-adapter) | An implementation of the custom.metrics.k8s.io API using Prometheus | Go | 2015 | Apache License 2.0 | 2017-05-10 | 2025-08-21 | 2025-07-18 |
 | [ip-masq-agent](https://github.com/kubernetes-sigs/ip-masq-agent) | Manage IP masquerade on nodes | Go | 234 | Apache License 2.0 | 2017-05-12 | 2025-08-12 | 2025-08-21 |
-| [metrics-server](https://github.com/kubernetes-sigs/metrics-server) | Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines. | Go | 6311 | Apache License 2.0 | 2017-05-23 | 2025-08-23 | 2025-08-18 |
+| [metrics-server](https://github.com/kubernetes-sigs/metrics-server) | Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines. | Go | 6313 | Apache License 2.0 | 2017-05-23 | 2025-08-25 | 2025-08-18 |
 | [descheduler](https://github.com/kubernetes-sigs/descheduler) | Descheduler for Kubernetes | Go | 5035 | Apache License 2.0 | 2017-07-28 | 2025-08-23 | 2025-08-19 |
-| [aws-iam-authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) | A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster | Go | 2276 | Apache License 2.0 | 2017-08-01 | 2025-08-22 | 2025-08-19 |
+| [aws-iam-authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) | A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster | Go | 2275 | Apache License 2.0 | 2017-08-01 | 2025-08-24 | 2025-08-19 |
 | [cluster-proportional-vertical-autoscaler](https://github.com/kubernetes-sigs/cluster-proportional-vertical-autoscaler) | None | Go | 66 | Apache License 2.0 | 2017-08-24 | 2025-08-12 | 2025-08-21 |
-| [lwkd](https://github.com/kubernetes-sigs/lwkd) | Last Week in Kubernetes Development | HTML | 158 | Creative Commons Attribution 4.0 International | 2018-01-24 | 2025-08-20 | 2025-08-20 |
+| [lwkd](https://github.com/kubernetes-sigs/lwkd) | Last Week in Kubernetes Development | HTML | 158 | Creative Commons Attribution 4.0 International | 2018-01-24 | 2025-08-20 | 2025-08-25 |
 | [application](https://github.com/kubernetes-sigs/application) | Application metadata descriptor CRD | Go | 519 | Apache License 2.0 | 2018-03-01 | 2025-08-11 | 2024-07-03 |
-| [cluster-api](https://github.com/kubernetes-sigs/cluster-api) | Home for Cluster API, a subproject of sig-cluster-lifecycle | Go | 3910 | Apache License 2.0 | 2018-03-07 | 2025-08-23 | 2025-08-22 |
+| [cluster-api](https://github.com/kubernetes-sigs/cluster-api) | Home for Cluster API, a subproject of sig-cluster-lifecycle | Go | 3912 | Apache License 2.0 | 2018-03-07 | 2025-08-25 | 2025-08-25 |
 | [aws-encryption-provider](https://github.com/kubernetes-sigs/aws-encryption-provider) | APIServer encryption provider, backed by AWS KMS | Go | 224 | Apache License 2.0 | 2018-03-10 | 2025-08-11 | 2025-08-11 |
-| [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) | Kubebuilder - SDK for building Kubernetes APIs using CRDs | Go | 8662 | Apache License 2.0 | 2018-03-14 | 2025-08-23 | 2025-08-23 |
-| [cloud-provider-azure](https://github.com/kubernetes-sigs/cloud-provider-azure) | Cloud provider for Azure | Go | 280 | Apache License 2.0 | 2018-03-21 | 2025-08-21 | 2025-08-21 |
-| [apisnoop](https://github.com/kubernetes-sigs/apisnoop) | ⭕️Snooping on the Kubernetes OpenAPI communications | Svelte | 96 | Apache License 2.0 | 2018-04-10 | 2025-08-19 | 2025-08-23 |
-| [kustomize](https://github.com/kubernetes-sigs/kustomize) | Customization of kubernetes YAML configurations | Go | 11646 | Apache License 2.0 | 2018-05-11 | 2025-08-23 | 2025-08-23 |
-| [controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) | Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery) | Go | 2782 | Apache License 2.0 | 2018-06-07 | 2025-08-22 | 2025-08-22 |
+| [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) | Kubebuilder - SDK for building Kubernetes APIs using CRDs | Go | 8662 | Apache License 2.0 | 2018-03-14 | 2025-08-25 | 2025-08-25 |
+| [cloud-provider-azure](https://github.com/kubernetes-sigs/cloud-provider-azure) | Cloud provider for Azure | Go | 280 | Apache License 2.0 | 2018-03-21 | 2025-08-25 | 2025-08-25 |
+| [apisnoop](https://github.com/kubernetes-sigs/apisnoop) | ⭕️Snooping on the Kubernetes OpenAPI communications | Svelte | 96 | Apache License 2.0 | 2018-04-10 | 2025-08-19 | 2025-08-24 |
+| [kustomize](https://github.com/kubernetes-sigs/kustomize) | Customization of kubernetes YAML configurations | Go | 11649 | Apache License 2.0 | 2018-05-11 | 2025-08-25 | 2025-08-24 |
+| [controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) | Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery) | Go | 2783 | Apache License 2.0 | 2018-06-07 | 2025-08-25 | 2025-08-22 |
 | [gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) | The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin. | Go | 177 | Apache License 2.0 | 2018-06-11 | 2025-08-18 | 2025-08-18 |
-| [cluster-api-provider-azure](https://github.com/kubernetes-sigs/cluster-api-provider-azure) | Cluster API implementation for Microsoft Azure | Go | 319 | Apache License 2.0 | 2018-06-12 | 2025-08-19 | 2025-08-21 |
-| [cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) | Cluster API implementation for OpenStack | Go | 332 | Apache License 2.0 | 2018-06-13 | 2025-08-22 | 2025-08-22 |
-| [controller-tools](https://github.com/kubernetes-sigs/controller-tools) | Tools to use with the controller-runtime libraries | Go | 822 | Apache License 2.0 | 2018-06-15 | 2025-08-23 | 2025-08-18 |
+| [cluster-api-provider-azure](https://github.com/kubernetes-sigs/cluster-api-provider-azure) | Cluster API implementation for Microsoft Azure | Go | 319 | Apache License 2.0 | 2018-06-12 | 2025-08-25 | 2025-08-25 |
+| [cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) | Cluster API implementation for OpenStack | Go | 333 | Apache License 2.0 | 2018-06-13 | 2025-08-25 | 2025-08-22 |
+| [controller-tools](https://github.com/kubernetes-sigs/controller-tools) | Tools to use with the controller-runtime libraries | Go | 823 | Apache License 2.0 | 2018-06-15 | 2025-08-25 | 2025-08-25 |
 | [cloud-provider-equinix-metal](https://github.com/kubernetes-sigs/cloud-provider-equinix-metal) | Kubernetes Cloud Provider for Equinix Metal (formerly Packet Cloud Controller Manager) | Go | 77 | Apache License 2.0 | 2018-06-19 | 2025-07-21 | 2025-08-14 |
 | [gcp-filestore-csi-driver](https://github.com/kubernetes-sigs/gcp-filestore-csi-driver) | The Google Cloud Filestore Container Storage Interface (CSI) Plugin. | Go | 94 | Apache License 2.0 | 2018-06-29 | 2025-08-13 | 2025-08-19 |
 | [aws-ebs-csi-driver](https://github.com/kubernetes-sigs/aws-ebs-csi-driver) | CSI driver for Amazon EBS https://aws.amazon.com/ebs/ | Go | 1090 | Apache License 2.0 | 2018-07-04 | 2025-08-22 | 2025-08-22 |
 | [krew](https://github.com/kubernetes-sigs/krew) | 📦 Find and install kubectl plugins | Go | 6727 | Apache License 2.0 | 2018-07-12 | 2025-08-24 | 2025-07-18 |
-| [krew-index](https://github.com/kubernetes-sigs/krew-index) | Plugin index for https://github.com/kubernetes-sigs/krew. This repo is for plugin maintainers. | None | 665 | Apache License 2.0 | 2018-07-12 | 2025-08-23 | 2025-08-23 |
+| [krew-index](https://github.com/kubernetes-sigs/krew-index) | Plugin index for https://github.com/kubernetes-sigs/krew. This repo is for plugin maintainers. | None | 665 | Apache License 2.0 | 2018-07-12 | 2025-08-24 | 2025-08-24 |
 | [cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp) | The GCP provider implementation for Cluster API | Go | 214 | Apache License 2.0 | 2018-07-18 | 2025-08-21 | 2025-08-21 |
 | [cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws) | Kubernetes Cluster API Provider AWS provides consistent deployment and day 2 operations of "self-managed" and EKS Kubernetes clusters on AWS. | Go | 681 | Apache License 2.0 | 2018-07-19 | 2025-08-23 | 2025-08-21 |
 | [cluster-api-provider-vsphere](https://github.com/kubernetes-sigs/cluster-api-provider-vsphere) | None | Go | 398 | Apache License 2.0 | 2018-08-03 | 2025-08-21 | 2025-08-21 |
@@ -254,7 +254,7 @@ Statistics Date: 2025-08-24 08:07:54
 | [contributor-playground](https://github.com/kubernetes-sigs/contributor-playground) | None | Dockerfile | 252 | Apache License 2.0 | 2018-08-23 | 2025-08-22 | 2025-08-15 |
 | [kube-storage-version-migrator](https://github.com/kubernetes-sigs/kube-storage-version-migrator) | None | Go | 141 | Apache License 2.0 | 2018-08-23 | 2025-08-22 | 2023-10-20 |
 | [structured-merge-diff](https://github.com/kubernetes-sigs/structured-merge-diff) | Test cases and implementation for "server-side apply" | Go | 122 | Apache License 2.0 | 2018-09-06 | 2025-07-20 | 2025-07-16 |
-| [kind](https://github.com/kubernetes-sigs/kind) | Kubernetes IN Docker - local clusters for testing Kubernetes | Go | 14464 | Apache License 2.0 | 2018-09-12 | 2025-08-23 | 2025-08-21 |
+| [kind](https://github.com/kubernetes-sigs/kind) | Kubernetes IN Docker - local clusters for testing Kubernetes | Go | 14467 | Apache License 2.0 | 2018-09-12 | 2025-08-25 | 2025-08-21 |
 | [sig-storage-lib-external-provisioner](https://github.com/kubernetes-sigs/sig-storage-lib-external-provisioner) | None | Go | 576 | Apache License 2.0 | 2018-09-18 | 2025-08-22 | 2025-08-08 |
 | [yaml](https://github.com/kubernetes-sigs/yaml) | A better way to marshal and unmarshal YAML in Golang | Go | 322 | Other | 2018-11-01 | 2025-08-19 | 2025-08-12 |
 | [azurefile-csi-driver](https://github.com/kubernetes-sigs/azurefile-csi-driver) | Azure File CSI Driver | Go | 168 | Apache License 2.0 | 2018-11-30 | 2025-08-21 | 2025-08-23 |
@@ -263,8 +263,8 @@ Statistics Date: 2025-08-24 08:07:54
 | [windows-testing](https://github.com/kubernetes-sigs/windows-testing) | Containers, scripts and documentation for running Kubernetes tests with Windows nodes | Shell | 42 | Apache License 2.0 | 2018-12-17 | 2025-08-19 | 2025-08-19 |
 | [aws-efs-csi-driver](https://github.com/kubernetes-sigs/aws-efs-csi-driver) | CSI Driver for Amazon EFS https://aws.amazon.com/efs/ | Go | 771 | Apache License 2.0 | 2018-12-21 | 2025-08-18 | 2025-08-18 |
 | [azuredisk-csi-driver](https://github.com/kubernetes-sigs/azuredisk-csi-driver) | Azure Disk CSI Driver | Go | 161 | Apache License 2.0 | 2018-12-29 | 2025-08-24 | 2025-08-24 |
-| [secrets-store-csi-driver](https://github.com/kubernetes-sigs/secrets-store-csi-driver) | Secrets Store CSI driver for Kubernetes secrets - Integrates secrets stores with Kubernetes via a CSI volume.   | Go | 1425 | Apache License 2.0 | 2019-01-03 | 2025-08-20 | 2025-08-21 |
-| [promo-tools](https://github.com/kubernetes-sigs/promo-tools) | Container and file artifact promotion tooling for the Kubernetes project | Go | 151 | Apache License 2.0 | 2019-01-15 | 2025-08-22 | 2025-08-22 |
+| [secrets-store-csi-driver](https://github.com/kubernetes-sigs/secrets-store-csi-driver) | Secrets Store CSI driver for Kubernetes secrets - Integrates secrets stores with Kubernetes via a CSI volume.   | Go | 1426 | Apache License 2.0 | 2019-01-03 | 2025-08-25 | 2025-08-21 |
+| [promo-tools](https://github.com/kubernetes-sigs/promo-tools) | Container and file artifact promotion tooling for the Kubernetes project | Go | 151 | Apache License 2.0 | 2019-01-15 | 2025-08-25 | 2025-08-25 |
 | [dashboard-metrics-scraper](https://github.com/kubernetes-sigs/dashboard-metrics-scraper) | Container to scrape, store, and retrieve a window of time from the Metrics Server. | Go | 88 | Apache License 2.0 | 2019-01-23 | 2025-05-14 | 2023-07-07 |
 | [windows-gmsa](https://github.com/kubernetes-sigs/windows-gmsa) | External components to support Windows GMSA in Kubernetes | Go | 32 | Apache License 2.0 | 2019-02-12 | 2025-08-16 | 2025-03-24 |
 | [blob-csi-driver](https://github.com/kubernetes-sigs/blob-csi-driver) | Azure Blob Storage CSI driver | Go | 137 | Apache License 2.0 | 2019-02-15 | 2025-08-21 | 2025-08-21 |
@@ -274,7 +274,7 @@ Statistics Date: 2025-08-24 08:07:54
 | [slack-infra](https://github.com/kubernetes-sigs/slack-infra) | Tooling for kubernetes.slack.com | Go | 97 | Apache License 2.0 | 2019-03-29 | 2025-08-16 | 2025-04-02 |
 | [cli-experimental](https://github.com/kubernetes-sigs/cli-experimental) | Experimental Kubectl libraries and commands. | Go | 84 | Apache License 2.0 | 2019-03-29 | 2025-08-16 | 2025-05-07 |
 | [legacyflag](https://github.com/kubernetes-sigs/legacyflag) | Provides a pflag wrapper that addresses pain-points of backwards-compatible ComponentConfig migration. | Go | 2 | Apache License 2.0 | 2019-04-08 | 2022-12-16 | 2022-10-07 |
-| [cluster-api-provider-ibmcloud](https://github.com/kubernetes-sigs/cluster-api-provider-ibmcloud) | Cluster API Provider for IBM Cloud | Go | 65 | Apache License 2.0 | 2019-04-09 | 2025-08-22 | 2025-08-22 |
+| [cluster-api-provider-ibmcloud](https://github.com/kubernetes-sigs/cluster-api-provider-ibmcloud) | Cluster API Provider for IBM Cloud | Go | 65 | Apache License 2.0 | 2019-04-09 | 2025-08-25 | 2025-08-25 |
 | [apiserver-network-proxy](https://github.com/kubernetes-sigs/apiserver-network-proxy) | None | Go | 405 | Apache License 2.0 | 2019-04-16 | 2025-08-20 | 2025-08-20 |
 | [vsphere-csi-driver](https://github.com/kubernetes-sigs/vsphere-csi-driver) | vSphere storage Container Storage Interface (CSI) plugin | Go | 325 | Apache License 2.0 | 2019-04-17 | 2025-08-22 | 2025-08-22 |
 | [cli-utils](https://github.com/kubernetes-sigs/cli-utils) | This repo contains binaries that built from libraries in cli-runtime. | Go | 169 | Apache License 2.0 | 2019-05-08 | 2025-08-12 | 2025-08-01 |
@@ -283,23 +283,23 @@ Statistics Date: 2025-08-24 08:07:54
 | [execution-hook](https://github.com/kubernetes-sigs/execution-hook) | This repo contains ExecutionHook CRDs for dynamically executing user’s commands in pods/containers and an ExecutionHookController to manage the hook's lifecycle. | None | 13 | Apache License 2.0 | 2019-06-22 | 2023-09-14 | 2022-10-07 |
 | [node-feature-discovery-operator](https://github.com/kubernetes-sigs/node-feature-discovery-operator) | Operator for managing Node Feature Discovery deployment | Go | 71 | Apache License 2.0 | 2019-06-26 | 2025-08-06 | 2025-08-06 |
 | [mdtoc](https://github.com/kubernetes-sigs/mdtoc) | Markdown table-of-contents generator | Go | 44 | Apache License 2.0 | 2019-06-26 | 2025-08-19 | 2025-08-19 |
-| [image-builder](https://github.com/kubernetes-sigs/image-builder) | Tools for building Kubernetes disk images | Shell | 478 | Apache License 2.0 | 2019-07-06 | 2025-08-22 | 2025-08-21 |
+| [image-builder](https://github.com/kubernetes-sigs/image-builder) | Tools for building Kubernetes disk images | Shell | 479 | Apache License 2.0 | 2019-07-06 | 2025-08-24 | 2025-08-21 |
 | [zeitgeist](https://github.com/kubernetes-sigs/zeitgeist) | Zeitgeist: the language-agnostic dependency checker | Go | 194 | Apache License 2.0 | 2019-08-19 | 2025-08-22 | 2025-08-22 |
 | [discuss-theme](https://github.com/kubernetes-sigs/discuss-theme) | Theme and CSS files for discuss.kubernetes.io | SCSS | 1 | Apache License 2.0 | 2019-10-02 | 2022-12-16 | 2022-10-03 |
 | [ingress-controller-conformance](https://github.com/kubernetes-sigs/ingress-controller-conformance) | Repository for a compliance specification of ingress-controllers. | Go | 44 | Apache License 2.0 | 2019-10-07 | 2025-01-01 | 2024-01-25 |
-| [gateway-api](https://github.com/kubernetes-sigs/gateway-api) | Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs. | Go | 2233 | Apache License 2.0 | 2019-11-01 | 2025-08-22 | 2025-08-20 |
-| [headlamp](https://github.com/kubernetes-sigs/headlamp) | A Kubernetes web UI that is fully-featured, user-friendly and extensible | TypeScript | 4347 | Apache License 2.0 | 2019-11-08 | 2025-08-24 | 2025-08-23 |
+| [gateway-api](https://github.com/kubernetes-sigs/gateway-api) | Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs. | Go | 2235 | Apache License 2.0 | 2019-11-01 | 2025-08-24 | 2025-08-25 |
+| [headlamp](https://github.com/kubernetes-sigs/headlamp) | A Kubernetes web UI that is fully-featured, user-friendly and extensible | TypeScript | 4349 | Apache License 2.0 | 2019-11-08 | 2025-08-25 | 2025-08-23 |
 | [cloud-provider-huaweicloud](https://github.com/kubernetes-sigs/cloud-provider-huaweicloud) | HUAWEI CLOUD Controller Manager is an external cloud controller manager for running kubernetes in a HUAWEI CLOUD cluster. | Go | 48 | Apache License 2.0 | 2019-12-04 | 2025-08-16 | 2025-03-31 |
 | [iptables-wrappers](https://github.com/kubernetes-sigs/iptables-wrappers) | Wrapper scripts for using iptables in containers | Go | 54 | Apache License 2.0 | 2020-01-12 | 2025-04-04 | 2024-08-19 |
 | [scheduler-plugins](https://github.com/kubernetes-sigs/scheduler-plugins) | Repository for out-of-tree scheduler plugins based on scheduler framework. | Go | 1223 | Apache License 2.0 | 2020-01-16 | 2025-08-23 | 2025-08-13 |
 | [clientgofix](https://github.com/kubernetes-sigs/clientgofix) | clientgofix rewrites calls to old k8s.io/client-go methods to use newer invocations | Go | 43 | Apache License 2.0 | 2020-03-16 | 2024-10-05 | 2021-12-13 |
-| [nfs-subdir-external-provisioner](https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner) | Dynamic sub-dir volume provisioner on a remote NFS server. | Shell | 2873 | Apache License 2.0 | 2020-03-26 | 2025-08-24 | 2024-08-16 |
+| [nfs-subdir-external-provisioner](https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner) | Dynamic sub-dir volume provisioner on a remote NFS server. | Shell | 2874 | Apache License 2.0 | 2020-03-26 | 2025-08-24 | 2024-08-16 |
 | [nfs-ganesha-server-and-external-provisioner](https://github.com/kubernetes-sigs/nfs-ganesha-server-and-external-provisioner) | NFS Ganesha Server and Volume Provisioner. | Shell | 455 | Apache License 2.0 | 2020-03-26 | 2025-08-20 | 2024-05-27 |
 | [kubebuilder-release-tools](https://github.com/kubernetes-sigs/kubebuilder-release-tools) | Release tooling for KubeBuilder projects. | Go | 20 | Apache License 2.0 | 2020-03-29 | 2025-08-23 | 2025-07-06 |
 | [boskos](https://github.com/kubernetes-sigs/boskos) | Boskos is a resource management service that provides reservation and lifecycle management of a variety of different kinds of resources. | Go | 141 | Apache License 2.0 | 2020-04-13 | 2025-08-17 | 2025-06-12 |
 | [gluster-block-external-provisioner](https://github.com/kubernetes-sigs/gluster-block-external-provisioner) | Gluster Block Dynamic Volume Provisioner | Shell | 3 | Apache License 2.0 | 2020-04-17 | 2023-05-22 | 2020-05-28 |
 | [gluster-file-external-provisioner](https://github.com/kubernetes-sigs/gluster-file-external-provisioner) | Gluster File Dynamic Volume Provisioner | Shell | 5 | Apache License 2.0 | 2020-04-17 | 2023-01-19 | 2022-11-11 |
-| [security-profiles-operator](https://github.com/kubernetes-sigs/security-profiles-operator) | The Kubernetes Security Profiles Operator | C | 777 | Apache License 2.0 | 2020-04-24 | 2025-08-20 | 2025-08-21 |
+| [security-profiles-operator](https://github.com/kubernetes-sigs/security-profiles-operator) | The Kubernetes Security Profiles Operator | C | 777 | Apache License 2.0 | 2020-04-24 | 2025-08-25 | 2025-08-25 |
 | [sig-windows-samples](https://github.com/kubernetes-sigs/sig-windows-samples) | Repository for samples and examples related to the sig-windows charter in Kubernetes. | JavaScript | 5 | Apache License 2.0 | 2020-05-12 | 2024-04-03 | 2023-02-07 |
 | [instrumentation-tools](https://github.com/kubernetes-sigs/instrumentation-tools) | Repository for tools and artifacts related to the sig-instrumentation charter in Kubernetes. | Go | 27 | Apache License 2.0 | 2020-06-01 | 2023-07-17 | 2023-08-22 |
 | [externalip-webhook](https://github.com/kubernetes-sigs/externalip-webhook) | ClusterIP Validating Webhook | Go | 36 | Apache License 2.0 | 2020-06-18 | 2025-07-24 | 2023-03-04 |
@@ -308,8 +308,8 @@ Statistics Date: 2025-08-24 08:07:54
 | [.github](https://github.com/kubernetes-sigs/.github) | Default files for all repos in the Kubernetes SIGs GitHub org  | None | 1 | Apache License 2.0 | 2020-08-07 | 2022-11-21 | 2024-03-24 |
 | [apiserver-runtime](https://github.com/kubernetes-sigs/apiserver-runtime) | Libraries for implementing aggregated apiservers | Go | 92 | Apache License 2.0 | 2020-09-17 | 2025-07-20 | 2025-08-23 |
 | [cluster-api-provider-kubemark](https://github.com/kubernetes-sigs/cluster-api-provider-kubemark) | CAPK is a provider for Cluster API (CAPI) that allows users to deploy fake, Kubemark-backed machines to their clusters. | Go | 78 | Apache License 2.0 | 2020-10-05 | 2025-08-22 | 2025-08-19 |
-| [e2e-framework](https://github.com/kubernetes-sigs/e2e-framework) | A Go framework for end-to-end testing of components running in Kubernetes clusters. | Go | 591 | Apache License 2.0 | 2020-10-20 | 2025-08-20 | 2025-08-21 |
-| [ibm-powervs-block-csi-driver](https://github.com/kubernetes-sigs/ibm-powervs-block-csi-driver) | CSI Driver for IBM® Power Systems™ Virtual Server | Go | 8 | Apache License 2.0 | 2020-11-17 | 2025-08-22 | 2025-08-22 |
+| [e2e-framework](https://github.com/kubernetes-sigs/e2e-framework) | A Go framework for end-to-end testing of components running in Kubernetes clusters. | Go | 591 | Apache License 2.0 | 2020-10-20 | 2025-08-20 | 2025-08-25 |
+| [ibm-powervs-block-csi-driver](https://github.com/kubernetes-sigs/ibm-powervs-block-csi-driver) | CSI Driver for IBM® Power Systems™ Virtual Server | Go | 8 | Apache License 2.0 | 2020-11-17 | 2025-08-25 | 2025-08-25 |
 | [kubectl-check-ownerreferences](https://github.com/kubernetes-sigs/kubectl-check-ownerreferences) | Read-only tool to check metadata.ownerReferences. | Go | 27 | Apache License 2.0 | 2020-11-24 | 2025-08-12 | 2021-12-13 |
 | [work-api](https://github.com/kubernetes-sigs/work-api) | Kubernetes Work API | Go | 67 | Apache License 2.0 | 2021-02-01 | 2025-08-12 | 2025-08-19 |
 | [depstat](https://github.com/kubernetes-sigs/depstat) | depstat is a dependency analyzer for Go modules enabled projects. It runs as part of the Kubernetes CI pipeline to help evaluate dependency updates to Kubernetes. | Go | 36 | Apache License 2.0 | 2021-02-11 | 2025-04-17 | 2024-11-04 |
@@ -329,23 +329,23 @@ Statistics Date: 2025-08-24 08:07:54
 | [cluster-api-provider-cloudstack](https://github.com/kubernetes-sigs/cluster-api-provider-cloudstack) | A Kubernetes Cluster API Provider implementation for Apache CloudStack. | Go | 41 | Apache License 2.0 | 2021-10-26 | 2025-08-04 | 2025-08-19 |
 | [maintainers](https://github.com/kubernetes-sigs/maintainers) | Tools and utilities to parse OWNERS, OWNER_ALIASES in kubernetes related github orgs | Go | 10 | Apache License 2.0 | 2021-11-15 | 2025-05-25 | 2023-04-03 |
 | [azurelustre-csi-driver](https://github.com/kubernetes-sigs/azurelustre-csi-driver) | None | Go | 15 | Apache License 2.0 | 2021-11-19 | 2025-06-25 | 2025-08-21 |
-| [bom](https://github.com/kubernetes-sigs/bom) | A utility to generate SPDX-compliant Bill of Materials manifests | Go | 405 | Apache License 2.0 | 2021-11-19 | 2025-08-22 | 2025-08-09 |
+| [bom](https://github.com/kubernetes-sigs/bom) | A utility to generate SPDX-compliant Bill of Materials manifests | Go | 405 | Apache License 2.0 | 2021-11-19 | 2025-08-25 | 2025-08-25 |
 | [krm-functions-registry](https://github.com/kubernetes-sigs/krm-functions-registry) | Public registry for KRM functions | Go | 19 | Apache License 2.0 | 2021-12-03 | 2025-01-21 | 2022-03-16 |
 | [cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) | Home for Cluster API Operator, a subproject of sig-cluster-lifecycle | Go | 224 | Apache License 2.0 | 2021-12-16 | 2025-08-22 | 2025-08-21 |
 | [release-team-shadow-stats](https://github.com/kubernetes-sigs/release-team-shadow-stats) | Kubernetes release team shadow program application analysis | Go | 14 | Apache License 2.0 | 2022-01-03 | 2024-06-21 | 2024-01-15 |
 | [kernel-module-management](https://github.com/kubernetes-sigs/kernel-module-management) | The kernel module management operator builds, signs and loads kernel modules in Kubernetes clusters. | Go | 106 | Apache License 2.0 | 2022-01-27 | 2025-08-06 | 2025-08-14 |
 | [windows-operational-readiness](https://github.com/kubernetes-sigs/windows-operational-readiness) | Windows Operational Readiness Tool | Go | 10 | Apache License 2.0 | 2022-01-27 | 2025-02-24 | 2024-02-15 |
 | [prow](https://github.com/kubernetes-sigs/prow) | Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community. This repository contains Prow source code and Hugo sources for Prow documentation site.  | Go | 214 | Apache License 2.0 | 2022-02-07 | 2025-08-23 | 2025-08-23 |
-| [kueue](https://github.com/kubernetes-sigs/kueue) | Kubernetes-native Job Queueing | Go | 1959 | Apache License 2.0 | 2022-02-16 | 2025-08-23 | 2025-08-22 |
+| [kueue](https://github.com/kubernetes-sigs/kueue) | Kubernetes-native Job Queueing | Go | 1959 | Apache License 2.0 | 2022-02-16 | 2025-08-24 | 2025-08-22 |
 | [testgrid-json-exporter](https://github.com/kubernetes-sigs/testgrid-json-exporter) | None | Python | 5 | Apache License 2.0 | 2022-03-03 | 2023-08-21 | 2023-04-11 |
 | [cluster-api-ipam-provider-in-cluster](https://github.com/kubernetes-sigs/cluster-api-ipam-provider-in-cluster) | An IPAM provider for Cluster API that manages pools of IP addresses using Kubernetes resources. | Go | 98 | Apache License 2.0 | 2022-03-14 | 2025-08-12 | 2025-08-19 |
 | [verify-conformance](https://github.com/kubernetes-sigs/verify-conformance) | CNCF CI bot for verifying Kubernetes conformance product submissions | Go | 7 | Apache License 2.0 | 2022-04-12 | 2025-08-17 | 2025-08-13 |
 | [logtools](https://github.com/kubernetes-sigs/logtools) | Tools related to log calls for Kubernetes. | Go | 16 | Apache License 2.0 | 2022-06-11 | 2025-05-27 | 2024-07-19 |
 | [tejolote](https://github.com/kubernetes-sigs/tejolote) | A highly configurable build executor and observer designed to generate signed SLSA provenance attestations about build runs. | Go | 65 | Apache License 2.0 | 2022-07-09 | 2025-08-21 | 2025-08-21 |
-| [kwok](https://github.com/kubernetes-sigs/kwok) | Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters. | Go | 2903 | Apache License 2.0 | 2022-07-28 | 2025-08-24 | 2025-08-19 |
+| [kwok](https://github.com/kubernetes-sigs/kwok) | Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters. | Go | 2904 | Apache License 2.0 | 2022-07-28 | 2025-08-24 | 2025-08-19 |
 | [hydrophone](https://github.com/kubernetes-sigs/hydrophone) | Hydrophone is a lightweight Kubernetes conformance tests runner | Go | 98 | Apache License 2.0 | 2022-09-12 | 2025-08-20 | 2025-08-21 |
 | [ingress2gateway](https://github.com/kubernetes-sigs/ingress2gateway) | Convert Ingress resources to Gateway API resources | Go | 495 | Apache License 2.0 | 2022-10-10 | 2025-08-23 | 2025-08-18 |
-| [blixt](https://github.com/kubernetes-sigs/blixt) | Layer 4 Kubernetes load-balancer | Rust | 451 | Apache License 2.0 | 2022-10-11 | 2025-08-24 | 2025-08-18 |
+| [blixt](https://github.com/kubernetes-sigs/blixt) | Layer 4 Kubernetes load-balancer | Rust | 453 | Apache License 2.0 | 2022-10-11 | 2025-08-25 | 2025-08-18 |
 | [karpenter](https://github.com/kubernetes-sigs/karpenter) | Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity. | Go | 1273 | Apache License 2.0 | 2022-10-11 | 2025-08-23 | 2025-08-23 |
 | [sig-auth-tools](https://github.com/kubernetes-sigs/sig-auth-tools) | None | Go | 3 | Apache License 2.0 | 2022-10-13 | 2025-04-29 | 2025-04-29 |
 | [porche](https://github.com/kubernetes-sigs/porche) | This project exists to explore the creation of a redirector for specific artifacts, similar to the redirector for registry.k8s.io. | Go | 2 | Apache License 2.0 | 2022-11-07 | 2024-11-08 | 2023-02-08 |
@@ -359,9 +359,9 @@ Statistics Date: 2025-08-24 08:07:54
 | [cluster-api-addon-provider-helm](https://github.com/kubernetes-sigs/cluster-api-addon-provider-helm) | CAAPH uses Helm charts to manage the installation and lifecycle of Cluster API add-ons. | Go | 154 | Apache License 2.0 | 2023-01-13 | 2025-08-11 | 2025-08-11 |
 | [logical-cluster](https://github.com/kubernetes-sigs/logical-cluster) | A set of APIs to improve the Kubernetes user experience for cluster administration by offering utilities to interact with fleet of clusters which can be managed by Cluster API, or other entities (like cloud providers).  | Shell | 10 | Apache License 2.0 | 2023-02-02 | 2025-08-20 | 2023-03-03 |
 | [community-images](https://github.com/kubernetes-sigs/community-images) | kubectl plugin that displays images running in a Kubernetes cluster that were pulled from community owned repositories and warn the user to switch repositories if needed | Go | 74 | Apache License 2.0 | 2023-02-22 | 2025-07-19 | 2025-08-18 |
-| [cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) | Cloud provider for KIND clusters | Go | 356 | Apache License 2.0 | 2023-03-03 | 2025-08-21 | 2025-08-21 |
+| [cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) | Cloud provider for KIND clusters | Go | 357 | Apache License 2.0 | 2023-03-03 | 2025-08-24 | 2025-08-21 |
 | [aws-fsx-openzfs-csi-driver](https://github.com/kubernetes-sigs/aws-fsx-openzfs-csi-driver) | Amazon FSx for OpenZFS Cloud Container Storage Interface(CSI) Driver | Go | 25 | Apache License 2.0 | 2023-03-23 | 2025-08-06 | 2025-04-22 |
-| [jobset](https://github.com/kubernetes-sigs/jobset) | JobSet: a k8s native API for distributed ML training and HPC workloads | Python | 251 | Apache License 2.0 | 2023-03-31 | 2025-08-22 | 2025-08-11 |
+| [jobset](https://github.com/kubernetes-sigs/jobset) | JobSet: a k8s native API for distributed ML training and HPC workloads | Python | 251 | Apache License 2.0 | 2023-03-31 | 2025-08-24 | 2025-08-25 |
 | [kubectl-validate](https://github.com/kubernetes-sigs/kubectl-validate) | None | Go | 247 | Apache License 2.0 | 2023-04-27 | 2025-08-13 | 2025-07-29 |
 | [kube-scheduler-wasm-extension](https://github.com/kubernetes-sigs/kube-scheduler-wasm-extension) | All the things to make the scheduler extendable with wasm. | Go | 129 | Apache License 2.0 | 2023-05-16 | 2025-07-14 | 2025-06-15 |
 | [knftables](https://github.com/kubernetes-sigs/knftables) | golang nftables library | Go | 30 | Apache License 2.0 | 2023-06-26 | 2025-06-23 | 2025-06-23 |
@@ -370,7 +370,7 @@ Statistics Date: 2025-08-24 08:07:54
 | [cluster-inventory-api](https://github.com/kubernetes-sigs/cluster-inventory-api) | Kubernetes ClusterInventory API  | Go | 72 | Apache License 2.0 | 2023-10-06 | 2025-07-02 | 2025-07-02 |
 | [obscli](https://github.com/kubernetes-sigs/obscli) | Command-line interface for managing OpenBuildService (OBS) assets | Go | 5 | Apache License 2.0 | 2024-01-03 | 2025-04-22 | 2024-07-29 |
 | [node-ipam-controller](https://github.com/kubernetes-sigs/node-ipam-controller) | Out of tree implementation of https://github.com/kubernetes/enhancements/tree/master/keps/sig-network/2593-multiple-cluster-cidrs | Go | 12 | Apache License 2.0 | 2024-01-12 | 2025-08-10 | 2025-08-10 |
-| [lws](https://github.com/kubernetes-sigs/lws) | LeaderWorkerSet: An API for deploying a group of pods as a unit of replication | Go | 546 | Apache License 2.0 | 2024-02-22 | 2025-08-20 | 2025-08-15 |
+| [lws](https://github.com/kubernetes-sigs/lws) | LeaderWorkerSet: An API for deploying a group of pods as a unit of replication | Go | 549 | Apache License 2.0 | 2024-02-22 | 2025-08-24 | 2025-08-15 |
 | [testgrid](https://github.com/kubernetes-sigs/testgrid) | Kubernetes-related TestGrid projects. Currently hosts the new frontend code for TestGrid. | TypeScript | 5 | Apache License 2.0 | 2024-02-26 | 2025-08-22 | 2025-08-22 |
 | [referencegrant-poc](https://github.com/kubernetes-sigs/referencegrant-poc) | None | Go | 0 | Apache License 2.0 | 2024-02-26 | 2025-03-22 | 2024-03-19 |
 | [karpenter-provider-cluster-api](https://github.com/kubernetes-sigs/karpenter-provider-cluster-api) | An implementation of Karpenter that uses Cluster API as the infrastructure provider. | Go | 71 | Apache License 2.0 | 2024-03-04 | 2025-08-24 | 2025-08-20 |
@@ -378,19 +378,19 @@ Statistics Date: 2025-08-24 08:07:54
 | [secrets-store-sync-controller](https://github.com/kubernetes-sigs/secrets-store-sync-controller) | This is a Kubernetes controller that watches for changes to a custom resource and syncs the secrets from external secrets-store as Kubernetes secret. | Go | 40 | Apache License 2.0 | 2024-04-26 | 2025-08-20 | 2025-08-18 |
 | [wg-device-management](https://github.com/kubernetes-sigs/wg-device-management) | Prototypes and experiments for WG Device Management. | Go | 11 | Apache License 2.0 | 2024-04-30 | 2025-08-19 | 2025-08-19 |
 | [etcd-manager](https://github.com/kubernetes-sigs/etcd-manager) | None | Go | 16 | Apache License 2.0 | 2024-05-14 | 2025-08-20 | 2025-08-03 |
-| [cve-feed-osv](https://github.com/kubernetes-sigs/cve-feed-osv) | OSV JSON format file generator for official Kubernetes CVE Feed | Go | 12 | Apache License 2.0 | 2024-07-05 | 2025-06-20 | 2025-08-24 |
+| [cve-feed-osv](https://github.com/kubernetes-sigs/cve-feed-osv) | OSV JSON format file generator for official Kubernetes CVE Feed | Go | 12 | Apache License 2.0 | 2024-07-05 | 2025-06-20 | 2025-08-25 |
 | [wg-serving](https://github.com/kubernetes-sigs/wg-serving) | WG Serving | Shell | 30 | Apache License 2.0 | 2024-07-24 | 2025-08-19 | 2025-08-19 |
 | [multi-network](https://github.com/kubernetes-sigs/multi-network) | None | None | 4 | Apache License 2.0 | 2024-07-24 | 2025-04-04 | 2024-07-24 |
 | [multi-network-api](https://github.com/kubernetes-sigs/multi-network-api) | None | None | 3 | Apache License 2.0 | 2024-07-24 | 2025-07-25 | 2024-07-24 |
-| [gateway-api-inference-extension](https://github.com/kubernetes-sigs/gateway-api-inference-extension) | Gateway API Inference Extension | Go | 449 | Apache License 2.0 | 2024-08-28 | 2025-08-23 | 2025-08-23 |
+| [gateway-api-inference-extension](https://github.com/kubernetes-sigs/gateway-api-inference-extension) | Gateway API Inference Extension | Go | 451 | Apache License 2.0 | 2024-08-28 | 2025-08-25 | 2025-08-24 |
 | [gwctl](https://github.com/kubernetes-sigs/gwctl) | gwctl is a command-line tool for managing and understanding Gateway API resources in your Kubernetes cluster. | Go | 79 | Apache License 2.0 | 2024-09-12 | 2025-08-18 | 2025-08-19 |
 | [crdify](https://github.com/kubernetes-sigs/crdify) | a CLI tool to compare CustomResourceDefinitions and identify breaking changes | Go | 12 | Apache License 2.0 | 2024-10-30 | 2025-08-20 | 2025-07-24 |
 | [cni-dra-driver](https://github.com/kubernetes-sigs/cni-dra-driver) | CNI DRA Driver | Go | 28 | Apache License 2.0 | 2024-11-07 | 2025-08-08 | 2025-01-16 |
-| [container-object-storage-interface](https://github.com/kubernetes-sigs/container-object-storage-interface) | Container Object Storage Interface (COSI) responsible for defining COSI spec and APIs, interfacing with COSI drivers, and managing the lifecycle of COSI objects. | Go | 44 | Apache License 2.0 | 2024-11-22 | 2025-08-19 | 2025-08-19 |
-| [ingate](https://github.com/kubernetes-sigs/ingate) | InGate - an Ingress & Gateway API Controller | Go | 653 | Apache License 2.0 | 2024-12-02 | 2025-08-24 | 2025-08-21 |
-| [kjob](https://github.com/kubernetes-sigs/kjob) | KJob: Tool for CLI-loving ML researchers | Go | 38 | Apache License 2.0 | 2024-12-03 | 2025-08-19 | 2025-08-18 |
+| [container-object-storage-interface](https://github.com/kubernetes-sigs/container-object-storage-interface) | Container Object Storage Interface (COSI) responsible for defining COSI spec and APIs, interfacing with COSI drivers, and managing the lifecycle of COSI objects. | Go | 44 | Apache License 2.0 | 2024-11-22 | 2025-08-19 | 2025-08-25 |
+| [ingate](https://github.com/kubernetes-sigs/ingate) | InGate - an Ingress & Gateway API Controller | Go | 656 | Apache License 2.0 | 2024-12-02 | 2025-08-25 | 2025-08-21 |
+| [kjob](https://github.com/kubernetes-sigs/kjob) | KJob: Tool for CLI-loving ML researchers | Go | 38 | Apache License 2.0 | 2024-12-03 | 2025-08-19 | 2025-08-25 |
 | [kube-api-linter](https://github.com/kubernetes-sigs/kube-api-linter) | KAL - The Kube API Linter | Go | 91 | Apache License 2.0 | 2024-12-03 | 2025-08-20 | 2025-08-19 |
-| [inference-perf](https://github.com/kubernetes-sigs/inference-perf) | GenAI inference performance benchmarking tool | Python | 76 | Apache License 2.0 | 2025-01-14 | 2025-08-22 | 2025-08-22 |
+| [inference-perf](https://github.com/kubernetes-sigs/inference-perf) | GenAI inference performance benchmarking tool | Python | 76 | Apache License 2.0 | 2025-01-14 | 2025-08-25 | 2025-08-25 |
 | [nat64](https://github.com/kubernetes-sigs/nat64) | NAT64 agent for Kubernetes deployments | C | 24 | Apache License 2.0 | 2025-01-22 | 2025-08-15 | 2025-07-29 |
 | [multicluster-runtime](https://github.com/kubernetes-sigs/multicluster-runtime) | Experiment for Multi cluster controllers with controller-runtime | Go | 186 | Apache License 2.0 | 2025-02-10 | 2025-08-19 | 2025-08-18 |
 | [provider-ibmcloud-test-infra](https://github.com/kubernetes-sigs/provider-ibmcloud-test-infra) | None | Go | 1 | Apache License 2.0 | 2025-02-27 | 2025-07-31 | 2025-07-31 |
