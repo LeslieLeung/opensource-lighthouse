@@ -1,10 +1,10 @@
 # YY
 
-A total of 40 projects, 0 active projects in the last six months, 1 teams, and 1154 stars.
+A total of 40 projects, 0 active projects in the last six months, 1 teams, and 1155 stars.
 
 Top 3 Languages: JavaScript, Objective-C, CSS
 
-Statistics Date: 2025-09-05 08:08:54
+Statistics Date: 2025-09-06 08:07:18
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -47,4 +47,4 @@ Statistics Date: 2025-09-05 08:08:54
 | [GPUImage](https://github.com/yyued/GPUImage) | An open source iOS framework for GPU-based image and video processing | Objective-C | 1 | BSD 3-Clause "New" or "Revised" License | 2018-04-27 | 2018-12-02 | 2018-04-28 |
 | [nice-commit](https://github.com/yyued/nice-commit) | 规范 Git Commit | JavaScript | 6 | - | 2019-05-08 | 2021-06-15 | 2019-08-13 |
 | [share-sheet](https://github.com/yyued/share-sheet) | share sheet | Vue | 5 | MIT License | 2020-09-27 | 2022-12-04 | 2020-09-28 |
-| [cherry](https://github.com/yyued/cherry) | 一款高效、好用的图片处理工具（https://yyued.github.io/cherry/） | HTML | 45 | - | 2020-11-18 | 2025-08-12 | 2021-02-23 |
+| [cherry](https://github.com/yyued/cherry) | 一款高效、好用的图片处理工具（https://yyued.github.io/cherry/） | HTML | 46 | - | 2020-11-18 | 2025-09-05 | 2021-02-23 |
