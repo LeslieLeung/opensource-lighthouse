@@ -1,10 +1,10 @@
 # YY
 
-A total of 40 projects, 0 active projects in the last six months, 1 teams, and 1155 stars.
+A total of 40 projects, 0 active projects in the last six months, 1 teams, and 1156 stars.
 
 Top 3 Languages: JavaScript, Objective-C, CSS
 
-Statistics Date: 2025-09-12 08:08:34
+Statistics Date: 2025-09-13 08:07:55
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -24,7 +24,7 @@ Statistics Date: 2025-09-12 08:08:34
 | [lottery](https://github.com/yyued/lottery) | 一个浏览器端抽奖动画js组件 | JavaScript | 14 | - | 2015-05-20 | 2025-05-08 | 2015-06-30 |
 | [fekit](https://github.com/yyued/fekit) | f2e dev toolkit | JavaScript | 2 | - | 2015-06-10 | 2025-01-25 | 2015-07-02 |
 | [fekit.crx](https://github.com/yyued/fekit.crx) | f2e toolkit chrome-extension dev env | JavaScript | 4 | - | 2015-08-11 | 2017-07-06 | 2015-10-25 |
-| [MagicDrag](https://github.com/yyued/MagicDrag) | MagicDrag is an application introducing page components build for Interactive Animations. | Swift | 45 | MIT License | 2016-01-27 | 2022-03-26 | 2016-02-03 |
+| [MagicDrag](https://github.com/yyued/MagicDrag) | MagicDrag is an application introducing page components build for Interactive Animations. | Swift | 46 | MIT License | 2016-01-27 | 2025-09-13 | 2016-02-03 |
 | [LEGO-Pack](https://github.com/yyued/LEGO-Pack) | Just pack a folder and generate md5 hash. | JavaScript | 1 | - | 2016-08-16 | 2020-12-31 | 2017-04-01 |
 | [CodeX](https://github.com/yyued/CodeX) | CodeX helps you build User Interface from PRD to design, and generate code via Sketch. | JavaScript | 1 | GNU General Public License v3.0 | 2016-12-08 | 2023-01-28 | 2017-01-06 |
 | [CodeX-Runtime-iOS](https://github.com/yyued/CodeX-Runtime-iOS) | None | Objective-C | 0 | MIT License | 2016-12-30 | 2023-01-28 | 2016-12-30 |

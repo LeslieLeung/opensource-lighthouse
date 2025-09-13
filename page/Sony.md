@@ -1,15 +1,15 @@
 # Sony
 
-共 112 个项目，近半年内活跃项目 44 个，1 个团队， 17033 个 Star。
+共 112 个项目，近半年内活跃项目 44 个，1 个团队， 17037 个 Star。
 
 语言 Top 3：Python, JavaScript, Jupyter Notebook
 
-统计时间：2025-09-12 08:08:34
+统计时间：2025-09-13 08:07:55
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3333 | MIT License | 2015-05-29 | 2025-09-11 | 2025-09-03 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4224 | MIT License | 2015-05-29 | 2025-09-12 | 2025-07-05 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4226 | MIT License | 2015-05-29 | 2025-09-13 | 2025-07-05 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 412 | MIT License | 2015-09-18 | 2025-08-18 | 2020-12-29 |
@@ -30,7 +30,7 @@
 | [cdp-cli](https://github.com/sony/cdp-cli) | Command line tools for generating start point of multi-platform application development (Details: see cdp-js repository) | HTML | 7 | Apache License 2.0 | 2017-10-10 | 2020-12-13 | 2018-07-13 |
 | [nnabla-examples](https://github.com/sony/nnabla-examples) | Neural Network Libraries https://github.com/sony/nnabla - Examples | Python | 307 | Apache License 2.0 | 2017-11-05 | 2025-08-29 | 2025-08-29 |
 | [nnabla-c-runtime](https://github.com/sony/nnabla-c-runtime) | Neural Network Libraries - C Runtime | C | 55 | Apache License 2.0 | 2018-06-26 | 2025-07-29 | 2025-07-29 |
-| [mapray-js](https://github.com/sony/mapray-js) | JavaScript library for Interactive high quality 3D globes and maps in the browser | TypeScript | 142 | Apache License 2.0 | 2019-01-28 | 2025-07-25 | 2025-07-25 |
+| [mapray-js](https://github.com/sony/mapray-js) | JavaScript library for Interactive high quality 3D globes and maps in the browser | TypeScript | 143 | Apache License 2.0 | 2019-01-28 | 2025-09-12 | 2025-07-25 |
 | [typescript-fsa-redux-middleware](https://github.com/sony/typescript-fsa-redux-middleware) | Fluent syntax for defining typesafe Redux vanilla middlewares on top of typescript-fsa. | TypeScript | 10 | MIT License | 2019-01-29 | 2024-05-16 | 2020-01-24 |
 | [nnabla-doc](https://github.com/sony/nnabla-doc) | None | None | 1 | - | 2019-02-20 | 2024-05-29 | 2024-05-29 |
 | [nnabla-dataset-uploader](https://github.com/sony/nnabla-dataset-uploader) | None | Python | 0 | - | 2019-02-26 | 2019-03-15 | 2019-03-15 |
@@ -112,7 +112,7 @@
 | [x590schema](https://github.com/sony/x590schema) | None | Python | 2 | MIT License | 2025-05-08 | 2025-06-16 | 2025-05-29 |
 | [sbctm](https://github.com/sony/sbctm) | Schrödinger bridge consistency trajectory models for speech enhancement | Python | 6 | Other | 2025-05-09 | 2025-07-23 | 2025-07-17 |
 | [oil](https://github.com/sony/oil) | Official Repo for The Paper "Auto-Bidding in Real-Time Auctions via Oracle Imitation Learning" (KDD'25, Research Track) | Python | 2 | MIT License | 2025-05-23 | 2025-08-14 | 2025-05-23 |
-| [neural-network-console](https://github.com/sony/neural-network-console) | None | C++ | 6 | Apache License 2.0 | 2025-05-29 | 2025-09-11 | 2025-09-11 |
+| [neural-network-console](https://github.com/sony/neural-network-console) | None | C++ | 7 | Apache License 2.0 | 2025-05-29 | 2025-09-12 | 2025-09-11 |
 | [NeISFpp](https://github.com/sony/NeISFpp) | None | Python | 2 | Other | 2025-06-09 | 2025-08-28 | 2025-07-25 |
 | [BannerAgency](https://github.com/sony/BannerAgency) |  The official repo for BannerAgency: Advertising Banner Design with Multimodal LLM Agents | Python | 11 | MIT License | 2025-07-01 | 2025-08-23 | 2025-08-21 |
 | [tool-use-few-shot-transfer](https://github.com/sony/tool-use-few-shot-transfer) | None | HTML | 0 | - | 2025-07-14 | 2025-07-16 | 2025-07-16 |
