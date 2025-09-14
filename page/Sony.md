@@ -1,10 +1,10 @@
 # Sony
 
-共 112 个项目，近半年内活跃项目 44 个，1 个团队， 17037 个 Star。
+共 113 个项目，近半年内活跃项目 45 个，1 个团队， 17037 个 Star。
 
 语言 Top 3：Python, JavaScript, Jupyter Notebook
 
-统计时间：2025-09-13 08:07:55
+统计时间：2025-09-14 08:07:53
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -38,7 +38,7 @@
 | [isren](https://github.com/sony/isren) | None | JavaScript | 8 | MIT License | 2020-01-07 | 2023-01-12 | 2021-05-17 |
 | [ai-research-code](https://github.com/sony/ai-research-code) | None | Python | 354 | Apache License 2.0 | 2020-04-14 | 2025-09-07 | 2023-09-12 |
 | [nnabla-nas](https://github.com/sony/nnabla-nas) | Neural Architecture Search for Neural Network Libraries | Python | 60 | Apache License 2.0 | 2020-06-15 | 2025-07-14 | 2024-01-22 |
-| [micro-notifier](https://github.com/sony/micro-notifier) | Simplified Pusher Clone | Go | 13 | MIT License | 2020-09-06 | 2025-07-30 | 2025-07-30 |
+| [micro-notifier](https://github.com/sony/micro-notifier) | Simplified Pusher Clone | Go | 13 | MIT License | 2020-09-06 | 2025-09-13 | 2025-09-13 |
 | [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1301 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2025-09-06 | 2025-07-25 |
 | [lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) | None | Python | 0 | MIT License | 2021-03-25 | 2021-05-13 | 2021-05-13 |
 | [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 127 | Apache License 2.0 | 2021-06-11 | 2025-09-10 | 2024-12-16 |
@@ -117,6 +117,7 @@
 | [BannerAgency](https://github.com/sony/BannerAgency) |  The official repo for BannerAgency: Advertising Banner Design with Multimodal LLM Agents | Python | 11 | MIT License | 2025-07-01 | 2025-08-23 | 2025-08-21 |
 | [tool-use-few-shot-transfer](https://github.com/sony/tool-use-few-shot-transfer) | None | HTML | 0 | - | 2025-07-14 | 2025-07-16 | 2025-07-16 |
 | [DeepResonance](https://github.com/sony/DeepResonance) | None | Python | 1 | MIT License | 2025-07-15 | 2025-07-26 | 2025-07-15 |
+| [micro-mail-sender](https://github.com/sony/micro-mail-sender) | None | Go | 0 | MIT License | 2025-07-26 | 2025-09-13 | 2025-09-13 |
 | [SIoT-LSLtool](https://github.com/sony/SIoT-LSLtool) | None | Python | 9 | BSD 3-Clause "New" or "Revised" License | 2025-07-30 | 2025-08-04 | 2025-07-31 |
 | [SIoT-TrailCamera](https://github.com/sony/SIoT-TrailCamera) | None | C | 2 | BSD 3-Clause "New" or "Revised" License | 2025-08-19 | 2025-09-01 | 2025-08-29 |
 | [g2d2](https://github.com/sony/g2d2) | None | Python | 0 | Apache License 2.0 | 2025-08-25 | 2025-08-28 | 2025-08-27 |
