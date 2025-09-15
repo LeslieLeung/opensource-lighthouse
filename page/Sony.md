@@ -1,15 +1,15 @@
 # Sony
 
-共 113 个项目，近半年内活跃项目 45 个，1 个团队， 17037 个 Star。
+共 113 个项目，近半年内活跃项目 43 个，1 个团队， 17041 个 Star。
 
 语言 Top 3：Python, JavaScript, Jupyter Notebook
 
-统计时间：2025-09-14 08:07:53
+统计时间：2025-09-15 08:09:36
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3333 | MIT License | 2015-05-29 | 2025-09-11 | 2025-09-03 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4226 | MIT License | 2015-05-29 | 2025-09-13 | 2025-07-05 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3335 | MIT License | 2015-05-29 | 2025-09-15 | 2025-09-03 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4227 | MIT License | 2015-05-29 | 2025-09-15 | 2025-07-05 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 412 | MIT License | 2015-09-18 | 2025-08-18 | 2020-12-29 |
@@ -67,7 +67,7 @@
 | [gibbsddrm](https://github.com/sony/gibbsddrm) | None | Python | 30 | MIT License | 2023-04-26 | 2025-06-06 | 2023-05-29 |
 | [fp-diffusion](https://github.com/sony/fp-diffusion) | None | Jupyter Notebook | 29 | Apache License 2.0 | 2023-04-26 | 2025-08-10 | 2024-02-14 |
 | [diffiner](https://github.com/sony/diffiner) | None | Python | 63 | MIT License | 2023-05-30 | 2025-06-24 | 2023-08-16 |
-| [hFT-Transformer](https://github.com/sony/hFT-Transformer) | Pytorch implementation of automatic music transcription method that uses a two-level hierarchical frequency-time Transformer architecture (hFT-Transformer). | Python | 103 | MIT License | 2023-06-26 | 2025-08-19 | 2023-07-11 |
+| [hFT-Transformer](https://github.com/sony/hFT-Transformer) | Pytorch implementation of automatic music transcription method that uses a two-level hierarchical frequency-time Transformer architecture (hFT-Transformer). | Python | 104 | MIT License | 2023-06-26 | 2025-09-15 | 2023-07-11 |
 | [san](https://github.com/sony/san) | PyTorch implementation of slicing adversarial network (SAN) | Python | 97 | - | 2023-06-28 | 2025-08-27 | 2024-06-13 |
 | [bigvsan](https://github.com/sony/bigvsan) | Pytorch implementation of BigVSAN | Python | 203 | MIT License | 2023-09-01 | 2025-07-24 | 2024-03-23 |
 | [bigvsan_eval](https://github.com/sony/bigvsan_eval) | Evaluation tool used in the BigVSAN paper | Python | 14 | MIT License | 2023-09-01 | 2025-07-28 | 2024-03-22 |
