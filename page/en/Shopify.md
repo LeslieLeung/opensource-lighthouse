@@ -1,17 +1,17 @@
 # Shopify
 
-A total of 1132 projects, 316 active projects in the last six months, 1 teams, and 169809 stars.
+A total of 1132 projects, 315 active projects in the last six months, 1 teams, and 169827 stars.
 
 Top 3 Languages: Ruby, JavaScript, Go
 
-Statistics Date: 2025-09-20 08:08:16
+Statistics Date: 2025-09-21 08:07:34
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [active_shipping](https://github.com/Shopify/active_shipping) | ActiveShipping is a simple shipping abstraction library extracted from Shopify | Ruby | 816 | MIT License | 2008-04-21 | 2025-09-09 | 2019-12-17 |
 | [delayed_job](https://github.com/Shopify/delayed_job) | Database based asynchronously priority queue system -- Extracted from Shopify  | Ruby | 17 | MIT License | 2008-04-21 | 2023-01-27 | 2019-06-21 |
 | [response_bank](https://github.com/Shopify/response_bank) | Simple response caching for Ruby applications | Ruby | 136 | MIT License | 2008-04-21 | 2025-06-05 | 2025-06-05 |
-| [liquid](https://github.com/Shopify/liquid) | Liquid markup language. Safe, customer facing template language for flexible web apps.  | Ruby | 11495 | MIT License | 2008-05-08 | 2025-09-18 | 2025-09-08 |
+| [liquid](https://github.com/Shopify/liquid) | Liquid markup language. Safe, customer facing template language for flexible web apps.  | Ruby | 11497 | MIT License | 2008-05-08 | 2025-09-21 | 2025-09-08 |
 | [active_fulfillment](https://github.com/Shopify/active_fulfillment) | Active Merchant library for integration with order fulfillment services | Ruby | 155 | MIT License | 2008-05-13 | 2025-09-09 | 2024-09-24 |
 | [vision](https://github.com/Shopify/vision) | The vision toolkit ( Shopify in a box -- for template designers ) | JavaScript | 79 | - | 2008-06-05 | 2025-04-14 | 2012-05-04 |
 | [shopify_app](https://github.com/Shopify/shopify_app) | A Rails Engine for building Shopify Apps | Ruby | 1852 | MIT License | 2008-10-09 | 2025-09-17 | 2025-09-17 |
@@ -127,7 +127,7 @@ Statistics Date: 2025-09-20 08:08:16
 | [minfraud-ruby](https://github.com/Shopify/minfraud-ruby) | Ruby interface to the MaxMind minFraud API service. | Ruby | 5 | GNU General Public License v2.0 | 2014-08-08 | 2023-01-26 | 2023-08-28 |
 | [go-dogstatsd](https://github.com/Shopify/go-dogstatsd) | DEPRECATED: Use https://github.com/DataDog/datadog-go | Go | 3 | - | 2014-08-15 | 2025-05-27 | 2022-07-29 |
 | [minesweeper](https://github.com/Shopify/minesweeper) | Scans websites; detects bombs | Go | 113 | MIT License | 2014-09-02 | 2024-06-15 | 2022-07-29 |
-| [toxiproxy](https://github.com/Shopify/toxiproxy) | :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing | Go | 11550 | MIT License | 2014-09-04 | 2025-09-20 | 2025-09-15 |
+| [toxiproxy](https://github.com/Shopify/toxiproxy) | :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing | Go | 11553 | MIT License | 2014-09-04 | 2025-09-21 | 2025-09-15 |
 | [azkaban-scheduler-ruby](https://github.com/Shopify/azkaban-scheduler-ruby) | None | Ruby | 3 | MIT License | 2014-09-10 | 2023-01-29 | 2018-05-30 |
 | [turbograft](https://github.com/Shopify/turbograft) | Hard fork of turbolinks, adding partial page replacement strategies, and utilities. | JavaScript | 214 | MIT License | 2014-09-11 | 2025-03-18 | 2024-05-16 |
 | [twine](https://github.com/Shopify/twine) | Twine is a minimalistic two-way binding system | CoffeeScript | 116 | MIT License | 2014-09-13 | 2025-08-16 | 2025-05-29 |
@@ -274,7 +274,7 @@ Statistics Date: 2025-09-20 08:08:16
 | [teaspoon](https://github.com/Shopify/teaspoon) | Teaspoon: A Javascript test runner built on top of Rails - use Jasmine, Mocha or QUnit in the browser or headlessly using PhantomJS or with Selenium Webdriver. | JavaScript | 3 | - | 2016-06-07 | 2023-01-28 | 2023-03-22 |
 | [bootscale](https://github.com/Shopify/bootscale) | Speedup applications boot by caching require calls | Ruby | 3 | MIT License | 2016-06-09 | 2023-01-29 | 2017-04-03 |
 | [lua-nginx-internals-nginx-module](https://github.com/Shopify/lua-nginx-internals-nginx-module) | None | C | 7 | - | 2016-06-10 | 2025-07-14 | 2018-05-15 |
-| [rails](https://github.com/Shopify/rails) | Ruby on Rails | Ruby | 16 | MIT License | 2016-06-10 | 2025-09-18 | 2025-09-20 |
+| [rails](https://github.com/Shopify/rails) | Ruby on Rails | Ruby | 16 | MIT License | 2016-06-10 | 2025-09-18 | 2025-09-21 |
 | [aead](https://github.com/Shopify/aead) | Authenticated Encryption with Associated Data | Ruby | 5 | MIT License | 2016-06-13 | 2023-03-07 | 2016-07-06 |
 | [buy-button-js](https://github.com/Shopify/buy-button-js) | BuyButton.js is a highly customizable UI library for adding ecommerce functionality to any website. | JavaScript | 251 | MIT License | 2016-06-14 | 2025-08-25 | 2025-09-19 |
 | [shopify_apt_get_on_change](https://github.com/Shopify/shopify_apt_get_on_change) | On demand apt-get update | Ruby | 2 | - | 2016-06-15 | 2024-04-02 | 2023-04-21 |
@@ -384,7 +384,7 @@ Statistics Date: 2025-09-20 08:08:16
 | [images](https://github.com/Shopify/images) | Tools to help us wrangle images at Shopify. | None | 10 | - | 2017-04-04 | 2025-09-09 | 2021-03-19 |
 | [redis-semaphore](https://github.com/Shopify/redis-semaphore) | A distributed semaphore and mutex built on Redis. | Ruby | 2 | MIT License | 2017-04-13 | 2023-01-29 | 2017-04-13 |
 | [heroku-buildpack-ssh-agent](https://github.com/Shopify/heroku-buildpack-ssh-agent) | None | Ruby | 2 | - | 2017-04-18 | 2023-01-29 | 2017-04-18 |
-| [polaris](https://github.com/Shopify/polaris) | Shopify’s design system to help us work together to build a great experience for all of our merchants. | TypeScript | 6041 | Other | 2017-04-20 | 2025-09-20 | 2025-09-19 |
+| [polaris](https://github.com/Shopify/polaris) | Shopify’s design system to help us work together to build a great experience for all of our merchants. | TypeScript | 6040 | Other | 2017-04-20 | 2025-09-20 | 2025-09-19 |
 | [simplesurvey](https://github.com/Shopify/simplesurvey) | A pandas dataframe backed survey creation and analysis framework | Python | 2 | - | 2017-04-27 | 2024-12-17 | 2024-05-20 |
 | [graphql-to-js-client-builder](https://github.com/Shopify/graphql-to-js-client-builder) | This is a generic function that will take in a GraphQL AST, and produce a javascript AST or code representing the query builder syntax used by graphql-js-client | JavaScript | 7 | MIT License | 2017-05-10 | 2023-06-30 | 2024-06-11 |
 | [cloudflare-go](https://github.com/Shopify/cloudflare-go) | Go library for the Cloudflare v4 API | Go | 6 | BSD 3-Clause "New" or "Revised" License | 2017-05-11 | 2024-03-07 | 2023-06-13 |
@@ -496,7 +496,7 @@ Statistics Date: 2025-09-20 08:08:16
 | [condense-number](https://github.com/Shopify/condense-number) | Locale-aware number condensing | TypeScript | 43 | MIT License | 2018-06-04 | 2025-06-03 | 2025-09-08 |
 | [job-iteration](https://github.com/Shopify/job-iteration) | Makes your background jobs interruptible and resumable by design. | Ruby | 1257 | MIT License | 2018-06-13 | 2025-09-16 | 2025-09-19 |
 | [graphql-metrics](https://github.com/Shopify/graphql-metrics) | Extract as much much detail as you want from GraphQL queries, served up from your Ruby app and the graphql gem.  | Ruby | 171 | MIT License | 2018-07-03 | 2025-09-02 | 2025-09-02 |
-| [limiter](https://github.com/Shopify/limiter) | Simple Ruby rate limiting mechanism. | Ruby | 424 | MIT License | 2018-07-06 | 2025-09-05 | 2025-07-14 |
+| [limiter](https://github.com/Shopify/limiter) | Simple Ruby rate limiting mechanism. | Ruby | 425 | MIT License | 2018-07-06 | 2025-09-21 | 2025-07-14 |
 | [vault-plugin-secrets-ejson](https://github.com/Shopify/vault-plugin-secrets-ejson) | A Vault plugin for submitting EJSON to Hashicorp's Vault | Go | 14 | MIT License | 2018-07-20 | 2025-05-28 | 2024-05-24 |
 | [netsuite](https://github.com/Shopify/netsuite) | NetSuite SuiteTalk API Wrapper | Ruby | 2 | MIT License | 2018-08-16 | 2023-01-25 | 2024-10-29 |
 | [OHHTTPStubs](https://github.com/Shopify/OHHTTPStubs) | Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers! | Objective-C | 2 | MIT License | 2018-08-24 | 2023-01-28 | 2018-10-25 |
@@ -559,7 +559,7 @@ Statistics Date: 2025-09-20 08:08:16
 | [magic-modules](https://github.com/Shopify/magic-modules) | Magic Modules: Automagically generate Google Cloud Platform support for OSS | HTML | 2 | Apache License 2.0 | 2019-05-08 | 2023-01-19 | 2024-05-13 |
 | [istio](https://github.com/Shopify/istio) | Fork that allows us to build our own Istio images (with and without modifications). See .shopify-build/README.md for instructions. | Go | 3 | Apache License 2.0 | 2019-05-16 | 2025-05-28 | 2023-02-19 |
 | [escape_utils](https://github.com/Shopify/escape_utils) | Faster string escaping routines for your ruby apps | C | 2 | MIT License | 2019-05-23 | 2023-01-25 | 2023-03-22 |
-| [tapioca](https://github.com/Shopify/tapioca) | The swiss army knife of RBI generation | Ruby | 807 | MIT License | 2019-05-27 | 2025-09-19 | 2025-09-18 |
+| [tapioca](https://github.com/Shopify/tapioca) | The swiss army knife of RBI generation | Ruby | 808 | MIT License | 2019-05-27 | 2025-09-21 | 2025-09-18 |
 | [unite_hack_session](https://github.com/Shopify/unite_hack_session) | For Unite, partners will use this issue to create tickets to track ideas for a Hack Days-style workshop. | None | 4 | - | 2019-05-28 | 2023-01-27 | 2019-06-18 |
 | [opentelemetry-ruby](https://github.com/Shopify/opentelemetry-ruby) | None | Ruby | 4 | Apache License 2.0 | 2019-05-29 | 2025-04-17 | 2025-06-11 |
 | [app-bridge-tutorial](https://github.com/Shopify/app-bridge-tutorial) | None | JavaScript | 17 | - | 2019-05-31 | 2023-10-12 | 2024-06-18 |
@@ -585,11 +585,11 @@ Statistics Date: 2025-09-20 08:08:16
 | [app-cli-node-generator-helper](https://github.com/Shopify/app-cli-node-generator-helper) | None | JavaScript | 4 | MIT License | 2019-08-30 | 2025-05-13 | 2025-07-21 |
 | [seafoam](https://github.com/Shopify/seafoam) | A tool for working with compiler graphs dumped by the GraalVM compiler | Ruby | 138 | MIT License | 2019-09-03 | 2025-08-18 | 2025-09-01 |
 | [rails-i18n](https://github.com/Shopify/rails-i18n) | Repository for collecting Locale data for Ruby on Rails I18n as well as other interesting, Rails related I18n stuff | Ruby | 2 | MIT License | 2019-09-03 | 2025-04-17 | 2025-03-21 |
-| [restyle](https://github.com/Shopify/restyle) | A type-enforced system for building UI components in React Native with TypeScript. | TypeScript | 3261 | MIT License | 2019-09-06 | 2025-09-16 | 2025-09-08 |
+| [restyle](https://github.com/Shopify/restyle) | A type-enforced system for building UI components in React Native with TypeScript. | TypeScript | 3262 | MIT License | 2019-09-06 | 2025-09-21 | 2025-09-08 |
 | [discoverability-action](https://github.com/Shopify/discoverability-action) | Adds a comment to a pull request with areas of your code to test | JavaScript | 3 | MIT License | 2019-09-16 | 2023-01-28 | 2021-02-08 |
 | [terraform-provider-cloudflare](https://github.com/Shopify/terraform-provider-cloudflare) | Terraform Cloudflare provider | Go | 2 | Apache License 2.0 | 2019-09-20 | 2025-08-14 | 2025-08-14 |
 | [activerecord-databasevalidations](https://github.com/Shopify/activerecord-databasevalidations) | Add validations to your ActiveRecord models based on your database constraints. | Ruby | 5 | MIT License | 2019-09-26 | 2025-04-17 | 2025-03-06 |
-| [ruby](https://github.com/Shopify/ruby) | The Ruby Programming Language [mirror] | Ruby | 43 | Other | 2019-09-27 | 2025-09-19 | 2025-09-19 |
+| [ruby](https://github.com/Shopify/ruby) | The Ruby Programming Language [mirror] | Ruby | 43 | Other | 2019-09-27 | 2025-09-19 | 2025-09-20 |
 | [shopify-theme-inspector](https://github.com/Shopify/shopify-theme-inspector) | A Chrome DevTools plugin that visualizes Shopify Liquid render profiling data so you can triage long-running code and reduce server response times! | TypeScript | 167 | MIT License | 2019-09-30 | 2025-09-17 | 2025-05-13 |
 | [hypernova-ruby](https://github.com/Shopify/hypernova-ruby) | Ruby client for Hypernova. | Ruby | 2 | MIT License | 2019-09-30 | 2023-08-30 | 2023-08-30 |
 | [minitest](https://github.com/Shopify/minitest) | minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking. | Ruby | 2 | - | 2019-10-07 | 2023-11-20 | 2024-04-11 |
@@ -749,7 +749,7 @@ Statistics Date: 2025-09-20 08:08:16
 | [storefront-api-learning-kit](https://github.com/Shopify/storefront-api-learning-kit) | None | JavaScript | 415 | - | 2021-06-18 | 2025-09-19 | 2025-09-15 |
 | [conventional-changelog](https://github.com/Shopify/conventional-changelog) | Generate changelogs and release notes from a project's commit messages and metadata. | None | 1 | ISC License | 2021-06-18 | 2023-01-26 | 2023-03-22 |
 | [theme-extension-getting-started](https://github.com/Shopify/theme-extension-getting-started) | A theme app extension boilerplate that highlights the basic structure and features that are available to developers who want to integrate their apps with Shopify Online Stores. | Liquid | 119 | MIT License | 2021-06-21 | 2025-09-15 | 2025-05-13 |
-| [dawn](https://github.com/Shopify/dawn) | Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in. | Liquid | 2822 | Other | 2021-06-23 | 2025-09-20 | 2025-09-17 |
+| [dawn](https://github.com/Shopify/dawn) | Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in. | Liquid | 2824 | Other | 2021-06-23 | 2025-09-20 | 2025-09-17 |
 | [product-reviews-sample-app](https://github.com/Shopify/product-reviews-sample-app) | A sample Shopify application that creates and stores product reviews for a store, written in Node.js | JavaScript | 369 | MIT License | 2021-06-24 | 2025-09-10 | 2025-09-10 |
 | [flink](https://github.com/Shopify/flink) | Apache Flink | Java | 3 | Apache License 2.0 | 2021-06-28 | 2025-07-23 | 2025-08-13 |
 | [fleet](https://github.com/Shopify/fleet) | Manage large fleets of Kubernetes clusters | Go | 2 | Apache License 2.0 | 2021-06-30 | 2023-01-25 | 2021-12-07 |
@@ -817,7 +817,7 @@ Statistics Date: 2025-09-20 08:08:16
 | [shopify-marketplaces-buyer-app](https://github.com/Shopify/shopify-marketplaces-buyer-app) | None | JavaScript | 52 | MIT License | 2022-02-14 | 2025-07-18 | 2023-10-24 |
 | [libvips-1](https://github.com/Shopify/libvips-1) | A fast image processing library with low memory needs. | C | 1 | GNU Lesser General Public License v2.1 | 2022-02-23 | 2023-01-25 | 2022-03-03 |
 | [ulid-native](https://github.com/Shopify/ulid-native) | None | C | 4 | MIT License | 2022-02-23 | 2023-11-23 | 2022-07-29 |
-| [ruby-lsp](https://github.com/Shopify/ruby-lsp) | An opinionated language server for Ruby | Ruby | 1890 | MIT License | 2022-02-25 | 2025-09-19 | 2025-09-17 |
+| [ruby-lsp](https://github.com/Shopify/ruby-lsp) | An opinionated language server for Ruby | Ruby | 1892 | MIT License | 2022-02-25 | 2025-09-21 | 2025-09-17 |
 | [vscode-shopify-ruby](https://github.com/Shopify/vscode-shopify-ruby) | An opinionated and auto-configured set of extensions for Ruby development | TypeScript | 193 | MIT License | 2022-03-02 | 2025-09-16 | 2025-09-15 |
 | [vscode-ruby-lsp](https://github.com/Shopify/vscode-ruby-lsp) | VS Code plugin for connecting with the Ruby LSP | TypeScript | 414 | Other | 2022-03-04 | 2025-07-27 | 2024-05-29 |
 | [fulfillment-order-sample-app](https://github.com/Shopify/fulfillment-order-sample-app) | None | JavaScript | 18 | MIT License | 2022-03-08 | 2025-05-20 | 2024-06-19 |
@@ -881,12 +881,12 @@ Statistics Date: 2025-09-20 08:08:16
 | [goqueuesim](https://github.com/Shopify/goqueuesim) | User queueing simulator supporting diverse client config behaviours via Go coroutines | Go | 8 | MIT License | 2022-09-22 | 2025-01-17 | 2023-03-21 |
 | [theme-liquid-docs](https://github.com/Shopify/theme-liquid-docs) | A reference for liquid documentation | TypeScript | 67 | MIT License | 2022-09-23 | 2025-09-19 | 2025-09-19 |
 | [hydrogen-react](https://github.com/Shopify/hydrogen-react) | Reusable components and utilities for building Shopify-powered custom storefronts. | TypeScript | 179 | MIT License | 2022-09-26 | 2025-08-22 | 2023-03-03 |
-| [gitcoin-bounties](https://github.com/Shopify/gitcoin-bounties) | None | None | 4 | - | 2022-10-07 | 2023-01-20 | 2022-10-07 |
+| [gitcoin-bounties](https://github.com/Shopify/gitcoin-bounties) | None | None | 5 | - | 2022-10-07 | 2025-09-21 | 2022-10-07 |
 | [mybench](https://github.com/Shopify/mybench) | A high-performance framework for rapid prototyping of database benchmarks | Jupyter Notebook | 10 | MIT License | 2022-11-10 | 2025-05-13 | 2025-09-08 |
 | [test_test](https://github.com/Shopify/test_test) | None | None | 1 | - | 2022-11-10 | 2023-01-19 | 2022-11-10 |
 | [dbt-spark](https://github.com/Shopify/dbt-spark) | dbt-spark contains all of the code enabling dbt to work with Apache Spark and Databricks | None | 1 | Apache License 2.0 | 2022-11-24 | 2023-01-19 | 2022-11-24 |
 | [ip-masq-agent](https://github.com/Shopify/ip-masq-agent) | Manage IP masquerade on nodes | Go | 1 | Apache License 2.0 | 2022-11-30 | 2024-06-18 | 2024-07-04 |
-| [ruvy](https://github.com/Shopify/ruvy) | None | Rust | 313 | MIT License | 2022-12-06 | 2025-09-11 | 2025-09-05 |
+| [ruvy](https://github.com/Shopify/ruvy) | None | Rust | 314 | MIT License | 2022-12-06 | 2025-09-21 | 2025-09-05 |
 | [tree_stand](https://github.com/Shopify/tree_stand) | A high-level Ruby wrapper for tree-sitter bindings. | Ruby | 11 | MIT License | 2022-12-08 | 2024-04-11 | 2024-03-28 |
 | [checkout-ui-extensions-po-box-validator](https://github.com/Shopify/checkout-ui-extensions-po-box-validator) | None | JavaScript | 6 | MIT License | 2022-12-12 | 2023-03-11 | 2025-08-07 |
 | [checkout-liquid-po-box-validator](https://github.com/Shopify/checkout-liquid-po-box-validator) | None | Liquid | 2 | - | 2022-12-12 | 2023-11-14 | 2022-12-12 |
@@ -1014,7 +1014,7 @@ Statistics Date: 2025-09-20 08:08:16
 | [example-checkout--custom-footer--js](https://github.com/Shopify/example-checkout--custom-footer--js) | This repo contains an example app that uses Checkout UI Extensions to build a custom footer using JavaScript | JavaScript | 1 | MIT License | 2024-01-26 | 2024-08-23 | 2024-02-05 |
 | [grpc-mock](https://github.com/Shopify/grpc-mock) | Run a gRPC mock server by using protobuf reflection. | None | 0 | Apache License 2.0 | 2024-01-29 | 2024-01-29 | 2024-04-19 |
 | [reasonableai](https://github.com/Shopify/reasonableai) | An auditable generative AI framework | Python | 8 | MIT License | 2024-01-29 | 2025-05-28 | 2024-07-05 |
-| [product-taxonomy](https://github.com/Shopify/product-taxonomy) | Shopify's standardized product taxonomy. | Ruby | 202 | MIT License | 2024-01-29 | 2025-09-18 | 2025-09-19 |
+| [product-taxonomy](https://github.com/Shopify/product-taxonomy) | Shopify's standardized product taxonomy. | Ruby | 203 | MIT License | 2024-01-29 | 2025-09-20 | 2025-09-19 |
 | [protoboeuf](https://github.com/Shopify/protoboeuf) | A pure Ruby implementation of Protobuf designed to optimize well with JIT compilers. | Ruby | 48 | MIT License | 2024-02-05 | 2025-09-08 | 2025-09-08 |
 | [flink-connector-kafka](https://github.com/Shopify/flink-connector-kafka) | Apache flink | Java | 0 | Apache License 2.0 | 2024-02-06 | 2025-07-25 | 2025-07-25 |
 | [connect-swift](https://github.com/Shopify/connect-swift) | The Swift implementation of Connect: Protobuf RPC that works. | None | 0 | Apache License 2.0 | 2024-02-09 | 2024-02-09 | 2025-08-13 |
@@ -1107,7 +1107,7 @@ Statistics Date: 2025-09-20 08:08:16
 | [tidb](https://github.com/Shopify/tidb) | TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications. | None | 1 | Apache License 2.0 | 2025-04-02 | 2025-04-16 | 2025-04-08 |
 | [argo-cd-1](https://github.com/Shopify/argo-cd-1) | Declarative Continuous Deployment for Kubernetes | Go | 1 | Apache License 2.0 | 2025-04-05 | 2025-04-17 | 2025-09-13 |
 | [mcp-net](https://github.com/Shopify/mcp-net) | A proxy server and tools manager for the Model Context Protocol (MCP) that facilitates communication between LLM applications and remote MCP-compatible services. | Go | 0 | MIT License | 2025-04-09 | 2025-04-10 | 2025-04-10 |
-| [roast](https://github.com/Shopify/roast) | Structured AI workflows made easy | Ruby | 912 | MIT License | 2025-04-09 | 2025-09-19 | 2025-09-19 |
+| [roast](https://github.com/Shopify/roast) | Structured AI workflows made easy | Ruby | 915 | MIT License | 2025-04-09 | 2025-09-20 | 2025-09-19 |
 | [example-admin-action-and-block-preact](https://github.com/Shopify/example-admin-action-and-block-preact) | Contains example code for tutorials at https://shopify.dev/docs/apps/admin/admin-actions-and-blocks | JavaScript | 1 | MIT License | 2025-04-10 | 2025-08-25 | 2025-09-10 |
 | [shopify-app-template-react-router](https://github.com/Shopify/shopify-app-template-react-router) | An template for building Shopify Apps using React Router v7 and above | TypeScript | 54 | MIT License | 2025-04-14 | 2025-09-17 | 2025-09-18 |
 | [toml-patch](https://github.com/Shopify/toml-patch) | A JS library using WebAssembly to patch TOML files, preserving formatting | Rust | 4 | Other | 2025-04-15 | 2025-09-08 | 2025-09-08 |
@@ -1124,7 +1124,7 @@ Statistics Date: 2025-09-20 08:08:16
 | [propshaft](https://github.com/Shopify/propshaft) | Deliver assets for Rails | Ruby | 0 | MIT License | 2025-06-12 | 2025-06-13 | 2025-06-23 |
 | [DataflowTemplates](https://github.com/Shopify/DataflowTemplates) | Cloud Dataflow Google-provided templates for solving in-Cloud data tasks | None | 0 | Apache License 2.0 | 2025-07-03 | 2025-07-03 | 2025-08-06 |
 | [changesets-action](https://github.com/Shopify/changesets-action) | None | None | 0 | MIT License | 2025-07-17 | 2025-07-17 | 2025-09-10 |
-| [horizon](https://github.com/Shopify/horizon) | Shopify's Horizon theme source code | Liquid | 238 | Other | 2025-07-18 | 2025-09-19 | 2025-09-10 |
+| [horizon](https://github.com/Shopify/horizon) | Shopify's Horizon theme source code | Liquid | 239 | Other | 2025-07-18 | 2025-09-21 | 2025-09-10 |
 | [rocksdb-1](https://github.com/Shopify/rocksdb-1) | A library that provides an embeddable, persistent key-value store for fast storage. | None | 0 | Other | 2025-07-30 | 2025-07-30 | 2025-07-28 |
 | [ruby-environments](https://github.com/Shopify/ruby-environments) | None | JavaScript | 1 | MIT License | 2025-07-30 | 2025-08-06 | 2025-08-06 |
 | [raindrops](https://github.com/Shopify/raindrops) | None | None | 1 | Other | 2025-08-08 | 2025-09-10 | 2025-08-20 |
