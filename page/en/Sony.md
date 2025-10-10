@@ -1,10 +1,10 @@
 # Sony
 
-A total of 118 projects, 43 active projects in the last six months, 1 teams, and 17154 stars.
+A total of 119 projects, 44 active projects in the last six months, 1 teams, and 17155 stars.
 
 Top 3 Languages: Python, JavaScript, Jupyter Notebook
 
-Statistics Date: 2025-10-09 08:09:30
+Statistics Date: 2025-10-10 08:09:55
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -125,4 +125,5 @@ Statistics Date: 2025-10-09 08:09:30
 | [oms](https://github.com/sony/oms) | Official Repo for The Paper "OMS: On-the-fly, Multi-Objective, Self-Reflective Ad Keyword Generation via LLM Agent” (EMNLP’25-main) | Python | 0 | MIT License | 2025-09-11 | 2025-09-26 | 2025-09-26 |
 | [mimo](https://github.com/sony/mimo) | Official Repo for The Paper "Mirror in the Model: Ad Banner Image Generation via Reflective Multi-LLM and Multi-modal Agents” (EMNLP’25-Industry) | Python | 0 | MIT License | 2025-09-11 | 2025-09-26 | 2025-09-26 |
 | [multi-plane-segmentation-gpu](https://github.com/sony/multi-plane-segmentation-gpu) | None | JavaScript | 0 | - | 2025-09-26 | 2025-10-03 | 2025-10-03 |
-| [cmt](https://github.com/sony/cmt) | None | Python | 11 | - | 2025-09-30 | 2025-10-08 | 2025-10-01 |
+| [cmt](https://github.com/sony/cmt) | None | Python | 12 | - | 2025-09-30 | 2025-10-10 | 2025-10-01 |
+| [mmaudiosep](https://github.com/sony/mmaudiosep) | None | Python | 0 | MIT License | 2025-10-06 | 2025-10-10 | 2025-10-10 |
