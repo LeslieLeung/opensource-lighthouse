@@ -1,15 +1,15 @@
 # Sony
 
-共 119 个项目，近半年内活跃项目 44 个，1 个团队， 17172 个 Star。
+共 120 个项目，近半年内活跃项目 45 个，1 个团队， 17185 个 Star。
 
 语言 Top 3：Python, JavaScript, Jupyter Notebook
 
-统计时间：2025-10-13 08:10:08
+统计时间：2025-10-14 08:08:39
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3363 | MIT License | 2015-05-29 | 2025-10-10 | 2025-10-04 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4254 | MIT License | 2015-05-29 | 2025-10-12 | 2025-07-05 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3366 | MIT License | 2015-05-29 | 2025-10-13 | 2025-10-04 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4255 | MIT License | 2015-05-29 | 2025-10-14 | 2025-07-05 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 412 | MIT License | 2015-09-18 | 2025-08-18 | 2020-12-29 |
@@ -30,7 +30,7 @@
 | [cdp-cli](https://github.com/sony/cdp-cli) | Command line tools for generating start point of multi-platform application development (Details: see cdp-js repository) | HTML | 7 | Apache License 2.0 | 2017-10-10 | 2020-12-13 | 2018-07-13 |
 | [nnabla-examples](https://github.com/sony/nnabla-examples) | Neural Network Libraries https://github.com/sony/nnabla - Examples | Python | 306 | Apache License 2.0 | 2017-11-05 | 2025-10-04 | 2025-08-29 |
 | [nnabla-c-runtime](https://github.com/sony/nnabla-c-runtime) | Neural Network Libraries - C Runtime | C | 57 | Apache License 2.0 | 2018-06-26 | 2025-09-29 | 2025-07-29 |
-| [mapray-js](https://github.com/sony/mapray-js) | JavaScript library for Interactive high quality 3D globes and maps in the browser | TypeScript | 151 | Apache License 2.0 | 2019-01-28 | 2025-10-12 | 2025-07-25 |
+| [mapray-js](https://github.com/sony/mapray-js) | JavaScript library for Interactive high quality 3D globes and maps in the browser | TypeScript | 152 | Apache License 2.0 | 2019-01-28 | 2025-10-14 | 2025-07-25 |
 | [typescript-fsa-redux-middleware](https://github.com/sony/typescript-fsa-redux-middleware) | Fluent syntax for defining typesafe Redux vanilla middlewares on top of typescript-fsa. | TypeScript | 10 | MIT License | 2019-01-29 | 2024-05-16 | 2020-01-24 |
 | [nnabla-doc](https://github.com/sony/nnabla-doc) | None | None | 1 | - | 2019-02-20 | 2024-05-29 | 2024-05-29 |
 | [nnabla-dataset-uploader](https://github.com/sony/nnabla-dataset-uploader) | None | Python | 0 | - | 2019-02-26 | 2019-03-15 | 2019-03-15 |
@@ -43,12 +43,12 @@
 | [lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) | None | Python | 0 | MIT License | 2021-03-25 | 2021-05-13 | 2021-05-13 |
 | [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 127 | Apache License 2.0 | 2021-06-11 | 2025-09-10 | 2024-12-16 |
 | [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 104 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2025-07-18 | 2024-12-19 |
-| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 580 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2025-10-13 | 2025-07-09 |
+| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 581 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2025-10-13 | 2025-07-09 |
 | [flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) | Flutter plugins for embedded Linux (eLinux) | C++ | 59 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2025-10-13 | 2024-12-13 |
 | [ds-research-code](https://github.com/sony/ds-research-code) | None | Jupyter Notebook | 1 | - | 2021-07-19 | 2025-08-06 | 2025-08-06 |
 | [pyIEOE](https://github.com/sony/pyIEOE) | None | Python | 32 | MIT License | 2021-07-20 | 2025-07-22 | 2025-02-21 |
 | [nnc-plugin](https://github.com/sony/nnc-plugin) | Plugins for Neural Network Console. | Python | 17 | Apache License 2.0 | 2021-08-05 | 2025-10-01 | 2025-08-29 |
-| [dolp-colorconstancy](https://github.com/sony/dolp-colorconstancy) | None | Python | 14 | MIT License | 2022-03-22 | 2025-05-23 | 2022-07-04 |
+| [dolp-colorconstancy](https://github.com/sony/dolp-colorconstancy) | None | Python | 15 | MIT License | 2022-03-22 | 2025-10-13 | 2022-07-04 |
 | [nnabla-browser](https://github.com/sony/nnabla-browser) | Visualization toolkit for Neural Network Libraries | TypeScript | 9 | Apache License 2.0 | 2022-03-31 | 2024-07-06 | 2023-03-07 |
 | [sqvae](https://github.com/sony/sqvae) | Pytorch implementation of stochastically quantized variational autoencoder (SQ-VAE) | Python | 192 | Apache License 2.0 | 2022-05-26 | 2025-10-04 | 2022-07-20 |
 | [aibo-development-tutorial](https://github.com/sony/aibo-development-tutorial) | None | None | 8 | Other | 2022-06-28 | 2025-04-20 | 2022-06-30 |
@@ -56,7 +56,7 @@
 | [polar-densification](https://github.com/sony/polar-densification) | None | Python | 29 | MIT License | 2022-09-13 | 2025-07-23 | 2023-03-24 |
 | [nnabla-js](https://github.com/sony/nnabla-js) | None | TypeScript | 1 | Apache License 2.0 | 2022-09-16 | 2023-02-01 | 2023-01-13 |
 | [DiffRoll](https://github.com/sony/DiffRoll) | PyTorch implementation of DiffRoll, a diffusion-based generative automatic music transcription (AMT) model | Jupyter Notebook | 79 | MIT License | 2022-10-11 | 2025-10-07 | 2023-12-06 |
-| [creativeai](https://github.com/sony/creativeai) | None | CSS | 71 | - | 2022-11-21 | 2025-09-08 | 2025-09-08 |
+| [creativeai](https://github.com/sony/creativeai) | None | CSS | 72 | - | 2022-11-21 | 2025-10-13 | 2025-09-08 |
 | [NDJIR](https://github.com/sony/NDJIR) | NDJIR: Neural Direct and Joint Inverse Rendering for Geometry, Lights, and Materials of Real Object | Python | 47 | Apache License 2.0 | 2022-12-14 | 2025-03-12 | 2023-02-08 |
 | [CLIPSep](https://github.com/sony/CLIPSep) | None | Python | 42 | MIT License | 2023-01-24 | 2025-08-05 | 2023-02-21 |
 | [audio-visual-seld-dcase2023](https://github.com/sony/audio-visual-seld-dcase2023) | Baseline method for audio-visual sound event localization and detection task of DCASE 2023 challenge | Python | 55 | MIT License | 2023-02-20 | 2025-09-24 | 2025-03-19 |
@@ -83,7 +83,7 @@
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 18 | MIT License | 2024-07-09 | 2025-09-21 | 2025-06-09 |
 | [genwarp](https://github.com/sony/genwarp) | None | Python | 295 | MIT License | 2024-08-06 | 2025-10-05 | 2024-09-26 |
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 51 | MIT License | 2024-09-05 | 2025-08-01 | 2024-11-05 |
-| [esstra](https://github.com/sony/esstra) | A software suite for enhancing software supply chain transparency | Python | 20 | Other | 2024-10-03 | 2025-09-25 | 2025-10-01 |
+| [esstra](https://github.com/sony/esstra) | A software suite for enhancing software supply chain transparency | Python | 20 | Other | 2024-10-03 | 2025-09-25 | 2025-10-14 |
 | [pagoda](https://github.com/sony/pagoda) | None | Python | 20 | MIT License | 2024-10-23 | 2025-06-19 | 2024-11-21 |
 | [okg](https://github.com/sony/okg) | Official Repo for The Paper "OKG: On-the-fly Keyword Generation in Search Sponsered Advertising" (Coling'25) | Jupyter Notebook | 5 | Other | 2024-11-15 | 2025-09-10 | 2025-02-14 |
 | [dual-pixel-disparity](https://github.com/sony/dual-pixel-disparity) | None | Python | 7 | MIT License | 2024-11-19 | 2025-09-03 | 2025-03-27 |
@@ -125,5 +125,6 @@
 | [oms](https://github.com/sony/oms) | Official Repo for The Paper "OMS: On-the-fly, Multi-Objective, Self-Reflective Ad Keyword Generation via LLM Agent” (EMNLP’25-main) | Python | 0 | MIT License | 2025-09-11 | 2025-09-26 | 2025-09-26 |
 | [mimo](https://github.com/sony/mimo) | Official Repo for The Paper "Mirror in the Model: Ad Banner Image Generation via Reflective Multi-LLM and Multi-modal Agents” (EMNLP’25-Industry) | Python | 0 | MIT License | 2025-09-11 | 2025-09-26 | 2025-09-26 |
 | [multi-plane-segmentation-gpu](https://github.com/sony/multi-plane-segmentation-gpu) | None | JavaScript | 0 | - | 2025-09-26 | 2025-10-03 | 2025-10-03 |
+| [dynamic-rag](https://github.com/sony/dynamic-rag) | None | C# | 3 | BSD 3-Clause "New" or "Revised" License | 2025-09-28 | 2025-10-13 | 2025-10-13 |
 | [cmt](https://github.com/sony/cmt) | None | Python | 14 | - | 2025-09-30 | 2025-10-13 | 2025-10-01 |
-| [mmaudiosep](https://github.com/sony/mmaudiosep) | None | Python | 0 | MIT License | 2025-10-06 | 2025-10-10 | 2025-10-10 |
+| [mmaudiosep](https://github.com/sony/mmaudiosep) | None | Python | 2 | MIT License | 2025-10-06 | 2025-10-14 | 2025-10-13 |
