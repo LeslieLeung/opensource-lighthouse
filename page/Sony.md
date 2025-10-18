@@ -1,15 +1,15 @@
 # Sony
 
-共 120 个项目，近半年内活跃项目 46 个，1 个团队， 17203 个 Star。
+共 120 个项目，近半年内活跃项目 46 个，1 个团队， 17208 个 Star。
 
 语言 Top 3：Python, JavaScript, Jupyter Notebook
 
-统计时间：2025-10-17 08:09:54
+统计时间：2025-10-18 08:08:08
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3371 | MIT License | 2015-05-29 | 2025-10-15 | 2025-10-04 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4257 | MIT License | 2015-05-29 | 2025-10-15 | 2025-07-05 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3373 | MIT License | 2015-05-29 | 2025-10-17 | 2025-10-04 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4258 | MIT License | 2015-05-29 | 2025-10-17 | 2025-07-05 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 412 | MIT License | 2015-09-18 | 2025-08-18 | 2020-12-29 |
@@ -45,7 +45,7 @@
 | [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 104 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2025-07-18 | 2024-12-19 |
 | [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 581 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2025-10-13 | 2025-07-09 |
 | [flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) | Flutter plugins for embedded Linux (eLinux) | C++ | 59 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2025-10-13 | 2024-12-13 |
-| [ds-research-code](https://github.com/sony/ds-research-code) | None | Jupyter Notebook | 1 | - | 2021-07-19 | 2025-08-06 | 2025-08-06 |
+| [ds-research-code](https://github.com/sony/ds-research-code) | None | Jupyter Notebook | 2 | - | 2021-07-19 | 2025-10-17 | 2025-08-06 |
 | [pyIEOE](https://github.com/sony/pyIEOE) | None | Python | 32 | MIT License | 2021-07-20 | 2025-07-22 | 2025-02-21 |
 | [nnc-plugin](https://github.com/sony/nnc-plugin) | Plugins for Neural Network Console. | Python | 17 | Apache License 2.0 | 2021-08-05 | 2025-10-01 | 2025-08-29 |
 | [dolp-colorconstancy](https://github.com/sony/dolp-colorconstancy) | None | Python | 15 | MIT License | 2022-03-22 | 2025-10-13 | 2022-07-04 |
@@ -102,7 +102,7 @@
 | [QuietWalk](https://github.com/sony/QuietWalk) | None | JavaScript | 0 | - | 2025-02-12 | 2025-02-23 | 2025-02-23 |
 | [talkhier](https://github.com/sony/talkhier) | Official Repo for The Paper "Talk Structurally, Act Hierarchically: A Collaborative Framework for LLM Multi-Agent Systems" | Python | 57 | Other | 2025-02-13 | 2025-09-15 | 2025-02-24 |
 | [aki](https://github.com/sony/aki) | Official implementation of "Seeing is Understanding: Unlocking Causal Attention into Modality-Mutual Attention for Multimodal LLMs" | Python | 19 | Other | 2025-02-13 | 2025-05-23 | 2025-05-23 |
-| [vct](https://github.com/sony/vct) | None | Jupyter Notebook | 18 | - | 2025-02-14 | 2025-08-19 | 2025-06-04 |
+| [vct](https://github.com/sony/vct) | None | Jupyter Notebook | 19 | - | 2025-02-14 | 2025-10-18 | 2025-06-04 |
 | [EXID](https://github.com/sony/EXID) | Official implementation of Enhancing Generalization of Offline RL in Data-Limited Settings with Heuristic Rules (Accepted in IEEE TRANSACTIONS ON ARTIFICIAL INTELLIGENCE 2025) | Jupyter Notebook | 0 | MIT License | 2025-02-19 | 2025-02-27 | 2025-02-20 |
 | [humangif](https://github.com/sony/humangif) | None | Python | 1 | MIT License | 2025-02-25 | 2025-06-16 | 2025-02-27 |
 | [alice](https://github.com/sony/alice) | None | Jupyter Notebook | 1 | MIT License | 2025-03-10 | 2025-06-17 | 2025-03-10 |

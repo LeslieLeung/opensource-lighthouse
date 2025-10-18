@@ -1,63 +1,63 @@
 company,total_projects,total_teams,total_stars,top_3_languages,active_projects
-Google,10777,60,5500019,"Python, Java, JavaScript",3187
-Microsoft,17264,29,5239512,"C#, Python, TypeScript",5000
-The Apache Software Foundation,2827,1,1262242,"Java, HTML, JavaScript",1543
-阿里巴巴,1480,9,1248742,"Java, Python, JavaScript",430
-Meta,153,1,1047260,"C++, JavaScript, Rust",112
-OpenAI,224,1,719564,"Python, TypeScript, Jupyter Notebook",56
-腾讯,1051,12,685246,"Python, JavaScript, Java",348
-Kubernetes,158,1,604265,"Go, Shell, HTML",140
-Hugging Face,359,1,596458,"Python, Jupyter Notebook, TypeScript",153
-Vercel,188,1,480988,"TypeScript, JavaScript, Shell",69
-Apple,959,6,432403,"C, Python, C++",311
-百度,722,5,421904,"JavaScript, Python, C++",70
-深度求索,27,1,356933,"Python, Cuda, C++",12
-HashiCorp,922,1,323196,"Go, HCL, Shell",384
-字节跳动,443,4,279273,"Python, Go, C",169
-Netflix,232,1,239086,"Java, JavaScript, Python",66
-Amazon,511,1,237536,"Python, Go, Java",322
-JetBrains,760,1,223778,"Java, Kotlin, C#",254
-Cloud Native Computing Foundation (CNCF),401,4,216273,"Go, Shell, HTML",251
-X,101,1,210254,"Scala, Java, Python",9
-Datawhale,171,1,208435,"Jupyter Notebook, Python, C++",64
-Grafana Labs,902,1,201896,"Go, TypeScript, JavaScript",422
-Cloudflare,522,1,196796,"Go, JavaScript, TypeScript",122
-Uber,195,2,183483,"Go, JavaScript, Python",41
-Shopify,1141,1,170614,"Ruby, JavaScript, Go",323
-Docker,143,1,148305,"Go, TypeScript, JavaScript",73
+Google,10781,60,5501110,"Python, Java, JavaScript",3187
+Microsoft,17273,29,5241765,"C#, Python, TypeScript",5006
+The Apache Software Foundation,2828,1,1262465,"Java, HTML, JavaScript",1545
+阿里巴巴,1480,9,1249035,"Java, Python, JavaScript",429
+Meta,153,1,1047406,"C++, JavaScript, Rust",112
+OpenAI,224,1,720014,"Python, TypeScript, Jupyter Notebook",56
+腾讯,1051,12,685330,"Python, JavaScript, Java",348
+Kubernetes,158,1,604358,"Go, Shell, HTML",140
+Hugging Face,359,1,596688,"Python, Jupyter Notebook, TypeScript",153
+Vercel,192,1,481211,"TypeScript, JavaScript, Shell",72
+Apple,959,6,432509,"C, Python, C++",311
+百度,722,5,422494,"JavaScript, Python, C++",70
+深度求索,27,1,356968,"Python, Cuda, C++",12
+HashiCorp,922,1,323268,"Go, HCL, Shell",383
+字节跳动,443,4,279376,"Python, Go, C",169
+Netflix,232,1,239104,"Java, JavaScript, Python",66
+Amazon,511,1,237570,"Python, Go, Java",323
+JetBrains,761,1,223820,"Java, Kotlin, C#",255
+Cloud Native Computing Foundation (CNCF),401,4,216343,"Go, Shell, HTML",251
+X,101,1,210261,"Scala, Java, Python",9
+Datawhale,171,1,208703,"Jupyter Notebook, Python, C++",64
+Grafana Labs,901,1,201958,"Go, TypeScript, JavaScript",424
+Cloudflare,522,1,196931,"Go, JavaScript, TypeScript",122
+Uber,195,2,183502,"Go, JavaScript, Python",41
+Shopify,1141,1,170640,"Ruby, JavaScript, Go",323
+Docker,143,1,148397,"Go, TypeScript, JavaScript",73
 饿了么,94,2,125480,"JavaScript, Vue, Python",1
-滴滴,99,2,111840,"JavaScript, Java, Go",17
-IBM,3696,1,109726,"Python, JavaScript, Jupyter Notebook",1953
-哔哩哔哩,79,1,94695,"C++, C, Python",6
-美团,138,3,92329,"Java, JavaScript, Python",3
-Jina AI,252,1,69159,"Python, TypeScript, Jupyter Notebook",17
-Canonical,2418,5,62435,"Python, Shell, Go",1353
-小米,81,1,51703,"Python, Java, Go",9
-360,103,2,46432,"C++, JavaScript, Python",14
-京东,112,1,40761,"Java, TypeScript, Python",27
-LLVM Foundation,42,1,40511,"Python, HTML, C++",25
-清华大学,155,2,32373,"Python, HTML, Rust",30
-网易,93,1,21924,"JavaScript, Java, TypeScript",0
+滴滴,99,2,111850,"JavaScript, Java, Go",17
+IBM,3696,1,109758,"Python, JavaScript, Jupyter Notebook",1953
+哔哩哔哩,79,1,94702,"C++, C, Python",6
+美团,138,3,92336,"Java, JavaScript, Python",3
+Jina AI,252,1,69165,"Python, TypeScript, Jupyter Notebook",17
+Canonical,2422,5,62448,"Python, Shell, Go",1356
+小米,81,1,51704,"Python, Java, Go",9
+360,103,2,46435,"C++, JavaScript, Python",14
+京东,112,1,40790,"Java, TypeScript, Python",27
+LLVM Foundation,42,1,40523,"Python, HTML, C++",25
+清华大学,155,2,32400,"Python, HTML, Rust",30
+网易,93,1,21925,"JavaScript, Java, TypeScript",0
 知乎,35,1,21087,"Java, C++, Go",4
 爱奇艺,19,1,20844,"Java, C, Python",4
-Buf,74,1,20333,"Go, TypeScript, Makefile",58
-Sony,120,1,17203,"Python, JavaScript, Jupyter Notebook",46
-七牛,158,1,16570,"Go, Java, JavaScript",21
+Buf,74,1,20341,"Go, TypeScript, Makefile",58
+Sony,120,1,17208,"Python, JavaScript, Jupyter Notebook",46
+七牛,158,1,16572,"Go, Java, JavaScript",21
 豆瓣,69,1,15278,"Python, Go, C",4
 极光开发者,97,1,13790,"Objective-C, Java, JavaScript",18
 唯品会,35,1,13195,"Java, Go, Python",18
-蚂蚁集团,97,1,12998,"Python, Java, C",19
+蚂蚁集团,97,1,13004,"Python, Java, C",19
 开放原子开源基金会,8,1,12782,"C++, Go, HTML",2
-携程,49,1,11811,"Java, JavaScript, C",9
-58同城,33,1,10919,"TypeScript, Java, Dart",4
-新浪微博,21,1,9580,"Java, Go, C",3
+携程,49,1,11815,"Java, JavaScript, C",9
+58同城,33,1,10920,"TypeScript, Java, Dart",4
+新浪微博,21,1,9579,"Java, Go, C",3
 去哪儿,47,1,8228,"JavaScript, Objective-C, Java",1
-陌陌,15,1,7728,"Java, Python, PHP",0
+陌陌,15,1,7729,"Java, Python, PHP",0
 当当,8,1,5443,"Java, Lua",0
-斗鱼,10,1,5187,"Go, JavaScript, Shell",2
+斗鱼,10,1,5186,"Go, JavaScript, Shell",2
 快手,4,1,3960,"C++, Dart, Java",1
 环信,165,1,3505,"Java, Objective-C, Erlang",30
-华为,109,1,2086,"Python, Java, Go",6
+华为,109,1,2087,"Python, Java, Go",6
 YY,40,1,1156,"JavaScript, Objective-C, CSS",0
 搜狐,3,1,773,"C, C++",0
-Boeing,39,1,528,"C++, Python, C",10
+Boeing,40,1,529,"C++, Python, C",11
