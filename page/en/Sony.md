@@ -1,15 +1,15 @@
 # Sony
 
-A total of 120 projects, 46 active projects in the last six months, 1 teams, and 17208 stars.
+A total of 120 projects, 46 active projects in the last six months, 1 teams, and 17212 stars.
 
 Top 3 Languages: Python, JavaScript, Jupyter Notebook
 
-Statistics Date: 2025-10-18 08:08:08
+Statistics Date: 2025-10-19 08:07:47
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3373 | MIT License | 2015-05-29 | 2025-10-17 | 2025-10-04 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4258 | MIT License | 2015-05-29 | 2025-10-17 | 2025-07-05 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4259 | MIT License | 2015-05-29 | 2025-10-18 | 2025-07-05 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 412 | MIT License | 2015-09-18 | 2025-08-18 | 2020-12-29 |
@@ -80,7 +80,7 @@ Statistics Date: 2025-10-18 08:08:08
 | [nnc-desktop](https://github.com/sony/nnc-desktop) | None | TypeScript | 21 | Apache License 2.0 | 2024-06-04 | 2025-07-25 | 2025-06-30 |
 | [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 98 | MIT License | 2024-06-04 | 2025-10-14 | 2025-03-31 |
 | [silentcipher](https://github.com/sony/silentcipher) | None | Python | 63 | MIT License | 2024-06-05 | 2025-08-12 | 2024-07-22 |
-| [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 18 | MIT License | 2024-07-09 | 2025-09-21 | 2025-06-09 |
+| [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 19 | MIT License | 2024-07-09 | 2025-10-19 | 2025-06-09 |
 | [genwarp](https://github.com/sony/genwarp) | None | Python | 295 | MIT License | 2024-08-06 | 2025-10-05 | 2024-09-26 |
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 51 | MIT License | 2024-09-05 | 2025-08-01 | 2024-11-05 |
 | [esstra](https://github.com/sony/esstra) | A software suite for enhancing software supply chain transparency | Python | 20 | Other | 2024-10-03 | 2025-09-25 | 2025-10-15 |
@@ -91,7 +91,7 @@ Statistics Date: 2025-10-18 08:08:08
 | [Hi-ResLDM](https://github.com/sony/Hi-ResLDM) | None | None | 5 | - | 2025-01-11 | 2025-09-01 | 2025-02-12 |
 | [stamp](https://github.com/sony/stamp) | None | TypeScript | 8 | MIT License | 2025-01-20 | 2025-08-29 | 2025-09-19 |
 | [ABA](https://github.com/sony/ABA) | Official Repo for The Paper "Adaptive Budget Optimization for Multichannel Advertising Using Combinatorial Bandits" (AAMAS'25) | Python | 2 | Other | 2025-01-21 | 2025-07-28 | 2025-02-18 |
-| [MambaPEFT](https://github.com/sony/MambaPEFT) | None | Python | 16 | Apache License 2.0 | 2025-01-24 | 2025-07-29 | 2025-03-27 |
+| [MambaPEFT](https://github.com/sony/MambaPEFT) | None | Python | 17 | Apache License 2.0 | 2025-01-24 | 2025-10-18 | 2025-03-27 |
 | [bl-flowsom_eval](https://github.com/sony/bl-flowsom_eval) | None | Jupyter Notebook | 0 | MIT License | 2025-01-28 | 2025-02-04 | 2025-02-04 |
 | [bl-flowsom_poc](https://github.com/sony/bl-flowsom_poc) | None | Python | 1 | Other | 2025-01-28 | 2025-08-14 | 2025-02-04 |
 | [jys](https://github.com/sony/jys) | None | Python | 6 | - | 2025-02-06 | 2025-08-15 | 2025-02-25 |
@@ -111,7 +111,7 @@ Statistics Date: 2025-10-18 08:08:08
 | [di4c](https://github.com/sony/di4c) | None | Python | 9 | MIT License | 2025-04-02 | 2025-09-12 | 2025-04-02 |
 | [x590schema](https://github.com/sony/x590schema) | None | Python | 3 | MIT License | 2025-05-08 | 2025-09-18 | 2025-05-29 |
 | [sbctm](https://github.com/sony/sbctm) | Schrödinger bridge consistency trajectory models for speech enhancement | Python | 7 | Other | 2025-05-09 | 2025-10-15 | 2025-10-01 |
-| [oil](https://github.com/sony/oil) | Official Repo for The Paper "Auto-Bidding in Real-Time Auctions via Oracle Imitation Learning" (KDD'25, Research Track) | Python | 2 | MIT License | 2025-05-23 | 2025-08-14 | 2025-05-23 |
+| [oil](https://github.com/sony/oil) | Official Repo for The Paper "Auto-Bidding in Real-Time Auctions via Oracle Imitation Learning" (KDD'25, Research Track) | Python | 3 | MIT License | 2025-05-23 | 2025-10-19 | 2025-05-23 |
 | [neural-network-console](https://github.com/sony/neural-network-console) | None | C++ | 13 | Apache License 2.0 | 2025-05-29 | 2025-10-15 | 2025-09-11 |
 | [NeISFpp](https://github.com/sony/NeISFpp) | None | Python | 2 | Other | 2025-06-09 | 2025-08-28 | 2025-07-25 |
 | [BannerAgency](https://github.com/sony/BannerAgency) |  The official repo for BannerAgency: Advertising Banner Design with Multimodal LLM Agents | Python | 12 | MIT License | 2025-07-01 | 2025-09-22 | 2025-08-21 |
