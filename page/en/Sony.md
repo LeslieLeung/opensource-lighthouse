@@ -1,14 +1,14 @@
 # Sony
 
-A total of 120 projects, 46 active projects in the last six months, 1 teams, and 17223 stars.
+A total of 120 projects, 46 active projects in the last six months, 1 teams, and 17227 stars.
 
 Top 3 Languages: Python, JavaScript, Jupyter Notebook
 
-Statistics Date: 2025-10-22 08:10:40
+Statistics Date: 2025-10-23 08:09:43
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3378 | MIT License | 2015-05-29 | 2025-10-21 | 2025-10-04 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3380 | MIT License | 2015-05-29 | 2025-10-23 | 2025-10-04 |
 | [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4261 | MIT License | 2015-05-29 | 2025-10-20 | 2025-07-05 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
@@ -39,11 +39,11 @@ Statistics Date: 2025-10-22 08:10:40
 | [ai-research-code](https://github.com/sony/ai-research-code) | None | Python | 354 | Apache License 2.0 | 2020-04-14 | 2025-09-07 | 2023-09-12 |
 | [nnabla-nas](https://github.com/sony/nnabla-nas) | Neural Architecture Search for Neural Network Libraries | Python | 60 | Apache License 2.0 | 2020-06-15 | 2025-07-14 | 2024-01-22 |
 | [micro-notifier](https://github.com/sony/micro-notifier) | Simplified Pusher Clone | Go | 13 | MIT License | 2020-09-06 | 2025-09-13 | 2025-09-13 |
-| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1308 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2025-10-13 | 2025-07-25 |
+| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1308 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2025-10-23 | 2025-07-25 |
 | [lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) | None | Python | 0 | MIT License | 2021-03-25 | 2021-05-13 | 2021-05-13 |
-| [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 126 | Apache License 2.0 | 2021-06-11 | 2025-10-16 | 2024-12-16 |
+| [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 127 | Apache License 2.0 | 2021-06-11 | 2025-10-22 | 2024-12-16 |
 | [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 104 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2025-07-18 | 2024-12-19 |
-| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 581 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2025-10-13 | 2025-07-09 |
+| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 580 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2025-10-23 | 2025-07-09 |
 | [flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) | Flutter plugins for embedded Linux (eLinux) | C++ | 59 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2025-10-13 | 2024-12-13 |
 | [ds-research-code](https://github.com/sony/ds-research-code) | None | Jupyter Notebook | 2 | - | 2021-07-19 | 2025-10-17 | 2025-08-06 |
 | [pyIEOE](https://github.com/sony/pyIEOE) | None | Python | 32 | MIT License | 2021-07-20 | 2025-07-22 | 2025-02-21 |
@@ -59,12 +59,12 @@ Statistics Date: 2025-10-22 08:10:40
 | [creativeai](https://github.com/sony/creativeai) | None | CSS | 72 | - | 2022-11-21 | 2025-10-13 | 2025-09-08 |
 | [NDJIR](https://github.com/sony/NDJIR) | NDJIR: Neural Direct and Joint Inverse Rendering for Geometry, Lights, and Materials of Real Object | Python | 47 | Apache License 2.0 | 2022-12-14 | 2025-03-12 | 2023-02-08 |
 | [CLIPSep](https://github.com/sony/CLIPSep) | None | Python | 42 | MIT License | 2023-01-24 | 2025-08-05 | 2023-02-21 |
-| [audio-visual-seld-dcase2023](https://github.com/sony/audio-visual-seld-dcase2023) | Baseline method for audio-visual sound event localization and detection task of DCASE 2023 challenge | Python | 56 | MIT License | 2023-02-20 | 2025-10-16 | 2025-03-19 |
+| [audio-visual-seld-dcase2023](https://github.com/sony/audio-visual-seld-dcase2023) | Baseline method for audio-visual sound event localization and detection task of DCASE 2023 challenge | Python | 57 | MIT License | 2023-02-20 | 2025-10-23 | 2025-03-19 |
 | [evsCluster](https://github.com/sony/evsCluster) | Python scripts to process EVS (Event-based vision sensor) data | Python | 10 | Other | 2023-03-15 | 2025-07-15 | 2024-01-30 |
 | [Instruct3Dto3D-doc](https://github.com/sony/Instruct3Dto3D-doc) | Official documentation of Instruct 3D-to-3D | HTML | 2 | - | 2023-03-23 | 2024-10-31 | 2024-10-31 |
 | [pixel-guided-diffusion](https://github.com/sony/pixel-guided-diffusion) | Fine-grained Image Editing by Pixel-wise Guidance Using Diffusion Models | Python | 40 | Apache License 2.0 | 2023-04-06 | 2025-10-06 | 2023-06-09 |
 | [ARCv2_Ghidra](https://github.com/sony/ARCv2_Ghidra) | None | None | 1 | Apache License 2.0 | 2023-04-26 | 2025-08-15 | 2023-04-26 |
-| [gibbsddrm](https://github.com/sony/gibbsddrm) | None | Python | 30 | MIT License | 2023-04-26 | 2025-06-06 | 2023-05-29 |
+| [gibbsddrm](https://github.com/sony/gibbsddrm) | None | Python | 31 | MIT License | 2023-04-26 | 2025-10-23 | 2023-05-29 |
 | [fp-diffusion](https://github.com/sony/fp-diffusion) | None | Jupyter Notebook | 30 | Apache License 2.0 | 2023-04-26 | 2025-10-10 | 2024-02-14 |
 | [diffiner](https://github.com/sony/diffiner) | None | Python | 65 | MIT License | 2023-05-30 | 2025-10-01 | 2023-08-16 |
 | [hFT-Transformer](https://github.com/sony/hFT-Transformer) | Pytorch implementation of automatic music transcription method that uses a two-level hierarchical frequency-time Transformer architecture (hFT-Transformer). | Python | 107 | MIT License | 2023-06-26 | 2025-10-15 | 2023-07-11 |
