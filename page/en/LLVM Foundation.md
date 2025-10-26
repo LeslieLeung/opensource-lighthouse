@@ -1,14 +1,14 @@
 # LLVM Foundation
 
-A total of 42 projects, 24 active projects in the last six months, 1 teams, and 40660 stars.
+A total of 42 projects, 24 active projects in the last six months, 1 teams, and 40673 stars.
 
 Top 3 Languages: Python, HTML, C++
 
-Statistics Date: 2025-10-25 08:07:54
+Statistics Date: 2025-10-26 08:08:31
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [llvm-project](https://github.com/llvm/llvm-project) | The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. | LLVM | 35055 | Other | 2016-12-07 | 2025-10-25 | 2025-10-25 |
+| [llvm-project](https://github.com/llvm/llvm-project) | The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. | LLVM | 35066 | Other | 2016-12-07 | 2025-10-26 | 2025-10-26 |
 | [llvm-project-legacy-branches](https://github.com/llvm/llvm-project-legacy-branches) | Miscellaneous unofficial branches and tags converted from svn. | C++ | 3 | - | 2019-01-09 | 2025-10-04 | 2019-05-14 |
 | [llvm-archive](https://github.com/llvm/llvm-archive) | Archive of old/discontinued llvm projects, converted from SVN. | None | 8 | - | 2019-01-09 | 2025-10-04 | 2021-02-09 |
 | [llvm-lnt](https://github.com/llvm/llvm-lnt) | None | Python | 35 | Other | 2019-01-09 | 2025-10-25 | 2025-10-25 |
@@ -17,7 +17,7 @@ Statistics Date: 2025-10-25 08:07:54
 | [llvm-www-pubs](https://github.com/llvm/llvm-www-pubs) | None | HTML | 12 | - | 2019-01-09 | 2025-05-18 | 2021-01-28 |
 | [llvm-zorg](https://github.com/llvm/llvm-zorg) | None | Python | 85 | Other | 2019-01-09 | 2025-10-24 | 2025-10-25 |
 | [actions](https://github.com/llvm/actions) | None | TypeScript | 13 | Other | 2019-11-18 | 2025-04-18 | 2024-08-08 |
-| [mlir-www](https://github.com/llvm/mlir-www) | None | Markdown | 85 | - | 2019-12-09 | 2025-10-24 | 2025-10-25 |
+| [mlir-www](https://github.com/llvm/mlir-www) | None | Markdown | 85 | - | 2019-12-09 | 2025-10-24 | 2025-10-26 |
 | [www-releases](https://github.com/llvm/www-releases) | None | HTML | 9 | - | 2020-01-09 | 2025-10-19 | 2025-09-24 |
 | [temp-issue-tester](https://github.com/llvm/temp-issue-tester) | Repository for testing GitHub issue features | Python | 2 | - | 2020-02-01 | 2024-07-30 | 2024-02-03 |
 | [llvm-admin](https://github.com/llvm/llvm-admin) | Internal repository for LLVM admin scripts | Python | 3 | - | 2020-02-06 | 2025-10-04 | 2024-04-08 |
@@ -25,11 +25,11 @@ Statistics Date: 2025-10-25 08:07:54
 | [circt](https://github.com/llvm/circt) | Circuit IR Compilers and Tools | C++ | 1937 | Other | 2020-03-05 | 2025-10-24 | 2025-10-24 |
 | [llvm-foundation-www](https://github.com/llvm/llvm-foundation-www) | LLVM Foundation Website | SCSS | 7 | - | 2020-04-03 | 2025-04-04 | 2024-08-18 |
 | [llvm-blog-www](https://github.com/llvm/llvm-blog-www) | The LLVM Project Blog | HTML | 28 | - | 2020-06-19 | 2025-10-20 | 2025-10-20 |
-| [Polygeist](https://github.com/llvm/Polygeist) | C/C++ frontend for MLIR. Also features polyhedral optimizations, parallel optimizations, and more! | C++ | 578 | Other | 2020-07-08 | 2025-10-14 | 2025-06-19 |
+| [Polygeist](https://github.com/llvm/Polygeist) | C/C++ frontend for MLIR. Also features polyhedral optimizations, parallel optimizations, and more! | C++ | 580 | Other | 2020-07-08 | 2025-10-25 | 2025-06-19 |
 | [llvm-project-staging](https://github.com/llvm/llvm-project-staging) | Staging repository for https://github.com/llvm/llvm-project. Used for official contributions to the LLVM project that LLVM contributors will collaboratively split up for regular patch review. | None | 10 | Other | 2020-07-09 | 2024-07-30 | 2021-08-24 |
 | [phabricator](https://github.com/llvm/phabricator) | Open software engineering platform and fun adventure game | PHP | 3 | Apache License 2.0 | 2020-07-28 | 2025-10-04 | 2021-10-07 |
 | [torch-mlir](https://github.com/llvm/torch-mlir) | The Torch-MLIR project aims to provide first class support from the PyTorch ecosystem to the MLIR ecosystem. | C++ | 1657 | Other | 2020-07-30 | 2025-10-24 | 2025-10-24 |
-| [circt-www](https://github.com/llvm/circt-www) | CIRCT website | SCSS | 12 | - | 2021-01-08 | 2025-10-11 | 2025-10-25 |
+| [circt-www](https://github.com/llvm/circt-www) | CIRCT website | SCSS | 12 | - | 2021-01-08 | 2025-10-11 | 2025-10-26 |
 | [Community.o](https://github.com/llvm/Community.o) | Community.o website and other resources | None | 1 | - | 2021-02-06 | 2024-07-30 | 2023-03-16 |
 | [llvm-iwg](https://github.com/llvm/llvm-iwg) | The LLVM Infrastructure Working Group | None | 19 | Other | 2021-03-02 | 2025-07-06 | 2022-08-31 |
 | [vscode-mlir](https://github.com/llvm/vscode-mlir) | None | TypeScript | 63 | Other | 2021-07-28 | 2025-10-17 | 2024-05-17 |
@@ -45,7 +45,7 @@ Statistics Date: 2025-10-25 08:07:54
 | [www-template](https://github.com/llvm/www-template) | None | HTML | 2 | MIT License | 2024-08-19 | 2025-04-14 | 2024-11-25 |
 | [llvm.vim](https://github.com/llvm/llvm.vim) | Vim filetype support for LLVM (mirrored from llvm-project) | Vim Script | 10 | Other | 2024-08-24 | 2025-08-16 | 2025-04-24 |
 | [www-new](https://github.com/llvm/www-new) | Test repo for the new LLVM website | HTML | 3 | - | 2024-09-05 | 2025-09-22 | 2025-09-22 |
-| [eudsl](https://github.com/llvm/eudsl) | Embedded Universal DSL: a good DSL for us, by us | C++ | 53 | Apache License 2.0 | 2024-11-08 | 2025-10-25 | 2025-10-25 |
+| [eudsl](https://github.com/llvm/eudsl) | Embedded Universal DSL: a good DSL for us, by us | C++ | 53 | Apache License 2.0 | 2024-11-08 | 2025-10-26 | 2025-10-26 |
 | [offload-golden-images](https://github.com/llvm/offload-golden-images) | Golden images to compare against for rendering tests. | None | 2 | Other | 2024-12-20 | 2025-10-19 | 2025-09-15 |
 | [elekto-config](https://github.com/llvm/elekto-config) | None | Python | 1 | - | 2025-01-21 | 2025-06-18 | 2025-02-11 |
 | [mlir-tcp](https://github.com/llvm/mlir-tcp) | Tensor Compute Primitives: Mid-level Intermediate Representation for Machine Learning Programs | MLIR | 11 | Other | 2025-01-29 | 2025-09-27 | 2025-06-10 |
