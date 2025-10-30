@@ -1,15 +1,15 @@
 # Sony
 
-A total of 121 projects, 46 active projects in the last six months, 1 teams, and 17268 stars.
+A total of 121 projects, 46 active projects in the last six months, 1 teams, and 17278 stars.
 
 Top 3 Languages: Python, JavaScript, Jupyter Notebook
 
-Statistics Date: 2025-10-29 08:09:51
+Statistics Date: 2025-10-30 08:09:37
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3385 | MIT License | 2015-05-29 | 2025-10-28 | 2025-10-04 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4265 | MIT License | 2015-05-29 | 2025-10-29 | 2025-07-05 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3388 | MIT License | 2015-05-29 | 2025-10-29 | 2025-10-04 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4267 | MIT License | 2015-05-29 | 2025-10-30 | 2025-07-05 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 412 | MIT License | 2015-09-18 | 2025-08-18 | 2020-12-29 |
@@ -21,7 +21,7 @@ Statistics Date: 2025-10-29 08:09:51
 | [smarttennissensorsdk](https://github.com/sony/smarttennissensorsdk) | The Smart Tennis Sensor plugs into the end of a tennis racket and records data about all the shots you make throughout a game or practice. With the SDK, you can develop apps for analyzing and presenting that data in real-time. | Java | 8 | Apache License 2.0 | 2016-08-30 | 2024-07-29 | 2017-02-10 |
 | [openocd-nuttx](https://github.com/sony/openocd-nuttx) | Fork of OpenOCD with NuttX thread support. | C | 24 | GNU General Public License v2.0 | 2016-10-18 | 2024-06-08 | 2019-01-21 |
 | [nnabla-ext-cuda](https://github.com/sony/nnabla-ext-cuda) | A CUDA Extension of Neural Network Libraries | Cuda | 91 | Apache License 2.0 | 2017-06-21 | 2025-07-29 | 2025-06-30 |
-| [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2765 | Apache License 2.0 | 2017-06-26 | 2025-10-29 | 2025-08-29 |
+| [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2766 | Apache License 2.0 | 2017-06-26 | 2025-10-30 | 2025-08-29 |
 | [easyhttpcpp](https://github.com/sony/easyhttpcpp) | A cross-platform HTTP client library with a focus on usability and speed | C++ | 167 | MIT License | 2017-08-09 | 2025-10-27 | 2022-01-31 |
 | [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 173 | Apache License 2.0 | 2017-09-07 | 2025-10-27 | 2025-10-27 |
 | [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 38 | Apache License 2.0 | 2017-09-07 | 2025-10-07 | 2025-10-07 |
@@ -102,7 +102,7 @@ Statistics Date: 2025-10-29 08:09:51
 | [QuietWalk](https://github.com/sony/QuietWalk) | None | JavaScript | 0 | - | 2025-02-12 | 2025-02-23 | 2025-02-23 |
 | [talkhier](https://github.com/sony/talkhier) | Official Repo for The Paper "Talk Structurally, Act Hierarchically: A Collaborative Framework for LLM Multi-Agent Systems" | Python | 57 | Other | 2025-02-13 | 2025-09-15 | 2025-02-24 |
 | [aki](https://github.com/sony/aki) | Official implementation of "Seeing is Understanding: Unlocking Causal Attention into Modality-Mutual Attention for Multimodal LLMs" | Python | 19 | Other | 2025-02-13 | 2025-05-23 | 2025-05-23 |
-| [vct](https://github.com/sony/vct) | None | Jupyter Notebook | 20 | - | 2025-02-14 | 2025-10-29 | 2025-10-29 |
+| [vct](https://github.com/sony/vct) | None | Jupyter Notebook | 20 | - | 2025-02-14 | 2025-10-30 | 2025-10-30 |
 | [EXID](https://github.com/sony/EXID) | Official implementation of Enhancing Generalization of Offline RL in Data-Limited Settings with Heuristic Rules (Accepted in IEEE TRANSACTIONS ON ARTIFICIAL INTELLIGENCE 2025) | Jupyter Notebook | 0 | MIT License | 2025-02-19 | 2025-02-27 | 2025-02-20 |
 | [humangif](https://github.com/sony/humangif) | None | Python | 1 | MIT License | 2025-02-25 | 2025-06-16 | 2025-02-27 |
 | [alice](https://github.com/sony/alice) | None | Jupyter Notebook | 1 | MIT License | 2025-03-10 | 2025-06-17 | 2025-03-10 |
@@ -125,7 +125,7 @@ Statistics Date: 2025-10-29 08:09:51
 | [oms](https://github.com/sony/oms) | Official Repo for The Paper "OMS: On-the-fly, Multi-Objective, Self-Reflective Ad Keyword Generation via LLM Agent” (EMNLP’25-main) | Python | 0 | MIT License | 2025-09-11 | 2025-09-26 | 2025-09-26 |
 | [mimo](https://github.com/sony/mimo) | Official Repo for The Paper "Mirror in the Model: Ad Banner Image Generation via Reflective Multi-LLM and Multi-modal Agents” (EMNLP’25-Industry) | Python | 0 | MIT License | 2025-09-11 | 2025-09-26 | 2025-09-26 |
 | [multi-plane-segmentation-gpu](https://github.com/sony/multi-plane-segmentation-gpu) | None | JavaScript | 0 | - | 2025-09-26 | 2025-10-03 | 2025-10-03 |
-| [dynamic-rag](https://github.com/sony/dynamic-rag) | None | C# | 4 | BSD 3-Clause "New" or "Revised" License | 2025-09-28 | 2025-10-15 | 2025-10-13 |
+| [dynamic-rag](https://github.com/sony/dynamic-rag) | None | C# | 4 | BSD 3-Clause "New" or "Revised" License | 2025-09-28 | 2025-10-30 | 2025-10-13 |
 | [cmt](https://github.com/sony/cmt) | None | Python | 15 | - | 2025-09-30 | 2025-10-15 | 2025-10-01 |
 | [mmaudiosep](https://github.com/sony/mmaudiosep) | None | Python | 7 | MIT License | 2025-10-06 | 2025-10-20 | 2025-10-13 |
-| [sampleid](https://github.com/sony/sampleid) | Code for the paper “Automatic Music Sample Identification with Multi-Track Contrastive Learning”. | Python | 4 | MIT License | 2025-10-15 | 2025-10-28 | 2025-10-24 |
+| [sampleid](https://github.com/sony/sampleid) | Code for the paper “Automatic Music Sample Identification with Multi-Track Contrastive Learning”. | Python | 8 | MIT License | 2025-10-15 | 2025-10-30 | 2025-10-24 |
