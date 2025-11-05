@@ -1,15 +1,15 @@
 # Sony
 
-A total of 122 projects, 47 active projects in the last six months, 1 teams, and 17298 stars.
+A total of 122 projects, 47 active projects in the last six months, 1 teams, and 17301 stars.
 
 Top 3 Languages: Python, JavaScript, Jupyter Notebook
 
-Statistics Date: 2025-11-04 08:09:48
+Statistics Date: 2025-11-05 08:09:53
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3392 | MIT License | 2015-05-29 | 2025-11-03 | 2025-10-04 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4267 | MIT License | 2015-05-29 | 2025-11-03 | 2025-07-05 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3393 | MIT License | 2015-05-29 | 2025-11-04 | 2025-10-04 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4267 | MIT License | 2015-05-29 | 2025-11-05 | 2025-07-05 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 413 | MIT License | 2015-09-18 | 2025-11-03 | 2020-12-29 |
@@ -36,7 +36,7 @@ Statistics Date: 2025-11-04 08:09:48
 | [nnabla-dataset-uploader](https://github.com/sony/nnabla-dataset-uploader) | None | Python | 0 | - | 2019-02-26 | 2019-03-15 | 2019-03-15 |
 | [appsync-client-go](https://github.com/sony/appsync-client-go) | AWS AppSync golang client library | Go | 53 | MIT License | 2019-03-16 | 2025-08-17 | 2025-04-29 |
 | [isren](https://github.com/sony/isren) | None | JavaScript | 8 | MIT License | 2020-01-07 | 2023-01-12 | 2021-05-17 |
-| [ai-research-code](https://github.com/sony/ai-research-code) | None | Python | 354 | Apache License 2.0 | 2020-04-14 | 2025-09-07 | 2023-09-12 |
+| [ai-research-code](https://github.com/sony/ai-research-code) | None | Python | 353 | Apache License 2.0 | 2020-04-14 | 2025-11-05 | 2023-09-12 |
 | [nnabla-nas](https://github.com/sony/nnabla-nas) | Neural Architecture Search for Neural Network Libraries | Python | 60 | Apache License 2.0 | 2020-06-15 | 2025-07-14 | 2024-01-22 |
 | [micro-notifier](https://github.com/sony/micro-notifier) | Simplified Pusher Clone | Go | 13 | MIT License | 2020-09-06 | 2025-09-13 | 2025-09-13 |
 | [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1311 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2025-11-01 | 2025-07-25 |
@@ -52,7 +52,7 @@ Statistics Date: 2025-11-04 08:09:48
 | [nnabla-browser](https://github.com/sony/nnabla-browser) | Visualization toolkit for Neural Network Libraries | TypeScript | 9 | Apache License 2.0 | 2022-03-31 | 2024-07-06 | 2023-03-07 |
 | [sqvae](https://github.com/sony/sqvae) | Pytorch implementation of stochastically quantized variational autoencoder (SQ-VAE) | Python | 192 | Apache License 2.0 | 2022-05-26 | 2025-10-04 | 2022-07-20 |
 | [aibo-development-tutorial](https://github.com/sony/aibo-development-tutorial) | None | None | 8 | Other | 2022-06-28 | 2025-04-20 | 2022-06-30 |
-| [FxNorm-automix](https://github.com/sony/FxNorm-automix) | FxNorm-Automix - Implementation of automatic music mixing systems. We show how we can use wet music data and repurpose it to train a fully automatic mixing system | Python | 126 | MIT License | 2022-08-05 | 2025-09-21 | 2024-03-11 |
+| [FxNorm-automix](https://github.com/sony/FxNorm-automix) | FxNorm-Automix - Implementation of automatic music mixing systems. We show how we can use wet music data and repurpose it to train a fully automatic mixing system | Python | 127 | MIT License | 2022-08-05 | 2025-11-04 | 2024-03-11 |
 | [polar-densification](https://github.com/sony/polar-densification) | None | Python | 29 | MIT License | 2022-09-13 | 2025-07-23 | 2023-03-24 |
 | [nnabla-js](https://github.com/sony/nnabla-js) | None | TypeScript | 1 | Apache License 2.0 | 2022-09-16 | 2025-10-17 | 2025-10-17 |
 | [DiffRoll](https://github.com/sony/DiffRoll) | PyTorch implementation of DiffRoll, a diffusion-based generative automatic music transcription (AMT) model | Jupyter Notebook | 79 | MIT License | 2022-10-11 | 2025-10-07 | 2023-12-06 |
@@ -81,7 +81,7 @@ Statistics Date: 2025-11-04 08:09:48
 | [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 99 | MIT License | 2024-06-04 | 2025-11-01 | 2025-03-31 |
 | [silentcipher](https://github.com/sony/silentcipher) | None | Python | 64 | MIT License | 2024-06-05 | 2025-10-31 | 2024-07-22 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 19 | MIT License | 2024-07-09 | 2025-10-19 | 2025-06-09 |
-| [genwarp](https://github.com/sony/genwarp) | None | Python | 299 | MIT License | 2024-08-06 | 2025-10-31 | 2024-09-26 |
+| [genwarp](https://github.com/sony/genwarp) | None | Python | 300 | MIT License | 2024-08-06 | 2025-11-05 | 2024-09-26 |
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 51 | MIT License | 2024-09-05 | 2025-08-01 | 2024-11-05 |
 | [esstra](https://github.com/sony/esstra) | A software suite for enhancing software supply chain transparency | Python | 21 | Other | 2024-10-03 | 2025-10-28 | 2025-10-27 |
 | [pagoda](https://github.com/sony/pagoda) | None | Python | 21 | MIT License | 2024-10-23 | 2025-11-01 | 2024-11-21 |
@@ -94,7 +94,7 @@ Statistics Date: 2025-11-04 08:09:48
 | [MambaPEFT](https://github.com/sony/MambaPEFT) | None | Python | 17 | Apache License 2.0 | 2025-01-24 | 2025-10-18 | 2025-03-27 |
 | [bl-flowsom_eval](https://github.com/sony/bl-flowsom_eval) | None | Jupyter Notebook | 0 | MIT License | 2025-01-28 | 2025-02-04 | 2025-02-04 |
 | [bl-flowsom_poc](https://github.com/sony/bl-flowsom_poc) | None | Python | 1 | Other | 2025-01-28 | 2025-08-14 | 2025-02-04 |
-| [jys](https://github.com/sony/jys) | None | Python | 6 | - | 2025-02-06 | 2025-08-15 | 2025-02-25 |
+| [jys](https://github.com/sony/jys) | None | Python | 7 | - | 2025-02-06 | 2025-11-04 | 2025-02-25 |
 | [hero](https://github.com/sony/hero) | None | Python | 2 | - | 2025-02-06 | 2025-09-02 | 2025-05-12 |
 | [wpse](https://github.com/sony/wpse) | None | Python | 3 | MIT License | 2025-02-06 | 2025-05-21 | 2025-05-21 |
 | [CaR](https://github.com/sony/CaR) | None | Python | 5 | MIT License | 2025-02-06 | 2025-08-19 | 2025-02-07 |
