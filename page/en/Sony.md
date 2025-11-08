@@ -1,15 +1,15 @@
 # Sony
 
-A total of 122 projects, 47 active projects in the last six months, 1 teams, and 17310 stars.
+A total of 122 projects, 46 active projects in the last six months, 1 teams, and 17313 stars.
 
 Top 3 Languages: Python, JavaScript, Jupyter Notebook
 
-Statistics Date: 2025-11-07 08:09:46
+Statistics Date: 2025-11-08 08:08:13
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3396 | MIT License | 2015-05-29 | 2025-11-07 | 2025-10-04 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4267 | MIT License | 2015-05-29 | 2025-11-05 | 2025-07-05 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4268 | MIT License | 2015-05-29 | 2025-11-07 | 2025-07-05 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 413 | MIT License | 2015-09-18 | 2025-11-03 | 2020-12-29 |
@@ -23,7 +23,7 @@ Statistics Date: 2025-11-07 08:09:46
 | [nnabla-ext-cuda](https://github.com/sony/nnabla-ext-cuda) | A CUDA Extension of Neural Network Libraries | Cuda | 91 | Apache License 2.0 | 2017-06-21 | 2025-07-29 | 2025-06-30 |
 | [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2767 | Apache License 2.0 | 2017-06-26 | 2025-11-02 | 2025-08-29 |
 | [easyhttpcpp](https://github.com/sony/easyhttpcpp) | A cross-platform HTTP client library with a focus on usability and speed | C++ | 167 | MIT License | 2017-08-09 | 2025-10-27 | 2022-01-31 |
-| [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 174 | Apache License 2.0 | 2017-09-07 | 2025-10-31 | 2025-10-27 |
+| [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 175 | Apache License 2.0 | 2017-09-07 | 2025-11-08 | 2025-10-27 |
 | [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 38 | Apache License 2.0 | 2017-09-07 | 2025-10-07 | 2025-10-07 |
 | [cdp-js](https://github.com/sony/cdp-js) | Libraries/SDK modules for multi-platform application development | TypeScript | 22 | Apache License 2.0 | 2017-10-10 | 2024-02-11 | 2018-05-10 |
 | [cdp-lib](https://github.com/sony/cdp-lib) | Application template/libraries for cdp-js (Details: see cdp-js repository) | JavaScript | 6 | Apache License 2.0 | 2017-10-10 | 2017-11-13 | 2018-02-23 |
@@ -127,6 +127,6 @@ Statistics Date: 2025-11-07 08:09:46
 | [multi-plane-segmentation-gpu](https://github.com/sony/multi-plane-segmentation-gpu) | None | JavaScript | 0 | - | 2025-09-26 | 2025-10-03 | 2025-10-03 |
 | [dynamic-rag](https://github.com/sony/dynamic-rag) | None | C# | 4 | BSD 3-Clause "New" or "Revised" License | 2025-09-28 | 2025-10-30 | 2025-10-13 |
 | [cmt](https://github.com/sony/cmt) | None | Python | 15 | - | 2025-09-30 | 2025-10-15 | 2025-10-01 |
-| [mmaudiosep](https://github.com/sony/mmaudiosep) | None | Python | 7 | MIT License | 2025-10-06 | 2025-10-20 | 2025-10-13 |
+| [mmaudiosep](https://github.com/sony/mmaudiosep) | None | Python | 8 | MIT License | 2025-10-06 | 2025-11-07 | 2025-10-13 |
 | [sampleid](https://github.com/sony/sampleid) | Code for the paper “Automatic Music Sample Identification with Multi-Track Contrastive Learning”. | Python | 10 | MIT License | 2025-10-15 | 2025-11-03 | 2025-10-24 |
 | [studies-for](https://github.com/sony/studies-for) | None | JavaScript | 0 | - | 2025-10-23 | 2025-11-01 | 2025-11-01 |
