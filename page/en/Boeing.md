@@ -1,14 +1,14 @@
 # Boeing
 
-A total of 35 projects, 6 active projects in the last six months, 1 teams, and 540 stars.
+A total of 35 projects, 6 active projects in the last six months, 1 teams, and 541 stars.
 
 Top 3 Languages: C++, Python, Go
 
-Statistics Date: 2025-11-12 08:09:53
+Statistics Date: 2025-11-13 08:09:38
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [modular_cartographer](https://github.com/Boeing/modular_cartographer) | None | C++ | 13 | Other | 2020-11-23 | 2025-10-18 | 2023-11-24 |
+| [modular_cartographer](https://github.com/Boeing/modular_cartographer) | None | C++ | 14 | Other | 2020-11-23 | 2025-11-13 | 2023-11-24 |
 | [cartographer](https://github.com/Boeing/cartographer) | None | C++ | 28 | Other | 2020-11-23 | 2025-11-12 | 2023-11-24 |
 | [math6d](https://github.com/Boeing/math6d) | None | Python | 4 | Other | 2020-11-24 | 2024-01-19 | 2020-11-24 |
 | [modular_navigation](https://github.com/Boeing/modular_navigation) | None | C++ | 11 | Other | 2020-11-24 | 2025-10-18 | 2023-11-24 |

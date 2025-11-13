@@ -1,14 +1,14 @@
 # Boeing
 
-共 35 个项目，近半年内活跃项目 6 个，1 个团队， 540 个 Star。
+共 35 个项目，近半年内活跃项目 6 个，1 个团队， 541 个 Star。
 
 语言 Top 3：C++, Python, Go
 
-统计时间：2025-11-12 08:09:53
+统计时间：2025-11-13 08:09:38
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [modular_cartographer](https://github.com/Boeing/modular_cartographer) | None | C++ | 13 | Other | 2020-11-23 | 2025-10-18 | 2023-11-24 |
+| [modular_cartographer](https://github.com/Boeing/modular_cartographer) | None | C++ | 14 | Other | 2020-11-23 | 2025-11-13 | 2023-11-24 |
 | [cartographer](https://github.com/Boeing/cartographer) | None | C++ | 28 | Other | 2020-11-23 | 2025-11-12 | 2023-11-24 |
 | [math6d](https://github.com/Boeing/math6d) | None | Python | 4 | Other | 2020-11-24 | 2024-01-19 | 2020-11-24 |
 | [modular_navigation](https://github.com/Boeing/modular_navigation) | None | C++ | 11 | Other | 2020-11-24 | 2025-10-18 | 2023-11-24 |
