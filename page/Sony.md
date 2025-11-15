@@ -1,15 +1,15 @@
 # Sony
 
-共 124 个项目，近半年内活跃项目 46 个，1 个团队， 17343 个 Star。
+共 124 个项目，近半年内活跃项目 46 个，1 个团队， 17347 个 Star。
 
 语言 Top 3：Python, JavaScript, Jupyter Notebook
 
-统计时间：2025-11-14 08:09:45
+统计时间：2025-11-15 08:08:19
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3405 | MIT License | 2015-05-29 | 2025-11-13 | 2025-10-04 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4274 | MIT License | 2015-05-29 | 2025-11-14 | 2025-07-05 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3406 | MIT License | 2015-05-29 | 2025-11-14 | 2025-10-04 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4275 | MIT License | 2015-05-29 | 2025-11-14 | 2025-07-05 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 413 | MIT License | 2015-09-18 | 2025-11-03 | 2020-12-29 |
@@ -23,7 +23,7 @@
 | [nnabla-ext-cuda](https://github.com/sony/nnabla-ext-cuda) | A CUDA Extension of Neural Network Libraries | Cuda | 91 | Apache License 2.0 | 2017-06-21 | 2025-07-29 | 2025-06-30 |
 | [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2767 | Apache License 2.0 | 2017-06-26 | 2025-11-02 | 2025-08-29 |
 | [easyhttpcpp](https://github.com/sony/easyhttpcpp) | A cross-platform HTTP client library with a focus on usability and speed | C++ | 167 | MIT License | 2017-08-09 | 2025-10-27 | 2022-01-31 |
-| [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 175 | Apache License 2.0 | 2017-09-07 | 2025-11-08 | 2025-10-27 |
+| [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 175 | Apache License 2.0 | 2017-09-07 | 2025-11-14 | 2025-11-14 |
 | [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 38 | Apache License 2.0 | 2017-09-07 | 2025-10-07 | 2025-10-07 |
 | [cdp-js](https://github.com/sony/cdp-js) | Libraries/SDK modules for multi-platform application development | TypeScript | 22 | Apache License 2.0 | 2017-10-10 | 2024-02-11 | 2018-05-10 |
 | [cdp-lib](https://github.com/sony/cdp-lib) | Application template/libraries for cdp-js (Details: see cdp-js repository) | JavaScript | 6 | Apache License 2.0 | 2017-10-10 | 2017-11-13 | 2018-02-23 |
@@ -43,7 +43,7 @@
 | [lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) | None | Python | 0 | MIT License | 2021-03-25 | 2021-05-13 | 2021-05-13 |
 | [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 127 | Apache License 2.0 | 2021-06-11 | 2025-10-22 | 2024-12-16 |
 | [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 106 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2025-11-06 | 2024-12-19 |
-| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 587 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2025-11-06 | 2025-07-09 |
+| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 588 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2025-11-14 | 2025-07-09 |
 | [flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) | Flutter plugins for embedded Linux (eLinux) | C++ | 59 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2025-10-13 | 2024-12-13 |
 | [ds-research-code](https://github.com/sony/ds-research-code) | None | Jupyter Notebook | 3 | - | 2021-07-19 | 2025-10-28 | 2025-08-06 |
 | [pyIEOE](https://github.com/sony/pyIEOE) | None | Python | 32 | MIT License | 2021-07-20 | 2025-07-22 | 2025-02-21 |
@@ -52,7 +52,7 @@
 | [nnabla-browser](https://github.com/sony/nnabla-browser) | Visualization toolkit for Neural Network Libraries | TypeScript | 9 | Apache License 2.0 | 2022-03-31 | 2024-07-06 | 2023-03-07 |
 | [sqvae](https://github.com/sony/sqvae) | Pytorch implementation of stochastically quantized variational autoencoder (SQ-VAE) | Python | 192 | Apache License 2.0 | 2022-05-26 | 2025-10-04 | 2022-07-20 |
 | [aibo-development-tutorial](https://github.com/sony/aibo-development-tutorial) | None | None | 8 | Other | 2022-06-28 | 2025-04-20 | 2022-06-30 |
-| [FxNorm-automix](https://github.com/sony/FxNorm-automix) | FxNorm-Automix - Implementation of automatic music mixing systems. We show how we can use wet music data and repurpose it to train a fully automatic mixing system | Python | 127 | MIT License | 2022-08-05 | 2025-11-04 | 2024-03-11 |
+| [FxNorm-automix](https://github.com/sony/FxNorm-automix) | FxNorm-Automix - Implementation of automatic music mixing systems. We show how we can use wet music data and repurpose it to train a fully automatic mixing system | Python | 128 | MIT License | 2022-08-05 | 2025-11-14 | 2024-03-11 |
 | [polar-densification](https://github.com/sony/polar-densification) | None | Python | 29 | MIT License | 2022-09-13 | 2025-07-23 | 2023-03-24 |
 | [nnabla-js](https://github.com/sony/nnabla-js) | None | TypeScript | 1 | Apache License 2.0 | 2022-09-16 | 2025-10-17 | 2025-10-17 |
 | [DiffRoll](https://github.com/sony/DiffRoll) | PyTorch implementation of DiffRoll, a diffusion-based generative automatic music transcription (AMT) model | Jupyter Notebook | 79 | MIT License | 2022-10-11 | 2025-10-07 | 2023-12-06 |
