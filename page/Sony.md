@@ -1,10 +1,10 @@
 # Sony
 
-共 124 个项目，近半年内活跃项目 46 个，1 个团队， 17347 个 Star。
+共 124 个项目，近半年内活跃项目 46 个，1 个团队， 17348 个 Star。
 
 语言 Top 3：Python, JavaScript, Jupyter Notebook
 
-统计时间：2025-11-15 08:08:19
+统计时间：2025-11-16 08:08:51
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -22,7 +22,7 @@
 | [openocd-nuttx](https://github.com/sony/openocd-nuttx) | Fork of OpenOCD with NuttX thread support. | C | 24 | GNU General Public License v2.0 | 2016-10-18 | 2024-06-08 | 2019-01-21 |
 | [nnabla-ext-cuda](https://github.com/sony/nnabla-ext-cuda) | A CUDA Extension of Neural Network Libraries | Cuda | 91 | Apache License 2.0 | 2017-06-21 | 2025-07-29 | 2025-06-30 |
 | [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2767 | Apache License 2.0 | 2017-06-26 | 2025-11-02 | 2025-08-29 |
-| [easyhttpcpp](https://github.com/sony/easyhttpcpp) | A cross-platform HTTP client library with a focus on usability and speed | C++ | 167 | MIT License | 2017-08-09 | 2025-10-27 | 2022-01-31 |
+| [easyhttpcpp](https://github.com/sony/easyhttpcpp) | A cross-platform HTTP client library with a focus on usability and speed | C++ | 168 | MIT License | 2017-08-09 | 2025-11-15 | 2022-01-31 |
 | [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 175 | Apache License 2.0 | 2017-09-07 | 2025-11-14 | 2025-11-14 |
 | [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 38 | Apache License 2.0 | 2017-09-07 | 2025-10-07 | 2025-10-07 |
 | [cdp-js](https://github.com/sony/cdp-js) | Libraries/SDK modules for multi-platform application development | TypeScript | 22 | Apache License 2.0 | 2017-10-10 | 2024-02-11 | 2018-05-10 |
@@ -39,7 +39,7 @@
 | [ai-research-code](https://github.com/sony/ai-research-code) | None | Python | 354 | Apache License 2.0 | 2020-04-14 | 2025-11-12 | 2023-09-12 |
 | [nnabla-nas](https://github.com/sony/nnabla-nas) | Neural Architecture Search for Neural Network Libraries | Python | 60 | Apache License 2.0 | 2020-06-15 | 2025-07-14 | 2024-01-22 |
 | [micro-notifier](https://github.com/sony/micro-notifier) | Simplified Pusher Clone | Go | 13 | MIT License | 2020-09-06 | 2025-09-13 | 2025-09-13 |
-| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1312 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2025-11-06 | 2025-07-25 |
+| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1311 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2025-11-15 | 2025-07-25 |
 | [lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) | None | Python | 0 | MIT License | 2021-03-25 | 2021-05-13 | 2021-05-13 |
 | [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 127 | Apache License 2.0 | 2021-06-11 | 2025-10-22 | 2024-12-16 |
 | [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 106 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2025-11-06 | 2024-12-19 |
@@ -78,7 +78,7 @@
 | [SR-Display-Plugin-Preview-ZB](https://github.com/sony/SR-Display-Plugin-Preview-ZB) | None | None | 1 | MIT License | 2024-02-19 | 2024-02-19 | 2024-02-19 |
 | [NeISF](https://github.com/sony/NeISF) | None | Python | 20 | Other | 2024-06-04 | 2025-09-29 | 2025-05-15 |
 | [nnc-desktop](https://github.com/sony/nnc-desktop) | None | TypeScript | 21 | Apache License 2.0 | 2024-06-04 | 2025-07-25 | 2025-06-30 |
-| [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 100 | MIT License | 2024-06-04 | 2025-11-11 | 2025-03-31 |
+| [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 101 | MIT License | 2024-06-04 | 2025-11-15 | 2025-03-31 |
 | [silentcipher](https://github.com/sony/silentcipher) | None | Python | 65 | MIT License | 2024-06-05 | 2025-11-12 | 2024-07-22 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 19 | MIT License | 2024-07-09 | 2025-10-19 | 2025-06-09 |
 | [genwarp](https://github.com/sony/genwarp) | None | Python | 301 | MIT License | 2024-08-06 | 2025-11-13 | 2024-09-26 |
