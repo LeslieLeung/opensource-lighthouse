@@ -1,10 +1,10 @@
 # Uber
 
-A total of 195 projects, 41 active projects in the last six months, 2 teams, and 184315 stars.
+A total of 195 projects, 41 active projects in the last six months, 2 teams, and 184350 stars.
 
 Top 3 Languages: Go, JavaScript, Python
 
-Statistics Date: 2025-11-16 08:08:51
+Statistics Date: 2025-11-17 08:10:54
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -59,7 +59,7 @@ Statistics Date: 2025-11-16 08:08:51
 | [react-vis-force](https://github.com/uber/react-vis-force) | d3-force graphs as React Components. | JavaScript | 408 | Other | 2016-10-03 | 2025-11-11 | 2023-05-01 |
 | [react-digraph](https://github.com/uber/react-digraph) | A library for creating directed graph editors | JavaScript | 2645 | MIT License | 2016-11-11 | 2025-11-14 | 2023-09-05 |
 | [arachne](https://github.com/uber/arachne) | An always-on framework that performs end-to-end functional network testing for reachability, latency, and packet loss | Go | 395 | MIT License | 2016-11-16 | 2025-09-02 | 2024-04-08 |
-| [AutoDispose](https://github.com/uber/AutoDispose) | Automatic binding+disposal of RxJava streams. | Java | 3367 | Apache License 2.0 | 2016-12-22 | 2025-11-06 | 2024-07-25 |
+| [AutoDispose](https://github.com/uber/AutoDispose) | Automatic binding+disposal of RxJava streams. | Java | 3366 | Apache License 2.0 | 2016-12-22 | 2025-11-16 | 2024-07-25 |
 | [dosa-idl](https://github.com/uber/dosa-idl) | None | Thrift | 10 | MIT License | 2017-01-19 | 2025-11-11 | 2022-02-23 |
 | [pam-ussh](https://github.com/uber/pam-ussh) | uber's ssh certificate pam module | Go | 863 | MIT License | 2017-01-30 | 2025-10-28 | 2023-03-19 |
 | [UBTokenBar](https://github.com/uber/UBTokenBar) | Flexible and extensible UICollectionView based TokenBar written in Swift | Swift | 136 | MIT License | 2017-03-08 | 2025-03-04 | 2017-03-10 |
@@ -74,12 +74,12 @@ Statistics Date: 2025-11-16 08:08:51
 | [UberSignature](https://github.com/uber/UberSignature) | Provides an iOS view controller allowing a user to draw their signature with their finger in a realistic style. | Objective-C | 1289 | MIT License | 2017-05-13 | 2025-11-03 | 2020-09-16 |
 | [crumb](https://github.com/uber/crumb) | An annotation processor for breadcrumbing metadata across compilation boundaries. | Kotlin | 125 | Apache License 2.0 | 2017-06-21 | 2025-11-09 | 2021-12-01 |
 | [NEAL](https://github.com/uber/NEAL) | 🔎🐞 A language-agnostic linting platform  | OCaml | 427 | MIT License | 2017-08-14 | 2025-08-22 | 2022-04-15 |
-| [NullAway](https://github.com/uber/NullAway) | A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead | Java | 3920 | MIT License | 2017-09-01 | 2025-11-16 | 2025-11-14 |
+| [NullAway](https://github.com/uber/NullAway) | A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead | Java | 3922 | MIT License | 2017-09-01 | 2025-11-17 | 2025-11-14 |
 | [RIBs](https://github.com/uber/RIBs) | Uber's cross-platform mobile architecture framework - Android Repository | Kotlin | 7888 | Apache License 2.0 | 2017-10-03 | 2025-11-15 | 2025-09-17 |
 | [artist](https://github.com/uber/artist) | An artist creates views. Artist is a Gradle plugin that codegens a base set of Android Views. | Kotlin | 213 | Apache License 2.0 | 2017-11-08 | 2025-07-21 | 2023-07-27 |
 | [dynamodb-cross-region-library](https://github.com/uber/dynamodb-cross-region-library) | A library to facilitate cross-region replication with Amazon DynamoDB Streams. | Java | 3 | Other | 2017-11-16 | 2020-12-03 | 2023-03-19 |
 | [ios-snapshot-test-case](https://github.com/uber/ios-snapshot-test-case) | Snapshot view unit tests for iOS | Objective-C | 1832 | MIT License | 2017-12-13 | 2025-11-14 | 2025-01-09 |
-| [h3](https://github.com/uber/h3) | Hexagonal hierarchical geospatial indexing system | C | 5668 | Apache License 2.0 | 2017-12-21 | 2025-11-15 | 2025-11-15 |
+| [h3](https://github.com/uber/h3) | Hexagonal hierarchical geospatial indexing system | C | 5671 | Apache License 2.0 | 2017-12-21 | 2025-11-17 | 2025-11-15 |
 | [marmaray](https://github.com/uber/marmaray) | Generic Data Ingestion & Dispersal Library for Hadoop | Java | 478 | Other | 2018-01-05 | 2025-10-10 | 2023-03-19 |
 | [trucking-labor-analysis](https://github.com/uber/trucking-labor-analysis) | An economic analysis of the potential effects on the trucking labor market from self-driving trucks. | Stata | 33 | Other | 2018-01-17 | 2024-10-25 | 2023-10-02 |
 | [prototool](https://github.com/uber/prototool) | Your Swiss Army Knife for Protocol Buffers | Go | 5044 | MIT License | 2018-02-07 | 2025-10-31 | 2022-03-01 |
@@ -88,12 +88,12 @@ Statistics Date: 2025-11-16 08:08:51
 | [nanoscope-art](https://github.com/uber/nanoscope-art) | None | C++ | 50 | Apache License 2.0 | 2018-02-28 | 2025-05-27 | 2023-05-20 |
 | [nanoscope](https://github.com/uber/nanoscope) |  An extremely accurate Android method tracing tool. | HTML | 1274 | Apache License 2.0 | 2018-03-05 | 2025-10-28 | 2020-05-18 |
 | [homebrew-nanoscope](https://github.com/uber/homebrew-nanoscope) | None | Ruby | 4 | Apache License 2.0 | 2018-03-06 | 2022-03-04 | 2021-11-21 |
-| [baseweb](https://github.com/uber/baseweb) | A React Component library implementing the Base design language | TypeScript | 8894 | MIT License | 2018-03-09 | 2025-11-15 | 2025-08-10 |
+| [baseweb](https://github.com/uber/baseweb) | A React Component library implementing the Base design language | TypeScript | 8895 | MIT License | 2018-03-09 | 2025-11-17 | 2025-08-10 |
 | [gonduit](https://github.com/uber/gonduit) | A Go package for connecting to Phabricator via the Conduit API. | Go | 26 | MIT License | 2018-04-02 | 2024-12-03 | 2021-06-11 |
 | [needle](https://github.com/uber/needle) | Compile-time safe Swift dependency injection framework | Swift | 1961 | Apache License 2.0 | 2018-04-06 | 2025-11-13 | 2025-05-10 |
 | [swift-concurrency](https://github.com/uber/swift-concurrency) | Concurrency utilities for Swift | Swift | 330 | Apache License 2.0 | 2018-04-27 | 2025-08-06 | 2023-03-19 |
 | [cadvisor](https://github.com/uber/cadvisor) | Analyzes resource usage and performance characteristics of running containers. | Go | 10 | Other | 2018-05-04 | 2025-10-25 | 2023-06-28 |
-| [h3-js](https://github.com/uber/h3-js) | h3-js provides a JavaScript version of H3, a hexagon-based geospatial indexing system. | JavaScript | 982 | Apache License 2.0 | 2018-05-08 | 2025-11-13 | 2025-10-19 |
+| [h3-js](https://github.com/uber/h3-js) | h3-js provides a JavaScript version of H3, a hexagon-based geospatial indexing system. | JavaScript | 983 | Apache License 2.0 | 2018-05-08 | 2025-11-16 | 2025-10-19 |
 | [assume-role-cli](https://github.com/uber/assume-role-cli) | CLI for AssumeRole is a tool for running programs with temporary credentials from AWS's AssumeRole API. | Go | 49 | Apache License 2.0 | 2018-06-02 | 2025-06-19 | 2023-03-19 |
 | [h3-py](https://github.com/uber/h3-py) | Python bindings for H3, a hierarchical hexagonal geospatial indexing system | Python | 957 | Apache License 2.0 | 2018-06-12 | 2025-11-15 | 2025-11-02 |
 | [petastorm](https://github.com/uber/petastorm) | Petastorm library enables single machine or distributed training and evaluation of deep learning models from datasets in Apache Parquet format. It supports ML frameworks such as Tensorflow, Pytorch, and PySpark and can be used from pure Python code. | Python | 1868 | Apache License 2.0 | 2018-06-15 | 2025-11-15 | 2025-10-31 |
@@ -103,13 +103,13 @@ Statistics Date: 2025-11-16 08:08:51
 | [stylist](https://github.com/uber/stylist) | A stylist creates cool styles. Stylist is a Gradle plugin that codegens a base set of Android XML themes. | Kotlin | 357 | Apache License 2.0 | 2018-08-14 | 2024-10-25 | 2023-05-01 |
 | [h3-go](https://github.com/uber/h3-go) | Go bindings for H3, a hierarchical hexagonal geospatial indexing system | Go | 377 | Apache License 2.0 | 2018-08-17 | 2025-11-13 | 2025-11-14 |
 | [aresdb](https://github.com/uber/aresdb) | A GPU-powered real-time analytics storage and query engine.  | Go | 3069 | Apache License 2.0 | 2018-09-20 | 2025-11-15 | 2024-07-13 |
-| [astro](https://github.com/uber/astro) | Astro is a tool for managing multiple Terraform executions as a single command | Go | 436 | Apache License 2.0 | 2018-09-21 | 2025-09-27 | 2023-03-19 |
+| [astro](https://github.com/uber/astro) | Astro is a tool for managing multiple Terraform executions as a single command | Go | 435 | Apache License 2.0 | 2018-09-21 | 2025-11-17 | 2023-03-19 |
 | [uber-poet](https://github.com/uber/uber-poet) | A mock swift project generator & build runner to help benchmark various module dependency graphs. | Python | 96 | Apache License 2.0 | 2018-11-06 | 2024-06-21 | 2022-01-12 |
 | [RxCentralBle](https://github.com/uber/RxCentralBle) | A reactive, interface-driven central role Bluetooth LE library for Android | Java | 200 | Apache License 2.0 | 2018-11-09 | 2025-11-13 | 2022-02-09 |
 | [uber-graph-benchmark](https://github.com/uber/uber-graph-benchmark) | A framework to benchmark different graph databases, based on generated data from customizable schema, distribution, and size. | Java | 25 | Apache License 2.0 | 2018-11-12 | 2025-04-16 | 2019-01-30 |
 | [simple-store](https://github.com/uber/simple-store) | Simple yet performant asynchronous file storage for Android | Java | 88 | Apache License 2.0 | 2018-11-21 | 2025-09-24 | 2025-07-14 |
 | [client-platform-engineering](https://github.com/uber/client-platform-engineering) | A collection of cookbooks, scripts and binaries used to manage our macOS, Ubuntu and Windows endpoints | Ruby | 79 | Apache License 2.0 | 2018-11-28 | 2025-10-02 | 2024-12-07 |
-| [kraken](https://github.com/uber/kraken) | P2P Docker registry capable of distributing TBs of data in seconds | Go | 6586 | Apache License 2.0 | 2018-12-06 | 2025-11-15 | 2025-11-13 |
+| [kraken](https://github.com/uber/kraken) | P2P Docker registry capable of distributing TBs of data in seconds | Go | 6587 | Apache License 2.0 | 2018-12-06 | 2025-11-16 | 2025-11-13 |
 | [piranha](https://github.com/uber/piranha) | A tool for refactoring code related to feature flag APIs | Rust | 2406 | Apache License 2.0 | 2018-12-06 | 2025-11-14 | 2025-10-06 |
 | [xviz-data](https://github.com/uber/xviz-data) | Public data storage related to https://github.com/uber/xviz | None | 23 | - | 2018-12-06 | 2025-08-07 | 2019-03-13 |
 | [mockolo](https://github.com/uber/mockolo) | Efficient Mock Generator for Swift | Swift | 870 | Apache License 2.0 | 2018-12-14 | 2025-11-14 | 2025-11-13 |
@@ -174,32 +174,32 @@ Statistics Date: 2025-11-16 08:08:51
 | [cosmo](https://github.com/uber/cosmo) | Uber FORK of wundergraph/cosmo | TypeScript | 2 | Apache License 2.0 | 2024-08-15 | 2025-07-23 | 2025-11-16 |
 | [kubernetes-scheduler-plugins](https://github.com/uber/kubernetes-scheduler-plugins) | Uber fork of: Kubernetes out-of-tree scheduler plugins based on scheduler framework. | Go | 1 | Apache License 2.0 | 2024-09-23 | 2025-04-04 | 2024-10-23 |
 | [RIBs-iOS](https://github.com/uber/RIBs-iOS) | RIBs for iOS | Swift | 152 | Apache License 2.0 | 2024-10-03 | 2025-11-04 | 2025-09-11 |
-| [scip-lsp](https://github.com/uber/scip-lsp) | None | Go | 9 | MIT License | 2025-07-29 | 2025-11-14 | 2025-11-13 |
+| [scip-lsp](https://github.com/uber/scip-lsp) | None | Go | 9 | MIT License | 2025-07-29 | 2025-11-14 | 2025-11-16 |
 | [Moirai-SOSP25-logs](https://github.com/uber/Moirai-SOSP25-logs) | None | None | 0 | Other | 2025-08-08 | 2025-10-15 | 2025-10-07 |
 | [Moirai-SOSP25-code](https://github.com/uber/Moirai-SOSP25-code) | None | Python | 1 | Apache License 2.0 | 2025-10-07 | 2025-11-03 | 2025-10-10 |
-| [zap](https://github.com/uber-go/zap) | Blazing fast, structured, leveled logging in Go. | Go | 23897 | MIT License | 2016-02-18 | 2025-11-16 | 2025-11-13 |
+| [zap](https://github.com/uber-go/zap) | Blazing fast, structured, leveled logging in Go. | Go | 23900 | MIT License | 2016-02-18 | 2025-11-17 | 2025-11-13 |
 | [gwr](https://github.com/uber-go/gwr) | Get / Watch / Report -ing of operational data. This project is deprecated and not maintained. | Go | 39 | MIT License | 2016-05-16 | 2024-11-22 | 2017-01-06 |
 | [atomic](https://github.com/uber-go/atomic) | Wrapper types for sync/atomic which enforce atomic access | Go | 1437 | MIT License | 2016-05-24 | 2025-11-04 | 2025-04-14 |
 | [sally](https://github.com/uber-go/sally) | A tiny HTTP server for supporting custom Golang import paths | Go | 334 | MIT License | 2016-06-27 | 2025-10-30 | 2025-05-06 |
 | [hackeroni](https://github.com/uber-go/hackeroni) | A Go API client for HackerOne (api.hackerone.com) | Go | 43 | MIT License | 2016-07-29 | 2025-08-31 | 2016-12-12 |
 | [flagoverride](https://github.com/uber-go/flagoverride) | An automatic way of creating command line options to override fields from a struct. | Go | 21 | MIT License | 2016-08-05 | 2024-11-22 | 2017-02-06 |
 | [tally](https://github.com/uber-go/tally) | A Go metrics interface with fast buffered metrics and third party reporters | Go | 893 | MIT License | 2016-08-15 | 2025-11-13 | 2025-06-18 |
-| [ratelimit](https://github.com/uber-go/ratelimit) | A Go blocking leaky-bucket rate limit implementation | Go | 4614 | MIT License | 2016-09-10 | 2025-11-11 | 2024-05-01 |
+| [ratelimit](https://github.com/uber-go/ratelimit) | A Go blocking leaky-bucket rate limit implementation | Go | 4616 | MIT License | 2016-09-10 | 2025-11-16 | 2024-05-01 |
 | [fx](https://github.com/uber-go/fx) | A dependency injection based application framework for Go. | Go | 7057 | MIT License | 2016-10-27 | 2025-11-15 | 2025-09-14 |
 | [dosa](https://github.com/uber-go/dosa) | DOSA is a data object abstraction layer | Go | 204 | MIT License | 2017-01-04 | 2025-11-11 | 2023-07-05 |
 | [tools](https://github.com/uber-go/tools) | A collection of golang tools used at Uber | Go | 61 | MIT License | 2017-03-08 | 2025-06-07 | 2019-06-18 |
 | [multierr](https://github.com/uber-go/multierr) | Combine one or more Go errors together | Go | 1159 | MIT License | 2017-03-15 | 2025-11-12 | 2024-04-29 |
-| [dig](https://github.com/uber-go/dig) | A reflection based dependency injection toolkit for Go. | Go | 4371 | MIT License | 2017-03-21 | 2025-11-15 | 2025-05-13 |
+| [dig](https://github.com/uber-go/dig) | A reflection based dependency injection toolkit for Go. | Go | 4375 | MIT License | 2017-03-21 | 2025-11-17 | 2025-05-13 |
 | [mapdecode](https://github.com/uber-go/mapdecode) | Implement YAML/JSON decoding in one place. | Go | 47 | MIT License | 2017-03-28 | 2025-03-04 | 2019-04-30 |
-| [automaxprocs](https://github.com/uber-go/automaxprocs) | Automatically set GOMAXPROCS to match Linux container CPU quota. | Go | 4782 | MIT License | 2017-05-05 | 2025-11-13 | 2025-11-02 |
+| [automaxprocs](https://github.com/uber-go/automaxprocs) | Automatically set GOMAXPROCS to match Linux container CPU quota. | Go | 4782 | MIT License | 2017-05-05 | 2025-11-17 | 2025-11-02 |
 | [icu4go](https://github.com/uber-go/icu4go) | A Go binding for the icu4c library | Go | 51 | MIT License | 2017-05-08 | 2025-11-10 | 2017-05-12 |
 | [config](https://github.com/uber-go/config) | Configuration for Go applications | Go | 463 | MIT License | 2017-05-23 | 2025-09-07 | 2024-02-05 |
-| [goleak](https://github.com/uber-go/goleak) | Goroutine leak detector | Go | 5005 | MIT License | 2017-11-02 | 2025-11-15 | 2024-11-21 |
+| [goleak](https://github.com/uber-go/goleak) | Goroutine leak detector | Go | 5008 | MIT License | 2017-11-02 | 2025-11-17 | 2024-11-21 |
 | [protoidl](https://github.com/uber-go/protoidl) | None | Go | 4 | MIT License | 2017-12-12 | 2023-01-28 | 2018-06-26 |
 | [go-helix](https://github.com/uber-go/go-helix) | A Go implementation of Apache Helix (currently the participant part only). | Go | 56 | Other | 2017-12-14 | 2024-11-22 | 2018-03-23 |
 | [kafka-client](https://github.com/uber-go/kafka-client) | Go client library for Apache Kafka | Go | 223 | MIT License | 2017-12-15 | 2025-05-15 | 2020-08-28 |
-| [guide](https://github.com/uber-go/guide) | The Uber Go Style Guide. | Makefile | 17039 | Apache License 2.0 | 2018-11-10 | 2025-11-15 | 2025-11-03 |
+| [guide](https://github.com/uber-go/guide) | The Uber Go Style Guide. | Makefile | 17041 | Apache License 2.0 | 2018-11-10 | 2025-11-17 | 2025-11-03 |
 | [gopatch](https://github.com/uber-go/gopatch) | Refactoring and code transformation tool for Go. | Go | 1020 | MIT License | 2020-11-30 | 2025-11-08 | 2025-02-11 |
 | [cff](https://github.com/uber-go/cff) | Concurrency toolkit for Go | Go | 218 | Apache License 2.0 | 2022-09-28 | 2025-11-04 | 2024-08-01 |
-| [mock](https://github.com/uber-go/mock) | GoMock is a mocking framework for the Go programming language. | Go | 3162 | Apache License 2.0 | 2023-05-03 | 2025-11-14 | 2025-10-16 |
-| [nilaway](https://github.com/uber-go/nilaway) | Static analysis tool to detect potential nil panics in Go code | Go | 3663 | Apache License 2.0 | 2023-07-11 | 2025-11-16 | 2025-11-13 |
+| [mock](https://github.com/uber-go/mock) | GoMock is a mocking framework for the Go programming language. | Go | 3166 | Apache License 2.0 | 2023-05-03 | 2025-11-17 | 2025-10-16 |
+| [nilaway](https://github.com/uber-go/nilaway) | Static analysis tool to detect potential nil panics in Go code | Go | 3674 | Apache License 2.0 | 2023-07-11 | 2025-11-17 | 2025-11-13 |
