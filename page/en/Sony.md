@@ -1,15 +1,15 @@
 # Sony
 
-A total of 125 projects, 49 active projects in the last six months, 1 teams, and 17363 stars.
+A total of 125 projects, 47 active projects in the last six months, 1 teams, and 17382 stars.
 
 Top 3 Languages: Python, JavaScript, Jupyter Notebook
 
-Statistics Date: 2025-11-18 08:09:51
+Statistics Date: 2025-11-19 08:09:33
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3412 | MIT License | 2015-05-29 | 2025-11-18 | 2025-10-04 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4278 | MIT License | 2015-05-29 | 2025-11-17 | 2025-07-05 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3414 | MIT License | 2015-05-29 | 2025-11-19 | 2025-10-04 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4279 | MIT License | 2015-05-29 | 2025-11-19 | 2025-07-05 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 413 | MIT License | 2015-09-18 | 2025-11-03 | 2020-12-29 |
@@ -23,7 +23,7 @@ Statistics Date: 2025-11-18 08:09:51
 | [nnabla-ext-cuda](https://github.com/sony/nnabla-ext-cuda) | A CUDA Extension of Neural Network Libraries | Cuda | 91 | Apache License 2.0 | 2017-06-21 | 2025-07-29 | 2025-06-30 |
 | [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2767 | Apache License 2.0 | 2017-06-26 | 2025-11-02 | 2025-08-29 |
 | [easyhttpcpp](https://github.com/sony/easyhttpcpp) | A cross-platform HTTP client library with a focus on usability and speed | C++ | 168 | MIT License | 2017-08-09 | 2025-11-15 | 2022-01-31 |
-| [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 175 | Apache License 2.0 | 2017-09-07 | 2025-11-14 | 2025-11-14 |
+| [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 176 | Apache License 2.0 | 2017-09-07 | 2025-11-19 | 2025-11-14 |
 | [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 38 | Apache License 2.0 | 2017-09-07 | 2025-10-07 | 2025-10-07 |
 | [cdp-js](https://github.com/sony/cdp-js) | Libraries/SDK modules for multi-platform application development | TypeScript | 22 | Apache License 2.0 | 2017-10-10 | 2024-02-11 | 2018-05-10 |
 | [cdp-lib](https://github.com/sony/cdp-lib) | Application template/libraries for cdp-js (Details: see cdp-js repository) | JavaScript | 6 | Apache License 2.0 | 2017-10-10 | 2017-11-13 | 2018-02-23 |
@@ -71,14 +71,14 @@ Statistics Date: 2025-11-18 08:09:51
 | [san](https://github.com/sony/san) | PyTorch implementation of slicing adversarial network (SAN) | Python | 97 | - | 2023-06-28 | 2025-08-27 | 2024-06-13 |
 | [bigvsan](https://github.com/sony/bigvsan) | Pytorch implementation of BigVSAN | Python | 203 | MIT License | 2023-09-01 | 2025-07-24 | 2024-03-23 |
 | [bigvsan_eval](https://github.com/sony/bigvsan_eval) | Evaluation tool used in the BigVSAN paper | Python | 14 | MIT License | 2023-09-01 | 2025-07-28 | 2024-03-22 |
-| [timbre-trap](https://github.com/sony/timbre-trap) | Code for the paper "Timbre-Trap: A Low-Resource Framework for Instrument-Agnostic Music Transcription" | Python | 39 | MIT License | 2023-09-12 | 2025-04-17 | 2024-05-05 |
-| [ctm](https://github.com/sony/ctm) | None | Python | 310 | MIT License | 2023-10-10 | 2025-11-17 | 2025-11-17 |
+| [timbre-trap](https://github.com/sony/timbre-trap) | Code for the paper "Timbre-Trap: A Low-Resource Framework for Instrument-Agnostic Music Transcription" | Python | 40 | MIT License | 2023-09-12 | 2025-11-19 | 2024-05-05 |
+| [ctm](https://github.com/sony/ctm) | None | Python | 311 | MIT License | 2023-10-10 | 2025-11-18 | 2025-11-17 |
 | [SR-Display-Plugin-Preview-BL](https://github.com/sony/SR-Display-Plugin-Preview-BL) | None | Python | 4 | MIT License | 2023-12-13 | 2025-10-05 | 2024-05-24 |
 | [pyAutoPort](https://github.com/sony/pyAutoPort) | None | Python | 7 | BSD 3-Clause "New" or "Revised" License | 2023-12-13 | 2025-07-25 | 2025-07-03 |
 | [SR-Display-Plugin-Preview-ZB](https://github.com/sony/SR-Display-Plugin-Preview-ZB) | None | None | 1 | MIT License | 2024-02-19 | 2024-02-19 | 2024-02-19 |
 | [NeISF](https://github.com/sony/NeISF) | None | Python | 20 | Other | 2024-06-04 | 2025-09-29 | 2025-05-15 |
 | [nnc-desktop](https://github.com/sony/nnc-desktop) | None | TypeScript | 21 | Apache License 2.0 | 2024-06-04 | 2025-07-25 | 2025-06-30 |
-| [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 101 | MIT License | 2024-06-04 | 2025-11-15 | 2025-03-31 |
+| [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 101 | MIT License | 2024-06-04 | 2025-11-18 | 2025-03-31 |
 | [silentcipher](https://github.com/sony/silentcipher) | None | Python | 65 | MIT License | 2024-06-05 | 2025-11-12 | 2024-07-22 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 20 | MIT License | 2024-07-09 | 2025-11-17 | 2025-06-09 |
 | [genwarp](https://github.com/sony/genwarp) | None | Python | 301 | MIT License | 2024-08-06 | 2025-11-13 | 2024-09-26 |
@@ -100,7 +100,7 @@ Statistics Date: 2025-11-18 08:09:51
 | [CaR](https://github.com/sony/CaR) | None | Python | 5 | MIT License | 2025-02-06 | 2025-08-19 | 2025-02-07 |
 | [DFM](https://github.com/sony/DFM) | None | JavaScript | 0 | - | 2025-02-12 | 2025-02-24 | 2025-02-24 |
 | [QuietWalk](https://github.com/sony/QuietWalk) | None | JavaScript | 0 | - | 2025-02-12 | 2025-02-23 | 2025-02-23 |
-| [talkhier](https://github.com/sony/talkhier) | Official Repo for The Paper "Talk Structurally, Act Hierarchically: A Collaborative Framework for LLM Multi-Agent Systems" | Python | 57 | Other | 2025-02-13 | 2025-09-15 | 2025-02-24 |
+| [talkhier](https://github.com/sony/talkhier) | Official Repo for The Paper "Talk Structurally, Act Hierarchically: A Collaborative Framework for LLM Multi-Agent Systems" | Python | 58 | Other | 2025-02-13 | 2025-11-19 | 2025-02-24 |
 | [aki](https://github.com/sony/aki) | Official implementation of "Seeing is Understanding: Unlocking Causal Attention into Modality-Mutual Attention for Multimodal LLMs" | Python | 19 | Other | 2025-02-13 | 2025-05-23 | 2025-05-23 |
 | [vct](https://github.com/sony/vct) | None | Jupyter Notebook | 20 | MIT License | 2025-02-14 | 2025-11-17 | 2025-11-17 |
 | [EXID](https://github.com/sony/EXID) | Official implementation of Enhancing Generalization of Offline RL in Data-Limited Settings with Heuristic Rules (Accepted in IEEE TRANSACTIONS ON ARTIFICIAL INTELLIGENCE 2025) | Jupyter Notebook | 0 | MIT License | 2025-02-19 | 2025-02-27 | 2025-02-20 |
@@ -132,4 +132,4 @@ Statistics Date: 2025-11-18 08:09:51
 | [mmaudiosep](https://github.com/sony/mmaudiosep) | None | Python | 10 | MIT License | 2025-10-06 | 2025-11-17 | 2025-10-13 |
 | [sampleid](https://github.com/sony/sampleid) | Code for the paper “Automatic Music Sample Identification with Multi-Track Contrastive Learning”. | Python | 10 | MIT License | 2025-10-15 | 2025-11-03 | 2025-10-24 |
 | [studies-for](https://github.com/sony/studies-for) | None | JavaScript | 0 | - | 2025-10-23 | 2025-11-01 | 2025-11-01 |
-| [mf-rae](https://github.com/sony/mf-rae) | None | Python | 2 | MIT License | 2025-11-13 | 2025-11-18 | 2025-11-17 |
+| [mf-rae](https://github.com/sony/mf-rae) | None | Python | 14 | MIT License | 2025-11-13 | 2025-11-19 | 2025-11-19 |
