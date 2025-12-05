@@ -1,10 +1,10 @@
 # Sony
 
-共 127 个项目，近半年内活跃项目 50 个，1 个团队， 17452 个 Star。
+共 127 个项目，近半年内活跃项目 50 个，1 个团队， 17453 个 Star。
 
 语言 Top 3：Python, JavaScript, Jupyter Notebook
 
-统计时间：2025-12-04 08:10:45
+统计时间：2025-12-05 08:09:54
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -83,7 +83,7 @@
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 20 | MIT License | 2024-07-09 | 2025-11-17 | 2025-06-09 |
 | [genwarp](https://github.com/sony/genwarp) | None | Python | 301 | MIT License | 2024-08-06 | 2025-11-13 | 2024-09-26 |
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 51 | MIT License | 2024-09-05 | 2025-08-01 | 2024-11-05 |
-| [esstra](https://github.com/sony/esstra) | A software suite for enhancing software supply chain transparency | Python | 22 | Other | 2024-10-03 | 2025-12-04 | 2025-12-04 |
+| [esstra](https://github.com/sony/esstra) | A software suite for enhancing software supply chain transparency | Python | 22 | Other | 2024-10-03 | 2025-12-05 | 2025-12-05 |
 | [pagoda](https://github.com/sony/pagoda) | None | Python | 21 | MIT License | 2024-10-23 | 2025-11-01 | 2024-11-21 |
 | [okg](https://github.com/sony/okg) | Official Repo for The Paper "OKG: On-the-fly Keyword Generation in Search Sponsered Advertising" (Coling'25) | Jupyter Notebook | 5 | Other | 2024-11-15 | 2025-09-10 | 2025-02-14 |
 | [dual-pixel-disparity](https://github.com/sony/dual-pixel-disparity) | None | Python | 11 | MIT License | 2024-11-19 | 2025-11-27 | 2025-03-27 |
@@ -134,4 +134,4 @@
 | [mmaudiosep](https://github.com/sony/mmaudiosep) | None | Python | 10 | MIT License | 2025-10-06 | 2025-11-17 | 2025-10-13 |
 | [sampleid](https://github.com/sony/sampleid) | Code for the paper “Automatic Music Sample Identification with Multi-Track Contrastive Learning”. | Python | 10 | MIT License | 2025-10-15 | 2025-11-03 | 2025-10-24 |
 | [studies-for](https://github.com/sony/studies-for) | None | JavaScript | 0 | - | 2025-10-23 | 2025-11-01 | 2025-11-01 |
-| [mf-rae](https://github.com/sony/mf-rae) | None | Python | 19 | MIT License | 2025-11-13 | 2025-11-27 | 2025-11-19 |
+| [mf-rae](https://github.com/sony/mf-rae) | None | Python | 20 | MIT License | 2025-11-13 | 2025-12-05 | 2025-11-19 |
