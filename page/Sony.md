@@ -1,14 +1,14 @@
 # Sony
 
-共 127 个项目，近半年内活跃项目 49 个，1 个团队， 17461 个 Star。
+共 127 个项目，近半年内活跃项目 49 个，1 个团队， 17467 个 Star。
 
 语言 Top 3：Python, JavaScript, Jupyter Notebook
 
-统计时间：2025-12-06 08:08:48
+统计时间：2025-12-07 08:08:40
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3435 | MIT License | 2015-05-29 | 2025-12-05 | 2025-10-04 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3436 | MIT License | 2015-05-29 | 2025-12-06 | 2025-10-04 |
 | [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4294 | MIT License | 2015-05-29 | 2025-12-06 | 2025-07-05 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
@@ -36,7 +36,7 @@
 | [nnabla-dataset-uploader](https://github.com/sony/nnabla-dataset-uploader) | None | Python | 0 | - | 2019-02-26 | 2019-03-15 | 2019-03-15 |
 | [appsync-client-go](https://github.com/sony/appsync-client-go) | AWS AppSync golang client library | Go | 53 | MIT License | 2019-03-16 | 2025-08-17 | 2025-04-29 |
 | [isren](https://github.com/sony/isren) | None | JavaScript | 8 | MIT License | 2020-01-07 | 2023-01-12 | 2021-05-17 |
-| [ai-research-code](https://github.com/sony/ai-research-code) | None | Python | 354 | Apache License 2.0 | 2020-04-14 | 2025-11-12 | 2023-09-12 |
+| [ai-research-code](https://github.com/sony/ai-research-code) | None | Python | 355 | Apache License 2.0 | 2020-04-14 | 2025-12-07 | 2023-09-12 |
 | [nnabla-nas](https://github.com/sony/nnabla-nas) | Neural Architecture Search for Neural Network Libraries | Python | 60 | Apache License 2.0 | 2020-06-15 | 2025-07-14 | 2024-01-22 |
 | [micro-notifier](https://github.com/sony/micro-notifier) | Simplified Pusher Clone | Go | 13 | MIT License | 2020-09-06 | 2025-09-13 | 2025-09-13 |
 | [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1316 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2025-12-03 | 2025-07-25 |
@@ -52,7 +52,7 @@
 | [nnabla-browser](https://github.com/sony/nnabla-browser) | Visualization toolkit for Neural Network Libraries | TypeScript | 9 | Apache License 2.0 | 2022-03-31 | 2024-07-06 | 2023-03-07 |
 | [sqvae](https://github.com/sony/sqvae) | Pytorch implementation of stochastically quantized variational autoencoder (SQ-VAE) | Python | 193 | Apache License 2.0 | 2022-05-26 | 2025-11-19 | 2022-07-20 |
 | [aibo-development-tutorial](https://github.com/sony/aibo-development-tutorial) | None | None | 8 | Other | 2022-06-28 | 2025-04-20 | 2022-06-30 |
-| [FxNorm-automix](https://github.com/sony/FxNorm-automix) | FxNorm-Automix - Implementation of automatic music mixing systems. We show how we can use wet music data and repurpose it to train a fully automatic mixing system | Python | 129 | MIT License | 2022-08-05 | 2025-11-28 | 2024-03-11 |
+| [FxNorm-automix](https://github.com/sony/FxNorm-automix) | FxNorm-Automix - Implementation of automatic music mixing systems. We show how we can use wet music data and repurpose it to train a fully automatic mixing system | Python | 130 | MIT License | 2022-08-05 | 2025-12-07 | 2024-03-11 |
 | [polar-densification](https://github.com/sony/polar-densification) | None | Python | 30 | MIT License | 2022-09-13 | 2025-11-27 | 2023-03-24 |
 | [nnabla-js](https://github.com/sony/nnabla-js) | None | TypeScript | 1 | Apache License 2.0 | 2022-09-16 | 2025-10-17 | 2025-10-17 |
 | [DiffRoll](https://github.com/sony/DiffRoll) | PyTorch implementation of DiffRoll, a diffusion-based generative automatic music transcription (AMT) model | Jupyter Notebook | 80 | MIT License | 2022-10-11 | 2025-11-16 | 2023-12-06 |
@@ -109,7 +109,7 @@
 | [clews](https://github.com/sony/clews) | None | Python | 20 | MIT License | 2025-03-12 | 2025-10-26 | 2025-03-19 |
 | [learning-feet-imu-locomotion](https://github.com/sony/learning-feet-imu-locomotion) | None | JavaScript | 0 | - | 2025-03-24 | 2025-04-11 | 2025-04-11 |
 | [di4c](https://github.com/sony/di4c) | None | Python | 10 | MIT License | 2025-04-02 | 2025-10-24 | 2025-04-02 |
-| [steermusic](https://github.com/sony/steermusic) | None | Python | 4 | MIT License | 2025-04-07 | 2025-11-24 | 2025-11-20 |
+| [steermusic](https://github.com/sony/steermusic) | None | Python | 5 | MIT License | 2025-04-07 | 2025-12-07 | 2025-11-20 |
 | [x590schema](https://github.com/sony/x590schema) | None | Python | 3 | MIT License | 2025-05-08 | 2025-09-18 | 2025-05-29 |
 | [SIoT-Majipro](https://github.com/sony/SIoT-Majipro) | None | C | 0 | Apache License 2.0 | 2025-05-09 | 2025-11-25 | 2025-11-25 |
 | [sbctm](https://github.com/sony/sbctm) | Schrödinger bridge consistency trajectory models for speech enhancement | Python | 8 | Other | 2025-05-09 | 2025-10-23 | 2025-10-01 |
@@ -131,7 +131,7 @@
 | [multi-plane-segmentation-gpu](https://github.com/sony/multi-plane-segmentation-gpu) | None | JavaScript | 0 | - | 2025-09-26 | 2025-10-03 | 2025-10-03 |
 | [dynamic-rag](https://github.com/sony/dynamic-rag) | None | C# | 4 | BSD 3-Clause "New" or "Revised" License | 2025-09-28 | 2025-10-30 | 2025-10-13 |
 | [cmt](https://github.com/sony/cmt) | None | Python | 17 | MIT License | 2025-09-30 | 2025-11-17 | 2025-11-17 |
-| [mmaudiosep](https://github.com/sony/mmaudiosep) | None | Python | 10 | MIT License | 2025-10-06 | 2025-11-17 | 2025-10-13 |
-| [sampleid](https://github.com/sony/sampleid) | Code for the paper “Automatic Music Sample Identification with Multi-Track Contrastive Learning”. | Python | 10 | MIT License | 2025-10-15 | 2025-11-03 | 2025-10-24 |
+| [mmaudiosep](https://github.com/sony/mmaudiosep) | None | Python | 11 | MIT License | 2025-10-06 | 2025-12-07 | 2025-10-13 |
+| [sampleid](https://github.com/sony/sampleid) | Code for the paper “Automatic Music Sample Identification with Multi-Track Contrastive Learning”. | Python | 11 | MIT License | 2025-10-15 | 2025-12-07 | 2025-10-24 |
 | [studies-for](https://github.com/sony/studies-for) | None | JavaScript | 0 | - | 2025-10-23 | 2025-11-01 | 2025-11-01 |
 | [mf-rae](https://github.com/sony/mf-rae) | None | Python | 21 | MIT License | 2025-11-13 | 2025-12-05 | 2025-11-19 |
