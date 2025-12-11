@@ -1,14 +1,14 @@
 # Sony
 
-A total of 128 projects, 52 active projects in the last six months, 1 teams, and 17475 stars.
+A total of 128 projects, 52 active projects in the last six months, 1 teams, and 17481 stars.
 
 Top 3 Languages: Python, JavaScript, Jupyter Notebook
 
-Statistics Date: 2025-12-10 08:10:03
+Statistics Date: 2025-12-11 08:10:33
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3440 | MIT License | 2015-05-29 | 2025-12-10 | 2025-10-04 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3442 | MIT License | 2015-05-29 | 2025-12-10 | 2025-10-04 |
 | [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4295 | MIT License | 2015-05-29 | 2025-12-09 | 2025-07-05 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
@@ -22,7 +22,7 @@ Statistics Date: 2025-12-10 08:10:03
 | [openocd-nuttx](https://github.com/sony/openocd-nuttx) | Fork of OpenOCD with NuttX thread support. | C | 24 | GNU General Public License v2.0 | 2016-10-18 | 2024-06-08 | 2019-01-21 |
 | [nnabla-ext-cuda](https://github.com/sony/nnabla-ext-cuda) | A CUDA Extension of Neural Network Libraries | Cuda | 91 | Apache License 2.0 | 2017-06-21 | 2025-07-29 | 2025-06-30 |
 | [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2768 | Apache License 2.0 | 2017-06-26 | 2025-12-09 | 2025-08-29 |
-| [easyhttpcpp](https://github.com/sony/easyhttpcpp) | A cross-platform HTTP client library with a focus on usability and speed | C++ | 168 | MIT License | 2017-08-09 | 2025-11-15 | 2022-01-31 |
+| [easyhttpcpp](https://github.com/sony/easyhttpcpp) | A cross-platform HTTP client library with a focus on usability and speed | C++ | 169 | MIT License | 2017-08-09 | 2025-12-10 | 2022-01-31 |
 | [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 176 | Apache License 2.0 | 2017-09-07 | 2025-12-08 | 2025-12-09 |
 | [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 38 | Apache License 2.0 | 2017-09-07 | 2025-11-27 | 2025-11-27 |
 | [cdp-js](https://github.com/sony/cdp-js) | Libraries/SDK modules for multi-platform application development | TypeScript | 22 | Apache License 2.0 | 2017-10-10 | 2024-02-11 | 2018-05-10 |
@@ -36,7 +36,7 @@ Statistics Date: 2025-12-10 08:10:03
 | [nnabla-dataset-uploader](https://github.com/sony/nnabla-dataset-uploader) | None | Python | 0 | - | 2019-02-26 | 2019-03-15 | 2019-03-15 |
 | [appsync-client-go](https://github.com/sony/appsync-client-go) | AWS AppSync golang client library | Go | 53 | MIT License | 2019-03-16 | 2025-12-09 | 2025-12-09 |
 | [isren](https://github.com/sony/isren) | None | JavaScript | 8 | MIT License | 2020-01-07 | 2023-01-12 | 2021-05-17 |
-| [ai-research-code](https://github.com/sony/ai-research-code) | None | Python | 355 | Apache License 2.0 | 2020-04-14 | 2025-12-07 | 2023-09-12 |
+| [ai-research-code](https://github.com/sony/ai-research-code) | None | Python | 356 | Apache License 2.0 | 2020-04-14 | 2025-12-10 | 2023-09-12 |
 | [nnabla-nas](https://github.com/sony/nnabla-nas) | Neural Architecture Search for Neural Network Libraries | Python | 60 | Apache License 2.0 | 2020-06-15 | 2025-07-14 | 2024-01-22 |
 | [micro-notifier](https://github.com/sony/micro-notifier) | Simplified Pusher Clone | Go | 13 | MIT License | 2020-09-06 | 2025-09-13 | 2025-09-13 |
 | [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1316 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2025-12-03 | 2025-07-25 |
@@ -79,7 +79,7 @@ Statistics Date: 2025-12-10 08:10:03
 | [NeISF](https://github.com/sony/NeISF) | None | Python | 20 | Other | 2024-06-04 | 2025-09-29 | 2025-05-15 |
 | [nnc-desktop](https://github.com/sony/nnc-desktop) | None | TypeScript | 21 | Apache License 2.0 | 2024-06-04 | 2025-07-25 | 2025-06-30 |
 | [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 100 | MIT License | 2024-06-04 | 2025-12-09 | 2025-03-31 |
-| [silentcipher](https://github.com/sony/silentcipher) | None | Python | 70 | MIT License | 2024-06-05 | 2025-11-27 | 2024-07-22 |
+| [silentcipher](https://github.com/sony/silentcipher) | None | Python | 71 | MIT License | 2024-06-05 | 2025-12-10 | 2024-07-22 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 20 | MIT License | 2024-07-09 | 2025-11-17 | 2025-06-09 |
 | [genwarp](https://github.com/sony/genwarp) | None | Python | 301 | MIT License | 2024-08-06 | 2025-11-13 | 2024-09-26 |
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 51 | MIT License | 2024-09-05 | 2025-08-01 | 2024-11-05 |
@@ -120,7 +120,7 @@ Statistics Date: 2025-12-10 08:10:03
 | [BannerAgency](https://github.com/sony/BannerAgency) |  The official repo for BannerAgency: Advertising Banner Design with Multimodal LLM Agents | Python | 13 | MIT License | 2025-07-01 | 2025-11-24 | 2025-08-21 |
 | [tool-use-few-shot-transfer](https://github.com/sony/tool-use-few-shot-transfer) | None | HTML | 0 | - | 2025-07-14 | 2025-07-16 | 2025-07-16 |
 | [DeepResonance](https://github.com/sony/DeepResonance) | None | Python | 2 | MIT License | 2025-07-15 | 2025-11-27 | 2025-07-15 |
-| [titan-guide](https://github.com/sony/titan-guide) | None | Python | 0 | MIT License | 2025-07-15 | 2025-12-10 | 2025-12-09 |
+| [titan-guide](https://github.com/sony/titan-guide) | None | Python | 1 | MIT License | 2025-07-15 | 2025-12-11 | 2025-12-09 |
 | [SIoT-Themis](https://github.com/sony/SIoT-Themis) | None | HCL | 0 | MIT License | 2025-07-24 | 2025-11-28 | 2025-11-28 |
 | [micro-mail-sender](https://github.com/sony/micro-mail-sender) | None | Go | 1 | MIT License | 2025-07-26 | 2025-12-03 | 2025-11-09 |
 | [SIoT-LSLtool](https://github.com/sony/SIoT-LSLtool) | None | Python | 9 | BSD 3-Clause "New" or "Revised" License | 2025-07-30 | 2025-08-04 | 2025-07-31 |
