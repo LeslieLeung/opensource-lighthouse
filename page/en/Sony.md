@@ -1,14 +1,14 @@
 # Sony
 
-A total of 128 projects, 52 active projects in the last six months, 1 teams, and 17485 stars.
+A total of 128 projects, 52 active projects in the last six months, 1 teams, and 17490 stars.
 
 Top 3 Languages: Python, JavaScript, Jupyter Notebook
 
-Statistics Date: 2025-12-12 08:10:26
+Statistics Date: 2025-12-13 08:09:12
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3443 | MIT License | 2015-05-29 | 2025-12-11 | 2025-10-04 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3444 | MIT License | 2015-05-29 | 2025-12-12 | 2025-10-04 |
 | [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4295 | MIT License | 2015-05-29 | 2025-12-09 | 2025-07-05 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
@@ -28,7 +28,7 @@ Statistics Date: 2025-12-12 08:10:26
 | [cdp-js](https://github.com/sony/cdp-js) | Libraries/SDK modules for multi-platform application development | TypeScript | 22 | Apache License 2.0 | 2017-10-10 | 2024-02-11 | 2018-05-10 |
 | [cdp-lib](https://github.com/sony/cdp-lib) | Application template/libraries for cdp-js (Details: see cdp-js repository) | JavaScript | 6 | Apache License 2.0 | 2017-10-10 | 2017-11-13 | 2018-02-23 |
 | [cdp-cli](https://github.com/sony/cdp-cli) | Command line tools for generating start point of multi-platform application development (Details: see cdp-js repository) | HTML | 7 | Apache License 2.0 | 2017-10-10 | 2020-12-13 | 2018-07-13 |
-| [nnabla-examples](https://github.com/sony/nnabla-examples) | Neural Network Libraries https://github.com/sony/nnabla - Examples | Python | 308 | Apache License 2.0 | 2017-11-05 | 2025-11-26 | 2025-08-29 |
+| [nnabla-examples](https://github.com/sony/nnabla-examples) | Neural Network Libraries https://github.com/sony/nnabla - Examples | Python | 310 | Apache License 2.0 | 2017-11-05 | 2025-12-13 | 2025-12-12 |
 | [nnabla-c-runtime](https://github.com/sony/nnabla-c-runtime) | Neural Network Libraries - C Runtime | C | 58 | Apache License 2.0 | 2018-06-26 | 2025-11-03 | 2025-07-29 |
 | [mapray-js](https://github.com/sony/mapray-js) | JavaScript library for Interactive high quality 3D globes and maps in the browser | TypeScript | 152 | Apache License 2.0 | 2019-01-28 | 2025-12-02 | 2025-07-25 |
 | [typescript-fsa-redux-middleware](https://github.com/sony/typescript-fsa-redux-middleware) | Fluent syntax for defining typesafe Redux vanilla middlewares on top of typescript-fsa. | TypeScript | 10 | MIT License | 2019-01-29 | 2025-11-14 | 2020-01-24 |
@@ -52,7 +52,7 @@ Statistics Date: 2025-12-12 08:10:26
 | [nnabla-browser](https://github.com/sony/nnabla-browser) | Visualization toolkit for Neural Network Libraries | TypeScript | 9 | Apache License 2.0 | 2022-03-31 | 2024-07-06 | 2023-03-07 |
 | [sqvae](https://github.com/sony/sqvae) | Pytorch implementation of stochastically quantized variational autoencoder (SQ-VAE) | Python | 193 | Apache License 2.0 | 2022-05-26 | 2025-11-19 | 2022-07-20 |
 | [aibo-development-tutorial](https://github.com/sony/aibo-development-tutorial) | None | None | 8 | Other | 2022-06-28 | 2025-04-20 | 2022-06-30 |
-| [FxNorm-automix](https://github.com/sony/FxNorm-automix) | FxNorm-Automix - Implementation of automatic music mixing systems. We show how we can use wet music data and repurpose it to train a fully automatic mixing system | Python | 130 | MIT License | 2022-08-05 | 2025-12-07 | 2024-03-11 |
+| [FxNorm-automix](https://github.com/sony/FxNorm-automix) | FxNorm-Automix - Implementation of automatic music mixing systems. We show how we can use wet music data and repurpose it to train a fully automatic mixing system | Python | 131 | MIT License | 2022-08-05 | 2025-12-12 | 2024-03-11 |
 | [polar-densification](https://github.com/sony/polar-densification) | None | Python | 30 | MIT License | 2022-09-13 | 2025-11-27 | 2023-03-24 |
 | [nnabla-js](https://github.com/sony/nnabla-js) | None | TypeScript | 1 | Apache License 2.0 | 2022-09-16 | 2025-10-17 | 2025-10-17 |
 | [DiffRoll](https://github.com/sony/DiffRoll) | PyTorch implementation of DiffRoll, a diffusion-based generative automatic music transcription (AMT) model | Jupyter Notebook | 80 | MIT License | 2022-10-11 | 2025-11-16 | 2023-12-06 |
@@ -81,7 +81,7 @@ Statistics Date: 2025-12-12 08:10:26
 | [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 100 | MIT License | 2024-06-04 | 2025-12-09 | 2025-03-31 |
 | [silentcipher](https://github.com/sony/silentcipher) | None | Python | 71 | MIT License | 2024-06-05 | 2025-12-10 | 2024-07-22 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 20 | MIT License | 2024-07-09 | 2025-11-17 | 2025-06-09 |
-| [genwarp](https://github.com/sony/genwarp) | None | Python | 301 | MIT License | 2024-08-06 | 2025-11-13 | 2024-09-26 |
+| [genwarp](https://github.com/sony/genwarp) | None | Python | 302 | MIT License | 2024-08-06 | 2025-12-13 | 2024-09-26 |
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 51 | MIT License | 2024-09-05 | 2025-08-01 | 2024-11-05 |
 | [esstra](https://github.com/sony/esstra) | A software suite for enhancing software supply chain transparency | Python | 23 | Other | 2024-10-03 | 2025-12-11 | 2025-12-05 |
 | [pagoda](https://github.com/sony/pagoda) | None | Python | 21 | MIT License | 2024-10-23 | 2025-11-01 | 2024-11-21 |
