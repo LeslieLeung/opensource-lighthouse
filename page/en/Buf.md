@@ -1,16 +1,16 @@
 # Buf
 
-A total of 75 projects, 57 active projects in the last six months, 1 teams, and 20859 stars.
+A total of 75 projects, 57 active projects in the last six months, 1 teams, and 20864 stars.
 
 Top 3 Languages: Go, TypeScript, Makefile
 
-Statistics Date: 2025-12-13 08:09:12
+Statistics Date: 2025-12-14 08:09:12
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) | Protocol Buffer Validation - replaced by https://github.com/bufbuild/protovalidate | Go | 4075 | Apache License 2.0 | 2017-10-03 | 2025-12-10 | 2025-12-09 |
+| [protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) | Protocol Buffer Validation - replaced by https://github.com/bufbuild/protovalidate | Go | 4076 | Apache License 2.0 | 2017-10-03 | 2025-12-14 | 2025-12-09 |
 | [homebrew-buf](https://github.com/bufbuild/homebrew-buf) | Homebrew tap for Buf. | Shell | 14 | Apache License 2.0 | 2019-10-02 | 2025-11-25 | 2025-11-25 |
-| [buf](https://github.com/bufbuild/buf) | The best way of working with Protocol Buffers. | Go | 10617 | Apache License 2.0 | 2019-10-03 | 2025-12-13 | 2025-12-12 |
+| [buf](https://github.com/bufbuild/buf) | The best way of working with Protocol Buffers. | Go | 10620 | Apache License 2.0 | 2019-10-03 | 2025-12-14 | 2025-12-12 |
 | [vim-buf](https://github.com/bufbuild/vim-buf) | Vim integration for Buf. | Vim Script | 38 | Apache License 2.0 | 2019-10-03 | 2025-09-08 | 2025-11-25 |
 | [buf-examples](https://github.com/bufbuild/buf-examples) | Example repository that uses Buf. | TypeScript | 101 | Apache License 2.0 | 2019-10-12 | 2025-12-11 | 2025-12-11 |
 | [makego](https://github.com/bufbuild/makego) | Makefile setup for our Golang projects. | Makefile | 108 | Apache License 2.0 | 2019-11-18 | 2025-12-09 | 2025-12-09 |
@@ -23,10 +23,10 @@ Statistics Date: 2025-12-13 08:09:12
 | [buf-tour](https://github.com/bufbuild/buf-tour) | None | None | 51 | - | 2021-08-10 | 2025-04-29 | 2025-04-29 |
 | [rules_buf](https://github.com/bufbuild/rules_buf) | Bazel rules for Buf. | Starlark | 57 | Apache License 2.0 | 2021-11-16 | 2025-09-19 | 2025-10-06 |
 | [intellij-buf](https://github.com/bufbuild/intellij-buf) | IntelliJ plugin for Buf | Kotlin | 23 | Apache License 2.0 | 2022-03-08 | 2025-12-08 | 2025-12-08 |
-| [protobuf-es](https://github.com/bufbuild/protobuf-es) | Protocol Buffers for ECMAScript. The only JavaScript Protobuf library that is fully-compliant with Protobuf conformance tests. | TypeScript | 1472 | Apache License 2.0 | 2022-03-14 | 2025-12-13 | 2025-12-12 |
+| [protobuf-es](https://github.com/bufbuild/protobuf-es) | Protocol Buffers for ECMAScript. The only JavaScript Protobuf library that is fully-compliant with Protobuf conformance tests. | TypeScript | 1473 | Apache License 2.0 | 2022-03-14 | 2025-12-14 | 2025-12-12 |
 | [protocompile](https://github.com/bufbuild/protocompile) | A parsing/linking engine for protobuf; the guts for a pure Go replacement of protoc. | Go | 302 | Apache License 2.0 | 2022-08-11 | 2025-12-09 | 2025-12-09 |
 | [buf-language-server](https://github.com/bufbuild/buf-language-server) | Archived: LSP support is being built into the Buf CLI | Go | 131 | Apache License 2.0 | 2022-08-15 | 2025-08-13 | 2024-02-13 |
-| [plugins](https://github.com/bufbuild/plugins) | Remote Protobuf plugins available on the BSR | Dockerfile | 64 | Apache License 2.0 | 2022-08-16 | 2025-12-12 | 2025-12-12 |
+| [plugins](https://github.com/bufbuild/plugins) | Remote Protobuf plugins available on the BSR | Dockerfile | 64 | Apache License 2.0 | 2022-08-16 | 2025-12-12 | 2025-12-13 |
 | [protobuf.com](https://github.com/bufbuild/protobuf.com) | Buf's Guide to Protobuf. Home of the language spec and grammar for the Protobuf IDL. | CSS | 28 | Apache License 2.0 | 2022-09-08 | 2025-12-08 | 2025-12-08 |
 | [base-workflows](https://github.com/bufbuild/base-workflows) | Shared Github Actions for BufBuild Organization. | None | 4 | - | 2022-10-26 | 2025-12-08 | 2025-12-08 |
 | [tools](https://github.com/bufbuild/tools) | A collection of tools written at Buf. | JavaScript | 8 | Apache License 2.0 | 2023-01-19 | 2025-11-14 | 2025-11-24 |
