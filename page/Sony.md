@@ -1,15 +1,15 @@
 # Sony
 
-共 128 个项目，近半年内活跃项目 52 个，1 个团队， 17494 个 Star。
+共 128 个项目，近半年内活跃项目 52 个，1 个团队， 17497 个 Star。
 
 语言 Top 3：Python, JavaScript, Jupyter Notebook
 
-统计时间：2025-12-14 08:09:12
+统计时间：2025-12-15 08:11:40
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3447 | MIT License | 2015-05-29 | 2025-12-14 | 2025-10-04 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4295 | MIT License | 2015-05-29 | 2025-12-13 | 2025-07-05 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3448 | MIT License | 2015-05-29 | 2025-12-14 | 2025-10-04 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4296 | MIT License | 2015-05-29 | 2025-12-14 | 2025-07-05 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 415 | MIT License | 2015-09-18 | 2025-12-02 | 2020-12-29 |
@@ -120,7 +120,7 @@
 | [BannerAgency](https://github.com/sony/BannerAgency) |  The official repo for BannerAgency: Advertising Banner Design with Multimodal LLM Agents | Python | 14 | MIT License | 2025-07-01 | 2025-12-13 | 2025-08-21 |
 | [tool-use-few-shot-transfer](https://github.com/sony/tool-use-few-shot-transfer) | None | HTML | 0 | - | 2025-07-14 | 2025-07-16 | 2025-07-16 |
 | [DeepResonance](https://github.com/sony/DeepResonance) | None | Python | 2 | MIT License | 2025-07-15 | 2025-11-27 | 2025-07-15 |
-| [titan-guide](https://github.com/sony/titan-guide) | None | Python | 1 | MIT License | 2025-07-15 | 2025-12-11 | 2025-12-09 |
+| [titan-guide](https://github.com/sony/titan-guide) | None | Python | 2 | MIT License | 2025-07-15 | 2025-12-15 | 2025-12-09 |
 | [SIoT-Themis](https://github.com/sony/SIoT-Themis) | None | HCL | 0 | MIT License | 2025-07-24 | 2025-11-28 | 2025-11-28 |
 | [micro-mail-sender](https://github.com/sony/micro-mail-sender) | None | Go | 1 | MIT License | 2025-07-26 | 2025-12-03 | 2025-11-09 |
 | [SIoT-LSLtool](https://github.com/sony/SIoT-LSLtool) | None | Python | 9 | BSD 3-Clause "New" or "Revised" License | 2025-07-30 | 2025-08-04 | 2025-07-31 |
