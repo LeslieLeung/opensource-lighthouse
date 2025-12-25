@@ -1,10 +1,10 @@
 # Netflix
 
-共 234 个项目，近半年内活跃项目 75 个，1 个团队， 240179 个 Star。
+共 234 个项目，近半年内活跃项目 75 个，1 个团队， 240182 个 Star。
 
 语言 Top 3：Java, JavaScript, Python
 
-统计时间：2025-12-24 08:10:04
+统计时间：2025-12-25 08:09:57
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -14,7 +14,7 @@
 | [CassJMeter](https://github.com/Netflix/CassJMeter) | JMeter plugin to run cassandra tests. | Java | 166 | Apache License 2.0 | 2011-10-20 | 2025-12-19 | 2023-04-10 |
 | [servo](https://github.com/Netflix/servo) | Netflix Application Monitoring Library | Java | 1425 | Apache License 2.0 | 2011-12-16 | 2025-12-19 | 2025-12-17 |
 | [aws-autoscaling](https://github.com/Netflix/aws-autoscaling) | Tools and Documentation about using Auto Scaling | Shell | 421 | - | 2012-01-11 | 2025-10-22 | 2015-12-12 |
-| [netflix.github.com](https://github.com/Netflix/netflix.github.com) | None | HTML | 1695 | - | 2012-01-31 | 2025-12-20 | 2024-08-14 |
+| [netflix.github.com](https://github.com/Netflix/netflix.github.com) | None | HTML | 1697 | - | 2012-01-31 | 2025-12-24 | 2024-08-14 |
 | [gradle-template](https://github.com/Netflix/gradle-template) | None | Java | 249 | Apache License 2.0 | 2012-03-12 | 2025-12-19 | 2023-04-10 |
 | [archaius](https://github.com/Netflix/archaius) | Library for configuration management API | Java | 2495 | Apache License 2.0 | 2012-05-11 | 2025-12-19 | 2025-12-17 |
 | [asgard](https://github.com/Netflix/asgard) | [Asgard is deprecated at Netflix. We use Spinnaker ( www.spinnaker.io ).] Web interface for application deployments and cloud management in Amazon Web Services (AWS). Binary download: http://github.com/Netflix/asgard/releases | Groovy | 2227 | Apache License 2.0 | 2012-05-21 | 2025-12-23 | 2023-04-10 |
@@ -69,7 +69,7 @@
 | [iep](https://github.com/Netflix/iep) | Insight Engineering Platform Components | Java | 94 | - | 2014-12-05 | 2025-12-02 | 2025-12-02 |
 | [iep-shadow](https://github.com/Netflix/iep-shadow) | DEPRECATED: Shadowed versions of rx/platform libraries for Insight Engineering Platform use | None | 5 | Apache License 2.0 | 2014-12-09 | 2022-03-29 | 2023-03-24 |
 | [Surus](https://github.com/Netflix/Surus) | None | Java | 460 | Apache License 2.0 | 2015-01-12 | 2025-12-19 | 2023-03-24 |
-| [falcor](https://github.com/Netflix/falcor) | A JavaScript library for efficient data fetching | JavaScript | 10574 | Apache License 2.0 | 2015-02-13 | 2025-12-22 | 2025-08-28 |
+| [falcor](https://github.com/Netflix/falcor) | A JavaScript library for efficient data fetching | JavaScript | 10573 | Apache License 2.0 | 2015-02-13 | 2025-12-24 | 2025-08-28 |
 | [falcor-router](https://github.com/Netflix/falcor-router) | A Falcor JavaScript DataSource which creates a Virtual JSON Graph document on your app server. | JavaScript | 106 | Apache License 2.0 | 2015-02-13 | 2025-10-08 | 2023-03-24 |
 | [falcor-express](https://github.com/Netflix/falcor-express) | Express Middleware for Hosting Falcor Data Sources. | JavaScript | 62 | Apache License 2.0 | 2015-02-13 | 2024-02-23 | 2023-04-10 |
 | [falcor-http-datasource](https://github.com/Netflix/falcor-http-datasource) | A DataSource for Falcor that can be use to retrieve JSON Graph data from an HTTP server. | JavaScript | 56 | Apache License 2.0 | 2015-02-13 | 2024-02-21 | 2023-03-24 |
@@ -136,7 +136,7 @@
 | [titus-control-plane](https://github.com/Netflix/titus-control-plane) | Titus is the Netflix Container Management Platform that manages containers and provides integrations to the infrastructure ecosystem. | Java | 320 | Apache License 2.0 | 2017-10-17 | 2025-11-28 | 2022-05-13 |
 | [metrics-client-go](https://github.com/Netflix/metrics-client-go) | None | Go | 3 | - | 2017-10-19 | 2023-07-25 | 2017-10-19 |
 | [titus-executor](https://github.com/Netflix/titus-executor) | Titus Executor is the container runtime/executor implementation for Titus | Go | 231 | Apache License 2.0 | 2017-10-26 | 2025-08-09 | 2023-01-10 |
-| [concurrency-limits](https://github.com/Netflix/concurrency-limits) | None | Java | 3497 | Apache License 2.0 | 2017-12-11 | 2025-12-24 | 2025-12-18 |
+| [concurrency-limits](https://github.com/Netflix/concurrency-limits) | None | Java | 3498 | Apache License 2.0 | 2017-12-11 | 2025-12-25 | 2025-12-18 |
 | [iceberg](https://github.com/Netflix/iceberg) | Iceberg is a table format for large, slow-moving tabular data | Java | 484 | Apache License 2.0 | 2017-12-13 | 2025-11-25 | 2023-04-10 |
 | [sureal](https://github.com/Netflix/sureal) | Subjective quality scores recovery from noisy measurements. | Python | 132 | Apache License 2.0 | 2018-01-18 | 2025-11-12 | 2023-08-25 |
 | [fast_jsonapi](https://github.com/Netflix/fast_jsonapi) | No Longer Maintained - A lightning fast JSON:API serializer for Ruby Objects. | Ruby | 5049 | Apache License 2.0 | 2018-02-01 | 2025-12-03 | 2023-03-06 |
@@ -175,14 +175,14 @@
 | [x-test](https://github.com/Netflix/x-test) | None | JavaScript | 13 | Apache License 2.0 | 2019-06-27 | 2025-11-06 | 2025-11-15 |
 | [p2plab](https://github.com/Netflix/p2plab) | performance benchmark infrastructure for IPLD DAGs | Go | 170 | Apache License 2.0 | 2019-07-27 | 2025-11-09 | 2021-12-04 |
 | [nflxprofile](https://github.com/Netflix/nflxprofile) | None | Python | 19 | Apache License 2.0 | 2019-08-28 | 2022-07-29 | 2023-04-10 |
-| [metaflow](https://github.com/Netflix/metaflow) | Build, Manage and Deploy AI/ML Systems | Python | 9682 | Apache License 2.0 | 2019-09-17 | 2025-12-24 | 2025-12-23 |
+| [metaflow](https://github.com/Netflix/metaflow) | Build, Manage and Deploy AI/ML Systems | Python | 9683 | Apache License 2.0 | 2019-09-17 | 2025-12-25 | 2025-12-23 |
 | [polynote](https://github.com/Netflix/polynote) | None | HTML | 38 | - | 2019-10-23 | 2025-10-31 | 2019-10-23 |
 | [consoleme](https://github.com/Netflix/consoleme) | A Central Control Plane for AWS Permissions and Access | Python | 3199 | Apache License 2.0 | 2019-11-13 | 2025-12-24 | 2024-07-07 |
 | [metaflow-service](https://github.com/Netflix/metaflow-service) | :rocket: Metadata tracking and UI service for Metaflow! | Python | 216 | Apache License 2.0 | 2019-11-29 | 2025-12-22 | 2025-12-15 |
 | [metaflow-tools](https://github.com/Netflix/metaflow-tools) | :rocket: Deployment tools/scripts for Metaflow! | HCL | 56 | Apache License 2.0 | 2019-12-01 | 2025-02-27 | 2023-04-20 |
 | [image_compression_comparison](https://github.com/Netflix/image_compression_comparison) | Image Compression Comparison Framework | Python | 273 | Other | 2019-12-09 | 2025-12-21 | 2021-08-06 |
 | [spark](https://github.com/Netflix/spark) | Netflix branches of Apache Spark | Scala | 11 | Apache License 2.0 | 2019-12-17 | 2024-11-27 | 2023-06-15 |
-| [dispatch](https://github.com/Netflix/dispatch) | All of the ad-hoc things you're doing to manage incidents today, done for you, and much more! | Python | 6271 | Apache License 2.0 | 2020-02-10 | 2025-12-23 | 2025-09-03 |
+| [dispatch](https://github.com/Netflix/dispatch) | All of the ad-hoc things you're doing to manage incidents today, done for you, and much more! | Python | 6272 | Apache License 2.0 | 2020-02-10 | 2025-12-25 | 2025-09-03 |
 | [dispatch-docker](https://github.com/Netflix/dispatch-docker) | None | Shell | 215 | Apache License 2.0 | 2020-02-20 | 2025-12-01 | 2025-10-07 |
 | [metaflow-docs](https://github.com/Netflix/metaflow-docs) | None | JavaScript | 37 | - | 2020-03-12 | 2025-12-16 | 2025-12-16 |
 | [vmaf_resource](https://github.com/Netflix/vmaf_resource) | None | None | 13 | Other | 2020-04-20 | 2024-05-10 | 2023-09-13 |
@@ -234,7 +234,7 @@
 | [videoannotator](https://github.com/Netflix/videoannotator) | None | Jupyter Notebook | 53 | Apache License 2.0 | 2024-02-06 | 2025-11-24 | 2024-04-24 |
 | [clove](https://github.com/Netflix/clove) | None | Python | 14 | Other | 2024-02-08 | 2025-08-09 | 2024-08-28 |
 | [bpftop](https://github.com/Netflix/bpftop) | bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program. | C | 2592 | Apache License 2.0 | 2024-02-10 | 2025-12-23 | 2025-12-15 |
-| [maestro](https://github.com/Netflix/maestro) | Maestro: Netflix’s Workflow Orchestrator | Java | 3689 | Apache License 2.0 | 2024-04-17 | 2025-12-23 | 2025-12-04 |
+| [maestro](https://github.com/Netflix/maestro) | Maestro: Netflix’s Workflow Orchestrator | Java | 3688 | Apache License 2.0 | 2024-04-17 | 2025-12-24 | 2025-12-04 |
 | [spectator-go-runtime-metrics](https://github.com/Netflix/spectator-go-runtime-metrics) | None | Go | 3 | Apache License 2.0 | 2024-04-17 | 2025-04-04 | 2024-07-11 |
 | [spectator-py-runtime-metrics](https://github.com/Netflix/spectator-py-runtime-metrics) | None | Python | 3 | Apache License 2.0 | 2024-07-12 | 2025-05-01 | 2025-05-01 |
 | [eslint-plugin-x-element](https://github.com/Netflix/eslint-plugin-x-element) | None | JavaScript | 1 | Apache License 2.0 | 2025-02-11 | 2025-04-04 | 2025-07-25 |
