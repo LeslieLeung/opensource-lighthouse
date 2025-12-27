@@ -1,10 +1,10 @@
 # Sony
 
-共 131 个项目，近半年内活跃项目 55 个，1 个团队， 17565 个 Star。
+共 131 个项目，近半年内活跃项目 53 个，1 个团队， 17567 个 Star。
 
 语言 Top 3：Python, JavaScript, Jupyter Notebook
 
-统计时间：2025-12-26 08:10:06
+统计时间：2025-12-27 08:09:28
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -72,7 +72,7 @@
 | [bigvsan](https://github.com/sony/bigvsan) | Pytorch implementation of BigVSAN | Python | 203 | MIT License | 2023-09-01 | 2025-12-09 | 2025-12-09 |
 | [bigvsan_eval](https://github.com/sony/bigvsan_eval) | Evaluation tool used in the BigVSAN paper | Python | 14 | MIT License | 2023-09-01 | 2025-07-28 | 2024-03-22 |
 | [timbre-trap](https://github.com/sony/timbre-trap) | Code for the paper "Timbre-Trap: A Low-Resource Framework for Instrument-Agnostic Music Transcription" | Python | 40 | MIT License | 2023-09-12 | 2025-11-19 | 2024-05-05 |
-| [ctm](https://github.com/sony/ctm) | None | Python | 315 | MIT License | 2023-10-10 | 2025-12-22 | 2025-11-17 |
+| [ctm](https://github.com/sony/ctm) | None | Python | 316 | MIT License | 2023-10-10 | 2025-12-26 | 2025-11-17 |
 | [SR-Display-Plugin-Preview-BL](https://github.com/sony/SR-Display-Plugin-Preview-BL) | None | Python | 4 | MIT License | 2023-12-13 | 2025-10-05 | 2024-05-24 |
 | [pyAutoPort](https://github.com/sony/pyAutoPort) | None | Python | 7 | BSD 3-Clause "New" or "Revised" License | 2023-12-13 | 2025-07-25 | 2025-07-03 |
 | [SR-Display-Plugin-Preview-ZB](https://github.com/sony/SR-Display-Plugin-Preview-ZB) | None | None | 1 | MIT License | 2024-02-19 | 2024-02-19 | 2024-02-19 |
@@ -89,7 +89,7 @@
 | [dual-pixel-disparity](https://github.com/sony/dual-pixel-disparity) | None | Python | 12 | MIT License | 2024-11-19 | 2025-12-23 | 2025-03-27 |
 | [openmu](https://github.com/sony/openmu) | None | Python | 8 | MIT License | 2024-11-27 | 2025-06-27 | 2024-12-26 |
 | [Hi-ResLDM](https://github.com/sony/Hi-ResLDM) | None | None | 6 | - | 2025-01-11 | 2025-10-28 | 2025-02-12 |
-| [stamp](https://github.com/sony/stamp) | None | TypeScript | 8 | MIT License | 2025-01-20 | 2025-12-17 | 2025-12-17 |
+| [stamp](https://github.com/sony/stamp) | None | TypeScript | 8 | MIT License | 2025-01-20 | 2025-12-17 | 2025-12-26 |
 | [ABA](https://github.com/sony/ABA) | Official Repo for The Paper "Adaptive Budget Optimization for Multichannel Advertising Using Combinatorial Bandits" (AAMAS'25) | Python | 2 | Other | 2025-01-21 | 2025-07-28 | 2025-02-18 |
 | [MambaPEFT](https://github.com/sony/MambaPEFT) | None | Python | 18 | Apache License 2.0 | 2025-01-24 | 2025-12-01 | 2025-03-27 |
 | [bl-flowsom_eval](https://github.com/sony/bl-flowsom_eval) | None | Jupyter Notebook | 0 | MIT License | 2025-01-28 | 2025-02-04 | 2025-02-04 |
@@ -114,12 +114,12 @@
 | [SIoT-Majipro](https://github.com/sony/SIoT-Majipro) | None | C | 0 | Apache License 2.0 | 2025-05-09 | 2025-11-25 | 2025-11-25 |
 | [sbctm](https://github.com/sony/sbctm) | Schrödinger bridge consistency trajectory models for speech enhancement | Python | 8 | Other | 2025-05-09 | 2025-10-23 | 2025-10-01 |
 | [oil](https://github.com/sony/oil) | Official Repo for The Paper "Auto-Bidding in Real-Time Auctions via Oracle Imitation Learning" (KDD'25, Research Track) | Python | 5 | MIT License | 2025-05-23 | 2025-12-20 | 2025-05-23 |
-| [neural-network-console](https://github.com/sony/neural-network-console) | None | C++ | 20 | Apache License 2.0 | 2025-05-29 | 2025-12-25 | 2025-09-11 |
+| [neural-network-console](https://github.com/sony/neural-network-console) | None | C++ | 21 | Apache License 2.0 | 2025-05-29 | 2025-12-27 | 2025-09-11 |
 | [NeISFpp](https://github.com/sony/NeISFpp) | None | Python | 3 | Other | 2025-06-09 | 2025-12-26 | 2025-07-25 |
 | [SIoT-Pwrmod](https://github.com/sony/SIoT-Pwrmod) | None | C | 0 | BSD 3-Clause "New" or "Revised" License | 2025-06-25 | 2025-11-27 | 2025-11-27 |
 | [BannerAgency](https://github.com/sony/BannerAgency) |  The official repo for BannerAgency: Advertising Banner Design with Multimodal LLM Agents | Python | 14 | MIT License | 2025-07-01 | 2025-12-13 | 2025-08-21 |
 | [tool-use-few-shot-transfer](https://github.com/sony/tool-use-few-shot-transfer) | None | HTML | 0 | - | 2025-07-14 | 2025-07-16 | 2025-07-16 |
-| [DeepResonance](https://github.com/sony/DeepResonance) | None | Python | 2 | MIT License | 2025-07-15 | 2025-11-27 | 2025-07-15 |
+| [DeepResonance](https://github.com/sony/DeepResonance) | None | Python | 2 | MIT License | 2025-07-15 | 2025-12-26 | 2025-12-26 |
 | [titan-guide](https://github.com/sony/titan-guide) | None | Python | 3 | MIT License | 2025-07-15 | 2025-12-20 | 2025-12-16 |
 | [SIoT-Themis](https://github.com/sony/SIoT-Themis) | None | HCL | 1 | MIT License | 2025-07-24 | 2025-12-25 | 2025-12-22 |
 | [micro-mail-sender](https://github.com/sony/micro-mail-sender) | None | Go | 1 | MIT License | 2025-07-26 | 2025-12-03 | 2025-11-09 |
