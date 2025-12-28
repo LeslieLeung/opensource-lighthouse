@@ -1,14 +1,14 @@
 # Sony
 
-A total of 131 projects, 53 active projects in the last six months, 1 teams, and 17567 stars.
+A total of 131 projects, 53 active projects in the last six months, 1 teams, and 17569 stars.
 
 Top 3 Languages: Python, JavaScript, Jupyter Notebook
 
-Statistics Date: 2025-12-27 08:09:28
+Statistics Date: 2025-12-28 08:09:23
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3455 | MIT License | 2015-05-29 | 2025-12-25 | 2025-10-04 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3456 | MIT License | 2015-05-29 | 2025-12-27 | 2025-10-04 |
 | [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4304 | MIT License | 2015-05-29 | 2025-12-26 | 2025-07-05 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
@@ -122,11 +122,11 @@ Statistics Date: 2025-12-27 08:09:28
 | [DeepResonance](https://github.com/sony/DeepResonance) | None | Python | 2 | MIT License | 2025-07-15 | 2025-12-26 | 2025-12-26 |
 | [titan-guide](https://github.com/sony/titan-guide) | None | Python | 3 | MIT License | 2025-07-15 | 2025-12-20 | 2025-12-16 |
 | [SIoT-Themis](https://github.com/sony/SIoT-Themis) | None | HCL | 1 | MIT License | 2025-07-24 | 2025-12-25 | 2025-12-22 |
-| [micro-mail-sender](https://github.com/sony/micro-mail-sender) | None | Go | 1 | MIT License | 2025-07-26 | 2025-12-03 | 2025-11-09 |
+| [micro-mail-sender](https://github.com/sony/micro-mail-sender) | None | Go | 1 | MIT License | 2025-07-26 | 2025-12-28 | 2025-12-28 |
 | [SIoT-LSLtool](https://github.com/sony/SIoT-LSLtool) | None | Python | 9 | BSD 3-Clause "New" or "Revised" License | 2025-07-30 | 2025-08-04 | 2025-07-31 |
 | [SIoT-TrailCamera](https://github.com/sony/SIoT-TrailCamera) | None | C | 2 | BSD 3-Clause "New" or "Revised" License | 2025-08-19 | 2025-09-01 | 2025-08-29 |
 | [g2d2](https://github.com/sony/g2d2) | None | Python | 0 | Apache License 2.0 | 2025-08-25 | 2025-08-28 | 2025-08-27 |
-| [mocopi-receiver-plugin-unity](https://github.com/sony/mocopi-receiver-plugin-unity) | None | C# | 23 | Apache License 2.0 | 2025-08-26 | 2025-12-25 | 2025-12-22 |
+| [mocopi-receiver-plugin-unity](https://github.com/sony/mocopi-receiver-plugin-unity) | None | C# | 24 | Apache License 2.0 | 2025-08-26 | 2025-12-27 | 2025-12-22 |
 | [mocopi-motion-serializer](https://github.com/sony/mocopi-motion-serializer) | None | C++ | 7 | Apache License 2.0 | 2025-08-26 | 2025-12-25 | 2025-12-22 |
 | [LibriTTS-VI](https://github.com/sony/LibriTTS-VI) | None | None | 4 | - | 2025-09-02 | 2025-09-28 | 2025-09-23 |
 | [oms](https://github.com/sony/oms) | Official Repo for The Paper "OMS: On-the-fly, Multi-Objective, Self-Reflective Ad Keyword Generation via LLM Agent” (EMNLP’25-main) | Python | 0 | MIT License | 2025-09-11 | 2025-09-26 | 2025-09-26 |
