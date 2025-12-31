@@ -1,10 +1,10 @@
 # The Apache Software Foundation
 
-A total of 2840 projects, 1515 active projects in the last six months, 1 teams, and 1299731 stars.
+A total of 2840 projects, 1514 active projects in the last six months, 1 teams, and 1299985 stars.
 
 Top 3 Languages: Java, HTML, JavaScript
 
-Statistics Date: 2025-12-30 08:10:23
+Statistics Date: 2025-12-31 08:10:14
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -16,22 +16,22 @@ Statistics Date: 2025-12-30 08:10:23
 | [etch](https://github.com/apache/etch) | Mirror of Apache Etch | Java | 17 | Apache License 2.0 | 2009-03-27 | 2022-11-28 | 2017-04-28 |
 | [apr](https://github.com/apache/apr) | Mirror of Apache Portable Runtime | C | 518 | Apache License 2.0 | 2009-03-27 | 2025-12-16 | 2025-12-16 |
 | [stdcxx](https://github.com/apache/stdcxx) | Mirror of Apache C++ Standard Library | C++ | 65 | Apache License 2.0 | 2009-03-27 | 2025-08-06 | 2018-12-10 |
-| [zookeeper](https://github.com/apache/zookeeper) | Apache ZooKeeper | Java | 12699 | Apache License 2.0 | 2009-03-27 | 2025-12-30 | 2025-12-19 |
+| [zookeeper](https://github.com/apache/zookeeper) | Apache ZooKeeper | Java | 12700 | Apache License 2.0 | 2009-03-27 | 2025-12-30 | 2025-12-19 |
 | [lucenenet](https://github.com/apache/lucenenet) | Apache Lucene.NET | C# | 2365 | Apache License 2.0 | 2009-03-27 | 2025-12-26 | 2025-12-05 |
 | [apr-util](https://github.com/apache/apr-util) | Mirror of Apache Portable Runtime util | C | 80 | Apache License 2.0 | 2009-03-27 | 2025-12-14 | 2025-10-06 |
 | [jspwiki](https://github.com/apache/jspwiki) | Apache JSPWiki is a leading open source WikiWiki engine, feature-rich and built around standard JEE components (Java, servlets, JSP) | Java | 111 | Apache License 2.0 | 2009-03-27 | 2025-12-23 | 2025-12-19 |
-| [spamassassin](https://github.com/apache/spamassassin) | Read-only mirror of Apache SpamAssassin. | Perl | 318 | Apache License 2.0 | 2009-05-20 | 2025-12-30 | 2025-12-30 |
-| [ofbiz](https://github.com/apache/ofbiz) | Apache OFBiz - Main development has moved to the ofbiz-frameworks repository. | Java | 804 | Apache License 2.0 | 2009-05-20 | 2025-12-28 | 2020-04-27 |
-| [directory-studio](https://github.com/apache/directory-studio) | Apache Directory Studio | Java | 143 | Apache License 2.0 | 2009-05-20 | 2025-12-15 | 2025-08-11 |
+| [spamassassin](https://github.com/apache/spamassassin) | Read-only mirror of Apache SpamAssassin. | Perl | 318 | Apache License 2.0 | 2009-05-20 | 2025-12-31 | 2025-12-31 |
+| [ofbiz](https://github.com/apache/ofbiz) | Apache OFBiz - Main development has moved to the ofbiz-frameworks repository. | Java | 806 | Apache License 2.0 | 2009-05-20 | 2025-12-31 | 2020-04-27 |
+| [directory-studio](https://github.com/apache/directory-studio) | Apache Directory Studio | Java | 144 | Apache License 2.0 | 2009-05-20 | 2025-12-31 | 2025-08-11 |
 | [felix](https://github.com/apache/felix) | Mirror of Apache Felix | None | 285 | - | 2009-05-20 | 2025-12-05 | 2020-03-04 |
 | [chainsaw](https://github.com/apache/chainsaw) | Mirror of Apache Chainsaw | Java | 18 | Apache License 2.0 | 2009-05-20 | 2023-09-25 | 2022-07-08 |
-| [maven-wagon](https://github.com/apache/maven-wagon) | Apache Maven Wagon | Java | 49 | Apache License 2.0 | 2009-05-20 | 2025-12-29 | 2025-12-29 |
+| [maven-wagon](https://github.com/apache/maven-wagon) | Apache Maven Wagon | Java | 49 | Apache License 2.0 | 2009-05-20 | 2025-12-30 | 2025-12-31 |
 | [maven-resources](https://github.com/apache/maven-resources) | [deprecated] Mirror of Apache Maven resources | Java | 2 | - | 2009-05-20 | 2023-07-25 | 2019-02-19 |
 | [harmony-drlvm](https://github.com/apache/harmony-drlvm) | Mirror of Apache Harmony DRLVM | C++ | 14 | Apache License 2.0 | 2009-05-20 | 2024-05-28 | 2010-03-21 |
 | [struts-maven](https://github.com/apache/struts-maven) | Mirror of Apache Struts Maven | None | 2 | - | 2009-05-20 | 2023-07-25 | 2017-04-28 |
-| [httpd](https://github.com/apache/httpd) | Mirror of Apache HTTP Server. Issues: http://issues.apache.org | C | 3907 | Apache License 2.0 | 2009-05-20 | 2025-12-28 | 2025-12-22 |
-| [camel](https://github.com/apache/camel) | Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data. | Java | 6079 | Apache License 2.0 | 2009-05-21 | 2025-12-29 | 2025-12-30 |
-| [xmlgraphics-fop](https://github.com/apache/xmlgraphics-fop) | Apache XML Graphics FOP | Java | 213 | Apache License 2.0 | 2009-05-21 | 2025-12-19 | 2025-12-17 |
+| [httpd](https://github.com/apache/httpd) | Mirror of Apache HTTP Server. Issues: http://issues.apache.org | C | 3909 | Apache License 2.0 | 2009-05-20 | 2025-12-31 | 2025-12-22 |
+| [camel](https://github.com/apache/camel) | Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data. | Java | 6081 | Apache License 2.0 | 2009-05-21 | 2025-12-31 | 2025-12-31 |
+| [xmlgraphics-fop](https://github.com/apache/xmlgraphics-fop) | Apache XML Graphics FOP | Java | 214 | Apache License 2.0 | 2009-05-21 | 2025-12-31 | 2025-12-17 |
 | [maven-scm](https://github.com/apache/maven-scm) | Apache Maven SCM (Plugin) | Java | 101 | Apache License 2.0 | 2009-05-21 | 2025-12-25 | 2025-12-25 |
 | [maven-plugins](https://github.com/apache/maven-plugins) | [deprecated] Mirror of Apache Maven plugins | Java | 240 | Apache License 2.0 | 2009-05-21 | 2025-12-30 | 2019-11-13 |
 | [directory-samples](https://github.com/apache/directory-samples) | Apache Directory Samples | Java | 4 | - | 2009-05-21 | 2021-11-10 | 2017-11-23 |
@@ -42,16 +42,16 @@ Statistics Date: 2025-12-30 08:10:23
 | [cayenne](https://github.com/apache/cayenne) | Mirror of Apache Cayenne | Java | 337 | - | 2009-05-21 | 2025-12-17 | 2025-12-10 |
 | [pluto](https://github.com/apache/pluto) | Mirror of Apache Pluto | None | 4 | Apache License 2.0 | 2009-05-21 | 2023-10-06 | 2024-02-02 |
 | [pig](https://github.com/apache/pig) | Mirror of Apache Pig | Java | 688 | Apache License 2.0 | 2009-05-21 | 2025-12-05 | 2025-09-15 |
-| [commons-collections](https://github.com/apache/commons-collections) | Apache Commons Collections | Java | 714 | Apache License 2.0 | 2009-05-21 | 2025-12-29 | 2025-12-29 |
+| [commons-collections](https://github.com/apache/commons-collections) | Apache Commons Collections | Java | 714 | Apache License 2.0 | 2009-05-21 | 2025-12-30 | 2025-12-30 |
 | [maven-doxia-tools](https://github.com/apache/maven-doxia-tools) | [deprecated] Mirror of Apache Maven Doxia tools | Java | 4 | - | 2009-05-21 | 2023-01-28 | 2019-12-23 |
 | [openjpa](https://github.com/apache/openjpa) | Apache OpenJPA | Java | 146 | Apache License 2.0 | 2009-05-21 | 2025-11-25 | 2025-12-19 |
 | [mina](https://github.com/apache/mina) | Mirror of Apache MINA | Java | 916 | Apache License 2.0 | 2009-05-21 | 2025-12-26 | 2025-11-21 |
 | [poi](https://github.com/apache/poi) | Mirror of Apache POI gitbox. The Java API for Microsoft Documents. | Java | 2169 | - | 2009-05-21 | 2025-12-29 | 2025-12-29 |
-| [nutch](https://github.com/apache/nutch) | Apache Nutch is an extensible and scalable web crawler | Java | 3103 | Apache License 2.0 | 2009-05-21 | 2025-12-28 | 2025-12-18 |
-| [commons-codec](https://github.com/apache/commons-codec) | Apache Commons Codec | Java | 471 | Apache License 2.0 | 2009-05-21 | 2025-12-29 | 2025-12-29 |
+| [nutch](https://github.com/apache/nutch) | Apache Nutch is an extensible and scalable web crawler | Java | 3104 | Apache License 2.0 | 2009-05-21 | 2025-12-30 | 2025-12-18 |
+| [commons-codec](https://github.com/apache/commons-codec) | Apache Commons Codec | Java | 471 | Apache License 2.0 | 2009-05-21 | 2025-12-30 | 2025-12-30 |
 | [harmony-jdktools](https://github.com/apache/harmony-jdktools) | Mirror of Apache Harmony JDKTools | Java | 4 | Apache License 2.0 | 2009-05-21 | 2021-11-10 | 2010-03-23 |
 | [maven-shared](https://github.com/apache/maven-shared) | [deprecated] Mirror of Apache Maven shared | Java | 28 | - | 2009-05-21 | 2023-07-25 | 2019-06-17 |
-| [commons-lang](https://github.com/apache/commons-lang) | Apache Commons Lang | Java | 2903 | Apache License 2.0 | 2009-05-21 | 2025-12-30 | 2025-12-29 |
+| [commons-lang](https://github.com/apache/commons-lang) | Apache Commons Lang | Java | 2905 | Apache License 2.0 | 2009-05-21 | 2025-12-31 | 2025-12-29 |
 | [logging-log4j1](https://github.com/apache/logging-log4j1) | Apache log4j1 | Java | 867 | Apache License 2.0 | 2009-05-21 | 2025-11-17 | 2023-01-03 |
 | [jsecurity](https://github.com/apache/jsecurity) | Mirror of Apache JSecurity (incubating) | Java | 4 | Apache License 2.0 | 2009-05-21 | 2023-06-23 | 2023-04-14 |
 | [activemq](https://github.com/apache/activemq) | Apache ActiveMQ | Java | 2409 | Apache License 2.0 | 2009-05-21 | 2025-12-23 | 2025-12-19 |
@@ -60,29 +60,29 @@ Statistics Date: 2025-12-30 08:10:23
 | [xmlgraphics-commons](https://github.com/apache/xmlgraphics-commons) | Apache XML Graphics Commons | Java | 20 | Apache License 2.0 | 2009-05-21 | 2025-12-12 | 2025-12-12 |
 | [harmony-classlib](https://github.com/apache/harmony-classlib) | Mirror of Apache Harmony classlib | Java | 6 | Apache License 2.0 | 2009-05-21 | 2022-10-04 | 2015-11-03 |
 | [struts1](https://github.com/apache/struts1) | Mirror of Apache Struts 1 | Java | 32 | - | 2009-05-21 | 2025-11-25 | 2023-12-17 |
-| [commons-io](https://github.com/apache/commons-io) | Apache Commons IO | Java | 1052 | Apache License 2.0 | 2009-05-21 | 2025-12-29 | 2025-12-29 |
+| [commons-io](https://github.com/apache/commons-io) | Apache Commons IO | Java | 1055 | Apache License 2.0 | 2009-05-21 | 2025-12-30 | 2025-12-30 |
 | [httpcomponents-core](https://github.com/apache/httpcomponents-core) | Mirror of Apache HttpCore | Java | 367 | Apache License 2.0 | 2009-05-21 | 2025-12-28 | 2025-12-28 |
-| [maven-doxia-sitetools](https://github.com/apache/maven-doxia-sitetools) | Apache Maven Doxia Sitetools | Java | 9 | - | 2009-05-21 | 2025-12-04 | 2025-12-29 |
+| [maven-doxia-sitetools](https://github.com/apache/maven-doxia-sitetools) | Apache Maven Doxia Sitetools | Java | 9 | - | 2009-05-21 | 2025-12-31 | 2025-12-31 |
 | [struts-sandbox](https://github.com/apache/struts-sandbox) | Mirror of Apache Struts Sandbox | Java | 5 | - | 2009-05-21 | 2025-01-14 | 2022-04-23 |
 | [httpcomponents-client](https://github.com/apache/httpcomponents-client) | Mirror of Apache HttpClient | Java | 1522 | Apache License 2.0 | 2009-05-21 | 2025-12-30 | 2025-12-30 |
 | [jackrabbit](https://github.com/apache/jackrabbit) | Apache Jackrabbit | Java | 357 | Apache License 2.0 | 2009-05-21 | 2025-12-09 | 2025-12-05 |
 | [sanselan](https://github.com/apache/sanselan) | Mirror of Apache Sanselan (incubating) | Java | 36 | Apache License 2.0 | 2009-05-21 | 2025-10-15 | 2023-04-14 |
 | [wicket](https://github.com/apache/wicket) | Apache Wicket - Component-based Java web framework | Java | 778 | Apache License 2.0 | 2009-05-21 | 2025-12-24 | 2025-12-21 |
-| [couchdb](https://github.com/apache/couchdb) | Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability | Erlang | 6764 | Apache License 2.0 | 2009-05-21 | 2025-12-30 | 2025-12-26 |
+| [couchdb](https://github.com/apache/couchdb) | Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability | Erlang | 6764 | Apache License 2.0 | 2009-05-21 | 2025-12-31 | 2025-12-26 |
 | [continuum](https://github.com/apache/continuum) | Mirror of Apache Continuum | Java | 8 | Apache License 2.0 | 2009-05-21 | 2025-12-23 | 2023-08-15 |
 | [maven-ant-tasks](https://github.com/apache/maven-ant-tasks) | Mirror of Apache Maven ant tasks | Java | 6 | - | 2009-05-21 | 2023-07-25 | 2023-04-14 |
 | [maven-plugin-testing](https://github.com/apache/maven-plugin-testing) | Apache Maven Plugin Testing | None | 19 | Apache License 2.0 | 2009-05-21 | 2025-10-28 | 2025-12-28 |
 | [maven-site](https://github.com/apache/maven-site) | Apache Maven site | Java | 115 | - | 2009-05-21 | 2025-12-29 | 2025-12-29 |
 | [maven-sandbox](https://github.com/apache/maven-sandbox) | [deprecated] Mirror of Apache Maven sandbox | Java | 4 | - | 2009-05-21 | 2023-07-25 | 2019-10-18 |
-| [cassandra](https://github.com/apache/cassandra) | Apache Cassandra® | Java | 9552 | Apache License 2.0 | 2009-05-21 | 2025-12-29 | 2025-12-22 |
+| [cassandra](https://github.com/apache/cassandra) | Apache Cassandra® | Java | 9554 | Apache License 2.0 | 2009-05-21 | 2025-12-31 | 2025-12-31 |
 | [maven-pom-retired](https://github.com/apache/maven-pom-retired) | Mirror of Apache Maven pom. Repo retired, see  https://github.com/apache/maven-parent and  https://github.com/apache/maven-apache-parent | Shell | 16 | - | 2009-05-21 | 2024-01-20 | 2019-01-19 |
-| [tika](https://github.com/apache/tika) | The Apache Tika toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF). | Java | 3481 | Apache License 2.0 | 2009-05-21 | 2025-12-29 | 2025-12-30 |
+| [tika](https://github.com/apache/tika) | The Apache Tika toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF). | Java | 3481 | Apache License 2.0 | 2009-05-21 | 2025-12-31 | 2025-12-31 |
 | [cocoon](https://github.com/apache/cocoon) | Mirror of Apache Cocoon | Java | 29 | Apache License 2.0 | 2009-05-21 | 2025-12-16 | 2025-10-31 |
 | [struts-site](https://github.com/apache/struts-site) | Mirror of Apache Struts site | HTML | 65 | - | 2009-05-21 | 2025-12-19 | 2025-12-19 |
 | [directory-server](https://github.com/apache/directory-server) | Apache Directory Server | Java | 175 | Apache License 2.0 | 2009-05-21 | 2025-12-16 | 2025-12-08 |
 | [maven-jxr](https://github.com/apache/maven-jxr) | Apache Maven JXR (Plugin) | Java | 16 | Apache License 2.0 | 2009-05-21 | 2025-12-23 | 2025-12-23 |
 | [chemistry](https://github.com/apache/chemistry) | Mirror of Apache Chemistry (incubating) | Java | 7 | - | 2009-05-21 | 2023-06-23 | 2018-12-10 |
-| [hive](https://github.com/apache/hive) | Apache Hive | Java | 5963 | Apache License 2.0 | 2009-05-21 | 2025-12-30 | 2025-12-30 |
+| [hive](https://github.com/apache/hive) | Apache Hive | Java | 5968 | Apache License 2.0 | 2009-05-21 | 2025-12-31 | 2025-12-30 |
 | [xmlgraphics-batik](https://github.com/apache/xmlgraphics-batik) | Apache XML Graphics Batik | Java | 237 | - | 2009-05-21 | 2025-12-12 | 2025-12-12 |
 | [ode](https://github.com/apache/ode) | Mirror of Apache ODE | Java | 45 | Apache License 2.0 | 2009-05-21 | 2025-08-28 | 2020-01-14 |
 | [roller](https://github.com/apache/roller) | Mirror of Apache Roller | Java | 127 | Apache License 2.0 | 2009-05-21 | 2025-12-30 | 2025-06-29 |
@@ -92,7 +92,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [maven-doxia](https://github.com/apache/maven-doxia) | Apache Maven Doxia base | Java | 30 | - | 2009-05-21 | 2025-12-21 | 2025-12-21 |
 | [qpid](https://github.com/apache/qpid) | Mirror of Apache Qpid | Java | 133 | - | 2009-05-21 | 2025-10-27 | 2018-12-14 |
 | [abdera](https://github.com/apache/abdera) | Mirror of Apache Abdera | Java | 19 | Apache License 2.0 | 2009-05-21 | 2025-05-22 | 2020-11-26 |
-| [maven](https://github.com/apache/maven) | Apache Maven core | Java | 4892 | Apache License 2.0 | 2009-05-21 | 2025-12-29 | 2025-12-29 |
+| [maven](https://github.com/apache/maven) | Apache Maven core | Java | 4893 | Apache License 2.0 | 2009-05-21 | 2025-12-31 | 2025-12-31 |
 | [maven-archetype](https://github.com/apache/maven-archetype) | Apache Maven Archetype (Plugin) | Java | 145 | Apache License 2.0 | 2009-05-21 | 2025-12-25 | 2025-12-25 |
 | [shindig](https://github.com/apache/shindig) | Mirror of Apache Shindig (incubating) | Java | 66 | Apache License 2.0 | 2009-05-21 | 2025-09-02 | 2023-04-14 |
 | [maven-plugin-tools](https://github.com/apache/maven-plugin-tools) | Apache Maven Plugin Tools | Java | 62 | Apache License 2.0 | 2009-05-21 | 2025-12-23 | 2025-12-23 |
@@ -120,13 +120,13 @@ Statistics Date: 2025-12-30 08:10:23
 | [xmlbeans](https://github.com/apache/xmlbeans) | Mirror of Apache XMLBeans | Java | 57 | Apache License 2.0 | 2009-08-06 | 2025-12-18 | 2025-12-18 |
 | [shiro](https://github.com/apache/shiro) | Apache Shiro | Java | 4419 | Apache License 2.0 | 2009-08-29 | 2025-12-26 | 2025-12-29 |
 | [activemq-stomp](https://github.com/apache/activemq-stomp) | Mirror of Apache ActiveMQ STOMP | Ruby | 1 | - | 2009-09-07 | 2024-04-27 | 2017-04-28 |
-| [activemq-cpp](https://github.com/apache/activemq-cpp) | Apache ActiveMQ CPP | C++ | 107 | Apache License 2.0 | 2009-09-07 | 2025-11-29 | 2025-03-06 |
+| [activemq-cpp](https://github.com/apache/activemq-cpp) | Apache ActiveMQ CPP | C++ | 108 | Apache License 2.0 | 2009-09-07 | 2025-12-31 | 2025-03-06 |
 | [activemq-activeio](https://github.com/apache/activemq-activeio) | Mirror of Apache ActiveMQ ActiveIO | Java | 13 | Apache License 2.0 | 2009-09-07 | 2024-04-27 | 2017-04-28 |
 | [activemq-protobuf](https://github.com/apache/activemq-protobuf) | Mirror of Apache ActiveMQ Protobuf | Java | 19 | Apache License 2.0 | 2009-09-07 | 2025-08-27 | 2017-08-23 |
-| [thrift](https://github.com/apache/thrift) | Apache Thrift | C++ | 10869 | Apache License 2.0 | 2009-09-18 | 2025-12-30 | 2025-12-16 |
-| [pdfbox](https://github.com/apache/pdfbox) | Mirror of Apache PDFBox | Java | 2991 | Apache License 2.0 | 2009-09-26 | 2025-12-30 | 2025-12-29 |
+| [thrift](https://github.com/apache/thrift) | Apache Thrift | C++ | 10870 | Apache License 2.0 | 2009-09-18 | 2025-12-31 | 2025-12-16 |
+| [pdfbox](https://github.com/apache/pdfbox) | Mirror of Apache PDFBox | Java | 2992 | Apache License 2.0 | 2009-09-26 | 2025-12-31 | 2025-12-31 |
 | [aries](https://github.com/apache/aries) | Apache Aries | Java | 118 | Apache License 2.0 | 2009-09-30 | 2025-12-29 | 2025-12-29 |
-| [trafficserver](https://github.com/apache/trafficserver) | Apache Traffic Server™ is a fast, scalable and extensible HTTP/1.1 and HTTP/2 compliant caching proxy server. | C++ | 1915 | Apache License 2.0 | 2009-10-31 | 2025-12-29 | 2025-12-29 |
+| [trafficserver](https://github.com/apache/trafficserver) | Apache Traffic Server™ is a fast, scalable and extensible HTTP/1.1 and HTTP/2 compliant caching proxy server. | C++ | 1916 | Apache License 2.0 | 2009-10-31 | 2025-12-30 | 2025-12-29 |
 | [tuscany-sca-1.x](https://github.com/apache/tuscany-sca-1.x) | Mirror of Apache Tuscany SCA 1.x | Java | 2 | - | 2009-11-30 | 2023-06-23 | 2023-10-20 |
 | [tuscany-das](https://github.com/apache/tuscany-das) | Mirror of Apache Tuscany DAS | Java | 1 | - | 2009-11-30 | 2023-07-25 | 2023-12-16 |
 | [tuscany-sdo](https://github.com/apache/tuscany-sdo) | Mirror of Apache Tuscany SDO | Java | 5 | Apache License 2.0 | 2009-11-30 | 2021-12-25 | 2023-12-16 |
@@ -134,11 +134,11 @@ Statistics Date: 2025-12-30 08:10:23
 | [libcloud](https://github.com/apache/libcloud) | Apache Libcloud is a Python library which hides differences between different cloud provider APIs and allows you to manage different cloud resources through a unified and easy to use API. | Python | 2099 | Apache License 2.0 | 2009-12-11 | 2025-12-27 | 2025-05-19 |
 | [httpd-docs-build](https://github.com/apache/httpd-docs-build) | Mirror of Apache HTTPD Docs Build | Perl | 5 | - | 2009-12-11 | 2025-08-25 | 2019-02-16 |
 | [subversion](https://github.com/apache/subversion) | Mirror of Apache Subversion | C | 619 | Apache License 2.0 | 2009-12-31 | 2025-12-30 | 2025-12-30 |
-| [grails-core](https://github.com/apache/grails-core) | Grails - the Web Application Framework | Groovy | 2863 | Apache License 2.0 | 2010-02-10 | 2025-12-29 | 2025-12-29 |
+| [grails-core](https://github.com/apache/grails-core) | Grails - the Web Application Framework | Groovy | 2863 | Apache License 2.0 | 2010-02-10 | 2025-12-30 | 2025-12-30 |
 | [grails-doc](https://github.com/apache/grails-doc) | Documentation Project For The Grails Web Application Framework | None | 203 | - | 2010-02-10 | 2025-10-10 | 2025-11-05 |
 | [grails-spring-security](https://github.com/apache/grails-spring-security) | Grails Spring Security Plugins | Groovy | 269 | Apache License 2.0 | 2010-03-22 | 2025-12-14 | 2025-12-14 |
 | [tuscany-sca-cpp](https://github.com/apache/tuscany-sca-cpp) | Mirror of Tuscany SCA C++ | C++ | 7 | Apache License 2.0 | 2010-04-22 | 2023-10-08 | 2017-04-28 |
-| [jmeter](https://github.com/apache/jmeter) | Apache JMeter open-source load testing tool for analyzing and measuring the performance of a variety of services | Java | 9158 | Apache License 2.0 | 2010-05-26 | 2025-12-30 | 2025-12-01 |
+| [jmeter](https://github.com/apache/jmeter) | Apache JMeter open-source load testing tool for analyzing and measuring the performance of a variety of services | Java | 9159 | Apache License 2.0 | 2010-05-26 | 2025-12-30 | 2025-12-01 |
 | [log4j-component](https://github.com/apache/log4j-component) | Mirror of Apache log4j component | CSS | 5 | Apache License 2.0 | 2010-05-26 | 2023-09-13 | 2017-04-28 |
 | [httpd-flood](https://github.com/apache/httpd-flood) | Mirror of Apache Flood | C | 9 | Apache License 2.0 | 2010-05-26 | 2025-11-22 | 2017-04-28 |
 | [maven-2](https://github.com/apache/maven-2) | Mirror of Apache Maven 2 | Java | 13 | - | 2010-05-26 | 2023-07-25 | 2022-07-01 |
@@ -150,9 +150,9 @@ Statistics Date: 2025-12-30 08:10:23
 | [harmony](https://github.com/apache/harmony) | Mirror of Apache Harmony | Java | 91 | Apache License 2.0 | 2010-05-26 | 2025-12-23 | 2017-04-28 |
 | [log4j-extras](https://github.com/apache/log4j-extras) | Mirror of Apache log4j extras | Java | 15 | Apache License 2.0 | 2010-05-26 | 2023-09-13 | 2017-04-28 |
 | [log4j-receivers](https://github.com/apache/log4j-receivers) | Mirror of Apache log4j receivers | CSS | 4 | Apache License 2.0 | 2010-05-26 | 2023-09-13 | 2017-04-28 |
-| [pouchdb](https://github.com/apache/pouchdb) | :kangaroo: - PouchDB is a pocket-sized database. | JavaScript | 17502 | Apache License 2.0 | 2010-06-10 | 2025-12-26 | 2025-12-23 |
+| [pouchdb](https://github.com/apache/pouchdb) | :kangaroo: - PouchDB is a pocket-sized database. | JavaScript | 17504 | Apache License 2.0 | 2010-06-10 | 2025-12-31 | 2025-12-23 |
 | [deltacloud](https://github.com/apache/deltacloud) | Apache DeltaCloud (retired) | Ruby | 72 | Apache License 2.0 | 2010-07-29 | 2023-11-20 | 2017-04-28 |
-| [groovy-geb](https://github.com/apache/groovy-geb) | Apache Geb: Very Groovy Browser Automation | Groovy | 1165 | Apache License 2.0 | 2010-08-03 | 2025-12-29 | 2025-12-29 |
+| [groovy-geb](https://github.com/apache/groovy-geb) | Apache Geb: Very Groovy Browser Automation | Groovy | 1165 | Apache License 2.0 | 2010-08-03 | 2025-12-29 | 2025-12-30 |
 | [tomcat55](https://github.com/apache/tomcat55) | Mirror of Apache Tomcat 5.5.x | Java | 11 | Apache License 2.0 | 2010-08-12 | 2024-07-17 | 2012-10-07 |
 | [photark](https://github.com/apache/photark) | Mirror of Apache Photark (incubating) | HTML | 10 | Apache License 2.0 | 2010-08-12 | 2024-06-06 | 2025-09-09 |
 | [tomcat-native](https://github.com/apache/tomcat-native) | Mirror of Apache Tomcat Native | C | 86 | Apache License 2.0 | 2010-08-12 | 2025-12-19 | 2025-12-19 |
@@ -160,7 +160,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [tomcat-connectors](https://github.com/apache/tomcat-connectors) | Apache Tomcat Connectors | C | 19 | - | 2010-08-12 | 2025-12-05 | 2025-12-05 |
 | [nuvem](https://github.com/apache/nuvem) | Mirror of Apache Nuvem | Java | 2 | Apache License 2.0 | 2010-08-12 | 2019-07-11 | 2023-04-14 |
 | [whirr](https://github.com/apache/whirr) | Mirror of Apache Whirr | Java | 94 | Apache License 2.0 | 2010-08-12 | 2025-08-17 | 2017-04-28 |
-| [maven-surefire](https://github.com/apache/maven-surefire) | Apache Maven Surefire | Java | 453 | Apache License 2.0 | 2010-08-12 | 2025-12-24 | 2025-12-29 |
+| [maven-surefire](https://github.com/apache/maven-surefire) | Apache Maven Surefire | Java | 453 | Apache License 2.0 | 2010-08-12 | 2025-12-24 | 2025-12-30 |
 | [hama](https://github.com/apache/hama) | Mirror of Apache Hama | Java | 132 | Apache License 2.0 | 2010-08-25 | 2025-10-16 | 2020-02-11 |
 | [mod_perl](https://github.com/apache/mod_perl) | Mirror of Apache mod_perl | Perl | 36 | Apache License 2.0 | 2010-09-04 | 2025-08-25 | 2024-02-06 |
 | [apreq](https://github.com/apache/apreq) | Mirror of Apache HTTP Request Library | C | 11 | Apache License 2.0 | 2010-09-04 | 2025-12-29 | 2024-02-19 |
@@ -188,8 +188,8 @@ Statistics Date: 2025-12-30 08:10:23
 | [clerezza](https://github.com/apache/clerezza) | Mirror of Apache Clerezza | Java | 38 | Apache License 2.0 | 2011-02-12 | 2025-08-13 | 2022-05-19 |
 | [karaf-site](https://github.com/apache/karaf-site) | Mirror of Apache karaf Site | HTML | 6 | - | 2011-02-14 | 2025-12-15 | 2025-12-15 |
 | [incubator-kie-optaplanner](https://github.com/apache/incubator-kie-optaplanner) | AI constraint solver in Java to optimize the vehicle routing problem, employee rostering, task assignment, maintenance scheduling, conference scheduling and other planning problems. | Java | 3455 | Apache License 2.0 | 2011-02-15 | 2025-12-29 | 2025-12-28 |
-| [incubator-kie-drools](https://github.com/apache/incubator-kie-drools) | Drools is a rule engine, DMN engine and complex event processing (CEP) engine for Java. | Java | 6198 | Apache License 2.0 | 2011-02-18 | 2025-12-26 | 2025-12-28 |
-| [cassandra-ccm](https://github.com/apache/cassandra-ccm) | Apache Cassandra® Cluster Manager (CCM) – easily create and destroy clusters on localhost | Python | 1232 | Apache License 2.0 | 2011-03-01 | 2025-12-28 | 2025-12-19 |
+| [incubator-kie-drools](https://github.com/apache/incubator-kie-drools) | Drools is a rule engine, DMN engine and complex event processing (CEP) engine for Java. | Java | 6201 | Apache License 2.0 | 2011-02-18 | 2025-12-31 | 2025-12-28 |
+| [cassandra-ccm](https://github.com/apache/cassandra-ccm) | Apache Cassandra® Cluster Manager (CCM) – easily create and destroy clusters on localhost | Python | 1232 | Apache License 2.0 | 2011-03-01 | 2025-12-30 | 2025-12-30 |
 | [zetacomponents](https://github.com/apache/zetacomponents) | Mirror of Apache Zeta Components | PHP | 47 | - | 2011-03-06 | 2025-01-08 | 2017-04-28 |
 | [mrunit](https://github.com/apache/mrunit) | Mirror of Apache MRUnit | Java | 38 | Apache License 2.0 | 2011-03-26 | 2023-03-05 | 2018-12-10 |
 | [bookkeeper](https://github.com/apache/bookkeeper) | Apache BookKeeper - a scalable, fault tolerant and low latency storage service optimized for append-only workloads | Java | 1981 | Apache License 2.0 | 2011-04-06 | 2025-12-27 | 2025-12-05 |
@@ -211,7 +211,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [sandesha](https://github.com/apache/sandesha) | Mirror of Apache Sandesha | Java | 1 | Apache License 2.0 | 2011-08-13 | 2019-07-11 | 2023-11-20 |
 | [rampart](https://github.com/apache/rampart) | Mirror of Apache Rampart | Java | 1 | Apache License 2.0 | 2011-08-14 | 2023-06-23 | 2023-04-14 |
 | [npanday-its](https://github.com/apache/npanday-its) | Mirror of Apache NPanday ITs | C# | 1 | - | 2011-08-15 | 2023-07-25 | 2022-07-01 |
-| [kafka](https://github.com/apache/kafka) | Mirror of Apache Kafka | Java | 31607 | Apache License 2.0 | 2011-08-15 | 2025-12-30 | 2025-12-29 |
+| [kafka](https://github.com/apache/kafka) | Mirror of Apache Kafka | Java | 31622 | Apache License 2.0 | 2011-08-15 | 2025-12-31 | 2025-12-30 |
 | [savan](https://github.com/apache/savan) | Mirror of Apache Savan | Java | 5 | - | 2011-08-15 | 2022-06-28 | 2023-11-20 |
 | [pivot](https://github.com/apache/pivot) | Mirror of Apache Pivot | Java | 43 | Apache License 2.0 | 2011-08-18 | 2025-08-06 | 2019-08-14 |
 | [giraph](https://github.com/apache/giraph) | Mirror of Apache Giraph | Java | 621 | Apache License 2.0 | 2011-08-28 | 2025-12-10 | 2023-04-14 |
@@ -219,10 +219,10 @@ Statistics Date: 2025-12-30 08:10:23
 | [oozie](https://github.com/apache/oozie) | Mirror of Apache Oozie | Java | 727 | Apache License 2.0 | 2011-09-14 | 2025-12-08 | 2025-01-27 |
 | [ambari](https://github.com/apache/ambari) | Apache Ambari simplifies provisioning, managing, and monitoring of Apache Hadoop clusters. | Java | 2278 | Apache License 2.0 | 2011-09-23 | 2025-12-26 | 2025-12-19 |
 | [tomcat](https://github.com/apache/tomcat) | Apache Tomcat | Java | 8044 | Apache License 2.0 | 2011-10-01 | 2025-12-29 | 2025-12-29 |
-| [accumulo](https://github.com/apache/accumulo) | Apache Accumulo | Java | 1125 | Apache License 2.0 | 2011-10-06 | 2025-12-23 | 2025-12-23 |
+| [accumulo](https://github.com/apache/accumulo) | Apache Accumulo | Java | 1125 | Apache License 2.0 | 2011-10-06 | 2025-12-30 | 2025-12-30 |
 | [commons-fileupload](https://github.com/apache/commons-fileupload) | Apache Commons FileUpload is a robust, high-performance, file upload capability to your servlets and web applications | Java | 255 | Apache License 2.0 | 2011-10-15 | 2025-12-30 | 2025-12-29 |
 | [httpasyncclient](https://github.com/apache/httpasyncclient) | Mirror of Apache HttpComponents HttpAsyncClient | Java | 84 | - | 2011-10-15 | 2025-08-13 | 2019-08-23 |
-| [commons-compress](https://github.com/apache/commons-compress) | Apache Commons Compress | Java | 386 | Apache License 2.0 | 2011-10-15 | 2025-12-29 | 2025-12-29 |
+| [commons-compress](https://github.com/apache/commons-compress) | Apache Commons Compress | Java | 387 | Apache License 2.0 | 2011-10-15 | 2025-12-30 | 2025-12-29 |
 | [commons-exec](https://github.com/apache/commons-exec) | Apache Commons Exec | Java | 156 | Apache License 2.0 | 2011-10-15 | 2025-12-29 | 2025-12-29 |
 | [directmemory](https://github.com/apache/directmemory) | Mirror of Apache DirectMemory | Java | 53 | Apache License 2.0 | 2011-10-15 | 2025-08-24 | 2023-12-16 |
 | [tiles](https://github.com/apache/tiles) | Mirror of Apache Tiles | Java | 106 | Apache License 2.0 | 2011-10-25 | 2025-08-13 | 2023-12-16 |
@@ -253,7 +253,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [grails-quartz](https://github.com/apache/grails-quartz) | This project provides integration of the Quartz scheduling framework into the Grails Framework | Groovy | 81 | Apache License 2.0 | 2012-05-24 | 2025-10-20 | 2025-10-20 |
 | [karaf-cave](https://github.com/apache/karaf-cave) | Mirror of Apache Karaf Cave | Java | 19 | Apache License 2.0 | 2012-06-04 | 2023-07-25 | 2023-04-14 |
 | [any23](https://github.com/apache/any23) | Apache Anything To Triples (Any23) is a library, a web service and a command line tool that extracts structured data in RDF format from a variety of Web documents. | HTML | 98 | Apache License 2.0 | 2012-06-04 | 2025-08-13 | 2023-06-20 |
-| [dubbo](https://github.com/apache/dubbo) | The java implementation of Apache Dubbo. An RPC and microservice framework. | Java | 41685 | Apache License 2.0 | 2012-06-19 | 2025-12-30 | 2025-12-30 |
+| [dubbo](https://github.com/apache/dubbo) | The java implementation of Apache Dubbo. An RPC and microservice framework. | Java | 41687 | Apache License 2.0 | 2012-06-19 | 2025-12-31 | 2025-12-31 |
 | [manifoldcf](https://github.com/apache/manifoldcf) | Mirror of Apache ManifoldCF | Java | 80 | Apache License 2.0 | 2012-06-22 | 2025-09-30 | 2025-10-08 |
 | [incubator-pagespeed-ngx](https://github.com/apache/incubator-pagespeed-ngx) | Automatic PageSpeed optimization module for Nginx | C++ | 4351 | Apache License 2.0 | 2012-06-23 | 2025-12-16 | 2023-04-21 |
 | [tashi](https://github.com/apache/tashi) | Mirror of Apache Tashi | Python | 10 | Apache License 2.0 | 2012-07-11 | 2025-12-12 | 2018-12-10 |
@@ -269,10 +269,10 @@ Statistics Date: 2025-12-30 08:10:23
 | [flex-utilities](https://github.com/apache/flex-utilities) | Mirror of Apache Flex utilities | HTML | 79 | - | 2012-08-30 | 2025-09-04 | 2025-09-04 |
 | [flex-sdk](https://github.com/apache/flex-sdk) | Mirror of Apache Flex SDK | ActionScript | 363 | Apache License 2.0 | 2012-08-30 | 2025-12-07 | 2024-03-04 |
 | [drill](https://github.com/apache/drill) | Apache Drill is a distributed MPP query layer for self describing data | Java | 2002 | Apache License 2.0 | 2012-09-05 | 2025-12-23 | 2025-11-06 |
-| [creadur-rat](https://github.com/apache/creadur-rat) | Apache Creadur RAT - Release Audit Tool | Java | 33 | Apache License 2.0 | 2012-10-11 | 2025-12-26 | 2025-12-28 |
+| [creadur-rat](https://github.com/apache/creadur-rat) | Apache Creadur RAT - Release Audit Tool | Java | 33 | Apache License 2.0 | 2012-10-11 | 2025-12-26 | 2025-12-30 |
 | [directmemory-lightning](https://github.com/apache/directmemory-lightning) | Mirror of Apache Directmemory - Lightning | Java | 1 | - | 2012-10-16 | 2021-11-10 | 2023-07-07 |
 | [crunch](https://github.com/apache/crunch) | Mirror of Apache Crunch (Incubating) | Java | 109 | Apache License 2.0 | 2012-10-19 | 2025-12-25 | 2021-02-02 |
-| [druid](https://github.com/apache/druid) | Apache Druid: a high performance real-time analytics database. | Java | 13909 | Apache License 2.0 | 2012-10-23 | 2025-12-30 | 2025-12-29 |
+| [druid](https://github.com/apache/druid) | Apache Druid: a high performance real-time analytics database. | Java | 13909 | Apache License 2.0 | 2012-10-23 | 2025-12-31 | 2025-12-31 |
 | [cassandra-java-driver](https://github.com/apache/cassandra-java-driver) | Java Driver for Apache Cassandra® | Java | 1378 | Apache License 2.0 | 2012-11-19 | 2025-12-23 | 2025-12-23 |
 | [cordova-coho](https://github.com/apache/cordova-coho) | Apache Cordova coho | JavaScript | 31 | Apache License 2.0 | 2012-11-28 | 2025-11-19 | 2025-11-19 |
 | [cordova-weinre](https://github.com/apache/cordova-weinre) | Mirror of Apache Weinre | JavaScript | 534 | Apache License 2.0 | 2012-11-28 | 2025-08-27 | 2018-07-07 |
@@ -292,25 +292,25 @@ Statistics Date: 2025-12-30 08:10:23
 | [cordova-labs](https://github.com/apache/cordova-labs) | Apache Cordova labs | None | 49 | - | 2012-11-28 | 2023-09-08 | 2018-11-27 |
 | [cordova-app-hello-world](https://github.com/apache/cordova-app-hello-world) | Apache Cordova Template App | CSS | 200 | Apache License 2.0 | 2012-11-28 | 2025-11-08 | 2025-08-29 |
 | [causeway](https://github.com/apache/causeway) | Use Apache Causeway™ to rapidly develop domain-driven apps or modular monoliths in Java, on top of the Spring Boot platform. Write your business logic in entities, domain services or view models, and the framework dynamically generates a representation of that domain model as a webapp, GraphQL or RESTful API. For prototyping or production. | Java | 882 | Apache License 2.0 | 2012-11-30 | 2025-12-22 | 2025-12-29 |
-| [logging-log4php](https://github.com/apache/logging-log4php) | Mirror of Apache log4php | PHP | 101 | Apache License 2.0 | 2012-12-08 | 2025-12-16 | 2020-12-19 |
+| [logging-log4php](https://github.com/apache/logging-log4php) | Mirror of Apache log4php | PHP | 102 | Apache License 2.0 | 2012-12-08 | 2025-12-30 | 2020-12-19 |
 | [commons-net](https://github.com/apache/commons-net) | Apache Commons Net | Java | 284 | Apache License 2.0 | 2012-12-11 | 2025-12-29 | 2025-12-29 |
 | [cordova-blackberry](https://github.com/apache/cordova-blackberry) | [DEPRECATED] Apache Cordova blackberry | JavaScript | 30 | Apache License 2.0 | 2012-12-12 | 2025-08-27 | 2019-04-16 |
 | [cordova-osx](https://github.com/apache/cordova-osx) | [DEPRECATED] Apache Cordova OSX | Objective-C | 235 | Apache License 2.0 | 2012-12-12 | 2024-07-12 | 2022-03-21 |
 | [cordova-cli](https://github.com/apache/cordova-cli) | Apache Cordova CLI | JavaScript | 962 | Apache License 2.0 | 2012-12-12 | 2025-12-18 | 2025-12-16 |
-| [jena](https://github.com/apache/jena) | Apache Jena, A free and open source Java framework for building Semantic Web and Linked Data applications. | Java | 1262 | Apache License 2.0 | 2013-01-04 | 2025-12-26 | 2025-12-24 |
+| [jena](https://github.com/apache/jena) | Apache Jena, A free and open source Java framework for building Semantic Web and Linked Data applications. | Java | 1262 | Apache License 2.0 | 2013-01-04 | 2025-12-26 | 2025-12-31 |
 | [incubator-retired-hdt](https://github.com/apache/incubator-retired-hdt) | Mirror of Apache HDT (Incubating) | Java | 7 | - | 2013-01-05 | 2023-06-23 | 2018-12-10 |
 | [oodt](https://github.com/apache/oodt) | Mirror of Apache OODT | Java | 65 | Apache License 2.0 | 2013-01-21 | 2025-08-21 | 2023-04-17 |
 | [tomee](https://github.com/apache/tomee) | Apache TomEE | Java | 467 | Apache License 2.0 | 2013-01-22 | 2025-12-22 | 2025-12-29 |
 | [openejb](https://github.com/apache/openejb) | Mirror of Apache OpenEJB | Java | 12 | - | 2013-01-23 | 2022-11-13 | 2023-07-07 |
 | [tomee-site](https://github.com/apache/tomee-site) | Mirror of Apache TomEE - Site | HTML | 1 | - | 2013-01-23 | 2024-06-06 | 2023-07-07 |
-| [predictionio](https://github.com/apache/predictionio) | PredictionIO, a machine learning server for developers and ML engineers. | Scala | 12535 | Apache License 2.0 | 2013-01-25 | 2025-12-23 | 2021-01-09 |
+| [predictionio](https://github.com/apache/predictionio) | PredictionIO, a machine learning server for developers and ML engineers. | Scala | 12535 | Apache License 2.0 | 2013-01-25 | 2025-12-31 | 2021-01-09 |
 | [predictionio-sdk-ruby](https://github.com/apache/predictionio-sdk-ruby) | PredictionIO Ruby SDK | Ruby | 191 | Apache License 2.0 | 2013-02-01 | 2025-07-27 | 2018-09-20 |
 | [predictionio-sdk-java](https://github.com/apache/predictionio-sdk-java) | PredictionIO Java SDK | Java | 107 | Apache License 2.0 | 2013-02-06 | 2025-11-27 | 2018-09-13 |
 | [predictionio-sdk-python](https://github.com/apache/predictionio-sdk-python) | PredictionIO Python SDK | Python | 196 | Apache License 2.0 | 2013-02-06 | 2025-07-18 | 2018-05-06 |
 | [commons-configuration](https://github.com/apache/commons-configuration) | Apache Commons Configuration | Java | 211 | Apache License 2.0 | 2013-02-26 | 2025-12-29 | 2025-12-29 |
 | [predictionio-sdk-php](https://github.com/apache/predictionio-sdk-php) | PredictionIO PHP SDK | PHP | 267 | Apache License 2.0 | 2013-03-12 | 2024-11-27 | 2021-01-27 |
 | [incubator-pagespeed-cpanel](https://github.com/apache/incubator-pagespeed-cpanel) | mod_pagespeed module for CPanel WHM | Perl | 147 | Other | 2013-03-13 | 2025-12-29 | 2023-04-21 |
-| [echarts](https://github.com/apache/echarts) | Apache ECharts is a powerful, interactive charting and data visualization library for browser | TypeScript | 65327 | Apache License 2.0 | 2013-04-03 | 2025-12-30 | 2025-12-22 |
+| [echarts](https://github.com/apache/echarts) | Apache ECharts is a powerful, interactive charting and data visualization library for browser | TypeScript | 65334 | Apache License 2.0 | 2013-04-03 | 2025-12-31 | 2025-12-22 |
 | [bloodhound](https://github.com/apache/bloodhound) | Mirror of Apache Bloodhound | Python | 147 | Apache License 2.0 | 2013-04-08 | 2024-10-12 | 2023-04-15 |
 | [cordova-app-harness](https://github.com/apache/cordova-app-harness) | [DEPRECATED] Apache Cordova app harness | JavaScript | 53 | Apache License 2.0 | 2013-04-08 | 2024-10-07 | 2019-04-16 |
 | [cordova-firefoxos](https://github.com/apache/cordova-firefoxos) | [DEPRECATED] Apache Cordova firefoxos | JavaScript | 45 | Apache License 2.0 | 2013-04-08 | 2023-10-19 | 2019-04-16 |
@@ -318,7 +318,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [incubator-retired-ripple](https://github.com/apache/incubator-retired-ripple) | Mirror of Apache Ripple | JavaScript | 171 | Apache License 2.0 | 2013-04-08 | 2023-09-08 | 2017-04-28 |
 | [tez](https://github.com/apache/tez) | Apache Tez | Java | 509 | Apache License 2.0 | 2013-04-08 | 2025-12-25 | 2025-12-02 |
 | [stormcrawler](https://github.com/apache/stormcrawler) | A scalable, mature and versatile web crawler based on Apache Storm | Java | 953 | Apache License 2.0 | 2013-04-12 | 2025-12-26 | 2025-12-29 |
-| [cloudstack](https://github.com/apache/cloudstack) | Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform | Java | 2752 | Apache License 2.0 | 2013-04-29 | 2025-12-29 | 2025-12-29 |
+| [cloudstack](https://github.com/apache/cloudstack) | Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform | Java | 2752 | Apache License 2.0 | 2013-04-29 | 2025-12-30 | 2025-12-31 |
 | [creadur-tentacles](https://github.com/apache/creadur-tentacles) | Apache Creadur Tentacles | Java | 3 | Apache License 2.0 | 2013-04-29 | 2025-12-18 | 2025-12-18 |
 | [creadur-whisker](https://github.com/apache/creadur-whisker) | Apache Creadur Whisker | Java | 7 | Apache License 2.0 | 2013-04-29 | 2025-12-17 | 2025-12-17 |
 | [ode-jacob](https://github.com/apache/ode-jacob) | Mirror of Apache Ode Jacob | Java | 11 | - | 2013-04-29 | 2023-01-28 | 2018-03-08 |
@@ -327,12 +327,12 @@ Statistics Date: 2025-12-30 08:10:23
 | [flex-flexunit](https://github.com/apache/flex-flexunit) | Mirror of Apache Flex Flexunit | ActionScript | 17 | Apache License 2.0 | 2013-05-16 | 2024-06-06 | 2024-03-04 |
 | [oltu](https://github.com/apache/oltu) | Mirror of Apache Oltu | Java | 166 | Apache License 2.0 | 2013-05-28 | 2025-12-04 | 2023-04-15 |
 | [deltaspike](https://github.com/apache/deltaspike) | Mirror of Apache Deltaspike | Java | 152 | Apache License 2.0 | 2013-06-04 | 2025-12-16 | 2025-12-16 |
-| [sis](https://github.com/apache/sis) | Java language library for developing geospatial applications following OGC/ISO standards. | Java | 114 | Apache License 2.0 | 2013-06-11 | 2025-12-12 | 2025-12-29 |
-| [commons-beanutils](https://github.com/apache/commons-beanutils) | Apache Commons Beanutils | Java | 311 | Apache License 2.0 | 2013-06-12 | 2025-12-29 | 2025-12-29 |
+| [sis](https://github.com/apache/sis) | Java language library for developing geospatial applications following OGC/ISO standards. | Java | 114 | Apache License 2.0 | 2013-06-11 | 2025-12-30 | 2025-12-30 |
+| [commons-beanutils](https://github.com/apache/commons-beanutils) | Apache Commons Beanutils | Java | 311 | Apache License 2.0 | 2013-06-12 | 2025-12-29 | 2025-12-30 |
 | [commons-csv](https://github.com/apache/commons-csv) | Apache Commons CSV | Java | 403 | Apache License 2.0 | 2013-06-12 | 2025-12-29 | 2025-12-29 |
 | [incubator-retired-provisionr](https://github.com/apache/incubator-retired-provisionr) | Mirror of Apache Provisionr (Incubating) | Java | 5 | Apache License 2.0 | 2013-06-12 | 2023-01-28 | 2017-04-28 |
 | [incubator-tez](https://github.com/apache/incubator-tez) | Mirror of Apache Tez (Incubating) | Java | 60 | Apache License 2.0 | 2013-06-12 | 2025-11-12 | 2023-06-15 |
-| [logging-log4j2](https://github.com/apache/logging-log4j2) | Apache Log4j is a versatile, feature-rich, efficient logging API and backend for Java. | Java | 3571 | Apache License 2.0 | 2013-06-12 | 2025-12-30 | 2025-12-29 |
+| [logging-log4j2](https://github.com/apache/logging-log4j2) | Apache Log4j is a versatile, feature-rich, efficient logging API and backend for Java. | Java | 3571 | Apache License 2.0 | 2013-06-12 | 2025-12-30 | 2025-12-30 |
 | [accumulo-fluo](https://github.com/apache/accumulo-fluo) | Apache Fluo | Java | 194 | Apache License 2.0 | 2013-06-19 | 2025-12-25 | 2025-09-24 |
 | [cordova-plugin-battery-status](https://github.com/apache/cordova-plugin-battery-status) | Apache Cordova Battery Status Plugin | JavaScript | 104 | Apache License 2.0 | 2013-06-22 | 2025-11-16 | 2024-10-26 |
 | [cordova-plugin-camera](https://github.com/apache/cordova-plugin-camera) | Apache Cordova Plugin camera | Objective-C | 971 | Apache License 2.0 | 2013-06-22 | 2025-12-26 | 2025-12-29 |
@@ -354,11 +354,11 @@ Statistics Date: 2025-12-30 08:10:23
 | [cordova-plugin-vibration](https://github.com/apache/cordova-plugin-vibration) | Apache Cordova Vibration Plugin | JavaScript | 128 | Apache License 2.0 | 2013-06-22 | 2025-09-18 | 2025-11-21 |
 | [flex-examples](https://github.com/apache/flex-examples) | Mirror of Apache Flex Examples | ActionScript | 11 | - | 2013-06-26 | 2024-06-06 | 2018-11-20 |
 | [devicemap-browsermap](https://github.com/apache/devicemap-browsermap) | Mirror of Apache Devicemap Browsermap | JavaScript | 9 | Apache License 2.0 | 2013-07-06 | 2023-07-26 | 2017-04-28 |
-| [commons-pool](https://github.com/apache/commons-pool) | Apache Commons Pool | Java | 544 | Apache License 2.0 | 2013-07-08 | 2025-12-29 | 2025-12-29 |
+| [commons-pool](https://github.com/apache/commons-pool) | Apache Commons Pool | Java | 544 | Apache License 2.0 | 2013-07-08 | 2025-12-30 | 2025-12-30 |
 | [cassandra-python-driver](https://github.com/apache/cassandra-python-driver) | Python Driver for Apache Cassandra® | Python | 1422 | Apache License 2.0 | 2013-07-08 | 2025-12-29 | 2025-12-22 |
 | [commons-dbcp](https://github.com/apache/commons-dbcp) | Apache Commons DBCP | Java | 360 | Apache License 2.0 | 2013-07-10 | 2025-12-29 | 2025-12-29 |
 | [commons-jcs](https://github.com/apache/commons-jcs) | Apache Commons JCS | Java | 103 | Apache License 2.0 | 2013-07-10 | 2025-12-29 | 2025-12-29 |
-| [commons-jelly](https://github.com/apache/commons-jelly) | Apache Commons Jelly | Java | 19 | Apache License 2.0 | 2013-07-10 | 2025-12-29 | 2025-12-29 |
+| [commons-jelly](https://github.com/apache/commons-jelly) | Apache Commons Jelly | Java | 19 | Apache License 2.0 | 2013-07-10 | 2025-12-30 | 2025-12-30 |
 | [commons-jexl](https://github.com/apache/commons-jexl) | Apache Commons JEXL | Java | 230 | Apache License 2.0 | 2013-07-10 | 2025-12-29 | 2025-12-29 |
 | [commons-jxpath](https://github.com/apache/commons-jxpath) | Apache Commons JXPath | Java | 36 | Apache License 2.0 | 2013-07-10 | 2025-12-29 | 2025-12-29 |
 | [commons-ognl](https://github.com/apache/commons-ognl) | Apache Commons OGNL (Dormant) | Java | 84 | Apache License 2.0 | 2013-07-10 | 2025-12-14 | 2025-12-13 |
@@ -372,7 +372,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [commons-daemon](https://github.com/apache/commons-daemon) | Apache Commons Daemon | C | 103 | Apache License 2.0 | 2013-07-12 | 2025-12-29 | 2025-12-29 |
 | [commons-dbutils](https://github.com/apache/commons-dbutils) | Apache Commons DbUtils | Java | 387 | Apache License 2.0 | 2013-07-12 | 2025-12-29 | 2025-12-29 |
 | [commons-digester](https://github.com/apache/commons-digester) | Apache Commons Digester | Java | 57 | Apache License 2.0 | 2013-07-12 | 2025-12-29 | 2025-12-29 |
-| [commons-bcel](https://github.com/apache/commons-bcel) | Apache Commons BCEL | Java | 264 | Apache License 2.0 | 2013-07-13 | 2025-12-29 | 2025-12-29 |
+| [commons-bcel](https://github.com/apache/commons-bcel) | Apache Commons BCEL | Java | 264 | Apache License 2.0 | 2013-07-13 | 2025-12-30 | 2025-12-30 |
 | [commons-vfs](https://github.com/apache/commons-vfs) | Apache Commons VFS | Java | 246 | Apache License 2.0 | 2013-07-13 | 2025-12-29 | 2025-12-29 |
 | [mesos](https://github.com/apache/mesos) | Apache Mesos | C++ | 5357 | Apache License 2.0 | 2013-07-17 | 2025-12-29 | 2024-08-23 |
 | [falcon](https://github.com/apache/falcon) | Mirror of Apache Falcon | Java | 104 | Apache License 2.0 | 2013-07-20 | 2025-08-13 | 2019-03-07 |
@@ -398,11 +398,11 @@ Statistics Date: 2025-12-30 08:10:23
 | [cordova-plugins](https://github.com/apache/cordova-plugins) | Apache Cordova | None | 247 | - | 2013-11-05 | 2025-08-27 | 2020-04-22 |
 | [aurora](https://github.com/apache/aurora) | Apache Aurora - A Mesos framework for long-running services, cron jobs, and ad-hoc jobs | Java | 635 | Apache License 2.0 | 2013-11-05 | 2025-12-30 | 2020-02-23 |
 | [incubator-batchee](https://github.com/apache/incubator-batchee) | Mirror of Apache BatchEE | Java | 15 | Apache License 2.0 | 2013-11-05 | 2025-04-14 | 2023-05-22 |
-| [storm](https://github.com/apache/storm) | Apache Storm | Java | 6671 | Apache License 2.0 | 2013-11-05 | 2025-12-30 | 2025-12-26 |
+| [storm](https://github.com/apache/storm) | Apache Storm | Java | 6671 | Apache License 2.0 | 2013-11-05 | 2025-12-30 | 2025-12-31 |
 | [usergrid](https://github.com/apache/usergrid) | Mirror of Apache Usergrid | Java | 993 | Other | 2013-11-05 | 2025-11-29 | 2025-06-27 |
 | [click](https://github.com/apache/click) | Mirror of Apache Click | Java | 15 | Apache License 2.0 | 2013-11-08 | 2025-08-13 | 2018-12-10 |
 | [openoffice](https://github.com/apache/openoffice) | Apache OpenOffice | C++ | 1135 | Apache License 2.0 | 2013-11-13 | 2025-12-30 | 2025-12-30 |
-| [velocity-engine](https://github.com/apache/velocity-engine) | Mirror of Apache Velocity Engine | Java | 400 | Apache License 2.0 | 2013-11-22 | 2025-12-24 | 2025-12-08 |
+| [velocity-engine](https://github.com/apache/velocity-engine) | Mirror of Apache Velocity Engine | Java | 402 | Apache License 2.0 | 2013-11-22 | 2025-12-31 | 2025-12-08 |
 | [velocity-tools](https://github.com/apache/velocity-tools) | Mirror of Apache Velocity Tools | Java | 51 | Apache License 2.0 | 2013-11-22 | 2025-11-27 | 2025-11-27 |
 | [cordova-ubuntu](https://github.com/apache/cordova-ubuntu) | [DEPRECATED] Apache Cordova | C++ | 25 | Apache License 2.0 | 2013-11-27 | 2023-06-23 | 2019-04-16 |
 | [uima-uimaj](https://github.com/apache/uima-uimaj) | Apache UIMA Java SDK | Java | 66 | Apache License 2.0 | 2013-11-29 | 2025-10-01 | 2025-10-14 |
@@ -420,9 +420,9 @@ Statistics Date: 2025-12-30 08:10:23
 | [river-container](https://github.com/apache/river-container) | Mirror of Apache River | Java | 6 | Apache License 2.0 | 2014-01-06 | 2025-09-28 | 2017-04-28 |
 | [jclouds](https://github.com/apache/jclouds) | The Java Multi-Cloud Toolkit | Java | 211 | - | 2014-01-07 | 2025-11-26 | 2025-04-28 |
 | [drat](https://github.com/apache/drat) | A distributed, parallelized (Map Reduce) wrapper around Apache RAT™ to allow it to complete on large code repositories of multiple file types where Apache RAT™ hangs forever. | JavaScript | 31 | Apache License 2.0 | 2014-01-08 | 2023-08-29 | 2020-02-04 |
-| [helix](https://github.com/apache/helix) | Mirror of Apache Helix | Java | 492 | Apache License 2.0 | 2014-01-13 | 2025-12-20 | 2025-12-19 |
+| [helix](https://github.com/apache/helix) | Mirror of Apache Helix | Java | 491 | Apache License 2.0 | 2014-01-13 | 2025-12-30 | 2025-12-19 |
 | [datafu](https://github.com/apache/datafu) | Mirror of Apache DataFu | Java | 120 | Apache License 2.0 | 2014-01-14 | 2025-10-10 | 2025-05-20 |
-| [struts](https://github.com/apache/struts) | Apache Struts is a free, open-source, MVC framework for creating elegant, modern Java web applications | Java | 1342 | Apache License 2.0 | 2014-01-15 | 2025-12-29 | 2025-12-29 |
+| [struts](https://github.com/apache/struts) | Apache Struts is a free, open-source, MVC framework for creating elegant, modern Java web applications | Java | 1342 | Apache License 2.0 | 2014-01-15 | 2025-12-29 | 2025-12-31 |
 | [couchdb-chttpd](https://github.com/apache/couchdb-chttpd) | Mirror of Apache CouchDB | Erlang | 15 | Apache License 2.0 | 2014-01-17 | 2023-07-25 | 2018-12-10 |
 | [couchdb-config](https://github.com/apache/couchdb-config) | Mirror of Apache CouchDB | None | 11 | Apache License 2.0 | 2014-01-17 | 2023-01-27 | 2022-10-26 |
 | [couchdb-couch-collate](https://github.com/apache/couchdb-couch-collate) | Mirror of Apache CouchDB | C++ | 4 | - | 2014-01-17 | 2023-01-28 | 2017-04-28 |
@@ -468,10 +468,10 @@ Statistics Date: 2025-12-30 08:10:23
 | [couchdb-meck](https://github.com/apache/couchdb-meck) | Mirror of Apache CouchDB | Erlang | 4 | Apache License 2.0 | 2014-02-13 | 2025-10-29 | 2025-10-29 |
 | [couchdb-query-server-node](https://github.com/apache/couchdb-query-server-node) | Mirror of Apache CouchDB | JavaScript | 5 | - | 2014-02-13 | 2024-05-22 | 2017-04-28 |
 | [couchdb-query-server-spidermonkey](https://github.com/apache/couchdb-query-server-spidermonkey) | Mirror of Apache CouchDB | None | 2 | - | 2014-02-13 | 2021-11-10 | 2014-02-13 |
-| [cxf](https://github.com/apache/cxf) | Apache CXF | Java | 906 | Apache License 2.0 | 2014-02-19 | 2025-12-29 | 2025-12-29 |
+| [cxf](https://github.com/apache/cxf) | Apache CXF | Java | 906 | Apache License 2.0 | 2014-02-19 | 2025-12-29 | 2025-12-30 |
 | [juddi-styles](https://github.com/apache/juddi-styles) | Mirror of Apache jUDDI | XSLT | 1 | Apache License 2.0 | 2014-02-21 | 2023-07-25 | 2022-07-01 |
 | [juddi](https://github.com/apache/juddi) | Mirror of Apache jUDDI | Java | 18 | Apache License 2.0 | 2014-02-21 | 2023-07-25 | 2023-02-27 |
-| [spark](https://github.com/apache/spark) | Apache Spark - A unified analytics engine for large-scale data processing | Scala | 42557 | Apache License 2.0 | 2014-02-25 | 2025-12-30 | 2025-12-30 |
+| [spark](https://github.com/apache/spark) | Apache Spark - A unified analytics engine for large-scale data processing | Scala | 42565 | Apache License 2.0 | 2014-02-25 | 2025-12-31 | 2025-12-31 |
 | [knox](https://github.com/apache/knox) | Mirror of Apache Knox | Java | 208 | Apache License 2.0 | 2014-03-01 | 2025-12-25 | 2025-12-19 |
 | [curator](https://github.com/apache/curator) | Apache Curator | Java | 3170 | Apache License 2.0 | 2014-03-03 | 2025-12-29 | 2025-12-18 |
 | [climate](https://github.com/apache/climate) | Mirror of Apache Open Climate Workbench | Jupyter Notebook | 141 | Apache License 2.0 | 2014-03-08 | 2025-08-15 | 2020-10-05 |
@@ -500,10 +500,10 @@ Statistics Date: 2025-12-30 08:10:23
 | [cordova-lib](https://github.com/apache/cordova-lib) | Apache Cordova Tooling Library | JavaScript | 230 | Apache License 2.0 | 2014-05-07 | 2025-12-25 | 2025-11-22 |
 | [flex-blazeds](https://github.com/apache/flex-blazeds) | Mirror of Apache Flex BlazeDS | Java | 55 | Apache License 2.0 | 2014-05-12 | 2025-08-13 | 2024-09-06 |
 | [gora](https://github.com/apache/gora) | The Apache Gora open source framework provides an in-memory data model and persistence for big data. | Java | 121 | Apache License 2.0 | 2014-05-19 | 2025-10-10 | 2024-02-23 |
-| [pinot](https://github.com/apache/pinot) | Apache Pinot - A realtime distributed OLAP datastore | Java | 6001 | Apache License 2.0 | 2014-05-19 | 2025-12-30 | 2025-12-30 |
+| [pinot](https://github.com/apache/pinot) | Apache Pinot - A realtime distributed OLAP datastore | Java | 6001 | Apache License 2.0 | 2014-05-19 | 2025-12-31 | 2025-12-30 |
 | [incubator-retired-slider](https://github.com/apache/incubator-retired-slider) | Mirror of Apache Slider | Java | 77 | Apache License 2.0 | 2014-05-22 | 2025-10-10 | 2018-12-11 |
-| [hbase](https://github.com/apache/hbase) | Apache HBase | Java | 5552 | Apache License 2.0 | 2014-05-23 | 2025-12-30 | 2025-12-29 |
-| [mahout](https://github.com/apache/mahout) | Mirror of Apache Mahout | Python | 2192 | Apache License 2.0 | 2014-05-23 | 2025-12-29 | 2025-12-29 |
+| [hbase](https://github.com/apache/hbase) | Apache HBase | Java | 5552 | Apache License 2.0 | 2014-05-23 | 2025-12-31 | 2025-12-30 |
+| [mahout](https://github.com/apache/mahout) | Mirror of Apache Mahout | Python | 2192 | Apache License 2.0 | 2014-05-23 | 2025-12-29 | 2025-12-30 |
 | [portals-pluto](https://github.com/apache/portals-pluto) | Mirror of Apache Pluto | Java | 26 | Apache License 2.0 | 2014-05-23 | 2025-10-29 | 2025-04-04 |
 | [ant-antlibs-antunit](https://github.com/apache/ant-antlibs-antunit) | Mirror of Apache AntUnit - Unit Test Framework for Ant Tasks  | Java | 9 | - | 2014-05-28 | 2024-10-01 | 2022-02-13 |
 | [ant-antlibs-common](https://github.com/apache/ant-antlibs-common) | Mirror of Apache Antlib common files | XSLT | 3 | Apache License 2.0 | 2014-05-28 | 2025-06-09 | 2025-06-09 |
@@ -520,9 +520,9 @@ Statistics Date: 2025-12-30 08:10:23
 | [airavata-sandbox](https://github.com/apache/airavata-sandbox) | Sanbox repository for explaratory Apache Airavata features | JavaScript | 1 | - | 2014-06-04 | 2025-11-28 | 2025-11-28 |
 | [ant-xooki](https://github.com/apache/ant-xooki) | Mirror of Apache Ant xooki | JavaScript | 3 | - | 2014-06-04 | 2023-10-01 | 2017-06-25 |
 | [phoenix](https://github.com/apache/phoenix) | Apache Phoenix | Java | 1050 | Apache License 2.0 | 2014-06-04 | 2025-12-18 | 2025-12-22 |
-| [flink](https://github.com/apache/flink) | Apache Flink | Java | 25647 | Apache License 2.0 | 2014-06-07 | 2025-12-30 | 2025-12-30 |
+| [flink](https://github.com/apache/flink) | Apache Flink | Java | 25652 | Apache License 2.0 | 2014-06-07 | 2025-12-31 | 2025-12-30 |
 | [parquet-cpp](https://github.com/apache/parquet-cpp) | Apache Parquet | None | 445 | Apache License 2.0 | 2014-06-10 | 2025-12-05 | 2024-05-07 |
-| [parquet-format](https://github.com/apache/parquet-format) | Apache Parquet Format | Thrift | 2161 | Apache License 2.0 | 2014-06-10 | 2025-12-30 | 2025-12-28 |
+| [parquet-format](https://github.com/apache/parquet-format) | Apache Parquet Format | Thrift | 2164 | Apache License 2.0 | 2014-06-10 | 2025-12-31 | 2025-12-28 |
 | [parquet-java](https://github.com/apache/parquet-java) | Apache Parquet Java | Java | 3003 | Apache License 2.0 | 2014-06-10 | 2025-12-28 | 2025-12-28 |
 | [ant-easyant-buildtypes](https://github.com/apache/ant-easyant-buildtypes) | Mirror of Apache EasyAnt build types | Java | 3 | Apache License 2.0 | 2014-06-17 | 2023-10-01 | 2017-04-28 |
 | [ant-easyant-core](https://github.com/apache/ant-easyant-core) | Mirror of Apache EasyAnt core | Java | 4 | Apache License 2.0 | 2014-06-17 | 2023-10-01 | 2018-12-17 |
@@ -533,20 +533,20 @@ Statistics Date: 2025-12-30 08:10:23
 | [incubator-brooklyn-site](https://github.com/apache/incubator-brooklyn-site) | Mirror of Apache Brooklyn | None | 2 | - | 2014-06-24 | 2025-11-12 | 2017-04-28 |
 | [incubator-optiq-csv](https://github.com/apache/incubator-optiq-csv) | Mirror of Apache Optiq | Java | 2 | Apache License 2.0 | 2014-06-25 | 2021-11-10 | 2025-07-12 |
 | [incubator-optiq-linq4j](https://github.com/apache/incubator-optiq-linq4j) | Mirror of Apache Optiq | Java | 4 | Apache License 2.0 | 2014-06-25 | 2025-08-13 | 2023-12-16 |
-| [calcite](https://github.com/apache/calcite) | Apache Calcite | Java | 5019 | Apache License 2.0 | 2014-06-25 | 2025-12-30 | 2025-12-28 |
+| [calcite](https://github.com/apache/calcite) | Apache Calcite | Java | 5019 | Apache License 2.0 | 2014-06-25 | 2025-12-31 | 2025-12-31 |
 | [toolchain](https://github.com/apache/toolchain) | Ansible | Shell | 5 | - | 2014-06-27 | 2023-11-20 | 2016-02-11 |
 | [cassandra-spark-connector](https://github.com/apache/cassandra-spark-connector) | Apache Spark to Apache Cassandra connector | Scala | 1947 | Apache License 2.0 | 2014-06-27 | 2025-12-26 | 2025-04-29 |
 | [cordova-plugin-test-framework](https://github.com/apache/cordova-plugin-test-framework) | Apache Cordova | JavaScript | 74 | Apache License 2.0 | 2014-07-09 | 2025-11-23 | 2025-11-23 |
 | [couchdb-ioq](https://github.com/apache/couchdb-ioq) | Mirror of Apache CouchDB | Erlang | 6 | - | 2014-07-15 | 2025-09-09 | 2025-10-13 |
 | [activemq-openwire](https://github.com/apache/activemq-openwire) | Mirror of Apache ActiveMQ OpenWire | Java | 17 | Apache License 2.0 | 2014-07-23 | 2025-10-06 | 2025-12-19 |
-| [ranger](https://github.com/apache/ranger) | Apache Ranger - To enable, monitor and manage comprehensive data security across the Hadoop platform and beyond | Java | 1018 | Apache License 2.0 | 2014-07-27 | 2025-12-29 | 2025-12-30 |
+| [ranger](https://github.com/apache/ranger) | Apache Ranger - To enable, monitor and manage comprehensive data security across the Hadoop platform and beyond | Java | 1018 | Apache License 2.0 | 2014-07-27 | 2025-12-31 | 2025-12-31 |
 | [couchdb-b64url](https://github.com/apache/couchdb-b64url) | URL-safe Base64 encoder | None | 1 | Apache License 2.0 | 2014-08-01 | 2023-01-27 | 2022-10-28 |
 | [couchdb-cassim](https://github.com/apache/couchdb-cassim) | Mirror of Apache CouchDB | Erlang | 2 | Apache License 2.0 | 2014-08-01 | 2023-07-25 | 2018-12-10 |
 | [couchdb-couch-event](https://github.com/apache/couchdb-couch-event) | Mirror of Apache CouchDB | Erlang | 2 | Apache License 2.0 | 2014-08-01 | 2023-07-25 | 2017-04-28 |
 | [couchdb-global-changes](https://github.com/apache/couchdb-global-changes) | Mirror of Apache CouchDB | Erlang | 6 | Apache License 2.0 | 2014-08-01 | 2025-09-04 | 2017-04-28 |
 | [couchdb-khash](https://github.com/apache/couchdb-khash) | Mirror of Apache CouchDB | None | 4 | Other | 2014-08-01 | 2023-01-27 | 2022-10-28 |
 | [celix](https://github.com/apache/celix) | Apache Celix is a framework for C and C++14 to develop dynamic modular software applications using component and in-process service-oriented programming. | C | 186 | Apache License 2.0 | 2014-08-09 | 2025-12-18 | 2025-12-18 |
-| [hadoop](https://github.com/apache/hadoop) | Apache Hadoop | Java | 15430 | Apache License 2.0 | 2014-08-28 | 2025-12-29 | 2025-12-29 |
+| [hadoop](https://github.com/apache/hadoop) | Apache Hadoop | Java | 15430 | Apache License 2.0 | 2014-08-28 | 2025-12-31 | 2025-12-29 |
 | [ddlutils](https://github.com/apache/ddlutils) | Mirror of Apache DB DdlUtils | Java | 28 | Apache License 2.0 | 2014-09-10 | 2025-03-26 | 2023-04-15 |
 | [johnzon](https://github.com/apache/johnzon) | Mirror of Apache Johnzon | Java | 53 | Apache License 2.0 | 2014-09-11 | 2025-12-05 | 2025-12-05 |
 | [dubbo-js](https://github.com/apache/dubbo-js) | The Typescript implementation of Apache Dubbo. An RPC and microservice framework for Node.js and Web development. | TypeScript | 773 | Apache License 2.0 | 2014-09-11 | 2025-12-29 | 2024-07-14 |
@@ -558,7 +558,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [reef](https://github.com/apache/reef) | Mirror of Apache REEF | Java | 96 | Apache License 2.0 | 2014-10-23 | 2025-08-13 | 2022-07-06 |
 | [syncope](https://github.com/apache/syncope) | Apache Syncope | Java | 313 | Apache License 2.0 | 2014-10-23 | 2025-12-27 | 2025-12-26 |
 | [pdfbox-docs](https://github.com/apache/pdfbox-docs) | Mirror of Apache PDFBox Docs | HTML | 30 | Apache License 2.0 | 2014-11-04 | 2025-12-01 | 2025-11-17 |
-| [karaf-decanter](https://github.com/apache/karaf-decanter) | Apache Karaf Decanter, an observability framework powered by Apache Karaf | Java | 40 | Apache License 2.0 | 2014-11-06 | 2025-12-25 | 2025-12-25 |
+| [karaf-decanter](https://github.com/apache/karaf-decanter) | Apache Karaf Decanter, an observability framework powered by Apache Karaf | Java | 40 | Apache License 2.0 | 2014-11-06 | 2025-12-25 | 2025-12-30 |
 | [qpid-proton](https://github.com/apache/qpid-proton) | Mirror of Apache Qpid Proton | C++ | 238 | Apache License 2.0 | 2014-11-07 | 2025-12-24 | 2025-12-19 |
 | [xmlgraphics-fop-pdf-images](https://github.com/apache/xmlgraphics-fop-pdf-images) | Apache XML Graphics FOP PDF Images | Java | 15 | Apache License 2.0 | 2014-11-08 | 2025-12-12 | 2025-12-12 |
 | [tomcat80](https://github.com/apache/tomcat80) | Mirror of Apache Tomcat 8.0.x | Java | 119 | Apache License 2.0 | 2014-11-09 | 2025-08-25 | 2018-08-12 |
@@ -570,10 +570,10 @@ Statistics Date: 2025-12-30 08:10:23
 | [gobblin](https://github.com/apache/gobblin) | A distributed data integration framework that simplifies common aspects of big data integration such as data ingestion, replication, organization and lifecycle management for both streaming and batch data ecosystems. | Java | 2258 | Apache License 2.0 | 2014-12-01 | 2025-12-27 | 2025-12-18 |
 | [ant-ivy-site-styles](https://github.com/apache/ant-ivy-site-styles) | Mirror of Apache Ivy (+DE) Site Styles | None | 1 | - | 2014-12-02 | 2023-10-01 | 2014-12-02 |
 | [grails-geb](https://github.com/apache/grails-geb) | Geb Functional Testing for Grails® framework | None | 11 | - | 2014-12-11 | 2025-08-16 | 2025-04-22 |
-| [nifi](https://github.com/apache/nifi) | Apache NiFi | Java | 5885 | Apache License 2.0 | 2014-12-12 | 2025-12-30 | 2025-12-30 |
+| [nifi](https://github.com/apache/nifi) | Apache NiFi | Java | 5883 | Apache License 2.0 | 2014-12-12 | 2025-12-31 | 2025-12-31 |
 | [accumulo-fluo-uno](https://github.com/apache/accumulo-fluo-uno) | Apache Fluo Uno | Shell | 36 | Apache License 2.0 | 2014-12-17 | 2025-11-08 | 2025-08-21 |
 | [incubator-retired-corinthia](https://github.com/apache/incubator-retired-corinthia) | Mirror of Apache Corinthia (Incubating) | HTML | 16 | Apache License 2.0 | 2014-12-18 | 2024-06-06 | 2017-04-28 |
-| [kylin](https://github.com/apache/kylin) | Apache Kylin | Java | 3764 | Apache License 2.0 | 2015-01-03 | 2025-12-30 | 2025-12-29 |
+| [kylin](https://github.com/apache/kylin) | Apache Kylin | Java | 3763 | Apache License 2.0 | 2015-01-03 | 2025-12-31 | 2025-12-29 |
 | [struts-master](https://github.com/apache/struts-master) | Mirror of Apache Struts | None | 2 | - | 2015-01-08 | 2024-04-06 | 2024-12-10 |
 | [grails-static-website](https://github.com/apache/grails-static-website) | Apache Grails Website | Groovy | 28 | Apache License 2.0 | 2015-01-14 | 2025-12-01 | 2025-12-01 |
 | [incubator-taverna-site](https://github.com/apache/incubator-taverna-site) | Mirror of Apache Taverna (Incubating) Web Site | HTML | 5 | Apache License 2.0 | 2015-01-15 | 2024-06-06 | 2019-06-06 |
@@ -603,7 +603,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [airavata-php-gateway](https://github.com/apache/airavata-php-gateway) | Mirror of Apache Airavata PHP Gateway | PHP | 19 | - | 2015-03-10 | 2023-10-29 | 2023-04-16 |
 | [cordova-plugin-legacy-whitelist](https://github.com/apache/cordova-plugin-legacy-whitelist) | [DEPRECATED] Apache Cordova plugin legacy whitelist | Objective-C | 4 | Apache License 2.0 | 2015-03-10 | 2023-06-23 | 2019-02-11 |
 | [cordova-plugin-whitelist](https://github.com/apache/cordova-plugin-whitelist) | [DEPRECATED] Apache Cordova - Whitelist Plugin | JavaScript | 444 | Apache License 2.0 | 2015-03-10 | 2025-09-27 | 2021-10-14 |
-| [asterixdb](https://github.com/apache/asterixdb) | Mirror of Apache AsterixDB | Java | 301 | - | 2015-03-10 | 2025-12-19 | 2025-12-10 |
+| [asterixdb](https://github.com/apache/asterixdb) | Mirror of Apache AsterixDB | Java | 302 | - | 2015-03-10 | 2025-12-31 | 2025-12-10 |
 | [servicemix-bundles](https://github.com/apache/servicemix-bundles) | Mirror of Apache ServiceMix Bundles | Java | 58 | Apache License 2.0 | 2015-03-10 | 2025-08-25 | 2025-12-03 |
 | [servicemix-specs](https://github.com/apache/servicemix-specs) | Mirror of Apache ServiceMix Specs | Java | 0 | Apache License 2.0 | 2015-03-10 | 2022-11-21 | 2023-04-16 |
 | [struts-annotations](https://github.com/apache/struts-annotations) | Mirror of Apache Struts Annotations | Java | 4 | - | 2015-03-10 | 2025-06-28 | 2025-06-28 |
@@ -614,7 +614,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [directory-kerby](https://github.com/apache/directory-kerby) | Mirror of Apache Directory Kerby | Java | 112 | Apache License 2.0 | 2015-03-17 | 2025-12-19 | 2025-12-29 |
 | [vxquery](https://github.com/apache/vxquery) | Mirror of Apache VXQuery | Java | 20 | Apache License 2.0 | 2015-03-17 | 2023-01-28 | 2019-01-11 |
 | [commons-rdf](https://github.com/apache/commons-rdf) | Apache Commons RDF | Java | 51 | Apache License 2.0 | 2015-03-19 | 2025-12-19 | 2025-12-19 |
-| [zeppelin](https://github.com/apache/zeppelin) | Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more. | Java | 6596 | Apache License 2.0 | 2015-03-25 | 2025-12-28 | 2025-12-28 |
+| [zeppelin](https://github.com/apache/zeppelin) | Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more. | Java | 6596 | Apache License 2.0 | 2015-03-25 | 2025-12-28 | 2025-12-30 |
 | [asterixdb-hyracks](https://github.com/apache/asterixdb-hyracks) | Apache AsterixDB Hyracks | Java | 19 | Apache License 2.0 | 2015-03-27 | 2025-09-22 | 2023-06-13 |
 | [polygene-java](https://github.com/apache/polygene-java) | Mirror of Apache Polygene java | Java | 93 | Apache License 2.0 | 2015-03-28 | 2025-08-13 | 2019-03-14 |
 | [polygene-sandbox](https://github.com/apache/polygene-sandbox) | Mirror of Apache Polygene sandbox | Java | 2 | - | 2015-03-28 | 2023-01-28 | 2017-04-28 |
@@ -626,19 +626,19 @@ Statistics Date: 2025-12-30 08:10:23
 | [cordova-discuss](https://github.com/apache/cordova-discuss) | Discussions on features and the future | None | 20 | - | 2015-04-10 | 2025-11-02 | 2024-06-11 |
 | [incubator-retired-openaz](https://github.com/apache/incubator-retired-openaz) | Mirror of Apache OpenAZ (Incubating) | Java | 17 | Apache License 2.0 | 2015-04-11 | 2024-07-08 | 2017-04-28 |
 | [struts-archive](https://github.com/apache/struts-archive) | Mirror of Apache Struts Archive | HTML | 1 | - | 2015-04-11 | 2024-06-06 | 2022-04-23 |
-| [airflow](https://github.com/apache/airflow) | Apache Airflow - A platform to programmatically author, schedule, and monitor workflows | Python | 43684 | Apache License 2.0 | 2015-04-13 | 2025-12-30 | 2025-12-30 |
+| [airflow](https://github.com/apache/airflow) | Apache Airflow - A platform to programmatically author, schedule, and monitor workflows | Python | 43690 | Apache License 2.0 | 2015-04-13 | 2025-12-31 | 2025-12-31 |
 | [groovy](https://github.com/apache/groovy) | Apache Groovy: A powerful multi-faceted programming language for the JVM platform | Java | 5409 | Apache License 2.0 | 2015-04-16 | 2025-12-30 | 2025-12-30 |
 | [incubator-retired-mrql](https://github.com/apache/incubator-retired-mrql) | Mirror of Apache MRQL (Incubating) | Java | 17 | Apache License 2.0 | 2015-04-18 | 2023-01-28 | 2017-08-22 |
 | [incubator-retired-htrace](https://github.com/apache/incubator-retired-htrace) | Mirror of Apache HTrace (Incubating) | Java | 106 | Other | 2015-04-22 | 2025-08-13 | 2018-12-11 |
 | [incubator-parquet-cpp](https://github.com/apache/incubator-parquet-cpp) | Mirror of Apache Parquet | None | 1 | - | 2015-04-23 | 2025-11-12 | 2015-04-23 |
 | [incubator-parquet-format](https://github.com/apache/incubator-parquet-format) | Mirror of Apache Parquet | None | 1 | - | 2015-04-23 | 2025-11-12 | 2015-04-23 |
 | [incubator-parquet-mr](https://github.com/apache/incubator-parquet-mr) | Mirror of Apache Parquet | None | 1 | - | 2015-04-23 | 2025-11-12 | 2015-04-23 |
-| [sedona](https://github.com/apache/sedona) | A cluster computing framework for processing large-scale geospatial data | Java | 2274 | Apache License 2.0 | 2015-04-24 | 2025-12-29 | 2025-12-25 |
+| [sedona](https://github.com/apache/sedona) | A cluster computing framework for processing large-scale geospatial data | Java | 2274 | Apache License 2.0 | 2015-04-24 | 2025-12-31 | 2025-12-25 |
 | [couchdb-erlang-tests](https://github.com/apache/couchdb-erlang-tests) | Mirror of Apache CouchDB Erlang Tests | Erlang | 2 | - | 2015-04-30 | 2023-01-28 | 2017-04-28 |
 | [couchdb-javascript-tests](https://github.com/apache/couchdb-javascript-tests) | Mirror of Apache CouchDB Javascript Tests | None | 2 | - | 2015-04-30 | 2021-11-10 | 2015-04-30 |
 | [couchdb-www](https://github.com/apache/couchdb-www) | The official Apache CouchDB website | HTML | 39 | Apache License 2.0 | 2015-04-30 | 2025-11-24 | 2025-11-11 |
 | [geode](https://github.com/apache/geode) | Apache Geode | Java | 2342 | Apache License 2.0 | 2015-04-30 | 2025-12-26 | 2025-12-18 |
-| [mxnet](https://github.com/apache/mxnet) | Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more | C++ | 20826 | Apache License 2.0 | 2015-04-30 | 2025-12-22 | 2023-10-25 |
+| [mxnet](https://github.com/apache/mxnet) | Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more | C++ | 20828 | Apache License 2.0 | 2015-04-30 | 2025-12-30 | 2023-10-25 |
 | [incubator-retired-wave-docs](https://github.com/apache/incubator-retired-wave-docs) | Apache Wave Docs retired. | Python | 10 | Apache License 2.0 | 2015-05-01 | 2025-10-09 | 2018-01-27 |
 | [predictionio-template-java-ecom-recommender](https://github.com/apache/predictionio-template-java-ecom-recommender) | PredictionIO E-Commerce Recommendation Engine Template (Java-based parallelized engine)  | Java | 39 | Apache License 2.0 | 2015-05-01 | 2023-01-28 | 2019-03-12 |
 | [drill-site](https://github.com/apache/drill-site) | Apache Drill Site | HTML | 12 | - | 2015-05-05 | 2025-11-23 | 2025-11-23 |
@@ -662,14 +662,14 @@ Statistics Date: 2025-12-30 08:10:23
 | [couchdb-couch-epi](https://github.com/apache/couchdb-couch-epi) | Mirror of Apache CouchDB Couch EPI | Erlang | 4 | Apache License 2.0 | 2015-06-23 | 2023-07-28 | 2017-04-28 |
 | [datasketches-hive](https://github.com/apache/datasketches-hive) | Sketch adaptors for Hive. | Java | 50 | Apache License 2.0 | 2015-06-30 | 2025-02-24 | 2025-02-24 |
 | [datasketches-pig](https://github.com/apache/datasketches-pig) | Sketch adaptors for Pig. | Java | 9 | Apache License 2.0 | 2015-06-30 | 2025-02-21 | 2025-02-21 |
-| [datasketches-java](https://github.com/apache/datasketches-java) | A software library of stochastic streaming algorithms, a.k.a. sketches. | Java | 938 | Apache License 2.0 | 2015-06-30 | 2025-12-19 | 2025-12-22 |
+| [datasketches-java](https://github.com/apache/datasketches-java) | A software library of stochastic streaming algorithms, a.k.a. sketches. | Java | 939 | Apache License 2.0 | 2015-06-30 | 2025-12-30 | 2025-12-30 |
 | [couchdb-ci](https://github.com/apache/couchdb-ci) | Apache CouchDB Continuous Integration (CI) support repository | Shell | 10 | - | 2015-07-04 | 2025-11-10 | 2025-11-26 |
 | [commons-scxml](https://github.com/apache/commons-scxml) | Apache Commons SCXML | Java | 61 | Apache License 2.0 | 2015-07-10 | 2025-12-29 | 2025-12-29 |
-| [james-project](https://github.com/apache/james-project) | Emails at the heart of your business logic! | Java | 980 | Apache License 2.0 | 2015-07-11 | 2025-12-29 | 2025-12-29 |
-| [couchdb-nano](https://github.com/apache/couchdb-nano) | Nano: The official Apache CouchDB library for Node.js | JavaScript | 689 | Apache License 2.0 | 2015-07-14 | 2025-12-20 | 2025-10-16 |
+| [james-project](https://github.com/apache/james-project) | Emails at the heart of your business logic! | Java | 980 | Apache License 2.0 | 2015-07-11 | 2025-12-29 | 2025-12-31 |
+| [couchdb-nano](https://github.com/apache/couchdb-nano) | Nano: The official Apache CouchDB library for Node.js | JavaScript | 688 | Apache License 2.0 | 2015-07-14 | 2025-12-31 | 2025-10-16 |
 | [couchdb-nmo](https://github.com/apache/couchdb-nmo) | Mirror of Apache CouchDB NMO | JavaScript | 12 | Apache License 2.0 | 2015-07-14 | 2023-01-28 | 2017-04-28 |
 | [incubator-kie-docs](https://github.com/apache/incubator-kie-docs) | Documentation for Drools, OptaPlanner and jBPM | JavaScript | 40 | - | 2015-07-17 | 2025-12-22 | 2025-12-22 |
-| [superset](https://github.com/apache/superset) | Apache Superset is a Data Visualization and Data Exploration Platform | TypeScript | 69581 | Apache License 2.0 | 2015-07-21 | 2025-12-30 | 2025-12-30 |
+| [superset](https://github.com/apache/superset) | Apache Superset is a Data Visualization and Data Exploration Platform | TypeScript | 69592 | Apache License 2.0 | 2015-07-21 | 2025-12-31 | 2025-12-30 |
 | [couchdb-docker](https://github.com/apache/couchdb-docker) | Semi-official Apache CouchDB Docker images | Dockerfile | 283 | Apache License 2.0 | 2015-07-27 | 2025-11-28 | 2025-11-11 |
 | [incubator-retired-cotton](https://github.com/apache/incubator-retired-cotton) | Mirror of Apache Cotton | Python | 91 | Apache License 2.0 | 2015-08-01 | 2025-08-11 | 2017-04-28 |
 | [aurora-packaging](https://github.com/apache/aurora-packaging) | Mirror of Apache Aurora | Shell | 22 | - | 2015-08-05 | 2023-07-25 | 2019-12-17 |
@@ -701,7 +701,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [hawq-site](https://github.com/apache/hawq-site) | Mirror of Apache Hawq site | CSS | 8 | - | 2015-09-19 | 2025-08-20 | 2025-05-02 |
 | [madlib-site](https://github.com/apache/madlib-site) | Mirror of Apache MADlib site | Jupyter Notebook | 89 | - | 2015-09-19 | 2025-04-07 | 2025-04-07 |
 | [madlib](https://github.com/apache/madlib) | Mirror of Apache MADlib | C++ | 469 | Apache License 2.0 | 2015-09-19 | 2025-12-27 | 2025-10-29 |
-| [incubator-heron](https://github.com/apache/incubator-heron) | Apache Heron (Incubating) is a realtime, distributed, fault-tolerant stream processing engine from Twitter | Java | 3683 | Apache License 2.0 | 2015-09-25 | 2025-12-29 | 2023-03-01 |
+| [incubator-heron](https://github.com/apache/incubator-heron) | Apache Heron (Incubating) is a realtime, distributed, fault-tolerant stream processing engine from Twitter | Java | 3684 | Apache License 2.0 | 2015-09-25 | 2025-12-30 | 2023-03-01 |
 | [directory-fortress-commander](https://github.com/apache/directory-fortress-commander) | Mirror of Apache Directory Fortress Commander | Java | 9 | Apache License 2.0 | 2015-10-02 | 2025-07-04 | 2025-07-04 |
 | [directory-fortress-core](https://github.com/apache/directory-fortress-core) | Mirror of Apache Directory Fortress Core | Java | 51 | Apache License 2.0 | 2015-10-02 | 2025-08-25 | 2025-08-15 |
 | [directory-fortress-enmasse](https://github.com/apache/directory-fortress-enmasse) | Mirror of Apache Directory Fortress Enmasse | Java | 6 | Apache License 2.0 | 2015-10-02 | 2025-07-04 | 2025-09-16 |
@@ -712,13 +712,13 @@ Statistics Date: 2025-12-30 08:10:23
 | [mynewt-core](https://github.com/apache/mynewt-core) | An OS to build, deploy and securely manage billions of devices | C | 873 | Apache License 2.0 | 2015-10-29 | 2025-12-19 | 2025-12-19 |
 | [mynewt-newt](https://github.com/apache/mynewt-newt) | An OS to build, deploy and securely manage billions of devices | Go | 123 | Apache License 2.0 | 2015-10-29 | 2025-12-19 | 2025-12-19 |
 | [mynewt-blinky](https://github.com/apache/mynewt-blinky) | Apache Blinky is a skeleton for new Apache Mynewt projects | C | 6 | Apache License 2.0 | 2015-10-29 | 2025-12-19 | 2025-12-19 |
-| [skywalking](https://github.com/apache/skywalking) | APM, Application Performance Monitoring System | Java | 24668 | Apache License 2.0 | 2015-11-07 | 2025-12-30 | 2025-12-28 |
-| [systemds](https://github.com/apache/systemds) | An open source ML system for the end-to-end data science lifecycle | Java | 1075 | Apache License 2.0 | 2015-11-10 | 2025-12-29 | 2025-12-29 |
+| [skywalking](https://github.com/apache/skywalking) | APM, Application Performance Monitoring System | Java | 24670 | Apache License 2.0 | 2015-11-07 | 2025-12-31 | 2025-12-28 |
+| [systemds](https://github.com/apache/systemds) | An open source ML system for the end-to-end data science lifecycle | Java | 1075 | Apache License 2.0 | 2015-11-10 | 2025-12-31 | 2025-12-31 |
 | [infrastructure-packer](https://github.com/apache/infrastructure-packer) | Mirror of Apache Infrastructure packer templates | Shell | 2 | Apache License 2.0 | 2015-11-17 | 2024-10-04 | 2017-04-28 |
 | [eagle](https://github.com/apache/eagle) | Mirror of Apache Eagle | Java | 410 | Apache License 2.0 | 2015-11-18 | 2025-09-06 | 2020-08-22 |
 | [apache-website-template](https://github.com/apache/apache-website-template) | Apache Website Template | None | 39 | - | 2015-11-19 | 2025-11-04 | 2024-12-10 |
 | [systemds-website](https://github.com/apache/systemds-website) | Apache SystemDS Website | HTML | 21 | Apache License 2.0 | 2015-11-21 | 2025-05-21 | 2025-05-11 |
-| [unomi](https://github.com/apache/unomi) | Apache Unomi | Java | 334 | Apache License 2.0 | 2015-11-24 | 2025-12-26 | 2025-12-23 |
+| [unomi](https://github.com/apache/unomi) | Apache Unomi | Java | 334 | Apache License 2.0 | 2015-11-24 | 2025-12-30 | 2025-12-30 |
 | [whimsy](https://github.com/apache/whimsy) | Apache Whimsy | Ruby | 103 | Apache License 2.0 | 2015-11-26 | 2025-12-23 | 2025-12-19 |
 | [brooklyn-client](https://github.com/apache/brooklyn-client) | Apache Brooklyn Client | Go | 13 | Apache License 2.0 | 2015-12-02 | 2024-08-25 | 2024-07-17 |
 | [brooklyn-dist](https://github.com/apache/brooklyn-dist) | Apache Brooklyn Dist | Shell | 12 | Apache License 2.0 | 2015-12-02 | 2025-01-21 | 2025-01-21 |
@@ -731,14 +731,14 @@ Statistics Date: 2025-12-30 08:10:23
 | [metron](https://github.com/apache/metron) | Apache Metron | Java | 867 | Apache License 2.0 | 2015-12-08 | 2025-12-08 | 2025-08-13 |
 | [infrastructure-iampoc](https://github.com/apache/infrastructure-iampoc) | Mirror of IAM PoC | JavaScript | 3 | - | 2015-12-19 | 2023-07-09 | 2017-04-28 |
 | [fineract-site](https://github.com/apache/fineract-site) | Apache Fineract Website | HTML | 30 | Apache License 2.0 | 2015-12-22 | 2025-12-22 | 2025-12-22 |
-| [fineract](https://github.com/apache/fineract) | Apache Fineract | Java | 1937 | Apache License 2.0 | 2015-12-22 | 2025-12-30 | 2025-12-30 |
+| [fineract](https://github.com/apache/fineract) | Apache Fineract | Java | 1941 | Apache License 2.0 | 2015-12-22 | 2025-12-30 | 2025-12-30 |
 | [incubator-toree-website](https://github.com/apache/incubator-toree-website) | Mirror of Apache Toree website (Incubating) | SCSS | 5 | Apache License 2.0 | 2016-01-07 | 2025-10-20 | 2025-10-20 |
 | [incubator-toree](https://github.com/apache/incubator-toree) | Mirror of Apache Toree (Incubating) | Scala | 749 | Apache License 2.0 | 2016-01-07 | 2025-11-27 | 2025-11-27 |
 | [incubator-s2graph](https://github.com/apache/incubator-s2graph) | Mirror of Apache S2Graph (Incubating) | Scala | 271 | Apache License 2.0 | 2016-01-08 | 2025-08-13 | 2020-05-28 |
-| [shardingsphere](https://github.com/apache/shardingsphere) | Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases. | Java | 20612 | Apache License 2.0 | 2016-01-18 | 2025-12-30 | 2025-12-30 |
+| [shardingsphere](https://github.com/apache/shardingsphere) | Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases. | Java | 20614 | Apache License 2.0 | 2016-01-18 | 2025-12-31 | 2025-12-31 |
 | [lucene-solr](https://github.com/apache/lucene-solr) | Apache Lucene and Solr open-source search software | None | 4371 | Apache License 2.0 | 2016-01-23 | 2025-12-26 | 2024-09-25 |
 | [kudu](https://github.com/apache/kudu) | Mirror of Apache Kudu | C++ | 1895 | Apache License 2.0 | 2016-01-29 | 2025-12-26 | 2025-12-18 |
-| [beam](https://github.com/apache/beam) | Apache Beam is a unified programming model for Batch and Streaming data processing. | Java | 8425 | Apache License 2.0 | 2016-02-02 | 2025-12-30 | 2025-12-30 |
+| [beam](https://github.com/apache/beam) | Apache Beam is a unified programming model for Batch and Streaming data processing. | Java | 8427 | Apache License 2.0 | 2016-02-02 | 2025-12-31 | 2025-12-31 |
 | [incubator-milagro](https://github.com/apache/incubator-milagro) | Apache Milagro (Incubating) | HTML | 42 | - | 2016-02-05 | 2025-11-12 | 2024-03-21 |
 | [incubator-retired-iota-site](https://github.com/apache/incubator-retired-iota-site) | Mirror of Apache Iota site (Incubating) | CSS | 0 | Apache License 2.0 | 2016-02-06 | 2023-07-25 | 2017-04-28 |
 | [incubator-retired-iota](https://github.com/apache/incubator-retired-iota) | Mirror of Apache Iota (Incubating) | Scala | 34 | Apache License 2.0 | 2016-02-06 | 2025-08-13 | 2017-07-12 |
@@ -746,8 +746,8 @@ Statistics Date: 2025-12-30 08:10:23
 | [incubator-guacamole](https://github.com/apache/incubator-guacamole) | Mirror of Apache Guacamole (Incubating) | None | 1 | - | 2016-02-11 | 2021-11-10 | 2016-02-11 |
 | [mynewt-site](https://github.com/apache/mynewt-site) | Apache MyNewt Website Repo | HTML | 29 | - | 2016-02-11 | 2025-12-19 | 2025-12-19 |
 | [arrow-site](https://github.com/apache/arrow-site) | Apache Arrow Website | HTML | 37 | Apache License 2.0 | 2016-02-17 | 2025-12-15 | 2025-12-20 |
-| [arrow](https://github.com/apache/arrow) | Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics | C++ | 16318 | Apache License 2.0 | 2016-02-17 | 2025-12-30 | 2025-12-30 |
-| [openwhisk](https://github.com/apache/openwhisk) | Apache OpenWhisk is an open source serverless cloud platform | Scala | 6741 | Apache License 2.0 | 2016-02-18 | 2025-12-28 | 2025-12-08 |
+| [arrow](https://github.com/apache/arrow) | Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics | C++ | 16319 | Apache License 2.0 | 2016-02-17 | 2025-12-31 | 2025-12-31 |
+| [openwhisk](https://github.com/apache/openwhisk) | Apache OpenWhisk is an open source serverless cloud platform | Scala | 6742 | Apache License 2.0 | 2016-02-18 | 2025-12-30 | 2025-12-08 |
 | [beam-site](https://github.com/apache/beam-site) | Apache Beam Site | HTML | 29 | - | 2016-02-26 | 2024-06-06 | 2025-12-16 |
 | [airavata-docs](https://github.com/apache/airavata-docs) | Mirror of Apache Aravata Docs | None | 4 | - | 2016-03-03 | 2025-08-20 | 2023-08-02 |
 | [incubator-retired-edgent-website](https://github.com/apache/incubator-retired-edgent-website) | Mirror of Apache Edgent site (Incubating) | HTML | 6 | Apache License 2.0 | 2016-03-03 | 2024-06-06 | 2019-04-04 |
@@ -756,7 +756,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [aries-rsa](https://github.com/apache/aries-rsa) | Apache Aries Remote Services Admin | Java | 12 | Apache License 2.0 | 2016-03-11 | 2025-07-02 | 2025-07-02 |
 | [texera](https://github.com/apache/texera) | Collaborative Machine-Learning-Centric Data Analytics Using Workflows | Scala | 218 | Apache License 2.0 | 2016-03-15 | 2025-12-30 | 2025-12-30 |
 | [nifi-minifi](https://github.com/apache/nifi-minifi) | Apache MiNiFi (a subproject of Apache NiFi) | Java | 125 | Apache License 2.0 | 2016-03-19 | 2025-09-22 | 2021-01-24 |
-| [guacamole-client](https://github.com/apache/guacamole-client) | Mirror of Apache Guacamole Client | Java | 1596 | Apache License 2.0 | 2016-03-22 | 2025-12-29 | 2025-12-29 |
+| [guacamole-client](https://github.com/apache/guacamole-client) | Mirror of Apache Guacamole Client | Java | 1596 | Apache License 2.0 | 2016-03-22 | 2025-12-29 | 2025-12-30 |
 | [guacamole-manual](https://github.com/apache/guacamole-manual) | Mirror of Apache Guacamole Manual | Jinja | 52 | Apache License 2.0 | 2016-03-22 | 2025-12-26 | 2025-12-26 |
 | [guacamole-server](https://github.com/apache/guacamole-server) | Mirror of Apache Guacamole Server | C | 3643 | Apache License 2.0 | 2016-03-22 | 2025-12-29 | 2025-12-26 |
 | [openwhisk-client-js](https://github.com/apache/openwhisk-client-js) | JavaScript client library for the Apache OpenWhisk platform | JavaScript | 82 | Apache License 2.0 | 2016-03-23 | 2025-06-08 | 2025-08-06 |
@@ -772,7 +772,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [infrastructure-puppet-kitchen](https://github.com/apache/infrastructure-puppet-kitchen) | Mirror of Apache Infrastructure Puppet Kitchen | Ruby | 9 | Apache License 2.0 | 2016-04-07 | 2025-10-28 | 2019-04-17 |
 | [commons-crypto](https://github.com/apache/commons-crypto) | Apache Commons Crypto | Java | 128 | Apache License 2.0 | 2016-04-13 | 2025-12-29 | 2025-12-29 |
 | [incubator-retired-gearpump](https://github.com/apache/incubator-retired-gearpump) | Mirror of Apache Gearpump (Incubating) | Scala | 295 | Apache License 2.0 | 2016-04-13 | 2025-04-05 | 2018-08-27 |
-| [impala](https://github.com/apache/impala) | Apache Impala | C++ | 1261 | Apache License 2.0 | 2016-04-13 | 2025-12-29 | 2025-12-29 |
+| [impala](https://github.com/apache/impala) | Apache Impala | C++ | 1262 | Apache License 2.0 | 2016-04-13 | 2025-12-30 | 2025-12-30 |
 | [phoenix-omid](https://github.com/apache/phoenix-omid) | Mirror of Apache Omid Incubator | Java | 90 | Apache License 2.0 | 2016-04-14 | 2025-12-11 | 2025-12-11 |
 | [incubator-retired-quickstep-site](https://github.com/apache/incubator-retired-quickstep-site) | Apache Quickstep Site Incubator - This project is retired. | HTML | 1 | - | 2016-04-14 | 2024-06-06 | 2018-12-11 |
 | [incubator-retired-quickstep](https://github.com/apache/incubator-retired-quickstep) | Apache Quickstep Incubator - This project is retired | C++ | 94 | Apache License 2.0 | 2016-04-14 | 2025-11-18 | 2018-12-05 |
@@ -807,7 +807,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [incubator-retired-pirk](https://github.com/apache/incubator-retired-pirk) | Mirror of Apache Pirk (Incubating) | Java | 58 | Apache License 2.0 | 2016-06-19 | 2025-08-22 | 2017-06-16 |
 | [accumulo-fluo-website](https://github.com/apache/accumulo-fluo-website) | Apache Fluo Website | HTML | 6 | Apache License 2.0 | 2016-06-24 | 2025-09-30 | 2025-09-30 |
 | [incubator-weex-loader](https://github.com/apache/incubator-weex-loader) | None | JavaScript | 67 | Apache License 2.0 | 2016-06-27 | 2025-10-06 | 2021-05-27 |
-| [pulsar](https://github.com/apache/pulsar) | Apache Pulsar - distributed pub-sub messaging system | Java | 15027 | Apache License 2.0 | 2016-06-28 | 2025-12-30 | 2025-12-30 |
+| [pulsar](https://github.com/apache/pulsar) | Apache Pulsar - distributed pub-sub messaging system | Java | 15028 | Apache License 2.0 | 2016-06-28 | 2025-12-30 | 2025-12-30 |
 | [carbondata](https://github.com/apache/carbondata) | High performance data store solution | Scala | 1444 | Apache License 2.0 | 2016-06-28 | 2025-12-24 | 2025-11-10 |
 | [openwhisk-package-template](https://github.com/apache/openwhisk-package-template) | [DEPRECATED] - This is a template to be use when creating new packages for OpenWhisk | Scala | 2 | Apache License 2.0 | 2016-06-28 | 2024-06-06 | 2017-08-17 |
 | [openwhisk-website](https://github.com/apache/openwhisk-website) | Apache OpenWhisk website (openwhisk.apache.org) content; built using Jekyll | HTML | 21 | Apache License 2.0 | 2016-06-29 | 2025-11-23 | 2025-11-23 |
@@ -818,7 +818,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [qpid-python](https://github.com/apache/qpid-python) | Mirror of Apache Qpid Python | Python | 14 | Apache License 2.0 | 2016-07-06 | 2024-11-28 | 2023-09-30 |
 | [echarts-doc](https://github.com/apache/echarts-doc) | Official repository of Apache ECharts documentation | JavaScript | 255 | Apache License 2.0 | 2016-07-07 | 2025-12-25 | 2025-11-20 |
 | [juneau-website](https://github.com/apache/juneau-website) | Apache Juneau | HTML | 9 | Apache License 2.0 | 2016-07-11 | 2025-06-26 | 2025-06-26 |
-| [spark-website](https://github.com/apache/spark-website) | Apache Spark Website | HTML | 132 | Apache License 2.0 | 2016-07-11 | 2025-12-29 | 2025-12-29 |
+| [spark-website](https://github.com/apache/spark-website) | Apache Spark Website | HTML | 132 | Apache License 2.0 | 2016-07-11 | 2025-12-30 | 2025-12-30 |
 | [struts-archetypes](https://github.com/apache/struts-archetypes) | Mirror of Apache Struts Archetypes | Java | 5 | - | 2016-07-15 | 2024-12-20 | 2024-12-20 |
 | [royale-typedefs](https://github.com/apache/royale-typedefs) | Apache Royale TypeDefs | ActionScript | 8 | Apache License 2.0 | 2016-07-17 | 2025-11-27 | 2025-09-24 |
 | [openwhisk-sample-slackbot](https://github.com/apache/openwhisk-sample-slackbot) | [DEPRECATED] - A proof-of-concept Slackbot to invoke OpenWhisk actions. | Scala | 3 | Apache License 2.0 | 2016-07-18 | 2024-06-06 | 2017-01-25 |
@@ -828,7 +828,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [distributedlog](https://github.com/apache/distributedlog) | Apache DistributedLog | Java | 188 | Apache License 2.0 | 2016-07-22 | 2025-08-16 | 2023-04-17 |
 | [twill](https://github.com/apache/twill) | Mirror of Apache Twill | Java | 69 | Apache License 2.0 | 2016-07-29 | 2024-12-23 | 2020-03-16 |
 | [cordova-create](https://github.com/apache/cordova-create) | Apache Cordova Create | JavaScript | 10 | Apache License 2.0 | 2016-07-31 | 2025-11-22 | 2025-11-22 |
-| [juneau](https://github.com/apache/juneau) | Apache Juneau | Java | 89 | Apache License 2.0 | 2016-08-02 | 2025-12-29 | 2025-12-29 |
+| [juneau](https://github.com/apache/juneau) | Apache Juneau | Java | 89 | Apache License 2.0 | 2016-08-02 | 2025-12-30 | 2025-12-30 |
 | [couchdb-glazier](https://github.com/apache/couchdb-glazier) | Glazier is a set of batch files, scripts and toolchains designed to ease building CouchDB on Windows. | PowerShell | 12 | Apache License 2.0 | 2016-08-05 | 2025-11-08 | 2025-11-08 |
 | [flagon-distill](https://github.com/apache/flagon-distill) | Apache Flagon Distill is a python package to support and analyze Flagon UserAle.js logs | Python | 11 | Apache License 2.0 | 2016-08-10 | 2025-02-19 | 2025-02-18 |
 | [incubator-flagon-stout](https://github.com/apache/incubator-flagon-stout) | Apache Flagon Stout (Incubating) | HTML | 3 | Apache License 2.0 | 2016-08-10 | 2024-06-06 | 2023-04-16 |
@@ -852,15 +852,15 @@ Statistics Date: 2025-12-30 08:10:23
 | [usergrid-nodejs](https://github.com/apache/usergrid-nodejs) | Mirror of Apache usergrid NodeJS SDK | JavaScript | 8 | Other | 2016-09-01 | 2023-08-21 | 2019-02-07 |
 | [usergrid-python](https://github.com/apache/usergrid-python) | Mirror of Apache usergrid Python SDK | Python | 7 | Other | 2016-09-01 | 2023-01-28 | 2017-08-02 |
 | [usergrid-swift](https://github.com/apache/usergrid-swift) | Mirror of Apache usergrid Swift SDK | Swift | 15 | Other | 2016-09-01 | 2025-09-20 | 2018-01-16 |
-| [trafficcontrol](https://github.com/apache/trafficcontrol) | Apache Traffic Control is an Open Source implementation of a Content Delivery Network | Go | 1159 | Apache License 2.0 | 2016-09-02 | 2025-12-27 | 2025-11-24 |
+| [trafficcontrol](https://github.com/apache/trafficcontrol) | Apache Traffic Control is an Open Source implementation of a Content Delivery Network | Go | 1160 | Apache License 2.0 | 2016-09-02 | 2025-12-31 | 2025-11-24 |
 | [openwhisk-client-python](https://github.com/apache/openwhisk-client-python) | [DEPRECATED] - REST API of OpenWhisk can be used directly from Python | None | 10 | Apache License 2.0 | 2016-09-02 | 2023-04-23 | 2017-07-10 |
 | [roller-website](https://github.com/apache/roller-website) | Mirror of Apache Roller Website | HTML | 1 | - | 2016-09-04 | 2025-04-09 | 2025-04-09 |
 | [couchdb-fauxton-server](https://github.com/apache/couchdb-fauxton-server) | Mirror of Apache CouchDB Fauxton Server | None | 1 | - | 2016-09-06 | 2021-11-10 | 2016-09-06 |
 | [openwhisk-sample-matos](https://github.com/apache/openwhisk-sample-matos) | [DEPRECATED] - sample application with Message Hub and Object Store | Java | 2 | Apache License 2.0 | 2016-09-07 | 2023-01-28 | 2017-07-14 |
 | [asterixdb-bad](https://github.com/apache/asterixdb-bad) | Mirror of BAD project | Java | 1 | - | 2016-09-10 | 2025-09-22 | 2023-04-17 |
-| [creadur-site](https://github.com/apache/creadur-site) | Apache Creadur website | HTML | 2 | - | 2016-09-10 | 2025-12-27 | 2025-12-27 |
+| [creadur-site](https://github.com/apache/creadur-site) | Apache Creadur website | HTML | 2 | - | 2016-09-10 | 2025-12-30 | 2025-12-30 |
 | [infrastructure-docker](https://github.com/apache/infrastructure-docker) | Mirror of Apache Infrastructure Docker | None | 1 | - | 2016-09-13 | 2021-11-10 | 2016-09-13 |
-| [maven-resolver](https://github.com/apache/maven-resolver) | Apache Maven Artifact Resolver | Java | 142 | Apache License 2.0 | 2016-09-14 | 2025-12-29 | 2025-12-29 |
+| [maven-resolver](https://github.com/apache/maven-resolver) | Apache Maven Artifact Resolver | Java | 142 | Apache License 2.0 | 2016-09-14 | 2025-12-31 | 2025-12-31 |
 | [incubator-hivemall-site](https://github.com/apache/incubator-hivemall-site) | Mirror of Apache Hivemall (incubating) Website | HTML | 3 | - | 2016-09-15 | 2024-06-06 | 2022-09-06 |
 | [incubator-hivemall](https://github.com/apache/incubator-hivemall) | Mirror of Apache Hivemall (incubating) | Java | 314 | Apache License 2.0 | 2016-09-15 | 2025-08-10 | 2022-09-06 |
 | [cordova-new-committer-and-pmc](https://github.com/apache/cordova-new-committer-and-pmc) | Apache Cordova New Committer and PMC Member Process. File a new issue for the checklist. Don't use real names since an invitation can be rejected or the Apache Board can veto pmc inclusion. | None | 2 | - | 2016-09-20 | 2023-07-25 | 2021-04-07 |
@@ -882,8 +882,8 @@ Statistics Date: 2025-12-30 08:10:23
 | [incubator-pagespeed-icu](https://github.com/apache/incubator-pagespeed-icu) | ICU modified to work with PageSpeed | C++ | 1 | Other | 2016-10-12 | 2023-04-21 | 2023-04-21 |
 | [incubator-pagespeed-zlib](https://github.com/apache/incubator-pagespeed-zlib) | gypified zlib for PageSpeed | C | 2 | Other | 2016-10-12 | 2025-11-22 | 2023-04-21 |
 | [incubator-pagespeed-optipng](https://github.com/apache/incubator-pagespeed-optipng) | Minimal OptiPNG bundled as a library for PageSpeed | C | 4 | Other | 2016-10-12 | 2025-11-22 | 2023-04-21 |
-| [tvm](https://github.com/apache/tvm) | Open Machine Learning Compiler Framework | Python | 12971 | Apache License 2.0 | 2016-10-12 | 2025-12-30 | 2025-12-30 |
-| [serf](https://github.com/apache/serf) | Mirror of Apache Serf | C | 27 | Apache License 2.0 | 2016-10-14 | 2025-12-13 | 2025-12-14 |
+| [tvm](https://github.com/apache/tvm) | Open Machine Learning Compiler Framework | Python | 12975 | Apache License 2.0 | 2016-10-12 | 2025-12-31 | 2025-12-31 |
+| [serf](https://github.com/apache/serf) | Mirror of Apache Serf | C | 27 | Apache License 2.0 | 2016-10-14 | 2025-12-30 | 2025-12-30 |
 | [openwhisk-package-cloudant](https://github.com/apache/openwhisk-package-cloudant) | The Apache OpenWhisk cloudant package enables you to work with a Cloudant/CouchDB database | Scala | 16 | Apache License 2.0 | 2016-10-19 | 2024-09-24 | 2024-09-24 |
 | [openwhisk-package-alarms](https://github.com/apache/openwhisk-package-alarms) | Apache OpenWhisk package that can be used to create periodic, time-based alarms. | JavaScript | 24 | Apache License 2.0 | 2016-10-19 | 2024-09-24 | 2024-09-24 |
 | [openwhisk-debugger](https://github.com/apache/openwhisk-debugger) | [DEPRECATED] - The OpenWhisk debugger project | JavaScript | 21 | Apache License 2.0 | 2016-10-19 | 2023-01-28 | 2017-07-20 |
@@ -891,14 +891,14 @@ Statistics Date: 2025-12-30 08:10:23
 | [netbeans-temp](https://github.com/apache/netbeans-temp) | Apache NetBeans temporary repository | None | 2 | - | 2016-10-22 | 2025-10-17 | 2017-04-28 |
 | [commons-numbers](https://github.com/apache/commons-numbers) | Apache Commons Numbers | Java | 81 | Apache License 2.0 | 2016-10-26 | 2025-12-26 | 2025-12-26 |
 | [rya-site](https://github.com/apache/rya-site) | Apache Rya Website | SCSS | 2 | - | 2016-10-27 | 2024-01-18 | 2021-01-05 |
-| [infrastructure-website](https://github.com/apache/infrastructure-website) | ASF Infrastructure Team Website Repository | HTML | 37 | - | 2016-10-27 | 2025-12-18 | 2025-12-18 |
-| [openwhisk-devtools](https://github.com/apache/openwhisk-devtools) | Development tools for building and deploying Apache OpenWhisk | JavaScript | 180 | Apache License 2.0 | 2016-11-01 | 2025-12-30 | 2024-09-24 |
+| [infrastructure-website](https://github.com/apache/infrastructure-website) | ASF Infrastructure Team Website Repository | HTML | 37 | - | 2016-10-27 | 2025-12-30 | 2025-12-30 |
+| [openwhisk-devtools](https://github.com/apache/openwhisk-devtools) | Development tools for building and deploying Apache OpenWhisk | JavaScript | 181 | Apache License 2.0 | 2016-11-01 | 2025-12-30 | 2024-09-24 |
 | [openwhisk-apigateway](https://github.com/apache/openwhisk-apigateway) | Apache OpenWhisk API Gateway service for exposing actions as REST interfaces. | Lua | 65 | Apache License 2.0 | 2016-11-01 | 2025-06-03 | 2024-09-24 |
 | [grails-wrapper](https://github.com/apache/grails-wrapper) | Grails Wrapper | None | 3 | - | 2016-11-02 | 2025-05-02 | 2025-05-02 |
 | [logging-log4j-audit](https://github.com/apache/logging-log4j-audit) | Mirror of Apache Log4j Audit Logging | Java | 21 | Apache License 2.0 | 2016-11-06 | 2024-06-05 | 2024-07-16 |
-| [logging-log4j-scala](https://github.com/apache/logging-log4j-scala) | A Scala-friendly interface to log against the Log4j API | Scala | 23 | Apache License 2.0 | 2016-11-06 | 2025-12-01 | 2025-12-29 |
+| [logging-log4j-scala](https://github.com/apache/logging-log4j-scala) | A Scala-friendly interface to log against the Log4j API | Scala | 23 | Apache License 2.0 | 2016-11-06 | 2025-12-30 | 2025-12-30 |
 | [logging-log4j-tools](https://github.com/apache/logging-log4j-tools) | Tools internally used by the Apache Log4j project | Java | 17 | Apache License 2.0 | 2016-11-06 | 2025-12-01 | 2025-12-01 |
-| [incubator](https://github.com/apache/incubator) | Apache Incubator Website | HTML | 52 | - | 2016-11-08 | 2025-12-27 | 2025-12-30 |
+| [incubator](https://github.com/apache/incubator) | Apache Incubator Website | HTML | 52 | - | 2016-11-08 | 2025-12-27 | 2025-12-31 |
 | [openwhisk-client-go](https://github.com/apache/openwhisk-client-go) | Go client library for the Apache OpenWhisk platform | Go | 37 | Apache License 2.0 | 2016-11-10 | 2025-03-09 | 2025-03-09 |
 | [echarts-examples](https://github.com/apache/echarts-examples) | Examples of Apache ECharts | TypeScript | 390 | Apache License 2.0 | 2016-11-23 | 2025-12-15 | 2025-11-24 |
 | [accumulo-bsp](https://github.com/apache/accumulo-bsp) | Apache Accumulo BSP | Java | 5 | - | 2016-11-28 | 2023-06-19 | 2020-10-13 |
@@ -914,7 +914,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [netbeans-website](https://github.com/apache/netbeans-website) | Apache NetBeans Website | None | 244 | Apache License 2.0 | 2016-11-28 | 2025-12-12 | 2025-12-03 |
 | [logging-log4j-kotlin](https://github.com/apache/logging-log4j-kotlin) | A Kotlin-friendly interface to log against the Log4j API | Kotlin | 50 | Apache License 2.0 | 2016-11-28 | 2025-12-01 | 2025-12-01 |
 | [usergrid-qakka](https://github.com/apache/usergrid-qakka) | Mirror of Apache Usergrid - Qakka Queue System  | Java | 2 | Apache License 2.0 | 2016-11-29 | 2023-01-28 | 2017-04-28 |
-| [rocketmq](https://github.com/apache/rocketmq) | Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications. | Java | 22270 | Apache License 2.0 | 2016-11-30 | 2025-12-30 | 2025-12-30 |
+| [rocketmq](https://github.com/apache/rocketmq) | Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications. | Java | 22274 | Apache License 2.0 | 2016-11-30 | 2025-12-31 | 2025-12-30 |
 | [accumulo-examples](https://github.com/apache/accumulo-examples) | Apache Accumulo Examples | Java | 35 | Apache License 2.0 | 2016-12-06 | 2025-08-25 | 2024-11-25 |
 | [commons-build-plugin](https://github.com/apache/commons-build-plugin) | Apache Commons Build Plugin | None | 5 | Apache License 2.0 | 2016-12-06 | 2025-12-29 | 2025-12-29 |
 | [incubator-annotator-website](https://github.com/apache/incubator-annotator-website) | Apache Annotator (Incubating) Website | HTML | 11 | - | 2016-12-06 | 2025-08-13 | 2025-08-11 |
@@ -923,7 +923,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [carbondata-site](https://github.com/apache/carbondata-site) | Mirror of Apache CarbonData Site | HTML | 5 | Apache License 2.0 | 2016-12-08 | 2024-06-06 | 2025-06-06 |
 | [openwebbeans-meecrowave](https://github.com/apache/openwebbeans-meecrowave) | Apache OpenWebBeans meecrowave | Java | 58 | Apache License 2.0 | 2016-12-10 | 2025-12-17 | 2025-12-17 |
 | [openwhisk-test](https://github.com/apache/openwhisk-test) | Test repo. for Apache OpenWhisk client-side tooling. | JavaScript | 3 | Apache License 2.0 | 2016-12-13 | 2022-12-28 | 2020-04-30 |
-| [hudi](https://github.com/apache/hudi) | Upserts, Deletes And Incremental Processing on Big Data. | Java | 6054 | Apache License 2.0 | 2016-12-14 | 2025-12-30 | 2025-12-30 |
+| [hudi](https://github.com/apache/hudi) | Upserts, Deletes And Incremental Processing on Big Data. | Java | 6055 | Apache License 2.0 | 2016-12-14 | 2025-12-31 | 2025-12-31 |
 | [qpid-proton-j](https://github.com/apache/qpid-proton-j) | Mirror of Apache Qpid Proton-J | Java | 35 | Apache License 2.0 | 2016-12-16 | 2025-10-27 | 2024-05-14 |
 | [accumulo-testing](https://github.com/apache/accumulo-testing) | Apache Accumulo Testing | Java | 16 | Apache License 2.0 | 2016-12-17 | 2025-10-22 | 2025-10-30 |
 | [rocketmq-site](https://github.com/apache/rocketmq-site) | Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications. | JavaScript | 61 | Apache License 2.0 | 2016-12-21 | 2025-12-29 | 2025-12-29 |
@@ -940,13 +940,13 @@ Statistics Date: 2025-12-30 08:10:23
 | [jspwiki-asf-docs](https://github.com/apache/jspwiki-asf-docs) | Apache JSPWiki's ASF related documentation | None | 1 | - | 2017-01-13 | 2025-10-03 | 2025-10-03 |
 | [logging-parent](https://github.com/apache/logging-parent) | Parent project internally used in Maven-based projects of the Apache Logging Services | FreeMarker | 2 | Apache License 2.0 | 2017-01-17 | 2025-09-12 | 2025-12-15 |
 | [openwhisk-slackinvite](https://github.com/apache/openwhisk-slackinvite) | Invite for Apache OpenWhisk Team on Slack | HTML | 11 | - | 2017-01-22 | 2024-06-06 | 2021-05-18 |
-| [ratis](https://github.com/apache/ratis) | Open source Java implementation for Raft consensus protocol. | Java | 1427 | Apache License 2.0 | 2017-01-31 | 2025-12-29 | 2025-12-29 |
+| [ratis](https://github.com/apache/ratis) | Open source Java implementation for Raft consensus protocol. | Java | 1427 | Apache License 2.0 | 2017-01-31 | 2025-12-30 | 2025-12-29 |
 | [incubator-weex-site](https://github.com/apache/incubator-weex-site) | Apache Weex (Incubating) | SCSS | 87 | Apache License 2.0 | 2017-02-01 | 2024-02-05 | 2021-06-07 |
 | [openwhisk-playground](https://github.com/apache/openwhisk-playground) | [DEPRECATED] - This library provides functionality of executing a snippet of source code as OpenWhisk action for OpenWhisk Xcode Source Editor Extension | JavaScript | 5 | Apache License 2.0 | 2017-02-01 | 2023-01-28 | 2017-07-12 |
 | [activemq-cli-tools](https://github.com/apache/activemq-cli-tools) | Mirror of Apache ActiveMQ CLI Tools | Java | 10 | Apache License 2.0 | 2017-02-03 | 2025-09-04 | 2024-04-04 |
 | [servicemix-features](https://github.com/apache/servicemix-features) | Mirror of Apache Servicemix-Features | None | 0 | Apache License 2.0 | 2017-02-03 | 2023-06-23 | 2017-04-28 |
 | [geode-native](https://github.com/apache/geode-native) | Apache Geode Native | C++ | 42 | Apache License 2.0 | 2017-02-04 | 2025-09-09 | 2025-12-18 |
-| [ofbiz-framework](https://github.com/apache/ofbiz-framework) | Apache OFBiz is an open source product for the automation of enterprise processes. It includes framework components and business applications for ERP, CRM, E-Business/E-Commerce, Supply Chain Management and Manufacturing Resource Planning. OFBiz provides a foundation and starting point for reliable, secure and scalable enterprise solutions. | Java | 978 | Apache License 2.0 | 2017-02-13 | 2025-12-30 | 2025-12-25 |
+| [ofbiz-framework](https://github.com/apache/ofbiz-framework) | Apache OFBiz is an open source product for the automation of enterprise processes. It includes framework components and business applications for ERP, CRM, E-Business/E-Commerce, Supply Chain Management and Manufacturing Resource Planning. OFBiz provides a foundation and starting point for reliable, secure and scalable enterprise solutions. | Java | 979 | Apache License 2.0 | 2017-02-13 | 2025-12-30 | 2025-12-25 |
 | [nifi-registry](https://github.com/apache/nifi-registry) | Apache NiFi Registry | Java | 110 | Apache License 2.0 | 2017-02-14 | 2025-08-13 | 2021-07-15 |
 | [griffin](https://github.com/apache/griffin) | Mirror of Apache griffin  | Scala | 1176 | Apache License 2.0 | 2017-02-15 | 2025-12-25 | 2025-08-03 |
 | [openwhisk-GitHubSlackBot](https://github.com/apache/openwhisk-GitHubSlackBot) | [DEPRECATED] - Demonstration of integration of GitHub Pull Request management with Slack and using Alarms | JavaScript | 5 | - | 2017-02-17 | 2023-01-28 | 2017-03-16 |
@@ -1006,7 +1006,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [hbase-thirdparty](https://github.com/apache/hbase-thirdparty) | Apache HBase Third Party Libs | Java | 18 | Apache License 2.0 | 2017-06-21 | 2025-11-05 | 2025-11-05 |
 | [mxnet-test](https://github.com/apache/mxnet-test) | Mirror of Apache MXNet Test (Incubating) | C++ | 9 | Apache License 2.0 | 2017-06-21 | 2023-11-17 | 2023-07-16 |
 | [flink-shaded](https://github.com/apache/flink-shaded) | Apache Flink shaded artifacts repository | Shell | 138 | Apache License 2.0 | 2017-06-22 | 2025-12-23 | 2025-12-27 |
-| [cassandra-dtest](https://github.com/apache/cassandra-dtest) | Distributed tests for Apache Cassandra® | Python | 55 | Apache License 2.0 | 2017-06-24 | 2025-11-20 | 2025-11-20 |
+| [cassandra-dtest](https://github.com/apache/cassandra-dtest) | Distributed tests for Apache Cassandra® | Python | 55 | Apache License 2.0 | 2017-06-24 | 2025-12-30 | 2025-12-30 |
 | [incubator-livy-website](https://github.com/apache/incubator-livy-website) | Mirror of Apache livy (Incubating) | HTML | 13 | Apache License 2.0 | 2017-06-25 | 2025-12-20 | 2025-12-20 |
 | [incubator-livy](https://github.com/apache/incubator-livy) | Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere. | Scala | 940 | Apache License 2.0 | 2017-06-25 | 2025-12-27 | 2025-12-16 |
 | [superset-site](https://github.com/apache/superset-site) | Apache superset (Incubating) website | HTML | 9 | - | 2017-06-27 | 2025-12-28 | 2025-12-28 |
@@ -1019,7 +1019,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [opennlp-corpus](https://github.com/apache/opennlp-corpus) | Apache opennlp | None | 1 | - | 2017-07-19 | 2021-11-10 | 2017-07-19 |
 | [gobblin-site](https://github.com/apache/gobblin-site) | Apache Gobblin (Incubating) | HTML | 1 | - | 2017-07-21 | 2024-06-06 | 2024-06-27 |
 | [atlas-website](https://github.com/apache/atlas-website) | Mirror of Apache Atlas Website | HTML | 4 | Other | 2017-07-22 | 2024-06-06 | 2025-01-06 |
-| [atlas](https://github.com/apache/atlas) | Apache Atlas - Open Metadata Management and Governance capabilities across the Hadoop platform and beyond | Java | 2049 | Apache License 2.0 | 2017-07-22 | 2025-12-29 | 2025-12-12 |
+| [atlas](https://github.com/apache/atlas) | Apache Atlas - Open Metadata Management and Governance capabilities across the Hadoop platform and beyond | Java | 2048 | Apache License 2.0 | 2017-07-22 | 2025-12-30 | 2025-12-12 |
 | [qpid-interop-test](https://github.com/apache/qpid-interop-test) | Mirror of Apache Qpid Interop Test | Python | 3 | Apache License 2.0 | 2017-07-22 | 2024-01-31 | 2024-01-29 |
 | [metamodel-membrane](https://github.com/apache/metamodel-membrane) | Mirror of Apache MetaModel Membrane | Java | 16 | Apache License 2.0 | 2017-07-23 | 2024-04-30 | 2019-06-04 |
 | [dubbo-docs](https://github.com/apache/dubbo-docs) | Apache Dubbo documentation | None | 75 | - | 2017-07-28 | 2024-12-04 | 2020-10-29 |
@@ -1029,30 +1029,30 @@ Statistics Date: 2025-12-30 08:10:23
 | [incubator-streams](https://github.com/apache/incubator-streams) | Mirror of Apache Streams | None | 1 | - | 2017-08-04 | 2021-11-10 | 2017-08-04 |
 | [accumulo-fluo-yarn](https://github.com/apache/accumulo-fluo-yarn) | Apache Fluo Yarn | Shell | 5 | Apache License 2.0 | 2017-08-04 | 2025-11-18 | 2025-11-18 |
 | [accumulo-fluo-bytes](https://github.com/apache/accumulo-fluo-bytes) | Apache Fluo Bytes | None | 4 | Apache License 2.0 | 2017-08-04 | 2025-07-14 | 2024-11-25 |
-| [seatunnel](https://github.com/apache/seatunnel) | SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool. | Java | 9005 | Apache License 2.0 | 2017-08-05 | 2025-12-30 | 2025-12-29 |
-| [storm-site](https://github.com/apache/storm-site) | Source for the Apache Storm web site | HTML | 4 | - | 2017-08-07 | 2025-11-22 | 2025-11-22 |
+| [seatunnel](https://github.com/apache/seatunnel) | SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool. | Java | 9012 | Apache License 2.0 | 2017-08-05 | 2025-12-31 | 2025-12-29 |
+| [storm-site](https://github.com/apache/storm-site) | Source for the Apache Storm web site | HTML | 4 | - | 2017-08-07 | 2025-12-30 | 2025-12-30 |
 | [calcite-avatica-go](https://github.com/apache/calcite-avatica-go) | Apache Calcite Go | Go | 123 | Apache License 2.0 | 2017-08-08 | 2025-08-25 | 2025-11-20 |
-| [doris](https://github.com/apache/doris) | Apache Doris is an easy-to-use, high performance and unified analytics database. | Java | 14806 | Apache License 2.0 | 2017-08-10 | 2025-12-30 | 2025-12-30 |
+| [doris](https://github.com/apache/doris) | Apache Doris is an easy-to-use, high performance and unified analytics database. | Java | 14812 | Apache License 2.0 | 2017-08-10 | 2025-12-31 | 2025-12-31 |
 | [directory-ldap-api](https://github.com/apache/directory-ldap-api) | Apache Directory LDAP API | Java | 40 | Apache License 2.0 | 2017-08-18 | 2025-12-19 | 2025-12-22 |
 | [myfaces-tobago](https://github.com/apache/myfaces-tobago) | Apache MyFaces Tobago | Java | 30 | - | 2017-08-18 | 2025-12-23 | 2025-12-23 |
 | [myfaces-trinidad](https://github.com/apache/myfaces-trinidad) | Apache MyFaces Trinidad | Java | 5 | Apache License 2.0 | 2017-08-18 | 2025-03-31 | 2024-10-03 |
-| [commons-parent](https://github.com/apache/commons-parent) | Apache Commons Parent | JavaScript | 35 | Apache License 2.0 | 2017-08-29 | 2025-12-29 | 2025-12-29 |
+| [commons-parent](https://github.com/apache/commons-parent) | Apache Commons Parent | JavaScript | 35 | Apache License 2.0 | 2017-08-29 | 2025-12-30 | 2025-12-30 |
 | [daffodil](https://github.com/apache/daffodil) | Apache Daffodil | Scala | 105 | Apache License 2.0 | 2017-08-29 | 2025-12-19 | 2025-12-19 |
 | [geronimo-website](https://github.com/apache/geronimo-website) | Mirror of Apache Geronimo Website | HTML | 2 | - | 2017-09-01 | 2025-04-30 | 2025-04-30 |
 | [netbeans-html4j](https://github.com/apache/netbeans-html4j) | Apache NetBeans HTML4J | Java | 29 | Apache License 2.0 | 2017-09-01 | 2025-06-25 | 2025-06-25 |
 | [netbeans-jackpot30](https://github.com/apache/netbeans-jackpot30) | Apache NetBeans Jackpot 3.0 | Java | 6 | Apache License 2.0 | 2017-09-01 | 2025-12-03 | 2025-11-23 |
-| [netbeans](https://github.com/apache/netbeans) | Apache NetBeans | Java | 2989 | Apache License 2.0 | 2017-09-01 | 2025-12-27 | 2025-12-27 |
+| [netbeans](https://github.com/apache/netbeans) | Apache NetBeans | Java | 2989 | Apache License 2.0 | 2017-09-01 | 2025-12-30 | 2025-12-30 |
 | [airavata-django-portal](https://github.com/apache/airavata-django-portal) | Apache Airavata Django Portal Framework | Python | 36 | Apache License 2.0 | 2017-09-02 | 2025-08-19 | 2025-08-19 |
 | [hadoop-downstream-tests](https://github.com/apache/hadoop-downstream-tests) | Mirror of Apache Hadoop Downstream Tests | None | 1 | - | 2017-09-02 | 2023-07-25 | 2017-09-02 |
 | [logging-log4j-audit-sample](https://github.com/apache/logging-log4j-audit-sample) | Mirror of Apache Logging Services | Java | 12 | Apache License 2.0 | 2017-09-03 | 2025-12-29 | 2025-12-29 |
-| [brpc](https://github.com/apache/brpc) | brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. "brpc" means "better RPC". | C++ | 17429 | Apache License 2.0 | 2017-09-04 | 2025-12-29 | 2025-12-29 |
+| [brpc](https://github.com/apache/brpc) | brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. "brpc" means "better RPC". | C++ | 17430 | Apache License 2.0 | 2017-09-04 | 2025-12-31 | 2025-12-31 |
 | [geronimo-safeguard](https://github.com/apache/geronimo-safeguard) | Mirror of Apache Safeguard (Geronimo project around Fault Tolerance) | Java | 6 | Apache License 2.0 | 2017-09-06 | 2025-11-21 | 2020-05-01 |
 | [accumulo-fluo-docker](https://github.com/apache/accumulo-fluo-docker) | Apache Fluo Docker | Dockerfile | 4 | Apache License 2.0 | 2017-09-06 | 2025-07-14 | 2020-10-09 |
 | [mynewt-nffs](https://github.com/apache/mynewt-nffs) | Apache NFFS filesystem | C | 36 | - | 2017-09-06 | 2025-12-11 | 2024-07-31 |
 | [jackrabbit-filevault-package-maven-plugin](https://github.com/apache/jackrabbit-filevault-package-maven-plugin) | Apache Jackrabbit FileVault Package Maven Plugin | Java | 7 | - | 2017-09-13 | 2025-05-06 | 2025-09-25 |
 | [myfaces-trinidad-maven](https://github.com/apache/myfaces-trinidad-maven) | Apache MyFaces Trinidad Maven Plugins | Java | 2 | Apache License 2.0 | 2017-09-17 | 2025-02-19 | 2024-10-03 |
 | [shardingsphere-example](https://github.com/apache/shardingsphere-example) | Sharding-Sphere examples | Java | 985 | Apache License 2.0 | 2017-09-19 | 2025-12-16 | 2020-08-11 |
-| [shardingsphere-doc](https://github.com/apache/shardingsphere-doc) | Sharding-Sphere website & documents | HTML | 171 | Other | 2017-09-19 | 2025-12-30 | 2025-12-30 |
+| [shardingsphere-doc](https://github.com/apache/shardingsphere-doc) | Sharding-Sphere website & documents | HTML | 171 | Other | 2017-09-19 | 2025-12-31 | 2025-12-31 |
 | [incubator-retired-amaterasu-site](https://github.com/apache/incubator-retired-amaterasu-site) | Apache Amaterasu Site Incubating | CSS | 0 | Apache License 2.0 | 2017-09-20 | 2023-07-25 | 2018-07-12 |
 | [netbeans-tools](https://github.com/apache/netbeans-tools) | Apache NetBeans Tools | PHP | 18 | Apache License 2.0 | 2017-09-21 | 2025-05-20 | 2025-05-20 |
 | [datasketches-vector](https://github.com/apache/datasketches-vector) | Sketch Library for vector-based models | Java | 15 | Apache License 2.0 | 2017-09-23 | 2025-08-24 | 2025-03-30 |
@@ -1378,7 +1378,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [maven-dependency-tree](https://github.com/apache/maven-dependency-tree) | Apache Maven Dependency Tree | Java | 27 | Apache License 2.0 | 2017-12-07 | 2025-11-18 | 2025-11-04 |
 | [maven-downloader](https://github.com/apache/maven-downloader) | Apache Maven Downloader | Java | 1 | - | 2017-12-07 | 2023-07-25 | 2019-06-14 |
 | [maven-filtering](https://github.com/apache/maven-filtering) | Apache Maven Filtering | Java | 8 | Apache License 2.0 | 2017-12-07 | 2025-12-21 | 2025-12-21 |
-| [maven-invoker](https://github.com/apache/maven-invoker) | Apache Maven Invoker | Java | 21 | Apache License 2.0 | 2017-12-07 | 2025-12-21 | 2025-12-21 |
+| [maven-invoker](https://github.com/apache/maven-invoker) | Apache Maven Invoker | Java | 21 | Apache License 2.0 | 2017-12-07 | 2025-12-30 | 2025-12-30 |
 | [maven-jarsigner](https://github.com/apache/maven-jarsigner) | Apache Maven Jarsigner | Java | 5 | Apache License 2.0 | 2017-12-07 | 2025-11-18 | 2025-11-10 |
 | [maven-mapping](https://github.com/apache/maven-mapping) | Apache Maven Mapping | Java | 2 | Apache License 2.0 | 2017-12-07 | 2025-12-21 | 2025-12-21 |
 | [maven-osgi](https://github.com/apache/maven-osgi) | Apache Maven OSGi - This project is retired | Java | 2 | - | 2017-12-07 | 2023-07-25 | 2019-08-27 |
@@ -1394,7 +1394,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [maven-shared-jar](https://github.com/apache/maven-shared-jar) | Apache Maven JAR Analysis Utilities | Java | 3 | Apache License 2.0 | 2017-12-07 | 2025-12-21 | 2025-12-21 |
 | [maven-shared-resources](https://github.com/apache/maven-shared-resources) | Apache Maven Shared Resources | Shell | 7 | Apache License 2.0 | 2017-12-07 | 2025-08-29 | 2025-08-29 |
 | [maven-shared-utils](https://github.com/apache/maven-shared-utils) | Apache Maven Shared Utils | Java | 31 | Apache License 2.0 | 2017-12-07 | 2025-12-18 | 2025-12-27 |
-| [maven-verifier](https://github.com/apache/maven-verifier) | Apache Maven Verifier | Java | 5 | Apache License 2.0 | 2017-12-07 | 2025-11-16 | 2025-11-16 |
+| [maven-verifier](https://github.com/apache/maven-verifier) | Apache Maven Verifier | Java | 5 | Apache License 2.0 | 2017-12-07 | 2025-12-30 | 2025-12-30 |
 | [maven-common-artifact-filters](https://github.com/apache/maven-common-artifact-filters) | Apache Maven Common Artifact Filters | Java | 5 | Apache License 2.0 | 2017-12-07 | 2025-12-10 | 2025-12-10 |
 | [maven-site-plugin](https://github.com/apache/maven-site-plugin) | Apache Maven Site Plugin | Java | 48 | Apache License 2.0 | 2017-12-07 | 2025-12-25 | 2025-12-27 |
 | [maven-pdf-plugin](https://github.com/apache/maven-pdf-plugin) | Apache Maven PDF Plugin | Java | 9 | - | 2017-12-07 | 2025-04-11 | 2025-03-11 |
@@ -1450,7 +1450,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [maven-gpg-plugin](https://github.com/apache/maven-gpg-plugin) | Apache Maven GPG Plugin | Java | 29 | Apache License 2.0 | 2017-12-09 | 2025-12-21 | 2025-12-21 |
 | [maven-help-plugin](https://github.com/apache/maven-help-plugin) | Apache Maven Help Plugin | Java | 26 | Apache License 2.0 | 2017-12-09 | 2025-11-12 | 2025-11-10 |
 | [maven-install-plugin](https://github.com/apache/maven-install-plugin) | Apache Maven Install Plugin | Java | 34 | Apache License 2.0 | 2017-12-09 | 2025-12-16 | 2025-12-18 |
-| [maven-invoker-plugin](https://github.com/apache/maven-invoker-plugin) | Apache Maven Invoker Plugin | Java | 20 | Apache License 2.0 | 2017-12-09 | 2025-12-17 | 2025-12-17 |
+| [maven-invoker-plugin](https://github.com/apache/maven-invoker-plugin) | Apache Maven Invoker Plugin | Java | 20 | Apache License 2.0 | 2017-12-09 | 2025-12-30 | 2025-12-30 |
 | [maven-jar-plugin](https://github.com/apache/maven-jar-plugin) | Apache Maven JAR Plugin | Java | 84 | Apache License 2.0 | 2017-12-09 | 2025-12-13 | 2025-12-25 |
 | [maven-jarsigner-plugin](https://github.com/apache/maven-jarsigner-plugin) | Apache Maven Jarsigner Plugin | Java | 21 | Apache License 2.0 | 2017-12-09 | 2025-11-15 | 2025-11-15 |
 | [maven-javadoc-plugin](https://github.com/apache/maven-javadoc-plugin) | Apache Maven Javadoc Plugin | Java | 97 | Apache License 2.0 | 2017-12-09 | 2025-12-22 | 2025-12-22 |
@@ -1475,12 +1475,12 @@ Statistics Date: 2025-12-30 08:10:23
 | [maven-verifier-plugin](https://github.com/apache/maven-verifier-plugin) | Apache Maven Verifier Plugin | Java | 14 | Apache License 2.0 | 2017-12-09 | 2025-08-14 | 2025-08-14 |
 | [maven-war-plugin](https://github.com/apache/maven-war-plugin) | Apache Maven WAR Plugin | Java | 44 | Apache License 2.0 | 2017-12-09 | 2025-12-25 | 2025-12-25 |
 | [netbeans-website-cleanup](https://github.com/apache/netbeans-website-cleanup) | A repository to cleanup the older NetBeans website sources to have a clean repository for the new website to cleanup history and big files etc | HTML | 5 | - | 2017-12-17 | 2025-10-17 | 2018-03-13 |
-| [kyuubi](https://github.com/apache/kyuubi) | Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses. | Scala | 2287 | Apache License 2.0 | 2017-12-18 | 2025-12-28 | 2025-12-29 |
+| [kyuubi](https://github.com/apache/kyuubi) | Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses. | Scala | 2287 | Apache License 2.0 | 2017-12-18 | 2025-12-28 | 2025-12-31 |
 | [shardingsphere-elasticjob-cloud](https://github.com/apache/shardingsphere-elasticjob-cloud) | None | Java | 243 | - | 2017-12-18 | 2025-11-20 | 2020-07-15 |
 | [plc4x](https://github.com/apache/plc4x) | PLC4X The Industrial IoT adapter | Java | 1518 | Apache License 2.0 | 2017-12-20 | 2025-12-29 | 2025-12-22 |
 | [maven-sources](https://github.com/apache/maven-sources) | Apache Maven Sources | None | 115 | - | 2017-12-30 | 2025-11-27 | 2025-11-23 |
 | [maven-doxia-ide](https://github.com/apache/maven-doxia-ide) | [deprecated] Mirror of Apache Maven Doxia IDE | Java | 0 | - | 2017-12-31 | 2023-07-25 | 2018-01-02 |
-| [maven-archetypes](https://github.com/apache/maven-archetypes) | Apache Maven Archetype Bundles | Java | 35 | Apache License 2.0 | 2018-01-02 | 2025-12-27 | 2025-12-27 |
+| [maven-archetypes](https://github.com/apache/maven-archetypes) | Apache Maven Archetype Bundles | Java | 35 | Apache License 2.0 | 2018-01-02 | 2025-12-30 | 2025-12-30 |
 | [commons-statistics](https://github.com/apache/commons-statistics) | Apache Commons Statistics | Java | 60 | Apache License 2.0 | 2018-01-03 | 2025-12-28 | 2025-12-28 |
 | [maven-doxia-site](https://github.com/apache/maven-doxia-site) | Apache Maven Doxia site | CSS | 2 | Apache License 2.0 | 2018-01-04 | 2025-11-10 | 2025-11-10 |
 | [aries-tx-control](https://github.com/apache/aries-tx-control) | Apache Aries Transaction Control | Java | 2 | - | 2018-01-04 | 2021-11-10 | 2023-07-16 |
@@ -1493,14 +1493,14 @@ Statistics Date: 2025-12-30 08:10:23
 | [sling-org-apache-sling-serviceuser-webconsole](https://github.com/apache/sling-org-apache-sling-serviceuser-webconsole) | Apache Sling Service User Web Console | Java | 0 | Apache License 2.0 | 2018-01-10 | 2025-11-29 | 2025-11-29 |
 | [dubbo-admin](https://github.com/apache/dubbo-admin) | The ops and reference implementation for Apache Dubbo. | Go | 4040 | Apache License 2.0 | 2018-01-11 | 2025-12-28 | 2025-12-28 |
 | [mynewt-mcumgr-cli](https://github.com/apache/mynewt-mcumgr-cli) | MCU Manager CLI | Go | 74 | Apache License 2.0 | 2018-01-11 | 2025-12-22 | 2022-10-04 |
-| [skywalking-website](https://github.com/apache/skywalking-website) | Apache SkyWalking Website | CSS | 101 | Apache License 2.0 | 2018-01-13 | 2025-12-29 | 2025-12-29 |
+| [skywalking-website](https://github.com/apache/skywalking-website) | Apache SkyWalking Website | CSS | 101 | Apache License 2.0 | 2018-01-13 | 2025-12-29 | 2025-12-30 |
 | [incubator-odftoolkit-site](https://github.com/apache/incubator-odftoolkit-site) | Apache ODF Toolkit Site incubating - Project Retired | HTML | 1 | - | 2018-01-15 | 2024-06-06 | 2018-01-30 |
 | [dubbo-spring-boot-project](https://github.com/apache/dubbo-spring-boot-project) | Spring Boot Project for Apache Dubbo | Java | 5402 | Apache License 2.0 | 2018-01-18 | 2025-12-26 | 2023-01-25 |
 | [commons-testrepo](https://github.com/apache/commons-testrepo) | Apache Commons test gitbox bootstrap repository | None | 1 | - | 2018-01-25 | 2021-11-10 | 2018-01-25 |
 | [sling-org-apache-sling-starter-docker](https://github.com/apache/sling-org-apache-sling-starter-docker) | Apache Sling Starter Docker Image | Dockerfile | 5 | Apache License 2.0 | 2018-01-26 | 2025-08-06 | 2025-08-06 |
 | [sling-org-apache-sling-repoinit-it](https://github.com/apache/sling-org-apache-sling-repoinit-it) | Apache Sling RepoInit Integration Tests(deprecated) | None | 0 | Apache License 2.0 | 2018-01-30 | 2025-08-06 | 2025-08-06 |
 | [maven-studies](https://github.com/apache/maven-studies) | Apache Maven Studies | None | 13 | - | 2018-02-04 | 2025-10-09 | 2025-10-05 |
-| [datafusion-sqlparser-rs](https://github.com/apache/datafusion-sqlparser-rs) | Extensible SQL Lexer and Parser for Rust | Rust | 3274 | Apache License 2.0 | 2018-02-06 | 2025-12-30 | 2025-12-24 |
+| [datafusion-sqlparser-rs](https://github.com/apache/datafusion-sqlparser-rs) | Extensible SQL Lexer and Parser for Rust | Rust | 3274 | Apache License 2.0 | 2018-02-06 | 2025-12-30 | 2025-12-30 |
 | [camel-website](https://github.com/apache/camel-website) | Apache Camel Website | JavaScript | 72 | Apache License 2.0 | 2018-02-11 | 2025-12-23 | 2025-12-23 |
 | [cordova](https://github.com/apache/cordova) | Apache Cordova | None | 691 | - | 2018-02-13 | 2025-12-16 | 2025-12-16 |
 | [ignite-release](https://github.com/apache/ignite-release) | Mirror of Apache Ignite | Shell | 1 | - | 2018-02-15 | 2023-09-18 | 2022-01-17 |
@@ -1545,8 +1545,8 @@ Statistics Date: 2025-12-30 08:10:23
 | [archiva-parent](https://github.com/apache/archiva-parent) | Archiva Parent Pom Project | None | 0 | - | 2018-04-18 | 2024-04-25 | 2023-10-19 |
 | [commons-signing](https://github.com/apache/commons-signing) | Project Retired - Apache Commons Code Signing | Java | 1 | Apache License 2.0 | 2018-04-19 | 2025-08-13 | 2018-04-30 |
 | [comdev-site](https://github.com/apache/comdev-site) | Website sources for the Apache Community Development Website | HTML | 240 | Apache License 2.0 | 2018-04-21 | 2025-12-28 | 2025-12-29 |
-| [comdev-projects](https://github.com/apache/comdev-projects) | Mirror of SVN Apache Comdev - Projects | Python | 14 | - | 2018-04-21 | 2025-12-30 | 2025-12-30 |
-| [streampipes](https://github.com/apache/streampipes) | Apache StreamPipes - A self-service (Industrial) IoT toolbox to enable non-technical users to connect, analyze and explore IoT data streams. | Java | 695 | Apache License 2.0 | 2018-04-22 | 2025-12-29 | 2025-12-29 |
+| [comdev-projects](https://github.com/apache/comdev-projects) | Mirror of SVN Apache Comdev - Projects | Python | 14 | - | 2018-04-21 | 2025-12-31 | 2025-12-31 |
+| [streampipes](https://github.com/apache/streampipes) | Apache StreamPipes - A self-service (Industrial) IoT toolbox to enable non-technical users to connect, analyze and explore IoT data streams. | Java | 695 | Apache License 2.0 | 2018-04-22 | 2025-12-30 | 2025-12-30 |
 | [sling-org-apache-sling-feature](https://github.com/apache/sling-org-apache-sling-feature) | Apache Sling OSGi Feature Model | Java | 13 | Apache License 2.0 | 2018-04-26 | 2025-08-06 | 2025-08-06 |
 | [sling-org-apache-sling-feature-analyser](https://github.com/apache/sling-org-apache-sling-feature-analyser) | Apache Sling Feature Model Analyser | Java | 2 | Apache License 2.0 | 2018-04-26 | 2025-08-06 | 2025-08-06 |
 | [sling-org-apache-sling-feature-applicationbuilder](https://github.com/apache/sling-org-apache-sling-feature-applicationbuilder) | Apache Sling Feature Model Application Builder | Java | 0 | Apache License 2.0 | 2018-04-26 | 2023-06-23 | 2019-01-29 |
@@ -1563,7 +1563,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [streampipes-installer](https://github.com/apache/streampipes-installer) | Apache StreamPipes installation files for Linux, MacOS and Windows | Shell | 15 | Apache License 2.0 | 2018-05-04 | 2024-04-10 | 2022-03-28 |
 | [myfaces-build-tools](https://github.com/apache/myfaces-build-tools) | Apache MyFaces build tools | Java | 5 | - | 2018-05-04 | 2025-06-11 | 2025-06-11 |
 | [myfaces](https://github.com/apache/myfaces) | Apache MyFaces Core | Java | 125 | - | 2018-05-08 | 2025-12-29 | 2025-12-29 |
-| [datasketches-cpp](https://github.com/apache/datasketches-cpp) | Core C++ Sketch Library | C++ | 248 | Apache License 2.0 | 2018-05-14 | 2025-12-30 | 2025-11-13 |
+| [datasketches-cpp](https://github.com/apache/datasketches-cpp) | Core C++ Sketch Library | C++ | 249 | Apache License 2.0 | 2018-05-14 | 2025-12-30 | 2025-11-13 |
 | [dubbo-python2](https://github.com/apache/dubbo-python2) | Python Dubbo Client | Python | 62 | Apache License 2.0 | 2018-05-15 | 2025-09-15 | 2025-09-24 |
 | [puppet-datadog-agent](https://github.com/apache/puppet-datadog-agent) | Puppet module to install the Datadog agent | Ruby | 0 | Other | 2018-05-15 | 2023-07-25 | 2019-01-10 |
 | [geronimo-opentracing](https://github.com/apache/geronimo-opentracing) | Apache Geronimo Microprofile OpenTracing implementation | Java | 2 | - | 2018-05-16 | 2022-02-23 | 2022-12-21 |
@@ -1575,7 +1575,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [couchdb-hyper](https://github.com/apache/couchdb-hyper) | Mirror for httpsgithub.comGameAnalyticshyper | Erlang | 0 | MIT License | 2018-05-30 | 2023-09-18 | 2022-07-21 |
 | [echarts-website](https://github.com/apache/echarts-website) | Apache ECharts Website | JavaScript | 159 | - | 2018-05-31 | 2025-12-19 | 2025-11-24 |
 | [sling-org-apache-sling-commons-clam](https://github.com/apache/sling-org-apache-sling-commons-clam) | Apache Sling Commons Clam | Java | 1 | Apache License 2.0 | 2018-06-01 | 2025-08-06 | 2025-08-06 |
-| [dubbo-hessian-lite](https://github.com/apache/dubbo-hessian-lite) | Hessian Lite for Apache Dubbo | Java | 65 | Apache License 2.0 | 2018-06-04 | 2025-11-26 | 2025-11-26 |
+| [dubbo-hessian-lite](https://github.com/apache/dubbo-hessian-lite) | Hessian Lite for Apache Dubbo | Java | 66 | Apache License 2.0 | 2018-06-04 | 2025-12-30 | 2025-11-26 |
 | [geronimo-metrics](https://github.com/apache/geronimo-metrics) | Apache Geronimo Metrics | Java | 2 | - | 2018-06-10 | 2025-08-27 | 2025-03-17 |
 | [incubator-warble-website](https://github.com/apache/incubator-warble-website) | Apache Warble incubating Website | None | 1 | Apache License 2.0 | 2018-06-11 | 2021-11-08 | 2021-08-24 |
 | [incubator-warble-node](https://github.com/apache/incubator-warble-node) | Apache Warble (incubating) Monitoring Node Package | Python | 0 | Apache License 2.0 | 2018-06-12 | 2023-07-25 | 2018-06-30 |
@@ -1598,15 +1598,15 @@ Statistics Date: 2025-12-30 08:10:23
 | [sling-org-apache-sling-file-optimization](https://github.com/apache/sling-org-apache-sling-file-optimization) | Apache Sling File Optimization | Java | 0 | Apache License 2.0 | 2018-07-03 | 2025-08-06 | 2025-08-06 |
 | [geronimo-health](https://github.com/apache/geronimo-health) | Apache Geronimo Microprofile Health Implementation | Java | 1 | - | 2018-07-09 | 2025-08-27 | 2023-06-14 |
 | [openwhisk-deploy-openshift](https://github.com/apache/openwhisk-deploy-openshift) | [DEPRECATED] - This project can be used to deploy Apache OpenWhisk to the OpenShift platform | Shell | 22 | Apache License 2.0 | 2018-07-10 | 2023-07-25 | 2019-05-20 |
-| [shenyu](https://github.com/apache/shenyu) | Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance. | Java | 8744 | Apache License 2.0 | 2018-07-11 | 2025-12-28 | 2025-12-28 |
+| [shenyu](https://github.com/apache/shenyu) | Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance. | Java | 8746 | Apache License 2.0 | 2018-07-11 | 2025-12-31 | 2025-12-31 |
 | [skywalking-oal-tool](https://github.com/apache/skywalking-oal-tool) | Apache skywalking | Java | 9 | Apache License 2.0 | 2018-07-13 | 2023-01-28 | 2018-12-06 |
 | [openwhisk-runtime-ruby](https://github.com/apache/openwhisk-runtime-ruby) | Apache OpenWhisk Runtime Ruby supports Apache OpenWhisk functions written in Ruby | Ruby | 13 | Apache License 2.0 | 2018-07-14 | 2024-09-24 | 2024-09-24 |
 | [openwhisk-runtime-ballerina](https://github.com/apache/openwhisk-runtime-ballerina) | Apache OpenWhisk Runtime Ballerina supports Apache OpenWhisk functions written in Ballerina | Java | 7 | Apache License 2.0 | 2018-07-14 | 2023-01-28 | 2021-03-10 |
-| [dubbo-kubernetes](https://github.com/apache/dubbo-kubernetes) | Provides a proxyless service mesh for Dubbo microservices on Kubernetes. | Go | 194 | Apache License 2.0 | 2018-07-17 | 2025-12-21 | 2025-12-21 |
-| [incubator-hugegraph](https://github.com/apache/incubator-hugegraph) | A graph database that supports more than 100+ billion data, high performance and scalability (Include OLTP Engine & REST-API & Backends) | Java | 2869 | Apache License 2.0 | 2018-07-18 | 2025-12-30 | 2025-12-26 |
+| [dubbo-kubernetes](https://github.com/apache/dubbo-kubernetes) | Provides a proxyless service mesh for Dubbo microservices on Kubernetes. | Go | 194 | Apache License 2.0 | 2018-07-17 | 2025-12-30 | 2025-12-30 |
+| [incubator-hugegraph](https://github.com/apache/incubator-hugegraph) | A graph database that supports more than 100+ billion data, high performance and scalability (Include OLTP Engine & REST-API & Backends) | Java | 2870 | Apache License 2.0 | 2018-07-18 | 2025-12-31 | 2025-12-26 |
 | [tcl-rivet](https://github.com/apache/tcl-rivet) | Apache Tcl  Rivet | Tcl | 32 | Apache License 2.0 | 2018-07-18 | 2025-11-20 | 2025-12-12 |
 | [fineract-cn-stellar-bridge](https://github.com/apache/fineract-cn-stellar-bridge) | Apache Fineract Stellar Bridge | Java | 1 | Apache License 2.0 | 2018-07-18 | 2025-01-09 | 2018-07-18 |
-| [db-jdo](https://github.com/apache/db-jdo) | Apache JDO project | Java | 36 | Apache License 2.0 | 2018-07-20 | 2025-12-28 | 2025-12-28 |
+| [db-jdo](https://github.com/apache/db-jdo) | Apache JDO project | Java | 36 | Apache License 2.0 | 2018-07-20 | 2025-12-28 | 2025-12-30 |
 | [universal-wiki-converter](https://github.com/apache/universal-wiki-converter) | Universal Wiki Converter (UWC) is a Java tool used to convert various wikis into Confluence format. No need to fork it, ask for access! | Java | 5 | - | 2018-07-20 | 2025-10-28 | 2023-08-29 |
 | [geronimo-microprofile](https://github.com/apache/geronimo-microprofile) | Apache Geronimo Microprofile Aggregator Project | Java | 1 | - | 2018-07-21 | 2025-08-27 | 2025-05-04 |
 | [shenyu-dashboard](https://github.com/apache/shenyu-dashboard) | Apache ShenYu Dashboard | JavaScript | 194 | Apache License 2.0 | 2018-07-22 | 2025-12-25 | 2025-11-21 |
@@ -1633,7 +1633,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [groovy-examples](https://github.com/apache/groovy-examples) | Apache Groovy Examples | Groovy | 15 | - | 2018-08-24 | 2025-08-25 | 2021-01-28 |
 | [servicecomb-mesher](https://github.com/apache/servicecomb-mesher) | A high performance service mesh implementation written in go | Go | 688 | Apache License 2.0 | 2018-08-29 | 2025-08-09 | 2024-09-19 |
 | [sling-org-apache-sling-installer-provider-installhook](https://github.com/apache/sling-org-apache-sling-installer-provider-installhook) | Apache Sling JCR Installer Install Hook | Java | 1 | - | 2018-08-31 | 2025-08-06 | 2025-09-09 |
-| [camel-k](https://github.com/apache/camel-k) | Apache Camel K is a lightweight integration platform, born on Kubernetes, with serverless superpowers | Go | 904 | Apache License 2.0 | 2018-08-31 | 2025-12-27 | 2025-12-30 |
+| [camel-k](https://github.com/apache/camel-k) | Apache Camel K is a lightweight integration platform, born on Kubernetes, with serverless superpowers | Go | 904 | Apache License 2.0 | 2018-08-31 | 2025-12-27 | 2025-12-31 |
 | [sling-org-apache-sling-clam](https://github.com/apache/sling-org-apache-sling-clam) | Apache Sling Clam | Java | 1 | Apache License 2.0 | 2018-09-01 | 2025-08-06 | 2025-08-06 |
 | [skywalking-query-protocol](https://github.com/apache/skywalking-query-protocol) | Query Protocol for Apache SkyWalking in GraphQL format | None | 71 | - | 2018-09-03 | 2025-12-10 | 2025-11-10 |
 | [hadoop-site](https://github.com/apache/hadoop-site) | Apache Hadoop Site | None | 12 | Apache License 2.0 | 2018-09-04 | 2025-11-10 | 2025-11-10 |
@@ -1642,7 +1642,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [ratis-thirdparty](https://github.com/apache/ratis-thirdparty) | Third-party dependencies for Apache Ratis | Shell | 12 | Apache License 2.0 | 2018-09-18 | 2025-11-23 | 2025-11-23 |
 | [incubator-retired-zipkin-website](https://github.com/apache/incubator-retired-zipkin-website) | Apache Zipkin Website | HTML | 5 | Apache License 2.0 | 2018-09-19 | 2024-06-06 | 2019-11-01 |
 | [freemarker-generator](https://github.com/apache/freemarker-generator) | Apache FreeMarker Generator | Java | 35 | Apache License 2.0 | 2018-09-19 | 2025-06-08 | 2025-06-08 |
-| [doris-website](https://github.com/apache/doris-website) | Apache Doris Website | MDX | 116 | Apache License 2.0 | 2018-09-21 | 2025-12-30 | 2025-12-30 |
+| [doris-website](https://github.com/apache/doris-website) | Apache Doris Website | MDX | 116 | Apache License 2.0 | 2018-09-21 | 2025-12-31 | 2025-12-31 |
 | [ambari-logsearch](https://github.com/apache/ambari-logsearch) | Apache Ambari Logsearch is a sub project of Apache Ambari. | Java | 31 | Apache License 2.0 | 2018-09-25 | 2024-07-31 | 2024-07-31 |
 | [ambari-metrics](https://github.com/apache/ambari-metrics) | Apache Ambari Metrics is a sub project of Apache Ambari. | Java | 54 | Apache License 2.0 | 2018-09-25 | 2025-11-10 | 2025-09-22 |
 | [ambari-infra](https://github.com/apache/ambari-infra) | Apache Ambari Infra is a sub project of Apache Ambari. | Java | 22 | Apache License 2.0 | 2018-09-25 | 2025-07-15 | 2025-03-11 |
@@ -1667,7 +1667,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [kibble-docker](https://github.com/apache/kibble-docker) | Apache Kibble Docker Image | None | 2 | - | 2018-10-21 | 2025-11-11 | 2018-10-21 |
 | [pinot-site](https://github.com/apache/pinot-site) | Apache Pinot Website | None | 12 | - | 2018-10-22 | 2025-11-13 | 2025-11-18 |
 | [skywalking-docker](https://github.com/apache/skywalking-docker) | SkyWalking Docker file archive for all official releases | Dockerfile | 266 | Apache License 2.0 | 2018-10-25 | 2025-11-21 | 2021-09-09 |
-| [skywalking-helm](https://github.com/apache/skywalking-helm) | Apache SkyWalking Kubernetes Deployment Helm Chart | Smarty | 537 | Apache License 2.0 | 2018-10-25 | 2025-12-26 | 2025-12-25 |
+| [skywalking-helm](https://github.com/apache/skywalking-helm) | Apache SkyWalking Kubernetes Deployment Helm Chart | Smarty | 539 | Apache License 2.0 | 2018-10-25 | 2025-12-30 | 2025-12-25 |
 | [pulsar-manager](https://github.com/apache/pulsar-manager) | Apache Pulsar Manager | Vue | 540 | Apache License 2.0 | 2018-10-31 | 2025-12-19 | 2025-01-12 |
 | [dubbo-serialization-gson](https://github.com/apache/dubbo-serialization-gson) | Dubbo gson serialization extension | Java | 3 | Apache License 2.0 | 2018-11-01 | 2021-12-15 | 2023-07-19 |
 | [datasketches-postgresql](https://github.com/apache/datasketches-postgresql) | PostgreSQL extension providing approximate algorithms based on apache/datasketches-cpp | C | 90 | Apache License 2.0 | 2018-11-01 | 2025-12-07 | 2025-07-02 |
@@ -1680,12 +1680,12 @@ Statistics Date: 2025-12-30 08:10:23
 | [incubator-milagro-java](https://github.com/apache/incubator-milagro-java) | [DEPRECATED] - Apache Milagro | Java | 2 | Apache License 2.0 | 2018-11-08 | 2023-08-18 | 2018-11-08 |
 | [sling-org-apache-sling-feature-inventoryprinter](https://github.com/apache/sling-org-apache-sling-feature-inventoryprinter) | Apache Sling Feature Model - Inventory Printer | Java | 0 | Apache License 2.0 | 2018-11-12 | 2025-08-06 | 2025-08-06 |
 | [archiva-redback-site](https://github.com/apache/archiva-redback-site) | Apache Archiva Redback Web Content | Shell | 1 | - | 2018-11-14 | 2024-04-25 | 2019-11-30 |
-| [iceberg](https://github.com/apache/iceberg) | Apache Iceberg | Java | 8373 | Apache License 2.0 | 2018-11-19 | 2025-12-30 | 2025-12-28 |
+| [iceberg](https://github.com/apache/iceberg) | Apache Iceberg | Java | 8379 | Apache License 2.0 | 2018-11-19 | 2025-12-31 | 2025-12-30 |
 | [fineract-cn-postgresql](https://github.com/apache/fineract-cn-postgresql) | Apache Fineract CN library for using PostgreSQL in a multi-tenanted manner | Java | 2 | - | 2018-11-19 | 2024-01-11 | 2023-02-09 |
 | [geode-benchmarks](https://github.com/apache/geode-benchmarks) | Apache Geode Benchmarks | Java | 6 | Apache License 2.0 | 2018-11-20 | 2025-12-18 | 2025-12-18 |
 | [groovy-website](https://github.com/apache/groovy-website) | Apache Groovy content to generate sites | Groovy | 40 | Apache License 2.0 | 2018-11-20 | 2025-12-08 | 2025-12-08 |
 | [plc4x-website](https://github.com/apache/plc4x-website) | Apache PLC4X generated Website | HTML | 10 | - | 2018-11-23 | 2025-12-17 | 2025-12-17 |
-| [iotdb](https://github.com/apache/iotdb) | Apache IoTDB | Java | 6264 | Apache License 2.0 | 2018-11-24 | 2025-12-30 | 2025-12-30 |
+| [iotdb](https://github.com/apache/iotdb) | Apache IoTDB | Java | 6264 | Apache License 2.0 | 2018-11-24 | 2025-12-31 | 2025-12-31 |
 | [incubator-marvin-website](https://github.com/apache/incubator-marvin-website) | Apache marvin | HTML | 4 | Apache License 2.0 | 2018-11-28 | 2024-06-06 | 2023-03-07 |
 | [openwhisk-composer-python](https://github.com/apache/openwhisk-composer-python) | Apache OpenWhisk Composer Python provides a high-level programming model in Python for composing serverless functions | Python | 10 | Apache License 2.0 | 2018-11-29 | 2025-01-11 | 2024-09-24 |
 | [iotdb-website](https://github.com/apache/iotdb-website) | Apache iotdb | HTML | 30 | - | 2018-11-30 | 2025-12-26 | 2025-12-26 |
@@ -1700,11 +1700,11 @@ Statistics Date: 2025-12-30 08:10:23
 | [phoenix-connectors](https://github.com/apache/phoenix-connectors) | Apache Phoenix Connectors | Java | 55 | Apache License 2.0 | 2018-12-18 | 2025-08-13 | 2025-08-06 |
 | [cassandra-sidecar](https://github.com/apache/cassandra-sidecar) | Sidecar for Apache Cassandra® | Java | 53 | Apache License 2.0 | 2018-12-18 | 2025-12-28 | 2025-12-23 |
 | [phoenix-queryserver](https://github.com/apache/phoenix-queryserver) | Apache Phoenix Query Server | Python | 51 | - | 2018-12-19 | 2025-10-27 | 2025-10-27 |
-| [incubator-seata](https://github.com/apache/incubator-seata) | :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution. | Java | 25908 | Apache License 2.0 | 2018-12-28 | 2025-12-30 | 2025-12-30 |
+| [incubator-seata](https://github.com/apache/incubator-seata) | :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution. | Java | 25911 | Apache License 2.0 | 2018-12-28 | 2025-12-31 | 2025-12-30 |
 | [archiva-jenkins-lib](https://github.com/apache/archiva-jenkins-lib) | Apache Archiva Shared Jenkins Pipeline | Groovy | 1 | - | 2018-12-28 | 2025-08-25 | 2022-08-06 |
 | [aries-journaled-events](https://github.com/apache/aries-journaled-events) | Apache aries | Java | 1 | Apache License 2.0 | 2018-12-30 | 2023-05-26 | 2023-09-05 |
 | [samza-beam-examples](https://github.com/apache/samza-beam-examples) | Apache samza | Java | 8 | Apache License 2.0 | 2019-01-04 | 2025-09-06 | 2023-07-20 |
-| [airflow-site](https://github.com/apache/airflow-site) | Apache Airflow Website | HTML | 160 | - | 2019-01-05 | 2025-12-29 | 2025-12-29 |
+| [airflow-site](https://github.com/apache/airflow-site) | Apache Airflow Website | HTML | 160 | - | 2019-01-05 | 2025-12-29 | 2025-12-30 |
 | [jclouds-labs-google](https://github.com/apache/jclouds-labs-google) | Apache jClouds Labs Google | None | 1 | - | 2019-01-06 | 2025-08-06 | 2019-01-06 |
 | [jclouds-labs](https://github.com/apache/jclouds-labs) | Apache jClouds Labs | Java | 3 | - | 2019-01-06 | 2025-08-06 | 2022-03-26 |
 | [jclouds-chef](https://github.com/apache/jclouds-chef) | Apache jClouds Chef | None | 1 | - | 2019-01-06 | 2025-08-06 | 2019-01-06 |
@@ -1730,7 +1730,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [tomee-tck](https://github.com/apache/tomee-tck) | Apache TomEE TCK Setup | Java | 8 | - | 2019-01-13 | 2024-07-27 | 2024-09-21 |
 | [phoenix-omid-site](https://github.com/apache/phoenix-omid-site) | Apache Omid Site (Incubating) | HTML | 1 | Other | 2019-01-17 | 2024-06-06 | 2020-11-24 |
 | [allura-site](https://github.com/apache/allura-site) | Apache Allura Website | None | 3 | - | 2019-01-17 | 2025-02-01 | 2025-08-26 |
-| [incubator-seata-website](https://github.com/apache/incubator-seata-website) | Apache Seata(incubating) Website | JavaScript | 107 | Apache License 2.0 | 2019-01-18 | 2025-12-24 | 2025-12-30 |
+| [incubator-seata-website](https://github.com/apache/incubator-seata-website) | Apache Seata(incubating) Website | JavaScript | 107 | Apache License 2.0 | 2019-01-18 | 2025-12-24 | 2025-12-31 |
 | [joshua-site](https://github.com/apache/joshua-site) | Apache Joshua Site | HTML | 1 | - | 2019-01-20 | 2024-06-06 | 2019-01-20 |
 | [sling-org-apache-sling-bnd-plugins](https://github.com/apache/sling-org-apache-sling-bnd-plugins) | [Archived] Apache Sling bnd Plugins | Java | 1 | Apache License 2.0 | 2019-01-21 | 2023-01-28 | 2019-01-31 |
 | [causeway-site](https://github.com/apache/causeway-site) | Apache Isis Website | HTML | 1 | - | 2019-01-23 | 2024-06-05 | 2025-11-18 |
@@ -1738,7 +1738,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [any23-committers](https://github.com/apache/any23-committers) | Apache Any23 - committers repo | Shell | 2 | - | 2019-01-25 | 2023-07-03 | 2022-03-03 |
 | [onami](https://github.com/apache/onami) | Apache Onami (retired) | Java | 11 | - | 2019-01-25 | 2023-01-28 | 2019-01-25 |
 | [tuscany-js](https://github.com/apache/tuscany-js) | Apache Tuscani (retired) JS | None | 1 | - | 2019-01-25 | 2023-01-28 | 2019-01-25 |
-| [ozone-site](https://github.com/apache/ozone-site) | Website for Apache Ozone | HTML | 8 | Apache License 2.0 | 2019-01-25 | 2025-12-05 | 2025-12-20 |
+| [ozone-site](https://github.com/apache/ozone-site) | Website for Apache Ozone | HTML | 8 | Apache License 2.0 | 2019-01-25 | 2025-12-05 | 2025-12-30 |
 | [james-site](https://github.com/apache/james-site) | Repository used to build the Apache James website | CSS | 5 | - | 2019-01-25 | 2024-06-05 | 2025-10-03 |
 | [mnemonic-site](https://github.com/apache/mnemonic-site) | Apache Mnemonic Site | SCSS | 5 | Apache License 2.0 | 2019-01-25 | 2025-04-21 | 2022-04-23 |
 | [incubator-retired-cmda](https://github.com/apache/incubator-retired-cmda) | Apache CMDA (Incubating, retired) | JavaScript | 1 | - | 2019-01-25 | 2023-01-28 | 2019-01-25 |
@@ -1763,7 +1763,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [artemis-native](https://github.com/apache/artemis-native) | Apache Artemis Native | Java | 10 | Apache License 2.0 | 2019-02-27 | 2025-12-08 | 2025-12-08 |
 | [openwhisk-runtime-rust](https://github.com/apache/openwhisk-runtime-rust) | Apache OpenWhisk Runtime Rust supports Apache OpenWhisk functions written in Rust | Python | 25 | Apache License 2.0 | 2019-02-28 | 2025-03-08 | 2024-09-24 |
 | [pulsar-client-node](https://github.com/apache/pulsar-client-node) | Apache Pulsar NodeJS Client | C++ | 164 | Apache License 2.0 | 2019-03-01 | 2025-12-30 | 2025-12-30 |
-| [dolphinscheduler](https://github.com/apache/dolphinscheduler) | Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code | Java | 14060 | Apache License 2.0 | 2019-03-01 | 2025-12-30 | 2025-12-22 |
+| [dolphinscheduler](https://github.com/apache/dolphinscheduler) | Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code | Java | 14062 | Apache License 2.0 | 2019-03-01 | 2025-12-30 | 2025-12-31 |
 | [tomee-chatterbox](https://github.com/apache/tomee-chatterbox) | Apache tomee | Java | 3 | Apache License 2.0 | 2019-03-05 | 2021-11-09 | 2025-04-21 |
 | [rocketmq-v6](https://github.com/apache/rocketmq-v6) | Apache RocketMQ v6.0 | None | 1 | - | 2019-03-07 | 2022-06-19 | 2019-03-07 |
 | [incubator-kie-kogito-runtimes](https://github.com/apache/incubator-kie-kogito-runtimes) | Kogito Runtimes - Kogito is a cloud-native business automation technology for building cloud-ready business applications. | Java | 595 | Apache License 2.0 | 2019-03-07 | 2025-12-22 | 2025-12-23 |
@@ -1781,14 +1781,14 @@ Statistics Date: 2025-12-30 08:10:23
 | [incubator-tuweni-website](https://github.com/apache/incubator-tuweni-website) | Apache tuweni website | HTML | 2 | - | 2019-04-07 | 2024-06-06 | 2023-07-29 |
 | [incubator-seata-k8s](https://github.com/apache/incubator-seata-k8s) | Seata Kubernetes Operations Tool | Go | 48 | Apache License 2.0 | 2019-04-08 | 2025-12-22 | 2025-12-22 |
 | [infrastructure-oraclejava](https://github.com/apache/infrastructure-oraclejava) | manage oracle java7 and java8 with unlimited JCE | Puppet | 1 | - | 2019-04-08 | 2023-07-25 | 2019-04-11 |
-| [apisix-website](https://github.com/apache/apisix-website) | Apache APISIX Website | TypeScript | 142 | Apache License 2.0 | 2019-04-09 | 2025-12-23 | 2025-12-30 |
-| [apisix](https://github.com/apache/apisix) | The Cloud-Native API Gateway and AI Gateway | Lua | 16032 | Apache License 2.0 | 2019-04-10 | 2025-12-30 | 2025-12-30 |
+| [apisix-website](https://github.com/apache/apisix-website) | Apache APISIX Website | TypeScript | 143 | Apache License 2.0 | 2019-04-09 | 2025-12-31 | 2025-12-31 |
+| [apisix](https://github.com/apache/apisix) | The Cloud-Native API Gateway and AI Gateway | Lua | 16036 | Apache License 2.0 | 2019-04-10 | 2025-12-31 | 2025-12-31 |
 | [hbase-native-client](https://github.com/apache/hbase-native-client) | Apache HBase Native Client | C++ | 36 | - | 2019-04-10 | 2024-11-11 | 2022-02-07 |
 | [sling-org-apache-sling-feature-apiregions-model](https://github.com/apache/sling-org-apache-sling-feature-apiregions-model) | Apache Sling Feature Model API Regions | Java | 0 | Apache License 2.0 | 2019-04-10 | 2025-08-06 | 2025-08-06 |
 | [xalan-pmc](https://github.com/apache/xalan-pmc) | Apache Xalan-PMC | None | 0 | - | 2019-04-14 | 2019-07-11 | 2019-04-15 |
 | [cayenne-examples](https://github.com/apache/cayenne-examples) | Apache Cayenne examples and tutorials | Java | 3 | - | 2019-04-15 | 2024-12-13 | 2024-02-21 |
 | [xalan-site](https://github.com/apache/xalan-site) | Apache Xalan-Site | HTML | 2 | - | 2019-04-15 | 2025-11-13 | 2025-11-13 |
-| [xalan-java](https://github.com/apache/xalan-java) | Apache Xalan-Java | Java | 23 | Other | 2019-04-15 | 2025-12-15 | 2025-12-26 |
+| [xalan-java](https://github.com/apache/xalan-java) | Apache Xalan-Java | Java | 23 | Other | 2019-04-15 | 2025-12-15 | 2025-12-30 |
 | [sling-org-apache-sling-distribution-journal](https://github.com/apache/sling-org-apache-sling-distribution-journal) | Apache Sling Journal based Content Distribution - Core | Java | 8 | Apache License 2.0 | 2019-04-16 | 2025-12-11 | 2025-12-05 |
 | [sling-org-apache-sling-distribution-journal-messages](https://github.com/apache/sling-org-apache-sling-distribution-journal-messages) | Apache Sling Journal based Content Distribution - Messages | Java | 2 | Apache License 2.0 | 2019-04-16 | 2025-08-06 | 2025-08-06 |
 | [sling-org-apache-sling-distribution-journal-kafka](https://github.com/apache/sling-org-apache-sling-distribution-journal-kafka) | Apache Sling Journal Messaging based on Apache Kafka | Java | 0 | Apache License 2.0 | 2019-04-16 | 2025-08-06 | 2025-08-06 |
@@ -1802,7 +1802,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [comdev-wwwsite](https://github.com/apache/comdev-wwwsite) | Apache community website | Python | 2 | - | 2019-04-26 | 2025-07-01 | 2020-04-06 |
 | [servicecomb-kie](https://github.com/apache/servicecomb-kie) | Apache ServiceComb MetaConfig | Go | 545 | Apache License 2.0 | 2019-04-29 | 2025-12-28 | 2025-12-17 |
 | [hbase-filesystem](https://github.com/apache/hbase-filesystem) | Apache HBase Filesystem Semantics | Java | 9 | Apache License 2.0 | 2019-04-29 | 2025-12-05 | 2023-08-04 |
-| [pulsar-client-go](https://github.com/apache/pulsar-client-go) | Apache Pulsar Go Client Library | Go | 727 | Apache License 2.0 | 2019-05-06 | 2025-12-22 | 2025-12-22 |
+| [pulsar-client-go](https://github.com/apache/pulsar-client-go) | Apache Pulsar Go Client Library | Go | 728 | Apache License 2.0 | 2019-05-06 | 2025-12-30 | 2025-12-30 |
 | [datasketches](https://github.com/apache/datasketches) | Apache datasketches | None | 102 | Apache License 2.0 | 2019-05-08 | 2025-12-14 | 2025-12-14 |
 | [netbeans-webskin](https://github.com/apache/netbeans-webskin) | Apache NetBeans maven site skin for maven build | JavaScript | 0 | Apache License 2.0 | 2019-05-09 | 2025-10-17 | 2023-12-07 |
 | [netbeans-mavenutils-parent](https://github.com/apache/netbeans-mavenutils-parent) | This repository have been merged to https://github.com/apache/netbeans-mavenutils-nbm-maven-plugin/ | None | 2 | Apache License 2.0 | 2019-05-09 | 2023-01-27 | 2022-07-05 |
@@ -1819,17 +1819,17 @@ Statistics Date: 2025-12-30 08:10:23
 | [apachecon-site](https://github.com/apache/apachecon-site) | ApacheCon Web Site | None | 2 | - | 2019-05-17 | 2023-09-01 | 2022-06-25 |
 | [dubbo-proxy](https://github.com/apache/dubbo-proxy) | Apache dubbo | Java | 258 | - | 2019-05-21 | 2025-12-29 | 2023-07-22 |
 | [servicecomb-fence](https://github.com/apache/servicecomb-fence) | Apache servicecomb security module for java-chassis | JavaScript | 420 | - | 2019-05-23 | 2025-08-22 | 2024-11-30 |
-| [streampark](https://github.com/apache/streampark) | Make stream processing easier! Easy-to-use streaming application development framework and operation platform. | Java | 4262 | Apache License 2.0 | 2019-05-27 | 2025-12-29 | 2025-11-05 |
+| [streampark](https://github.com/apache/streampark) | Make stream processing easier! Easy-to-use streaming application development framework and operation platform. | Java | 4264 | Apache License 2.0 | 2019-05-27 | 2025-12-31 | 2025-11-05 |
 | [pulsar-client-ruby](https://github.com/apache/pulsar-client-ruby) | Apache Pulsar Ruby client | None | 7 | - | 2019-05-30 | 2025-09-27 | 2021-04-08 |
 | [infratest](https://github.com/apache/infratest) | None | None | 1 | - | 2019-05-31 | 2021-11-10 | 2019-05-31 |
 | [rocketmq-docker](https://github.com/apache/rocketmq-docker) | Apache RocketMQ Docker | Shell | 698 | Apache License 2.0 | 2019-06-03 | 2025-12-24 | 2025-06-10 |
 | [rocketmq-operator](https://github.com/apache/rocketmq-operator) | Apache RocketMQ Operator | Go | 330 | Apache License 2.0 | 2019-06-03 | 2025-11-19 | 2025-01-14 |
 | [rocketmq-exporter](https://github.com/apache/rocketmq-exporter) | Apache RocketMQ Prometheus Exporter | Java | 314 | Apache License 2.0 | 2019-06-03 | 2025-12-26 | 2025-09-30 |
 | [apisix-docker](https://github.com/apache/apisix-docker) | the docker for Apache APISIX | Dockerfile | 835 | Apache License 2.0 | 2019-06-04 | 2025-12-28 | 2025-10-30 |
-| [yunikorn-core](https://github.com/apache/yunikorn-core) | Apache YuniKorn Core | Go | 993 | Apache License 2.0 | 2019-06-13 | 2025-12-30 | 2025-12-17 |
+| [yunikorn-core](https://github.com/apache/yunikorn-core) | Apache YuniKorn Core | Go | 994 | Apache License 2.0 | 2019-06-13 | 2025-12-30 | 2025-12-17 |
 | [yunikorn-web](https://github.com/apache/yunikorn-web) | Apache YuniKorn Web UI | TypeScript | 39 | Apache License 2.0 | 2019-06-13 | 2025-12-16 | 2025-12-17 |
 | [yunikorn-scheduler-interface](https://github.com/apache/yunikorn-scheduler-interface) | Apache YuniKorn Scheduler Interface | Makefile | 32 | Apache License 2.0 | 2019-06-13 | 2025-12-09 | 2025-12-17 |
-| [yunikorn-k8shim](https://github.com/apache/yunikorn-k8shim) | Apache YuniKorn K8shim | Go | 161 | Apache License 2.0 | 2019-06-13 | 2025-12-23 | 2025-12-23 |
+| [yunikorn-k8shim](https://github.com/apache/yunikorn-k8shim) | Apache YuniKorn K8shim | Go | 162 | Apache License 2.0 | 2019-06-13 | 2025-12-30 | 2025-12-23 |
 | [mynewt-artifact](https://github.com/apache/mynewt-artifact) | Golang library for parsing, analyzing, and manipulating Mynewt files | Go | 2 | Apache License 2.0 | 2019-06-13 | 2025-12-05 | 2025-12-05 |
 | [rocketmq-ons](https://github.com/apache/rocketmq-ons) | Apache RocketMQ lite client | Java | 26 | Apache License 2.0 | 2019-06-14 | 2025-05-07 | 2023-07-22 |
 | [solr-operator](https://github.com/apache/solr-operator) | Official Kubernetes operator for Apache Solr | Go | 276 | Apache License 2.0 | 2019-06-14 | 2025-12-14 | 2025-12-05 |
@@ -1866,7 +1866,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [sling-org-apache-sling-contentparser-xml](https://github.com/apache/sling-org-apache-sling-contentparser-xml) | Apache Sling Content Parser for XML | Java | 0 | Apache License 2.0 | 2019-07-22 | 2025-08-06 | 2025-08-06 |
 | [sling-org-apache-sling-contentparser-xml-jcr](https://github.com/apache/sling-org-apache-sling-contentparser-xml-jcr) | Apache Sling Content Parser for JackRabbit FileVault XML | Java | 0 | Apache License 2.0 | 2019-07-22 | 2025-08-06 | 2025-09-09 |
 | [sling-org-apache-sling-contentparser-testutils](https://github.com/apache/sling-org-apache-sling-contentparser-testutils) | Apache Sling Content Parser Test Utilities | Java | 0 | Apache License 2.0 | 2019-07-22 | 2025-08-06 | 2025-08-06 |
-| [linkis](https://github.com/apache/linkis) | Apache Linkis builds a computation middleware layer to facilitate connection, governance and orchestration between the upper applications and the underlying data engines. | Java | 3408 | Apache License 2.0 | 2019-07-23 | 2025-12-24 | 2025-12-25 |
+| [linkis](https://github.com/apache/linkis) | Apache Linkis builds a computation middleware layer to facilitate connection, governance and orchestration between the upper applications and the underlying data engines. | Java | 3408 | Apache License 2.0 | 2019-07-23 | 2025-12-24 | 2025-12-30 |
 | [infrastructure-ci-specs](https://github.com/apache/infrastructure-ci-specs) | Simple repo for gauging CI specs | Python | 1 | Apache License 2.0 | 2019-07-23 | 2021-11-10 | 2019-07-23 |
 | [puppet-etherpad_lite](https://github.com/apache/puppet-etherpad_lite) | Puppet module for Etherpad Lite | Puppet | 0 | Apache License 2.0 | 2019-07-23 | 2023-07-25 | 2019-07-23 |
 | [jmeter-site-preview](https://github.com/apache/jmeter-site-preview) | Apache JMeter site preview | HTML | 2 | - | 2019-07-29 | 2024-06-06 | 2024-01-02 |
@@ -1881,26 +1881,26 @@ Statistics Date: 2025-12-30 08:10:23
 | [brpc-website](https://github.com/apache/brpc-website) | Apache bRPC Website | CSS | 18 | Apache License 2.0 | 2019-08-30 | 2025-10-27 | 2025-10-27 |
 | [puppet-backuppc](https://github.com/apache/puppet-backuppc) | None | Puppet | 0 | - | 2019-09-02 | 2023-07-25 | 2025-11-23 |
 | [dubbo-awesome](https://github.com/apache/dubbo-awesome) | Collections of Apache dubbo relevant informations | None | 142 | - | 2019-09-04 | 2025-12-21 | 2024-09-11 |
-| [dolphinscheduler-website](https://github.com/apache/dolphinscheduler-website) | Apache DolphinScheduler website | JavaScript | 142 | Apache License 2.0 | 2019-09-04 | 2025-12-14 | 2025-12-30 |
+| [dolphinscheduler-website](https://github.com/apache/dolphinscheduler-website) | Apache DolphinScheduler website | JavaScript | 142 | Apache License 2.0 | 2019-09-04 | 2025-12-14 | 2025-12-31 |
 | [nifi-standard-libraries](https://github.com/apache/nifi-standard-libraries) | A collection of standard implementations used across the Apache NiFi ecosystem. | None | 11 | Apache License 2.0 | 2019-09-06 | 2023-08-25 | 2023-08-25 |
 | [juneau-petstore](https://github.com/apache/juneau-petstore) | Apache Juneau | Java | 9 | Apache License 2.0 | 2019-09-09 | 2022-11-21 | 2022-06-23 |
 | [sling-org-apache-sling-bnd-plugin-headers-parameters-remove](https://github.com/apache/sling-org-apache-sling-bnd-plugin-headers-parameters-remove) | Apache Sling bnd Remove Parameters from OSGi Headers Plugin | Java | 0 | Apache License 2.0 | 2019-09-11 | 2025-08-06 | 2025-08-06 |
 | [eventmesh](https://github.com/apache/eventmesh) | EventMesh is a new generation serverless event middleware for building distributed event-driven applications. | Java | 1688 | Apache License 2.0 | 2019-09-16 | 2025-12-30 | 2025-12-30 |
 | [submarine](https://github.com/apache/submarine) | Submarine is Cloud Native Machine Learning Platform. | Java | 704 | Apache License 2.0 | 2019-09-19 | 2025-10-11 | 2024-04-03 |
-| [maven-mvnd](https://github.com/apache/maven-mvnd) | Apache Maven Daemon | Java | 3350 | Apache License 2.0 | 2019-09-21 | 2025-12-30 | 2025-12-22 |
+| [maven-mvnd](https://github.com/apache/maven-mvnd) | Apache Maven Daemon | Java | 3352 | Apache License 2.0 | 2019-09-21 | 2025-12-30 | 2025-12-22 |
 | [hadoop-thirdparty](https://github.com/apache/hadoop-thirdparty) | Apache Hadoop Thirdparty | Shell | 5 | Apache License 2.0 | 2019-09-23 | 2025-10-23 | 2025-11-04 |
-| [hop](https://github.com/apache/hop) | Hop Orchestration Platform | Java | 1297 | Apache License 2.0 | 2019-09-24 | 2025-12-30 | 2025-12-29 |
+| [hop](https://github.com/apache/hop) | Hop Orchestration Platform | Java | 1298 | Apache License 2.0 | 2019-09-24 | 2025-12-31 | 2025-12-31 |
 | [echarts-bot](https://github.com/apache/echarts-bot) | A robot for Apache ECharts issues and pull requests | JavaScript | 11 | Apache License 2.0 | 2019-09-25 | 2025-12-10 | 2025-12-10 |
 | [incubator-kie-kogito-online](https://github.com/apache/incubator-kie-kogito-online) | kogito-online resources | None | 9 | Apache License 2.0 | 2019-09-26 | 2025-07-24 | 2025-08-31 |
 | [any23-server](https://github.com/apache/any23-server) | Apache Any23 Server Project | Java | 3 | Apache License 2.0 | 2019-10-01 | 2023-07-03 | 2020-03-22 |
 | [any23-plugins](https://github.com/apache/any23-plugins) | Apache Any23 Plugins Project | Java | 1 | Apache License 2.0 | 2019-10-01 | 2023-07-03 | 2022-12-14 |
-| [ozone](https://github.com/apache/ozone) | Scalable, reliable, distributed storage system optimized for data analytics and object store workloads. | Java | 1115 | Apache License 2.0 | 2019-10-02 | 2025-12-29 | 2025-12-29 |
+| [ozone](https://github.com/apache/ozone) | Scalable, reliable, distributed storage system optimized for data analytics and object store workloads. | Java | 1117 | Apache License 2.0 | 2019-10-02 | 2025-12-31 | 2025-12-31 |
 | [openoffice-org](https://github.com/apache/openoffice-org) | OpenOffice.org Website | HTML | 9 | Apache License 2.0 | 2019-10-02 | 2025-12-21 | 2025-12-21 |
 | [openoffice-project](https://github.com/apache/openoffice-project) | Apache OpenOffice Project Website | HTML | 7 | - | 2019-10-02 | 2025-11-23 | 2025-11-23 |
-| [cassandra-website](https://github.com/apache/cassandra-website) | Website for Apache Cassandra® | CSS | 25 | Apache License 2.0 | 2019-10-02 | 2025-12-18 | 2025-12-22 |
-| [tvm-site](https://github.com/apache/tvm-site) | repo for tvm | JavaScript | 25 | Apache License 2.0 | 2019-10-08 | 2025-12-09 | 2025-12-29 |
+| [cassandra-website](https://github.com/apache/cassandra-website) | Website for Apache Cassandra® | CSS | 25 | Apache License 2.0 | 2019-10-02 | 2025-12-18 | 2025-12-31 |
+| [tvm-site](https://github.com/apache/tvm-site) | repo for tvm | JavaScript | 25 | Apache License 2.0 | 2019-10-08 | 2025-12-09 | 2025-12-30 |
 | [apisix-dashboard-built](https://github.com/apache/apisix-dashboard-built) | None | CSS | 6 | Apache License 2.0 | 2019-10-14 | 2023-07-25 | 2020-02-28 |
-| [couchdb-helm](https://github.com/apache/couchdb-helm) | Apache CouchDB Helm Chart | Mustache | 51 | Apache License 2.0 | 2019-10-14 | 2025-11-24 | 2025-12-23 |
+| [couchdb-helm](https://github.com/apache/couchdb-helm) | Apache CouchDB Helm Chart | Mustache | 52 | Apache License 2.0 | 2019-10-14 | 2025-12-31 | 2025-12-31 |
 | [cloudstack-primate](https://github.com/apache/cloudstack-primate) | Primate - modern role-base progressive UI for Apache CloudStack | Vue | 39 | Apache License 2.0 | 2019-10-15 | 2024-04-22 | 2021-01-27 |
 | [lucene-site](https://github.com/apache/lucene-site) | Apache Lucene website | CSS | 6 | Apache License 2.0 | 2019-10-16 | 2025-12-11 | 2025-12-11 |
 | [archiva-components](https://github.com/apache/archiva-components) | Components used by Apache Archiva and Redback | Java | 1 | Apache License 2.0 | 2019-10-17 | 2024-04-25 | 2023-07-24 |
@@ -1929,7 +1929,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [couchdb-thrift-protocol](https://github.com/apache/couchdb-thrift-protocol) | Mirror for Apache CouchDB | Erlang | 0 | MIT License | 2019-11-19 | 2023-07-25 | 2020-09-16 |
 | [petri](https://github.com/apache/petri) | Apache Petri | HTML | 3 | Apache License 2.0 | 2019-11-21 | 2024-06-05 | 2024-06-11 |
 | [incubator-resilientdb-site](https://github.com/apache/incubator-resilientdb-site) | The official website for Apache ResilientDB (Incubating) | TypeScript | 6 | Apache License 2.0 | 2019-11-21 | 2025-12-07 | 2025-12-07 |
-| [incubator-resilientdb](https://github.com/apache/incubator-resilientdb) | Global-Scale Sustainable Blockchain Fabric | C++ | 157 | Apache License 2.0 | 2019-11-22 | 2025-12-28 | 2025-12-28 |
+| [incubator-resilientdb](https://github.com/apache/incubator-resilientdb) | Global-Scale Sustainable Blockchain Fabric | C++ | 157 | Apache License 2.0 | 2019-11-22 | 2025-12-28 | 2025-12-31 |
 | [fineract-cn-interoperation](https://github.com/apache/fineract-cn-interoperation) | Apache Fineract CN Interoperability microservice for Mojaloop and other integrations | Java | 1 | Apache License 2.0 | 2019-11-27 | 2024-01-11 | 2020-10-29 |
 | [flink-statefun](https://github.com/apache/flink-statefun) | Apache Flink Stateful Functions | Java | 530 | Apache License 2.0 | 2019-12-03 | 2025-12-19 | 2024-05-08 |
 | [camel-kafka-connector](https://github.com/apache/camel-kafka-connector) | Camel Kafka Connector allows you to use all Camel components as Kafka Connect connectors | Java | 166 | Apache License 2.0 | 2019-12-04 | 2025-11-20 | 2025-12-15 |
@@ -1938,13 +1938,13 @@ Statistics Date: 2025-12-30 08:10:23
 | [infrastructure-otp](https://github.com/apache/infrastructure-otp) | Command-line OTP calculator, with automatic password creation/storage. | Python | 4 | Apache License 2.0 | 2019-12-05 | 2023-07-25 | 2023-02-27 |
 | [skywalking-client-js](https://github.com/apache/skywalking-client-js) | Client-side JavaScript exception and tracing library for Apache SkyWalking APM. | TypeScript | 266 | Apache License 2.0 | 2019-12-06 | 2025-12-02 | 2025-12-02 |
 | [couchdb-infra-cm](https://github.com/apache/couchdb-infra-cm) | Scripts to manage IBM cloud instances running Jenkins CI workers | Python | 1 | - | 2019-12-10 | 2025-03-27 | 2025-03-27 |
-| [nuttx-apps](https://github.com/apache/nuttx-apps) | Apache NuttX Apps is a collection of tools, shells, network utilities, libraries, interpreters and can be used with the NuttX RTOS | C | 390 | Apache License 2.0 | 2019-12-14 | 2025-12-30 | 2025-12-30 |
-| [nuttx](https://github.com/apache/nuttx) | Apache NuttX is a mature, real-time embedded operating system (RTOS) | C | 3611 | Apache License 2.0 | 2019-12-14 | 2025-12-30 | 2025-12-30 |
+| [nuttx-apps](https://github.com/apache/nuttx-apps) | Apache NuttX Apps is a collection of tools, shells, network utilities, libraries, interpreters and can be used with the NuttX RTOS | C | 390 | Apache License 2.0 | 2019-12-14 | 2025-12-30 | 2025-12-31 |
+| [nuttx](https://github.com/apache/nuttx) | Apache NuttX is a mature, real-time embedded operating system (RTOS) | C | 3609 | Apache License 2.0 | 2019-12-14 | 2025-12-31 | 2025-12-31 |
 | [camel-spring-boot](https://github.com/apache/camel-spring-boot) | Runs Camel on Spring Boot and provides starters for Camel components | Java | 180 | Apache License 2.0 | 2019-12-16 | 2025-12-29 | 2025-12-30 |
 | [singa-doc](https://github.com/apache/singa-doc) | Apache singa | JavaScript | 8 | - | 2019-12-17 | 2025-05-15 | 2025-05-15 |
 | [couchdb-esprima](https://github.com/apache/couchdb-esprima) | Mirror for Apache CouchDB | TypeScript | 0 | BSD 2-Clause "Simplified" License | 2019-12-18 | 2023-07-25 | 2020-09-16 |
 | [couchdb-escodegen](https://github.com/apache/couchdb-escodegen) | Mirror for Apache CouchDB | JavaScript | 0 | BSD 2-Clause "Simplified" License | 2019-12-18 | 2022-11-21 | 2020-09-16 |
-| [nuttx-website](https://github.com/apache/nuttx-website) | Apache NuttX Website | CSS | 21 | Apache License 2.0 | 2019-12-26 | 2025-12-19 | 2025-12-30 |
+| [nuttx-website](https://github.com/apache/nuttx-website) | Apache NuttX Website | CSS | 21 | Apache License 2.0 | 2019-12-26 | 2025-12-31 | 2025-12-31 |
 | [inlong](https://github.com/apache/inlong) | Apache InLong - a one-stop, full-scenario integration framework for massive data | Java | 1474 | Apache License 2.0 | 2020-01-03 | 2025-12-29 | 2025-12-24 |
 | [inlong-website](https://github.com/apache/inlong-website) | Apache InLong - a one-stop, full-scenario integration framework for massive data | JavaScript | 37 | - | 2020-01-08 | 2025-11-18 | 2025-11-26 |
 | [tika-docker](https://github.com/apache/tika-docker) | Convenience Docker images for Apache Tika Server | Shell | 227 | Apache License 2.0 | 2020-01-08 | 2025-12-30 | 2025-09-15 |
@@ -1983,11 +1983,11 @@ Statistics Date: 2025-12-30 08:10:23
 | [incubator-nlpcraft](https://github.com/apache/incubator-nlpcraft) | Apache NLPCraft - API to convert natural language into actions. | Scala | 83 | Apache License 2.0 | 2020-03-01 | 2025-08-14 | 2025-05-22 |
 | [jena-site](https://github.com/apache/jena-site) | Website sources for the Apache Jena website | HTML | 19 | Apache License 2.0 | 2020-03-01 | 2025-10-15 | 2025-10-15 |
 | [vcl-site](https://github.com/apache/vcl-site) | Website sources for the Apache VCL website | HTML | 6 | Apache License 2.0 | 2020-03-09 | 2025-08-23 | 2025-03-24 |
-| [ignite-website](https://github.com/apache/ignite-website) | Apache Ignite 3 Website | HTML | 12 | - | 2020-03-10 | 2025-12-23 | 2025-12-23 |
+| [ignite-website](https://github.com/apache/ignite-website) | Apache Ignite 3 Website | HTML | 12 | - | 2020-03-10 | 2025-12-30 | 2025-12-30 |
 | [incubator-kie-kogito-pipelines](https://github.com/apache/incubator-kie-kogito-pipelines) | CI/CD pipelines for Kogito | Groovy | 14 | Apache License 2.0 | 2020-03-12 | 2025-12-17 | 2025-12-17 |
 | [camel-karaf](https://github.com/apache/camel-karaf) | Apache Camel Karaf support | Java | 38 | Apache License 2.0 | 2020-03-14 | 2025-12-14 | 2025-12-14 |
 | [infrastructure-jenkins](https://github.com/apache/infrastructure-jenkins) | Apache infra | Java | 3 | Apache License 2.0 | 2020-03-16 | 2025-02-13 | 2025-02-13 |
-| [axis-axis2-c-core](https://github.com/apache/axis-axis2-c-core) | Apache Axis2-C | C | 10 | Apache License 2.0 | 2020-03-20 | 2025-12-26 | 2025-12-26 |
+| [axis-axis2-c-core](https://github.com/apache/axis-axis2-c-core) | Apache Axis2-C | C | 10 | Apache License 2.0 | 2020-03-20 | 2025-12-31 | 2025-12-31 |
 | [axis-axis2-c-rampart](https://github.com/apache/axis-axis2-c-rampart) | Apache Axis2-C Rampart | C | 1 | Apache License 2.0 | 2020-03-20 | 2021-11-10 | 2020-04-17 |
 | [axis-axis2-c-sandesha](https://github.com/apache/axis-axis2-c-sandesha) | Apache Axis2-C Sandesha | C | 1 | Apache License 2.0 | 2020-03-20 | 2021-11-10 | 2020-04-19 |
 | [axis-axis2-c-savan](https://github.com/apache/axis-axis2-c-savan) | Apache Axis2-C Savan | C | 2 | Apache License 2.0 | 2020-03-20 | 2025-11-22 | 2020-04-20 |
@@ -2019,12 +2019,12 @@ Statistics Date: 2025-12-30 08:10:23
 | [pulsar-connectors](https://github.com/apache/pulsar-connectors) | Apache Pulsar Connectors | Java | 18 | - | 2020-04-12 | 2023-06-02 | 2023-09-29 |
 | [pulsar-adapters](https://github.com/apache/pulsar-adapters) | Apache Pulsar Adapters | Java | 24 | - | 2020-04-12 | 2024-12-20 | 2024-12-20 |
 | [pulsar-presto](https://github.com/apache/pulsar-presto) | Pulsar Presto (outdated), go to https://github.com/apache/pulsar-sql instead | Java | 18 | - | 2020-04-12 | 2024-10-22 | 2024-10-18 |
-| [trafficserver-ingress-controller](https://github.com/apache/trafficserver-ingress-controller) | Apache Traffic Server Ingress Controller for Kubernetes | Go | 45 | Apache License 2.0 | 2020-04-13 | 2025-12-24 | 2025-12-24 |
-| [pulsar-helm-chart](https://github.com/apache/pulsar-helm-chart) | Official Apache Pulsar Helm Chart | Shell | 230 | Apache License 2.0 | 2020-04-14 | 2025-12-15 | 2025-12-15 |
+| [trafficserver-ingress-controller](https://github.com/apache/trafficserver-ingress-controller) | Apache Traffic Server Ingress Controller for Kubernetes | Go | 45 | Apache License 2.0 | 2020-04-13 | 2025-12-30 | 2025-12-30 |
+| [pulsar-helm-chart](https://github.com/apache/pulsar-helm-chart) | Official Apache Pulsar Helm Chart | Shell | 231 | Apache License 2.0 | 2020-04-14 | 2025-12-30 | 2025-12-15 |
 | [yunikorn-release](https://github.com/apache/yunikorn-release) | Apache YuniKorn Release | Go | 43 | Apache License 2.0 | 2020-04-14 | 2025-12-17 | 2025-12-18 |
 | [camel-k-examples](https://github.com/apache/camel-k-examples) | Apache Camel K Examples | Java | 90 | Apache License 2.0 | 2020-04-17 | 2025-11-05 | 2025-04-16 |
 | [incubator-nlpcraft-website](https://github.com/apache/incubator-nlpcraft-website) | Apache NLPCraft - API to convert natural language into actions. | HTML | 3 | Apache License 2.0 | 2020-04-18 | 2025-08-14 | 2025-03-01 |
-| [flink-training](https://github.com/apache/flink-training) | Apache Flink Training Excercises | Java | 1003 | Apache License 2.0 | 2020-04-20 | 2025-12-25 | 2024-08-05 |
+| [flink-training](https://github.com/apache/flink-training) | Apache Flink Training Excercises | Java | 1004 | Apache License 2.0 | 2020-04-20 | 2025-12-30 | 2024-08-05 |
 | [flink-benchmarks](https://github.com/apache/flink-benchmarks) | Benchmarks for Apache Flink | Java | 182 | Apache License 2.0 | 2020-04-20 | 2025-12-03 | 2025-11-11 |
 | [geode-dotnet-core-client](https://github.com/apache/geode-dotnet-core-client) | Apache Geode .NET Core Client | C# | 6 | Apache License 2.0 | 2020-04-22 | 2023-04-11 | 2021-07-28 |
 | [uima-async-scaleout](https://github.com/apache/uima-async-scaleout) | Apache UIMA UIMA Asynchronous Scaleout (UIMA-AS) | Java | 1 | Apache License 2.0 | 2020-04-23 | 2025-08-05 | 2022-06-10 |
@@ -2066,7 +2066,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [airflow-client-python](https://github.com/apache/airflow-client-python) | Apache Airflow - OpenApi Client for Python | Python | 440 | Apache License 2.0 | 2020-06-28 | 2025-12-21 | 2025-12-11 |
 | [airflow-client-javascript](https://github.com/apache/airflow-client-javascript) | Apache Airflow - OpenApi Client for Javascript | None | 2 | - | 2020-06-28 | 2021-11-10 | 2020-06-30 |
 | [sling-feature-launcher-maven-plugin](https://github.com/apache/sling-feature-launcher-maven-plugin) | Apache Sling Feature Launcher Maven Plugin | Java | 0 | Apache License 2.0 | 2020-06-29 | 2025-12-19 | 2025-12-22 |
-| [age](https://github.com/apache/age) | Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL. | C | 4085 | Apache License 2.0 | 2020-07-01 | 2025-12-30 | 2025-12-23 |
+| [age](https://github.com/apache/age) | Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL. | C | 4087 | Apache License 2.0 | 2020-07-01 | 2025-12-30 | 2025-12-23 |
 | [age-website](https://github.com/apache/age-website) | AGE Project | HTML | 37 | - | 2020-07-01 | 2025-09-12 | 2025-09-08 |
 | [airflow-pgbouncer-exporter](https://github.com/apache/airflow-pgbouncer-exporter) | Apache airflow | Go | 2 | MIT License | 2020-07-02 | 2023-07-25 | 2023-02-15 |
 | [airflow-helm-unittest](https://github.com/apache/airflow-helm-unittest) | Helm unit test used in Apache Airflow | Go | 10 | MIT License | 2020-07-04 | 2023-07-25 | 2023-02-25 |
@@ -2078,7 +2078,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [incubator-pegasus-website](https://github.com/apache/incubator-pegasus-website) | Apache Pegasus Website | HTML | 5 | Apache License 2.0 | 2020-07-20 | 2025-11-16 | 2025-11-16 |
 | [incubator-bluemarlin](https://github.com/apache/incubator-bluemarlin) | Blue Marlin is a critical web infrastructure for advertising based monetization. It is a cloud platform that adds intelligence to a plain Ad System. | Python | 2 | Apache License 2.0 | 2020-07-20 | 2024-05-15 | 2022-02-18 |
 | [phoenix-thirdparty](https://github.com/apache/phoenix-thirdparty) | Apache phoenix Third Party Libs | None | 0 | Apache License 2.0 | 2020-07-23 | 2025-12-10 | 2025-12-10 |
-| [flink-cdc](https://github.com/apache/flink-cdc) | Flink CDC is a streaming data integration tool | Java | 6314 | Apache License 2.0 | 2020-07-27 | 2025-12-30 | 2025-12-29 |
+| [flink-cdc](https://github.com/apache/flink-cdc) | Flink CDC is a streaming data integration tool | Java | 6316 | Apache License 2.0 | 2020-07-27 | 2025-12-31 | 2025-12-29 |
 | [apisix-control-plane](https://github.com/apache/apisix-control-plane) | The Control-Plane for APISIX | Go | 33 | - | 2020-07-29 | 2025-01-11 | 2021-04-21 |
 | [infrastructure-mailstats](https://github.com/apache/infrastructure-mailstats) | Infrastructure Mail Routing Stats Collector | Python | 0 | Apache License 2.0 | 2020-07-30 | 2023-07-25 | 2023-06-26 |
 | [myfaces-homepage](https://github.com/apache/myfaces-homepage) | Apache MyFaces Homepage | HTML | 2 | - | 2020-08-07 | 2025-11-30 | 2025-11-30 |
@@ -2095,13 +2095,13 @@ Statistics Date: 2025-12-30 08:10:23
 | [openwhisk-runtime-deno](https://github.com/apache/openwhisk-runtime-deno) | Apache OpenWhisk Runtime Deno supports Apache OpenWhisk functions written in Deno | Scala | 14 | Apache License 2.0 | 2020-08-19 | 2025-03-31 | 2024-09-24 |
 | [incubator-kie-optaplanner-quickstarts](https://github.com/apache/incubator-kie-optaplanner-quickstarts) | OptaPlanner quick starts for AI optimization: many use cases shown in many different technologies. | Java | 328 | Apache License 2.0 | 2020-08-19 | 2025-12-26 | 2025-10-22 |
 | [infrastructure-quota-agent](https://github.com/apache/infrastructure-quota-agent) | ASF Infra Disk Quota Agent | None | 0 | Apache License 2.0 | 2020-08-19 | 2022-11-21 | 2020-08-19 |
-| [logging-site](https://github.com/apache/logging-site) | Apache logging web site | CSS | 1 | - | 2020-08-23 | 2025-12-18 | 2025-12-29 |
+| [logging-site](https://github.com/apache/logging-site) | Apache Logging Services site | None | 1 | - | 2020-08-23 | 2025-12-30 | 2025-12-30 |
 | [logging-flume-site](https://github.com/apache/logging-flume-site) | Apache flume web site | HTML | 2 | - | 2020-08-23 | 2025-03-06 | 2025-02-07 |
 | [xmlgraphics-website](https://github.com/apache/xmlgraphics-website) | Apache XML Graphics Website | HTML | 5 | - | 2020-08-25 | 2025-12-22 | 2025-12-22 |
 | [infrastructure-uninstaller](https://github.com/apache/infrastructure-uninstaller) | ASF Infrastructure Application Uninstaller | Python | 0 | Apache License 2.0 | 2020-08-27 | 2023-07-25 | 2020-08-27 |
 | [shardingsphere-externals](https://github.com/apache/shardingsphere-externals) | Distributed database middleware | None | 2 | Apache License 2.0 | 2020-08-27 | 2023-09-18 | 2020-11-09 |
 | [sling-org-apache-sling-feature-extension-unpack](https://github.com/apache/sling-org-apache-sling-feature-extension-unpack) | Apache Sling Feature Model - Unpack Extension | Java | 0 | - | 2020-08-27 | 2025-08-06 | 2025-08-06 |
-| [tomee-site-pub](https://github.com/apache/tomee-site-pub) | Apache TomEE published website | HTML | 3 | - | 2020-08-28 | 2025-12-29 | 2025-12-29 |
+| [tomee-site-pub](https://github.com/apache/tomee-site-pub) | Apache TomEE published website | HTML | 3 | - | 2020-08-28 | 2025-12-31 | 2025-12-31 |
 | [arrow-julia](https://github.com/apache/arrow-julia) | Official Julia implementation of Apache Arrow | Julia | 300 | Apache License 2.0 | 2020-08-28 | 2025-12-16 | 2025-12-16 |
 | [logging-log4j-site](https://github.com/apache/logging-log4j-site) | Apache log4j web site | None | 2 | - | 2020-08-30 | 2024-03-04 | 2024-10-10 |
 | [logging-log4cxx-site](https://github.com/apache/logging-log4cxx-site) | Apache log4cxx web site | None | 0 | - | 2020-08-30 | 2023-10-18 | 2025-12-13 |
@@ -2118,7 +2118,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [aries-typedevent](https://github.com/apache/aries-typedevent) | Apache aries | Java | 3 | Apache License 2.0 | 2020-09-11 | 2025-12-15 | 2025-12-15 |
 | [infrastructure-boxer](https://github.com/apache/infrastructure-boxer) | ASF Infrastructure Boxer Application | Python | 0 | Apache License 2.0 | 2020-09-16 | 2025-12-21 | 2025-12-21 |
 | [nutch-site](https://github.com/apache/nutch-site) | Apache Nutch Website | CSS | 2 | Apache License 2.0 | 2020-09-16 | 2025-08-23 | 2025-07-21 |
-| [incubator-hugegraph-computer](https://github.com/apache/incubator-hugegraph-computer) | HugeGraph Computer - A distributed graph processing system for hugegraph (OLAP) | Java | 52 | Apache License 2.0 | 2020-09-18 | 2025-12-15 | 2025-12-15 |
+| [incubator-hugegraph-computer](https://github.com/apache/incubator-hugegraph-computer) | HugeGraph Computer - A distributed graph processing system for hugegraph (OLAP) | Java | 53 | Apache License 2.0 | 2020-09-18 | 2025-12-31 | 2025-12-15 |
 | [royale-ds](https://github.com/apache/royale-ds) | Apache Royale Data Services | None | 0 | - | 2020-09-22 | 2022-11-21 | 2020-09-22 |
 | [accumulo-classloaders](https://github.com/apache/accumulo-classloaders) | Apache Accumulo Classloader Extras | Java | 3 | Apache License 2.0 | 2020-09-23 | 2025-12-16 | 2025-12-16 |
 | [yetus-test-patch-action](https://github.com/apache/yetus-test-patch-action) | Apache Yetus test-patch GitHub Action | Shell | 0 | Apache License 2.0 | 2020-09-23 | 2025-10-07 | 2025-12-15 |
@@ -2145,7 +2145,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [ignite-python-thin-client](https://github.com/apache/ignite-python-thin-client) | Apache Ignite Python Thin Client | Python | 28 | Apache License 2.0 | 2020-11-19 | 2025-06-17 | 2025-06-17 |
 | [ignite-nodejs-thin-client](https://github.com/apache/ignite-nodejs-thin-client) | Apache Ignite Node.js Thin Client | TypeScript | 3 | - | 2020-11-19 | 2025-09-08 | 2024-12-09 |
 | [ignite-php-thin-client](https://github.com/apache/ignite-php-thin-client) | Apache Ignite PHP Thin Client | PHP | 4 | - | 2020-11-19 | 2024-10-27 | 2020-11-19 |
-| [ignite-3](https://github.com/apache/ignite-3) | Apache Ignite 3 | Java | 296 | Apache License 2.0 | 2020-11-23 | 2025-12-29 | 2025-12-29 |
+| [ignite-3](https://github.com/apache/ignite-3) | Apache Ignite 3 | Java | 297 | Apache License 2.0 | 2020-11-23 | 2025-12-31 | 2025-12-31 |
 | [camel-kamelets](https://github.com/apache/camel-kamelets) | Apache Camel Kamelets Repository | Java | 62 | Apache License 2.0 | 2020-11-26 | 2025-12-28 | 2025-12-28 |
 | [datasketches-server](https://github.com/apache/datasketches-server) | Apache DataSketches simple server | Java | 2 | Apache License 2.0 | 2020-12-03 | 2023-09-19 | 2023-06-13 |
 | [iotdb-client-go](https://github.com/apache/iotdb-client-go) | Apache IoTDB Client for Go | Go | 67 | Apache License 2.0 | 2020-12-05 | 2025-09-25 | 2025-12-12 |
@@ -2185,7 +2185,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [solr-site](https://github.com/apache/solr-site) | Apache solr website | HTML | 14 | Apache License 2.0 | 2021-02-20 | 2025-12-14 | 2025-12-14 |
 | [solr](https://github.com/apache/solr) | Apache Solr open-source search software | Java | 1538 | Apache License 2.0 | 2021-02-23 | 2025-12-30 | 2025-12-30 |
 | [camel-performance-tests](https://github.com/apache/camel-performance-tests) | Apache Camel Performances Tests Repository | Java | 8 | Apache License 2.0 | 2021-02-23 | 2025-07-16 | 2025-07-16 |
-| [lucene](https://github.com/apache/lucene) | Apache Lucene open-source search software | Java | 3287 | Apache License 2.0 | 2021-02-23 | 2025-12-30 | 2025-12-29 |
+| [lucene](https://github.com/apache/lucene) | Apache Lucene open-source search software | Java | 3290 | Apache License 2.0 | 2021-02-23 | 2025-12-31 | 2025-12-29 |
 | [infrastructure-aardvark-proxy](https://github.com/apache/infrastructure-aardvark-proxy) | Aardvark anti-spam proxy server | Python | 3 | Apache License 2.0 | 2021-02-24 | 2024-06-05 | 2024-06-04 |
 | [tvm-rfcs](https://github.com/apache/tvm-rfcs) | A home for the final text of all TVM RFCs. | None | 108 | Apache License 2.0 | 2021-02-24 | 2025-12-03 | 2024-09-24 |
 | [daffodil-schema.g8](https://github.com/apache/daffodil-schema.g8) | Apache Daffodil DFDL Schema Template | Scala | 2 | Apache License 2.0 | 2021-02-25 | 2025-02-27 | 2025-02-27 |
@@ -2197,7 +2197,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [flink-statefun-playground](https://github.com/apache/flink-statefun-playground) | Apache Flink Stateful Functions Playground | Java | 134 | Apache License 2.0 | 2021-03-15 | 2025-12-19 | 2023-10-09 |
 | [fineract-open-banking-app](https://github.com/apache/fineract-open-banking-app) | Repository for reference mobile app for Fineract Open Banking APIs | Kotlin | 3 | Mozilla Public License 2.0 | 2021-03-15 | 2025-10-16 | 2021-04-05 |
 | [datasketches-memory16](https://github.com/apache/datasketches-memory16) | Apache datasketches JDK16 experimental | Java | 2 | Apache License 2.0 | 2021-03-15 | 2021-11-09 | 2023-05-09 |
-| [grails-plugins-metadata](https://github.com/apache/grails-plugins-metadata) | None | Groovy | 2 | - | 2021-03-18 | 2025-12-23 | 2025-12-24 |
+| [grails-plugins-metadata](https://github.com/apache/grails-plugins-metadata) | None | Groovy | 2 | - | 2021-03-18 | 2025-12-30 | 2025-12-31 |
 | [skywalking-goapi](https://github.com/apache/skywalking-goapi) | Apache SkyWalking API in Golang. | Shell | 47 | Apache License 2.0 | 2021-03-25 | 2025-10-21 | 2025-10-21 |
 | [flink-ml](https://github.com/apache/flink-ml) | Machine learning library of Apache Flink | Java | 328 | Apache License 2.0 | 2021-03-26 | 2025-12-24 | 2024-11-04 |
 | [skywalking-banyandb](https://github.com/apache/skywalking-banyandb) | An observability database aims to ingest, analyze and store Metrics, Tracing and Logging data. | Go | 328 | Apache License 2.0 | 2021-03-26 | 2025-12-30 | 2025-12-30 |
@@ -2212,9 +2212,9 @@ Statistics Date: 2025-12-30 08:10:23
 | [sling-org-apache-sling-auth-saml2](https://github.com/apache/sling-org-apache-sling-auth-saml2) | An OSGi bundle that provides a SAML2 Web Profile Service Provider Authentication for Apache Sling | Java | 3 | Apache License 2.0 | 2021-04-16 | 2025-11-26 | 2025-11-26 |
 | [skywalking-kong](https://github.com/apache/skywalking-kong) | Kong agent for Apache SkyWalking | Java | 31 | Apache License 2.0 | 2021-04-16 | 2025-12-18 | 2025-12-20 |
 | [tika-helm](https://github.com/apache/tika-helm) | A Helm chart to deploy Apache Tika on Kubernetes. | Smarty | 32 | Apache License 2.0 | 2021-04-16 | 2025-10-13 | 2025-08-22 |
-| [eventmesh-site](https://github.com/apache/eventmesh-site) | Apache EventMesh Website | TypeScript | 25 | Apache License 2.0 | 2021-04-17 | 2025-12-24 | 2025-12-24 |
-| [arrow-rs](https://github.com/apache/arrow-rs) | Official Rust implementation of Apache Arrow | Rust | 3298 | Apache License 2.0 | 2021-04-17 | 2025-12-30 | 2025-12-30 |
-| [datafusion](https://github.com/apache/datafusion) | Apache DataFusion SQL Query Engine | Rust | 8213 | Apache License 2.0 | 2021-04-17 | 2025-12-30 | 2025-12-30 |
+| [eventmesh-site](https://github.com/apache/eventmesh-site) | Apache EventMesh Website | TypeScript | 25 | Apache License 2.0 | 2021-04-17 | 2025-12-31 | 2025-12-31 |
+| [arrow-rs](https://github.com/apache/arrow-rs) | Official Rust implementation of Apache Arrow | Rust | 3299 | Apache License 2.0 | 2021-04-17 | 2025-12-31 | 2025-12-31 |
+| [datafusion](https://github.com/apache/datafusion) | Apache DataFusion SQL Query Engine | Rust | 8215 | Apache License 2.0 | 2021-04-17 | 2025-12-31 | 2025-12-31 |
 | [qpid-protonj2](https://github.com/apache/qpid-protonj2) | Mirror of Apache Qpid ProtonJ2 | Java | 17 | Apache License 2.0 | 2021-04-19 | 2025-12-16 | 2025-12-16 |
 | [cloudstack-terraform-provider](https://github.com/apache/cloudstack-terraform-provider) | CloudStack Terraform Provider | Go | 47 | Apache License 2.0 | 2021-04-22 | 2025-12-11 | 2025-12-01 |
 | [www-site](https://github.com/apache/www-site) | The ASF Website | JavaScript | 61 | Apache License 2.0 | 2021-04-24 | 2025-12-28 | 2025-12-28 |
@@ -2250,8 +2250,8 @@ Statistics Date: 2025-12-30 08:10:23
 | [netbeans-native-launchers](https://github.com/apache/netbeans-native-launchers) | Apache NetBeans Native Launchers | C++ | 4 | Apache License 2.0 | 2021-06-24 | 2025-10-17 | 2025-10-17 |
 | [sling-org-apache-sling-sitemap](https://github.com/apache/sling-org-apache-sling-sitemap) | Apache Sling Sitemap | Java | 3 | - | 2021-06-25 | 2025-08-18 | 2025-08-06 |
 | [arrow-experimental-rs-arrow2](https://github.com/apache/arrow-experimental-rs-arrow2) | Experimental Rust implementation of Apache Arrow | None | 3 | - | 2021-06-27 | 2024-01-08 | 2021-07-08 |
-| [auron](https://github.com/apache/auron) | The Auron accelerator for distributed computing framework (e.g., Spark) leverages native vectorized execution to accelerate query processing | Rust | 1670 | Apache License 2.0 | 2021-06-28 | 2025-12-30 | 2025-12-30 |
-| [incubator-devlake](https://github.com/apache/incubator-devlake) | Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and community growth. | Go | 2899 | Apache License 2.0 | 2021-07-08 | 2025-12-30 | 2025-12-26 |
+| [auron](https://github.com/apache/auron) | The Auron accelerator for distributed computing framework (e.g., Spark) leverages native vectorized execution to accelerate query processing | Rust | 1671 | Apache License 2.0 | 2021-06-28 | 2025-12-31 | 2025-12-31 |
+| [incubator-devlake](https://github.com/apache/incubator-devlake) | Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and community growth. | Go | 2900 | Apache License 2.0 | 2021-07-08 | 2025-12-31 | 2025-12-31 |
 | [kyuubi-website](https://github.com/apache/kyuubi-website) | Apache Kyuubi Site | HTML | 12 | Apache License 2.0 | 2021-07-09 | 2025-11-20 | 2025-11-20 |
 | [camel-kameleon](https://github.com/apache/camel-kameleon) | Camel Kameleon is a project to scaffold new Camel project. | Java | 41 | Apache License 2.0 | 2021-07-09 | 2025-11-13 | 2025-02-25 |
 | [rocketmq-streams](https://github.com/apache/rocketmq-streams) | Apache rocketmq | Java | 177 | Apache License 2.0 | 2021-07-11 | 2025-11-18 | 2024-10-03 |
@@ -2296,7 +2296,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [linkis-website](https://github.com/apache/linkis-website) | Apache Linkis documents | JavaScript | 33 | Apache License 2.0 | 2021-09-28 | 2025-12-24 | 2025-12-24 |
 | [rocketmq-apis](https://github.com/apache/rocketmq-apis) | RocketMQ APIs - Protobuf definition for Apache RocketMQ | Starlark | 27 | Apache License 2.0 | 2021-10-01 | 2025-12-10 | 2025-12-22 |
 | [asterixdb-clients](https://github.com/apache/asterixdb-clients) | Apache AsterixDB Clients | Java | 3 | - | 2021-10-01 | 2025-09-22 | 2023-10-30 |
-| [camel-karavan](https://github.com/apache/camel-karavan) | Apache Camel Karavan a Low-code Data Integration Platform | TypeScript | 552 | Apache License 2.0 | 2021-10-04 | 2025-12-29 | 2025-12-18 |
+| [camel-karavan](https://github.com/apache/camel-karavan) | Apache Camel Karavan a Low-code Data Integration Platform | TypeScript | 553 | Apache License 2.0 | 2021-10-04 | 2025-12-30 | 2025-12-18 |
 | [jackrabbit-filevault-jenkins-lib](https://github.com/apache/jackrabbit-filevault-jenkins-lib) | Apache Jackrabbit FileVault Jenkins Shared LIbrary | Groovy | 1 | Apache License 2.0 | 2021-10-07 | 2025-12-03 | 2025-12-03 |
 | [maven-gh-actions-shared](https://github.com/apache/maven-gh-actions-shared) | Apache Maven Shared GH Actions | None | 7 | Apache License 2.0 | 2021-10-14 | 2025-11-18 | 2025-12-18 |
 | [cassandra-accord](https://github.com/apache/cassandra-accord) | Accord library for Apache Cassandra® | Java | 84 | - | 2021-10-17 | 2025-12-17 | 2025-12-18 |
@@ -2307,7 +2307,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [cxf-site](https://github.com/apache/cxf-site) | Apache CXF website | Java | 1 | - | 2021-11-05 | 2021-11-06 | 2025-06-27 |
 | [openoffice-externals](https://github.com/apache/openoffice-externals) | Apache openoffice External Resources | None | 2 | - | 2021-11-16 | 2025-09-04 | 2021-11-26 |
 | [incubator-kie-sandbox-quarkus-accelerator](https://github.com/apache/incubator-kie-sandbox-quarkus-accelerator) | Apache KIE™ Sandbox Quarkus Accelerator (template). This repository is automatically updated based on code from `packages/kie-sandbox-accelerator-quarkus` on https://github.com/apache/incubator-kie-tools | None | 5 | Apache License 2.0 | 2021-11-16 | 2024-11-26 | 2025-07-08 |
-| [pulsar-site](https://github.com/apache/pulsar-site) | Apache Pulsar Site | HTML | 40 | - | 2021-11-17 | 2025-12-29 | 2025-12-30 |
+| [pulsar-site](https://github.com/apache/pulsar-site) | Apache Pulsar Site | HTML | 40 | - | 2021-11-17 | 2025-12-30 | 2025-12-30 |
 | [dolphinscheduler-ambari](https://github.com/apache/dolphinscheduler-ambari) | Apache DolphinScheduler's Ambari plugin, deploy DolphinScheduler easier within Apache Ambari | Python | 10 | - | 2021-11-22 | 2025-11-06 | 2023-01-30 |
 | [infrastructure-pypubsub-ldap](https://github.com/apache/infrastructure-pypubsub-ldap) | Apache Infrastructure PyPubSub LDAP Activity Extension | Python | 0 | Apache License 2.0 | 2021-11-22 | 2025-05-21 | 2025-05-21 |
 | [shenyu-nginx](https://github.com/apache/shenyu-nginx) | Apache ShenYu Nginx. | Lua | 32 | Apache License 2.0 | 2021-11-23 | 2025-12-25 | 2024-04-21 |
@@ -2315,22 +2315,22 @@ Statistics Date: 2025-12-30 08:10:23
 | [infrastructure-github-event-notifier](https://github.com/apache/infrastructure-github-event-notifier) | Apache Infra GitHub Event Notification Service | Python | 1 | - | 2021-11-24 | 2025-07-20 | 2025-07-20 |
 | [maven-wrapper](https://github.com/apache/maven-wrapper) | Apache Maven Wrapper | Java | 232 | Apache License 2.0 | 2021-12-05 | 2025-12-22 | 2025-12-22 |
 | [skywalking-booster-ui](https://github.com/apache/skywalking-booster-ui) | Apache SkyWalking 3rd generation UI | Vue | 198 | Apache License 2.0 | 2021-12-05 | 2025-12-28 | 2025-11-21 |
-| [incubator-gluten](https://github.com/apache/incubator-gluten) | Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines. | Scala | 1491 | Apache License 2.0 | 2021-12-06 | 2025-12-26 | 2025-12-26 |
+| [incubator-gluten](https://github.com/apache/incubator-gluten) | Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines. | Scala | 1491 | Apache License 2.0 | 2021-12-06 | 2025-12-31 | 2025-12-31 |
 | [turbine-build](https://github.com/apache/turbine-build) | Apache Turbine Build is a collection of main Turbine endpoints Core    Archetypes   shared components Parent, site, .. - provided as modules to allow transparent building. | None | 0 | - | 2021-12-09 | 2025-12-12 | 2025-12-12 |
 | [celeborn](https://github.com/apache/celeborn) | Apache Celeborn is an elastic and high-performance service for shuffle and spilled data. | Java | 1024 | Apache License 2.0 | 2021-12-10 | 2025-12-30 | 2025-12-30 |
-| [seatunnel-website](https://github.com/apache/seatunnel-website) | Apache SeaTunnel documents | MDX | 63 | Apache License 2.0 | 2021-12-13 | 2025-12-29 | 2025-12-30 |
+| [seatunnel-website](https://github.com/apache/seatunnel-website) | Apache SeaTunnel documents | MDX | 63 | Apache License 2.0 | 2021-12-13 | 2025-12-30 | 2025-12-31 |
 | [arrow-experiments](https://github.com/apache/arrow-experiments) | Apache Arrow Development Experiments | C++ | 25 | Apache License 2.0 | 2021-12-13 | 2025-12-18 | 2025-11-06 |
 | [solr-docker](https://github.com/apache/solr-docker) | Official Dockerfile for Apache Solr | Dockerfile | 30 | Apache License 2.0 | 2021-12-22 | 2025-12-05 | 2025-11-06 |
 | [echarts-wordcloud-generator](https://github.com/apache/echarts-wordcloud-generator) | Apache ECharts WordCloud Generator | Vue | 0 | Apache License 2.0 | 2021-12-23 | 2023-07-25 | 2023-06-06 |
 | [streampark-website](https://github.com/apache/streampark-website) | Apache streampark Website | Less | 26 | Apache License 2.0 | 2022-01-04 | 2025-11-05 | 2025-11-05 |
 | [maven-build-cache-extension](https://github.com/apache/maven-build-cache-extension) | Apache Maven Build Cache Extension | Java | 150 | Apache License 2.0 | 2022-01-04 | 2025-12-25 | 2025-12-25 |
-| [paimon](https://github.com/apache/paimon) | Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations. | Java | 3137 | Apache License 2.0 | 2022-01-12 | 2025-12-30 | 2025-12-30 |
+| [paimon](https://github.com/apache/paimon) | Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations. | Java | 3141 | Apache License 2.0 | 2022-01-12 | 2025-12-31 | 2025-12-31 |
 | [airavata-jupyter-kernel](https://github.com/apache/airavata-jupyter-kernel) | Apache Airavata Jupyter Kernels | None | 0 | - | 2022-01-17 | 2022-01-17 | 2022-01-30 |
 | [db-site](https://github.com/apache/db-site) | Apache DB project | HTML | 2 | Apache License 2.0 | 2022-01-17 | 2025-11-05 | 2025-11-05 |
 | [hive-site](https://github.com/apache/hive-site) | Apache Hive Website | CSS | 9 | - | 2022-01-21 | 2025-12-20 | 2025-12-20 |
 | [rocketmq-mqtt](https://github.com/apache/rocketmq-mqtt) | Apache rocketmq | Java | 201 | Apache License 2.0 | 2022-01-26 | 2025-12-17 | 2025-10-28 |
 | [ratis-hadoop-projects](https://github.com/apache/ratis-hadoop-projects) | Open source Java implementation for Raft consensus protocol. | Java | 1 | Apache License 2.0 | 2022-01-30 | 2025-01-21 | 2022-11-07 |
-| [hertzbeat](https://github.com/apache/hertzbeat) | An AI-powered next-generation open source real-time observability system. | Java | 6939 | Apache License 2.0 | 2022-02-04 | 2025-12-30 | 2025-12-30 |
+| [hertzbeat](https://github.com/apache/hertzbeat) | An AI-powered next-generation open source real-time observability system. | Java | 6942 | Apache License 2.0 | 2022-02-04 | 2025-12-31 | 2025-12-31 |
 | [camel-website-pub](https://github.com/apache/camel-website-pub) | Apache camel | HTML | 3 | - | 2022-02-07 | 2025-12-23 | 2025-12-23 |
 | [beam-starter-java](https://github.com/apache/beam-starter-java) | Apache Beam starter repo for Java | Java | 7 | Other | 2022-02-07 | 2025-12-18 | 2025-12-22 |
 | [beam-starter-python](https://github.com/apache/beam-starter-python) | Apache Beam starter repo for Python | Python | 21 | Other | 2022-02-07 | 2025-12-17 | 2025-12-17 |
@@ -2345,7 +2345,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [flink-kubernetes-operator](https://github.com/apache/flink-kubernetes-operator) | Apache Flink Kubernetes Operator | Java | 970 | Apache License 2.0 | 2022-02-10 | 2025-12-30 | 2025-11-04 |
 | [rocketmq-client-csharp](https://github.com/apache/rocketmq-client-csharp) | Apache rocketmq | C# | 18 | Apache License 2.0 | 2022-02-11 | 2025-07-11 | 2023-07-05 |
 | [doris-flink-connector](https://github.com/apache/doris-flink-connector) | Flink Connector for Apache Doris | Java | 370 | Apache License 2.0 | 2022-02-11 | 2025-12-27 | 2025-12-19 |
-| [opendal](https://github.com/apache/opendal) | Apache OpenDAL: One Layer, All Storage. | Rust | 4788 | Apache License 2.0 | 2022-02-14 | 2025-12-29 | 2025-12-29 |
+| [opendal](https://github.com/apache/opendal) | Apache OpenDAL: One Layer, All Storage. | Rust | 4794 | Apache License 2.0 | 2022-02-14 | 2025-12-31 | 2025-12-29 |
 | [security-site](https://github.com/apache/security-site) | Website sources for the Apache Security website | CSS | 8 | - | 2022-02-14 | 2025-12-17 | 2025-12-17 |
 | [grails-forge](https://github.com/apache/grails-forge) | This is Grails project creator. Grails projects may be created using the browser interface, Command Line, or via CURL. | None | 7 | - | 2022-02-16 | 2025-07-10 | 2025-06-30 |
 | [skywalking-rover](https://github.com/apache/skywalking-rover) | Monitor and profiler powered by eBPF to monitor network traffic, and diagnose CPU and network performance. | Go | 232 | Apache License 2.0 | 2022-02-18 | 2025-12-19 | 2025-11-24 |
@@ -2361,7 +2361,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [shenyu-helm-chart](https://github.com/apache/shenyu-helm-chart) | Helm Chart for deploying Apache ShenYu in Kubernetes | Smarty | 16 | Apache License 2.0 | 2022-03-21 | 2024-12-23 | 2024-07-22 |
 | [infrastructure-gha-notifier](https://github.com/apache/infrastructure-gha-notifier) | Apache Infrastructure GitHub Actions Notifier Daemon | Python | 0 | - | 2022-03-26 | 2025-06-05 | 2025-06-05 |
 | [libcloud-site](https://github.com/apache/libcloud-site) | Apache Libcloud Website | HTML | 4 | Apache License 2.0 | 2022-03-27 | 2025-03-19 | 2025-03-19 |
-| [flink-connector-elasticsearch](https://github.com/apache/flink-connector-elasticsearch) | Apache Flink connector for ElasticSearch | Java | 89 | Apache License 2.0 | 2022-03-28 | 2025-12-26 | 2025-06-05 |
+| [flink-connector-elasticsearch](https://github.com/apache/flink-connector-elasticsearch) | Apache Flink connector for ElasticSearch | Java | 90 | Apache License 2.0 | 2022-03-28 | 2025-12-30 | 2025-06-05 |
 | [uima-site](https://github.com/apache/uima-site) | Apache UIMA Website | HTML | 1 | - | 2022-03-28 | 2024-06-06 | 2024-03-08 |
 | [airavata-user-docs](https://github.com/apache/airavata-user-docs) | Apache Airavata User Documentation | None | 0 | - | 2022-04-01 | 2022-04-01 | 2024-01-11 |
 | [buildstream-plugins](https://github.com/apache/buildstream-plugins) | BuildStream plugins | Python | 5 | Apache License 2.0 | 2022-04-02 | 2025-11-22 | 2025-11-22 |
@@ -2379,7 +2379,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [flink-connector-rabbitmq](https://github.com/apache/flink-connector-rabbitmq) | Apache flink | Java | 23 | Apache License 2.0 | 2022-05-12 | 2025-08-13 | 2025-12-19 |
 | [tomee-mbean-annotation-api](https://github.com/apache/tomee-mbean-annotation-api) | Apache tomee | None | 0 | - | 2022-05-14 | 2022-05-14 | 2022-05-14 |
 | [dolphinscheduler-mlflow](https://github.com/apache/dolphinscheduler-mlflow) | MLFlow examples for Apache Dolphinscheduler | Python | 6 | Apache License 2.0 | 2022-05-17 | 2025-08-07 | 2023-02-15 |
-| [datafusion-ballista](https://github.com/apache/datafusion-ballista) | Apache DataFusion Ballista Distributed Query Engine | Rust | 1931 | Apache License 2.0 | 2022-05-19 | 2025-12-29 | 2025-12-19 |
+| [datafusion-ballista](https://github.com/apache/datafusion-ballista) | Apache DataFusion Ballista Distributed Query Engine | Rust | 1933 | Apache License 2.0 | 2022-05-19 | 2025-12-31 | 2025-12-19 |
 | [incubator-horaedb-proto](https://github.com/apache/incubator-horaedb-proto) | Apache HoraeDB (Incubating) Protocol Buffer Files | Rust | 8 | Apache License 2.0 | 2022-05-25 | 2025-06-14 | 2024-09-30 |
 | [asterixdb-graph](https://github.com/apache/asterixdb-graph) | Apache asterixdb | Java | 1 | - | 2022-05-25 | 2023-12-07 | 2022-09-25 |
 | [horaedb](https://github.com/apache/horaedb) | Apache HoraeDB (incubating) is a high-performance, distributed, cloud native time-series database. | Rust | 2814 | Apache License 2.0 | 2022-05-26 | 2025-12-25 | 2025-12-11 |
@@ -2401,10 +2401,10 @@ Statistics Date: 2025-12-30 08:10:23
 | [horaedb-client-rs](https://github.com/apache/horaedb-client-rs) | Apache HoraeDB (Incubating) Rust Client. | Rust | 18 | Apache License 2.0 | 2022-07-05 | 2025-12-06 | 2025-06-13 |
 | [horaedb-client-py](https://github.com/apache/horaedb-client-py) | Apache HoraeDB (Incubating) Python Client. | Rust | 10 | Apache License 2.0 | 2022-07-05 | 2025-06-14 | 2024-12-10 |
 | [infrastructure-download-integrity-checker](https://github.com/apache/infrastructure-download-integrity-checker) | ASF Infra Download Integrity Checker | Python | 0 | - | 2022-07-05 | 2023-07-25 | 2022-08-16 |
-| [arrow-nanoarrow](https://github.com/apache/arrow-nanoarrow) | Helpers for Arrow C Data & Arrow C Stream interfaces | C | 216 | Apache License 2.0 | 2022-07-07 | 2025-12-20 | 2025-12-17 |
+| [arrow-nanoarrow](https://github.com/apache/arrow-nanoarrow) | Helpers for Arrow C Data & Arrow C Stream interfaces | C | 216 | Apache License 2.0 | 2022-07-07 | 2025-12-31 | 2025-12-31 |
 | [rocketmq-schema-registry](https://github.com/apache/rocketmq-schema-registry) | Apache RocketMQ Schema Registry | Java | 34 | - | 2022-07-08 | 2025-03-14 | 2023-06-14 |
 | [amoro](https://github.com/apache/amoro) | Apache Amoro(incubating) is a Lakehouse management system built on open data lake formats. | Java | 1093 | Apache License 2.0 | 2022-07-14 | 2025-12-29 | 2025-12-29 |
-| [datafusion-python](https://github.com/apache/datafusion-python) | Apache DataFusion Python Bindings | Python | 544 | Apache License 2.0 | 2022-07-20 | 2025-12-29 | 2025-12-27 |
+| [datafusion-python](https://github.com/apache/datafusion-python) | Apache DataFusion Python Bindings | Python | 544 | Apache License 2.0 | 2022-07-20 | 2025-12-30 | 2025-12-30 |
 | [trafficcontrol-trafficops-types](https://github.com/apache/trafficcontrol-trafficops-types) | Apache trafficcontrol | TypeScript | 0 | Apache License 2.0 | 2022-07-20 | 2025-11-24 | 2023-12-13 |
 | [juddi-scout](https://github.com/apache/juddi-scout) | Apache Juddi Scout | Java | 1 | Apache License 2.0 | 2022-07-23 | 2023-02-27 | 2023-02-24 |
 | [flink-connector-aws](https://github.com/apache/flink-connector-aws) | Apache flink | Java | 74 | Apache License 2.0 | 2022-07-27 | 2025-12-15 | 2025-12-15 |
@@ -2425,11 +2425,11 @@ Statistics Date: 2025-12-30 08:10:23
 | [jmeter-bugzilla-attachments](https://github.com/apache/jmeter-bugzilla-attachments) | Attachments migrated from Bugzilla for Apache JMeter | Java | 1 | - | 2022-09-23 | 2022-09-27 | 2022-09-24 |
 | [incubator-graphar](https://github.com/apache/incubator-graphar) | An open source, standard data file format for graph data storage and retrieval. | C++ | 327 | Apache License 2.0 | 2022-09-23 | 2025-12-29 | 2025-12-29 |
 | [incubator-resilientdb-python-sdk](https://github.com/apache/incubator-resilientdb-python-sdk) | Python SDK for ResilientDB | Python | 6 | Apache License 2.0 | 2022-09-25 | 2025-06-28 | 2025-06-28 |
-| [seatunnel-web](https://github.com/apache/seatunnel-web) | SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time). | Java | 775 | Apache License 2.0 | 2022-09-26 | 2025-12-30 | 2025-12-19 |
+| [seatunnel-web](https://github.com/apache/seatunnel-web) | SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time). | Java | 776 | Apache License 2.0 | 2022-09-26 | 2025-12-30 | 2025-12-19 |
 | [dubbo-test-tools](https://github.com/apache/dubbo-test-tools) | Apache dubbo | Java | 4 | Apache License 2.0 | 2022-09-26 | 2025-09-11 | 2025-09-11 |
-| [pulsar-client-python](https://github.com/apache/pulsar-client-python) | Apache Pulsar Python client library | Python | 72 | Apache License 2.0 | 2022-09-29 | 2025-12-24 | 2025-12-30 |
+| [pulsar-client-python](https://github.com/apache/pulsar-client-python) | Apache Pulsar Python client library | Python | 72 | Apache License 2.0 | 2022-09-29 | 2025-12-31 | 2025-12-31 |
 | [pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) | Apache Pulsar C++ client library | C++ | 63 | Apache License 2.0 | 2022-09-29 | 2025-12-17 | 2025-12-17 |
-| [answer](https://github.com/apache/answer) | A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer. | Go | 15233 | Apache License 2.0 | 2022-09-29 | 2025-12-30 | 2025-12-29 |
+| [answer](https://github.com/apache/answer) | A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer. | Go | 15237 | Apache License 2.0 | 2022-09-29 | 2025-12-31 | 2025-12-31 |
 | [spark-docker](https://github.com/apache/spark-docker) | Official Dockerfile for Apache Spark | Dockerfile | 161 | Apache License 2.0 | 2022-10-10 | 2025-12-22 | 2025-12-18 |
 | [flink-connector-mongodb](https://github.com/apache/flink-connector-mongodb) | Apache flink | Java | 49 | Apache License 2.0 | 2022-10-10 | 2025-09-26 | 2025-12-19 |
 | [answer-website](https://github.com/apache/answer-website) | Apache Answer official website. | TypeScript | 45 | - | 2022-10-13 | 2025-12-22 | 2025-12-22 |
@@ -2452,12 +2452,12 @@ Statistics Date: 2025-12-30 08:10:23
 | [pekko-samples](https://github.com/apache/pekko-samples) | Apache Pekko Sample Projects | Scala | 63 | Apache License 2.0 | 2022-10-31 | 2025-12-18 | 2025-11-25 |
 | [pekko-connectors](https://github.com/apache/pekko-connectors) | Apache Pekko Connectors is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Apache Pekko. | Scala | 71 | Apache License 2.0 | 2022-10-31 | 2025-12-28 | 2025-12-28 |
 | [pekko-connectors-kafka](https://github.com/apache/pekko-connectors-kafka) | Apache Pekko Kafka Connector - Pekko-Connectors is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Apache Pekko. | Scala | 27 | Apache License 2.0 | 2022-10-31 | 2025-12-21 | 2025-12-28 |
-| [teaclave-java-tee-sdk](https://github.com/apache/teaclave-java-tee-sdk) | Apache Teaclave (incubating) Java TEE SDK is an open source universal confidential computing framework, making java computation on privacy-sensitive data safe and simple. | Java | 58 | Apache License 2.0 | 2022-11-01 | 2025-11-25 | 2025-07-19 |
+| [teaclave-java-tee-sdk](https://github.com/apache/teaclave-java-tee-sdk) | Apache Teaclave (incubating) Java TEE SDK is an open source universal confidential computing framework, making java computation on privacy-sensitive data safe and simple. | Java | 59 | Apache License 2.0 | 2022-11-01 | 2025-12-31 | 2025-07-19 |
 | [airavata-django-portal-commons](https://github.com/apache/airavata-django-portal-commons) | Apache airavata | Python | 0 | - | 2022-11-01 | 2023-07-25 | 2023-06-26 |
 | [dolphinscheduler-sdk-python](https://github.com/apache/dolphinscheduler-sdk-python) | Apache DolphinScheduler Python API, aka PyDolphinscheduler. | Python | 64 | Apache License 2.0 | 2022-11-07 | 2025-12-28 | 2025-07-05 |
 | [flink-connector-cassandra](https://github.com/apache/flink-connector-cassandra) | Apache flink | Java | 19 | Apache License 2.0 | 2022-11-10 | 2025-10-13 | 2025-12-19 |
 | [iotdb-tsfile-viewer](https://github.com/apache/iotdb-tsfile-viewer) | Apache IoTDB TsFile Viewer | Java | 22 | Apache License 2.0 | 2022-11-13 | 2025-11-10 | 2024-05-29 |
-| [celeborn-website](https://github.com/apache/celeborn-website) | Apache Celeborn Site | Shell | 8 | Apache License 2.0 | 2022-11-14 | 2025-12-08 | 2025-12-30 |
+| [celeborn-website](https://github.com/apache/celeborn-website) | Apache Celeborn Site | Shell | 8 | Apache License 2.0 | 2022-11-14 | 2025-12-08 | 2025-12-31 |
 | [incubator-baremaps-site](https://github.com/apache/incubator-baremaps-site) | Apache Baremaps is a toolkit and a set of infrastructure components for creating, publishing, and operating online maps. | MDX | 16 | - | 2022-11-16 | 2025-10-06 | 2025-10-03 |
 | [sling-org-apache-sling-commons-permissions](https://github.com/apache/sling-org-apache-sling-commons-permissions) | Apache sling | Java | 0 | Apache License 2.0 | 2022-11-20 | 2025-08-06 | 2025-08-06 |
 | [sling-org-apache-sling-commons-permissions-sling](https://github.com/apache/sling-org-apache-sling-commons-permissions-sling) | Apache sling | Java | 0 | Apache License 2.0 | 2022-11-20 | 2025-08-06 | 2025-08-06 |
@@ -2465,7 +2465,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [flink-connector-hbase](https://github.com/apache/flink-connector-hbase) | Apache flink | Java | 32 | Apache License 2.0 | 2022-11-22 | 2025-11-27 | 2025-11-27 |
 | [flink-connector-pulsar](https://github.com/apache/flink-connector-pulsar) | Apache flink | Java | 62 | Apache License 2.0 | 2022-11-23 | 2025-11-27 | 2025-10-27 |
 | [flink-connector-gcp-pubsub](https://github.com/apache/flink-connector-gcp-pubsub) | Apache flink | Java | 12 | Apache License 2.0 | 2022-11-23 | 2025-12-07 | 2025-12-19 |
-| [flink-connector-jdbc](https://github.com/apache/flink-connector-jdbc) | Apache flink | Java | 167 | Apache License 2.0 | 2022-11-23 | 2025-11-28 | 2025-12-19 |
+| [flink-connector-jdbc](https://github.com/apache/flink-connector-jdbc) | Apache flink | Java | 168 | Apache License 2.0 | 2022-11-23 | 2025-12-31 | 2025-12-19 |
 | [flink-connector-hive](https://github.com/apache/flink-connector-hive) | Apache flink | Java | 11 | Apache License 2.0 | 2022-11-23 | 2025-12-27 | 2025-02-18 |
 | [logging-log4j-server](https://github.com/apache/logging-log4j-server) | Apache logging | Java | 0 | Apache License 2.0 | 2022-11-29 | 2023-11-14 | 2023-11-14 |
 | [logging-log4j-samples](https://github.com/apache/logging-log4j-samples) | Use case examples of the Apache Log4j project | Java | 7 | Apache License 2.0 | 2022-11-29 | 2025-12-15 | 2025-12-29 |
@@ -2483,7 +2483,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [sling-org-apache-sling-repoinit-filevault-validator](https://github.com/apache/sling-org-apache-sling-repoinit-filevault-validator) | Apache Sling Repoinit FileVault Validator | Java | 1 | Apache License 2.0 | 2022-12-19 | 2025-08-06 | 2025-08-06 |
 | [teaclave-crates](https://github.com/apache/teaclave-crates) | A collection of ported and TEE-tailored Rust dependencies. | Assembly | 8 | Apache License 2.0 | 2022-12-22 | 2025-09-04 | 2025-09-04 |
 | [dubbo-initializer](https://github.com/apache/dubbo-initializer) | Apache dubbo | Java | 19 | Apache License 2.0 | 2022-12-28 | 2025-10-06 | 2024-10-31 |
-| [grails-forge-ui](https://github.com/apache/grails-forge-ui) | None | JavaScript | 2 | Apache License 2.0 | 2022-12-30 | 2025-10-27 | 2025-12-02 |
+| [grails-forge-ui](https://github.com/apache/grails-forge-ui) | None | JavaScript | 2 | Apache License 2.0 | 2022-12-30 | 2025-10-27 | 2025-12-30 |
 | [seatunnel-shade](https://github.com/apache/seatunnel-shade) | SeaTunnel is a next-generation super high-performance, distributed, massive data integration tool. | Java | 0 | - | 2023-01-04 | 2025-10-15 | 2025-10-15 |
 | [logging-log4j-transform](https://github.com/apache/logging-log4j-transform) | Tools for binary post-processing of projects using Apache Log4j. | Java | 5 | Apache License 2.0 | 2023-01-05 | 2025-12-01 | 2025-12-17 |
 | [pekko-sbt-paradox](https://github.com/apache/pekko-sbt-paradox) | Theme and sbt-paradox settings used by Pekko projects | StringTemplate | 4 | Apache License 2.0 | 2023-01-07 | 2025-11-30 | 2025-11-30 |
@@ -2498,17 +2498,17 @@ Statistics Date: 2025-12-30 08:10:23
 | [arrow-flight-sql-postgresql](https://github.com/apache/arrow-flight-sql-postgresql) | Apache Arrow Flight SQL adapter for PostgreSQL | C++ | 102 | Apache License 2.0 | 2023-01-25 | 2025-12-16 | 2025-12-16 |
 | [datafusion-ballista-python](https://github.com/apache/datafusion-ballista-python) | Apache Arrow Ballista Python bindings | Shell | 38 | Apache License 2.0 | 2023-01-30 | 2025-12-11 | 2024-02-10 |
 | [airavata-data-catalog](https://github.com/apache/airavata-data-catalog) | Apache Airavata Data Catalog | Java | 10 | Apache License 2.0 | 2023-01-31 | 2025-06-23 | 2025-06-23 |
-| [answer-plugins](https://github.com/apache/answer-plugins) | The Apache Answer plugins repository. | Go | 122 | Apache License 2.0 | 2023-02-01 | 2025-12-26 | 2025-12-26 |
+| [answer-plugins](https://github.com/apache/answer-plugins) | The Apache Answer plugins repository. | Go | 122 | Apache License 2.0 | 2023-02-01 | 2025-12-31 | 2025-12-31 |
 | [iotdb-backup-tool](https://github.com/apache/iotdb-backup-tool) | Apache IoTDB Backup Tool | Java | 5 | Apache License 2.0 | 2023-02-07 | 2023-12-28 | 2025-07-12 |
 | [tac-website](https://github.com/apache/tac-website) | Website sources for the Travel Assistance Committee | HTML | 8 | - | 2023-02-09 | 2025-10-10 | 2025-10-10 |
 | [xmlgraphics](https://github.com/apache/xmlgraphics) | Apache xmlgraphics | None | 1 | - | 2023-02-10 | 2023-03-23 | 2023-02-10 |
 | [couchdb_INFRA-24179](https://github.com/apache/couchdb_INFRA-24179) | Seamless multi-master syncing database with an intuitive HTTP/JSON API, designed for reliability | None | 0 | Apache License 2.0 | 2023-02-17 | 2023-07-25 | 2023-02-17 |
 | [infrastructure-viewvc](https://github.com/apache/infrastructure-viewvc) | ViewVC is a browser interface for CVS and Subversion version control repositories. | None | 0 | Other | 2023-02-17 | 2023-07-25 | 2023-01-06 |
 | [rocketmq-test-tool](https://github.com/apache/rocketmq-test-tool) | Apache RocketMQ Test Tool | Shell | 4 | Apache License 2.0 | 2023-02-22 | 2024-12-04 | 2024-09-29 |
-| [hamilton](https://github.com/apache/hamilton) | Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does. | Jupyter Notebook | 2346 | Apache License 2.0 | 2023-02-23 | 2025-12-29 | 2025-12-30 |
-| [maven-apache-resources](https://github.com/apache/maven-apache-resources) | Apache Software Foundation Resource Bundles | Java | 6 | Apache License 2.0 | 2023-03-11 | 2025-12-21 | 2025-12-21 |
+| [hamilton](https://github.com/apache/hamilton) | Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does. | Jupyter Notebook | 2349 | Apache License 2.0 | 2023-02-23 | 2025-12-31 | 2025-12-30 |
+| [maven-apache-resources](https://github.com/apache/maven-apache-resources) | Apache Software Foundation Resource Bundles | Java | 6 | Apache License 2.0 | 2023-03-11 | 2025-12-30 | 2025-12-30 |
 | [pekko-connectors-samples](https://github.com/apache/pekko-connectors-samples) | Example projects building Reactive Integrations using Apache Pekko Connectors | Java | 5 | Creative Commons Zero v1.0 Universal | 2023-03-12 | 2025-10-22 | 2025-10-22 |
-| [paimon-website](https://github.com/apache/paimon-website) | Apache Paimon Website | TypeScript | 17 | Apache License 2.0 | 2023-03-15 | 2025-12-23 | 2025-12-30 |
+| [paimon-website](https://github.com/apache/paimon-website) | Apache Paimon Website | TypeScript | 17 | Apache License 2.0 | 2023-03-15 | 2025-12-23 | 2025-12-31 |
 | [ambari-website](https://github.com/apache/ambari-website) | Apache ambari | MDX | 4 | - | 2023-03-15 | 2025-05-13 | 2025-05-13 |
 | [logging-flume-spring-boot](https://github.com/apache/logging-flume-spring-boot) | Apache Flume is a distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log-like data | Java | 5 | Apache License 2.0 | 2023-03-16 | 2024-08-22 | 2025-12-19 |
 | [logging-flume-twitter](https://github.com/apache/logging-flume-twitter) | Apache Flume Twitter provides the Twitter Source for Apache Flume | Java | 0 | Apache License 2.0 | 2023-03-17 | 2024-02-28 | 2025-12-19 |
@@ -2520,7 +2520,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [logging-flume-jms](https://github.com/apache/logging-flume-jms) | Apache flume | None | 0 | - | 2023-03-17 | 2024-02-28 | 2023-03-17 |
 | [logging-flume-irc](https://github.com/apache/logging-flume-irc) | Apache flume | None | 0 | - | 2023-03-17 | 2024-02-28 | 2023-03-17 |
 | [logging-flume-http](https://github.com/apache/logging-flume-http) | Apache flume | None | 2 | - | 2023-03-17 | 2024-02-28 | 2023-03-17 |
-| [iggy](https://github.com/apache/iggy) | Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed | Rust | 3696 | Apache License 2.0 | 2023-03-18 | 2025-12-30 | 2025-12-30 |
+| [iggy](https://github.com/apache/iggy) | Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed | Rust | 3700 | Apache License 2.0 | 2023-03-18 | 2025-12-31 | 2025-12-31 |
 | [paimon-shade](https://github.com/apache/paimon-shade) | Shade jars for Apache Paimon. | Shell | 10 | Apache License 2.0 | 2023-03-20 | 2024-09-09 | 2024-09-09 |
 | [doris-shade](https://github.com/apache/doris-shade) | Apache Doris Shade Repository | None | 2 | Apache License 2.0 | 2023-03-21 | 2025-11-25 | 2025-11-25 |
 | [eventmesh-workflow](https://github.com/apache/eventmesh-workflow) | EventMesh workflow | Go | 30 | Apache License 2.0 | 2023-03-28 | 2025-06-28 | 2023-07-06 |
@@ -2535,10 +2535,10 @@ Statistics Date: 2025-12-30 08:10:23
 | [skywalking-grafana-plugins](https://github.com/apache/skywalking-grafana-plugins) | SkyWalking Grafana Plugins provide extensions for Apache SkyWalking to visualize telemetry data on Grafana. | TypeScript | 30 | Apache License 2.0 | 2023-04-11 | 2025-05-21 | 2025-08-06 |
 | [kyuubi-shaded](https://github.com/apache/kyuubi-shaded) | Apache Kyuubi Shaded Dependencies. | Java | 6 | Apache License 2.0 | 2023-04-13 | 2025-07-21 | 2025-07-21 |
 | [maven-blog](https://github.com/apache/maven-blog) | Apache Maven Blog | None | 2 | - | 2023-04-16 | 2024-06-30 | 2023-08-27 |
-| [gravitino](https://github.com/apache/gravitino) | World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake. | Java | 2601 | Apache License 2.0 | 2023-04-23 | 2025-12-30 | 2025-12-30 |
+| [gravitino](https://github.com/apache/gravitino) | World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake. | Java | 2604 | Apache License 2.0 | 2023-04-23 | 2025-12-31 | 2025-12-31 |
 | [skywalking-terraform](https://github.com/apache/skywalking-terraform) | Terraform modules and Ansible playbook for Apache SkyWalking | HCL | 12 | Apache License 2.0 | 2023-04-23 | 2024-10-04 | 2024-03-11 |
-| [airflow-site-archive](https://github.com/apache/airflow-site-archive) | Apache Airflow Site Archive - archive of all produced documentation for Apache Airflow | None | 1 | - | 2023-04-26 | 2025-12-20 | 2025-12-20 |
-| [fory](https://github.com/apache/fory) | A blazingly fast multi-language serialization framework powered by JIT and zero-copy. | Java | 4153 | Apache License 2.0 | 2023-04-28 | 2025-12-30 | 2025-12-30 |
+| [airflow-site-archive](https://github.com/apache/airflow-site-archive) | Apache Airflow Site Archive - archive of all produced documentation for Apache Airflow | None | 1 | - | 2023-04-26 | 2025-12-20 | 2025-12-30 |
+| [fory](https://github.com/apache/fory) | A blazingly fast multi-language serialization framework powered by JIT and zero-copy. | Java | 4151 | Apache License 2.0 | 2023-04-28 | 2025-12-31 | 2025-12-31 |
 | [causeway-blog](https://github.com/apache/causeway-blog) | Apache causeway | None | 1 | - | 2023-05-01 | 2024-07-04 | 2024-07-04 |
 | [doris-sdk](https://github.com/apache/doris-sdk) | SDK for Apache Doris | Thrift | 8 | Apache License 2.0 | 2023-05-04 | 2025-03-25 | 2024-04-07 |
 | [pekko-quickstart-scala.g8](https://github.com/apache/pekko-quickstart-scala.g8) | A minimal seed template for an Apache Pekko in Scala | Scala | 12 | Other | 2023-05-06 | 2025-10-26 | 2025-09-08 |
@@ -2547,16 +2547,16 @@ Statistics Date: 2025-12-30 08:10:23
 | [cloudberry-site](https://github.com/apache/cloudberry-site) | Website sources for Apache Cloudberry™️ (Incubating) | TypeScript | 19 | Apache License 2.0 | 2023-05-12 | 2025-12-24 | 2025-12-24 |
 | [infrastructure-oauth](https://github.com/apache/infrastructure-oauth) | Apache infrastructure | Python | 8 | - | 2023-05-17 | 2025-12-25 | 2025-10-08 |
 | [fory-site](https://github.com/apache/fory-site) | Apache Fory Website | TypeScript | 22 | Apache License 2.0 | 2023-05-23 | 2025-12-30 | 2025-12-30 |
-| [cloudberry](https://github.com/apache/cloudberry) | One advanced and mature open-source MPP (Massively Parallel Processing) database. Open source alternative to Greenplum Database. | C | 1163 | Apache License 2.0 | 2023-05-24 | 2025-12-29 | 2025-12-30 |
+| [cloudberry](https://github.com/apache/cloudberry) | One advanced and mature open-source MPP (Massively Parallel Processing) database. Open source alternative to Greenplum Database. | C | 1163 | Apache License 2.0 | 2023-05-24 | 2025-12-30 | 2025-12-31 |
 | [iotdb-client-csharp](https://github.com/apache/iotdb-client-csharp) | Apache IoTDB Client for C# | C# | 20 | Apache License 2.0 | 2023-05-24 | 2025-08-26 | 2025-08-26 |
 | [netbeans-mavenutils-archetypes](https://github.com/apache/netbeans-mavenutils-archetypes) | Apache NetBeans Maven Archetypes | Groovy | 1 | Apache License 2.0 | 2023-05-26 | 2025-08-25 | 2024-01-29 |
 | [kyuubi-service-rpc](https://github.com/apache/kyuubi-service-rpc) | Apache kyuubi | Java | 1 | - | 2023-05-29 | 2023-08-15 | 2024-09-19 |
 | [bifromq-sites](https://github.com/apache/bifromq-sites) | Apache BifroMQ (Incubating) Website | HTML | 7 | Apache License 2.0 | 2023-05-29 | 2025-12-22 | 2025-12-22 |
 | [bifromq](https://github.com/apache/bifromq) | Apache BifroMQ (Incubating) is a high-performance, distributed MQTT broker that natively supports multi-tenancy. It is designed to enable the building of large-scale IoT device connectivity and messaging systems. | Java | 742 | Apache License 2.0 | 2023-05-29 | 2025-12-30 | 2025-12-30 |
-| [spark-connect-go](https://github.com/apache/spark-connect-go) | Apache Spark Connect Client for Golang | Go | 242 | Apache License 2.0 | 2023-05-30 | 2025-12-29 | 2025-10-13 |
+| [spark-connect-go](https://github.com/apache/spark-connect-go) | Apache Spark Connect Client for Golang | Go | 243 | Apache License 2.0 | 2023-05-30 | 2025-12-30 | 2025-10-13 |
 | [infrastructure-blogs-archive](https://github.com/apache/infrastructure-blogs-archive) | Apache infrastructure | HTML | 3 | - | 2023-05-31 | 2025-07-24 | 2025-09-17 |
 | [hadoop-api-shim](https://github.com/apache/hadoop-api-shim) | Apache hadoop | Java | 7 | Apache License 2.0 | 2023-06-02 | 2025-09-08 | 2024-02-19 |
-| [geaflow](https://github.com/apache/geaflow) | Apache GeaFlow: A Streaming Graph Computing Engine. | Java | 751 | Apache License 2.0 | 2023-06-05 | 2025-12-26 | 2025-12-26 |
+| [geaflow](https://github.com/apache/geaflow) | Apache GeaFlow: A Streaming Graph Computing Engine. | Java | 753 | Apache License 2.0 | 2023-06-05 | 2025-12-31 | 2025-12-31 |
 | [ctakes-website](https://github.com/apache/ctakes-website) | Apache cTAKES is a Natural Language Processing (NLP) platform for clinical text. | HTML | 0 | - | 2023-06-07 | 2025-03-06 | 2025-03-06 |
 | [dubbo-go-contrib](https://github.com/apache/dubbo-go-contrib) | Apache dubbo | Go | 3 | - | 2023-06-08 | 2025-12-24 | 2023-06-12 |
 | [hbase-kustomize](https://github.com/apache/hbase-kustomize) | Apache HBase deployments on Kubernetes using Kustomize | Shell | 3 | Apache License 2.0 | 2023-06-12 | 2024-04-03 | 2024-01-13 |
@@ -2569,7 +2569,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [cloudberry-bootcamp](https://github.com/apache/cloudberry-bootcamp) | Try out Apache Cloudberry (Incubating) via the Docker-based Sandbox | Shell | 20 | Apache License 2.0 | 2023-07-13 | 2025-11-25 | 2025-11-25 |
 | [shenyu-wasm](https://github.com/apache/shenyu-wasm) | Apache ShenYu WASM SDK for java. | Java | 5 | Apache License 2.0 | 2023-07-17 | 2025-08-13 | 2024-01-06 |
 | [uima-ducc](https://github.com/apache/uima-ducc) | Apache UIMA Ducc | Java | 1 | Apache License 2.0 | 2023-07-18 | 2023-07-19 | 2023-09-26 |
-| [iceberg-rust](https://github.com/apache/iceberg-rust) | Apache Iceberg | Rust | 1179 | Apache License 2.0 | 2023-07-21 | 2025-12-30 | 2025-12-30 |
+| [iceberg-rust](https://github.com/apache/iceberg-rust) | Apache Iceberg | Rust | 1181 | Apache License 2.0 | 2023-07-21 | 2025-12-31 | 2025-12-30 |
 | [incubator-xtable](https://github.com/apache/incubator-xtable) | Apache XTable (incubating) is a cross-table converter for lakehouse table formats that facilitates interoperability across data processing systems and query engines. | Java | 1140 | Apache License 2.0 | 2023-07-21 | 2025-12-29 | 2025-12-29 |
 | [grails-github-actions](https://github.com/apache/grails-github-actions) | Apache Grails - GitHub Actions | Groovy | 2 | Apache License 2.0 | 2023-07-22 | 2025-10-20 | 2025-12-15 |
 | [publicaffairs-website](https://github.com/apache/publicaffairs-website) | ASF Public Affairs Website | None | 1 | - | 2023-07-24 | 2023-10-04 | 2023-07-24 |
@@ -2579,18 +2579,18 @@ Statistics Date: 2025-12-30 08:10:23
 | [amoro-site](https://github.com/apache/amoro-site) | Apache Amoro Website | SCSS | 6 | Apache License 2.0 | 2023-08-01 | 2025-11-23 | 2025-11-23 |
 | [apachecon-eu](https://github.com/apache/apachecon-eu) | Community Over Code EU - EU edition of the flagship ASF conference | HTML | 6 | - | 2023-08-01 | 2024-12-05 | 2024-11-27 |
 | [infrastructure-paste](https://github.com/apache/infrastructure-paste) | Apache infrastructure | None | 0 | - | 2023-08-02 | 2023-08-02 | 2023-08-02 |
-| [iceberg-python](https://github.com/apache/iceberg-python) | PyIceberg | Python | 967 | Apache License 2.0 | 2023-08-11 | 2025-12-29 | 2025-12-29 |
+| [iceberg-python](https://github.com/apache/iceberg-python) | PyIceberg | Python | 968 | Apache License 2.0 | 2023-08-11 | 2025-12-31 | 2025-12-30 |
 | [iceberg-go](https://github.com/apache/iceberg-go) | Apache Iceberg - Go | Go | 371 | Apache License 2.0 | 2023-08-11 | 2025-12-29 | 2025-12-28 |
 | [skywalking-banyandb-helm](https://github.com/apache/skywalking-banyandb-helm) | BanyanDB Helm Chart repository provides ways to install and configure BanyanDB running in a cluster natively on Kubernetes. | Shell | 9 | Apache License 2.0 | 2023-08-11 | 2025-12-11 | 2025-12-11 |
 | [curator-site](https://github.com/apache/curator-site) | Apache Curator Website | TypeScript | 0 | - | 2023-08-15 | 2025-12-05 | 2025-12-05 |
 | [bloodhound-site](https://github.com/apache/bloodhound-site) | Apache Bloodhound Website Repository | HTML | 2 | - | 2023-08-25 | 2025-10-13 | 2023-08-26 |
 | [sling-org-apache-sling-commons-metrics-prometheus](https://github.com/apache/sling-org-apache-sling-commons-metrics-prometheus) | Apache Sling Commons Prometheus Metrics Exporter | Java | 0 | Apache License 2.0 | 2023-08-31 | 2025-08-06 | 2025-08-06 |
-| [datasketches-python](https://github.com/apache/datasketches-python) | Apache datasketches | Jupyter Notebook | 38 | Apache License 2.0 | 2023-08-31 | 2025-11-28 | 2025-08-08 |
-| [logging-log4j-jmx-gui](https://github.com/apache/logging-log4j-jmx-gui) | Swing-based client for remotely editing the Log4j configuration and remotely monitoring `StatusLogger` output | Java | 2 | Apache License 2.0 | 2023-09-05 | 2025-12-01 | 2025-12-16 |
+| [datasketches-python](https://github.com/apache/datasketches-python) | Apache datasketches | Jupyter Notebook | 39 | Apache License 2.0 | 2023-08-31 | 2025-12-30 | 2025-08-08 |
+| [logging-log4j-jmx-gui](https://github.com/apache/logging-log4j-jmx-gui) | Swing-based client for remotely editing the Log4j configuration and remotely monitoring `StatusLogger` output | Java | 2 | Apache License 2.0 | 2023-09-05 | 2025-12-01 | 2025-12-30 |
 | [accumulo-access](https://github.com/apache/accumulo-access) | Apache Accumulo Access Control Library | Java | 6 | Apache License 2.0 | 2023-09-07 | 2025-12-22 | 2025-12-22 |
 | [shardingsphere-plugin](https://github.com/apache/shardingsphere-plugin) | Provides plugins for ShardingSphere pluggable architecture. | Java | 35 | Apache License 2.0 | 2023-09-08 | 2025-10-20 | 2025-02-24 |
 | [ozhera](https://github.com/apache/ozhera) | Apache OzHera is an About Application Observable Platform in the Cloud Native Era. | Java | 109 | Apache License 2.0 | 2023-09-08 | 2025-12-26 | 2025-12-26 |
-| [zeppelin-site](https://github.com/apache/zeppelin-site) | Apache zeppelin | JavaScript | 9 | - | 2023-09-09 | 2025-11-11 | 2025-11-18 |
+| [zeppelin-site](https://github.com/apache/zeppelin-site) | Apache zeppelin | JavaScript | 9 | - | 2023-09-09 | 2025-11-11 | 2025-12-30 |
 | [infra-transfer-test](https://github.com/apache/infra-transfer-test) | None | None | 0 | - | 2023-09-15 | 2023-12-19 | 2023-09-19 |
 | [flink-connector-prometheus](https://github.com/apache/flink-connector-prometheus) | Apache flink | Java | 16 | Apache License 2.0 | 2023-09-25 | 2025-10-15 | 2025-07-12 |
 | [airavata-cookiecutter-django-app](https://github.com/apache/airavata-cookiecutter-django-app) | Apache airavata | Python | 0 | - | 2023-09-27 | 2023-09-27 | 2023-09-27 |
@@ -2616,9 +2616,9 @@ Statistics Date: 2025-12-30 08:10:23
 | [cloudberry-backup](https://github.com/apache/cloudberry-backup) | Backup Utility for Apache Cloudberry (Incubating) | Go | 9 | Apache License 2.0 | 2023-11-15 | 2025-10-20 | 2025-12-03 |
 | [datasketches-java-common](https://github.com/apache/datasketches-java-common) | Apache datasketches | Java | 0 | Apache License 2.0 | 2023-11-15 | 2023-11-15 | 2023-11-18 |
 | [cloudberry-go-libs](https://github.com/apache/cloudberry-go-libs) | go-libs for Apache Cloudberry (Incubating) | Go | 2 | Apache License 2.0 | 2023-11-16 | 2025-12-18 | 2025-12-18 |
-| [tsfile](https://github.com/apache/tsfile) | Apache TsFile | Java | 171 | Apache License 2.0 | 2023-11-17 | 2025-12-30 | 2025-12-30 |
+| [tsfile](https://github.com/apache/tsfile) | Apache TsFile | Java | 171 | Apache License 2.0 | 2023-11-17 | 2025-12-31 | 2025-12-31 |
 | [airavata-cerebrum](https://github.com/apache/airavata-cerebrum) | Apache Airavata Cerebrum | Jupyter Notebook | 4 | Apache License 2.0 | 2023-11-28 | 2024-10-06 | 2024-10-06 |
-| [cloudberry-pxf](https://github.com/apache/cloudberry-pxf) | Platform Extension Framework (PXF) for Apache Cloudberry (Incubating) | Java | 5 | Apache License 2.0 | 2023-11-29 | 2025-12-23 | 2025-12-26 |
+| [cloudberry-pxf](https://github.com/apache/cloudberry-pxf) | Platform Extension Framework (PXF) for Apache Cloudberry (Incubating) | Java | 5 | Apache License 2.0 | 2023-11-29 | 2025-12-23 | 2025-12-31 |
 | [pekko-http-quickstart-scala.g8](https://github.com/apache/pekko-http-quickstart-scala.g8) | Apache Pekko HTTP Quickstart for Scala | Scala | 1 | Other | 2023-12-02 | 2025-10-30 | 2025-10-30 |
 | [pekko-http-quickstart-java.g8](https://github.com/apache/pekko-http-quickstart-java.g8) | Apache Pekko HTTP Quickstart for Java | Java | 0 | Other | 2023-12-02 | 2025-11-17 | 2025-10-26 |
 | [incubator-resilientdb-ResCLI](https://github.com/apache/incubator-resilientdb-ResCLI) | Global-Scale Sustainable Blockchain Fabric | Ruby | 3 | Apache License 2.0 | 2023-12-03 | 2025-07-14 | 2025-07-14 |
@@ -2629,7 +2629,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [sling-org-apache-sling-providertype-bnd-plugin](https://github.com/apache/sling-org-apache-sling-providertype-bnd-plugin) | Apache Sling Provider Type Checker Bnd Plugin | Java | 0 | Apache License 2.0 | 2023-12-05 | 2025-08-06 | 2025-08-06 |
 | [gravitino-playground](https://github.com/apache/gravitino-playground) | A playground to experience Gravitino | Jupyter Notebook | 68 | Apache License 2.0 | 2023-12-08 | 2025-12-24 | 2025-12-23 |
 | [manifoldcf-site](https://github.com/apache/manifoldcf-site) | Apache ManifoldCF website | HTML | 2 | Apache License 2.0 | 2023-12-13 | 2024-12-20 | 2025-09-14 |
-| [datasketches-go](https://github.com/apache/datasketches-go) | Apache datasketches | Go | 19 | Apache License 2.0 | 2023-12-14 | 2025-12-29 | 2025-12-29 |
+| [datasketches-go](https://github.com/apache/datasketches-go) | Apache datasketches | Go | 21 | Apache License 2.0 | 2023-12-14 | 2025-12-30 | 2025-12-30 |
 | [artemis-examples](https://github.com/apache/artemis-examples) | Apache Artemis Examples | Java | 36 | Apache License 2.0 | 2023-12-14 | 2025-12-08 | 2025-12-19 |
 | [manifoldcf-sdk](https://github.com/apache/manifoldcf-sdk) | Apache ManifoldCF SDK is a Maven project focused on helping developers to extend ManifoldCF with new connectors and extensions | Shell | 1 | Apache License 2.0 | 2023-12-21 | 2025-02-10 | 2025-02-10 |
 | [opennlp-models](https://github.com/apache/opennlp-models) | Apache OpenNLP Models | Shell | 12 | Apache License 2.0 | 2023-12-22 | 2025-12-22 | 2025-12-22 |
@@ -2644,9 +2644,9 @@ Statistics Date: 2025-12-30 08:10:23
 | [hive-dev-box](https://github.com/apache/hive-dev-box) | Apache hive | Shell | 0 | Apache License 2.0 | 2024-01-23 | 2024-01-23 | 2024-01-26 |
 | [trafficserver-libswoc](https://github.com/apache/trafficserver-libswoc) | Apache trafficserver | C++ | 4 | Apache License 2.0 | 2024-01-24 | 2025-10-09 | 2025-10-09 |
 | [streams-activitypub](https://github.com/apache/streams-activitypub) | Apache Streams ActivityPub Server | Scala | 1 | Apache License 2.0 | 2024-01-26 | 2025-01-06 | 2024-03-15 |
-| [tsfile-website](https://github.com/apache/tsfile-website) | Apache tsfile | HTML | 1 | - | 2024-01-28 | 2025-12-30 | 2025-12-30 |
+| [tsfile-website](https://github.com/apache/tsfile-website) | Apache tsfile | HTML | 1 | - | 2024-01-28 | 2025-12-31 | 2025-12-31 |
 | [incubator-kie-website](https://github.com/apache/incubator-kie-website) | Apache KIE Website | TypeScript | 1 | Apache License 2.0 | 2024-01-29 | 2025-10-13 | 2025-12-02 |
-| [burr](https://github.com/apache/burr) | Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on your own infrastructure. | Python | 1877 | Apache License 2.0 | 2024-01-29 | 2025-12-29 | 2025-12-29 |
+| [burr](https://github.com/apache/burr) | Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on your own infrastructure. | Python | 1878 | Apache License 2.0 | 2024-01-29 | 2025-12-30 | 2025-12-31 |
 | [infrastructure-asfyaml](https://github.com/apache/infrastructure-asfyaml) |  .asf.yaml documentation and schema  | Python | 9 | Apache License 2.0 | 2024-02-05 | 2025-12-17 | 2025-12-17 |
 | [struts-intellij-plugin](https://github.com/apache/struts-intellij-plugin) | Apache struts | Java | 1 | Apache License 2.0 | 2024-02-06 | 2025-08-16 | 2025-09-16 |
 | [sling-org-apache-sling-resource-observation-annotations](https://github.com/apache/sling-org-apache-sling-resource-observation-annotations) | Apache sling | Java | 1 | Apache License 2.0 | 2024-02-07 | 2025-08-06 | 2025-08-06 |
@@ -2672,15 +2672,15 @@ Statistics Date: 2025-12-30 08:10:23
 | [stormcrawler-site](https://github.com/apache/stormcrawler-site) | Source for the Apache StormCrawler web site | HTML | 3 | Apache License 2.0 | 2024-04-15 | 2025-12-29 | 2025-12-29 |
 | [infrastructure-ideas](https://github.com/apache/infrastructure-ideas) | ASF Infrastructure Suggestion Box | None | 2 | - | 2024-04-17 | 2025-10-27 | 2025-03-13 |
 | [infrastructure-actions](https://github.com/apache/infrastructure-actions) | Apache infrastructure | Python | 18 | - | 2024-04-18 | 2025-12-29 | 2025-12-29 |
-| [artemis-console](https://github.com/apache/artemis-console) | Apache Artemis Console | TypeScript | 5 | Apache License 2.0 | 2024-04-22 | 2025-12-23 | 2025-12-23 |
+| [artemis-console](https://github.com/apache/artemis-console) | Apache Artemis Console | TypeScript | 5 | Apache License 2.0 | 2024-04-22 | 2025-12-30 | 2025-12-30 |
 | [xerces-j](https://github.com/apache/xerces-j) | Apache Xerces-J | Java | 6 | Apache License 2.0 | 2024-04-26 | 2025-12-17 | 2025-12-05 |
 | [infrastructure-jira-issues-importer-2](https://github.com/apache/infrastructure-jira-issues-importer-2) | Test importing Jira tickets into Github | None | 0 | - | 2024-04-30 | 2024-04-30 | 2024-04-30 |
-| [hudi-rs](https://github.com/apache/hudi-rs) | The native Rust implementation for Apache Hudi, with C++ & Python API bindings. | Rust | 266 | Apache License 2.0 | 2024-05-02 | 2025-12-29 | 2025-12-28 |
+| [hudi-rs](https://github.com/apache/hudi-rs) | The native Rust implementation for Apache Hudi, with C++ & Python API bindings. | Rust | 266 | Apache License 2.0 | 2024-05-02 | 2025-12-30 | 2025-12-30 |
 | [voxpupuli-puppet-fail2ban](https://github.com/apache/voxpupuli-puppet-fail2ban) | This module installs, configures and manages the Fail2ban service. | None | 1 | Apache License 2.0 | 2024-05-12 | 2024-07-13 | 2024-05-12 |
 | [datafusion-benchmarks](https://github.com/apache/datafusion-benchmarks) | Apache DataFusion Benchmarks | Python | 22 | - | 2024-05-14 | 2025-12-21 | 2025-12-09 |
 | [datafusion-site](https://github.com/apache/datafusion-site) | Apache DataFusion Web Site | JavaScript | 5 | - | 2024-05-15 | 2025-12-18 | 2025-12-20 |
 | [dubbo-spi-samples](https://github.com/apache/dubbo-spi-samples) | Samples For Apache Dubbo SPI. | Java | 8 | Apache License 2.0 | 2024-05-17 | 2025-12-02 | 2024-12-12 |
-| [polaris](https://github.com/apache/polaris) | Apache Polaris, the interoperable, open source catalog for Apache Iceberg | Java | 1782 | Apache License 2.0 | 2024-05-29 | 2025-12-29 | 2025-12-29 |
+| [polaris](https://github.com/apache/polaris) | Apache Polaris, the interoperable, open source catalog for Apache Iceberg | Java | 1783 | Apache License 2.0 | 2024-05-29 | 2025-12-31 | 2025-12-30 |
 | [bigtop-manager](https://github.com/apache/bigtop-manager) | Bigtop Manager is a modern, AI-driven web application designed to simplify the complexity of bigdata cluster management. | Java | 111 | Apache License 2.0 | 2024-06-01 | 2025-12-27 | 2025-12-22 |
 | [datasketches-bigquery](https://github.com/apache/datasketches-bigquery) | Apache datasketches | JavaScript | 17 | Apache License 2.0 | 2024-06-08 | 2025-12-12 | 2025-06-09 |
 | [ozone-helm-charts](https://github.com/apache/ozone-helm-charts) | Helm chart for Apache Ozone | Smarty | 13 | Apache License 2.0 | 2024-06-20 | 2025-12-18 | 2025-12-18 |
@@ -2696,7 +2696,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [openserverless-site](https://github.com/apache/openserverless-site) | Apache OpenServerless website | CSS | 9 | Apache License 2.0 | 2024-07-02 | 2025-12-06 | 2025-08-01 |
 | [openserverless-operator](https://github.com/apache/openserverless-operator) | Apache openserverless | Python | 9 | Apache License 2.0 | 2024-07-02 | 2025-12-14 | 2025-12-15 |
 | [openserverless-cli](https://github.com/apache/openserverless-cli) | Apache openserverless | Go | 17 | Apache License 2.0 | 2024-07-02 | 2025-12-07 | 2025-04-06 |
-| [openserverless-task](https://github.com/apache/openserverless-task) | Apache openserverless | JavaScript | 8 | Apache License 2.0 | 2024-07-02 | 2025-12-16 | 2025-12-16 |
+| [openserverless-task](https://github.com/apache/openserverless-task) | Apache openserverless | JavaScript | 8 | Apache License 2.0 | 2024-07-02 | 2025-12-30 | 2025-12-30 |
 | [openserverless-runtimes](https://github.com/apache/openserverless-runtimes) | Apache openserverless | Go | 6 | Apache License 2.0 | 2024-07-02 | 2025-06-12 | 2025-12-23 |
 | [openserverless-testing](https://github.com/apache/openserverless-testing) | Apache openserverless | Shell | 1 | Apache License 2.0 | 2024-07-02 | 2025-11-10 | 2025-11-10 |
 | [openserverless-documentation](https://github.com/apache/openserverless-documentation) | Apache openserverless | None | 1 | - | 2024-07-02 | 2024-11-23 | 2024-07-02 |
@@ -2726,10 +2726,10 @@ Statistics Date: 2025-12-30 08:10:23
 | [maven-hocon-extension](https://github.com/apache/maven-hocon-extension) | Apache maven | Java | 31 | Apache License 2.0 | 2024-09-12 | 2025-10-16 | 2025-09-12 |
 | [openserverless-vscode](https://github.com/apache/openserverless-vscode) | Apache openserverless | None | 2 | Apache License 2.0 | 2024-09-17 | 2024-11-23 | 2024-10-05 |
 | [datafusion-ray](https://github.com/apache/datafusion-ray) | Apache DataFusion Ray | Python | 228 | Apache License 2.0 | 2024-09-19 | 2025-12-30 | 2025-10-05 |
-| [avro-rs](https://github.com/apache/avro-rs) | Rust SDK for Apache Avro - a data serialization system. | Rust | 92 | Apache License 2.0 | 2024-09-23 | 2025-12-29 | 2025-12-29 |
+| [avro-rs](https://github.com/apache/avro-rs) | Rust SDK for Apache Avro - a data serialization system. | Rust | 92 | Apache License 2.0 | 2024-09-23 | 2025-12-31 | 2025-12-31 |
 | [shenyu-client-rust](https://github.com/apache/shenyu-client-rust) | Apache shenyu | Rust | 13 | Apache License 2.0 | 2024-09-30 | 2025-06-12 | 2025-06-12 |
 | [incubator-resilientdb-resvault-sdk](https://github.com/apache/incubator-resilientdb-resvault-sdk) | Global-Scale Sustainable Blockchain Fabric | TypeScript | 2 | Apache License 2.0 | 2024-10-03 | 2025-12-15 | 2025-12-15 |
-| [fesod](https://github.com/apache/fesod) | Fast. Easy. Done. Processing spreadsheets without worrying about large files causing OOM. | Java | 5617 | Apache License 2.0 | 2024-10-05 | 2025-12-30 | 2025-12-28 |
+| [fesod](https://github.com/apache/fesod) | Fast. Easy. Done. Processing spreadsheets without worrying about large files causing OOM. | Java | 5631 | Apache License 2.0 | 2024-10-05 | 2025-12-31 | 2025-12-28 |
 | [openoffice-translation](https://github.com/apache/openoffice-translation) | Apache openoffice | None | 2 | - | 2024-10-05 | 2025-12-20 | 2025-12-20 |
 | [comdev-people](https://github.com/apache/comdev-people) | Apache Comdev source for 'PhoneBook' website | JavaScript | 5 | - | 2024-10-07 | 2025-12-10 | 2025-12-01 |
 | [incubator-resilientdb-create-resilient-app](https://github.com/apache/incubator-resilientdb-create-resilient-app) | Global-Scale Sustainable Blockchain Fabric | Vue | 2 | Apache License 2.0 | 2024-10-17 | 2025-12-15 | 2025-12-15 |
@@ -2737,7 +2737,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [sling-tooling-github](https://github.com/apache/sling-tooling-github) | Apache sling | None | 0 | - | 2024-10-28 | 2024-11-25 | 2024-11-25 |
 | [doris-jeager](https://github.com/apache/doris-jeager) | Apache doris | None | 0 | - | 2024-10-29 | 2024-10-29 | 2024-10-29 |
 | [incubator-resilientdb-resilient-node-cache](https://github.com/apache/incubator-resilientdb-resilient-node-cache) | TypeScript library for syncing ResilientDB data via WebSocket and HTTP with seamless reconnection. | TypeScript | 2 | Apache License 2.0 | 2024-10-31 | 2025-12-15 | 2025-12-15 |
-| [fluss](https://github.com/apache/fluss) | Apache Fluss is a streaming storage built for real-time analytics. | Java | 1697 | Apache License 2.0 | 2024-10-31 | 2025-12-30 | 2025-12-29 |
+| [fluss](https://github.com/apache/fluss) | Apache Fluss is a streaming storage built for real-time analytics. | Java | 1699 | Apache License 2.0 | 2024-10-31 | 2025-12-31 | 2025-12-31 |
 | [logging-jdk](https://github.com/apache/logging-jdk) | Bridges between JDK logging frameworks (JUL and JPL) and other logging APIs | Java | 1 | Apache License 2.0 | 2024-11-06 | 2024-12-23 | 2025-02-17 |
 | [logging-slf4j](https://github.com/apache/logging-slf4j) | Bridges between Log4j API and SLF4J | Java | 0 | Apache License 2.0 | 2024-11-06 | 2025-03-17 | 2025-03-19 |
 | [incubator-resilientdb-resilient-python-cache](https://github.com/apache/incubator-resilientdb-resilient-python-cache) | Global-Scale Sustainable Blockchain Fabric | Python | 2 | Apache License 2.0 | 2024-11-08 | 2025-12-15 | 2025-12-15 |
@@ -2745,7 +2745,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [camel-jbang-examples](https://github.com/apache/camel-jbang-examples) | Apache Camel JBang Examples | Groovy | 10 | Apache License 2.0 | 2024-11-15 | 2025-11-29 | 2025-11-29 |
 | [incubator-resilientdb-ResLens-Middleware](https://github.com/apache/incubator-resilientdb-ResLens-Middleware) | Global-Scale Sustainable Blockchain Fabric | JavaScript | 0 | Apache License 2.0 | 2024-11-21 | 2025-12-15 | 2025-12-15 |
 | [infrastructure-gha-allowlist-manager](https://github.com/apache/infrastructure-gha-allowlist-manager) | Apache infrastructure | Python | 1 | - | 2024-11-21 | 2025-04-01 | 2025-04-01 |
-| [iceberg-cpp](https://github.com/apache/iceberg-cpp) | Apache Iceberg C++ | C++ | 171 | Apache License 2.0 | 2024-11-22 | 2025-12-30 | 2025-12-30 |
+| [iceberg-cpp](https://github.com/apache/iceberg-cpp) | Apache Iceberg C++ | C++ | 171 | Apache License 2.0 | 2024-11-22 | 2025-12-31 | 2025-12-31 |
 | [arrow-java](https://github.com/apache/arrow-java) | Official Java implementation of Apache Arrow | Java | 76 | Apache License 2.0 | 2024-11-25 | 2025-12-29 | 2025-12-29 |
 | [otava-website](https://github.com/apache/otava-website) | Website for Apache Otava (incubating) | TypeScript | 0 | Apache License 2.0 | 2024-11-28 | 2025-12-01 | 2025-12-01 |
 | [auron-sites](https://github.com/apache/auron-sites) | Apache Auron Site | TypeScript | 2 | - | 2024-12-03 | 2025-12-15 | 2025-12-15 |
@@ -2759,7 +2759,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [skywalking-ruby](https://github.com/apache/skywalking-ruby) | The Ruby agent for Apache SkyWalking | Ruby | 5 | Apache License 2.0 | 2024-12-21 | 2025-10-04 | 2025-07-20 |
 | [datafusion-testing](https://github.com/apache/datafusion-testing) | Apache DataFusion SQL Query Engine Testing | None | 1 | Apache License 2.0 | 2024-12-22 | 2025-10-16 | 2025-11-09 |
 | [logging-admin](https://github.com/apache/logging-admin) | Apache Logging Admin API | Java | 0 | Apache License 2.0 | 2024-12-27 | 2024-12-30 | 2025-12-19 |
-| [cloudstack-installer](https://github.com/apache/cloudstack-installer) | Script based installer for new users trying out Apache CloudStack | Shell | 11 | Apache License 2.0 | 2024-12-31 | 2025-12-29 | 2025-12-24 |
+| [cloudstack-installer](https://github.com/apache/cloudstack-installer) | Script based installer for new users trying out Apache CloudStack | Shell | 12 | Apache License 2.0 | 2024-12-31 | 2025-12-31 | 2025-12-24 |
 | [synapse-go](https://github.com/apache/synapse-go) | Apache synapse | Go | 6 | Apache License 2.0 | 2025-01-02 | 2025-10-06 | 2025-11-20 |
 | [tomee-quartz-shade](https://github.com/apache/tomee-quartz-shade) | Apache TomEE - Dependencies - Quartz Shade | None | 1 | Apache License 2.0 | 2025-01-07 | 2025-11-29 | 2025-12-12 |
 | [lucenenet-codeanalysis-dev](https://github.com/apache/lucenenet-codeanalysis-dev) | Roslyn Code Analysis for Apache Lucene.NET | C# | 3 | Apache License 2.0 | 2025-01-11 | 2025-12-02 | 2025-10-18 |
@@ -2773,7 +2773,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [echarts-from-mermaid](https://github.com/apache/echarts-from-mermaid) | Apache ECharts From Mermaid | TypeScript | 18 | - | 2025-01-26 | 2025-12-27 | 2025-11-26 |
 | [iggy-website](https://github.com/apache/iggy-website) | Apache Iggy (Incubating) Website | CSS | 2 | Apache License 2.0 | 2025-02-09 | 2025-12-24 | 2025-12-24 |
 | [shenyu-client-java](https://github.com/apache/shenyu-client-java) | Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance. | Java | 3 | - | 2025-02-10 | 2025-10-15 | 2025-09-12 |
-| [tooling-trusted-releases](https://github.com/apache/tooling-trusted-releases) | Apache Trusted Releases | Python | 19 | Apache License 2.0 | 2025-02-10 | 2025-12-29 | 2025-12-29 |
+| [tooling-trusted-releases](https://github.com/apache/tooling-trusted-releases) | Apache Trusted Releases | Python | 19 | Apache License 2.0 | 2025-02-10 | 2025-12-30 | 2025-12-30 |
 | [infrastructure-abc](https://github.com/apache/infrastructure-abc) | Apache Infrastructure Abuse and Connectivity Help Center | JavaScript | 0 | - | 2025-02-13 | 2025-07-03 | 2025-07-03 |
 | [incubator-resilientdb-ansible](https://github.com/apache/incubator-resilientdb-ansible) | Global-Scale Sustainable Blockchain Fabric https://resilientdb.incubator.apache.org/ | Jinja | 1 | Apache License 2.0 | 2025-02-14 | 2025-12-15 | 2025-12-15 |
 | [daffodil-infrastructure](https://github.com/apache/daffodil-infrastructure) | Apache Daffodil Infrastructure | JavaScript | 1 | - | 2025-02-24 | 2025-12-12 | 2025-12-12 |
@@ -2782,7 +2782,7 @@ Statistics Date: 2025-12-30 08:10:23
 | [openoffice-devtools](https://github.com/apache/openoffice-devtools) | Apache openoffice | Java | 2 | - | 2025-02-25 | 2025-12-16 | 2025-12-16 |
 | [uniffle-rust](https://github.com/apache/uniffle-rust) | Apache uniffle | None | 0 | - | 2025-03-10 | 2025-03-10 | 2025-03-10 |
 | [spark-connect-swift](https://github.com/apache/spark-connect-swift) | Apache Spark Connect Client for Swift | Swift | 28 | Apache License 2.0 | 2025-03-10 | 2025-12-23 | 2025-12-23 |
-| [arrow-rs-object-store](https://github.com/apache/arrow-rs-object-store) | Rust object_store crate | Rust | 180 | Apache License 2.0 | 2025-03-20 | 2025-12-29 | 2025-12-19 |
+| [arrow-rs-object-store](https://github.com/apache/arrow-rs-object-store) | Rust object_store crate | Rust | 183 | Apache License 2.0 | 2025-03-20 | 2025-12-30 | 2025-12-30 |
 | [openserverless-tutorial](https://github.com/apache/openserverless-tutorial) | Apache openserverless | JavaScript | 1 | Apache License 2.0 | 2025-03-23 | 2025-07-14 | 2025-03-24 |
 | [arrow-dotnet](https://github.com/apache/arrow-dotnet) | Official .NET implementation of Apache Arrow | C# | 19 | Apache License 2.0 | 2025-03-31 | 2025-12-29 | 2025-12-29 |
 | [iotdb-mcp-server](https://github.com/apache/iotdb-mcp-server) | Apache IoTDB MCP Server | Python | 31 | Apache License 2.0 | 2025-04-02 | 2025-11-28 | 2025-07-16 |
@@ -2791,17 +2791,17 @@ Statistics Date: 2025-12-30 08:10:23
 | [attic](https://github.com/apache/attic) | Attic | Ruby | 2 | - | 2025-04-13 | 2025-12-20 | 2025-12-20 |
 | [hamilton-101](https://github.com/apache/hamilton-101) | Apache hamilton | None | 0 | - | 2025-04-18 | 2025-04-18 | 2025-04-18 |
 | [ambari-deploy](https://github.com/apache/ambari-deploy) | Apache ambari | Python | 2 | - | 2025-04-21 | 2025-07-01 | 2025-07-01 |
-| [doris-mcp-server](https://github.com/apache/doris-mcp-server) | Apache Doris MCP Server | Python | 236 | Apache License 2.0 | 2025-05-06 | 2025-12-27 | 2025-12-24 |
+| [doris-mcp-server](https://github.com/apache/doris-mcp-server) | Apache Doris MCP Server | Python | 239 | Apache License 2.0 | 2025-05-06 | 2025-12-31 | 2025-12-24 |
 | [skywalking-mcp](https://github.com/apache/skywalking-mcp) | Apache SkyWalking MCP Server | Go | 16 | Apache License 2.0 | 2025-05-11 | 2025-12-23 | 2025-12-04 |
 | [doris-opentelemetry-demo](https://github.com/apache/doris-opentelemetry-demo) | Apache doris | TypeScript | 7 | Apache License 2.0 | 2025-05-12 | 2025-11-24 | 2025-12-26 |
 | [openserverless-build](https://github.com/apache/openserverless-build) | Apache openserverless | Dockerfile | 0 | Apache License 2.0 | 2025-05-13 | 2025-06-07 | 2025-06-08 |
 | [openserverless-admin](https://github.com/apache/openserverless-admin) | Apache openserverless | None | 0 | - | 2025-05-13 | 2025-05-13 | 2025-05-13 |
-| [arrow-js](https://github.com/apache/arrow-js) | Official JavaScript implementation of Apache Arrow | TypeScript | 77 | Apache License 2.0 | 2025-05-14 | 2025-12-23 | 2025-12-29 |
+| [arrow-js](https://github.com/apache/arrow-js) | Official JavaScript implementation of Apache Arrow | TypeScript | 78 | Apache License 2.0 | 2025-05-14 | 2025-12-31 | 2025-12-29 |
 | [infrastructure-esp](https://github.com/apache/infrastructure-esp) | ASF Infrastructure Event Stream Processor | Python | 0 | - | 2025-05-20 | 2025-06-04 | 2025-06-04 |
 | [arrow-swift](https://github.com/apache/arrow-swift) | Official Swift implementation of Apache Arrow | Swift | 13 | Apache License 2.0 | 2025-05-23 | 2025-12-16 | 2025-12-16 |
 | [spark-connect-rust](https://github.com/apache/spark-connect-rust) | Apache Spark Connect for Rust | Rust | 25 | Apache License 2.0 | 2025-05-26 | 2025-11-14 | 2025-10-03 |
 | [sedona-testing](https://github.com/apache/sedona-testing) | Apache sedona | Python | 5 | Apache License 2.0 | 2025-06-04 | 2025-10-08 | 2025-10-08 |
-| [flink-agents](https://github.com/apache/flink-agents) | Flink Agents is an Agentic AI framework based on Apache Flink | Java | 288 | Apache License 2.0 | 2025-06-08 | 2025-12-26 | 2025-12-26 |
+| [flink-agents](https://github.com/apache/flink-agents) | Flink Agents is an Agentic AI framework based on Apache Flink | Java | 289 | Apache License 2.0 | 2025-06-08 | 2025-12-30 | 2025-12-26 |
 | [dubbo-helm-charts](https://github.com/apache/dubbo-helm-charts) | Apache Dubbo Helm Charts. | None | 0 | Apache License 2.0 | 2025-06-15 | 2025-12-12 | 2025-12-12 |
 | [arrow-skyhook](https://github.com/apache/arrow-skyhook) | C++ component that interfaces Arrow with the Ceph distributed filesystem | C++ | 0 | - | 2025-06-16 | 2025-06-16 | 2025-06-16 |
 | [netbeans-vscode](https://github.com/apache/netbeans-vscode) | Apache NetBeans for VS Code | TypeScript | 7 | Apache License 2.0 | 2025-06-17 | 2025-12-16 | 2025-11-27 |
@@ -2826,12 +2826,12 @@ Statistics Date: 2025-12-30 08:10:23
 | [fluss-rust](https://github.com/apache/fluss-rust) | Rust Client for Apache Fluss (Incubating) | Rust | 26 | Apache License 2.0 | 2025-08-22 | 2025-12-29 | 2025-12-29 |
 | [tooling-actions](https://github.com/apache/tooling-actions) | Apache Trusted Release Actions | Makefile | 0 | Apache License 2.0 | 2025-08-22 | 2025-12-29 | 2025-12-29 |
 | [sedona-spatialbench](https://github.com/apache/sedona-spatialbench) | A benchmark for assessing geospatial SQL analytics query performance across database systems | Rust | 30 | Apache License 2.0 | 2025-08-25 | 2025-12-20 | 2025-12-20 |
-| [sedona-db](https://github.com/apache/sedona-db) | A single-node analytical database engine with geospatial as a first-class citizen | Rust | 369 | Apache License 2.0 | 2025-08-25 | 2025-12-28 | 2025-12-29 |
+| [sedona-db](https://github.com/apache/sedona-db) | A single-node analytical database engine with geospatial as a first-class citizen | Rust | 369 | Apache License 2.0 | 2025-08-25 | 2025-12-28 | 2025-12-31 |
 | [hertzbeat-collector-go](https://github.com/apache/hertzbeat-collector-go) | Real-time observability system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities. | Go | 22 | Apache License 2.0 | 2025-09-01 | 2025-12-29 | 2025-12-29 |
 | [lucenenet-extensions](https://github.com/apache/lucenenet-extensions) | Apache lucenenet | None | 0 | - | 2025-09-02 | 2025-09-02 | 2025-09-02 |
-| [tvm-ffi](https://github.com/apache/tvm-ffi) | Open ABI and FFI for Machine Learning Systems | C++ | 265 | Apache License 2.0 | 2025-09-13 | 2025-12-29 | 2025-12-29 |
+| [tvm-ffi](https://github.com/apache/tvm-ffi) | Open ABI and FFI for Machine Learning Systems | C++ | 268 | Apache License 2.0 | 2025-09-13 | 2025-12-31 | 2025-12-29 |
 | [datafusion-sandbox](https://github.com/apache/datafusion-sandbox) | DataFusion Test Sandbox | Rust | 1 | Apache License 2.0 | 2025-09-17 | 2025-12-18 | 2025-12-30 |
-| [grails-website](https://github.com/apache/grails-website) | Apache Grails Website & Documentation | None | 2 | - | 2025-09-19 | 2025-12-30 | 2025-12-30 |
+| [grails-website](https://github.com/apache/grails-website) | Apache Grails Website & Documentation | None | 2 | - | 2025-09-19 | 2025-12-31 | 2025-12-31 |
 | [cloudstack-extensions](https://github.com/apache/cloudstack-extensions) | Apache cloudstack | None | 2 | Apache License 2.0 | 2025-09-23 | 2025-09-23 | 2025-09-23 |
 | [grails-gradle-codestyle](https://github.com/apache/grails-gradle-codestyle) | Apache grails | None | 0 | - | 2025-10-14 | 2025-10-14 | 2025-10-14 |
 | [opendal-ofs](https://github.com/apache/opendal-ofs) | A userspace filesystem backing by Apache OpenDAL. | Rust | 28 | Apache License 2.0 | 2025-10-15 | 2025-12-22 | 2025-12-22 |
@@ -2846,5 +2846,5 @@ Statistics Date: 2025-12-30 08:10:23
 | [artemis-website](https://github.com/apache/artemis-website) | Apache Artemis Website | HTML | 2 | - | 2025-11-28 | 2025-12-22 | 2025-12-22 |
 | [skywalking-banyandb-client-proto](https://github.com/apache/skywalking-banyandb-client-proto) | BanyanDB public client Protocol Buffer and gRPC definitions | Python | 2 | Apache License 2.0 | 2025-12-08 | 2025-12-23 | 2025-12-21 |
 | [phoenix-site](https://github.com/apache/phoenix-site) | Apache phoenix | HTML | 0 | - | 2025-12-10 | 2025-12-16 | 2025-12-19 |
-| [datasketches-rust](https://github.com/apache/datasketches-rust) | A software library of stochastic streaming algorithms, a.k.a. sketches. | Rust | 22 | Apache License 2.0 | 2025-12-10 | 2025-12-30 | 2025-12-30 |
+| [datasketches-rust](https://github.com/apache/datasketches-rust) | A software library of stochastic streaming algorithms, a.k.a. sketches. | Rust | 24 | Apache License 2.0 | 2025-12-10 | 2025-12-31 | 2025-12-31 |
 | [tooling-agents](https://github.com/apache/tooling-agents) | Apache Tooling Agents | None | 0 | Apache License 2.0 | 2025-12-26 | 2025-12-29 | 2025-12-29 |
