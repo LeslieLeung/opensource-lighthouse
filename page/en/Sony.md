@@ -1,15 +1,15 @@
 # Sony
 
-A total of 131 projects, 50 active projects in the last six months, 1 teams, and 17595 stars.
+A total of 131 projects, 50 active projects in the last six months, 1 teams, and 17602 stars.
 
 Top 3 Languages: Python, JavaScript, Jupyter Notebook
 
-Statistics Date: 2026-01-06 08:11:08
+Statistics Date: 2026-01-07 08:10:51
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3465 | MIT License | 2015-05-29 | 2026-01-05 | 2026-01-01 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4310 | MIT License | 2015-05-29 | 2026-01-06 | 2025-07-05 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3467 | MIT License | 2015-05-29 | 2026-01-07 | 2026-01-01 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4311 | MIT License | 2015-05-29 | 2026-01-07 | 2025-07-05 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 415 | MIT License | 2015-09-18 | 2025-12-02 | 2020-12-29 |
@@ -39,7 +39,7 @@ Statistics Date: 2026-01-06 08:11:08
 | [ai-research-code](https://github.com/sony/ai-research-code) | None | Python | 356 | Apache License 2.0 | 2020-04-14 | 2025-12-10 | 2023-09-12 |
 | [nnabla-nas](https://github.com/sony/nnabla-nas) | Neural Architecture Search for Neural Network Libraries | Python | 60 | Apache License 2.0 | 2020-06-15 | 2025-07-14 | 2024-01-22 |
 | [micro-notifier](https://github.com/sony/micro-notifier) | Simplified Pusher Clone | Go | 13 | MIT License | 2020-09-06 | 2025-12-28 | 2025-12-28 |
-| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1319 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2026-01-05 | 2025-07-25 |
+| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1320 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2026-01-07 | 2025-07-25 |
 | [lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) | None | Python | 0 | MIT License | 2021-03-25 | 2021-05-13 | 2021-05-13 |
 | [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 127 | Apache License 2.0 | 2021-06-11 | 2025-10-22 | 2024-12-16 |
 | [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 107 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2025-11-30 | 2024-12-19 |
@@ -82,7 +82,7 @@ Statistics Date: 2026-01-06 08:11:08
 | [silentcipher](https://github.com/sony/silentcipher) | None | Python | 72 | MIT License | 2024-06-05 | 2025-12-16 | 2024-07-22 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 20 | MIT License | 2024-07-09 | 2025-11-17 | 2025-06-09 |
 | [genwarp](https://github.com/sony/genwarp) | None | Python | 303 | MIT License | 2024-08-06 | 2025-12-14 | 2024-09-26 |
-| [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 51 | MIT License | 2024-09-05 | 2025-08-01 | 2024-11-05 |
+| [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 52 | MIT License | 2024-09-05 | 2026-01-06 | 2024-11-05 |
 | [esstra](https://github.com/sony/esstra) | A software suite for enhancing software supply chain transparency | Python | 23 | Other | 2024-10-03 | 2025-12-24 | 2025-12-24 |
 | [pagoda](https://github.com/sony/pagoda) | None | Python | 21 | MIT License | 2024-10-23 | 2025-11-01 | 2024-11-21 |
 | [okg](https://github.com/sony/okg) | Official Repo for The Paper "OKG: On-the-fly Keyword Generation in Search Sponsered Advertising" (Coling'25) | Jupyter Notebook | 5 | Other | 2024-11-15 | 2025-09-10 | 2025-02-14 |
@@ -109,12 +109,12 @@ Statistics Date: 2026-01-06 08:11:08
 | [clews](https://github.com/sony/clews) | None | Python | 20 | MIT License | 2025-03-12 | 2025-10-26 | 2025-03-19 |
 | [learning-feet-imu-locomotion](https://github.com/sony/learning-feet-imu-locomotion) | None | JavaScript | 0 | - | 2025-03-24 | 2025-04-11 | 2025-04-11 |
 | [di4c](https://github.com/sony/di4c) | None | Python | 10 | MIT License | 2025-04-02 | 2025-10-24 | 2025-04-02 |
-| [steermusic](https://github.com/sony/steermusic) | None | Python | 6 | MIT License | 2025-04-07 | 2025-12-23 | 2025-12-08 |
+| [steermusic](https://github.com/sony/steermusic) | None | Python | 7 | MIT License | 2025-04-07 | 2026-01-07 | 2025-12-08 |
 | [x590schema](https://github.com/sony/x590schema) | None | Python | 3 | MIT License | 2025-05-08 | 2025-09-18 | 2025-05-29 |
 | [SIoT-Majipro](https://github.com/sony/SIoT-Majipro) | None | C | 0 | Apache License 2.0 | 2025-05-09 | 2025-11-25 | 2025-11-25 |
 | [sbctm](https://github.com/sony/sbctm) | Schrödinger bridge consistency trajectory models for speech enhancement | Python | 8 | Other | 2025-05-09 | 2025-10-23 | 2025-10-01 |
 | [oil](https://github.com/sony/oil) | Official Repo for The Paper "Auto-Bidding in Real-Time Auctions via Oracle Imitation Learning" (KDD'25, Research Track) | Python | 5 | MIT License | 2025-05-23 | 2025-12-20 | 2025-05-23 |
-| [neural-network-console](https://github.com/sony/neural-network-console) | None | C++ | 22 | Apache License 2.0 | 2025-05-29 | 2025-12-28 | 2025-09-11 |
+| [neural-network-console](https://github.com/sony/neural-network-console) | None | C++ | 23 | Apache License 2.0 | 2025-05-29 | 2026-01-07 | 2025-09-11 |
 | [NeISFpp](https://github.com/sony/NeISFpp) | None | Python | 3 | Other | 2025-06-09 | 2025-12-26 | 2025-07-25 |
 | [SIoT-Pwrmod](https://github.com/sony/SIoT-Pwrmod) | None | C | 0 | BSD 3-Clause "New" or "Revised" License | 2025-06-25 | 2025-11-27 | 2025-11-27 |
 | [BannerAgency](https://github.com/sony/BannerAgency) |  The official repo for BannerAgency: Advertising Banner Design with Multimodal LLM Agents | Python | 14 | MIT License | 2025-07-01 | 2025-12-13 | 2025-08-21 |
