@@ -1,14 +1,14 @@
 # Sony
 
-A total of 131 projects, 50 active projects in the last six months, 1 teams, and 17626 stars.
+A total of 131 projects, 49 active projects in the last six months, 1 teams, and 17628 stars.
 
 Top 3 Languages: Python, JavaScript, Jupyter Notebook
 
-Statistics Date: 2026-01-11 08:09:30
+Statistics Date: 2026-01-12 08:11:48
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3474 | MIT License | 2015-05-29 | 2026-01-10 | 2026-01-01 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3476 | MIT License | 2015-05-29 | 2026-01-12 | 2026-01-01 |
 | [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4317 | MIT License | 2015-05-29 | 2026-01-11 | 2025-07-05 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
