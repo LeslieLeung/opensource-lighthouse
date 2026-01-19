@@ -1,14 +1,14 @@
 # Sony
 
-共 131 个项目，近半年内活跃项目 49 个，1 个团队， 17653 个 Star。
+共 131 个项目，近半年内活跃项目 49 个，1 个团队， 17656 个 Star。
 
 语言 Top 3：Python, JavaScript, Jupyter Notebook
 
-统计时间：2026-01-18 08:09:12
+统计时间：2026-01-19 08:12:02
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3488 | MIT License | 2015-05-29 | 2026-01-18 | 2026-01-01 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3490 | MIT License | 2015-05-29 | 2026-01-19 | 2026-01-01 |
 | [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4319 | MIT License | 2015-05-29 | 2026-01-17 | 2025-07-05 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
@@ -48,7 +48,7 @@
 | [ds-research-code](https://github.com/sony/ds-research-code) | None | Jupyter Notebook | 4 | - | 2021-07-19 | 2025-12-01 | 2025-08-06 |
 | [pyIEOE](https://github.com/sony/pyIEOE) | None | Python | 32 | MIT License | 2021-07-20 | 2025-07-22 | 2025-02-21 |
 | [nnc-plugin](https://github.com/sony/nnc-plugin) | Plugins for Neural Network Console. | Python | 17 | Apache License 2.0 | 2021-08-05 | 2025-10-01 | 2025-08-29 |
-| [dolp-colorconstancy](https://github.com/sony/dolp-colorconstancy) | None | Python | 15 | MIT License | 2022-03-22 | 2025-10-13 | 2022-07-04 |
+| [dolp-colorconstancy](https://github.com/sony/dolp-colorconstancy) | None | Python | 16 | MIT License | 2022-03-22 | 2026-01-19 | 2022-07-04 |
 | [nnabla-browser](https://github.com/sony/nnabla-browser) | Visualization toolkit for Neural Network Libraries | TypeScript | 9 | Apache License 2.0 | 2022-03-31 | 2024-07-06 | 2023-03-07 |
 | [sqvae](https://github.com/sony/sqvae) | Pytorch implementation of stochastically quantized variational autoencoder (SQ-VAE) | Python | 193 | Apache License 2.0 | 2022-05-26 | 2025-11-19 | 2022-07-20 |
 | [aibo-development-tutorial](https://github.com/sony/aibo-development-tutorial) | None | None | 8 | Other | 2022-06-28 | 2025-04-20 | 2022-06-30 |
