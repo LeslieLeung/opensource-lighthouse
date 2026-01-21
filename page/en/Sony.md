@@ -1,15 +1,15 @@
 # Sony
 
-A total of 131 projects, 49 active projects in the last six months, 1 teams, and 17657 stars.
+A total of 131 projects, 46 active projects in the last six months, 1 teams, and 17661 stars.
 
 Top 3 Languages: Python, JavaScript, Jupyter Notebook
 
-Statistics Date: 2026-01-20 08:11:28
+Statistics Date: 2026-01-21 08:11:38
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3490 | MIT License | 2015-05-29 | 2026-01-19 | 2026-01-01 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4319 | MIT License | 2015-05-29 | 2026-01-17 | 2025-07-05 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4321 | MIT License | 2015-05-29 | 2026-01-21 | 2025-07-05 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 415 | MIT License | 2015-09-18 | 2025-12-02 | 2020-12-29 |
@@ -91,7 +91,7 @@ Statistics Date: 2026-01-20 08:11:28
 | [Hi-ResLDM](https://github.com/sony/Hi-ResLDM) | None | None | 6 | - | 2025-01-11 | 2025-10-28 | 2025-02-12 |
 | [stamp](https://github.com/sony/stamp) | None | TypeScript | 8 | MIT License | 2025-01-20 | 2025-12-29 | 2025-12-29 |
 | [ABA](https://github.com/sony/ABA) | Official Repo for The Paper "Adaptive Budget Optimization for Multichannel Advertising Using Combinatorial Bandits" (AAMAS'25) | Python | 2 | Other | 2025-01-21 | 2025-07-28 | 2025-02-18 |
-| [MambaPEFT](https://github.com/sony/MambaPEFT) | None | Python | 19 | Apache License 2.0 | 2025-01-24 | 2026-01-08 | 2025-03-27 |
+| [MambaPEFT](https://github.com/sony/MambaPEFT) | None | Python | 20 | Apache License 2.0 | 2025-01-24 | 2026-01-20 | 2025-03-27 |
 | [bl-flowsom_eval](https://github.com/sony/bl-flowsom_eval) | None | Jupyter Notebook | 0 | MIT License | 2025-01-28 | 2025-02-04 | 2025-02-04 |
 | [bl-flowsom_poc](https://github.com/sony/bl-flowsom_poc) | None | Python | 1 | Other | 2025-01-28 | 2025-08-14 | 2025-02-04 |
 | [jys](https://github.com/sony/jys) | None | Python | 7 | MIT License | 2025-02-06 | 2025-11-17 | 2025-11-17 |
@@ -113,7 +113,7 @@ Statistics Date: 2026-01-20 08:11:28
 | [x590schema](https://github.com/sony/x590schema) | None | Python | 3 | MIT License | 2025-05-08 | 2025-09-18 | 2025-05-29 |
 | [SIoT-Majipro](https://github.com/sony/SIoT-Majipro) | None | C | 0 | Apache License 2.0 | 2025-05-09 | 2025-11-25 | 2025-11-25 |
 | [sbctm](https://github.com/sony/sbctm) | Schrödinger bridge consistency trajectory models for speech enhancement | Python | 8 | Other | 2025-05-09 | 2025-10-23 | 2025-10-01 |
-| [oil](https://github.com/sony/oil) | Official Repo for The Paper "Auto-Bidding in Real-Time Auctions via Oracle Imitation Learning" (KDD'25, Research Track) | Python | 5 | MIT License | 2025-05-23 | 2025-12-20 | 2025-05-23 |
+| [oil](https://github.com/sony/oil) | Official Repo for The Paper "Auto-Bidding in Real-Time Auctions via Oracle Imitation Learning" (KDD'25, Research Track) | Python | 6 | MIT License | 2025-05-23 | 2026-01-21 | 2025-05-23 |
 | [neural-network-console](https://github.com/sony/neural-network-console) | None | C++ | 24 | Apache License 2.0 | 2025-05-29 | 2026-01-13 | 2025-09-11 |
 | [NeISFpp](https://github.com/sony/NeISFpp) | None | Python | 3 | Other | 2025-06-09 | 2025-12-26 | 2025-07-25 |
 | [SIoT-Pwrmod](https://github.com/sony/SIoT-Pwrmod) | None | C | 0 | BSD 3-Clause "New" or "Revised" License | 2025-06-25 | 2025-11-27 | 2025-11-27 |
@@ -122,7 +122,7 @@ Statistics Date: 2026-01-20 08:11:28
 | [DeepResonance](https://github.com/sony/DeepResonance) | None | Python | 2 | MIT License | 2025-07-15 | 2025-12-26 | 2025-12-26 |
 | [titan-guide](https://github.com/sony/titan-guide) | None | Python | 3 | MIT License | 2025-07-15 | 2025-12-20 | 2025-12-16 |
 | [SIoT-Themis](https://github.com/sony/SIoT-Themis) | None | HCL | 1 | MIT License | 2025-07-24 | 2025-12-25 | 2025-12-22 |
-| [micro-mail-sender](https://github.com/sony/micro-mail-sender) | Simplified SendGrid Clone | Go | 1 | MIT License | 2025-07-26 | 2026-01-17 | 2026-01-17 |
+| [micro-mail-sender](https://github.com/sony/micro-mail-sender) | Simplified SendGrid Clone | Go | 1 | MIT License | 2025-07-26 | 2026-01-20 | 2026-01-20 |
 | [SIoT-LSLtool](https://github.com/sony/SIoT-LSLtool) | None | Python | 9 | BSD 3-Clause "New" or "Revised" License | 2025-07-30 | 2025-08-04 | 2025-07-31 |
 | [SIoT-TrailCamera](https://github.com/sony/SIoT-TrailCamera) | None | C | 2 | BSD 3-Clause "New" or "Revised" License | 2025-08-19 | 2025-09-01 | 2025-08-29 |
 | [g2d2](https://github.com/sony/g2d2) | None | Python | 0 | Apache License 2.0 | 2025-08-25 | 2025-08-28 | 2025-08-27 |
