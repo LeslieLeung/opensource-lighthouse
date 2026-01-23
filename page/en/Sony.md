@@ -1,15 +1,15 @@
 # Sony
 
-A total of 134 projects, 49 active projects in the last six months, 1 teams, and 17667 stars.
+A total of 134 projects, 49 active projects in the last six months, 1 teams, and 17673 stars.
 
 Top 3 Languages: Python, JavaScript, C++
 
-Statistics Date: 2026-01-22 08:11:18
+Statistics Date: 2026-01-23 08:10:42
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3491 | MIT License | 2015-05-29 | 2026-01-21 | 2026-01-01 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4324 | MIT License | 2015-05-29 | 2026-01-22 | 2025-07-05 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3492 | MIT License | 2015-05-29 | 2026-01-22 | 2026-01-01 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4326 | MIT License | 2015-05-29 | 2026-01-22 | 2025-07-05 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 415 | MIT License | 2015-09-18 | 2025-12-02 | 2020-12-29 |
@@ -24,7 +24,7 @@ Statistics Date: 2026-01-22 08:11:18
 | [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2772 | Apache License 2.0 | 2017-06-26 | 2026-01-22 | 2025-08-29 |
 | [easyhttpcpp](https://github.com/sony/easyhttpcpp) | A cross-platform HTTP client library with a focus on usability and speed | C++ | 169 | MIT License | 2017-08-09 | 2025-12-10 | 2022-01-31 |
 | [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 176 | Apache License 2.0 | 2017-09-07 | 2025-12-08 | 2025-12-09 |
-| [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 38 | Apache License 2.0 | 2017-09-07 | 2025-11-27 | 2026-01-21 |
+| [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 38 | Apache License 2.0 | 2017-09-07 | 2026-01-22 | 2026-01-22 |
 | [cdp-js](https://github.com/sony/cdp-js) | Libraries/SDK modules for multi-platform application development | TypeScript | 22 | Apache License 2.0 | 2017-10-10 | 2024-02-11 | 2018-05-10 |
 | [cdp-lib](https://github.com/sony/cdp-lib) | Application template/libraries for cdp-js (Details: see cdp-js repository) | JavaScript | 6 | Apache License 2.0 | 2017-10-10 | 2017-11-13 | 2018-02-23 |
 | [cdp-cli](https://github.com/sony/cdp-cli) | Command line tools for generating start point of multi-platform application development (Details: see cdp-js repository) | HTML | 7 | Apache License 2.0 | 2017-10-10 | 2020-12-13 | 2018-07-13 |
@@ -39,7 +39,7 @@ Statistics Date: 2026-01-22 08:11:18
 | [ai-research-code](https://github.com/sony/ai-research-code) | None | Python | 356 | Apache License 2.0 | 2020-04-14 | 2025-12-10 | 2023-09-12 |
 | [nnabla-nas](https://github.com/sony/nnabla-nas) | Neural Architecture Search for Neural Network Libraries | Python | 60 | Apache License 2.0 | 2020-06-15 | 2025-07-14 | 2024-01-22 |
 | [micro-notifier](https://github.com/sony/micro-notifier) | Simplified Pusher Clone | Go | 13 | MIT License | 2020-09-06 | 2025-12-28 | 2025-12-28 |
-| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1321 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2026-01-16 | 2025-07-25 |
+| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1322 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2026-01-22 | 2025-07-25 |
 | [lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) | None | Python | 0 | MIT License | 2021-03-25 | 2021-05-13 | 2021-05-13 |
 | [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 127 | Apache License 2.0 | 2021-06-11 | 2025-10-22 | 2024-12-16 |
 | [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 107 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2025-11-30 | 2024-12-19 |
@@ -114,7 +114,7 @@ Statistics Date: 2026-01-22 08:11:18
 | [SIoT-Majipro](https://github.com/sony/SIoT-Majipro) | None | C | 0 | Apache License 2.0 | 2025-05-09 | 2025-11-25 | 2025-11-25 |
 | [sbctm](https://github.com/sony/sbctm) | Schrödinger bridge consistency trajectory models for speech enhancement | Python | 8 | Other | 2025-05-09 | 2025-10-23 | 2025-10-01 |
 | [oil](https://github.com/sony/oil) | Official Repo for The Paper "Auto-Bidding in Real-Time Auctions via Oracle Imitation Learning" (KDD'25, Research Track) | Python | 6 | MIT License | 2025-05-23 | 2026-01-21 | 2025-05-23 |
-| [neural-network-console](https://github.com/sony/neural-network-console) | None | C++ | 25 | Apache License 2.0 | 2025-05-29 | 2026-01-21 | 2025-09-11 |
+| [neural-network-console](https://github.com/sony/neural-network-console) | None | C++ | 26 | Apache License 2.0 | 2025-05-29 | 2026-01-22 | 2025-09-11 |
 | [NeISFpp](https://github.com/sony/NeISFpp) | None | Python | 3 | Other | 2025-06-09 | 2025-12-26 | 2025-07-25 |
 | [SIoT-Pwrmod](https://github.com/sony/SIoT-Pwrmod) | None | C | 0 | BSD 3-Clause "New" or "Revised" License | 2025-06-25 | 2025-11-27 | 2025-11-27 |
 | [BannerAgency](https://github.com/sony/BannerAgency) |  The official repo for BannerAgency: Advertising Banner Design with Multimodal LLM Agents | Python | 14 | MIT License | 2025-07-01 | 2025-12-13 | 2025-08-21 |
@@ -126,7 +126,7 @@ Statistics Date: 2026-01-22 08:11:18
 | [SIoT-LSLtool](https://github.com/sony/SIoT-LSLtool) | None | Python | 9 | BSD 3-Clause "New" or "Revised" License | 2025-07-30 | 2025-08-04 | 2025-07-31 |
 | [SIoT-TrailCamera](https://github.com/sony/SIoT-TrailCamera) | None | C | 2 | BSD 3-Clause "New" or "Revised" License | 2025-08-19 | 2025-09-01 | 2025-08-29 |
 | [g2d2](https://github.com/sony/g2d2) | None | Python | 0 | Apache License 2.0 | 2025-08-25 | 2025-08-28 | 2025-08-27 |
-| [mocopi-receiver-plugin-unity](https://github.com/sony/mocopi-receiver-plugin-unity) | None | C# | 28 | Apache License 2.0 | 2025-08-26 | 2026-01-10 | 2025-12-22 |
+| [mocopi-receiver-plugin-unity](https://github.com/sony/mocopi-receiver-plugin-unity) | None | C# | 29 | Apache License 2.0 | 2025-08-26 | 2026-01-23 | 2025-12-22 |
 | [mocopi-receiver-plugin-motionbuilder](https://github.com/sony/mocopi-receiver-plugin-motionbuilder) | None | C++ | 0 | Apache License 2.0 | 2025-08-26 | 2026-01-22 | 2026-01-20 |
 | [mocopi-receiver-plugin-maya](https://github.com/sony/mocopi-receiver-plugin-maya) | None | C++ | 0 | Apache License 2.0 | 2025-08-26 | 2026-01-22 | 2026-01-20 |
 | [mocopi-receiver-plugin-unrealengine](https://github.com/sony/mocopi-receiver-plugin-unrealengine) | None | C++ | 0 | Apache License 2.0 | 2025-08-26 | 2026-01-22 | 2026-01-20 |
