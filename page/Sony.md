@@ -1,14 +1,14 @@
 # Sony
 
-共 134 个项目，近半年内活跃项目 49 个，1 个团队， 17685 个 Star。
+共 134 个项目，近半年内活跃项目 48 个，1 个团队， 17689 个 Star。
 
 语言 Top 3：Python, JavaScript, C++
 
-统计时间：2026-01-24 08:09:17
+统计时间：2026-01-25 08:09:31
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3494 | MIT License | 2015-05-29 | 2026-01-24 | 2026-01-01 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3497 | MIT License | 2015-05-29 | 2026-01-25 | 2026-01-01 |
 | [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4327 | MIT License | 2015-05-29 | 2026-01-23 | 2025-07-05 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
@@ -65,7 +65,7 @@
 | [pixel-guided-diffusion](https://github.com/sony/pixel-guided-diffusion) | Fine-grained Image Editing by Pixel-wise Guidance Using Diffusion Models | Python | 41 | Apache License 2.0 | 2023-04-06 | 2025-12-28 | 2023-06-09 |
 | [ARCv2_Ghidra](https://github.com/sony/ARCv2_Ghidra) | None | None | 1 | Apache License 2.0 | 2023-04-26 | 2025-08-15 | 2023-04-26 |
 | [gibbsddrm](https://github.com/sony/gibbsddrm) | None | Python | 31 | MIT License | 2023-04-26 | 2025-10-23 | 2023-05-29 |
-| [fp-diffusion](https://github.com/sony/fp-diffusion) | None | Jupyter Notebook | 31 | Apache License 2.0 | 2023-04-26 | 2025-11-01 | 2024-02-14 |
+| [fp-diffusion](https://github.com/sony/fp-diffusion) | None | Jupyter Notebook | 32 | Apache License 2.0 | 2023-04-26 | 2026-01-24 | 2024-02-14 |
 | [diffiner](https://github.com/sony/diffiner) | None | Python | 66 | MIT License | 2023-05-30 | 2025-10-27 | 2023-08-16 |
 | [hFT-Transformer](https://github.com/sony/hFT-Transformer) | Pytorch implementation of automatic music transcription method that uses a two-level hierarchical frequency-time Transformer architecture (hFT-Transformer). | Python | 109 | MIT License | 2023-06-26 | 2026-01-05 | 2023-07-11 |
 | [san](https://github.com/sony/san) | PyTorch implementation of slicing adversarial network (SAN) | Python | 99 | - | 2023-06-28 | 2026-01-24 | 2025-12-01 |
