@@ -1,10 +1,10 @@
 # Sony
 
-A total of 134 projects, 48 active projects in the last six months, 1 teams, and 17689 stars.
+A total of 134 projects, 48 active projects in the last six months, 1 teams, and 17695 stars.
 
 Top 3 Languages: Python, JavaScript, C++
 
-Statistics Date: 2026-01-25 08:09:31
+Statistics Date: 2026-01-26 08:11:37
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -43,7 +43,7 @@ Statistics Date: 2026-01-25 08:09:31
 | [lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) | None | Python | 0 | MIT License | 2021-03-25 | 2021-05-13 | 2021-05-13 |
 | [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 127 | Apache License 2.0 | 2021-06-11 | 2025-10-22 | 2024-12-16 |
 | [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 108 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2026-01-23 | 2024-12-19 |
-| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 604 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2026-01-24 | 2025-07-09 |
+| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 606 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2026-01-26 | 2025-07-09 |
 | [flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) | Flutter plugins for embedded Linux (eLinux) | C++ | 60 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2026-01-23 | 2024-12-13 |
 | [ds-research-code](https://github.com/sony/ds-research-code) | None | Jupyter Notebook | 4 | - | 2021-07-19 | 2025-12-01 | 2025-08-06 |
 | [pyIEOE](https://github.com/sony/pyIEOE) | None | Python | 32 | MIT License | 2021-07-20 | 2025-07-22 | 2025-02-21 |
@@ -53,7 +53,7 @@ Statistics Date: 2026-01-25 08:09:31
 | [sqvae](https://github.com/sony/sqvae) | Pytorch implementation of stochastically quantized variational autoencoder (SQ-VAE) | Python | 193 | Apache License 2.0 | 2022-05-26 | 2025-11-19 | 2022-07-20 |
 | [aibo-development-tutorial](https://github.com/sony/aibo-development-tutorial) | None | None | 8 | Other | 2022-06-28 | 2025-04-20 | 2022-06-30 |
 | [FxNorm-automix](https://github.com/sony/FxNorm-automix) | FxNorm-Automix - Implementation of automatic music mixing systems. We show how we can use wet music data and repurpose it to train a fully automatic mixing system | Python | 131 | MIT License | 2022-08-05 | 2025-12-31 | 2024-03-11 |
-| [polar-densification](https://github.com/sony/polar-densification) | None | Python | 30 | MIT License | 2022-09-13 | 2025-11-27 | 2023-03-24 |
+| [polar-densification](https://github.com/sony/polar-densification) | None | Python | 31 | MIT License | 2022-09-13 | 2026-01-26 | 2023-03-24 |
 | [nnabla-js](https://github.com/sony/nnabla-js) | None | TypeScript | 1 | Apache License 2.0 | 2022-09-16 | 2025-10-17 | 2025-10-17 |
 | [DiffRoll](https://github.com/sony/DiffRoll) | PyTorch implementation of DiffRoll, a diffusion-based generative automatic music transcription (AMT) model | Jupyter Notebook | 80 | MIT License | 2022-10-11 | 2025-11-16 | 2023-12-06 |
 | [creativeai](https://github.com/sony/creativeai) | None | CSS | 75 | - | 2022-11-21 | 2026-01-16 | 2025-09-08 |
@@ -64,7 +64,7 @@ Statistics Date: 2026-01-25 08:09:31
 | [Instruct3Dto3D-doc](https://github.com/sony/Instruct3Dto3D-doc) | Official documentation of Instruct 3D-to-3D | HTML | 2 | - | 2023-03-23 | 2024-10-31 | 2024-10-31 |
 | [pixel-guided-diffusion](https://github.com/sony/pixel-guided-diffusion) | Fine-grained Image Editing by Pixel-wise Guidance Using Diffusion Models | Python | 41 | Apache License 2.0 | 2023-04-06 | 2025-12-28 | 2023-06-09 |
 | [ARCv2_Ghidra](https://github.com/sony/ARCv2_Ghidra) | None | None | 1 | Apache License 2.0 | 2023-04-26 | 2025-08-15 | 2023-04-26 |
-| [gibbsddrm](https://github.com/sony/gibbsddrm) | None | Python | 31 | MIT License | 2023-04-26 | 2025-10-23 | 2023-05-29 |
+| [gibbsddrm](https://github.com/sony/gibbsddrm) | None | Python | 32 | MIT License | 2023-04-26 | 2026-01-25 | 2023-05-29 |
 | [fp-diffusion](https://github.com/sony/fp-diffusion) | None | Jupyter Notebook | 32 | Apache License 2.0 | 2023-04-26 | 2026-01-24 | 2024-02-14 |
 | [diffiner](https://github.com/sony/diffiner) | None | Python | 66 | MIT License | 2023-05-30 | 2025-10-27 | 2023-08-16 |
 | [hFT-Transformer](https://github.com/sony/hFT-Transformer) | Pytorch implementation of automatic music transcription method that uses a two-level hierarchical frequency-time Transformer architecture (hFT-Transformer). | Python | 109 | MIT License | 2023-06-26 | 2026-01-05 | 2023-07-11 |
@@ -130,7 +130,7 @@ Statistics Date: 2026-01-25 08:09:31
 | [mocopi-receiver-plugin-motionbuilder](https://github.com/sony/mocopi-receiver-plugin-motionbuilder) | None | C++ | 0 | Apache License 2.0 | 2025-08-26 | 2026-01-22 | 2026-01-20 |
 | [mocopi-receiver-plugin-maya](https://github.com/sony/mocopi-receiver-plugin-maya) | None | C++ | 0 | Apache License 2.0 | 2025-08-26 | 2026-01-22 | 2026-01-20 |
 | [mocopi-receiver-plugin-unrealengine](https://github.com/sony/mocopi-receiver-plugin-unrealengine) | None | C++ | 0 | Apache License 2.0 | 2025-08-26 | 2026-01-22 | 2026-01-20 |
-| [mocopi-motion-serializer](https://github.com/sony/mocopi-motion-serializer) | None | C++ | 8 | Apache License 2.0 | 2025-08-26 | 2026-01-23 | 2025-12-22 |
+| [mocopi-motion-serializer](https://github.com/sony/mocopi-motion-serializer) | None | C++ | 9 | Apache License 2.0 | 2025-08-26 | 2026-01-25 | 2025-12-22 |
 | [LibriTTS-VI](https://github.com/sony/LibriTTS-VI) | None | None | 4 | - | 2025-09-02 | 2025-09-28 | 2025-09-23 |
 | [oms](https://github.com/sony/oms) | Official Repo for The Paper "OMS: On-the-fly, Multi-Objective, Self-Reflective Ad Keyword Generation via LLM Agent” (EMNLP’25-main) | Python | 0 | MIT License | 2025-09-11 | 2025-09-26 | 2025-09-26 |
 | [mimo](https://github.com/sony/mimo) | Official Repo for The Paper "Mirror in the Model: Ad Banner Image Generation via Reflective Multi-LLM and Multi-modal Agents” (EMNLP’25-Industry) | Python | 0 | MIT License | 2025-09-11 | 2025-12-17 | 2025-09-26 |
@@ -140,5 +140,5 @@ Statistics Date: 2026-01-25 08:09:31
 | [mmaudiosep](https://github.com/sony/mmaudiosep) | None | Python | 14 | MIT License | 2025-10-06 | 2026-01-10 | 2025-10-13 |
 | [sampleid](https://github.com/sony/sampleid) | Code for the paper “Automatic Music Sample Identification with Multi-Track Contrastive Learning”. | Python | 16 | MIT License | 2025-10-15 | 2026-01-16 | 2025-10-24 |
 | [studies-for](https://github.com/sony/studies-for) | None | JavaScript | 0 | - | 2025-10-23 | 2025-11-01 | 2025-11-01 |
-| [mf-rae](https://github.com/sony/mf-rae) | None | Python | 24 | MIT License | 2025-11-13 | 2026-01-23 | 2025-11-19 |
+| [mf-rae](https://github.com/sony/mf-rae) | None | Python | 25 | MIT License | 2025-11-13 | 2026-01-26 | 2025-11-19 |
 | [FCM_Large_Particles](https://github.com/sony/FCM_Large_Particles) | None | Jupyter Notebook | 0 | BSD 3-Clause "New" or "Revised" License | 2025-12-16 | 2025-12-22 | 2025-12-22 |
