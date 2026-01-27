@@ -1,15 +1,15 @@
 # Sony
 
-共 134 个项目，近半年内活跃项目 48 个，1 个团队， 17695 个 Star。
+共 134 个项目，近半年内活跃项目 47 个，1 个团队， 17701 个 Star。
 
 语言 Top 3：Python, JavaScript, C++
 
-统计时间：2026-01-26 08:11:37
+统计时间：2026-01-27 08:11:29
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3497 | MIT License | 2015-05-29 | 2026-01-25 | 2026-01-01 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4327 | MIT License | 2015-05-29 | 2026-01-23 | 2025-07-05 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3501 | MIT License | 2015-05-29 | 2026-01-27 | 2026-01-01 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4327 | MIT License | 2015-05-29 | 2026-01-27 | 2025-07-05 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 415 | MIT License | 2015-09-18 | 2025-12-02 | 2020-12-29 |
@@ -56,7 +56,7 @@
 | [polar-densification](https://github.com/sony/polar-densification) | None | Python | 31 | MIT License | 2022-09-13 | 2026-01-26 | 2023-03-24 |
 | [nnabla-js](https://github.com/sony/nnabla-js) | None | TypeScript | 1 | Apache License 2.0 | 2022-09-16 | 2025-10-17 | 2025-10-17 |
 | [DiffRoll](https://github.com/sony/DiffRoll) | PyTorch implementation of DiffRoll, a diffusion-based generative automatic music transcription (AMT) model | Jupyter Notebook | 80 | MIT License | 2022-10-11 | 2025-11-16 | 2023-12-06 |
-| [creativeai](https://github.com/sony/creativeai) | None | CSS | 75 | - | 2022-11-21 | 2026-01-16 | 2025-09-08 |
+| [creativeai](https://github.com/sony/creativeai) | None | CSS | 75 | - | 2022-11-21 | 2026-01-27 | 2026-01-27 |
 | [NDJIR](https://github.com/sony/NDJIR) | NDJIR: Neural Direct and Joint Inverse Rendering for Geometry, Lights, and Materials of Real Object | Python | 46 | Apache License 2.0 | 2022-12-14 | 2025-11-22 | 2023-02-08 |
 | [CLIPSep](https://github.com/sony/CLIPSep) | None | Python | 43 | MIT License | 2023-01-24 | 2025-12-29 | 2023-02-21 |
 | [audio-visual-seld-dcase2023](https://github.com/sony/audio-visual-seld-dcase2023) | Baseline method for audio-visual sound event localization and detection task of DCASE 2023 challenge | Python | 60 | MIT License | 2023-02-20 | 2025-11-30 | 2025-03-19 |
@@ -79,7 +79,7 @@
 | [NeISF](https://github.com/sony/NeISF) | None | Python | 19 | Other | 2024-06-04 | 2026-01-08 | 2025-05-15 |
 | [nnc-desktop](https://github.com/sony/nnc-desktop) | None | TypeScript | 21 | Apache License 2.0 | 2024-06-04 | 2025-07-25 | 2025-06-30 |
 | [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 100 | MIT License | 2024-06-04 | 2025-12-09 | 2025-03-31 |
-| [silentcipher](https://github.com/sony/silentcipher) | None | Python | 72 | MIT License | 2024-06-05 | 2025-12-16 | 2024-07-22 |
+| [silentcipher](https://github.com/sony/silentcipher) | None | Python | 73 | MIT License | 2024-06-05 | 2026-01-26 | 2024-07-22 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 20 | MIT License | 2024-07-09 | 2025-11-17 | 2025-06-09 |
 | [genwarp](https://github.com/sony/genwarp) | None | Python | 302 | MIT License | 2024-08-06 | 2026-01-08 | 2024-09-26 |
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 53 | MIT License | 2024-09-05 | 2026-01-09 | 2024-11-05 |
@@ -126,7 +126,7 @@
 | [SIoT-LSLtool](https://github.com/sony/SIoT-LSLtool) | None | Python | 9 | BSD 3-Clause "New" or "Revised" License | 2025-07-30 | 2025-08-04 | 2025-07-31 |
 | [SIoT-TrailCamera](https://github.com/sony/SIoT-TrailCamera) | None | C | 2 | BSD 3-Clause "New" or "Revised" License | 2025-08-19 | 2025-09-01 | 2025-08-29 |
 | [g2d2](https://github.com/sony/g2d2) | None | Python | 0 | Apache License 2.0 | 2025-08-25 | 2025-08-28 | 2025-08-27 |
-| [mocopi-receiver-plugin-unity](https://github.com/sony/mocopi-receiver-plugin-unity) | None | C# | 29 | Apache License 2.0 | 2025-08-26 | 2026-01-23 | 2025-12-22 |
+| [mocopi-receiver-plugin-unity](https://github.com/sony/mocopi-receiver-plugin-unity) | None | C# | 30 | Apache License 2.0 | 2025-08-26 | 2026-01-26 | 2025-12-22 |
 | [mocopi-receiver-plugin-motionbuilder](https://github.com/sony/mocopi-receiver-plugin-motionbuilder) | None | C++ | 0 | Apache License 2.0 | 2025-08-26 | 2026-01-22 | 2026-01-20 |
 | [mocopi-receiver-plugin-maya](https://github.com/sony/mocopi-receiver-plugin-maya) | None | C++ | 0 | Apache License 2.0 | 2025-08-26 | 2026-01-22 | 2026-01-20 |
 | [mocopi-receiver-plugin-unrealengine](https://github.com/sony/mocopi-receiver-plugin-unrealengine) | None | C++ | 0 | Apache License 2.0 | 2025-08-26 | 2026-01-22 | 2026-01-20 |
