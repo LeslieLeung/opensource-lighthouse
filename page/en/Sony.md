@@ -1,14 +1,14 @@
 # Sony
 
-A total of 134 projects, 47 active projects in the last six months, 1 teams, and 17701 stars.
+A total of 136 projects, 49 active projects in the last six months, 1 teams, and 17703 stars.
 
 Top 3 Languages: Python, JavaScript, C++
 
-Statistics Date: 2026-01-27 08:11:29
+Statistics Date: 2026-01-28 08:11:20
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3501 | MIT License | 2015-05-29 | 2026-01-27 | 2026-01-01 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3502 | MIT License | 2015-05-29 | 2026-01-27 | 2026-01-01 |
 | [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4327 | MIT License | 2015-05-29 | 2026-01-27 | 2025-07-05 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
@@ -56,7 +56,7 @@ Statistics Date: 2026-01-27 08:11:29
 | [polar-densification](https://github.com/sony/polar-densification) | None | Python | 31 | MIT License | 2022-09-13 | 2026-01-26 | 2023-03-24 |
 | [nnabla-js](https://github.com/sony/nnabla-js) | None | TypeScript | 1 | Apache License 2.0 | 2022-09-16 | 2025-10-17 | 2025-10-17 |
 | [DiffRoll](https://github.com/sony/DiffRoll) | PyTorch implementation of DiffRoll, a diffusion-based generative automatic music transcription (AMT) model | Jupyter Notebook | 80 | MIT License | 2022-10-11 | 2025-11-16 | 2023-12-06 |
-| [creativeai](https://github.com/sony/creativeai) | None | CSS | 75 | - | 2022-11-21 | 2026-01-27 | 2026-01-27 |
+| [creativeai](https://github.com/sony/creativeai) | None | CSS | 75 | - | 2022-11-21 | 2026-01-28 | 2026-01-28 |
 | [NDJIR](https://github.com/sony/NDJIR) | NDJIR: Neural Direct and Joint Inverse Rendering for Geometry, Lights, and Materials of Real Object | Python | 46 | Apache License 2.0 | 2022-12-14 | 2025-11-22 | 2023-02-08 |
 | [CLIPSep](https://github.com/sony/CLIPSep) | None | Python | 43 | MIT License | 2023-01-24 | 2025-12-29 | 2023-02-21 |
 | [audio-visual-seld-dcase2023](https://github.com/sony/audio-visual-seld-dcase2023) | Baseline method for audio-visual sound event localization and detection task of DCASE 2023 challenge | Python | 60 | MIT License | 2023-02-20 | 2025-11-30 | 2025-03-19 |
@@ -114,7 +114,7 @@ Statistics Date: 2026-01-27 08:11:29
 | [SIoT-Majipro](https://github.com/sony/SIoT-Majipro) | None | C | 0 | Apache License 2.0 | 2025-05-09 | 2025-11-25 | 2025-11-25 |
 | [sbctm](https://github.com/sony/sbctm) | Schrödinger bridge consistency trajectory models for speech enhancement | Python | 8 | Other | 2025-05-09 | 2025-10-23 | 2025-10-01 |
 | [oil](https://github.com/sony/oil) | Official Repo for The Paper "Auto-Bidding in Real-Time Auctions via Oracle Imitation Learning" (KDD'25, Research Track) | Python | 6 | MIT License | 2025-05-23 | 2026-01-21 | 2025-05-23 |
-| [neural-network-console](https://github.com/sony/neural-network-console) | None | C++ | 27 | Apache License 2.0 | 2025-05-29 | 2026-01-23 | 2025-09-11 |
+| [neural-network-console](https://github.com/sony/neural-network-console) | None | C++ | 28 | Apache License 2.0 | 2025-05-29 | 2026-01-28 | 2025-09-11 |
 | [NeISFpp](https://github.com/sony/NeISFpp) | None | Python | 3 | Other | 2025-06-09 | 2025-12-26 | 2025-07-25 |
 | [SIoT-Pwrmod](https://github.com/sony/SIoT-Pwrmod) | None | C | 0 | BSD 3-Clause "New" or "Revised" License | 2025-06-25 | 2025-11-27 | 2025-11-27 |
 | [BannerAgency](https://github.com/sony/BannerAgency) |  The official repo for BannerAgency: Advertising Banner Design with Multimodal LLM Agents | Python | 14 | MIT License | 2025-07-01 | 2025-12-13 | 2025-08-21 |
@@ -130,6 +130,7 @@ Statistics Date: 2026-01-27 08:11:29
 | [mocopi-receiver-plugin-motionbuilder](https://github.com/sony/mocopi-receiver-plugin-motionbuilder) | None | C++ | 0 | Apache License 2.0 | 2025-08-26 | 2026-01-22 | 2026-01-20 |
 | [mocopi-receiver-plugin-maya](https://github.com/sony/mocopi-receiver-plugin-maya) | None | C++ | 0 | Apache License 2.0 | 2025-08-26 | 2026-01-22 | 2026-01-20 |
 | [mocopi-receiver-plugin-unrealengine](https://github.com/sony/mocopi-receiver-plugin-unrealengine) | None | C++ | 0 | Apache License 2.0 | 2025-08-26 | 2026-01-22 | 2026-01-20 |
+| [mocopi-receiver-plugin-blender](https://github.com/sony/mocopi-receiver-plugin-blender) | None | Python | 0 | Apache License 2.0 | 2025-08-26 | 2026-01-28 | 2026-01-27 |
 | [mocopi-motion-serializer](https://github.com/sony/mocopi-motion-serializer) | None | C++ | 9 | Apache License 2.0 | 2025-08-26 | 2026-01-25 | 2025-12-22 |
 | [LibriTTS-VI](https://github.com/sony/LibriTTS-VI) | None | None | 4 | - | 2025-09-02 | 2025-09-28 | 2025-09-23 |
 | [oms](https://github.com/sony/oms) | Official Repo for The Paper "OMS: On-the-fly, Multi-Objective, Self-Reflective Ad Keyword Generation via LLM Agent” (EMNLP’25-main) | Python | 0 | MIT License | 2025-09-11 | 2025-09-26 | 2025-09-26 |
@@ -139,6 +140,7 @@ Statistics Date: 2026-01-27 08:11:29
 | [cmt](https://github.com/sony/cmt) | None | Python | 18 | MIT License | 2025-09-30 | 2026-01-05 | 2025-11-17 |
 | [mmaudiosep](https://github.com/sony/mmaudiosep) | None | Python | 14 | MIT License | 2025-10-06 | 2026-01-10 | 2025-10-13 |
 | [sampleid](https://github.com/sony/sampleid) | Code for the paper “Automatic Music Sample Identification with Multi-Track Contrastive Learning”. | Python | 16 | MIT License | 2025-10-15 | 2026-01-16 | 2025-10-24 |
+| [coda](https://github.com/sony/coda) | Official PyTorch implementation of "Contrastive Object-centric Diffusion Alignment" | Python | 0 | Apache License 2.0 | 2025-10-20 | 2026-01-28 | 2026-01-27 |
 | [studies-for](https://github.com/sony/studies-for) | None | JavaScript | 0 | - | 2025-10-23 | 2025-11-01 | 2025-11-01 |
 | [mf-rae](https://github.com/sony/mf-rae) | None | Python | 25 | MIT License | 2025-11-13 | 2026-01-26 | 2025-11-19 |
 | [FCM_Large_Particles](https://github.com/sony/FCM_Large_Particles) | None | Jupyter Notebook | 0 | BSD 3-Clause "New" or "Revised" License | 2025-12-16 | 2025-12-22 | 2025-12-22 |
