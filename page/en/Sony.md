@@ -1,14 +1,14 @@
 # Sony
 
-A total of 136 projects, 49 active projects in the last six months, 1 teams, and 17712 stars.
+A total of 136 projects, 49 active projects in the last six months, 1 teams, and 17715 stars.
 
 Top 3 Languages: Python, JavaScript, C++
 
-Statistics Date: 2026-01-29 08:15:53
+Statistics Date: 2026-01-30 08:15:27
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3503 | MIT License | 2015-05-29 | 2026-01-28 | 2026-01-01 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3504 | MIT License | 2015-05-29 | 2026-01-30 | 2026-01-01 |
 | [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4328 | MIT License | 2015-05-29 | 2026-01-29 | 2025-07-05 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
@@ -24,7 +24,7 @@ Statistics Date: 2026-01-29 08:15:53
 | [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2772 | Apache License 2.0 | 2017-06-26 | 2026-01-28 | 2025-08-29 |
 | [easyhttpcpp](https://github.com/sony/easyhttpcpp) | A cross-platform HTTP client library with a focus on usability and speed | C++ | 168 | MIT License | 2017-08-09 | 2026-01-23 | 2022-01-31 |
 | [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 177 | Apache License 2.0 | 2017-09-07 | 2026-01-28 | 2025-12-09 |
-| [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 38 | Apache License 2.0 | 2017-09-07 | 2026-01-22 | 2026-01-22 |
+| [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 37 | Apache License 2.0 | 2017-09-07 | 2026-01-29 | 2026-01-29 |
 | [cdp-js](https://github.com/sony/cdp-js) | Libraries/SDK modules for multi-platform application development | TypeScript | 22 | Apache License 2.0 | 2017-10-10 | 2024-02-11 | 2018-05-10 |
 | [cdp-lib](https://github.com/sony/cdp-lib) | Application template/libraries for cdp-js (Details: see cdp-js repository) | JavaScript | 6 | Apache License 2.0 | 2017-10-10 | 2017-11-13 | 2018-02-23 |
 | [cdp-cli](https://github.com/sony/cdp-cli) | Command line tools for generating start point of multi-platform application development (Details: see cdp-js repository) | HTML | 7 | Apache License 2.0 | 2017-10-10 | 2020-12-13 | 2018-07-13 |
@@ -39,7 +39,7 @@ Statistics Date: 2026-01-29 08:15:53
 | [ai-research-code](https://github.com/sony/ai-research-code) | None | Python | 356 | Apache License 2.0 | 2020-04-14 | 2025-12-10 | 2023-09-12 |
 | [nnabla-nas](https://github.com/sony/nnabla-nas) | Neural Architecture Search for Neural Network Libraries | Python | 60 | Apache License 2.0 | 2020-06-15 | 2025-07-14 | 2024-01-22 |
 | [micro-notifier](https://github.com/sony/micro-notifier) | Simplified Pusher Clone | Go | 13 | MIT License | 2020-09-06 | 2025-12-28 | 2025-12-28 |
-| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1324 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2026-01-28 | 2025-07-25 |
+| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1325 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2026-01-30 | 2025-07-25 |
 | [lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) | None | Python | 0 | MIT License | 2021-03-25 | 2021-05-13 | 2021-05-13 |
 | [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 127 | Apache License 2.0 | 2021-06-11 | 2025-10-22 | 2024-12-16 |
 | [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 108 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2026-01-23 | 2024-12-19 |
@@ -56,7 +56,7 @@ Statistics Date: 2026-01-29 08:15:53
 | [polar-densification](https://github.com/sony/polar-densification) | None | Python | 31 | MIT License | 2022-09-13 | 2026-01-26 | 2023-03-24 |
 | [nnabla-js](https://github.com/sony/nnabla-js) | None | TypeScript | 1 | Apache License 2.0 | 2022-09-16 | 2025-10-17 | 2025-10-17 |
 | [DiffRoll](https://github.com/sony/DiffRoll) | PyTorch implementation of DiffRoll, a diffusion-based generative automatic music transcription (AMT) model | Jupyter Notebook | 80 | MIT License | 2022-10-11 | 2025-11-16 | 2023-12-06 |
-| [creativeai](https://github.com/sony/creativeai) | None | CSS | 75 | - | 2022-11-21 | 2026-01-28 | 2026-01-28 |
+| [creativeai](https://github.com/sony/creativeai) | None | CSS | 75 | - | 2022-11-21 | 2026-01-30 | 2026-01-30 |
 | [NDJIR](https://github.com/sony/NDJIR) | NDJIR: Neural Direct and Joint Inverse Rendering for Geometry, Lights, and Materials of Real Object | Python | 46 | Apache License 2.0 | 2022-12-14 | 2025-11-22 | 2023-02-08 |
 | [CLIPSep](https://github.com/sony/CLIPSep) | None | Python | 43 | MIT License | 2023-01-24 | 2025-12-29 | 2023-02-21 |
 | [audio-visual-seld-dcase2023](https://github.com/sony/audio-visual-seld-dcase2023) | Baseline method for audio-visual sound event localization and detection task of DCASE 2023 challenge | Python | 60 | MIT License | 2023-02-20 | 2025-11-30 | 2025-03-19 |
@@ -106,7 +106,7 @@ Statistics Date: 2026-01-29 08:15:53
 | [EXID](https://github.com/sony/EXID) | Official implementation of Enhancing Generalization of Offline RL in Data-Limited Settings with Heuristic Rules (Accepted in IEEE TRANSACTIONS ON ARTIFICIAL INTELLIGENCE 2025) | Jupyter Notebook | 0 | MIT License | 2025-02-19 | 2025-02-27 | 2025-02-20 |
 | [humangif](https://github.com/sony/humangif) | None | Python | 1 | MIT License | 2025-02-25 | 2025-06-16 | 2025-02-27 |
 | [alice](https://github.com/sony/alice) | None | Jupyter Notebook | 1 | MIT License | 2025-03-10 | 2025-06-17 | 2025-03-10 |
-| [clews](https://github.com/sony/clews) | None | Python | 21 | MIT License | 2025-03-12 | 2026-01-09 | 2025-03-19 |
+| [clews](https://github.com/sony/clews) | None | Python | 22 | MIT License | 2025-03-12 | 2026-01-30 | 2025-03-19 |
 | [learning-feet-imu-locomotion](https://github.com/sony/learning-feet-imu-locomotion) | None | JavaScript | 0 | - | 2025-03-24 | 2025-04-11 | 2025-04-11 |
 | [di4c](https://github.com/sony/di4c) | None | Python | 10 | MIT License | 2025-04-02 | 2025-10-24 | 2025-04-02 |
 | [steermusic](https://github.com/sony/steermusic) | None | Python | 7 | MIT License | 2025-04-07 | 2026-01-07 | 2025-12-08 |
@@ -142,5 +142,5 @@ Statistics Date: 2026-01-29 08:15:53
 | [sampleid](https://github.com/sony/sampleid) | Code for the paper “Automatic Music Sample Identification with Multi-Track Contrastive Learning”. | Python | 16 | MIT License | 2025-10-15 | 2026-01-28 | 2026-01-28 |
 | [coda](https://github.com/sony/coda) | Official PyTorch implementation of "Contrastive Object-centric Diffusion Alignment" | Python | 0 | Apache License 2.0 | 2025-10-20 | 2026-01-28 | 2026-01-27 |
 | [studies-for](https://github.com/sony/studies-for) | None | JavaScript | 0 | - | 2025-10-23 | 2025-11-01 | 2025-11-01 |
-| [mf-rae](https://github.com/sony/mf-rae) | None | Python | 26 | MIT License | 2025-11-13 | 2026-01-28 | 2025-11-19 |
+| [mf-rae](https://github.com/sony/mf-rae) | None | Python | 27 | MIT License | 2025-11-13 | 2026-01-29 | 2025-11-19 |
 | [FCM_Large_Particles](https://github.com/sony/FCM_Large_Particles) | None | Jupyter Notebook | 0 | BSD 3-Clause "New" or "Revised" License | 2025-12-16 | 2025-12-22 | 2025-12-22 |
