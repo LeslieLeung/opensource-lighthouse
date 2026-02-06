@@ -1,10 +1,10 @@
 # YY
 
-A total of 40 projects, 0 active projects in the last six months, 1 teams, and 1158 stars.
+A total of 40 projects, 0 active projects in the last six months, 1 teams, and 1156 stars.
 
 Top 3 Languages: JavaScript, Objective-C, CSS
 
-Statistics Date: 2026-02-05 08:18:29
+Statistics Date: 2026-02-06 08:18:21
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -36,14 +36,14 @@ Statistics Date: 2026-02-05 08:18:29
 | [ENAutoBackUpTool](https://github.com/yyued/ENAutoBackUpTool) | None | JavaScript | 6 | - | 2017-07-27 | 2019-09-12 | 2017-07-27 |
 | [huozi.js](https://github.com/yyued/huozi.js) | A simple typography engine for CJK languages, especially designed for game rich-text. | JavaScript | 0 | Other | 2017-08-17 | 2017-08-17 | 2017-08-17 |
 | [YFT](https://github.com/yyued/YFT) | create Image and Label from Character-Bitmap. | Objective-C | 3 | MIT License | 2017-08-28 | 2019-04-30 | 2017-08-30 |
-| [flowhub](https://github.com/yyued/flowhub) | Through a simple way to deal with the event flow. | JavaScript | 111 | MIT License | 2017-09-06 | 2025-05-30 | 2023-01-06 |
+| [flowhub](https://github.com/yyued/flowhub) | Through a simple way to deal with the event flow. | JavaScript | 110 | MIT License | 2017-09-06 | 2026-02-06 | 2023-01-06 |
 | [TypeScript-Override](https://github.com/yyued/TypeScript-Override) | TypeScript Override Snippets | TypeScript | 0 | GNU General Public License v3.0 | 2017-09-15 | 2017-09-15 | 2017-09-18 |
 | [legolib](https://github.com/yyued/legolib) | 面向移动端的轻量级前端 Components，提供易用、可靠的解决方案 | CSS | 20 | MIT License | 2017-10-09 | 2021-07-28 | 2018-05-07 |
 | [H5Live](https://github.com/yyued/H5Live) | None | JavaScript | 15 | MIT License | 2017-10-19 | 2024-07-12 | 2017-11-04 |
 | [Runtime-Type-Check-Proxy](https://github.com/yyued/Runtime-Type-Check-Proxy) | lightweight runtime arguments checking function. | JavaScript | 0 | MIT License | 2017-11-23 | 2017-11-24 | 2017-11-24 |
 | [view-boot](https://github.com/yyued/view-boot) | None | JavaScript | 0 | MIT License | 2017-12-27 | 2018-01-11 | 2018-02-06 |
 | [value-animator](https://github.com/yyued/value-animator) | None | TypeScript | 3 | - | 2018-01-11 | 2024-02-20 | 2019-10-16 |
-| [SVG-Skeleton](https://github.com/yyued/SVG-Skeleton) | Create the skeleton screen through SVG element | JavaScript | 168 | MIT License | 2018-01-16 | 2025-06-28 | 2018-01-31 |
+| [SVG-Skeleton](https://github.com/yyued/SVG-Skeleton) | Create the skeleton screen through SVG element | JavaScript | 167 | MIT License | 2018-01-16 | 2026-02-06 | 2018-01-31 |
 | [GPUImage](https://github.com/yyued/GPUImage) | An open source iOS framework for GPU-based image and video processing | Objective-C | 1 | BSD 3-Clause "New" or "Revised" License | 2018-04-27 | 2018-12-02 | 2018-04-28 |
 | [nice-commit](https://github.com/yyued/nice-commit) | 规范 Git Commit | JavaScript | 6 | - | 2019-05-08 | 2021-06-15 | 2019-08-13 |
 | [share-sheet](https://github.com/yyued/share-sheet) | share sheet | Vue | 5 | MIT License | 2020-09-27 | 2022-12-04 | 2020-09-28 |
