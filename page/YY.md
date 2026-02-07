@@ -1,10 +1,10 @@
 # YY
 
-共 40 个项目，近半年内活跃项目 0 个，1 个团队， 1156 个 Star。
+共 40 个项目，近半年内活跃项目 0 个，1 个团队， 1157 个 Star。
 
 语言 Top 3：JavaScript, Objective-C, CSS
 
-统计时间：2026-02-06 08:18:21
+统计时间：2026-02-07 08:11:04
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -30,7 +30,7 @@
 | [CodeX-Runtime-iOS](https://github.com/yyued/CodeX-Runtime-iOS) | None | Objective-C | 0 | MIT License | 2016-12-30 | 2023-01-28 | 2016-12-30 |
 | [UIKit-Android](https://github.com/yyued/UIKit-Android) | None | Kotlin | 6 | GNU General Public License v3.0 | 2016-12-30 | 2024-07-10 | 2017-03-10 |
 | [react-native-runtime-ios](https://github.com/yyued/react-native-runtime-ios) | None | JavaScript | 0 | - | 2017-05-26 | 2017-05-26 | 2017-06-14 |
-| [ENMetadataCleaner](https://github.com/yyued/ENMetadataCleaner) | Decrease PSD file size. | JavaScript | 13 | - | 2017-05-27 | 2025-06-06 | 2017-06-05 |
+| [ENMetadataCleaner](https://github.com/yyued/ENMetadataCleaner) | Decrease PSD file size. | JavaScript | 14 | - | 2017-05-27 | 2026-02-07 | 2017-06-05 |
 | [react-native-android-runtime](https://github.com/yyued/react-native-android-runtime) | None | None | 0 | - | 2017-06-08 | 2017-06-08 | 2017-06-14 |
 | [vue-components](https://github.com/yyued/vue-components) | None | JavaScript | 0 | - | 2017-07-10 | 2017-07-10 | 2017-09-18 |
 | [ENAutoBackUpTool](https://github.com/yyued/ENAutoBackUpTool) | None | JavaScript | 6 | - | 2017-07-27 | 2019-09-12 | 2017-07-27 |
