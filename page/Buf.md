@@ -1,16 +1,16 @@
 # Buf
 
-共 78 个项目，近半年内活跃项目 58 个，1 个团队， 21252 个 Star。
+共 78 个项目，近半年内活跃项目 58 个，1 个团队， 21254 个 Star。
 
 语言 Top 3：Go, TypeScript, Makefile
 
-统计时间：2026-02-08 08:12:38
+统计时间：2026-02-09 08:22:07
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) | Protocol Buffer Validation - replaced by https://github.com/bufbuild/protovalidate | Go | 4098 | Apache License 2.0 | 2017-10-03 | 2026-02-03 | 2026-02-05 |
+| [protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) | Protocol Buffer Validation - replaced by https://github.com/bufbuild/protovalidate | Go | 4099 | Apache License 2.0 | 2017-10-03 | 2026-02-09 | 2026-02-05 |
 | [homebrew-buf](https://github.com/bufbuild/homebrew-buf) | Homebrew tap for Buf. | Shell | 14 | Apache License 2.0 | 2019-10-02 | 2026-02-03 | 2026-02-03 |
-| [buf](https://github.com/bufbuild/buf) | The best way of working with Protocol Buffers. | Go | 10810 | Apache License 2.0 | 2019-10-03 | 2026-02-08 | 2026-02-06 |
+| [buf](https://github.com/bufbuild/buf) | The best way of working with Protocol Buffers. | Go | 10810 | Apache License 2.0 | 2019-10-03 | 2026-02-09 | 2026-02-09 |
 | [vim-buf](https://github.com/bufbuild/vim-buf) | Vim integration for Buf. | Vim Script | 38 | Apache License 2.0 | 2019-10-03 | 2025-09-08 | 2026-02-03 |
 | [buf-examples](https://github.com/bufbuild/buf-examples) | Example repository that uses Buf. | TypeScript | 104 | Apache License 2.0 | 2019-10-12 | 2026-02-06 | 2026-02-04 |
 | [makego](https://github.com/bufbuild/makego) | Makefile setup for our Golang projects. | Makefile | 109 | Apache License 2.0 | 2019-11-18 | 2026-02-03 | 2026-02-03 |
@@ -77,12 +77,12 @@
 | [standard-go](https://github.com/bufbuild/standard-go) | Extensions to the Go standard library. | Go | 5 | Apache License 2.0 | 2025-05-12 | 2026-01-23 | 2025-11-24 |
 | [protokafka](https://github.com/bufbuild/protokafka) | None | Go | 3 | Apache License 2.0 | 2025-05-15 | 2026-01-11 | 2026-01-09 |
 | [buf-plugin-protovalidate-strict](https://github.com/bufbuild/buf-plugin-protovalidate-strict) | A Buf check plugin for strictly enforcing Protovalidate annotations. | Go | 4 | Apache License 2.0 | 2025-06-25 | 2026-01-23 | 2025-11-24 |
-| [hyperpb-go](https://github.com/bufbuild/hyperpb-go) | 10x faster dynamic Protobuf parsing in Go that’s even 3x faster than generated code. | Go | 659 | Apache License 2.0 | 2025-07-14 | 2026-02-07 | 2025-12-16 |
+| [hyperpb-go](https://github.com/bufbuild/hyperpb-go) | 10x faster dynamic Protobuf parsing in Go that’s even 3x faster than generated code. | Go | 660 | Apache License 2.0 | 2025-07-14 | 2026-02-09 | 2025-12-16 |
 | [bufstream-proto](https://github.com/bufbuild/bufstream-proto) | None | Makefile | 1 | Apache License 2.0 | 2025-08-21 | 2026-01-23 | 2025-11-24 |
 | [mcp-proto](https://github.com/bufbuild/mcp-proto) | A prototype of a Protobuf-based API for MCP. | Makefile | 3 | Apache License 2.0 | 2025-09-09 | 2026-01-26 | 2025-12-31 |
 | [bufprivateusage-go](https://github.com/bufbuild/bufprivateusage-go) | None | Go | 1 | Apache License 2.0 | 2025-10-14 | 2026-01-23 | 2025-11-24 |
 | [bsr-kafka-serde-go](https://github.com/bufbuild/bsr-kafka-serde-go) | Kafka serializer and deserializer in Go for working with schemas defined in the Buf Schema Registry.  | Go | 3 | Apache License 2.0 | 2025-10-15 | 2026-01-26 | 2026-01-26 |
-| [bsr-kafka-serde-java](https://github.com/bufbuild/bsr-kafka-serde-java) | Kafka serializer and deserializer in Java for working with schemas defined in the Buf Schema Registry. | Java | 3 | Apache License 2.0 | 2025-10-15 | 2026-01-26 | 2026-02-02 |
+| [bsr-kafka-serde-java](https://github.com/bufbuild/bsr-kafka-serde-java) | Kafka serializer and deserializer in Java for working with schemas defined in the Buf Schema Registry. | Java | 3 | Apache License 2.0 | 2025-10-15 | 2026-01-26 | 2026-02-09 |
 | [bufstyle-go](https://github.com/bufbuild/bufstyle-go) | None | Go | 1 | Apache License 2.0 | 2025-10-16 | 2026-01-23 | 2025-11-24 |
 | [godoc-lint](https://github.com/bufbuild/godoc-lint) | A linter for Go documentation practice (godoc) | None | 1 | MIT License | 2025-10-18 | 2025-10-20 | 2025-10-18 |
 | [claude-plugins](https://github.com/bufbuild/claude-plugins) | Official Buf Claude Code Plugins | None | 5 | Apache License 2.0 | 2026-01-29 | 2026-02-07 | 2026-02-05 |
