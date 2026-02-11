@@ -1,18 +1,18 @@
 # Sony
 
-共 137 个项目，近半年内活跃项目 49 个，1 个团队， 17779 个 Star。
+共 137 个项目，近半年内活跃项目 49 个，1 个团队， 17788 个 Star。
 
 语言 Top 3：Python, JavaScript, C++
 
-统计时间：2026-02-10 08:21:46
+统计时间：2026-02-11 08:20:40
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3519 | MIT License | 2015-05-29 | 2026-02-09 | 2026-02-07 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4341 | MIT License | 2015-05-29 | 2026-02-09 | 2025-07-05 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3522 | MIT License | 2015-05-29 | 2026-02-11 | 2026-02-07 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4342 | MIT License | 2015-05-29 | 2026-02-11 | 2025-07-05 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
-| [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 415 | MIT License | 2015-09-18 | 2025-12-02 | 2020-12-29 |
+| [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 416 | MIT License | 2015-09-18 | 2026-02-10 | 2020-12-29 |
 | [cdn-purge-control-php](https://github.com/sony/cdn-purge-control-php) | Multi CDN purge control library for PHP | PHP | 8 | MIT License | 2016-01-06 | 2023-04-07 | 2016-10-06 |
 | [huis-ui-creator](https://github.com/sony/huis-ui-creator) | None | JavaScript | 39 | Apache License 2.0 | 2016-02-02 | 2025-08-15 | 2024-07-02 |
 | [node-win-usbdev](https://github.com/sony/node-win-usbdev) | None | C++ | 3 | Apache License 2.0 | 2016-02-02 | 2023-03-29 | 2018-02-16 |
@@ -28,7 +28,7 @@
 | [cdp-js](https://github.com/sony/cdp-js) | Libraries/SDK modules for multi-platform application development | TypeScript | 22 | Apache License 2.0 | 2017-10-10 | 2024-02-11 | 2018-05-10 |
 | [cdp-lib](https://github.com/sony/cdp-lib) | Application template/libraries for cdp-js (Details: see cdp-js repository) | JavaScript | 6 | Apache License 2.0 | 2017-10-10 | 2017-11-13 | 2018-02-23 |
 | [cdp-cli](https://github.com/sony/cdp-cli) | Command line tools for generating start point of multi-platform application development (Details: see cdp-js repository) | HTML | 7 | Apache License 2.0 | 2017-10-10 | 2020-12-13 | 2018-07-13 |
-| [nnabla-examples](https://github.com/sony/nnabla-examples) | Neural Network Libraries https://github.com/sony/nnabla - Examples | Python | 311 | Apache License 2.0 | 2017-11-05 | 2026-02-05 | 2025-12-12 |
+| [nnabla-examples](https://github.com/sony/nnabla-examples) | Neural Network Libraries https://github.com/sony/nnabla - Examples | Python | 312 | Apache License 2.0 | 2017-11-05 | 2026-02-11 | 2025-12-12 |
 | [nnabla-c-runtime](https://github.com/sony/nnabla-c-runtime) | Neural Network Libraries - C Runtime | C | 59 | Apache License 2.0 | 2018-06-26 | 2026-02-05 | 2025-07-29 |
 | [mapray-js](https://github.com/sony/mapray-js) | JavaScript library for Interactive high quality 3D globes and maps in the browser | TypeScript | 154 | Apache License 2.0 | 2019-01-28 | 2026-01-09 | 2025-07-25 |
 | [typescript-fsa-redux-middleware](https://github.com/sony/typescript-fsa-redux-middleware) | Fluent syntax for defining typesafe Redux vanilla middlewares on top of typescript-fsa. | TypeScript | 10 | MIT License | 2019-01-29 | 2025-11-14 | 2020-01-24 |
@@ -37,9 +37,9 @@
 | [appsync-client-go](https://github.com/sony/appsync-client-go) | AWS AppSync golang client library | Go | 53 | MIT License | 2019-03-16 | 2025-12-09 | 2025-12-09 |
 | [isren](https://github.com/sony/isren) | None | JavaScript | 8 | MIT License | 2020-01-07 | 2023-01-12 | 2021-05-17 |
 | [ai-research-code](https://github.com/sony/ai-research-code) | None | Python | 356 | Apache License 2.0 | 2020-04-14 | 2025-12-10 | 2023-09-12 |
-| [nnabla-nas](https://github.com/sony/nnabla-nas) | Neural Architecture Search for Neural Network Libraries | Python | 60 | Apache License 2.0 | 2020-06-15 | 2025-07-14 | 2024-01-22 |
+| [nnabla-nas](https://github.com/sony/nnabla-nas) | Neural Architecture Search for Neural Network Libraries | Python | 61 | Apache License 2.0 | 2020-06-15 | 2026-02-10 | 2024-01-22 |
 | [micro-notifier](https://github.com/sony/micro-notifier) | Simplified Pusher Clone | Go | 13 | MIT License | 2020-09-06 | 2025-12-28 | 2025-12-28 |
-| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1328 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2026-02-07 | 2025-07-25 |
+| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1329 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2026-02-10 | 2025-07-25 |
 | [lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) | None | Python | 0 | MIT License | 2021-03-25 | 2021-05-13 | 2021-05-13 |
 | [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 127 | Apache License 2.0 | 2021-06-11 | 2025-10-22 | 2024-12-16 |
 | [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 109 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2026-02-03 | 2024-12-19 |
@@ -85,7 +85,7 @@
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 55 | MIT License | 2024-09-05 | 2026-02-07 | 2024-11-05 |
 | [esstra](https://github.com/sony/esstra) | A software suite for enhancing software supply chain transparency | Python | 29 | Other | 2024-10-03 | 2026-02-05 | 2025-12-24 |
 | [pagoda](https://github.com/sony/pagoda) | None | Python | 21 | MIT License | 2024-10-23 | 2025-11-01 | 2024-11-21 |
-| [okg](https://github.com/sony/okg) | Official Repo for The Paper "OKG: On-the-fly Keyword Generation in Search Sponsered Advertising" (Coling'25) | Jupyter Notebook | 5 | Other | 2024-11-15 | 2025-09-10 | 2025-02-14 |
+| [okg](https://github.com/sony/okg) | Official Repo for The Paper "OKG: On-the-fly Keyword Generation in Search Sponsered Advertising" (Coling'25) | Jupyter Notebook | 6 | Other | 2024-11-15 | 2026-02-11 | 2025-02-14 |
 | [dual-pixel-disparity](https://github.com/sony/dual-pixel-disparity) | None | Python | 12 | MIT License | 2024-11-19 | 2025-12-23 | 2025-03-27 |
 | [openmu](https://github.com/sony/openmu) | None | Python | 8 | MIT License | 2024-11-27 | 2025-06-27 | 2024-12-26 |
 | [Hi-ResLDM](https://github.com/sony/Hi-ResLDM) | None | None | 6 | - | 2025-01-11 | 2025-10-28 | 2025-02-12 |
