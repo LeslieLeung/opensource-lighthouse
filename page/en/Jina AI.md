@@ -1,15 +1,15 @@
 # Jina AI
 
-A total of 256 projects, 15 active projects in the last six months, 1 teams, and 70386 stars.
+A total of 256 projects, 15 active projects in the last six months, 1 teams, and 70360 stars.
 
 Top 3 Languages: Python, TypeScript, Jupyter Notebook
 
-Statistics Date: 2026-02-13 08:19:25
+Statistics Date: 2026-02-14 08:11:23
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [clip-as-service](https://github.com/jina-ai/clip-as-service) | 🏄 Scalable embedding, reasoning, ranking for images and sentences with CLIP | Python | 12819 | Other | 2018-11-12 | 2026-02-06 | 2024-01-23 |
-| [serve](https://github.com/jina-ai/serve) | ☁️ Build multimodal AI applications with cloud-native stack | Python | 21834 | Apache License 2.0 | 2020-02-13 | 2026-02-11 | 2025-03-24 |
+| [clip-as-service](https://github.com/jina-ai/clip-as-service) | 🏄 Scalable embedding, reasoning, ranking for images and sentences with CLIP | Python | 12817 | Other | 2018-11-12 | 2026-02-13 | 2024-01-23 |
+| [serve](https://github.com/jina-ai/serve) | ☁️ Build multimodal AI applications with cloud-native stack | Python | 21825 | Apache License 2.0 | 2020-02-13 | 2026-02-13 | 2025-03-24 |
 | [examples](https://github.com/jina-ai/examples) | Jina examples and demos to help you get started | Python | 460 | Apache License 2.0 | 2020-02-17 | 2026-01-29 | 2021-11-01 |
 | [docs](https://github.com/jina-ai/docs) | Jina V1 Official Documentation. For the latest one, please check out https://docs.jina.ai | HTML | 34 | - | 2020-03-09 | 2026-02-07 | 2022-06-13 |
 | [jina-hub](https://github.com/jina-ai/jina-hub) | An open-registry for hosting Jina executors via container images | Python | 108 | Apache License 2.0 | 2020-03-15 | 2025-04-30 | 2021-08-31 |
@@ -170,12 +170,12 @@ Statistics Date: 2026-02-13 08:19:25
 | [executor-dallemini](https://github.com/jina-ai/executor-dallemini) | Generating image from text prompt using DALLE-mini model. | Python | 3 | - | 2022-04-19 | 2023-09-26 | 2022-04-30 |
 | [auth](https://github.com/jina-ai/auth) | deprecated, use `jina-hubble-sdk` | Python | 5 | Apache License 2.0 | 2022-04-20 | 2023-01-27 | 2022-08-11 |
 | [executor-qdrant-indexer](https://github.com/jina-ai/executor-qdrant-indexer) | None | Python | 2 | - | 2022-04-27 | 2022-11-28 | 2022-11-29 |
-| [dalle-flow](https://github.com/jina-ai/dalle-flow) | 🌊 A Human-in-the-Loop workflow for creating HD images from text | Python | 2836 | - | 2022-04-30 | 2026-02-07 | 2023-05-16 |
+| [dalle-flow](https://github.com/jina-ai/dalle-flow) | 🌊 A Human-in-the-Loop workflow for creating HD images from text | Python | 2834 | - | 2022-04-30 | 2026-02-13 | 2023-05-16 |
 | [executor-annlite-indexer](https://github.com/jina-ai/executor-annlite-indexer) | None | Python | 1 | - | 2022-05-02 | 2022-11-23 | 2022-11-24 |
 | [executor-elasticsearch-indexer](https://github.com/jina-ai/executor-elasticsearch-indexer) | None | Python | 1 | - | 2022-05-06 | 2023-08-21 | 2022-11-24 |
 | [example-grafana-prometheus](https://github.com/jina-ai/example-grafana-prometheus) | Docker compose file to use prometheus and grafana with Jina | None | 1 | - | 2022-05-09 | 2024-07-28 | 2022-10-21 |
 | [helm-charts](https://github.com/jina-ai/helm-charts) | Jina Helm Chart Repository | Mustache | 1 | - | 2022-05-23 | 2023-08-09 | 2023-12-04 |
-| [discoart](https://github.com/jina-ai/discoart) | 🪩 Create Disco Diffusion artworks in one line | Python | 3832 | Other | 2022-06-30 | 2026-02-11 | 2023-05-16 |
+| [discoart](https://github.com/jina-ai/discoart) | 🪩 Create Disco Diffusion artworks in one line | Python | 3831 | Other | 2022-06-30 | 2026-02-13 | 2023-05-16 |
 | [docsQA-status](https://github.com/jina-ai/docsQA-status) | History of DocsQA service availability | Python | 2 | Apache License 2.0 | 2022-07-14 | 2022-07-26 | 2022-09-08 |
 | [jcap](https://github.com/jina-ai/jcap) | A repository for JCAP members to submit their tasks | None | 0 | - | 2022-07-15 | 2022-12-13 | 2022-07-29 |
 | [guided-diffusion](https://github.com/jina-ai/guided-diffusion) | None | Python | 0 | MIT License | 2022-07-15 | 2022-07-16 | 2022-08-04 |
@@ -194,7 +194,7 @@ Statistics Date: 2026-02-13 08:19:25
 | [client-go](https://github.com/jina-ai/client-go) | Golang Client for Jina (https://github.com/jina-ai/jina) | Go | 20 | Apache License 2.0 | 2022-10-01 | 2025-07-25 | 2023-12-15 |
 | [proposing-projects](https://github.com/jina-ai/proposing-projects) | This repo contains the LF AI & Data Project Proposal Process and Project Lifecycle. They explain the process to host new projects in LF AI & Data and provide a proposal template. | None | 0 | Other | 2022-10-05 | 2022-06-22 | 2022-10-05 |
 | [example-speech-to-image](https://github.com/jina-ai/example-speech-to-image) | An example of building a speech to image generation pipeline with Jina, Whisper and StableDiffusion | Python | 21 | - | 2022-10-12 | 2024-07-28 | 2022-12-15 |
-| [product-recommendation-redis-docarray](https://github.com/jina-ai/product-recommendation-redis-docarray) | None | Python | 25 | - | 2022-10-16 | 2025-07-31 | 2022-12-28 |
+| [product-recommendation-redis-docarray](https://github.com/jina-ai/product-recommendation-redis-docarray) | None | Python | 24 | - | 2022-10-16 | 2026-02-13 | 2022-12-28 |
 | [executor-redis-indexer](https://github.com/jina-ai/executor-redis-indexer) | None | Python | 1 | - | 2022-10-27 | 2022-11-23 | 2022-12-08 |
 | [staged-recipes](https://github.com/jina-ai/staged-recipes) | A place to submit conda recipes before they become fully fledged conda-forge feedstocks | Python | 1 | BSD 3-Clause "New" or "Revised" License | 2022-10-28 | 2025-04-21 | 2022-11-07 |
 | [executor-push-test](https://github.com/jina-ai/executor-push-test) | None | Python | 1 | - | 2022-11-01 | 2022-11-04 | 2022-11-02 |
@@ -209,12 +209,12 @@ Statistics Date: 2026-02-13 08:19:25
 | [readme.com-testing](https://github.com/jina-ai/readme.com-testing) | This repo is to test the sync functionality of readme.com | Python | 0 | MIT License | 2023-03-07 | 2023-03-13 | 2023-03-13 |
 | [agentchain](https://github.com/jina-ai/agentchain) | Chain together LLMs for reasoning & orchestrate multiple large models for accomplishing complex tasks | Python | 610 | MIT License | 2023-03-13 | 2026-01-08 | 2023-04-11 |
 | [langchain](https://github.com/jina-ai/langchain) | ⚡ Building applications with LLMs through composability ⚡ | Python | 5 | MIT License | 2023-03-17 | 2025-08-07 | 2023-04-06 |
-| [dev-gpt](https://github.com/jina-ai/dev-gpt) | Your Virtual Development Team | Python | 1872 | Apache License 2.0 | 2023-03-17 | 2026-02-11 | 2023-08-01 |
-| [langchain-serve](https://github.com/jina-ai/langchain-serve) | ⚡ Langchain apps in production using Jina & FastAPI | Python | 1635 | Apache License 2.0 | 2023-03-21 | 2026-02-13 | 2023-09-20 |
+| [dev-gpt](https://github.com/jina-ai/dev-gpt) | Your Virtual Development Team | Python | 1870 | Apache License 2.0 | 2023-03-17 | 2026-02-13 | 2023-08-01 |
+| [langchain-serve](https://github.com/jina-ai/langchain-serve) | ⚡ Langchain apps in production using Jina & FastAPI | Python | 1633 | Apache License 2.0 | 2023-03-21 | 2026-02-14 | 2023-09-20 |
 | [GoldRetriever](https://github.com/jina-ai/GoldRetriever) | Create and host retrieval plugins for ChatGPT in one click | Python | 66 | MIT License | 2023-03-30 | 2026-01-09 | 2023-07-21 |
-| [auto-gpt-web](https://github.com/jina-ai/auto-gpt-web) | Set Your Goals, AI Achieves Them. | TypeScript | 764 | MIT License | 2023-04-04 | 2026-01-20 | 2023-04-13 |
+| [auto-gpt-web](https://github.com/jina-ai/auto-gpt-web) | Set Your Goals, AI Achieves Them. | TypeScript | 763 | MIT License | 2023-04-04 | 2026-02-13 | 2023-04-13 |
 | [rungpt](https://github.com/jina-ai/rungpt) | An open-source cloud-native of large multi-modal models (LMMs) serving framework. | Python | 165 | Apache License 2.0 | 2023-04-04 | 2026-01-09 | 2023-09-05 |
-| [thinkgpt](https://github.com/jina-ai/thinkgpt) | Agent techniques to augment your LLM and push it beyong its limits | Python | 1582 | Apache License 2.0 | 2023-04-14 | 2026-02-11 | 2024-05-23 |
+| [thinkgpt](https://github.com/jina-ai/thinkgpt) | Agent techniques to augment your LLM and push it beyong its limits | Python | 1581 | Apache License 2.0 | 2023-04-14 | 2026-02-13 | 2024-05-23 |
 | [docarray-docs](https://github.com/jina-ai/docarray-docs) | None | None | 0 | - | 2023-04-18 | 2023-04-18 | 2023-04-18 |
 | [vectordb](https://github.com/jina-ai/vectordb) | A Python vector database you just need - no more, no less. | Python | 643 | Apache License 2.0 | 2023-05-02 | 2026-02-10 | 2024-03-04 |
 | [setuptools-golang](https://github.com/jina-ai/setuptools-golang) | A setuptools extension for building cpython extensions written in golang. | None | 0 | MIT License | 2023-05-05 | 2025-01-20 | 2023-05-05 |
@@ -222,7 +222,7 @@ Statistics Date: 2026-02-13 08:19:25
 | [jerboa](https://github.com/jina-ai/jerboa) | LLM finetuning | Python | 42 | Apache License 2.0 | 2023-05-22 | 2025-11-19 | 2023-08-09 |
 | [inference-client-js](https://github.com/jina-ai/inference-client-js) | None | TypeScript | 7 | Apache License 2.0 | 2023-05-30 | 2023-06-14 | 2023-08-07 |
 | [jinaai-js](https://github.com/jina-ai/jinaai-js) | None | TypeScript | 38 | Apache License 2.0 | 2023-05-31 | 2025-08-15 | 2024-01-25 |
-| [jinaai-py](https://github.com/jina-ai/jinaai-py) | None | Python | 58 | Apache License 2.0 | 2023-06-09 | 2026-02-09 | 2024-02-14 |
+| [jinaai-py](https://github.com/jina-ai/jinaai-py) | None | Python | 57 | Apache License 2.0 | 2023-06-09 | 2026-02-13 | 2024-02-14 |
 | [fastapi-serve](https://github.com/jina-ai/fastapi-serve) | FastAPI to the Cloud, Batteries Included! ☁️🔋🚀 | Python | 145 | Apache License 2.0 | 2023-07-11 | 2025-11-03 | 2023-08-22 |
 | [textbook](https://github.com/jina-ai/textbook) | distill chatGPT coding ability into small model (1b) | Python | 30 | - | 2023-07-24 | 2025-06-28 | 2023-09-07 |
 | [mteb-long-documents](https://github.com/jina-ai/mteb-long-documents) | MTEB: Massive Text Embedding Benchmark | Python | 3 | Apache License 2.0 | 2023-09-08 | 2025-04-04 | 2024-09-19 |
@@ -237,15 +237,15 @@ Statistics Date: 2026-02-13 08:19:25
 | [ColBERT](https://github.com/jina-ai/ColBERT) | ColBERT: state-of-the-art neural search (SIGIR'20, TACL'21, NeurIPS'21, NAACL'22, CIKM'22, ACL'23, EMNLP'23) | Python | 6 | MIT License | 2024-02-02 | 2025-06-11 | 2024-05-17 |
 | [paper-sag](https://github.com/jina-ai/paper-sag) | None | None | 0 | - | 2024-02-23 | 2024-02-23 | 2024-02-23 |
 | [csp-examples](https://github.com/jina-ai/csp-examples) | None | Jupyter Notebook | 2 | - | 2024-04-09 | 2025-09-09 | 2025-09-09 |
-| [reader](https://github.com/jina-ai/reader) | Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/ | TypeScript | 9799 | Apache License 2.0 | 2024-04-10 | 2026-02-13 | 2025-05-08 |
+| [reader](https://github.com/jina-ai/reader) | Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/ | TypeScript | 9794 | Apache License 2.0 | 2024-04-10 | 2026-02-13 | 2025-05-08 |
 | [puppeteer-extra-plugin-page-proxy](https://github.com/jina-ai/puppeteer-extra-plugin-page-proxy) | Additional module to use with 'puppeteer' for setting proxies per page basis. | None | 3 | - | 2024-04-23 | 2025-04-04 | 2024-10-29 |
 | [terminal-news](https://github.com/jina-ai/terminal-news) | Access Jina AI news via ssh guest@news.jina.ai | Python | 13 | Apache License 2.0 | 2024-05-03 | 2024-12-11 | 2024-05-03 |
 | [chunking](https://github.com/jina-ai/chunking) | None | Python | 7 | - | 2024-06-23 | 2025-04-13 | 2024-07-10 |
 | [late-chunking](https://github.com/jina-ai/late-chunking) | Code for explaining and evaluating late chunking (chunked pooling) | Python | 487 | Apache License 2.0 | 2024-08-06 | 2026-01-29 | 2024-12-23 |
 | [vllm](https://github.com/jina-ai/vllm) | A high-throughput and memory-efficient inference and serving engine for LLMs | Python | 3 | Apache License 2.0 | 2024-08-29 | 2025-04-04 | 2025-01-17 |
-| [meta-prompt](https://github.com/jina-ai/meta-prompt) | For LLMs to better code with Jina API | HTML | 175 | Apache License 2.0 | 2024-10-28 | 2026-01-09 | 2025-12-18 |
+| [meta-prompt](https://github.com/jina-ai/meta-prompt) | For LLMs to better code with Jina API | HTML | 174 | Apache License 2.0 | 2024-10-28 | 2026-02-13 | 2025-12-18 |
 | [llm-query-expansion](https://github.com/jina-ai/llm-query-expansion) | Query Expension for Better Query Embedding using LLMs | Python | 65 | Apache License 2.0 | 2025-01-17 | 2026-02-06 | 2025-02-18 |
-| [node-DeepResearch](https://github.com/jina-ai/node-DeepResearch) | Keep searching, reading webpages, reasoning until it finds the answer (or exceeding the token budget) | TypeScript | 5081 | Apache License 2.0 | 2025-01-26 | 2026-02-13 | 2025-12-13 |
+| [node-DeepResearch](https://github.com/jina-ai/node-DeepResearch) | Keep searching, reading webpages, reasoning until it finds the answer (or exceeding the token budget) | TypeScript | 5081 | Apache License 2.0 | 2025-01-26 | 2026-02-14 | 2025-12-13 |
 | [deepsearch-ui](https://github.com/jina-ai/deepsearch-ui) | Jina DeepSearch UI | JavaScript | 127 | Apache License 2.0 | 2025-02-17 | 2025-12-28 | 2025-08-27 |
 | [node-serp](https://github.com/jina-ai/node-serp) | LLM-as-SERP | TypeScript | 68 | - | 2025-02-26 | 2025-12-22 | 2025-03-03 |
 | [multimodal-reranker-test](https://github.com/jina-ai/multimodal-reranker-test) | samples to evaluate a multimodal neural reranker | None | 0 | Apache License 2.0 | 2025-04-07 | 2025-04-07 | 2025-04-07 |
@@ -258,9 +258,9 @@ Statistics Date: 2026-02-13 08:19:25
 | [jina-reranker-m0-gguf](https://github.com/jina-ai/jina-reranker-m0-gguf) | A collection of GGUF and quantizations for jina-embeddings-v4 | None | 1 | - | 2025-07-21 | 2025-08-08 | 2025-07-21 |
 | [llama.cpp](https://github.com/jina-ai/llama.cpp) | LLM inference in C/C++ | C++ | 9 | MIT License | 2025-07-23 | 2025-12-12 | 2026-01-29 |
 | [gpt-oss](https://github.com/jina-ai/gpt-oss) | gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI | None | 0 | Apache License 2.0 | 2025-08-06 | 2025-08-06 | 2025-08-07 |
-| [MCP](https://github.com/jina-ai/MCP) | Official Jina AI Remote MCP Server | TypeScript | 458 | Apache License 2.0 | 2025-08-09 | 2026-02-11 | 2026-01-29 |
+| [MCP](https://github.com/jina-ai/MCP) | Official Jina AI Remote MCP Server | TypeScript | 459 | Apache License 2.0 | 2025-08-09 | 2026-02-14 | 2026-01-29 |
 | [mlx-retrieval](https://github.com/jina-ai/mlx-retrieval) | Train embedding and reranker models for retrieval tasks on Apple Silicon with MLX | Python | 173 | Apache License 2.0 | 2025-08-16 | 2026-02-05 | 2025-09-18 |
 | [bof-emnlp2025-embeddings-rerankers-smallLMs-for-better-search](https://github.com/jina-ai/bof-emnlp2025-embeddings-rerankers-smallLMs-for-better-search) | Nov. 7 EMNLP2025 BoF: Embeddings, Rerankers, Small LMs for Better Search | None | 4 | - | 2025-11-07 | 2025-11-17 | 2025-11-07 |
 | [markitdown](https://github.com/jina-ai/markitdown) | Python tool for converting files and office documents to Markdown. | Python | 2 | MIT License | 2025-11-28 | 2026-01-31 | 2025-12-02 |
 | [jzip-compressor](https://github.com/jina-ai/jzip-compressor) | Compression for unit-norm embedding vectors using spherical coordinates | C | 75 | - | 2026-01-21 | 2026-02-11 | 2026-01-23 |
-| [embedding-inversion-demo](https://github.com/jina-ai/embedding-inversion-demo) | Embedding Inversion via Conditional Masked Diffusion: recover original text from embedding vectors using parallel denoising. Live demo + training pipeline + technical report. | Python | 21 | Apache License 2.0 | 2026-02-11 | 2026-02-13 | 2026-02-12 |
+| [embedding-inversion-demo](https://github.com/jina-ai/embedding-inversion-demo) | Embedding Inversion via Conditional Masked Diffusion: recover original text from embedding vectors using parallel denoising. Live demo + training pipeline + technical report. | Python | 22 | Apache License 2.0 | 2026-02-11 | 2026-02-13 | 2026-02-12 |
