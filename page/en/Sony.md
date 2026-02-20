@@ -1,15 +1,15 @@
 # Sony
 
-A total of 138 projects, 51 active projects in the last six months, 1 teams, and 17818 stars.
+A total of 139 projects, 52 active projects in the last six months, 1 teams, and 17819 stars.
 
 Top 3 Languages: Python, JavaScript, C++
 
-Statistics Date: 2026-02-19 08:19:31
+Statistics Date: 2026-02-20 08:18:53
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3535 | MIT License | 2015-05-29 | 2026-02-18 | 2026-02-07 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4344 | MIT License | 2015-05-29 | 2026-02-15 | 2026-02-12 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3536 | MIT License | 2015-05-29 | 2026-02-19 | 2026-02-07 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4343 | MIT License | 2015-05-29 | 2026-02-20 | 2026-02-12 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 416 | MIT License | 2015-09-18 | 2026-02-10 | 2020-12-29 |
@@ -106,7 +106,7 @@ Statistics Date: 2026-02-19 08:19:31
 | [EXID](https://github.com/sony/EXID) | Official implementation of Enhancing Generalization of Offline RL in Data-Limited Settings with Heuristic Rules (Accepted in IEEE TRANSACTIONS ON ARTIFICIAL INTELLIGENCE 2025) | Jupyter Notebook | 0 | MIT License | 2025-02-19 | 2025-02-27 | 2025-02-20 |
 | [humangif](https://github.com/sony/humangif) | None | Python | 1 | MIT License | 2025-02-25 | 2025-06-16 | 2025-02-27 |
 | [alice](https://github.com/sony/alice) | None | Jupyter Notebook | 1 | MIT License | 2025-03-10 | 2025-06-17 | 2025-03-10 |
-| [clews](https://github.com/sony/clews) | None | Python | 28 | MIT License | 2025-03-12 | 2026-02-18 | 2025-03-19 |
+| [clews](https://github.com/sony/clews) | None | Python | 29 | MIT License | 2025-03-12 | 2026-02-19 | 2025-03-19 |
 | [learning-feet-imu-locomotion](https://github.com/sony/learning-feet-imu-locomotion) | None | JavaScript | 0 | - | 2025-03-24 | 2025-04-11 | 2025-04-11 |
 | [di4c](https://github.com/sony/di4c) | None | Python | 10 | MIT License | 2025-04-02 | 2026-02-17 | 2026-02-17 |
 | [steermusic](https://github.com/sony/steermusic) | None | Python | 7 | MIT License | 2025-04-07 | 2026-01-07 | 2025-12-08 |
@@ -146,3 +146,4 @@ Statistics Date: 2026-02-19 08:19:31
 | [FCM_Large_Particles](https://github.com/sony/FCM_Large_Particles) | None | Jupyter Notebook | 0 | BSD 3-Clause "New" or "Revised" License | 2025-12-16 | 2025-12-22 | 2025-12-22 |
 | [MSA-bench](https://github.com/sony/MSA-bench) | Pytorch implementation of "Do Foundational Audio Encoders Understand Music Structure?" presented in ICASSP 2026. | Python | 0 | MIT License | 2026-01-21 | 2026-02-13 | 2026-02-13 |
 | [virtue](https://github.com/sony/virtue) | Official implementation of "VIRTUE: Visual-Interactive Text-Image Universal Embedder (ICLR 2026)" | Python | 2 | Apache License 2.0 | 2026-01-29 | 2026-02-19 | 2026-02-19 |
+| [B3-Seg-project](https://github.com/sony/B3-Seg-project) | None | None | 0 | - | 2026-02-18 | 2026-02-20 | 2026-02-20 |
