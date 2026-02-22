@@ -1,14 +1,14 @@
 # Sony
 
-A total of 139 projects, 52 active projects in the last six months, 1 teams, and 17826 stars.
+A total of 139 projects, 52 active projects in the last six months, 1 teams, and 17828 stars.
 
 Top 3 Languages: Python, JavaScript, C++
 
-Statistics Date: 2026-02-21 08:10:57
+Statistics Date: 2026-02-22 08:11:40
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3539 | MIT License | 2015-05-29 | 2026-02-21 | 2026-02-07 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3540 | MIT License | 2015-05-29 | 2026-02-22 | 2026-02-07 |
 | [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4344 | MIT License | 2015-05-29 | 2026-02-20 | 2026-02-12 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
@@ -146,4 +146,4 @@ Statistics Date: 2026-02-21 08:10:57
 | [FCM_Large_Particles](https://github.com/sony/FCM_Large_Particles) | None | Jupyter Notebook | 0 | BSD 3-Clause "New" or "Revised" License | 2025-12-16 | 2025-12-22 | 2025-12-22 |
 | [MSA-bench](https://github.com/sony/MSA-bench) | Pytorch implementation of "Do Foundational Audio Encoders Understand Music Structure?" presented in ICASSP 2026. | Python | 0 | MIT License | 2026-01-21 | 2026-02-13 | 2026-02-13 |
 | [virtue](https://github.com/sony/virtue) | Official implementation of "VIRTUE: Visual-Interactive Text-Image Universal Embedder (ICLR 2026)" | Python | 3 | Apache License 2.0 | 2026-01-29 | 2026-02-21 | 2026-02-19 |
-| [B3-Seg-project](https://github.com/sony/B3-Seg-project) | None | None | 0 | - | 2026-02-18 | 2026-02-21 | 2026-02-21 |
+| [B3-Seg-project](https://github.com/sony/B3-Seg-project) | None | None | 1 | - | 2026-02-18 | 2026-02-21 | 2026-02-21 |
