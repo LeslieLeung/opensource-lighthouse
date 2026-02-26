@@ -1,15 +1,15 @@
 # Sony
 
-共 139 个项目，近半年内活跃项目 48 个，1 个团队， 17836 个 Star。
+共 139 个项目，近半年内活跃项目 48 个，1 个团队， 17844 个 Star。
 
 语言 Top 3：Python, JavaScript, C++
 
-统计时间：2026-02-25 08:20:15
+统计时间：2026-02-26 08:19:59
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3541 | MIT License | 2015-05-29 | 2026-02-24 | 2026-02-07 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4346 | MIT License | 2015-05-29 | 2026-02-24 | 2026-02-12 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3543 | MIT License | 2015-05-29 | 2026-02-26 | 2026-02-07 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4347 | MIT License | 2015-05-29 | 2026-02-25 | 2026-02-12 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 416 | MIT License | 2015-09-18 | 2026-02-10 | 2020-12-29 |
@@ -53,13 +53,13 @@
 | [sqvae](https://github.com/sony/sqvae) | Pytorch implementation of stochastically quantized variational autoencoder (SQ-VAE) | Python | 193 | Apache License 2.0 | 2022-05-26 | 2025-11-19 | 2022-07-20 |
 | [aibo-development-tutorial](https://github.com/sony/aibo-development-tutorial) | None | None | 8 | Other | 2022-06-28 | 2025-04-20 | 2022-06-30 |
 | [FxNorm-automix](https://github.com/sony/FxNorm-automix) | FxNorm-Automix - Implementation of automatic music mixing systems. We show how we can use wet music data and repurpose it to train a fully automatic mixing system | Python | 133 | MIT License | 2022-08-05 | 2026-02-24 | 2024-03-11 |
-| [polar-densification](https://github.com/sony/polar-densification) | None | Python | 31 | MIT License | 2022-09-13 | 2026-01-26 | 2023-03-24 |
+| [polar-densification](https://github.com/sony/polar-densification) | None | Python | 32 | MIT License | 2022-09-13 | 2026-02-26 | 2023-03-24 |
 | [nnabla-js](https://github.com/sony/nnabla-js) | None | TypeScript | 1 | Apache License 2.0 | 2022-09-16 | 2025-10-17 | 2025-10-17 |
 | [DiffRoll](https://github.com/sony/DiffRoll) | PyTorch implementation of DiffRoll, a diffusion-based generative automatic music transcription (AMT) model | Jupyter Notebook | 80 | MIT License | 2022-10-11 | 2025-11-16 | 2023-12-06 |
 | [creativeai](https://github.com/sony/creativeai) | None | CSS | 76 | - | 2022-11-21 | 2026-02-19 | 2026-02-19 |
 | [NDJIR](https://github.com/sony/NDJIR) | NDJIR: Neural Direct and Joint Inverse Rendering for Geometry, Lights, and Materials of Real Object | Python | 46 | Apache License 2.0 | 2022-12-14 | 2025-11-22 | 2023-02-08 |
 | [CLIPSep](https://github.com/sony/CLIPSep) | None | Python | 43 | MIT License | 2023-01-24 | 2025-12-29 | 2023-02-21 |
-| [audio-visual-seld-dcase2023](https://github.com/sony/audio-visual-seld-dcase2023) | Baseline method for audio-visual sound event localization and detection task of DCASE 2023 challenge | Python | 60 | MIT License | 2023-02-20 | 2025-11-30 | 2025-03-19 |
+| [audio-visual-seld-dcase2023](https://github.com/sony/audio-visual-seld-dcase2023) | Baseline method for audio-visual sound event localization and detection task of DCASE 2023 challenge | Python | 61 | MIT License | 2023-02-20 | 2026-02-25 | 2025-03-19 |
 | [evsCluster](https://github.com/sony/evsCluster) | Python scripts to process EVS (Event-based vision sensor) data | Python | 10 | Other | 2023-03-15 | 2025-07-15 | 2024-01-30 |
 | [Instruct3Dto3D-doc](https://github.com/sony/Instruct3Dto3D-doc) | Official documentation of Instruct 3D-to-3D | HTML | 2 | - | 2023-03-23 | 2024-10-31 | 2024-10-31 |
 | [pixel-guided-diffusion](https://github.com/sony/pixel-guided-diffusion) | Fine-grained Image Editing by Pixel-wise Guidance Using Diffusion Models | Python | 41 | Apache License 2.0 | 2023-04-06 | 2025-12-28 | 2023-06-09 |
@@ -81,12 +81,12 @@
 | [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 100 | MIT License | 2024-06-04 | 2025-12-09 | 2025-03-31 |
 | [silentcipher](https://github.com/sony/silentcipher) | None | Python | 74 | MIT License | 2024-06-05 | 2026-02-10 | 2024-07-22 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 21 | MIT License | 2024-07-09 | 2026-02-08 | 2025-06-09 |
-| [genwarp](https://github.com/sony/genwarp) | None | Python | 304 | MIT License | 2024-08-06 | 2026-02-25 | 2024-09-26 |
+| [genwarp](https://github.com/sony/genwarp) | None | Python | 305 | MIT License | 2024-08-06 | 2026-02-25 | 2024-09-26 |
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 55 | MIT License | 2024-09-05 | 2026-02-07 | 2024-11-05 |
 | [esstra](https://github.com/sony/esstra) | A software suite for enhancing software supply chain transparency | Python | 29 | Other | 2024-10-03 | 2026-02-16 | 2026-02-16 |
 | [pagoda](https://github.com/sony/pagoda) | None | Python | 21 | MIT License | 2024-10-23 | 2025-11-01 | 2024-11-21 |
 | [okg](https://github.com/sony/okg) | Official Repo for The Paper "OKG: On-the-fly Keyword Generation in Search Sponsered Advertising" (Coling'25) | Jupyter Notebook | 6 | Other | 2024-11-15 | 2026-02-11 | 2025-02-14 |
-| [dual-pixel-disparity](https://github.com/sony/dual-pixel-disparity) | None | Python | 12 | MIT License | 2024-11-19 | 2025-12-23 | 2025-03-27 |
+| [dual-pixel-disparity](https://github.com/sony/dual-pixel-disparity) | None | Python | 13 | MIT License | 2024-11-19 | 2026-02-26 | 2025-03-27 |
 | [openmu](https://github.com/sony/openmu) | None | Python | 8 | MIT License | 2024-11-27 | 2025-06-27 | 2024-12-26 |
 | [Hi-ResLDM](https://github.com/sony/Hi-ResLDM) | None | None | 6 | - | 2025-01-11 | 2025-10-28 | 2025-02-12 |
 | [stamp](https://github.com/sony/stamp) | None | TypeScript | 8 | MIT License | 2025-01-20 | 2025-12-29 | 2025-12-29 |
@@ -109,7 +109,7 @@
 | [clews](https://github.com/sony/clews) | None | Python | 29 | MIT License | 2025-03-12 | 2026-02-19 | 2025-03-19 |
 | [learning-feet-imu-locomotion](https://github.com/sony/learning-feet-imu-locomotion) | None | JavaScript | 0 | - | 2025-03-24 | 2025-04-11 | 2025-04-11 |
 | [di4c](https://github.com/sony/di4c) | None | Python | 10 | MIT License | 2025-04-02 | 2026-02-17 | 2026-02-17 |
-| [steermusic](https://github.com/sony/steermusic) | None | Python | 7 | MIT License | 2025-04-07 | 2026-01-07 | 2025-12-08 |
+| [steermusic](https://github.com/sony/steermusic) | None | Python | 8 | MIT License | 2025-04-07 | 2026-02-25 | 2025-12-08 |
 | [x590schema](https://github.com/sony/x590schema) | None | Python | 3 | MIT License | 2025-05-08 | 2025-09-18 | 2025-05-29 |
 | [SIoT-Majipro](https://github.com/sony/SIoT-Majipro) | None | C | 0 | Apache License 2.0 | 2025-05-09 | 2025-11-25 | 2025-11-25 |
 | [sbctm](https://github.com/sony/sbctm) | Schrödinger bridge consistency trajectory models for speech enhancement | Python | 10 | Other | 2025-05-09 | 2026-02-18 | 2025-10-01 |
