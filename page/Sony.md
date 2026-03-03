@@ -1,14 +1,14 @@
 # Sony
 
-共 139 个项目，近半年内活跃项目 48 个，1 个团队， 17860 个 Star。
+共 139 个项目，近半年内活跃项目 48 个，1 个团队， 17864 个 Star。
 
 语言 Top 3：Python, JavaScript, C++
 
-统计时间：2026-03-02 08:19:10
+统计时间：2026-03-03 08:17:15
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3546 | MIT License | 2015-05-29 | 2026-02-27 | 2026-02-07 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3547 | MIT License | 2015-05-29 | 2026-03-02 | 2026-02-07 |
 | [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4349 | MIT License | 2015-05-29 | 2026-02-28 | 2026-02-12 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
@@ -72,7 +72,7 @@
 | [bigvsan](https://github.com/sony/bigvsan) | Pytorch implementation of BigVSAN | Python | 203 | MIT License | 2023-09-01 | 2025-12-09 | 2025-12-09 |
 | [bigvsan_eval](https://github.com/sony/bigvsan_eval) | Evaluation tool used in the BigVSAN paper | Python | 14 | MIT License | 2023-09-01 | 2025-07-28 | 2024-03-22 |
 | [timbre-trap](https://github.com/sony/timbre-trap) | Code for the paper "Timbre-Trap: A Low-Resource Framework for Instrument-Agnostic Music Transcription" | Python | 40 | MIT License | 2023-09-12 | 2025-11-19 | 2024-05-05 |
-| [ctm](https://github.com/sony/ctm) | None | Python | 318 | MIT License | 2023-10-10 | 2026-02-14 | 2025-11-17 |
+| [ctm](https://github.com/sony/ctm) | None | Python | 318 | MIT License | 2023-10-10 | 2026-03-03 | 2026-03-03 |
 | [SR-Display-Plugin-Preview-BL](https://github.com/sony/SR-Display-Plugin-Preview-BL) | None | Python | 5 | MIT License | 2023-12-13 | 2026-02-02 | 2024-05-24 |
 | [pyAutoPort](https://github.com/sony/pyAutoPort) | None | Python | 7 | BSD 3-Clause "New" or "Revised" License | 2023-12-13 | 2025-07-25 | 2025-07-03 |
 | [SR-Display-Plugin-Preview-ZB](https://github.com/sony/SR-Display-Plugin-Preview-ZB) | None | None | 1 | MIT License | 2024-02-19 | 2024-02-19 | 2024-02-19 |
@@ -83,7 +83,7 @@
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 21 | MIT License | 2024-07-09 | 2026-02-08 | 2025-06-09 |
 | [genwarp](https://github.com/sony/genwarp) | None | Python | 305 | MIT License | 2024-08-06 | 2026-02-25 | 2024-09-26 |
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 55 | MIT License | 2024-09-05 | 2026-02-07 | 2024-11-05 |
-| [esstra](https://github.com/sony/esstra) | A software suite for enhancing software supply chain transparency | Python | 30 | Other | 2024-10-03 | 2026-02-28 | 2026-02-16 |
+| [esstra](https://github.com/sony/esstra) | A software suite for enhancing software supply chain transparency | Python | 31 | Other | 2024-10-03 | 2026-03-03 | 2026-02-16 |
 | [pagoda](https://github.com/sony/pagoda) | None | Python | 21 | MIT License | 2024-10-23 | 2025-11-01 | 2024-11-21 |
 | [okg](https://github.com/sony/okg) | Official Repo for The Paper "OKG: On-the-fly Keyword Generation in Search Sponsered Advertising" (Coling'25) | Jupyter Notebook | 6 | Other | 2024-11-15 | 2026-02-11 | 2025-02-14 |
 | [dual-pixel-disparity](https://github.com/sony/dual-pixel-disparity) | None | Python | 13 | MIT License | 2024-11-19 | 2026-02-26 | 2025-03-27 |
@@ -132,12 +132,12 @@
 | [mocopi-receiver-plugin-unrealengine](https://github.com/sony/mocopi-receiver-plugin-unrealengine) | None | C++ | 1 | Apache License 2.0 | 2025-08-26 | 2026-01-29 | 2026-01-29 |
 | [mocopi-receiver-plugin-blender](https://github.com/sony/mocopi-receiver-plugin-blender) | None | Python | 2 | Apache License 2.0 | 2025-08-26 | 2026-02-27 | 2026-01-27 |
 | [mocopi-motion-serializer](https://github.com/sony/mocopi-motion-serializer) | None | C++ | 11 | Apache License 2.0 | 2025-08-26 | 2026-02-01 | 2025-12-22 |
-| [LibriTTS-VI](https://github.com/sony/LibriTTS-VI) | None | None | 6 | - | 2025-09-02 | 2026-02-28 | 2025-09-23 |
+| [LibriTTS-VI](https://github.com/sony/LibriTTS-VI) | None | None | 8 | - | 2025-09-02 | 2026-03-02 | 2025-09-23 |
 | [oms](https://github.com/sony/oms) | Official Repo for The Paper "OMS: On-the-fly, Multi-Objective, Self-Reflective Ad Keyword Generation via LLM Agent” (EMNLP’25-main) | Python | 0 | MIT License | 2025-09-11 | 2025-09-26 | 2025-09-26 |
 | [mimo](https://github.com/sony/mimo) | Official Repo for The Paper "Mirror in the Model: Ad Banner Image Generation via Reflective Multi-LLM and Multi-modal Agents” (EMNLP’25-Industry) | Python | 0 | MIT License | 2025-09-11 | 2025-12-17 | 2025-09-26 |
 | [multi-plane-segmentation-gpu](https://github.com/sony/multi-plane-segmentation-gpu) | None | JavaScript | 0 | - | 2025-09-26 | 2025-10-03 | 2025-10-03 |
 | [dynamic-rag](https://github.com/sony/dynamic-rag) | None | C# | 4 | BSD 3-Clause "New" or "Revised" License | 2025-09-28 | 2025-10-30 | 2025-10-13 |
-| [cmt](https://github.com/sony/cmt) | None | Python | 18 | MIT License | 2025-09-30 | 2026-01-05 | 2025-11-17 |
+| [cmt](https://github.com/sony/cmt) | None | Python | 18 | MIT License | 2025-09-30 | 2026-03-03 | 2026-03-03 |
 | [mmaudiosep](https://github.com/sony/mmaudiosep) | None | Python | 14 | MIT License | 2025-10-06 | 2026-01-10 | 2025-10-13 |
 | [sampleid](https://github.com/sony/sampleid) | Code for the paper “Automatic Music Sample Identification with Multi-Track Contrastive Learning”. | Python | 19 | MIT License | 2025-10-15 | 2026-02-09 | 2026-01-28 |
 | [coda](https://github.com/sony/coda) | Official PyTorch implementation of "Contrastive Object-centric Diffusion Alignment" | Python | 1 | Apache License 2.0 | 2025-10-20 | 2026-02-26 | 2026-01-27 |
