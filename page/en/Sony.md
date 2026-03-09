@@ -1,14 +1,14 @@
 # Sony
 
-A total of 139 projects, 48 active projects in the last six months, 1 teams, and 17887 stars.
+A total of 139 projects, 48 active projects in the last six months, 1 teams, and 17890 stars.
 
 Top 3 Languages: Python, JavaScript, C++
 
-Statistics Date: 2026-03-08 08:11:30
+Statistics Date: 2026-03-09 08:19:55
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3555 | MIT License | 2015-05-29 | 2026-03-07 | 2026-02-07 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3556 | MIT License | 2015-05-29 | 2026-03-08 | 2026-02-07 |
 | [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4349 | MIT License | 2015-05-29 | 2026-03-08 | 2026-02-12 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
@@ -43,7 +43,7 @@ Statistics Date: 2026-03-08 08:11:30
 | [lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) | None | Python | 0 | MIT License | 2021-03-25 | 2021-05-13 | 2021-05-13 |
 | [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 128 | Apache License 2.0 | 2021-06-11 | 2026-02-24 | 2024-12-16 |
 | [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 110 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2026-02-16 | 2024-12-19 |
-| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 612 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2026-03-07 | 2025-07-09 |
+| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 613 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2026-03-09 | 2025-07-09 |
 | [flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) | Flutter plugins for embedded Linux (eLinux) | C++ | 60 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2026-01-23 | 2024-12-13 |
 | [ds-research-code](https://github.com/sony/ds-research-code) | None | Jupyter Notebook | 4 | - | 2021-07-19 | 2025-12-01 | 2025-08-06 |
 | [pyIEOE](https://github.com/sony/pyIEOE) | None | Python | 32 | MIT License | 2021-07-20 | 2025-07-22 | 2025-02-21 |
@@ -91,7 +91,7 @@ Statistics Date: 2026-03-08 08:11:30
 | [Hi-ResLDM](https://github.com/sony/Hi-ResLDM) | None | None | 6 | - | 2025-01-11 | 2025-10-28 | 2025-02-12 |
 | [stamp](https://github.com/sony/stamp) | None | TypeScript | 8 | MIT License | 2025-01-20 | 2025-12-29 | 2025-12-29 |
 | [ABA](https://github.com/sony/ABA) | Official Repo for The Paper "Adaptive Budget Optimization for Multichannel Advertising Using Combinatorial Bandits" (AAMAS'25) | Python | 2 | Other | 2025-01-21 | 2025-07-28 | 2025-02-18 |
-| [MambaPEFT](https://github.com/sony/MambaPEFT) | None | Python | 19 | Apache License 2.0 | 2025-01-24 | 2026-02-19 | 2025-03-27 |
+| [MambaPEFT](https://github.com/sony/MambaPEFT) | None | Python | 19 | Apache License 2.0 | 2025-01-24 | 2026-03-09 | 2025-03-27 |
 | [bl-flowsom_eval](https://github.com/sony/bl-flowsom_eval) | None | Jupyter Notebook | 0 | MIT License | 2025-01-28 | 2025-02-04 | 2025-02-04 |
 | [bl-flowsom_poc](https://github.com/sony/bl-flowsom_poc) | None | Python | 1 | Other | 2025-01-28 | 2025-08-14 | 2025-02-04 |
 | [jys](https://github.com/sony/jys) | None | Python | 7 | MIT License | 2025-02-06 | 2025-11-17 | 2025-11-17 |
@@ -126,7 +126,7 @@ Statistics Date: 2026-03-08 08:11:30
 | [SIoT-LSLtool](https://github.com/sony/SIoT-LSLtool) | None | Python | 9 | BSD 3-Clause "New" or "Revised" License | 2025-07-30 | 2025-08-04 | 2025-07-31 |
 | [SIoT-TrailCamera](https://github.com/sony/SIoT-TrailCamera) | None | C | 2 | BSD 3-Clause "New" or "Revised" License | 2025-08-19 | 2025-09-01 | 2025-08-29 |
 | [g2d2](https://github.com/sony/g2d2) | None | Python | 0 | Apache License 2.0 | 2025-08-25 | 2025-08-28 | 2025-08-27 |
-| [mocopi-receiver-plugin-unity](https://github.com/sony/mocopi-receiver-plugin-unity) | None | C# | 31 | Apache License 2.0 | 2025-08-26 | 2026-01-28 | 2025-12-22 |
+| [mocopi-receiver-plugin-unity](https://github.com/sony/mocopi-receiver-plugin-unity) | None | C# | 32 | Apache License 2.0 | 2025-08-26 | 2026-03-08 | 2025-12-22 |
 | [mocopi-receiver-plugin-motionbuilder](https://github.com/sony/mocopi-receiver-plugin-motionbuilder) | None | C++ | 1 | Apache License 2.0 | 2025-08-26 | 2026-01-28 | 2026-01-20 |
 | [mocopi-receiver-plugin-maya](https://github.com/sony/mocopi-receiver-plugin-maya) | None | C++ | 0 | Apache License 2.0 | 2025-08-26 | 2026-01-29 | 2026-01-29 |
 | [mocopi-receiver-plugin-unrealengine](https://github.com/sony/mocopi-receiver-plugin-unrealengine) | None | C++ | 1 | Apache License 2.0 | 2025-08-26 | 2026-01-29 | 2026-01-29 |
