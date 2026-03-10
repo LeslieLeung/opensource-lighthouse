@@ -1,15 +1,15 @@
 # Sony
 
-共 139 个项目，近半年内活跃项目 48 个，1 个团队， 17890 个 Star。
+共 139 个项目，近半年内活跃项目 47 个，1 个团队， 17893 个 Star。
 
 语言 Top 3：Python, JavaScript, C++
 
-统计时间：2026-03-09 08:19:55
+统计时间：2026-03-10 08:17:31
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3556 | MIT License | 2015-05-29 | 2026-03-08 | 2026-02-07 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4349 | MIT License | 2015-05-29 | 2026-03-08 | 2026-02-12 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3558 | MIT License | 2015-05-29 | 2026-03-10 | 2026-02-07 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4348 | MIT License | 2015-05-29 | 2026-03-09 | 2026-02-12 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 417 | MIT License | 2015-09-18 | 2026-03-07 | 2020-12-29 |
@@ -21,7 +21,7 @@
 | [smarttennissensorsdk](https://github.com/sony/smarttennissensorsdk) | The Smart Tennis Sensor plugs into the end of a tennis racket and records data about all the shots you make throughout a game or practice. With the SDK, you can develop apps for analyzing and presenting that data in real-time. | Java | 8 | Apache License 2.0 | 2016-08-30 | 2024-07-29 | 2017-02-10 |
 | [openocd-nuttx](https://github.com/sony/openocd-nuttx) | Fork of OpenOCD with NuttX thread support. | C | 24 | GNU General Public License v2.0 | 2016-10-18 | 2024-06-08 | 2019-01-21 |
 | [nnabla-ext-cuda](https://github.com/sony/nnabla-ext-cuda) | A CUDA Extension of Neural Network Libraries | Cuda | 90 | Apache License 2.0 | 2017-06-21 | 2026-01-14 | 2025-06-30 |
-| [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2777 | Apache License 2.0 | 2017-06-26 | 2026-03-07 | 2025-08-29 |
+| [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2776 | Apache License 2.0 | 2017-06-26 | 2026-03-09 | 2025-08-29 |
 | [easyhttpcpp](https://github.com/sony/easyhttpcpp) | A cross-platform HTTP client library with a focus on usability and speed | C++ | 168 | MIT License | 2017-08-09 | 2026-02-20 | 2022-01-31 |
 | [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 179 | Apache License 2.0 | 2017-09-07 | 2026-03-07 | 2026-03-05 |
 | [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 40 | Apache License 2.0 | 2017-09-07 | 2026-03-07 | 2026-03-05 |
@@ -59,7 +59,7 @@
 | [creativeai](https://github.com/sony/creativeai) | None | CSS | 77 | - | 2022-11-21 | 2026-03-07 | 2026-02-19 |
 | [NDJIR](https://github.com/sony/NDJIR) | NDJIR: Neural Direct and Joint Inverse Rendering for Geometry, Lights, and Materials of Real Object | Python | 46 | Apache License 2.0 | 2022-12-14 | 2025-11-22 | 2023-02-08 |
 | [CLIPSep](https://github.com/sony/CLIPSep) | None | Python | 43 | MIT License | 2023-01-24 | 2025-12-29 | 2023-02-21 |
-| [audio-visual-seld-dcase2023](https://github.com/sony/audio-visual-seld-dcase2023) | Baseline method for audio-visual sound event localization and detection task of DCASE 2023 challenge | Python | 61 | MIT License | 2023-02-20 | 2026-02-25 | 2025-03-19 |
+| [audio-visual-seld-dcase2023](https://github.com/sony/audio-visual-seld-dcase2023) | Baseline method for audio-visual sound event localization and detection task of DCASE 2023 challenge | Python | 62 | MIT License | 2023-02-20 | 2026-03-09 | 2025-03-19 |
 | [evsCluster](https://github.com/sony/evsCluster) | Python scripts to process EVS (Event-based vision sensor) data | Python | 10 | Other | 2023-03-15 | 2025-07-15 | 2024-01-30 |
 | [Instruct3Dto3D-doc](https://github.com/sony/Instruct3Dto3D-doc) | Official documentation of Instruct 3D-to-3D | HTML | 2 | - | 2023-03-23 | 2024-10-31 | 2024-10-31 |
 | [pixel-guided-diffusion](https://github.com/sony/pixel-guided-diffusion) | Fine-grained Image Editing by Pixel-wise Guidance Using Diffusion Models | Python | 41 | Apache License 2.0 | 2023-04-06 | 2025-12-28 | 2023-06-09 |
@@ -67,7 +67,7 @@
 | [gibbsddrm](https://github.com/sony/gibbsddrm) | None | Python | 33 | MIT License | 2023-04-26 | 2026-02-02 | 2023-05-29 |
 | [fp-diffusion](https://github.com/sony/fp-diffusion) | None | Jupyter Notebook | 32 | Apache License 2.0 | 2023-04-26 | 2026-01-24 | 2024-02-14 |
 | [diffiner](https://github.com/sony/diffiner) | None | Python | 67 | MIT License | 2023-05-30 | 2026-02-16 | 2023-08-16 |
-| [hFT-Transformer](https://github.com/sony/hFT-Transformer) | Pytorch implementation of automatic music transcription method that uses a two-level hierarchical frequency-time Transformer architecture (hFT-Transformer). | Python | 111 | MIT License | 2023-06-26 | 2026-03-06 | 2023-07-11 |
+| [hFT-Transformer](https://github.com/sony/hFT-Transformer) | Pytorch implementation of automatic music transcription method that uses a two-level hierarchical frequency-time Transformer architecture (hFT-Transformer). | Python | 112 | MIT License | 2023-06-26 | 2026-03-10 | 2023-07-11 |
 | [san](https://github.com/sony/san) | PyTorch implementation of slicing adversarial network (SAN) | Python | 98 | - | 2023-06-28 | 2026-02-24 | 2025-12-01 |
 | [bigvsan](https://github.com/sony/bigvsan) | Pytorch implementation of BigVSAN | Python | 203 | MIT License | 2023-09-01 | 2025-12-09 | 2025-12-09 |
 | [bigvsan_eval](https://github.com/sony/bigvsan_eval) | Evaluation tool used in the BigVSAN paper | Python | 14 | MIT License | 2023-09-01 | 2025-07-28 | 2024-03-22 |
@@ -86,7 +86,7 @@
 | [esstra](https://github.com/sony/esstra) | A software suite for enhancing software supply chain transparency | Python | 31 | Other | 2024-10-03 | 2026-03-03 | 2026-02-16 |
 | [pagoda](https://github.com/sony/pagoda) | None | Python | 21 | MIT License | 2024-10-23 | 2025-11-01 | 2024-11-21 |
 | [okg](https://github.com/sony/okg) | Official Repo for The Paper "OKG: On-the-fly Keyword Generation in Search Sponsered Advertising" (Coling'25) | Jupyter Notebook | 6 | Other | 2024-11-15 | 2026-02-11 | 2025-02-14 |
-| [dual-pixel-disparity](https://github.com/sony/dual-pixel-disparity) | None | Python | 13 | MIT License | 2024-11-19 | 2026-02-26 | 2025-03-27 |
+| [dual-pixel-disparity](https://github.com/sony/dual-pixel-disparity) | None | Python | 14 | MIT License | 2024-11-19 | 2026-03-10 | 2025-03-27 |
 | [openmu](https://github.com/sony/openmu) | None | Python | 8 | MIT License | 2024-11-27 | 2025-06-27 | 2024-12-26 |
 | [Hi-ResLDM](https://github.com/sony/Hi-ResLDM) | None | None | 6 | - | 2025-01-11 | 2025-10-28 | 2025-02-12 |
 | [stamp](https://github.com/sony/stamp) | None | TypeScript | 8 | MIT License | 2025-01-20 | 2025-12-29 | 2025-12-29 |
