@@ -1,10 +1,10 @@
 # Sony
 
-共 139 个项目，近半年内活跃项目 47 个，1 个团队， 17921 个 Star。
+共 139 个项目，近半年内活跃项目 47 个，1 个团队， 17922 个 Star。
 
 语言 Top 3：Python, JavaScript, C++
 
-统计时间：2026-03-15 08:15:56
+统计时间：2026-03-16 08:30:20
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -79,7 +79,7 @@
 | [NeISF](https://github.com/sony/NeISF) | None | Python | 20 | Other | 2024-06-04 | 2026-02-16 | 2025-05-15 |
 | [nnc-desktop](https://github.com/sony/nnc-desktop) | None | TypeScript | 21 | Apache License 2.0 | 2024-06-04 | 2025-07-25 | 2025-06-30 |
 | [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 101 | MIT License | 2024-06-04 | 2026-02-27 | 2025-03-31 |
-| [silentcipher](https://github.com/sony/silentcipher) | None | Python | 74 | MIT License | 2024-06-05 | 2026-02-10 | 2024-07-22 |
+| [silentcipher](https://github.com/sony/silentcipher) | None | Python | 75 | MIT License | 2024-06-05 | 2026-03-15 | 2024-07-22 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 21 | MIT License | 2024-07-09 | 2026-02-08 | 2025-06-09 |
 | [genwarp](https://github.com/sony/genwarp) | None | Python | 306 | MIT License | 2024-08-06 | 2026-03-14 | 2024-09-26 |
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 55 | MIT License | 2024-09-05 | 2026-02-07 | 2024-11-05 |
