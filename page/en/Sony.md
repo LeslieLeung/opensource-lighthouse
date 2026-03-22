@@ -1,14 +1,14 @@
 # Sony
 
-A total of 139 projects, 47 active projects in the last six months, 1 teams, and 17934 stars.
+A total of 139 projects, 46 active projects in the last six months, 1 teams, and 17934 stars.
 
 Top 3 Languages: Python, JavaScript, C++
 
-Statistics Date: 2026-03-21 08:12:03
+Statistics Date: 2026-03-22 08:13:05
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3566 | MIT License | 2015-05-29 | 2026-03-20 | 2026-02-07 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3566 | MIT License | 2015-05-29 | 2026-03-21 | 2026-02-07 |
 | [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4354 | MIT License | 2015-05-29 | 2026-03-20 | 2026-02-12 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
@@ -122,7 +122,7 @@ Statistics Date: 2026-03-21 08:12:03
 | [DeepResonance](https://github.com/sony/DeepResonance) | None | Python | 2 | MIT License | 2025-07-15 | 2025-12-26 | 2025-12-26 |
 | [titan-guide](https://github.com/sony/titan-guide) | None | Python | 3 | MIT License | 2025-07-15 | 2025-12-20 | 2025-12-16 |
 | [SIoT-Themis](https://github.com/sony/SIoT-Themis) | None | HCL | 1 | MIT License | 2025-07-24 | 2025-12-25 | 2025-12-22 |
-| [micro-mail-sender](https://github.com/sony/micro-mail-sender) | Simplified SendGrid Clone | Go | 1 | MIT License | 2025-07-26 | 2026-01-20 | 2026-01-20 |
+| [micro-mail-sender](https://github.com/sony/micro-mail-sender) | Simplified SendGrid Clone | Go | 1 | MIT License | 2025-07-26 | 2026-03-21 | 2026-03-21 |
 | [SIoT-LSLtool](https://github.com/sony/SIoT-LSLtool) | None | Python | 9 | BSD 3-Clause "New" or "Revised" License | 2025-07-30 | 2025-08-04 | 2025-07-31 |
 | [SIoT-TrailCamera](https://github.com/sony/SIoT-TrailCamera) | None | C | 2 | BSD 3-Clause "New" or "Revised" License | 2025-08-19 | 2025-09-01 | 2025-08-29 |
 | [g2d2](https://github.com/sony/g2d2) | None | Python | 1 | Apache License 2.0 | 2025-08-25 | 2026-03-11 | 2025-08-27 |
