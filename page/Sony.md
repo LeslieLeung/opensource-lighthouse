@@ -1,10 +1,10 @@
 # Sony
 
-共 139 个项目，近半年内活跃项目 46 个，1 个团队， 17934 个 Star。
+共 139 个项目，近半年内活跃项目 46 个，1 个团队， 17936 个 Star。
 
 语言 Top 3：Python, JavaScript, C++
 
-统计时间：2026-03-22 08:13:05
+统计时间：2026-03-23 08:26:08
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -84,7 +84,7 @@
 | [genwarp](https://github.com/sony/genwarp) | None | Python | 306 | MIT License | 2024-08-06 | 2026-03-14 | 2024-09-26 |
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 55 | MIT License | 2024-09-05 | 2026-02-07 | 2024-11-05 |
 | [esstra](https://github.com/sony/esstra) | A software suite for enhancing software supply chain transparency | Python | 31 | Other | 2024-10-03 | 2026-03-03 | 2026-02-16 |
-| [pagoda](https://github.com/sony/pagoda) | None | Python | 21 | MIT License | 2024-10-23 | 2025-11-01 | 2024-11-21 |
+| [pagoda](https://github.com/sony/pagoda) | None | Python | 22 | MIT License | 2024-10-23 | 2026-03-23 | 2024-11-21 |
 | [okg](https://github.com/sony/okg) | Official Repo for The Paper "OKG: On-the-fly Keyword Generation in Search Sponsered Advertising" (Coling'25) | Jupyter Notebook | 6 | Other | 2024-11-15 | 2026-02-11 | 2025-02-14 |
 | [dual-pixel-disparity](https://github.com/sony/dual-pixel-disparity) | None | Python | 14 | MIT License | 2024-11-19 | 2026-03-10 | 2025-03-27 |
 | [openmu](https://github.com/sony/openmu) | None | Python | 8 | MIT License | 2024-11-27 | 2025-06-27 | 2024-12-26 |
@@ -126,7 +126,7 @@
 | [SIoT-LSLtool](https://github.com/sony/SIoT-LSLtool) | None | Python | 9 | BSD 3-Clause "New" or "Revised" License | 2025-07-30 | 2025-08-04 | 2025-07-31 |
 | [SIoT-TrailCamera](https://github.com/sony/SIoT-TrailCamera) | None | C | 2 | BSD 3-Clause "New" or "Revised" License | 2025-08-19 | 2025-09-01 | 2025-08-29 |
 | [g2d2](https://github.com/sony/g2d2) | None | Python | 1 | Apache License 2.0 | 2025-08-25 | 2026-03-11 | 2025-08-27 |
-| [mocopi-receiver-plugin-unity](https://github.com/sony/mocopi-receiver-plugin-unity) | None | C# | 33 | Apache License 2.0 | 2025-08-26 | 2026-03-12 | 2025-12-22 |
+| [mocopi-receiver-plugin-unity](https://github.com/sony/mocopi-receiver-plugin-unity) | None | C# | 34 | Apache License 2.0 | 2025-08-26 | 2026-03-23 | 2025-12-22 |
 | [mocopi-receiver-plugin-motionbuilder](https://github.com/sony/mocopi-receiver-plugin-motionbuilder) | None | C++ | 5 | Apache License 2.0 | 2025-08-26 | 2026-03-13 | 2026-01-20 |
 | [mocopi-receiver-plugin-maya](https://github.com/sony/mocopi-receiver-plugin-maya) | None | C++ | 2 | Apache License 2.0 | 2025-08-26 | 2026-03-12 | 2026-01-29 |
 | [mocopi-receiver-plugin-unrealengine](https://github.com/sony/mocopi-receiver-plugin-unrealengine) | None | C++ | 2 | Apache License 2.0 | 2025-08-26 | 2026-03-12 | 2026-01-29 |
