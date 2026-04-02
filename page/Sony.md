@@ -1,15 +1,15 @@
 # Sony
 
-共 139 个项目，近半年内活跃项目 43 个，1 个团队， 17958 个 Star。
+共 139 个项目，近半年内活跃项目 43 个，1 个团队， 17961 个 Star。
 
 语言 Top 3：Python, JavaScript, C++
 
-统计时间：2026-04-01 08:35:10
+统计时间：2026-04-02 08:28:14
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3569 | MIT License | 2015-05-29 | 2026-03-31 | 2026-02-07 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4357 | MIT License | 2015-05-29 | 2026-03-31 | 2026-02-12 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3570 | MIT License | 2015-05-29 | 2026-04-01 | 2026-02-07 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4356 | MIT License | 2015-05-29 | 2026-04-01 | 2026-02-12 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 418 | MIT License | 2015-09-18 | 2026-03-20 | 2020-12-29 |
@@ -21,7 +21,7 @@
 | [smarttennissensorsdk](https://github.com/sony/smarttennissensorsdk) | The Smart Tennis Sensor plugs into the end of a tennis racket and records data about all the shots you make throughout a game or practice. With the SDK, you can develop apps for analyzing and presenting that data in real-time. | Java | 8 | Apache License 2.0 | 2016-08-30 | 2024-07-29 | 2017-02-10 |
 | [openocd-nuttx](https://github.com/sony/openocd-nuttx) | Fork of OpenOCD with NuttX thread support. | C | 24 | GNU General Public License v2.0 | 2016-10-18 | 2024-06-08 | 2019-01-21 |
 | [nnabla-ext-cuda](https://github.com/sony/nnabla-ext-cuda) | A CUDA Extension of Neural Network Libraries | Cuda | 90 | Apache License 2.0 | 2017-06-21 | 2026-01-14 | 2025-06-30 |
-| [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2777 | Apache License 2.0 | 2017-06-26 | 2026-03-20 | 2025-08-29 |
+| [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2777 | Apache License 2.0 | 2017-06-26 | 2026-04-02 | 2025-08-29 |
 | [easyhttpcpp](https://github.com/sony/easyhttpcpp) | A cross-platform HTTP client library with a focus on usability and speed | C++ | 168 | MIT License | 2017-08-09 | 2026-02-20 | 2022-01-31 |
 | [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 180 | Apache License 2.0 | 2017-09-07 | 2026-03-17 | 2026-03-05 |
 | [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 40 | Apache License 2.0 | 2017-09-07 | 2026-03-07 | 2026-03-29 |
@@ -43,14 +43,14 @@
 | [lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) | None | Python | 0 | MIT License | 2021-03-25 | 2021-05-13 | 2021-05-13 |
 | [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 128 | Apache License 2.0 | 2021-06-11 | 2026-03-17 | 2024-12-16 |
 | [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 110 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2026-02-16 | 2024-12-19 |
-| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 619 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2026-04-01 | 2025-07-09 |
+| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 620 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2026-04-02 | 2025-07-09 |
 | [flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) | Flutter plugins for embedded Linux (eLinux) | C++ | 60 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2026-01-23 | 2024-12-13 |
 | [ds-research-code](https://github.com/sony/ds-research-code) | None | Python | 4 | - | 2021-07-19 | 2026-03-27 | 2026-03-27 |
 | [pyIEOE](https://github.com/sony/pyIEOE) | None | Python | 32 | MIT License | 2021-07-20 | 2025-07-22 | 2025-02-21 |
 | [nnc-plugin](https://github.com/sony/nnc-plugin) | Plugins for Neural Network Console. | Python | 17 | Apache License 2.0 | 2021-08-05 | 2025-10-01 | 2025-08-29 |
 | [dolp-colorconstancy](https://github.com/sony/dolp-colorconstancy) | None | Python | 16 | MIT License | 2022-03-22 | 2026-01-19 | 2022-07-04 |
 | [nnabla-browser](https://github.com/sony/nnabla-browser) | Visualization toolkit for Neural Network Libraries | TypeScript | 9 | Apache License 2.0 | 2022-03-31 | 2024-07-06 | 2023-03-07 |
-| [sqvae](https://github.com/sony/sqvae) | Pytorch implementation of stochastically quantized variational autoencoder (SQ-VAE) | Python | 193 | Apache License 2.0 | 2022-05-26 | 2025-11-19 | 2022-07-20 |
+| [sqvae](https://github.com/sony/sqvae) | Pytorch implementation of stochastically quantized variational autoencoder (SQ-VAE) | Python | 194 | Apache License 2.0 | 2022-05-26 | 2026-04-02 | 2022-07-20 |
 | [aibo-development-tutorial](https://github.com/sony/aibo-development-tutorial) | None | None | 9 | Other | 2022-06-28 | 2026-03-04 | 2022-06-30 |
 | [FxNorm-automix](https://github.com/sony/FxNorm-automix) | FxNorm-Automix - Implementation of automatic music mixing systems. We show how we can use wet music data and repurpose it to train a fully automatic mixing system | Python | 135 | MIT License | 2022-08-05 | 2026-03-23 | 2024-03-11 |
 | [polar-densification](https://github.com/sony/polar-densification) | None | Python | 32 | MIT License | 2022-09-13 | 2026-02-26 | 2023-03-24 |
@@ -108,7 +108,7 @@
 | [alice](https://github.com/sony/alice) | None | Jupyter Notebook | 1 | MIT License | 2025-03-10 | 2025-06-17 | 2025-03-10 |
 | [clews](https://github.com/sony/clews) | None | Python | 31 | MIT License | 2025-03-12 | 2026-03-18 | 2025-03-19 |
 | [learning-feet-imu-locomotion](https://github.com/sony/learning-feet-imu-locomotion) | None | JavaScript | 0 | - | 2025-03-24 | 2025-04-11 | 2025-04-11 |
-| [di4c](https://github.com/sony/di4c) | None | Python | 10 | MIT License | 2025-04-02 | 2026-02-17 | 2026-02-17 |
+| [di4c](https://github.com/sony/di4c) | None | Python | 11 | MIT License | 2025-04-02 | 2026-04-02 | 2026-02-17 |
 | [steermusic](https://github.com/sony/steermusic) | None | Python | 8 | MIT License | 2025-04-07 | 2026-02-25 | 2025-12-08 |
 | [x590schema](https://github.com/sony/x590schema) | None | Python | 3 | MIT License | 2025-05-08 | 2025-09-18 | 2025-05-29 |
 | [SIoT-Majipro](https://github.com/sony/SIoT-Majipro) | None | C | 0 | Apache License 2.0 | 2025-05-09 | 2025-11-25 | 2025-11-25 |
