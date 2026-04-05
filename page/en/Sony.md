@@ -1,10 +1,10 @@
 # Sony
 
-A total of 139 projects, 43 active projects in the last six months, 1 teams, and 17963 stars.
+A total of 139 projects, 43 active projects in the last six months, 1 teams, and 17965 stars.
 
 Top 3 Languages: Python, JavaScript, C++
 
-Statistics Date: 2026-04-04 08:18:09
+Statistics Date: 2026-04-05 08:17:55
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -43,7 +43,7 @@ Statistics Date: 2026-04-04 08:18:09
 | [lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) | None | Python | 0 | MIT License | 2021-03-25 | 2021-05-13 | 2021-05-13 |
 | [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 128 | Apache License 2.0 | 2021-06-11 | 2026-03-17 | 2024-12-16 |
 | [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 110 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2026-02-16 | 2024-12-19 |
-| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 620 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2026-04-02 | 2025-07-09 |
+| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 621 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2026-04-04 | 2025-07-09 |
 | [flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) | Flutter plugins for embedded Linux (eLinux) | C++ | 60 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2026-01-23 | 2024-12-13 |
 | [ds-research-code](https://github.com/sony/ds-research-code) | None | Python | 4 | - | 2021-07-19 | 2026-03-27 | 2026-03-27 |
 | [pyIEOE](https://github.com/sony/pyIEOE) | None | Python | 32 | MIT License | 2021-07-20 | 2025-07-22 | 2025-02-21 |
@@ -79,7 +79,7 @@ Statistics Date: 2026-04-04 08:18:09
 | [NeISF](https://github.com/sony/NeISF) | None | Python | 20 | Other | 2024-06-04 | 2026-02-16 | 2025-05-15 |
 | [nnc-desktop](https://github.com/sony/nnc-desktop) | None | TypeScript | 21 | Apache License 2.0 | 2024-06-04 | 2025-07-25 | 2025-06-30 |
 | [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 101 | MIT License | 2024-06-04 | 2026-02-27 | 2025-03-31 |
-| [silentcipher](https://github.com/sony/silentcipher) | None | Python | 77 | MIT License | 2024-06-05 | 2026-03-27 | 2024-07-22 |
+| [silentcipher](https://github.com/sony/silentcipher) | None | Python | 78 | MIT License | 2024-06-05 | 2026-04-05 | 2024-07-22 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 21 | MIT License | 2024-07-09 | 2026-02-08 | 2025-06-09 |
 | [genwarp](https://github.com/sony/genwarp) | None | Python | 306 | MIT License | 2024-08-06 | 2026-03-14 | 2024-09-26 |
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 56 | MIT License | 2024-09-05 | 2026-03-30 | 2024-11-05 |
