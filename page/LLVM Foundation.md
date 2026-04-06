@@ -1,14 +1,14 @@
 # LLVM Foundation
 
-共 43 个项目，近半年内活跃项目 26 个，1 个团队， 43752 个 Star。
+共 43 个项目，近半年内活跃项目 26 个，1 个团队， 43763 个 Star。
 
 语言 Top 3：Python, HTML, C++
 
-统计时间：2026-04-05 08:17:55
+统计时间：2026-04-06 08:39:20
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [llvm-project](https://github.com/llvm/llvm-project) | The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. | LLVM | 37714 | Other | 2016-12-07 | 2026-04-05 | 2026-04-05 |
+| [llvm-project](https://github.com/llvm/llvm-project) | The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. | LLVM | 37725 | Other | 2016-12-07 | 2026-04-06 | 2026-04-06 |
 | [llvm-project-legacy-branches](https://github.com/llvm/llvm-project-legacy-branches) | Miscellaneous unofficial branches and tags converted from svn. | C++ | 3 | - | 2019-01-09 | 2026-01-28 | 2019-05-14 |
 | [llvm-archive](https://github.com/llvm/llvm-archive) | Archive of old/discontinued llvm projects, converted from SVN. | None | 8 | - | 2019-01-09 | 2026-01-28 | 2021-02-09 |
 | [llvm-lnt](https://github.com/llvm/llvm-lnt) | None | Python | 35 | Other | 2019-01-09 | 2026-04-01 | 2026-04-04 |
@@ -17,19 +17,19 @@
 | [llvm-www-pubs](https://github.com/llvm/llvm-www-pubs) | None | HTML | 12 | - | 2019-01-09 | 2025-05-18 | 2021-01-28 |
 | [llvm-zorg](https://github.com/llvm/llvm-zorg) | None | Python | 90 | Other | 2019-01-09 | 2026-04-03 | 2026-04-03 |
 | [actions](https://github.com/llvm/actions) | None | TypeScript | 13 | Other | 2019-11-18 | 2025-12-12 | 2025-12-12 |
-| [mlir-www](https://github.com/llvm/mlir-www) | None | Markdown | 93 | - | 2019-12-09 | 2026-03-29 | 2026-04-05 |
+| [mlir-www](https://github.com/llvm/mlir-www) | None | Markdown | 93 | - | 2019-12-09 | 2026-03-29 | 2026-04-06 |
 | [www-releases](https://github.com/llvm/www-releases) | None | HTML | 8 | - | 2020-01-09 | 2026-03-11 | 2026-03-11 |
 | [temp-issue-tester](https://github.com/llvm/temp-issue-tester) | Repository for testing GitHub issue features | Python | 2 | - | 2020-02-01 | 2024-07-30 | 2024-02-03 |
 | [llvm-admin](https://github.com/llvm/llvm-admin) | Internal repository for LLVM admin scripts | Python | 3 | - | 2020-02-06 | 2026-02-13 | 2026-02-13 |
 | [clangd-www](https://github.com/llvm/clangd-www) | None | Markdown | 30 | Apache License 2.0 | 2020-02-12 | 2026-03-26 | 2026-01-24 |
-| [circt](https://github.com/llvm/circt) | Circuit IR Compilers and Tools | C++ | 2079 | Other | 2020-03-05 | 2026-04-04 | 2026-04-05 |
+| [circt](https://github.com/llvm/circt) | Circuit IR Compilers and Tools | C++ | 2079 | Other | 2020-03-05 | 2026-04-06 | 2026-04-06 |
 | [llvm-foundation-www](https://github.com/llvm/llvm-foundation-www) | LLVM Foundation Website | SCSS | 7 | - | 2020-04-03 | 2025-04-04 | 2024-08-18 |
 | [llvm-blog-www](https://github.com/llvm/llvm-blog-www) | The LLVM Project Blog | HTML | 27 | - | 2020-06-19 | 2026-03-26 | 2026-01-19 |
 | [Polygeist](https://github.com/llvm/Polygeist) | C/C++ frontend for MLIR. Also features polyhedral optimizations, parallel optimizations, and more! | C++ | 609 | Other | 2020-07-08 | 2026-04-03 | 2025-06-19 |
 | [llvm-project-staging](https://github.com/llvm/llvm-project-staging) | Staging repository for https://github.com/llvm/llvm-project. Used for official contributions to the LLVM project that LLVM contributors will collaboratively split up for regular patch review. | None | 10 | Other | 2020-07-09 | 2026-01-28 | 2021-08-24 |
 | [phabricator](https://github.com/llvm/phabricator) | Open software engineering platform and fun adventure game | PHP | 3 | Apache License 2.0 | 2020-07-28 | 2026-01-28 | 2021-10-07 |
 | [torch-mlir](https://github.com/llvm/torch-mlir) | The Torch-MLIR project aims to provide first class support from the PyTorch ecosystem to the MLIR ecosystem. | C++ | 1780 | Other | 2020-07-30 | 2026-04-04 | 2026-04-02 |
-| [circt-www](https://github.com/llvm/circt-www) | CIRCT website | SCSS | 13 | - | 2021-01-08 | 2026-01-27 | 2026-04-05 |
+| [circt-www](https://github.com/llvm/circt-www) | CIRCT website | SCSS | 13 | - | 2021-01-08 | 2026-01-27 | 2026-04-06 |
 | [Community.o](https://github.com/llvm/Community.o) | Community.o website and other resources | None | 1 | - | 2021-02-06 | 2024-07-30 | 2023-03-16 |
 | [llvm-iwg](https://github.com/llvm/llvm-iwg) | The LLVM Infrastructure Working Group | None | 18 | Other | 2021-03-02 | 2026-03-18 | 2022-08-31 |
 | [vscode-mlir](https://github.com/llvm/vscode-mlir) | None | TypeScript | 69 | Other | 2021-07-28 | 2026-03-30 | 2026-01-18 |
@@ -45,7 +45,7 @@
 | [www-template](https://github.com/llvm/www-template) | None | HTML | 2 | MIT License | 2024-08-19 | 2025-04-14 | 2024-11-25 |
 | [llvm.vim](https://github.com/llvm/llvm.vim) | Vim filetype support for LLVM (mirrored from llvm-project) | Vim Script | 10 | Other | 2024-08-24 | 2025-08-16 | 2025-04-24 |
 | [www-new](https://github.com/llvm/www-new) | Test repo for the new LLVM website | HTML | 2 | - | 2024-09-05 | 2026-01-14 | 2025-09-22 |
-| [eudsl](https://github.com/llvm/eudsl) | Embedded Universal DSL: a good DSL for us, by us | Python | 72 | Apache License 2.0 | 2024-11-08 | 2026-04-05 | 2026-04-05 |
+| [eudsl](https://github.com/llvm/eudsl) | Embedded Universal DSL: a good DSL for us, by us | Python | 72 | Apache License 2.0 | 2024-11-08 | 2026-04-06 | 2026-04-06 |
 | [offload-golden-images](https://github.com/llvm/offload-golden-images) | Golden images to compare against for rendering tests. | None | 1 | Other | 2024-12-20 | 2026-01-15 | 2026-01-15 |
 | [elekto-config](https://github.com/llvm/elekto-config) | None | Python | 1 | - | 2025-01-21 | 2026-02-10 | 2026-02-10 |
 | [mlir-tcp](https://github.com/llvm/mlir-tcp) | Tensor Compute Primitives: Mid-level Intermediate Representation for Machine Learning Programs | MLIR | 14 | Other | 2025-01-29 | 2026-03-29 | 2025-06-10 |
