@@ -1,14 +1,14 @@
 # Sony
 
-A total of 139 projects, 43 active projects in the last six months, 1 teams, and 17967 stars.
+A total of 139 projects, 43 active projects in the last six months, 1 teams, and 17970 stars.
 
 Top 3 Languages: Python, JavaScript, C++
 
-Statistics Date: 2026-04-06 08:39:20
+Statistics Date: 2026-04-07 08:33:55
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3573 | MIT License | 2015-05-29 | 2026-04-05 | 2026-02-07 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3573 | MIT License | 2015-05-29 | 2026-04-07 | 2026-02-07 |
 | [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4357 | MIT License | 2015-05-29 | 2026-04-06 | 2026-02-12 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
@@ -39,11 +39,11 @@ Statistics Date: 2026-04-06 08:39:20
 | [ai-research-code](https://github.com/sony/ai-research-code) | None | Python | 357 | Apache License 2.0 | 2020-04-14 | 2026-03-07 | 2023-09-12 |
 | [nnabla-nas](https://github.com/sony/nnabla-nas) | Neural Architecture Search for Neural Network Libraries | Python | 62 | Apache License 2.0 | 2020-06-15 | 2026-03-30 | 2024-01-22 |
 | [micro-notifier](https://github.com/sony/micro-notifier) | Simplified Pusher Clone | Go | 13 | MIT License | 2020-09-06 | 2025-12-28 | 2025-12-28 |
-| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1331 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2026-03-31 | 2025-07-25 |
+| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1331 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2026-04-06 | 2025-07-25 |
 | [lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) | None | Python | 0 | MIT License | 2021-03-25 | 2021-05-13 | 2021-05-13 |
 | [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 128 | Apache License 2.0 | 2021-06-11 | 2026-03-17 | 2024-12-16 |
 | [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 110 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2026-02-16 | 2024-12-19 |
-| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 621 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2026-04-04 | 2025-07-09 |
+| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 622 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2026-04-06 | 2025-07-09 |
 | [flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) | Flutter plugins for embedded Linux (eLinux) | C++ | 60 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2026-01-23 | 2024-12-13 |
 | [ds-research-code](https://github.com/sony/ds-research-code) | None | Python | 4 | - | 2021-07-19 | 2026-03-27 | 2026-03-27 |
 | [pyIEOE](https://github.com/sony/pyIEOE) | None | Python | 32 | MIT License | 2021-07-20 | 2025-07-22 | 2025-02-21 |
@@ -66,7 +66,7 @@ Statistics Date: 2026-04-06 08:39:20
 | [ARCv2_Ghidra](https://github.com/sony/ARCv2_Ghidra) | None | None | 1 | Apache License 2.0 | 2023-04-26 | 2025-08-15 | 2023-04-26 |
 | [gibbsddrm](https://github.com/sony/gibbsddrm) | None | Python | 33 | MIT License | 2023-04-26 | 2026-02-02 | 2023-05-29 |
 | [fp-diffusion](https://github.com/sony/fp-diffusion) | None | Jupyter Notebook | 33 | Apache License 2.0 | 2023-04-26 | 2026-03-11 | 2024-02-14 |
-| [diffiner](https://github.com/sony/diffiner) | None | Python | 67 | MIT License | 2023-05-30 | 2026-02-16 | 2023-08-16 |
+| [diffiner](https://github.com/sony/diffiner) | None | Python | 68 | MIT License | 2023-05-30 | 2026-04-07 | 2023-08-16 |
 | [hFT-Transformer](https://github.com/sony/hFT-Transformer) | Pytorch implementation of automatic music transcription method that uses a two-level hierarchical frequency-time Transformer architecture (hFT-Transformer). | Python | 112 | MIT License | 2023-06-26 | 2026-03-10 | 2023-07-11 |
 | [san](https://github.com/sony/san) | PyTorch implementation of slicing adversarial network (SAN) | Python | 98 | - | 2023-06-28 | 2026-02-24 | 2025-12-01 |
 | [bigvsan](https://github.com/sony/bigvsan) | Pytorch implementation of BigVSAN | Python | 202 | MIT License | 2023-09-01 | 2026-04-01 | 2025-12-09 |
@@ -91,7 +91,7 @@ Statistics Date: 2026-04-06 08:39:20
 | [Hi-ResLDM](https://github.com/sony/Hi-ResLDM) | None | None | 6 | - | 2025-01-11 | 2025-10-28 | 2025-02-12 |
 | [stamp](https://github.com/sony/stamp) | None | TypeScript | 8 | MIT License | 2025-01-20 | 2025-12-29 | 2026-03-11 |
 | [ABA](https://github.com/sony/ABA) | Official Repo for The Paper "Adaptive Budget Optimization for Multichannel Advertising Using Combinatorial Bandits" (AAMAS'25) | Python | 2 | Other | 2025-01-21 | 2025-07-28 | 2025-02-18 |
-| [MambaPEFT](https://github.com/sony/MambaPEFT) | None | Python | 19 | Apache License 2.0 | 2025-01-24 | 2026-03-09 | 2025-03-27 |
+| [MambaPEFT](https://github.com/sony/MambaPEFT) | None | Python | 20 | Apache License 2.0 | 2025-01-24 | 2026-04-06 | 2025-03-27 |
 | [bl-flowsom_eval](https://github.com/sony/bl-flowsom_eval) | None | Jupyter Notebook | 0 | MIT License | 2025-01-28 | 2025-02-04 | 2025-02-04 |
 | [bl-flowsom_poc](https://github.com/sony/bl-flowsom_poc) | None | Python | 1 | Other | 2025-01-28 | 2025-08-14 | 2025-02-04 |
 | [jys](https://github.com/sony/jys) | None | Python | 7 | MIT License | 2025-02-06 | 2025-11-17 | 2025-11-17 |
