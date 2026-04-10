@@ -1,15 +1,15 @@
 # Sony
 
-A total of 139 projects, 43 active projects in the last six months, 1 teams, and 17982 stars.
+A total of 139 projects, 43 active projects in the last six months, 1 teams, and 17984 stars.
 
 Top 3 Languages: Python, JavaScript, C++
 
-Statistics Date: 2026-04-09 08:38:57
+Statistics Date: 2026-04-10 08:38:30
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3577 | MIT License | 2015-05-29 | 2026-04-09 | 2026-02-07 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4357 | MIT License | 2015-05-29 | 2026-04-06 | 2026-02-12 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3576 | MIT License | 2015-05-29 | 2026-04-10 | 2026-02-07 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4358 | MIT License | 2015-05-29 | 2026-04-10 | 2026-02-12 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 418 | MIT License | 2015-09-18 | 2026-04-08 | 2020-12-29 |
@@ -59,7 +59,7 @@ Statistics Date: 2026-04-09 08:38:57
 | [creativeai](https://github.com/sony/creativeai) | None | CSS | 78 | - | 2022-11-21 | 2026-04-08 | 2026-02-19 |
 | [NDJIR](https://github.com/sony/NDJIR) | NDJIR: Neural Direct and Joint Inverse Rendering for Geometry, Lights, and Materials of Real Object | Python | 45 | Apache License 2.0 | 2022-12-14 | 2026-03-30 | 2023-02-08 |
 | [CLIPSep](https://github.com/sony/CLIPSep) | None | Python | 43 | MIT License | 2023-01-24 | 2025-12-29 | 2023-02-21 |
-| [audio-visual-seld-dcase2023](https://github.com/sony/audio-visual-seld-dcase2023) | Baseline method for audio-visual sound event localization and detection task of DCASE 2023 challenge | Python | 63 | MIT License | 2023-02-20 | 2026-03-11 | 2025-03-19 |
+| [audio-visual-seld-dcase2023](https://github.com/sony/audio-visual-seld-dcase2023) | Baseline method for audio-visual sound event localization and detection task of DCASE 2023 challenge | Python | 64 | MIT License | 2023-02-20 | 2026-04-10 | 2025-03-19 |
 | [evsCluster](https://github.com/sony/evsCluster) | Python scripts to process EVS (Event-based vision sensor) data | Python | 10 | Other | 2023-03-15 | 2025-07-15 | 2024-01-30 |
 | [Instruct3Dto3D-doc](https://github.com/sony/Instruct3Dto3D-doc) | Official documentation of Instruct 3D-to-3D | HTML | 2 | - | 2023-03-23 | 2024-10-31 | 2024-10-31 |
 | [pixel-guided-diffusion](https://github.com/sony/pixel-guided-diffusion) | Fine-grained Image Editing by Pixel-wise Guidance Using Diffusion Models | Python | 41 | Apache License 2.0 | 2023-04-06 | 2025-12-28 | 2023-06-09 |
@@ -144,6 +144,6 @@ Statistics Date: 2026-04-09 08:38:57
 | [studies-for](https://github.com/sony/studies-for) | None | JavaScript | 0 | - | 2025-10-23 | 2025-11-01 | 2025-11-01 |
 | [mf-rae](https://github.com/sony/mf-rae) | None | Python | 32 | MIT License | 2025-11-13 | 2026-04-07 | 2025-11-19 |
 | [FCM_Large_Particles](https://github.com/sony/FCM_Large_Particles) | None | Jupyter Notebook | 0 | BSD 3-Clause "New" or "Revised" License | 2025-12-16 | 2025-12-22 | 2025-12-22 |
-| [MSA-bench](https://github.com/sony/MSA-bench) | Pytorch implementation of "Do Foundational Audio Encoders Understand Music Structure?" presented in ICASSP 2026. | Python | 2 | MIT License | 2026-01-21 | 2026-03-18 | 2026-02-28 |
-| [virtue](https://github.com/sony/virtue) | Official implementation of "VIRTUE: Visual-Interactive Text-Image Universal Embedder (ICLR 2026)" | Python | 4 | Apache License 2.0 | 2026-01-29 | 2026-03-07 | 2026-02-19 |
+| [MSA-bench](https://github.com/sony/MSA-bench) | Pytorch implementation of "Do Foundational Audio Encoders Understand Music Structure?" presented in ICASSP 2026. | Python | 2 | MIT License | 2026-01-21 | 2026-04-10 | 2026-04-10 |
+| [virtue](https://github.com/sony/virtue) | Official implementation of "VIRTUE: Visual-Interactive Text-Image Universal Embedder (ICLR 2026)" | Python | 5 | Apache License 2.0 | 2026-01-29 | 2026-04-10 | 2026-02-19 |
 | [B3-Seg-project](https://github.com/sony/B3-Seg-project) | None | None | 1 | - | 2026-02-18 | 2026-02-21 | 2026-02-21 |
