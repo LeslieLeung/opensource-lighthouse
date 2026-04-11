@@ -1,14 +1,14 @@
 # Sony
 
-A total of 139 projects, 43 active projects in the last six months, 1 teams, and 17984 stars.
+A total of 139 projects, 41 active projects in the last six months, 1 teams, and 17986 stars.
 
 Top 3 Languages: Python, JavaScript, C++
 
-Statistics Date: 2026-04-10 08:38:30
+Statistics Date: 2026-04-11 08:18:39
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3576 | MIT License | 2015-05-29 | 2026-04-10 | 2026-02-07 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3577 | MIT License | 2015-05-29 | 2026-04-10 | 2026-02-07 |
 | [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4358 | MIT License | 2015-05-29 | 2026-04-10 | 2026-02-12 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
@@ -137,7 +137,7 @@ Statistics Date: 2026-04-10 08:38:30
 | [mimo](https://github.com/sony/mimo) | Official Repo for The Paper "Mirror in the Model: Ad Banner Image Generation via Reflective Multi-LLM and Multi-modal Agents” (EMNLP’25-Industry) | Python | 0 | MIT License | 2025-09-11 | 2025-12-17 | 2025-09-26 |
 | [multi-plane-segmentation-gpu](https://github.com/sony/multi-plane-segmentation-gpu) | None | JavaScript | 0 | - | 2025-09-26 | 2025-10-03 | 2025-10-03 |
 | [dynamic-rag](https://github.com/sony/dynamic-rag) | None | C# | 4 | BSD 3-Clause "New" or "Revised" License | 2025-09-28 | 2025-10-30 | 2025-10-13 |
-| [cmt](https://github.com/sony/cmt) | None | Python | 20 | MIT License | 2025-09-30 | 2026-04-01 | 2026-03-03 |
+| [cmt](https://github.com/sony/cmt) | None | Python | 21 | MIT License | 2025-09-30 | 2026-04-11 | 2026-03-03 |
 | [mmaudiosep](https://github.com/sony/mmaudiosep) | None | Python | 14 | MIT License | 2025-10-06 | 2026-01-10 | 2025-10-13 |
 | [sampleid](https://github.com/sony/sampleid) | Code for the paper “Automatic Music Sample Identification with Multi-Track Contrastive Learning”. | Python | 19 | MIT License | 2025-10-15 | 2026-02-09 | 2026-01-28 |
 | [coda](https://github.com/sony/coda) | Official PyTorch implementation of "Contrastive Object-centric Diffusion Alignment" | Python | 2 | Apache License 2.0 | 2025-10-20 | 2026-03-06 | 2026-01-27 |
