@@ -1,16 +1,16 @@
 # Buf
 
-A total of 78 projects, 58 active projects in the last six months, 1 teams, and 21690 stars.
+A total of 78 projects, 58 active projects in the last six months, 1 teams, and 21693 stars.
 
 Top 3 Languages: Go, TypeScript, Makefile
 
-Statistics Date: 2026-04-11 08:18:39
+Statistics Date: 2026-04-12 08:22:57
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) | Protocol Buffer Validation - replaced by https://github.com/bufbuild/protovalidate | Go | 4116 | Apache License 2.0 | 2017-10-03 | 2026-04-09 | 2026-03-30 |
 | [homebrew-buf](https://github.com/bufbuild/homebrew-buf) | Homebrew tap for Buf. | Shell | 14 | Apache License 2.0 | 2019-10-02 | 2026-04-01 | 2026-04-01 |
-| [buf](https://github.com/bufbuild/buf) | The best way of working with Protocol Buffers. | Go | 11029 | Apache License 2.0 | 2019-10-03 | 2026-04-10 | 2026-04-10 |
+| [buf](https://github.com/bufbuild/buf) | The best way of working with Protocol Buffers. | Go | 11032 | Apache License 2.0 | 2019-10-03 | 2026-04-12 | 2026-04-10 |
 | [vim-buf](https://github.com/bufbuild/vim-buf) | Vim integration for Buf. | Vim Script | 38 | Apache License 2.0 | 2019-10-03 | 2025-09-08 | 2026-04-01 |
 | [buf-examples](https://github.com/bufbuild/buf-examples) | Example repository that uses Buf. | TypeScript | 107 | Apache License 2.0 | 2019-10-12 | 2026-03-31 | 2026-04-06 |
 | [makego](https://github.com/bufbuild/makego) | Makefile setup for our Golang projects. | Makefile | 108 | Apache License 2.0 | 2019-11-18 | 2026-04-01 | 2026-04-01 |
