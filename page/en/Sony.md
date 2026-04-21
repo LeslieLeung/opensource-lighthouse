@@ -1,15 +1,15 @@
 # Sony
 
-A total of 139 projects, 41 active projects in the last six months, 1 teams, and 18012 stars.
+A total of 139 projects, 41 active projects in the last six months, 1 teams, and 18020 stars.
 
 Top 3 Languages: Python, JavaScript, C++
 
-Statistics Date: 2026-04-20 08:53:24
+Statistics Date: 2026-04-21 08:45:12
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3583 | MIT License | 2015-05-29 | 2026-04-16 | 2026-02-07 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4362 | MIT License | 2015-05-29 | 2026-04-20 | 2026-02-12 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3585 | MIT License | 2015-05-29 | 2026-04-21 | 2026-02-07 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4363 | MIT License | 2015-05-29 | 2026-04-20 | 2026-02-12 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 418 | MIT License | 2015-09-18 | 2026-04-08 | 2020-12-29 |
@@ -43,7 +43,7 @@ Statistics Date: 2026-04-20 08:53:24
 | [lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) | None | Python | 0 | MIT License | 2021-03-25 | 2021-05-13 | 2021-05-13 |
 | [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 128 | Apache License 2.0 | 2021-06-11 | 2026-03-17 | 2024-12-16 |
 | [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 111 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2026-04-16 | 2024-12-19 |
-| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 624 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2026-04-19 | 2025-07-09 |
+| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 626 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2026-04-21 | 2025-07-09 |
 | [flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) | Flutter plugins for embedded Linux (eLinux) | C++ | 60 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2026-01-23 | 2024-12-13 |
 | [ds-research-code](https://github.com/sony/ds-research-code) | None | Python | 5 | - | 2021-07-19 | 2026-04-13 | 2026-03-27 |
 | [pyIEOE](https://github.com/sony/pyIEOE) | None | Python | 32 | MIT License | 2021-07-20 | 2025-07-22 | 2025-02-21 |
@@ -55,7 +55,7 @@ Statistics Date: 2026-04-20 08:53:24
 | [FxNorm-automix](https://github.com/sony/FxNorm-automix) | FxNorm-Automix - Implementation of automatic music mixing systems. We show how we can use wet music data and repurpose it to train a fully automatic mixing system | Python | 137 | MIT License | 2022-08-05 | 2026-04-13 | 2024-03-11 |
 | [polar-densification](https://github.com/sony/polar-densification) | None | Python | 32 | MIT License | 2022-09-13 | 2026-02-26 | 2023-03-24 |
 | [nnabla-js](https://github.com/sony/nnabla-js) | None | TypeScript | 1 | Apache License 2.0 | 2022-09-16 | 2025-10-17 | 2025-10-17 |
-| [DiffRoll](https://github.com/sony/DiffRoll) | PyTorch implementation of DiffRoll, a diffusion-based generative automatic music transcription (AMT) model | Jupyter Notebook | 80 | MIT License | 2022-10-11 | 2025-11-16 | 2023-12-06 |
+| [DiffRoll](https://github.com/sony/DiffRoll) | PyTorch implementation of DiffRoll, a diffusion-based generative automatic music transcription (AMT) model | Jupyter Notebook | 81 | MIT License | 2022-10-11 | 2026-04-20 | 2023-12-06 |
 | [creativeai](https://github.com/sony/creativeai) | None | CSS | 78 | - | 2022-11-21 | 2026-04-08 | 2026-02-19 |
 | [NDJIR](https://github.com/sony/NDJIR) | NDJIR: Neural Direct and Joint Inverse Rendering for Geometry, Lights, and Materials of Real Object | Python | 45 | Apache License 2.0 | 2022-12-14 | 2026-03-30 | 2023-02-08 |
 | [CLIPSep](https://github.com/sony/CLIPSep) | None | Python | 43 | MIT License | 2023-01-24 | 2025-12-29 | 2023-02-21 |
@@ -67,7 +67,7 @@ Statistics Date: 2026-04-20 08:53:24
 | [gibbsddrm](https://github.com/sony/gibbsddrm) | None | Python | 33 | MIT License | 2023-04-26 | 2026-02-02 | 2023-05-29 |
 | [fp-diffusion](https://github.com/sony/fp-diffusion) | None | Jupyter Notebook | 33 | Apache License 2.0 | 2023-04-26 | 2026-03-11 | 2024-02-14 |
 | [diffiner](https://github.com/sony/diffiner) | None | Python | 68 | MIT License | 2023-05-30 | 2026-04-07 | 2023-08-16 |
-| [hFT-Transformer](https://github.com/sony/hFT-Transformer) | Pytorch implementation of automatic music transcription method that uses a two-level hierarchical frequency-time Transformer architecture (hFT-Transformer). | Python | 112 | MIT License | 2023-06-26 | 2026-03-10 | 2023-07-11 |
+| [hFT-Transformer](https://github.com/sony/hFT-Transformer) | Pytorch implementation of automatic music transcription method that uses a two-level hierarchical frequency-time Transformer architecture (hFT-Transformer). | Python | 113 | MIT License | 2023-06-26 | 2026-04-20 | 2023-07-11 |
 | [san](https://github.com/sony/san) | PyTorch implementation of slicing adversarial network (SAN) | Python | 98 | - | 2023-06-28 | 2026-02-24 | 2025-12-01 |
 | [bigvsan](https://github.com/sony/bigvsan) | Pytorch implementation of BigVSAN | Python | 202 | MIT License | 2023-09-01 | 2026-04-01 | 2025-12-09 |
 | [bigvsan_eval](https://github.com/sony/bigvsan_eval) | Evaluation tool used in the BigVSAN paper | Python | 14 | MIT License | 2023-09-01 | 2025-07-28 | 2024-03-22 |
@@ -77,11 +77,11 @@ Statistics Date: 2026-04-20 08:53:24
 | [pyAutoPort](https://github.com/sony/pyAutoPort) | None | Python | 7 | BSD 3-Clause "New" or "Revised" License | 2023-12-13 | 2025-07-25 | 2025-07-03 |
 | [SR-Display-Plugin-Preview-ZB](https://github.com/sony/SR-Display-Plugin-Preview-ZB) | None | None | 1 | MIT License | 2024-02-19 | 2024-02-19 | 2024-02-19 |
 | [NeISF](https://github.com/sony/NeISF) | None | Python | 20 | Other | 2024-06-04 | 2026-02-16 | 2025-05-15 |
-| [nnc-desktop](https://github.com/sony/nnc-desktop) | None | TypeScript | 21 | Apache License 2.0 | 2024-06-04 | 2025-07-25 | 2025-06-30 |
+| [nnc-desktop](https://github.com/sony/nnc-desktop) | None | TypeScript | 22 | Apache License 2.0 | 2024-06-04 | 2026-04-21 | 2025-06-30 |
 | [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 101 | MIT License | 2024-06-04 | 2026-02-27 | 2025-03-31 |
 | [silentcipher](https://github.com/sony/silentcipher) | None | Python | 78 | MIT License | 2024-06-05 | 2026-04-05 | 2024-07-22 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 22 | MIT License | 2024-07-09 | 2026-04-15 | 2025-06-09 |
-| [genwarp](https://github.com/sony/genwarp) | None | Python | 308 | MIT License | 2024-08-06 | 2026-04-18 | 2024-09-26 |
+| [genwarp](https://github.com/sony/genwarp) | None | Python | 307 | MIT License | 2024-08-06 | 2026-04-21 | 2024-09-26 |
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 56 | MIT License | 2024-09-05 | 2026-03-30 | 2024-11-05 |
 | [esstra](https://github.com/sony/esstra) | A software suite for enhancing software supply chain transparency | Python | 33 | Other | 2024-10-03 | 2026-04-03 | 2026-02-16 |
 | [pagoda](https://github.com/sony/pagoda) | None | Python | 22 | MIT License | 2024-10-23 | 2026-03-23 | 2024-11-21 |
@@ -140,7 +140,7 @@ Statistics Date: 2026-04-20 08:53:24
 | [cmt](https://github.com/sony/cmt) | None | Python | 21 | MIT License | 2025-09-30 | 2026-04-11 | 2026-03-03 |
 | [mmaudiosep](https://github.com/sony/mmaudiosep) | None | Python | 14 | MIT License | 2025-10-06 | 2026-04-18 | 2026-04-18 |
 | [sampleid](https://github.com/sony/sampleid) | Code for the paper “Automatic Music Sample Identification with Multi-Track Contrastive Learning”. | Python | 19 | MIT License | 2025-10-15 | 2026-02-09 | 2026-01-28 |
-| [coda](https://github.com/sony/coda) | Official PyTorch implementation of "Contrastive Object-centric Diffusion Alignment" | Python | 2 | Apache License 2.0 | 2025-10-20 | 2026-03-06 | 2026-01-27 |
+| [coda](https://github.com/sony/coda) | Official PyTorch implementation of "Contrastive Object-centric Diffusion Alignment" | Python | 3 | Apache License 2.0 | 2025-10-20 | 2026-04-20 | 2026-01-27 |
 | [studies-for](https://github.com/sony/studies-for) | None | JavaScript | 0 | - | 2025-10-23 | 2025-11-01 | 2025-11-01 |
 | [mf-rae](https://github.com/sony/mf-rae) | None | Python | 33 | MIT License | 2025-11-13 | 2026-04-14 | 2025-11-19 |
 | [FCM_Large_Particles](https://github.com/sony/FCM_Large_Particles) | None | Jupyter Notebook | 0 | BSD 3-Clause "New" or "Revised" License | 2025-12-16 | 2025-12-22 | 2025-12-22 |
