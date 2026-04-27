@@ -1,10 +1,10 @@
 # X
 
-A total of 101 projects, 8 active projects in the last six months, 1 teams, and 216581 stars.
+A total of 101 projects, 8 active projects in the last six months, 1 teams, and 216591 stars.
 
 Top 3 Languages: Scala, Java, Python
 
-Statistics Date: 2026-04-26 08:33:12
+Statistics Date: 2026-04-27 08:58:46
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -15,7 +15,7 @@ Statistics Date: 2026-04-26 08:33:12
 | [scala_school](https://github.com/twitter/scala_school) | Lessons in the Fundamentals of Scala | HTML | 3697 | Apache License 2.0 | 2010-09-08 | 2026-04-10 | 2023-04-10 |
 | [finagle](https://github.com/twitter/finagle) | A fault tolerant, protocol-agnostic RPC system | Scala | 8864 | Apache License 2.0 | 2010-10-19 | 2026-04-21 | 2026-04-14 |
 | [joauth](https://github.com/twitter/joauth) | A Java library for authenticating HTTP Requests using OAuth | Java | 218 | Apache License 2.0 | 2010-12-16 | 2026-03-30 | 2023-04-10 |
-| [opensource-website](https://github.com/twitter/opensource-website) | Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source. | SCSS | 3259 | Apache License 2.0 | 2011-02-23 | 2026-04-25 | 2026-04-13 |
+| [opensource-website](https://github.com/twitter/opensource-website) | Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source. | SCSS | 3260 | Apache License 2.0 | 2011-02-23 | 2026-04-27 | 2026-04-13 |
 | [util](https://github.com/twitter/util) | Wonderful reusable code from Twitter | Scala | 2725 | Apache License 2.0 | 2011-03-26 | 2026-04-16 | 2025-12-08 |
 | [scrooge](https://github.com/twitter/scrooge) | A Thrift parser/generator | Scala | 797 | Apache License 2.0 | 2011-08-22 | 2026-04-11 | 2025-04-02 |
 | [hogan.js](https://github.com/twitter/hogan.js) | A compiler for the Mustache templating language | JavaScript | 5129 | Apache License 2.0 | 2011-12-21 | 2026-04-22 | 2023-04-10 |
@@ -52,7 +52,7 @@ Statistics Date: 2026-04-26 08:33:12
 | [wordpress](https://github.com/twitter/wordpress) | The official Twitter plugin for WordPress. Embed Twitter content and grow your audience on Twitter. | PHP | 333 | MIT License | 2014-10-20 | 2026-01-10 | 2022-04-06 |
 | [BreakoutDetection](https://github.com/twitter/BreakoutDetection) | Breakout Detection via Robust E-Statistics | C++ | 761 | GNU General Public License v2.0 | 2014-10-24 | 2026-03-16 | 2017-08-15 |
 | [twitter-korean-text](https://github.com/twitter/twitter-korean-text) | Korean tokenizer | Scala | 867 | Apache License 2.0 | 2014-10-29 | 2026-04-24 | 2023-04-10 |
-| [twemoji](https://github.com/twitter/twemoji) | Emoji for everyone. https://twemoji.twitter.com/ | HTML | 17625 | MIT License | 2014-11-06 | 2026-04-26 | 2026-01-10 |
+| [twemoji](https://github.com/twitter/twemoji) | Emoji for everyone. https://twemoji.twitter.com/ | HTML | 17627 | MIT License | 2014-11-06 | 2026-04-27 | 2026-01-10 |
 | [twitter-text](https://github.com/twitter/twitter-text) | Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform. | HTML | 3132 | Apache License 2.0 | 2014-12-03 | 2026-04-23 | 2024-04-26 |
 | [AnomalyDetection](https://github.com/twitter/AnomalyDetection) | Anomaly Detection with R | R | 3611 | GNU General Public License v3.0 | 2014-12-09 | 2026-04-25 | 2019-08-30 |
 | [d3kit](https://github.com/twitter/d3kit) | D3Kit is a set tools to speed D3 related project development | JavaScript | 426 | MIT License | 2015-01-10 | 2026-04-03 | 2021-11-01 |
@@ -106,6 +106,6 @@ Statistics Date: 2026-04-26 08:33:12
 | [diffusion-rl](https://github.com/twitter/diffusion-rl) | None | Python | 80 | Apache License 2.0 | 2022-08-09 | 2026-01-19 | 2022-12-09 |
 | [focus](https://github.com/twitter/focus) | Focus aligns Git worktree content based on outlines of a repository's Bazel build graph. Focused repos are sparse, shallow, and thin and unlock markedly better performance in large repos. | Rust | 116 | Apache License 2.0 | 2022-08-30 | 2026-04-01 | 2023-05-12 |
 | [birdwatch](https://github.com/twitter/birdwatch) | None | None | 65 | - | 2022-11-06 | 2025-12-22 | 2023-04-03 |
-| [the-algorithm](https://github.com/twitter/the-algorithm) | Source code for the X Recommendation Algorithm | Scala | 73065 | GNU Affero General Public License v3.0 | 2023-03-27 | 2026-04-26 | 2025-09-08 |
-| [the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) | Source code for Twitter's Recommendation Algorithm | Python | 10563 | GNU Affero General Public License v3.0 | 2023-03-27 | 2026-04-25 | 2024-07-10 |
+| [the-algorithm](https://github.com/twitter/the-algorithm) | Source code for the X Recommendation Algorithm | Scala | 73071 | GNU Affero General Public License v3.0 | 2023-03-27 | 2026-04-27 | 2025-09-08 |
+| [the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) | Source code for Twitter's Recommendation Algorithm | Python | 10564 | GNU Affero General Public License v3.0 | 2023-03-27 | 2026-04-27 | 2024-07-10 |
 | [stitch](https://github.com/twitter/stitch) | None | Scala | 117 | Apache License 2.0 | 2024-11-05 | 2026-01-29 | 2024-11-07 |
