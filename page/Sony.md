@@ -1,10 +1,10 @@
 # Sony
 
-共 139 个项目，近半年内活跃项目 41 个，1 个团队， 18072 个 Star。
+共 139 个项目，近半年内活跃项目 41 个，1 个团队， 18074 个 Star。
 
 语言 Top 3：Python, JavaScript, C++
 
-统计时间：2026-04-30 08:54:05
+统计时间：2026-05-01 08:46:42
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -23,7 +23,7 @@
 | [nnabla-ext-cuda](https://github.com/sony/nnabla-ext-cuda) | A CUDA Extension of Neural Network Libraries | Cuda | 91 | Apache License 2.0 | 2017-06-21 | 2026-04-23 | 2025-06-30 |
 | [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2777 | Apache License 2.0 | 2017-06-26 | 2026-04-29 | 2025-08-29 |
 | [easyhttpcpp](https://github.com/sony/easyhttpcpp) | A cross-platform HTTP client library with a focus on usability and speed | C++ | 168 | MIT License | 2017-08-09 | 2026-02-20 | 2022-01-31 |
-| [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 182 | Apache License 2.0 | 2017-09-07 | 2026-04-29 | 2026-04-08 |
+| [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 182 | Apache License 2.0 | 2017-09-07 | 2026-04-30 | 2026-04-30 |
 | [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 42 | Apache License 2.0 | 2017-09-07 | 2026-04-30 | 2026-04-16 |
 | [cdp-js](https://github.com/sony/cdp-js) | Libraries/SDK modules for multi-platform application development | TypeScript | 22 | Apache License 2.0 | 2017-10-10 | 2024-02-11 | 2018-05-10 |
 | [cdp-lib](https://github.com/sony/cdp-lib) | Application template/libraries for cdp-js (Details: see cdp-js repository) | JavaScript | 6 | Apache License 2.0 | 2017-10-10 | 2017-11-13 | 2018-02-23 |
@@ -129,16 +129,16 @@
 | [mocopi-receiver-plugin-unity](https://github.com/sony/mocopi-receiver-plugin-unity) | None | C# | 34 | Apache License 2.0 | 2025-08-26 | 2026-03-23 | 2025-12-22 |
 | [mocopi-receiver-plugin-motionbuilder](https://github.com/sony/mocopi-receiver-plugin-motionbuilder) | None | C++ | 5 | Apache License 2.0 | 2025-08-26 | 2026-03-13 | 2026-01-20 |
 | [mocopi-receiver-plugin-maya](https://github.com/sony/mocopi-receiver-plugin-maya) | None | C++ | 2 | Apache License 2.0 | 2025-08-26 | 2026-03-12 | 2026-01-29 |
-| [mocopi-receiver-plugin-unrealengine](https://github.com/sony/mocopi-receiver-plugin-unrealengine) | None | C++ | 4 | Apache License 2.0 | 2025-08-26 | 2026-04-28 | 2026-01-29 |
+| [mocopi-receiver-plugin-unrealengine](https://github.com/sony/mocopi-receiver-plugin-unrealengine) | None | C++ | 5 | Apache License 2.0 | 2025-08-26 | 2026-04-30 | 2026-01-29 |
 | [mocopi-receiver-plugin-blender](https://github.com/sony/mocopi-receiver-plugin-blender) | None | Python | 3 | Apache License 2.0 | 2025-08-26 | 2026-03-12 | 2026-01-27 |
-| [mocopi-motion-serializer](https://github.com/sony/mocopi-motion-serializer) | None | C++ | 12 | Apache License 2.0 | 2025-08-26 | 2026-03-12 | 2025-12-22 |
+| [mocopi-motion-serializer](https://github.com/sony/mocopi-motion-serializer) | None | C++ | 13 | Apache License 2.0 | 2025-08-26 | 2026-04-30 | 2025-12-22 |
 | [LibriTTS-VI](https://github.com/sony/LibriTTS-VI) | None | None | 8 | - | 2025-09-02 | 2026-03-02 | 2025-09-23 |
 | [oms](https://github.com/sony/oms) | Official Repo for The Paper "OMS: On-the-fly, Multi-Objective, Self-Reflective Ad Keyword Generation via LLM Agent” (EMNLP’25-main) | Python | 0 | MIT License | 2025-09-11 | 2025-09-26 | 2025-09-26 |
 | [mimo](https://github.com/sony/mimo) | Official Repo for The Paper "Mirror in the Model: Ad Banner Image Generation via Reflective Multi-LLM and Multi-modal Agents” (EMNLP’25-Industry) | Python | 0 | MIT License | 2025-09-11 | 2025-12-17 | 2025-09-26 |
 | [multi-plane-segmentation-gpu](https://github.com/sony/multi-plane-segmentation-gpu) | None | JavaScript | 0 | - | 2025-09-26 | 2025-10-03 | 2025-10-03 |
 | [dynamic-rag](https://github.com/sony/dynamic-rag) | None | C# | 5 | BSD 3-Clause "New" or "Revised" License | 2025-09-28 | 2026-04-23 | 2025-10-13 |
 | [cmt](https://github.com/sony/cmt) | None | Python | 21 | MIT License | 2025-09-30 | 2026-04-11 | 2026-03-03 |
-| [mmaudiosep](https://github.com/sony/mmaudiosep) | None | Python | 15 | MIT License | 2025-10-06 | 2026-04-28 | 2026-04-18 |
+| [mmaudiosep](https://github.com/sony/mmaudiosep) | None | Python | 15 | MIT License | 2025-10-06 | 2026-04-30 | 2026-04-30 |
 | [sampleid](https://github.com/sony/sampleid) | Code for the paper “Automatic Music Sample Identification with Multi-Track Contrastive Learning”. | Python | 21 | MIT License | 2025-10-15 | 2026-04-26 | 2026-01-28 |
 | [coda](https://github.com/sony/coda) | Official PyTorch implementation of "Contrastive Object-centric Diffusion Alignment" | Python | 3 | Apache License 2.0 | 2025-10-20 | 2026-04-20 | 2026-01-27 |
 | [studies-for](https://github.com/sony/studies-for) | None | JavaScript | 0 | - | 2025-10-23 | 2026-04-27 | 2026-04-27 |
