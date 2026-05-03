@@ -1,14 +1,14 @@
 # Sony
 
-共 139 个项目，近半年内活跃项目 41 个，1 个团队， 18075 个 Star。
+共 139 个项目，近半年内活跃项目 41 个，1 个团队， 18081 个 Star。
 
 语言 Top 3：Python, JavaScript, C++
 
-统计时间：2026-05-02 08:37:27
+统计时间：2026-05-03 08:40:42
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3594 | MIT License | 2015-05-29 | 2026-04-30 | 2026-02-07 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3597 | MIT License | 2015-05-29 | 2026-05-03 | 2026-02-07 |
 | [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4366 | MIT License | 2015-05-29 | 2026-05-02 | 2026-02-12 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
@@ -67,7 +67,7 @@
 | [gibbsddrm](https://github.com/sony/gibbsddrm) | None | Python | 33 | MIT License | 2023-04-26 | 2026-02-02 | 2023-05-29 |
 | [fp-diffusion](https://github.com/sony/fp-diffusion) | None | Jupyter Notebook | 33 | Apache License 2.0 | 2023-04-26 | 2026-03-11 | 2024-02-14 |
 | [diffiner](https://github.com/sony/diffiner) | None | Python | 68 | MIT License | 2023-05-30 | 2026-04-07 | 2023-08-16 |
-| [hFT-Transformer](https://github.com/sony/hFT-Transformer) | Pytorch implementation of automatic music transcription method that uses a two-level hierarchical frequency-time Transformer architecture (hFT-Transformer). | Python | 114 | MIT License | 2023-06-26 | 2026-04-21 | 2023-07-11 |
+| [hFT-Transformer](https://github.com/sony/hFT-Transformer) | Pytorch implementation of automatic music transcription method that uses a two-level hierarchical frequency-time Transformer architecture (hFT-Transformer). | Python | 115 | MIT License | 2023-06-26 | 2026-05-02 | 2023-07-11 |
 | [san](https://github.com/sony/san) | PyTorch implementation of slicing adversarial network (SAN) | Python | 98 | - | 2023-06-28 | 2026-02-24 | 2025-12-01 |
 | [bigvsan](https://github.com/sony/bigvsan) | Pytorch implementation of BigVSAN | Python | 202 | MIT License | 2023-09-01 | 2026-04-01 | 2025-12-09 |
 | [bigvsan_eval](https://github.com/sony/bigvsan_eval) | Evaluation tool used in the BigVSAN paper | Python | 14 | MIT License | 2023-09-01 | 2025-07-28 | 2024-03-22 |
@@ -79,7 +79,7 @@
 | [NeISF](https://github.com/sony/NeISF) | None | Python | 22 | Other | 2024-06-04 | 2026-04-23 | 2025-05-15 |
 | [nnc-desktop](https://github.com/sony/nnc-desktop) | None | TypeScript | 22 | Apache License 2.0 | 2024-06-04 | 2026-04-21 | 2025-06-30 |
 | [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 101 | MIT License | 2024-06-04 | 2026-02-27 | 2025-03-31 |
-| [silentcipher](https://github.com/sony/silentcipher) | None | Python | 84 | MIT License | 2024-06-05 | 2026-04-29 | 2024-07-22 |
+| [silentcipher](https://github.com/sony/silentcipher) | None | Python | 85 | MIT License | 2024-06-05 | 2026-05-02 | 2024-07-22 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 23 | MIT License | 2024-07-09 | 2026-04-28 | 2025-06-09 |
 | [genwarp](https://github.com/sony/genwarp) | None | Python | 308 | MIT License | 2024-08-06 | 2026-04-27 | 2024-09-26 |
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 56 | MIT License | 2024-09-05 | 2026-03-30 | 2024-11-05 |
@@ -139,7 +139,7 @@
 | [dynamic-rag](https://github.com/sony/dynamic-rag) | None | C# | 5 | BSD 3-Clause "New" or "Revised" License | 2025-09-28 | 2026-04-23 | 2025-10-13 |
 | [cmt](https://github.com/sony/cmt) | None | Python | 21 | MIT License | 2025-09-30 | 2026-04-11 | 2026-03-03 |
 | [mmaudiosep](https://github.com/sony/mmaudiosep) | None | Python | 15 | MIT License | 2025-10-06 | 2026-04-30 | 2026-04-30 |
-| [sampleid](https://github.com/sony/sampleid) | Code for the paper “Automatic Music Sample Identification with Multi-Track Contrastive Learning”. | Python | 21 | MIT License | 2025-10-15 | 2026-04-26 | 2026-01-28 |
+| [sampleid](https://github.com/sony/sampleid) | Code for the paper “Automatic Music Sample Identification with Multi-Track Contrastive Learning”. | Python | 22 | MIT License | 2025-10-15 | 2026-05-02 | 2026-01-28 |
 | [coda](https://github.com/sony/coda) | Official PyTorch implementation of "Contrastive Object-centric Diffusion Alignment" | Python | 3 | Apache License 2.0 | 2025-10-20 | 2026-04-20 | 2026-01-27 |
 | [studies-for](https://github.com/sony/studies-for) | None | JavaScript | 0 | - | 2025-10-23 | 2026-04-27 | 2026-04-27 |
 | [mf-rae](https://github.com/sony/mf-rae) | None | Python | 33 | MIT License | 2025-11-13 | 2026-04-14 | 2025-11-19 |
