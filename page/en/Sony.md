@@ -1,10 +1,10 @@
 # Sony
 
-A total of 139 projects, 41 active projects in the last six months, 1 teams, and 18090 stars.
+A total of 139 projects, 41 active projects in the last six months, 1 teams, and 18093 stars.
 
 Top 3 Languages: Python, JavaScript, C++
 
-Statistics Date: 2026-05-06 08:56:54
+Statistics Date: 2026-05-07 09:01:19
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -81,7 +81,7 @@ Statistics Date: 2026-05-06 08:56:54
 | [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 101 | MIT License | 2024-06-04 | 2026-02-27 | 2025-03-31 |
 | [silentcipher](https://github.com/sony/silentcipher) | None | Python | 86 | MIT License | 2024-06-05 | 2026-05-04 | 2024-07-22 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 23 | MIT License | 2024-07-09 | 2026-04-28 | 2025-06-09 |
-| [genwarp](https://github.com/sony/genwarp) | None | Python | 307 | MIT License | 2024-08-06 | 2026-05-03 | 2024-09-26 |
+| [genwarp](https://github.com/sony/genwarp) | None | Python | 308 | MIT License | 2024-08-06 | 2026-05-07 | 2024-09-26 |
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 56 | MIT License | 2024-09-05 | 2026-03-30 | 2024-11-05 |
 | [esstra](https://github.com/sony/esstra) | A software suite for enhancing software supply chain transparency | Python | 33 | Other | 2024-10-03 | 2026-04-03 | 2026-02-16 |
 | [pagoda](https://github.com/sony/pagoda) | None | Python | 22 | MIT License | 2024-10-23 | 2026-03-23 | 2024-11-21 |
@@ -89,7 +89,7 @@ Statistics Date: 2026-05-06 08:56:54
 | [dual-pixel-disparity](https://github.com/sony/dual-pixel-disparity) | None | Python | 14 | MIT License | 2024-11-19 | 2026-03-10 | 2025-03-27 |
 | [openmu](https://github.com/sony/openmu) | None | Python | 8 | MIT License | 2024-11-27 | 2025-06-27 | 2024-12-26 |
 | [Hi-ResLDM](https://github.com/sony/Hi-ResLDM) | None | None | 6 | - | 2025-01-11 | 2025-10-28 | 2025-02-12 |
-| [stamp](https://github.com/sony/stamp) | None | TypeScript | 8 | MIT License | 2025-01-20 | 2026-04-27 | 2026-04-27 |
+| [stamp](https://github.com/sony/stamp) | None | TypeScript | 8 | MIT License | 2025-01-20 | 2026-04-27 | 2026-05-07 |
 | [ABA](https://github.com/sony/ABA) | Official Repo for The Paper "Adaptive Budget Optimization for Multichannel Advertising Using Combinatorial Bandits" (AAMAS'25) | Python | 2 | Other | 2025-01-21 | 2025-07-28 | 2025-02-18 |
 | [MambaPEFT](https://github.com/sony/MambaPEFT) | None | Python | 20 | Apache License 2.0 | 2025-01-24 | 2026-04-06 | 2025-03-27 |
 | [bl-flowsom_eval](https://github.com/sony/bl-flowsom_eval) | None | Jupyter Notebook | 0 | MIT License | 2025-01-28 | 2025-02-04 | 2025-02-04 |
@@ -140,10 +140,10 @@ Statistics Date: 2026-05-06 08:56:54
 | [cmt](https://github.com/sony/cmt) | None | Python | 21 | MIT License | 2025-09-30 | 2026-04-11 | 2026-03-03 |
 | [mmaudiosep](https://github.com/sony/mmaudiosep) | None | Python | 15 | MIT License | 2025-10-06 | 2026-04-30 | 2026-04-30 |
 | [sampleid](https://github.com/sony/sampleid) | Code for the paper “Automatic Music Sample Identification with Multi-Track Contrastive Learning”. | Python | 22 | MIT License | 2025-10-15 | 2026-05-02 | 2026-01-28 |
-| [coda](https://github.com/sony/coda) | Official PyTorch implementation of "Contrastive Object-centric Diffusion Alignment" | Python | 3 | Apache License 2.0 | 2025-10-20 | 2026-04-20 | 2026-01-27 |
+| [coda](https://github.com/sony/coda) | Official PyTorch implementation of "Contrastive Object-centric Diffusion Alignment" | Python | 4 | Apache License 2.0 | 2025-10-20 | 2026-05-07 | 2026-01-27 |
 | [studies-for](https://github.com/sony/studies-for) | None | JavaScript | 0 | - | 2025-10-23 | 2026-04-27 | 2026-04-27 |
 | [mf-rae](https://github.com/sony/mf-rae) | None | Python | 33 | MIT License | 2025-11-13 | 2026-04-14 | 2025-11-19 |
 | [FCM_Large_Particles](https://github.com/sony/FCM_Large_Particles) | None | Jupyter Notebook | 0 | BSD 3-Clause "New" or "Revised" License | 2025-12-16 | 2025-12-22 | 2025-12-22 |
-| [MSA-bench](https://github.com/sony/MSA-bench) | Pytorch implementation of "Do Foundational Audio Encoders Understand Music Structure?" presented in ICASSP 2026. | Python | 2 | MIT License | 2026-01-21 | 2026-04-10 | 2026-04-10 |
+| [MSA-bench](https://github.com/sony/MSA-bench) | Pytorch implementation of "Do Foundational Audio Encoders Understand Music Structure?" presented in ICASSP 2026. | Python | 3 | MIT License | 2026-01-21 | 2026-05-06 | 2026-04-10 |
 | [virtue](https://github.com/sony/virtue) | Official implementation of "VIRTUE: Visual-Interactive Text-Image Universal Embedder (ICLR 2026)" | Python | 5 | Apache License 2.0 | 2026-01-29 | 2026-04-10 | 2026-02-19 |
 | [B3-Seg-project](https://github.com/sony/B3-Seg-project) | None | None | 2 | - | 2026-02-18 | 2026-04-25 | 2026-02-21 |
