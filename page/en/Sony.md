@@ -1,15 +1,15 @@
 # Sony
 
-A total of 139 projects, 41 active projects in the last six months, 1 teams, and 18093 stars.
+A total of 139 projects, 41 active projects in the last six months, 1 teams, and 18103 stars.
 
 Top 3 Languages: Python, JavaScript, C++
 
-Statistics Date: 2026-05-07 09:01:19
+Statistics Date: 2026-05-08 08:40:09
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3598 | MIT License | 2015-05-29 | 2026-05-05 | 2026-02-07 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4369 | MIT License | 2015-05-29 | 2026-05-05 | 2026-02-12 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3599 | MIT License | 2015-05-29 | 2026-05-08 | 2026-02-07 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4370 | MIT License | 2015-05-29 | 2026-05-08 | 2026-02-12 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 419 | MIT License | 2015-09-18 | 2026-05-04 | 2020-12-29 |
@@ -21,8 +21,8 @@ Statistics Date: 2026-05-07 09:01:19
 | [smarttennissensorsdk](https://github.com/sony/smarttennissensorsdk) | The Smart Tennis Sensor plugs into the end of a tennis racket and records data about all the shots you make throughout a game or practice. With the SDK, you can develop apps for analyzing and presenting that data in real-time. | Java | 8 | Apache License 2.0 | 2016-08-30 | 2024-07-29 | 2017-02-10 |
 | [openocd-nuttx](https://github.com/sony/openocd-nuttx) | Fork of OpenOCD with NuttX thread support. | C | 24 | GNU General Public License v2.0 | 2016-10-18 | 2024-06-08 | 2019-01-21 |
 | [nnabla-ext-cuda](https://github.com/sony/nnabla-ext-cuda) | A CUDA Extension of Neural Network Libraries | Cuda | 91 | Apache License 2.0 | 2017-06-21 | 2026-04-23 | 2025-06-30 |
-| [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2778 | Apache License 2.0 | 2017-06-26 | 2026-05-04 | 2025-08-29 |
-| [easyhttpcpp](https://github.com/sony/easyhttpcpp) | A cross-platform HTTP client library with a focus on usability and speed | C++ | 168 | MIT License | 2017-08-09 | 2026-02-20 | 2022-01-31 |
+| [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2780 | Apache License 2.0 | 2017-06-26 | 2026-05-08 | 2025-08-29 |
+| [easyhttpcpp](https://github.com/sony/easyhttpcpp) | A cross-platform HTTP client library with a focus on usability and speed | C++ | 172 | MIT License | 2017-08-09 | 2026-05-08 | 2022-01-31 |
 | [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 182 | Apache License 2.0 | 2017-09-07 | 2026-04-30 | 2026-04-30 |
 | [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 42 | Apache License 2.0 | 2017-09-07 | 2026-04-30 | 2026-04-16 |
 | [cdp-js](https://github.com/sony/cdp-js) | Libraries/SDK modules for multi-platform application development | TypeScript | 22 | Apache License 2.0 | 2017-10-10 | 2024-02-11 | 2018-05-10 |
@@ -56,7 +56,7 @@ Statistics Date: 2026-05-07 09:01:19
 | [polar-densification](https://github.com/sony/polar-densification) | None | Python | 32 | MIT License | 2022-09-13 | 2026-02-26 | 2023-03-24 |
 | [nnabla-js](https://github.com/sony/nnabla-js) | None | TypeScript | 1 | Apache License 2.0 | 2022-09-16 | 2025-10-17 | 2025-10-17 |
 | [DiffRoll](https://github.com/sony/DiffRoll) | PyTorch implementation of DiffRoll, a diffusion-based generative automatic music transcription (AMT) model | Jupyter Notebook | 82 | MIT License | 2022-10-11 | 2026-04-28 | 2023-12-06 |
-| [creativeai](https://github.com/sony/creativeai) | None | CSS | 79 | - | 2022-11-21 | 2026-04-23 | 2026-02-19 |
+| [creativeai](https://github.com/sony/creativeai) | None | CSS | 80 | - | 2022-11-21 | 2026-05-07 | 2026-02-19 |
 | [NDJIR](https://github.com/sony/NDJIR) | NDJIR: Neural Direct and Joint Inverse Rendering for Geometry, Lights, and Materials of Real Object | Python | 45 | Apache License 2.0 | 2022-12-14 | 2026-03-30 | 2023-02-08 |
 | [CLIPSep](https://github.com/sony/CLIPSep) | None | Python | 43 | MIT License | 2023-01-24 | 2025-12-29 | 2023-02-21 |
 | [audio-visual-seld-dcase2023](https://github.com/sony/audio-visual-seld-dcase2023) | Baseline method for audio-visual sound event localization and detection task of DCASE 2023 challenge | Python | 65 | MIT License | 2023-02-20 | 2026-04-11 | 2025-03-19 |
@@ -89,7 +89,7 @@ Statistics Date: 2026-05-07 09:01:19
 | [dual-pixel-disparity](https://github.com/sony/dual-pixel-disparity) | None | Python | 14 | MIT License | 2024-11-19 | 2026-03-10 | 2025-03-27 |
 | [openmu](https://github.com/sony/openmu) | None | Python | 8 | MIT License | 2024-11-27 | 2025-06-27 | 2024-12-26 |
 | [Hi-ResLDM](https://github.com/sony/Hi-ResLDM) | None | None | 6 | - | 2025-01-11 | 2025-10-28 | 2025-02-12 |
-| [stamp](https://github.com/sony/stamp) | None | TypeScript | 8 | MIT License | 2025-01-20 | 2026-04-27 | 2026-05-07 |
+| [stamp](https://github.com/sony/stamp) | None | TypeScript | 8 | MIT License | 2025-01-20 | 2026-05-08 | 2026-05-08 |
 | [ABA](https://github.com/sony/ABA) | Official Repo for The Paper "Adaptive Budget Optimization for Multichannel Advertising Using Combinatorial Bandits" (AAMAS'25) | Python | 2 | Other | 2025-01-21 | 2025-07-28 | 2025-02-18 |
 | [MambaPEFT](https://github.com/sony/MambaPEFT) | None | Python | 20 | Apache License 2.0 | 2025-01-24 | 2026-04-06 | 2025-03-27 |
 | [bl-flowsom_eval](https://github.com/sony/bl-flowsom_eval) | None | Jupyter Notebook | 0 | MIT License | 2025-01-28 | 2025-02-04 | 2025-02-04 |
@@ -138,7 +138,7 @@ Statistics Date: 2026-05-07 09:01:19
 | [multi-plane-segmentation-gpu](https://github.com/sony/multi-plane-segmentation-gpu) | None | JavaScript | 0 | - | 2025-09-26 | 2025-10-03 | 2025-10-03 |
 | [dynamic-rag](https://github.com/sony/dynamic-rag) | None | C# | 5 | BSD 3-Clause "New" or "Revised" License | 2025-09-28 | 2026-04-23 | 2025-10-13 |
 | [cmt](https://github.com/sony/cmt) | None | Python | 21 | MIT License | 2025-09-30 | 2026-04-11 | 2026-03-03 |
-| [mmaudiosep](https://github.com/sony/mmaudiosep) | None | Python | 15 | MIT License | 2025-10-06 | 2026-04-30 | 2026-04-30 |
+| [mmaudiosep](https://github.com/sony/mmaudiosep) | None | Python | 16 | MIT License | 2025-10-06 | 2026-05-07 | 2026-04-30 |
 | [sampleid](https://github.com/sony/sampleid) | Code for the paper “Automatic Music Sample Identification with Multi-Track Contrastive Learning”. | Python | 22 | MIT License | 2025-10-15 | 2026-05-02 | 2026-01-28 |
 | [coda](https://github.com/sony/coda) | Official PyTorch implementation of "Contrastive Object-centric Diffusion Alignment" | Python | 4 | Apache License 2.0 | 2025-10-20 | 2026-05-07 | 2026-01-27 |
 | [studies-for](https://github.com/sony/studies-for) | None | JavaScript | 0 | - | 2025-10-23 | 2026-04-27 | 2026-04-27 |
