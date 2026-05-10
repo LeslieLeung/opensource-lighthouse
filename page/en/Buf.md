@@ -1,27 +1,27 @@
 # Buf
 
-A total of 75 projects, 55 active projects in the last six months, 1 teams, and 21770 stars.
+A total of 75 projects, 55 active projects in the last six months, 1 teams, and 21774 stars.
 
 Top 3 Languages: Go, TypeScript, Makefile
 
-Statistics Date: 2026-05-09 08:39:30
+Statistics Date: 2026-05-10 08:43:27
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) | Protocol Buffer Validation - replaced by https://github.com/bufbuild/protovalidate | Go | 4122 | Apache License 2.0 | 2017-10-03 | 2026-05-04 | 2026-04-27 |
+| [protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) | Protocol Buffer Validation - replaced by https://github.com/bufbuild/protovalidate | Go | 4123 | Apache License 2.0 | 2017-10-03 | 2026-05-10 | 2026-04-27 |
 | [homebrew-buf](https://github.com/bufbuild/homebrew-buf) | Homebrew tap for Buf. | Shell | 14 | Apache License 2.0 | 2019-10-02 | 2026-04-30 | 2026-04-30 |
-| [buf](https://github.com/bufbuild/buf) | The best way of working with Protocol Buffers. | Go | 11098 | Apache License 2.0 | 2019-10-03 | 2026-05-08 | 2026-05-08 |
+| [buf](https://github.com/bufbuild/buf) | The best way of working with Protocol Buffers. | Go | 11099 | Apache License 2.0 | 2019-10-03 | 2026-05-10 | 2026-05-10 |
 | [vim-buf](https://github.com/bufbuild/vim-buf) | Vim integration for Buf. | Vim Script | 38 | Apache License 2.0 | 2019-10-03 | 2025-09-08 | 2026-04-29 |
 | [buf-examples](https://github.com/bufbuild/buf-examples) | Example repository that uses Buf. | TypeScript | 107 | Apache License 2.0 | 2019-10-12 | 2026-05-07 | 2026-05-07 |
 | [makego](https://github.com/bufbuild/makego) | Makefile setup for our Golang projects. | Makefile | 110 | Apache License 2.0 | 2019-11-18 | 2026-05-08 | 2026-05-05 |
 | [buf-gradle-plugin](https://github.com/bufbuild/buf-gradle-plugin) | Gradle plugin for the Buf CLI | Kotlin | 55 | Apache License 2.0 | 2020-08-29 | 2026-05-05 | 2026-05-05 |
 | [vscode-buf](https://github.com/bufbuild/vscode-buf) | Visual Studio Code integration for Buf. | TypeScript | 86 | Apache License 2.0 | 2020-12-23 | 2026-05-04 | 2026-05-08 |
-| [buf-setup-action](https://github.com/bufbuild/buf-setup-action) | None | TypeScript | 43 | Apache License 2.0 | 2021-03-17 | 2026-04-03 | 2025-08-06 |
+| [buf-setup-action](https://github.com/bufbuild/buf-setup-action) | None | TypeScript | 44 | Apache License 2.0 | 2021-03-17 | 2026-05-09 | 2025-08-06 |
 | [buf-lint-action](https://github.com/bufbuild/buf-lint-action) | None | TypeScript | 29 | Apache License 2.0 | 2021-03-17 | 2025-09-08 | 2025-01-24 |
 | [buf-push-action](https://github.com/bufbuild/buf-push-action) | None | Shell | 17 | Apache License 2.0 | 2021-03-17 | 2026-05-05 | 2025-02-12 |
 | [buf-breaking-action](https://github.com/bufbuild/buf-breaking-action) | None | TypeScript | 29 | Apache License 2.0 | 2021-03-17 | 2026-03-03 | 2025-01-24 |
 | [buf-tour](https://github.com/bufbuild/buf-tour) | None | None | 51 | - | 2021-08-10 | 2025-04-29 | 2025-04-29 |
-| [rules_buf](https://github.com/bufbuild/rules_buf) | Bazel rules for Buf. | Starlark | 59 | Apache License 2.0 | 2021-11-16 | 2026-04-30 | 2026-04-30 |
+| [rules_buf](https://github.com/bufbuild/rules_buf) | Bazel rules for Buf. | Starlark | 60 | Apache License 2.0 | 2021-11-16 | 2026-05-10 | 2026-04-30 |
 | [intellij-buf](https://github.com/bufbuild/intellij-buf) | IntelliJ plugin for Buf | Kotlin | 24 | Apache License 2.0 | 2022-03-08 | 2026-05-05 | 2026-05-05 |
 | [protobuf-es](https://github.com/bufbuild/protobuf-es) | Protocol Buffers for ECMAScript. The only JavaScript Protobuf library that is fully-compliant with Protobuf conformance tests. | TypeScript | 1582 | Apache License 2.0 | 2022-03-14 | 2026-05-08 | 2026-05-09 |
 | [protocompile](https://github.com/bufbuild/protocompile) | A parsing/linking engine for protobuf; the guts for a pure Go replacement of protoc. | Go | 326 | Apache License 2.0 | 2022-08-11 | 2026-04-29 | 2026-05-05 |
