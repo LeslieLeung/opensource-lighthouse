@@ -1,10 +1,10 @@
 # Hugging Face
 
-A total of 419 projects, 239 active projects in the last six months, 1 teams, and 687303 stars.
+A total of 419 projects, 239 active projects in the last six months, 1 teams, and 687749 stars.
 
 Top 3 Languages: Python, Jupyter Notebook, TypeScript
 
-Statistics Date: 2026-05-10 08:43:27
+Statistics Date: 2026-05-11 09:19:23
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -18,11 +18,11 @@ Statistics Date: 2026-05-10 08:43:27
 | [100-times-faster-nlp](https://github.com/huggingface/100-times-faster-nlp) | 🚀100 Times Faster Natural Language Processing in Python - iPython notebook | HTML | 336 | - | 2018-06-11 | 2026-02-23 | 2018-06-12 |
 | [pytorch-openai-transformer-lm](https://github.com/huggingface/pytorch-openai-transformer-lm) | 🐥A PyTorch implementation of OpenAI's finetuned transformer language model with a script to import the weights pre-trained by OpenAI | Python | 1522 | MIT License | 2018-06-13 | 2026-05-03 | 2021-08-09 |
 | [adversarialnlp](https://github.com/huggingface/adversarialnlp) | A generic library for crafting adversarial NLP examples - WIP | Python | 41 | - | 2018-10-15 | 2025-03-28 | 2018-10-26 |
-| [transformers](https://github.com/huggingface/transformers) | 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.  | Python | 160431 | Apache License 2.0 | 2018-10-29 | 2026-05-10 | 2026-05-09 |
+| [transformers](https://github.com/huggingface/transformers) | 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.  | Python | 160465 | Apache License 2.0 | 2018-10-29 | 2026-05-11 | 2026-05-11 |
 | [hmtl](https://github.com/huggingface/hmtl) | 🌊HMTL: Hierarchical Multi-Task Learning - A State-of-the-Art neural network model for several NLP tasks based on PyTorch and AllenNLP | Python | 1195 | MIT License | 2018-10-31 | 2026-04-06 | 2023-08-01 |
 | [rasa_hmtl](https://github.com/huggingface/rasa_hmtl) | RASA wrapper for HMTL: Hierarchical Multi-Task Learning | Python | 29 | - | 2018-12-06 | 2025-01-19 | 2018-12-10 |
 | [bert-syntax](https://github.com/huggingface/bert-syntax) | Assessing syntactic abilities of BERT | Python | 40 | Apache License 2.0 | 2019-01-08 | 2025-09-11 | 2019-07-18 |
-| [pytorch-image-models](https://github.com/huggingface/pytorch-image-models) | The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNetV4, MobileNet-V3 & V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, and more | Python | 36766 | Apache License 2.0 | 2019-02-02 | 2026-05-10 | 2026-05-08 |
+| [pytorch-image-models](https://github.com/huggingface/pytorch-image-models) | The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNetV4, MobileNet-V3 & V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, and more | Python | 36767 | Apache License 2.0 | 2019-02-02 | 2026-05-11 | 2026-05-08 |
 | [snapchat-lens-api](https://github.com/huggingface/snapchat-lens-api) | Type definitions for Snapchat Lenses scripting | None | 14 | - | 2019-03-20 | 2024-09-04 | 2019-04-15 |
 | [knockknock](https://github.com/huggingface/knockknock) | 🚪✊Knock Knock: Get notified when your training ends with only two additional lines of code | Python | 2828 | MIT License | 2019-03-20 | 2026-04-19 | 2023-06-23 |
 | [pytorch-pretrained-BigGAN](https://github.com/huggingface/pytorch-pretrained-BigGAN) | 🦋A PyTorch implementation of BigGAN with pretrained weights and conversion scripts. | Python | 1041 | MIT License | 2019-03-21 | 2026-05-03 | 2021-02-12 |
@@ -30,41 +30,41 @@ Statistics Date: 2026-05-10 08:43:27
 | [naacl_transfer_learning_tutorial](https://github.com/huggingface/naacl_transfer_learning_tutorial) | Repository of code for the tutorial on Transfer Learning in NLP held at NAACL 2019 in Minneapolis, MN, USA | Python | 722 | MIT License | 2019-05-15 | 2026-02-24 | 2019-10-16 |
 | [xlnet](https://github.com/huggingface/xlnet) | XLNet: Generalized Autoregressive Pretraining for Language Understanding | Python | 26 | Apache License 2.0 | 2019-06-27 | 2024-02-09 | 2019-06-27 |
 | [swift-coreml-transformers](https://github.com/huggingface/swift-coreml-transformers) | Swift Core ML 3 implementations of GPT-2, DistilGPT-2, BERT, and DistilBERT for Question answering. Other Transformers coming soon! | Swift | 1684 | Apache License 2.0 | 2019-06-27 | 2026-05-08 | 2023-11-24 |
-| [sentence-transformers](https://github.com/huggingface/sentence-transformers) | State-of-the-Art Embeddings, Retrieval, and Reranking | Python | 18651 | Apache License 2.0 | 2019-07-24 | 2026-05-10 | 2026-05-10 |
-| [tokenizers](https://github.com/huggingface/tokenizers) | 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production | Rust | 10707 | Apache License 2.0 | 2019-11-01 | 2026-05-09 | 2026-05-07 |
+| [sentence-transformers](https://github.com/huggingface/sentence-transformers) | State-of-the-Art Embeddings, Retrieval, and Reranking | Python | 18653 | Apache License 2.0 | 2019-07-24 | 2026-05-11 | 2026-05-11 |
+| [tokenizers](https://github.com/huggingface/tokenizers) | 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production | Rust | 10710 | Apache License 2.0 | 2019-11-01 | 2026-05-11 | 2026-05-07 |
 | [tflite-android-transformers](https://github.com/huggingface/tflite-android-transformers) | DistilBERT / GPT-2 for on-device inference thanks to TensorFlow Lite with Android demo apps | Java | 421 | Apache License 2.0 | 2019-11-13 | 2026-04-17 | 2023-07-25 |
 | [node-question-answering](https://github.com/huggingface/node-question-answering) | Fast and production-ready question answering in Node.js | TypeScript | 467 | Apache License 2.0 | 2020-01-24 | 2026-05-05 | 2023-07-18 |
-| [blog](https://github.com/huggingface/blog) | Public repo for HF blog posts | Jupyter Notebook | 3397 | - | 2020-02-14 | 2026-05-07 | 2026-05-06 |
+| [blog](https://github.com/huggingface/blog) | Public repo for HF blog posts | Jupyter Notebook | 3398 | - | 2020-02-14 | 2026-05-11 | 2026-05-11 |
 | [awesome-papers](https://github.com/huggingface/awesome-papers) | Papers & presentation materials from Hugging Face's internal science day | None | 2053 | - | 2020-03-11 | 2026-04-18 | 2020-10-31 |
-| [datasets](https://github.com/huggingface/datasets) | 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools | Python | 21503 | Apache License 2.0 | 2020-03-26 | 2026-05-10 | 2026-05-09 |
-| [trl](https://github.com/huggingface/trl) | Train transformer language models with reinforcement learning. | Python | 18326 | Apache License 2.0 | 2020-03-27 | 2026-05-10 | 2026-05-10 |
+| [datasets](https://github.com/huggingface/datasets) | 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools | Python | 21505 | Apache License 2.0 | 2020-03-26 | 2026-05-11 | 2026-05-09 |
+| [trl](https://github.com/huggingface/trl) | Train transformer language models with reinforcement learning. | Python | 18334 | Apache License 2.0 | 2020-03-27 | 2026-05-11 | 2026-05-10 |
 | [datasets-viewer](https://github.com/huggingface/datasets-viewer) | Viewer for the 🤗 datasets library.  | Python | 86 | - | 2020-05-27 | 2025-11-23 | 2021-07-30 |
-| [notebooks](https://github.com/huggingface/notebooks) | Notebooks using the Hugging Face libraries 🤗 | Jupyter Notebook | 4538 | Apache License 2.0 | 2020-06-15 | 2026-05-09 | 2026-04-29 |
+| [notebooks](https://github.com/huggingface/notebooks) | Notebooks using the Hugging Face libraries 🤗 | Jupyter Notebook | 4540 | Apache License 2.0 | 2020-06-15 | 2026-05-11 | 2026-05-11 |
 | [model_card](https://github.com/huggingface/model_card) | None | None | 30 | Apache License 2.0 | 2020-06-24 | 2024-11-09 | 2021-09-27 |
 | [pytorch_block_sparse](https://github.com/huggingface/pytorch_block_sparse) | Fast Block Sparse Matrices for Pytorch | C++ | 550 | Other | 2020-07-03 | 2026-03-23 | 2021-01-21 |
 | [widgets-server](https://github.com/huggingface/widgets-server) | Public helpers for huggingface.co. Now lives in https://github.com/huggingface/huggingface_hub | TypeScript | 13 | - | 2020-07-13 | 2026-04-11 | 2022-07-10 |
 | [hfapi](https://github.com/huggingface/hfapi) | Simple Python client for the Hugging Face Inference API | Python | 75 | MIT License | 2020-07-14 | 2025-08-07 | 2020-08-18 |
 | [spm_precompiled](https://github.com/huggingface/spm_precompiled) | Highly specialized crate to parse and use `google/sentencepiece` 's precompiled_charsmap in `tokenizers` | Rust | 23 | Apache License 2.0 | 2020-09-15 | 2026-05-08 | 2026-04-02 |
-| [accelerate](https://github.com/huggingface/accelerate) | 🚀 A simple way to launch, train, and use PyTorch models on almost any device and distributed configuration, automatic mixed precision (including fp8), and easy-to-configure FSDP and DeepSpeed support | Python | 9672 | Apache License 2.0 | 2020-10-30 | 2026-05-09 | 2026-05-07 |
+| [accelerate](https://github.com/huggingface/accelerate) | 🚀 A simple way to launch, train, and use PyTorch models on almost any device and distributed configuration, automatic mixed precision (including fp8), and easy-to-configure FSDP and DeepSpeed support | Python | 9675 | Apache License 2.0 | 2020-10-30 | 2026-05-11 | 2026-05-07 |
 | [block_movement_pruning](https://github.com/huggingface/block_movement_pruning) | Block Sparse movement pruning | Python | 83 | - | 2020-11-03 | 2026-01-23 | 2020-11-26 |
 | [efficient_scripts](https://github.com/huggingface/efficient_scripts) | None | Python | 10 | - | 2020-11-10 | 2023-07-07 | 2020-12-15 |
 | [datasets-tagging](https://github.com/huggingface/datasets-tagging) | A Streamlit app to add structured tags to a dataset card | Python | 22 | - | 2020-11-27 | 2024-02-12 | 2022-06-30 |
 | [flax_bert](https://github.com/huggingface/flax_bert) | None | Python | 1 | Apache License 2.0 | 2020-12-09 | 2023-07-07 | 2020-12-09 |
-| [autotrain-advanced](https://github.com/huggingface/autotrain-advanced) | 🤗 AutoTrain Advanced | Python | 4572 | Apache License 2.0 | 2020-12-15 | 2026-05-07 | 2026-04-17 |
-| [huggingface_hub](https://github.com/huggingface/huggingface_hub) | The official Python client for the Hugging Face Hub. | Python | 3577 | Apache License 2.0 | 2020-12-22 | 2026-05-10 | 2026-05-08 |
+| [autotrain-advanced](https://github.com/huggingface/autotrain-advanced) | 🤗 AutoTrain Advanced | Python | 4573 | Apache License 2.0 | 2020-12-15 | 2026-05-10 | 2026-04-17 |
+| [huggingface_hub](https://github.com/huggingface/huggingface_hub) | The official Python client for the Hugging Face Hub. | Python | 3582 | Apache License 2.0 | 2020-12-22 | 2026-05-11 | 2026-05-08 |
 | [nn_pruning](https://github.com/huggingface/nn_pruning) | Prune a model while finetuning or training. | Jupyter Notebook | 406 | Apache License 2.0 | 2020-12-22 | 2026-01-21 | 2022-06-21 |
 | [api-inference-community](https://github.com/huggingface/api-inference-community) | None | Python | 173 | Apache License 2.0 | 2020-12-30 | 2026-04-25 | 2026-04-08 |
 | [diff2html](https://github.com/huggingface/diff2html) | Pretty diff to html javascript library (diff2html) | TypeScript | 7 | MIT License | 2021-02-25 | 2026-04-03 | 2026-04-03 |
 | [tune](https://github.com/huggingface/tune) | None | Python | 87 | Apache License 2.0 | 2021-04-16 | 2024-12-06 | 2022-06-02 |
 | [collaborative-training-auth](https://github.com/huggingface/collaborative-training-auth) | Collaborative Hub Training Authentication API server-side machinery | Python | 5 | Apache License 2.0 | 2021-05-05 | 2026-04-03 | 2026-04-03 |
 | [paper-style-guide](https://github.com/huggingface/paper-style-guide) | None | None | 72 | - | 2021-05-17 | 2025-11-15 | 2021-10-18 |
-| [awesome-huggingface](https://github.com/huggingface/awesome-huggingface) | 🤗 A list of wonderful open-source projects & applications integrated with Hugging Face libraries. | None | 1072 | Apache License 2.0 | 2021-06-10 | 2026-05-06 | 2024-04-29 |
+| [awesome-huggingface](https://github.com/huggingface/awesome-huggingface) | 🤗 A list of wonderful open-source projects & applications integrated with Hugging Face libraries. | None | 1073 | Apache License 2.0 | 2021-06-10 | 2026-05-11 | 2024-04-29 |
 | [hf_benchmarks](https://github.com/huggingface/hf_benchmarks) | A starter kit for evaluating benchmarks on the 🤗 Hub | Python | 16 | Apache License 2.0 | 2021-06-30 | 2026-04-12 | 2026-04-08 |
 | [optimum](https://github.com/huggingface/optimum) | 🚀 Accelerate inference and training of 🤗 Transformers, Diffusers, TIMM and Sentence Transformers with easy to use hardware optimization tools | Python | 3385 | Apache License 2.0 | 2021-07-20 | 2026-05-08 | 2026-05-07 |
 | [data-measurements-tool](https://github.com/huggingface/data-measurements-tool) | Developing tools to automatically analyze datasets | Python | 74 | Apache License 2.0 | 2021-07-20 | 2026-04-03 | 2026-04-03 |
 | [s3prl](https://github.com/huggingface/s3prl) | Self-Supervised Speech Pre-training and Representation Learning Toolkit. | None | 5 | MIT License | 2021-07-22 | 2024-08-14 | 2021-09-01 |
-| [dataset-viewer](https://github.com/huggingface/dataset-viewer) | Backend that powers the dataset viewer on Hugging Face dataset pages through a public API. | Python | 859 | Apache License 2.0 | 2021-07-26 | 2026-05-09 | 2026-05-09 |
-| [course](https://github.com/huggingface/course) | The Hugging Face course on Transformers | MDX | 3892 | Apache License 2.0 | 2021-08-13 | 2026-05-10 | 2026-05-07 |
+| [dataset-viewer](https://github.com/huggingface/dataset-viewer) | Backend that powers the dataset viewer on Hugging Face dataset pages through a public API. | Python | 860 | Apache License 2.0 | 2021-07-26 | 2026-05-11 | 2026-05-09 |
+| [course](https://github.com/huggingface/course) | The Hugging Face course on Transformers | MDX | 3894 | Apache License 2.0 | 2021-08-13 | 2026-05-11 | 2026-05-07 |
 | [doc-builder](https://github.com/huggingface/doc-builder) | The package used to build the documentation of our Hugging Face repos | Python | 140 | Apache License 2.0 | 2021-09-01 | 2026-05-05 | 2026-05-05 |
 | [workshops](https://github.com/huggingface/workshops) | Materials for workshops on the Hugging Face ecosystem | Jupyter Notebook | 153 | Apache License 2.0 | 2021-09-17 | 2026-04-02 | 2026-04-02 |
 | [allennlp](https://github.com/huggingface/allennlp) | An open-source NLP research library, built on PyTorch. | Python | 6 | Apache License 2.0 | 2021-10-05 | 2026-04-03 | 2026-04-03 |
@@ -80,17 +80,17 @@ Statistics Date: 2026-05-10 08:43:27
 | [RL-model-card-template](https://github.com/huggingface/RL-model-card-template) | Model card template  | None | 2 | - | 2022-03-01 | 2023-07-07 | 2022-03-01 |
 | [optimum-habana](https://github.com/huggingface/optimum-habana) | Easy and lightning fast training of 🤗 Transformers on Habana Gaudi processor (HPU) | Python | 209 | Apache License 2.0 | 2022-03-01 | 2026-05-05 | 2026-04-29 |
 | [huggingface-sagemaker-snowflake-example](https://github.com/huggingface/huggingface-sagemaker-snowflake-example) | None | Python | 3 | - | 2022-03-15 | 2026-01-08 | 2022-04-05 |
-| [hub-docs](https://github.com/huggingface/hub-docs) | Docs of the Hugging Face Hub | Handlebars | 548 | Apache License 2.0 | 2022-03-16 | 2026-05-10 | 2026-05-10 |
+| [hub-docs](https://github.com/huggingface/hub-docs) | Docs of the Hugging Face Hub | Handlebars | 548 | Apache License 2.0 | 2022-03-16 | 2026-05-11 | 2026-05-11 |
 | [community-events](https://github.com/huggingface/community-events) | Place where folks can contribute to 🤗 community events | Jupyter Notebook | 429 | - | 2022-03-23 | 2026-02-28 | 2023-12-07 |
-| [evaluate](https://github.com/huggingface/evaluate) | 🤗 Evaluate: A library for easily evaluating machine learning models and datasets. | Python | 2448 | Apache License 2.0 | 2022-03-30 | 2026-05-09 | 2026-04-17 |
+| [evaluate](https://github.com/huggingface/evaluate) | 🤗 Evaluate: A library for easily evaluating machine learning models and datasets. | Python | 2449 | Apache License 2.0 | 2022-03-30 | 2026-05-10 | 2026-04-17 |
 | [amazon-eks-ami](https://github.com/huggingface/amazon-eks-ami) | Packer configuration for building a custom EKS AMI | Shell | 2 | MIT No Attribution | 2022-04-08 | 2023-09-14 | 2022-04-13 |
 | [model-evaluator](https://github.com/huggingface/model-evaluator) | Evaluate Transformers from the Hub 🔥 | Python | 14 | Apache License 2.0 | 2022-04-11 | 2026-04-03 | 2026-04-03 |
 | [ml-agents](https://github.com/huggingface/ml-agents) | Unity Machine Learning Agents Toolkit | C# | 49 | Other | 2022-04-20 | 2026-04-28 | 2023-06-08 |
-| [simulate](https://github.com/huggingface/simulate) | 🎢 Creating and sharing simulation environments for embodied and synthetic data research | Python | 194 | Apache License 2.0 | 2022-04-21 | 2026-04-25 | 2026-04-17 |
+| [simulate](https://github.com/huggingface/simulate) | 🎢 Creating and sharing simulation environments for embodied and synthetic data research | Python | 195 | Apache License 2.0 | 2022-04-21 | 2026-05-10 | 2026-04-17 |
 | [deep-rl-class](https://github.com/huggingface/deep-rl-class) | This repo contains the Hugging Face Deep Reinforcement Learning Course. | MDX | 4866 | Apache License 2.0 | 2022-04-21 | 2026-05-09 | 2026-04-17 |
 | [exporters](https://github.com/huggingface/exporters) | Export Hugging Face models to Core ML and TensorFlow Lite | Python | 697 | Apache License 2.0 | 2022-05-23 | 2026-04-23 | 2024-07-23 |
 | [optimum-intel](https://github.com/huggingface/optimum-intel) | 🤗 Optimum Intel: Accelerate inference with Intel optimization tools | Jupyter Notebook | 583 | Apache License 2.0 | 2022-05-25 | 2026-05-08 | 2026-05-08 |
-| [diffusers](https://github.com/huggingface/diffusers) | 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch. | Python | 33585 | Apache License 2.0 | 2022-05-30 | 2026-05-10 | 2026-05-10 |
+| [diffusers](https://github.com/huggingface/diffusers) | 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch. | Python | 33585 | Apache License 2.0 | 2022-05-30 | 2026-05-11 | 2026-05-11 |
 | [ViZDoom](https://github.com/huggingface/ViZDoom) | Doom-based AI Research Platform for Reinforcement Learning from Raw Visual Information. :godmode: | C++ | 2 | - | 2022-06-11 | 2026-04-03 | 2026-04-03 |
 | [ML-Agents-Training-Executables](https://github.com/huggingface/ML-Agents-Training-Executables) | This repo contains the Unity ML-Agents environments' executables for Windows, Mac and Linux | None | 4 | - | 2022-06-20 | 2024-04-22 | 2022-06-20 |
 | [setfit](https://github.com/huggingface/setfit) | Efficient few-shot learning with Sentence Transformers | Jupyter Notebook | 2730 | Apache License 2.0 | 2022-06-30 | 2026-05-09 | 2026-04-17 |
@@ -107,14 +107,14 @@ Statistics Date: 2026-05-10 08:43:27
 | [distill-bloom-deepspeed](https://github.com/huggingface/distill-bloom-deepspeed) | Teacher - student distillation using DeepSpeed | Python | 19 | - | 2022-10-06 | 2025-09-11 | 2022-10-07 |
 | [datablations](https://github.com/huggingface/datablations) | Scaling Data-Constrained Language Models | Jupyter Notebook | 343 | Apache License 2.0 | 2022-10-06 | 2026-04-04 | 2025-06-28 |
 | [olm-training](https://github.com/huggingface/olm-training) | Repo for training MLMs, CLMs, or T5-type models on the OLM pretraining data, but it should work with any hugging face text dataset. | Python | 97 | Apache License 2.0 | 2022-10-07 | 2026-03-24 | 2023-02-09 |
-| [text-generation-inference](https://github.com/huggingface/text-generation-inference) | Large Language Model Text Generation Inference | Python | 10856 | Apache License 2.0 | 2022-10-08 | 2026-05-09 | 2026-03-21 |
+| [text-generation-inference](https://github.com/huggingface/text-generation-inference) | Large Language Model Text Generation Inference | Python | 10855 | Apache License 2.0 | 2022-10-08 | 2026-05-10 | 2026-03-21 |
 | [competitions](https://github.com/huggingface/competitions) | None | Python | 124 | Apache License 2.0 | 2022-10-12 | 2026-04-15 | 2026-04-17 |
-| [diffusion-models-class](https://github.com/huggingface/diffusion-models-class) | Materials for the Hugging Face Diffusion Models Course | Jupyter Notebook | 4313 | Apache License 2.0 | 2022-10-13 | 2026-05-09 | 2026-04-17 |
+| [diffusion-models-class](https://github.com/huggingface/diffusion-models-class) | Materials for the Hugging Face Diffusion Models Course | Jupyter Notebook | 4314 | Apache License 2.0 | 2022-10-13 | 2026-05-10 | 2026-04-17 |
 | [Megatron-LM](https://github.com/huggingface/Megatron-LM) | Ongoing research training transformer models at scale | Python | 18 | Other | 2022-10-17 | 2025-04-02 | 2023-07-27 |
 | [hf-endpoints-emulator](https://github.com/huggingface/hf-endpoints-emulator) | Local emulator for Hugging Face Inference Endpoints customer handlers | Python | 27 | MIT License | 2022-11-02 | 2026-04-03 | 2026-04-03 |
 | [roots-search-tool](https://github.com/huggingface/roots-search-tool) | Scripts supporting the development and serving the Roots Search Tool - https://hf.co/spaces/bigscience-data/roots-search | Jupyter Notebook | 10 | - | 2022-11-02 | 2023-07-25 | 2023-03-10 |
 | [disaggregators](https://github.com/huggingface/disaggregators) | 🤗 Disaggregators: Curated data labelers for in-depth analysis. | Python | 68 | Apache License 2.0 | 2022-11-10 | 2026-02-16 | 2023-02-08 |
-| [peft](https://github.com/huggingface/peft) | 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning. | Python | 21087 | Apache License 2.0 | 2022-11-25 | 2026-05-10 | 2026-05-08 |
+| [peft](https://github.com/huggingface/peft) | 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning. | Python | 21092 | Apache License 2.0 | 2022-11-25 | 2026-05-11 | 2026-05-08 |
 | [jat](https://github.com/huggingface/jat) | General multi-task deep RL Agent | Python | 187 | Apache License 2.0 | 2022-11-25 | 2026-05-06 | 2026-04-03 |
 | [swift-coreml-diffusers](https://github.com/huggingface/swift-coreml-diffusers) | Swift app demonstrating Core ML Stable Diffusion | Swift | 2751 | Apache License 2.0 | 2022-12-13 | 2026-04-28 | 2025-11-06 |
 | [hf_transfer](https://github.com/huggingface/hf_transfer) | None | Rust | 559 | Apache License 2.0 | 2022-12-16 | 2026-05-08 | 2026-04-08 |
@@ -127,13 +127,13 @@ Statistics Date: 2026-05-10 08:43:27
 | [optimum-neuron](https://github.com/huggingface/optimum-neuron) | Training and inference on AWS Trainium and Inferentia chips. | Jupyter Notebook | 268 | Apache License 2.0 | 2023-02-01 | 2026-04-30 | 2026-04-16 |
 | [huggingface.js](https://github.com/huggingface/huggingface.js) | Use Hugging Face with JavaScript | TypeScript | 2411 | MIT License | 2023-02-06 | 2026-05-08 | 2026-05-09 |
 | [helm-publish-action](https://github.com/huggingface/helm-publish-action) | Github Action to simplify Helm Chart publish into a registry | None | 5 | Apache License 2.0 | 2023-02-09 | 2026-04-03 | 2026-04-03 |
-| [transformers.js](https://github.com/huggingface/transformers.js) | State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server! | JavaScript | 15976 | Apache License 2.0 | 2023-02-13 | 2026-05-10 | 2026-05-09 |
+| [transformers.js](https://github.com/huggingface/transformers.js) | State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server! | JavaScript | 15982 | Apache License 2.0 | 2023-02-13 | 2026-05-11 | 2026-05-09 |
 | [llm-vscode](https://github.com/huggingface/llm-vscode) | LLM powered development for VSCode | TypeScript | 1315 | Apache License 2.0 | 2023-02-16 | 2026-05-07 | 2026-04-02 |
 | [open-muse](https://github.com/huggingface/open-muse) | Open reproduction of MUSE for fast text2image generation.  | Python | 358 | Apache License 2.0 | 2023-02-16 | 2026-04-14 | 2024-06-01 |
-| [chat-ui](https://github.com/huggingface/chat-ui) | The open source codebase powering HuggingChat | TypeScript | 10702 | Apache License 2.0 | 2023-02-17 | 2026-05-10 | 2026-05-10 |
+| [chat-ui](https://github.com/huggingface/chat-ui) | The open source codebase powering HuggingChat | TypeScript | 10704 | Apache License 2.0 | 2023-02-17 | 2026-05-11 | 2026-05-11 |
 | [helm-common](https://github.com/huggingface/helm-common) | Common chart for our helm charts | Mustache | 6 | Apache License 2.0 | 2023-02-22 | 2026-04-09 | 2026-04-09 |
 | [gaia](https://github.com/huggingface/gaia) | Hugging Face and Pyserini interoperability | Jupyter Notebook | 19 | - | 2023-02-23 | 2025-09-02 | 2023-05-18 |
-| [audio-transformers-course](https://github.com/huggingface/audio-transformers-course) | The Hugging Face Course on Transformers for Audio | MDX | 493 | Apache License 2.0 | 2023-02-28 | 2026-04-30 | 2026-04-17 |
+| [audio-transformers-course](https://github.com/huggingface/audio-transformers-course) | The Hugging Face Course on Transformers for Audio | MDX | 494 | Apache License 2.0 | 2023-02-28 | 2026-05-10 | 2026-04-17 |
 | [controlnet_aux](https://github.com/huggingface/controlnet_aux) | None | Python | 490 | Apache License 2.0 | 2023-03-02 | 2026-04-21 | 2025-05-08 |
 | [khipu_workshop](https://github.com/huggingface/khipu_workshop) | None | Jupyter Notebook | 9 | - | 2023-03-06 | 2025-11-19 | 2023-03-06 |
 | [large_language_model_training_playbook](https://github.com/huggingface/large_language_model_training_playbook) | An open collection of implementation tips, tricks and resources for training large language models | Python | 499 | Apache License 2.0 | 2023-03-06 | 2026-05-06 | 2023-03-08 |
@@ -159,24 +159,24 @@ Statistics Date: 2026-05-10 08:43:27
 | [chug](https://github.com/huggingface/chug) | Minimal sharded dataset loaders, decoders, and utils for multi-modal document, image, and text datasets. | Python | 161 | Apache License 2.0 | 2023-06-06 | 2026-02-22 | 2024-04-03 |
 | [ml-agents-patch](https://github.com/huggingface/ml-agents-patch) | The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning. | C# | 16 | Other | 2023-06-09 | 2026-04-03 | 2026-04-03 |
 | [pixparse](https://github.com/huggingface/pixparse) | Pixel Parsing. A reproduction of OCR-free end-to-end document understanding models with open data | Python | 23 | - | 2023-06-13 | 2025-11-20 | 2024-07-30 |
-| [datatrove](https://github.com/huggingface/datatrove) | Freeing data processing from scripting madness by providing a set of platform-agnostic customizable pipeline processing blocks. | Python | 3040 | Apache License 2.0 | 2023-06-14 | 2026-05-10 | 2026-05-06 |
-| [candle](https://github.com/huggingface/candle) | Minimalist ML framework for Rust | Rust | 20216 | Apache License 2.0 | 2023-06-19 | 2026-05-10 | 2026-05-07 |
+| [datatrove](https://github.com/huggingface/datatrove) | Freeing data processing from scripting madness by providing a set of platform-agnostic customizable pipeline processing blocks. | Python | 3041 | Apache License 2.0 | 2023-06-14 | 2026-05-11 | 2026-05-06 |
+| [candle](https://github.com/huggingface/candle) | Minimalist ML framework for Rust | Rust | 20228 | Apache License 2.0 | 2023-06-19 | 2026-05-11 | 2026-05-07 |
 | [discord-bots](https://github.com/huggingface/discord-bots) | None | Python | 51 | - | 2023-06-20 | 2026-04-03 | 2026-04-03 |
 | [dana](https://github.com/huggingface/dana) | Test/benchmark regression and comparison system with dashboard | JavaScript | 2 | Apache License 2.0 | 2023-07-12 | 2023-11-18 | 2023-07-13 |
 | [open_asr_leaderboard](https://github.com/huggingface/open_asr_leaderboard) | None | Python | 204 | Apache License 2.0 | 2023-07-12 | 2026-05-08 | 2026-04-22 |
 | [hf-hub](https://github.com/huggingface/hf-hub) | Rust client for the huggingface hub aiming for minimal subset of features over `huggingface-hub` python package | Rust | 296 | Apache License 2.0 | 2023-07-19 | 2026-05-09 | 2026-05-07 |
 | [that_is_good_data](https://github.com/huggingface/that_is_good_data) | None | None | 65 | Apache License 2.0 | 2023-07-19 | 2025-09-15 | 2023-08-07 |
 | [m4-logs](https://github.com/huggingface/m4-logs) | M4 experiment logbook | None | 58 | Apache License 2.0 | 2023-08-02 | 2025-11-19 | 2023-08-21 |
-| [llm-ls](https://github.com/huggingface/llm-ls) | LSP server leveraging LLMs for code completion (and more?) | Rust | 870 | Apache License 2.0 | 2023-08-10 | 2026-05-08 | 2026-04-07 |
+| [llm-ls](https://github.com/huggingface/llm-ls) | LSP server leveraging LLMs for code completion (and more?) | Rust | 871 | Apache License 2.0 | 2023-08-10 | 2026-05-10 | 2026-04-07 |
 | [FastChat](https://github.com/huggingface/FastChat) | An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena. | Python | 12 | Apache License 2.0 | 2023-08-17 | 2026-04-03 | 2026-04-03 |
 | [autotrain-advanced-api](https://github.com/huggingface/autotrain-advanced-api) | None | Dockerfile | 4 | - | 2023-08-18 | 2025-08-07 | 2023-08-18 |
 | [test-actions](https://github.com/huggingface/test-actions) | None | None | 0 | - | 2023-08-22 | 2023-08-31 | 2024-01-18 |
 | [autogptq-index](https://github.com/huggingface/autogptq-index) | A GitHub Pages hosting AutoGPTQ wheels | HTML | 9 | MIT License | 2023-08-23 | 2026-03-19 | 2024-03-01 |
-| [alignment-handbook](https://github.com/huggingface/alignment-handbook) | Robust recipes to align language models with human and AI preferences | Python | 5598 | Apache License 2.0 | 2023-08-25 | 2026-05-09 | 2026-04-08 |
+| [alignment-handbook](https://github.com/huggingface/alignment-handbook) | Robust recipes to align language models with human and AI preferences | Python | 5597 | Apache License 2.0 | 2023-08-25 | 2026-05-11 | 2026-04-08 |
 | [hub-js-utils](https://github.com/huggingface/hub-js-utils) | None | JavaScript | 0 | - | 2023-08-25 | 2023-08-25 | 2023-08-25 |
 | [optimum-amd](https://github.com/huggingface/optimum-amd) | AMD related optimizations for transformer models | Jupyter Notebook | 102 | MIT License | 2023-09-10 | 2026-04-25 | 2026-04-15 |
-| [nanotron](https://github.com/huggingface/nanotron) | Minimalistic large language model 3D-parallelism training | Python | 2683 | Apache License 2.0 | 2023-09-11 | 2026-05-09 | 2026-04-07 |
-| [computer-vision-course](https://github.com/huggingface/computer-vision-course) | This repo is the homebase of a community driven course on Computer Vision with Neural Networks. Feel free to join us on the Hugging Face discord: hf.co/join/discord | Jupyter Notebook | 830 | MIT License | 2023-09-18 | 2026-05-09 | 2026-04-20 |
+| [nanotron](https://github.com/huggingface/nanotron) | Minimalistic large language model 3D-parallelism training | Python | 2684 | Apache License 2.0 | 2023-09-11 | 2026-05-11 | 2026-04-07 |
+| [computer-vision-course](https://github.com/huggingface/computer-vision-course) | This repo is the homebase of a community driven course on Computer Vision with Neural Networks. Feel free to join us on the Hugging Face discord: hf.co/join/discord | Jupyter Notebook | 833 | MIT License | 2023-09-18 | 2026-05-10 | 2026-04-20 |
 | [sharp-transformers](https://github.com/huggingface/sharp-transformers) | A Unity plugin for using Transformers models in Unity. | C# | 198 | Apache License 2.0 | 2023-09-19 | 2026-04-28 | 2024-01-26 |
 | [optimum-quanto](https://github.com/huggingface/optimum-quanto) | A pytorch quantization backend for optimum | Python | 1038 | Apache License 2.0 | 2023-09-19 | 2026-04-23 | 2026-04-02 |
 | [candle-layer-norm](https://github.com/huggingface/candle-layer-norm) | None | Cuda | 4 | BSD 3-Clause "New" or "Revised" License | 2023-09-25 | 2025-04-14 | 2025-04-14 |
@@ -185,13 +185,13 @@ Statistics Date: 2026-05-10 08:43:27
 | [candle-flash-attn-v1](https://github.com/huggingface/candle-flash-attn-v1) | None | C++ | 10 | Apache License 2.0 | 2023-10-04 | 2025-09-05 | 2024-04-02 |
 | [optimum-nvidia](https://github.com/huggingface/optimum-nvidia) | None | Python | 1033 | Apache License 2.0 | 2023-10-06 | 2026-05-06 | 2026-04-03 |
 | [peft-pytorch-conference](https://github.com/huggingface/peft-pytorch-conference) | Code for the examples presented in the talk "Training a Llama in your backyard: fine-tuning very large models on consumer hardware" given at PyTorch Conference 2023 | Jupyter Notebook | 15 | Apache License 2.0 | 2023-10-10 | 2025-12-22 | 2023-10-16 |
-| [text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) | A blazing fast inference solution for text embeddings models | Rust | 4779 | Apache License 2.0 | 2023-10-13 | 2026-05-10 | 2026-04-30 |
+| [text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) | A blazing fast inference solution for text embeddings models | Rust | 4785 | Apache License 2.0 | 2023-10-13 | 2026-05-11 | 2026-04-30 |
 | [alpaca_eval](https://github.com/huggingface/alpaca_eval) | An automatic evaluator for instruction-following language models. Human-validated, high-quality, cheap, and fast. | Jupyter Notebook | 3 | Apache License 2.0 | 2023-10-18 | 2026-04-03 | 2026-04-03 |
 | [distil-whisper](https://github.com/huggingface/distil-whisper) | Distilled variant of Whisper for speech recognition. 6x faster, 50% smaller, within 1% word error rate. | Python | 4081 | MIT License | 2023-10-31 | 2026-05-10 | 2025-01-08 |
 | [llm-swarm](https://github.com/huggingface/llm-swarm) | Manage scalable open LLM inference endpoints in Slurm clusters | Python | 287 | MIT License | 2023-10-31 | 2026-04-18 | 2024-07-11 |
 | [gsplat.js](https://github.com/huggingface/gsplat.js) | JavaScript Gaussian Splatting library. | TypeScript | 1621 | MIT License | 2023-11-01 | 2026-05-08 | 2025-07-12 |
 | [making-games-with-ai-course](https://github.com/huggingface/making-games-with-ai-course) | This repository contains the ML For Games Course | MDX | 114 | - | 2023-11-23 | 2026-04-15 | 2026-04-17 |
-| [cookbook](https://github.com/huggingface/cookbook) | Open-source AI cookbook | Jupyter Notebook | 2659 | Apache License 2.0 | 2023-11-24 | 2026-05-06 | 2026-04-17 |
+| [cookbook](https://github.com/huggingface/cookbook) | Open-source AI cookbook | Jupyter Notebook | 2660 | Apache License 2.0 | 2023-11-24 | 2026-05-10 | 2026-04-17 |
 | [amused](https://github.com/huggingface/amused) | None | Python | 88 | - | 2023-11-28 | 2025-12-02 | 2024-01-04 |
 | [diffusion-fast](https://github.com/huggingface/diffusion-fast) | Faster generation with text-to-image diffusion models. | Python | 233 | Apache License 2.0 | 2023-11-29 | 2026-05-04 | 2025-06-28 |
 | [tgi-gaudi](https://github.com/huggingface/tgi-gaudi) | Large Language Model Text Generation Inference on Habana Gaudi | Python | 34 | Apache License 2.0 | 2023-12-04 | 2025-07-09 | 2025-03-20 |
@@ -200,13 +200,13 @@ Statistics Date: 2026-05-10 08:43:27
 | [candle-silu](https://github.com/huggingface/candle-silu) | None | Rust | 5 | Apache License 2.0 | 2024-01-04 | 2026-05-08 | 2024-01-04 |
 | [visual-blocks-custom-components](https://github.com/huggingface/visual-blocks-custom-components) | Custom Hugging Face Nodes for Google Visual Blocks for ML | TypeScript | 124 | Apache License 2.0 | 2024-01-05 | 2026-03-24 | 2024-05-16 |
 | [ratchet](https://github.com/huggingface/ratchet) | A cross-platform browser ML framework. | Rust | 758 | MIT License | 2024-01-11 | 2026-05-08 | 2026-04-02 |
-| [Google-Cloud-Containers](https://github.com/huggingface/Google-Cloud-Containers) | Hugging Face Deep Learning Containers (DLCs) for Google Cloud | Dockerfile | 177 | Apache License 2.0 | 2024-01-12 | 2026-05-06 | 2026-05-06 |
+| [Google-Cloud-Containers](https://github.com/huggingface/Google-Cloud-Containers) | Hugging Face Deep Learning Containers (DLCs) for Google Cloud | Dockerfile | 178 | Apache License 2.0 | 2024-01-12 | 2026-05-10 | 2026-05-06 |
 | [text-clustering](https://github.com/huggingface/text-clustering) | Easily embed, cluster and semantically label text datasets | Python | 603 | Apache License 2.0 | 2024-01-12 | 2026-05-01 | 2024-03-28 |
 | [quicktype](https://github.com/huggingface/quicktype) | Generate types and converters from JSON, Schema, and GraphQL | TypeScript | 2 | Apache License 2.0 | 2024-01-22 | 2026-04-03 | 2026-04-03 |
 | [Huggy](https://github.com/huggingface/Huggy) | Huggy is a Unity ML-Agents environment showcasing a dog mastering stick-catching through deep reinforcement learning. | None | 15 | - | 2024-01-24 | 2026-02-21 | 2024-01-24 |
 | [Snowball-Target](https://github.com/huggingface/Snowball-Target) | Snowball Target is a Unity ML-Agents environment where you need to train Julien the Bear to shoot snowballs onto spawning targets | None | 3 | - | 2024-01-24 | 2025-11-06 | 2024-01-24 |
-| [lighteval](https://github.com/huggingface/lighteval) | Lighteval is your all-in-one toolkit for evaluating LLMs across multiple backends | Python | 2406 | MIT License | 2024-01-26 | 2026-05-09 | 2026-05-07 |
-| [lerobot](https://github.com/huggingface/lerobot) | 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning | Python | 23890 | Apache License 2.0 | 2024-01-26 | 2026-05-10 | 2026-05-10 |
+| [lighteval](https://github.com/huggingface/lighteval) | Lighteval is your all-in-one toolkit for evaluating LLMs across multiple backends | Python | 2409 | MIT License | 2024-01-26 | 2026-05-11 | 2026-05-07 |
+| [lerobot](https://github.com/huggingface/lerobot) | 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning | Python | 23925 | Apache License 2.0 | 2024-01-26 | 2026-05-11 | 2026-05-11 |
 | [dataspeech](https://github.com/huggingface/dataspeech) | None | Python | 397 | MIT License | 2024-02-07 | 2026-05-06 | 2024-09-03 |
 | [llm-awq](https://github.com/huggingface/llm-awq) | AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration | None | 3 | MIT License | 2024-02-09 | 2025-01-03 | 2024-02-09 |
 | [optimum-tpu](https://github.com/huggingface/optimum-tpu) | Google TPU optimizations for transformers models | Python | 138 | Apache License 2.0 | 2024-02-12 | 2026-04-26 | 2026-01-23 |
@@ -218,11 +218,11 @@ Statistics Date: 2026-05-10 08:43:27
 | [tailscale-action](https://github.com/huggingface/tailscale-action) | Github action to connect to tailscale | None | 20 | BSD 3-Clause "New" or "Revised" License | 2024-02-22 | 2026-03-25 | 2026-04-21 |
 | [tei-gaudi](https://github.com/huggingface/tei-gaudi) | A blazing fast inference solution for text embeddings models | Rust | 10 | Apache License 2.0 | 2024-03-04 | 2026-05-08 | 2025-05-26 |
 | [autotrain-example-datasets](https://github.com/huggingface/autotrain-example-datasets) | None | None | 3 | - | 2024-03-08 | 2025-02-21 | 2024-03-08 |
-| [data-is-better-together](https://github.com/huggingface/data-is-better-together) | Let's build better datasets, together! | Jupyter Notebook | 271 | - | 2024-03-11 | 2026-04-06 | 2026-04-02 |
+| [data-is-better-together](https://github.com/huggingface/data-is-better-together) | Let's build better datasets, together! | Jupyter Notebook | 272 | - | 2024-03-11 | 2026-05-11 | 2026-04-02 |
 | [swift-jinja](https://github.com/huggingface/swift-jinja) | A minimalistic Swift implementation of the Jinja templating engine, specifically designed for parsing and rendering ML chat templates. | Swift | 126 | Apache License 2.0 | 2024-03-20 | 2026-05-05 | 2026-05-01 |
 | [Auth0-Social-Connection](https://github.com/huggingface/Auth0-Social-Connection) | None | JavaScript | 0 | Apache License 2.0 | 2024-03-21 | 2026-04-03 | 2026-04-03 |
 | [diarizers](https://github.com/huggingface/diarizers) | None | Python | 326 | - | 2024-03-28 | 2026-04-15 | 2024-06-14 |
-| [gym-pusht](https://github.com/huggingface/gym-pusht) | A gym environment for PushT | Python | 171 | Apache License 2.0 | 2024-03-29 | 2026-05-06 | 2026-04-08 |
+| [gym-pusht](https://github.com/huggingface/gym-pusht) | A gym environment for PushT | Python | 170 | Apache License 2.0 | 2024-03-29 | 2026-05-11 | 2026-04-08 |
 | [gym-xarm](https://github.com/huggingface/gym-xarm) | A gym environment for xArm | Python | 75 | Apache License 2.0 | 2024-03-30 | 2026-04-30 | 2026-04-03 |
 | [VLMEvalKit](https://github.com/huggingface/VLMEvalKit) | Open-source evaluation toolkit of large vision-language models (LVLMs), support GPT-4v, Gemini, QwenVLPlus, 30+ HF models, 15+ benchmarks | Python | 3 | - | 2024-04-02 | 2026-04-03 | 2026-04-03 |
 | [lmms-eval](https://github.com/huggingface/lmms-eval) | Accelerating the development of large multimodal models (LMMs) with lmms-eval | Python | 1 | - | 2024-04-02 | 2026-04-03 | 2026-04-03 |
@@ -240,7 +240,7 @@ Statistics Date: 2026-05-10 08:43:27
 | [pyo3-special-method-derive](https://github.com/huggingface/pyo3-special-method-derive) | Automatically derive Python dunder methods for your Rust code | Rust | 26 | MIT License | 2024-06-13 | 2026-05-08 | 2026-04-07 |
 | [coreml-examples](https://github.com/huggingface/coreml-examples) | Swift Core ML Examples | Jupyter Notebook | 261 | Apache License 2.0 | 2024-06-13 | 2026-04-23 | 2024-11-28 |
 | [bench_cluster](https://github.com/huggingface/bench_cluster) | None | Python | 5 | - | 2024-06-19 | 2025-04-03 | 2024-10-24 |
-| [local-gemma](https://github.com/huggingface/local-gemma) | Gemma 2 optimized for your local machine. | Python | 386 | Apache License 2.0 | 2024-06-26 | 2026-04-28 | 2024-08-07 |
+| [local-gemma](https://github.com/huggingface/local-gemma) | Gemma 2 optimized for your local machine. | Python | 385 | Apache License 2.0 | 2024-06-26 | 2026-05-11 | 2024-08-07 |
 | [lm-evaluation-harness](https://github.com/huggingface/lm-evaluation-harness) | A framework for few-shot evaluation of language models. | Python | 36 | MIT License | 2024-06-26 | 2026-04-03 | 2026-04-03 |
 | [chat-ui-android](https://github.com/huggingface/chat-ui-android) | None | Kotlin | 21 | Apache License 2.0 | 2024-07-02 | 2026-05-04 | 2024-08-01 |
 | [distribution-v2](https://github.com/huggingface/distribution-v2) | None | None | 1 | - | 2024-07-10 | 2026-04-03 | 2026-04-03 |
@@ -251,8 +251,8 @@ Statistics Date: 2026-05-10 08:43:27
 | [AIEnergyScore](https://github.com/huggingface/AIEnergyScore) | AI Energy Score: Initiative to establish comparable energy efficiency ratings for AI models. | Python | 39 | MIT License | 2024-07-22 | 2026-04-09 | 2025-12-02 |
 | [huggingface-llama-recipes](https://github.com/huggingface/huggingface-llama-recipes) | None | Jupyter Notebook | 699 | - | 2024-07-22 | 2026-05-09 | 2025-04-30 |
 | [hf-nix](https://github.com/huggingface/hf-nix) | None | Nix | 29 | - | 2024-08-03 | 2026-03-24 | 2025-11-18 |
-| [speech-to-speech](https://github.com/huggingface/speech-to-speech) | Build local voice agents with open-source models | Python | 4725 | Apache License 2.0 | 2024-08-07 | 2026-05-09 | 2026-05-08 |
-| [transformers.js-examples](https://github.com/huggingface/transformers.js-examples) | A collection of 🤗 Transformers.js demos and example applications | JavaScript | 2036 | Apache License 2.0 | 2024-08-12 | 2026-05-10 | 2026-02-17 |
+| [speech-to-speech](https://github.com/huggingface/speech-to-speech) | Build local voice agents with open-source models | Python | 4731 | Apache License 2.0 | 2024-08-07 | 2026-05-11 | 2026-05-08 |
+| [transformers.js-examples](https://github.com/huggingface/transformers.js-examples) | A collection of 🤗 Transformers.js demos and example applications | JavaScript | 2036 | Apache License 2.0 | 2024-08-12 | 2026-05-11 | 2026-02-17 |
 | [sam2-studio](https://github.com/huggingface/sam2-studio) | None | Swift | 413 | Apache License 2.0 | 2024-08-20 | 2026-05-01 | 2024-10-01 |
 | [action-check-commits](https://github.com/huggingface/action-check-commits) | A simple GitHub action that checks the list of commits in a pull-request. | TypeScript | 1 | - | 2024-09-02 | 2025-08-13 | 2024-09-02 |
 | [WebShop](https://github.com/huggingface/WebShop) | [NeurIPS 2022] 🛒WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents | Python | 2 | MIT License | 2024-09-03 | 2026-04-03 | 2026-04-03 |
@@ -262,17 +262,17 @@ Statistics Date: 2026-05-10 08:43:27
 | [MixEval](https://github.com/huggingface/MixEval) | The official evaluation suite and dynamic data release for MixEval. | None | 4 | - | 2024-09-06 | 2024-11-27 | 2024-09-30 |
 | [xet-core](https://github.com/huggingface/xet-core) | xet client tech, used in huggingface_hub | Rust | 482 | Apache License 2.0 | 2024-09-10 | 2026-05-08 | 2026-05-08 |
 | [segment-anything-2](https://github.com/huggingface/segment-anything-2) | The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. | Jupyter Notebook | 92 | Apache License 2.0 | 2024-09-12 | 2026-04-03 | 2026-04-03 |
-| [picotron](https://github.com/huggingface/picotron) | Minimalistic 4D-parallelism distributed training framework for education purpose | Python | 2175 | Apache License 2.0 | 2024-09-18 | 2026-05-09 | 2025-08-26 |
+| [picotron](https://github.com/huggingface/picotron) | Minimalistic 4D-parallelism distributed training framework for education purpose | Python | 2176 | Apache License 2.0 | 2024-09-18 | 2026-05-10 | 2025-08-26 |
 | [fineVideo](https://github.com/huggingface/fineVideo) | None | Python | 97 | - | 2024-09-18 | 2026-04-14 | 2024-09-19 |
-| [chat-macOS](https://github.com/huggingface/chat-macOS) | Making the community's best AI chat models available to everyone. | Swift | 1973 | Apache License 2.0 | 2024-09-24 | 2026-05-09 | 2025-02-03 |
+| [chat-macOS](https://github.com/huggingface/chat-macOS) | Making the community's best AI chat models available to everyone. | Swift | 1974 | Apache License 2.0 | 2024-09-24 | 2026-05-11 | 2025-02-03 |
 | [llm-perf-backend](https://github.com/huggingface/llm-perf-backend) | Backend for the llm-perf leaderboard space | Python | 5 | - | 2024-09-24 | 2026-04-03 | 2026-04-03 |
-| [finetrainers](https://github.com/huggingface/finetrainers) | Scalable and memory-optimized training of diffusion models | Python | 1358 | Apache License 2.0 | 2024-09-25 | 2026-05-08 | 2026-04-08 |
+| [finetrainers](https://github.com/huggingface/finetrainers) | Scalable and memory-optimized training of diffusion models | Python | 1359 | Apache License 2.0 | 2024-09-25 | 2026-05-10 | 2026-04-08 |
 | [how-to-release-on-the-hub](https://github.com/huggingface/how-to-release-on-the-hub) | None | None | 3 | - | 2024-09-26 | 2025-11-17 | 2024-12-05 |
 | [dedupe_estimator](https://github.com/huggingface/dedupe_estimator) | Chunk Dedupe Estimation | C++ | 20 | BSD 3-Clause "New" or "Revised" License | 2024-09-26 | 2025-10-11 | 2024-11-05 |
 | [prettier-plugin-vertical-align](https://github.com/huggingface/prettier-plugin-vertical-align) | Align object properties and interface members vertically for JS/TS code | TypeScript | 16 | - | 2024-09-29 | 2026-03-09 | 2026-02-10 |
 | [Qwen2.5-Math](https://github.com/huggingface/Qwen2.5-Math) | A series of math-specific large language models of our Qwen2 series. | Python | 8 | - | 2024-10-06 | 2025-03-02 | 2025-01-06 |
-| [evaluation-guidebook](https://github.com/huggingface/evaluation-guidebook) | Sharing both practical insights and theoretical knowledge about LLM evaluation that we gathered while managing the Open LLM Leaderboard and designing lighteval! | Jupyter Notebook | 2106 | Other | 2024-10-09 | 2026-05-08 | 2025-12-03 |
-| [meshgen](https://github.com/huggingface/meshgen) | Use AI Agents directly in Blender. | Python | 871 | MIT License | 2024-10-14 | 2026-05-08 | 2026-04-02 |
+| [evaluation-guidebook](https://github.com/huggingface/evaluation-guidebook) | Sharing both practical insights and theoretical knowledge about LLM evaluation that we gathered while managing the Open LLM Leaderboard and designing lighteval! | Jupyter Notebook | 2107 | Other | 2024-10-09 | 2026-05-11 | 2025-12-03 |
+| [meshgen](https://github.com/huggingface/meshgen) | Use AI Agents directly in Blender. | Python | 872 | MIT License | 2024-10-14 | 2026-05-10 | 2026-04-02 |
 | [hugs-helm-chart](https://github.com/huggingface/hugs-helm-chart) | Official Helm Chart for HUGS | Smarty | 7 | - | 2024-10-17 | 2025-04-03 | 2024-11-27 |
 | [hugs-gcp-marketplace](https://github.com/huggingface/hugs-gcp-marketplace) | Asses and details for HUGS on GCP  | None | 0 | - | 2024-10-17 | 2024-10-17 | 2024-10-17 |
 | [hugs-docs](https://github.com/huggingface/hugs-docs) | Official Documentation for HUGS | None | 13 | - | 2024-10-18 | 2026-04-15 | 2026-04-17 |
@@ -280,27 +280,27 @@ Statistics Date: 2026-05-10 08:43:27
 | [videodatasetsrecipe](https://github.com/huggingface/videodatasetsrecipe) | None | Python | 3 | - | 2024-10-31 | 2026-03-27 | 2024-10-31 |
 | [smollm](https://github.com/huggingface/smollm) | Everything about the SmolLM and SmolVLM family of models  | Python | 3771 | Apache License 2.0 | 2024-11-04 | 2026-05-10 | 2026-04-02 |
 | [picotron_tutorial](https://github.com/huggingface/picotron_tutorial) | None | Python | 248 | - | 2024-11-15 | 2026-05-06 | 2025-11-24 |
-| [smol-course](https://github.com/huggingface/smol-course) | A course on aligning smol models. | Jupyter Notebook | 6639 | Apache License 2.0 | 2024-11-25 | 2026-05-10 | 2026-04-17 |
-| [kernels](https://github.com/huggingface/kernels) | Build compute kernels and load them from the Hub. | Python | 630 | Apache License 2.0 | 2024-11-29 | 2026-05-10 | 2026-05-08 |
+| [smol-course](https://github.com/huggingface/smol-course) | A course on aligning smol models. | Jupyter Notebook | 6641 | Apache License 2.0 | 2024-11-25 | 2026-05-11 | 2026-04-17 |
+| [kernels](https://github.com/huggingface/kernels) | Build compute kernels and load them from the Hub. | Python | 632 | Apache License 2.0 | 2024-11-29 | 2026-05-11 | 2026-05-11 |
 | [kernel-builder](https://github.com/huggingface/kernel-builder) | 👷 Build compute kernels | Nix | 213 | Other | 2024-12-02 | 2026-05-06 | 2026-04-06 |
 | [latex2sympy2_extended](https://github.com/huggingface/latex2sympy2_extended) | Parse LaTeX math expressions | Python | 40 | MIT License | 2024-12-03 | 2026-05-03 | 2026-01-10 |
 | [TensorRT-LLM](https://github.com/huggingface/TensorRT-LLM) | TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines. | C++ | 0 | Apache License 2.0 | 2024-12-04 | 2026-04-03 | 2026-04-03 |
 | [hf-rocm-kernels](https://github.com/huggingface/hf-rocm-kernels) | None | Python | 24 | Apache License 2.0 | 2024-12-05 | 2026-04-28 | 2026-04-07 |
-| [smolagents](https://github.com/huggingface/smolagents) | 🤗 smolagents: a barebones library for agents that think in code. | Python | 27190 | Apache License 2.0 | 2024-12-05 | 2026-05-10 | 2026-04-24 |
-| [fineweb-2](https://github.com/huggingface/fineweb-2) | None | Python | 238 | Apache License 2.0 | 2024-12-05 | 2026-04-28 | 2025-10-27 |
-| [search-and-learn](https://github.com/huggingface/search-and-learn) | Recipes to scale inference-time compute of open models | Python | 1131 | Apache License 2.0 | 2024-12-09 | 2026-05-08 | 2026-04-02 |
+| [smolagents](https://github.com/huggingface/smolagents) | 🤗 smolagents: a barebones library for agents that think in code. | Python | 27222 | Apache License 2.0 | 2024-12-05 | 2026-05-11 | 2026-04-24 |
+| [fineweb-2](https://github.com/huggingface/fineweb-2) | None | Python | 239 | Apache License 2.0 | 2024-12-05 | 2026-05-10 | 2025-10-27 |
+| [search-and-learn](https://github.com/huggingface/search-and-learn) | Recipes to scale inference-time compute of open models | Python | 1132 | Apache License 2.0 | 2024-12-09 | 2026-05-11 | 2026-04-02 |
 | [ember](https://github.com/huggingface/ember) | ANE accelerated embedding models! | Python | 19 | - | 2024-12-11 | 2026-05-06 | 2024-12-11 |
 | [feel](https://github.com/huggingface/feel) | None | Python | 14 | Apache License 2.0 | 2024-12-12 | 2026-04-08 | 2026-04-08 |
 | [video-dataset-scripts](https://github.com/huggingface/video-dataset-scripts) | Collection of scripts to build small-scale datasets for fine-tuning video generation models. | Python | 81 | - | 2024-12-15 | 2026-04-21 | 2025-03-17 |
 | [ProcessBench](https://github.com/huggingface/ProcessBench) | None | Python | 1 | - | 2025-01-08 | 2025-01-25 | 2025-01-09 |
 | [ai-blueprint](https://github.com/huggingface/ai-blueprint) | A blueprint for AI development, focusing on applied examples of RAG, information extraction, analysis and fine-tuning in the age of LLMs and agents. | Jupyter Notebook | 65 | Apache License 2.0 | 2025-01-14 | 2026-04-26 | 2025-02-06 |
-| [aisheets](https://github.com/huggingface/aisheets) | Build, enrich, and transform datasets using AI models with no code | TypeScript | 1630 | Apache License 2.0 | 2025-01-16 | 2026-05-06 | 2026-04-09 |
-| [agents-course](https://github.com/huggingface/agents-course) | This repository contains the Hugging Face Agents Course.  | MDX | 28508 | Apache License 2.0 | 2025-01-16 | 2026-05-10 | 2026-04-27 |
+| [aisheets](https://github.com/huggingface/aisheets) | Build, enrich, and transform datasets using AI models with no code | TypeScript | 1632 | Apache License 2.0 | 2025-01-16 | 2026-05-11 | 2026-04-09 |
+| [agents-course](https://github.com/huggingface/agents-course) | This repository contains the Hugging Face Agents Course.  | MDX | 28535 | Apache License 2.0 | 2025-01-16 | 2026-05-11 | 2026-04-27 |
 | [Math-Verify](https://github.com/huggingface/Math-Verify) | None | Python | 1141 | Apache License 2.0 | 2025-01-17 | 2026-05-10 | 2026-01-10 |
 | [gpu-fryer](https://github.com/huggingface/gpu-fryer) | Where GPUs get cooked 👩‍🍳🔥 | Rust | 387 | Apache License 2.0 | 2025-01-20 | 2026-05-08 | 2026-04-08 |
-| [optimum-executorch](https://github.com/huggingface/optimum-executorch) | 🤗 Optimum ExecuTorch | Python | 128 | Apache License 2.0 | 2025-01-21 | 2026-05-07 | 2026-04-15 |
+| [optimum-executorch](https://github.com/huggingface/optimum-executorch) | 🤗 Optimum ExecuTorch | Python | 129 | Apache License 2.0 | 2025-01-21 | 2026-05-11 | 2026-04-15 |
 | [dataset-dedupe-estimator](https://github.com/huggingface/dataset-dedupe-estimator) | parquet dedupe estimator | Jupyter Notebook | 26 | Apache License 2.0 | 2025-01-23 | 2026-05-02 | 2026-04-03 |
-| [open-r1](https://github.com/huggingface/open-r1) | Fully open reproduction of DeepSeek-R1 | Python | 26021 | Apache License 2.0 | 2025-01-24 | 2026-05-09 | 2026-04-02 |
+| [open-r1](https://github.com/huggingface/open-r1) | Fully open reproduction of DeepSeek-R1 | Python | 26020 | Apache License 2.0 | 2025-01-24 | 2026-05-11 | 2026-04-02 |
 | [dell-helm-chart](https://github.com/huggingface/dell-helm-chart) | Helm Chart for the Dell Enterprise Hub | Go Template | 5 | - | 2025-01-26 | 2026-04-07 | 2026-04-07 |
 | [yourbench](https://github.com/huggingface/yourbench) | 🤗 Benchmark Large Language Models Reliably On Your Data | HTML | 444 | Apache License 2.0 | 2025-01-27 | 2026-04-30 | 2026-04-02 |
 | [lor-e](https://github.com/huggingface/lor-e) | Issue bot for transformers  | Rust | 14 | - | 2025-01-28 | 2026-05-08 | 2026-04-02 |
@@ -319,14 +319,14 @@ Statistics Date: 2026-05-10 08:43:27
 | [llm-course](https://github.com/huggingface/llm-course) | A course on building Large Language Models | None | 13 | Apache License 2.0 | 2025-03-24 | 2026-04-05 | 2025-03-24 |
 | [trending-deploy](https://github.com/huggingface/trending-deploy) | None | Python | 11 | - | 2025-03-26 | 2026-03-17 | 2026-03-17 |
 | [gym-genesis](https://github.com/huggingface/gym-genesis) | A gym environment for GENESIS | Python | 39 | Apache License 2.0 | 2025-04-07 | 2026-04-30 | 2025-09-21 |
-| [gym-hil](https://github.com/huggingface/gym-hil) | Human in the loop Reinforcement Learning suite | Python | 220 | Apache License 2.0 | 2025-04-09 | 2026-05-01 | 2026-04-07 |
+| [gym-hil](https://github.com/huggingface/gym-hil) | Human in the loop Reinforcement Learning suite | Python | 221 | Apache License 2.0 | 2025-04-09 | 2026-05-11 | 2026-04-07 |
 | [metadata-sniffer](https://github.com/huggingface/metadata-sniffer) | None | Python | 2 | - | 2025-04-09 | 2026-04-02 | 2026-04-02 |
 | [candle-extensions](https://github.com/huggingface/candle-extensions) | None | C++ | 2 | - | 2025-04-14 | 2025-05-08 | 2026-03-13 |
 | [dell-ai](https://github.com/huggingface/dell-ai) | The official Python SDK and CLI for the Dell Enterprise Hub | Python | 8 | Apache License 2.0 | 2025-04-15 | 2026-04-06 | 2026-04-06 |
 | [wikirace-llms](https://github.com/huggingface/wikirace-llms) | None | TypeScript | 27 | - | 2025-04-30 | 2026-04-07 | 2025-05-07 |
-| [nanoVLM](https://github.com/huggingface/nanoVLM) | The simplest, fastest repository for training/finetuning small-sized VLMs. | Python | 4858 | Apache License 2.0 | 2025-05-02 | 2026-05-09 | 2025-10-27 |
-| [mcp-course](https://github.com/huggingface/mcp-course) | None | MDX | 898 | Apache License 2.0 | 2025-05-05 | 2026-05-07 | 2026-04-26 |
-| [hf-mcp-server](https://github.com/huggingface/hf-mcp-server) | Hugging Face MCP Server | TypeScript | 234 | MIT License | 2025-05-06 | 2026-05-08 | 2026-05-06 |
+| [nanoVLM](https://github.com/huggingface/nanoVLM) | The simplest, fastest repository for training/finetuning small-sized VLMs. | Python | 4859 | Apache License 2.0 | 2025-05-02 | 2026-05-11 | 2025-10-27 |
+| [mcp-course](https://github.com/huggingface/mcp-course) | None | MDX | 899 | Apache License 2.0 | 2025-05-05 | 2026-05-10 | 2026-04-26 |
+| [hf-mcp-server](https://github.com/huggingface/hf-mcp-server) | Hugging Face MCP Server | TypeScript | 236 | MIT License | 2025-05-06 | 2026-05-11 | 2026-05-06 |
 | [trl-tuto](https://github.com/huggingface/trl-tuto) | None | Jupyter Notebook | 52 | - | 2025-05-06 | 2026-01-14 | 2026-02-20 |
 | [mergekit](https://github.com/huggingface/mergekit) | Tools for merging pretrained large language models. | Python | 3 | GNU Lesser General Public License v3.0 | 2025-05-09 | 2026-04-07 | 2026-04-07 |
 | [chat-template-playground](https://github.com/huggingface/chat-template-playground) | Chat Template Playground for testing & debugging | TypeScript | 12 | - | 2025-05-13 | 2026-05-08 | 2026-05-08 |
@@ -336,14 +336,14 @@ Statistics Date: 2026-05-10 08:43:27
 | [optimum-onnx](https://github.com/huggingface/optimum-onnx) | 🤗 Optimum ONNX: Export your model to ONNX and run inference with ONNX Runtime | Python | 146 | Apache License 2.0 | 2025-06-03 | 2026-05-07 | 2026-05-07 |
 | [Multi-IF](https://github.com/huggingface/Multi-IF) | The evaluation code for MultiIF multi-turn and multi-lingual instruction following | None | 0 | Apache License 2.0 | 2025-06-05 | 2025-06-05 | 2025-07-01 |
 | [hugex](https://github.com/huggingface/hugex) | Coding agent user interface | TypeScript | 10 | - | 2025-06-05 | 2026-02-16 | 2025-06-05 |
-| [Microsoft-Azure](https://github.com/huggingface/Microsoft-Azure) | Hugging Face on Microsoft Azure (documentation, examples and more) | Makefile | 14 | Apache License 2.0 | 2025-06-10 | 2026-04-25 | 2026-05-04 |
+| [Microsoft-Azure](https://github.com/huggingface/Microsoft-Azure) | Hugging Face on Microsoft Azure (documentation, examples and more) | Makefile | 15 | Apache License 2.0 | 2025-06-10 | 2026-05-10 | 2026-05-04 |
 | [vllm-dca](https://github.com/huggingface/vllm-dca) | A high-throughput and memory-efficient inference and serving engine for LLMs | None | 1 | Apache License 2.0 | 2025-06-11 | 2025-12-21 | 2025-01-26 |
 | [better-auth](https://github.com/huggingface/better-auth) | The most comprehensive authentication framework for TypeScript | TypeScript | 0 | MIT License | 2025-06-19 | 2026-04-08 | 2026-04-08 |
-| [large-scale-image-deduplication](https://github.com/huggingface/large-scale-image-deduplication) | None | Python | 202 | - | 2025-06-25 | 2026-05-04 | 2025-07-18 |
-| [huggingface-gemma-recipes](https://github.com/huggingface/huggingface-gemma-recipes) | Inference, Fine Tuning and many more recipes with Gemma family of models | Jupyter Notebook | 298 | MIT License | 2025-06-26 | 2026-05-10 | 2026-04-02 |
+| [large-scale-image-deduplication](https://github.com/huggingface/large-scale-image-deduplication) | None | Python | 203 | - | 2025-06-25 | 2026-05-11 | 2025-07-18 |
+| [huggingface-gemma-recipes](https://github.com/huggingface/huggingface-gemma-recipes) | Inference, Fine Tuning and many more recipes with Gemma family of models | Jupyter Notebook | 299 | MIT License | 2025-06-26 | 2026-05-11 | 2026-04-02 |
 | [arena-hard-auto](https://github.com/huggingface/arena-hard-auto) | Arena-Hard-Auto: An automatic LLM benchmark.  | None | 0 | Apache License 2.0 | 2025-06-28 | 2025-06-28 | 2025-06-21 |
-| [datasets-course](https://github.com/huggingface/datasets-course) | A course on building and sharing AI datasets | MDX | 11 | Apache License 2.0 | 2025-07-02 | 2026-04-25 | 2026-04-17 |
-| [101-course](https://github.com/huggingface/101-course) | A course on Hugging Face land | None | 36 | Apache License 2.0 | 2025-07-02 | 2026-04-25 | 2026-04-17 |
+| [datasets-course](https://github.com/huggingface/datasets-course) | A course on building and sharing AI datasets | MDX | 12 | Apache License 2.0 | 2025-07-02 | 2026-05-10 | 2026-04-17 |
+| [101-course](https://github.com/huggingface/101-course) | A course on Hugging Face land | None | 37 | Apache License 2.0 | 2025-07-02 | 2026-05-10 | 2026-04-17 |
 | [responses.js](https://github.com/huggingface/responses.js) | A lightweight express.js server implementing OpenAI’s Responses API, built on top of Chat Completions, powered by Hugging Face Inference Providers. | TypeScript | 229 | MIT License | 2025-07-02 | 2026-05-08 | 2026-04-07 |
 | [lora-fast](https://github.com/huggingface/lora-fast) | Minimal repository to demonstrate fast LoRA inference with Flux family of models. | Python | 32 | Apache License 2.0 | 2025-07-04 | 2026-05-05 | 2025-07-23 |
 | [screenenv](https://github.com/huggingface/screenenv) | A powerful Python library for creating and managing isolated desktop environments using Docker containers. | Python | 451 | MIT License | 2025-07-07 | 2026-05-09 | 2026-04-02 |
@@ -356,10 +356,10 @@ Statistics Date: 2026-05-10 08:43:27
 | [egl_probe](https://github.com/huggingface/egl_probe) | A helpful module for listing available GPUs for EGL rendering. | C | 0 | MIT License | 2025-08-04 | 2025-11-04 | 2025-11-04 |
 | [smol2operator](https://github.com/huggingface/smol2operator) | None | Python | 132 | - | 2025-08-14 | 2026-05-07 | 2025-09-23 |
 | [candle_wax](https://github.com/huggingface/candle_wax) | A testing ground for candle storage generics. | Rust | 3 | - | 2025-08-20 | 2026-05-08 | 2025-09-30 |
-| [finephrase](https://github.com/huggingface/finephrase) | Synthetic pretraining data by rephrasing the web | Python | 13 | - | 2025-08-25 | 2026-05-09 | 2026-04-13 |
+| [finephrase](https://github.com/huggingface/finephrase) | Synthetic pretraining data by rephrasing the web | Python | 14 | - | 2025-08-25 | 2026-05-11 | 2026-04-13 |
 | [mcp-bench](https://github.com/huggingface/mcp-bench) | MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World Tasks via MCP Servers | Python | 5 | - | 2025-09-02 | 2026-02-16 | 2025-09-12 |
-| [huggingface-vscode-chat](https://github.com/huggingface/huggingface-vscode-chat) | A VSCode extension to use Hugging Face Inference Providers in Copilot Chat | TypeScript | 75 | MIT License | 2025-09-02 | 2026-05-06 | 2026-04-07 |
-| [lerobot-dataset-visualizer](https://github.com/huggingface/lerobot-dataset-visualizer) | Web application for visualizing robotics datasets in LeRobot format | TypeScript | 80 | Apache License 2.0 | 2025-09-03 | 2026-05-09 | 2026-05-08 |
+| [huggingface-vscode-chat](https://github.com/huggingface/huggingface-vscode-chat) | A VSCode extension to use Hugging Face Inference Providers in Copilot Chat | TypeScript | 76 | MIT License | 2025-09-02 | 2026-05-11 | 2026-04-07 |
+| [lerobot-dataset-visualizer](https://github.com/huggingface/lerobot-dataset-visualizer) | Web application for visualizing robotics datasets in LeRobot format | TypeScript | 81 | Apache License 2.0 | 2025-09-03 | 2026-05-11 | 2026-05-08 |
 | [jupyter-agent](https://github.com/huggingface/jupyter-agent) | Training LLMs to reason and analyze data with notebooks | Python | 70 | - | 2025-09-09 | 2026-05-09 | 2025-09-10 |
 | [lerobot-libero](https://github.com/huggingface/lerobot-libero) | A fork of the official LIBERO benchmark, extended for Hugging Face’s LeRobot  integration and large-scale robotics experiments. | Jupyter Notebook | 18 | MIT License | 2025-09-14 | 2026-05-05 | 2025-11-03 |
 | [robotics-course](https://github.com/huggingface/robotics-course) | A course on robotics by Hugging Face using LeRobot. | MDX | 117 | - | 2025-09-16 | 2026-04-30 | 2025-12-12 |
@@ -369,61 +369,61 @@ Statistics Date: 2026-05-10 08:43:27
 | [faq](https://github.com/huggingface/faq) | FAQ about Hugging Face and Open Source | None | 12 | - | 2025-09-25 | 2026-02-24 | 2025-11-06 |
 | [inference-providers-starter-app](https://github.com/huggingface/inference-providers-starter-app) | None | TypeScript | 16 | - | 2025-09-26 | 2025-12-22 | 2025-10-21 |
 | [AnyLanguageModel](https://github.com/huggingface/AnyLanguageModel) | An API-compatible, drop-in replacement for Apple's Foundation Models framework with support for custom language model providers. | Swift | 845 | Apache License 2.0 | 2025-10-05 | 2026-05-08 | 2026-03-24 |
-| [kernels-community](https://github.com/huggingface/kernels-community) | Kernel sources for https://huggingface.co/kernels-community | C++ | 108 | - | 2025-10-07 | 2026-05-09 | 2026-05-08 |
+| [kernels-community](https://github.com/huggingface/kernels-community) | Kernel sources for https://huggingface.co/kernels-community | C++ | 108 | - | 2025-10-07 | 2026-05-09 | 2026-05-11 |
 | [swift-huggingface](https://github.com/huggingface/swift-huggingface) | A Swift client for Hugging Face Hub and Inference Providers APIs | Swift | 157 | Apache License 2.0 | 2025-10-09 | 2026-05-08 | 2026-03-16 |
 | [homebrew-tap](https://github.com/huggingface/homebrew-tap) | The homebrew tap of Hugging Face tools | Ruby | 1 | - | 2025-10-15 | 2026-03-23 | 2025-11-26 |
 | [finepdfs](https://github.com/huggingface/finepdfs) | Codebase for FinePDFs | Python | 182 | Other | 2025-10-17 | 2026-05-08 | 2026-01-09 |
 | [VLAb](https://github.com/huggingface/VLAb) | None | Python | 173 | Other | 2025-10-29 | 2026-05-09 | 2025-11-19 |
 | [security-workflows](https://github.com/huggingface/security-workflows) | Centralized security workflows: CodeQL analysis, Octoscan, and permissions auditing for all repositories | None | 4 | - | 2025-10-30 | 2026-02-16 | 2026-01-09 |
 | [DeepEP](https://github.com/huggingface/DeepEP) | DeepEP: an efficient expert-parallel communication library | None | 0 | MIT License | 2025-10-30 | 2025-10-30 | 2025-10-30 |
-| [ml-intern](https://github.com/huggingface/ml-intern) | 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models | Python | 9126 | Apache License 2.0 | 2025-10-30 | 2026-05-10 | 2026-05-08 |
+| [ml-intern](https://github.com/huggingface/ml-intern) | 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models | Python | 9197 | Apache License 2.0 | 2025-10-30 | 2026-05-11 | 2026-05-11 |
 | [tokenizers.js](https://github.com/huggingface/tokenizers.js) | 🤗 Tokenizers.js: A pure JS/TS implementation of today's most used tokenizers | TypeScript | 49 | Apache License 2.0 | 2025-10-31 | 2026-04-20 | 2026-04-30 |
 | [LIBERO](https://github.com/huggingface/LIBERO) | Benchmarking Knowledge Transfer in Lifelong Robot Learning | Jupyter Notebook | 0 | MIT License | 2025-11-03 | 2025-11-03 | 2025-11-03 |
 | [PipelineRL](https://github.com/huggingface/PipelineRL) | A scalable asynchronous reinforcement learning implementation with in-flight weight updates. | Python | 4 | Apache License 2.0 | 2025-11-04 | 2026-03-12 | 2025-11-24 |
 | [pipeline-rl-cmu](https://github.com/huggingface/pipeline-rl-cmu) | None | Python | 2 | Apache License 2.0 | 2025-11-04 | 2026-01-10 | 2025-11-14 |
-| [skills](https://github.com/huggingface/skills) | Give your agents the power of the Hugging Face ecosystem | Python | 10420 | Apache License 2.0 | 2025-11-24 | 2026-05-10 | 2026-05-08 |
+| [skills](https://github.com/huggingface/skills) | Give your agents the power of the Hugging Face ecosystem | Python | 10451 | Apache License 2.0 | 2025-11-24 | 2026-05-11 | 2026-05-11 |
 | [hub-tutorials](https://github.com/huggingface/hub-tutorials) | None | Jupyter Notebook | 33 | - | 2025-12-02 | 2026-04-27 | 2026-02-16 |
 | [publish-to-the-kernel-hub-action](https://github.com/huggingface/publish-to-the-kernel-hub-action) | None | TypeScript | 3 | - | 2025-12-10 | 2026-02-16 | 2026-01-07 |
 | [gpu-mode-openenv](https://github.com/huggingface/gpu-mode-openenv) | A repo of resource for the GPU Mode talk on OpenEnv. | None | 17 | Apache License 2.0 | 2026-01-08 | 2026-04-08 | 2026-01-14 |
 | [finetranslations](https://github.com/huggingface/finetranslations) | Source code for the FineTranslations dataset | Python | 9 | - | 2026-01-09 | 2026-02-16 | 2026-01-09 |
 | [swift-xet](https://github.com/huggingface/swift-xet) | A Swift implementation of the Xet protocol | Swift | 25 | Apache License 2.0 | 2026-01-13 | 2026-03-25 | 2026-03-23 |
 | [community-evals](https://github.com/huggingface/community-evals) | A repository for tooling for the community to evaluate open source models.  | Python | 15 | Apache License 2.0 | 2026-01-14 | 2026-04-09 | 2026-03-23 |
-| [upskill](https://github.com/huggingface/upskill) | Generate and evaluate agent skills for code agents like Claude Code, Open Code, OpenAI Codex | Python | 524 | Apache License 2.0 | 2026-01-21 | 2026-05-09 | 2026-05-04 |
+| [upskill](https://github.com/huggingface/upskill) | Generate and evaluate agent skills for code agents like Claude Code, Open Code, OpenAI Codex | Python | 530 | Apache License 2.0 | 2026-01-21 | 2026-05-11 | 2026-05-04 |
 | [lerobot-annotate](https://github.com/huggingface/lerobot-annotate) | Lightweight web UI for annotating LeRobot datasets | Python | 23 | - | 2026-01-22 | 2026-05-08 | 2026-01-29 |
 | [hub-sync](https://github.com/huggingface/hub-sync) | A GitHub Action that syncs your GitHub repository to Hugging Face Hub 🤗 | None | 19 | Apache License 2.0 | 2026-02-03 | 2026-05-08 | 2026-02-20 |
-| [transformers-test-ci](https://github.com/huggingface/transformers-test-ci) | None | Python | 0 | Apache License 2.0 | 2026-02-05 | 2026-04-30 | 2026-05-06 |
+| [transformers-test-ci](https://github.com/huggingface/transformers-test-ci) | None | Python | 0 | Apache License 2.0 | 2026-02-05 | 2026-05-11 | 2026-05-11 |
 | [containerd](https://github.com/huggingface/containerd) | An open and reliable container runtime | None | 1 | Apache License 2.0 | 2026-02-12 | 2026-02-16 | 2026-04-14 |
 | [deep-learning-containers](https://github.com/huggingface/deep-learning-containers) |  One stop shop for running AI/ML on AWS. | Python | 1 | Other | 2026-02-17 | 2026-02-25 | 2026-02-25 |
-| [hf-mount](https://github.com/huggingface/hf-mount) | Mount Hugging Face Buckets and repos as local filesystems. No download, no copy, no waiting. | Rust | 725 | Apache License 2.0 | 2026-03-01 | 2026-05-10 | 2026-05-07 |
+| [hf-mount](https://github.com/huggingface/hf-mount) | Mount Hugging Face Buckets and repos as local filesystems. No download, no copy, no waiting. | Rust | 725 | Apache License 2.0 | 2026-03-01 | 2026-05-11 | 2026-05-11 |
 | [hf-csi-driver](https://github.com/huggingface/hf-csi-driver) | CSI driver for mounting HuggingFace Buckets and Repos as FUSE filesystems | Go | 4 | Apache License 2.0 | 2026-03-04 | 2026-04-26 | 2026-04-25 |
 | [slime](https://github.com/huggingface/slime) | slime is an LLM post-training framework for RL Scaling. | None | 0 | Apache License 2.0 | 2026-03-05 | 2026-03-05 | 2026-03-16 |
 | [labbench2](https://github.com/huggingface/labbench2) | labbench2 | Python | 1 | Creative Commons Attribution Share Alike 4.0 International | 2026-03-05 | 2026-03-20 | 2026-03-20 |
 | [openenv-course](https://github.com/huggingface/openenv-course) | None | Jupyter Notebook | 84 | - | 2026-03-05 | 2026-05-03 | 2026-03-23 |
-| [vllm-xet-loader](https://github.com/huggingface/vllm-xet-loader) | vLLM zero-copy model loader via xet CAS | Python | 3 | - | 2026-03-09 | 2026-03-11 | 2026-03-10 |
+| [vllm-xet-loader](https://github.com/huggingface/vllm-xet-loader) | vLLM zero-copy model loader via xet CAS | Python | 5 | - | 2026-03-09 | 2026-05-10 | 2026-03-10 |
 | [inspect_evals](https://github.com/huggingface/inspect_evals) | Collection of evals for Inspect AI | Python | 1 | MIT License | 2026-03-09 | 2026-04-25 | 2026-05-07 |
 | [prime-rl](https://github.com/huggingface/prime-rl) | Async RL Training at Scale | None | 0 | Apache License 2.0 | 2026-03-12 | 2026-03-12 | 2026-03-19 |
 | [hf-skills](https://github.com/huggingface/hf-skills) | Simple CLI Skill Installer/Updater for Hugging Face Skills | Python | 1 | MIT License | 2026-03-12 | 2026-03-25 | 2026-03-13 |
-| [AReaL](https://github.com/huggingface/AReaL) | Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible. | Python | 0 | Apache License 2.0 | 2026-03-13 | 2026-03-16 | 2026-03-16 |
+| [AReaL](https://github.com/huggingface/AReaL) | Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible. | Python | 0 | Apache License 2.0 | 2026-03-13 | 2026-05-11 | 2026-03-16 |
 | [huggingface_hub_rust](https://github.com/huggingface/huggingface_hub_rust) | Comprehensive Hugging Face Hub Library for rust | Rust | 21 | Apache License 2.0 | 2026-03-14 | 2026-05-08 | 2026-04-27 |
 | [hf-agents](https://github.com/huggingface/hf-agents) | HF CLI extension to run local coding agent powered by llmfit and llama.cpp | Shell | 408 | Apache License 2.0 | 2026-03-16 | 2026-05-08 | 2026-03-25 |
 | [cuda-toolkit](https://github.com/huggingface/cuda-toolkit) | GitHub Action to install CUDA | TypeScript | 0 | MIT License | 2026-03-17 | 2026-03-17 | 2026-03-17 |
-| [swarm-sweeper](https://github.com/huggingface/swarm-sweeper) | None | Python | 4 | - | 2026-03-20 | 2026-05-01 | 2026-04-20 |
+| [swarm-sweeper](https://github.com/huggingface/swarm-sweeper) | None | Python | 5 | - | 2026-03-20 | 2026-05-10 | 2026-04-20 |
 | [grout](https://github.com/huggingface/grout) | Testbed for LLM inference with cutile-rs. | Rust | 20 | Apache License 2.0 | 2026-03-25 | 2026-05-08 | 2026-05-08 |
 | [hf-inference](https://github.com/huggingface/hf-inference) | CLI extension for `hf` to run inference with Hugging Face Inference Providers. | Python | 2 | Apache License 2.0 | 2026-03-30 | 2026-04-09 | 2026-03-30 |
 | [arxiv-robotics-sustainability-classification](https://github.com/huggingface/arxiv-robotics-sustainability-classification) | Automated pipeline for classifying ArXiv robotics papers with respect to their sustainability awareness | Python | 1 | - | 2026-04-08 | 2026-04-15 | 2026-04-08 |
 | [Automodel](https://github.com/huggingface/Automodel) | 🚀 Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support | Python | 0 | Apache License 2.0 | 2026-04-09 | 2026-04-10 | 2026-04-10 |
 | [nemo-rl](https://github.com/huggingface/nemo-rl) | Scalable toolkit for efficient model reinforcement | None | 0 | Apache License 2.0 | 2026-04-09 | 2026-04-09 | 2026-04-28 |
-| [transformers-to-mlx](https://github.com/huggingface/transformers-to-mlx) | Agent Skill to help convert transformer LLMs to mlx-lm | Python | 22 | - | 2026-04-15 | 2026-05-08 | 2026-04-16 |
+| [transformers-to-mlx](https://github.com/huggingface/transformers-to-mlx) | Agent Skill to help convert transformer LLMs to mlx-lm | Python | 22 | - | 2026-04-15 | 2026-05-11 | 2026-04-16 |
 | [transformers-mlinter](https://github.com/huggingface/transformers-mlinter) | Lint modeling, modular, and configuration files for structural conventions | Python | 3 | Apache License 2.0 | 2026-04-16 | 2026-05-06 | 2026-05-06 |
 | [pr-search-cli](https://github.com/huggingface/pr-search-cli) | CLI for accessing PR Similarity Search for Agent PR management | Python | 2 | MIT License | 2026-04-16 | 2026-05-01 | 2026-04-19 |
-| [context-course](https://github.com/huggingface/context-course) | A course on context engineering with code agents. | Python | 24 | - | 2026-04-17 | 2026-05-10 | 2026-05-05 |
+| [context-course](https://github.com/huggingface/context-course) | A course on context engineering with code agents. | Python | 27 | - | 2026-04-17 | 2026-05-11 | 2026-05-05 |
 | [transformers-ci](https://github.com/huggingface/transformers-ci) | CI tools for Transformers | Python | 0 | - | 2026-04-21 | 2026-05-05 | 2026-05-05 |
 | [mlintern-plugin](https://github.com/huggingface/mlintern-plugin) | None | JavaScript | 4 | - | 2026-04-22 | 2026-05-01 | 2026-04-26 |
 | [is-transformers-agentic-enough](https://github.com/huggingface/is-transformers-agentic-enough) | None | Python | 5 | Apache License 2.0 | 2026-04-22 | 2026-04-29 | 2026-04-28 |
 | [post-training-takehome](https://github.com/huggingface/post-training-takehome) | Hugging Face's take home challenge for post-training internships, now open for you to try! | None | 48 | - | 2026-04-23 | 2026-05-05 | 2026-04-23 |
 | [hlh-server](https://github.com/huggingface/hlh-server) | None | Python | 1 | - | 2026-04-24 | 2026-04-26 | 2026-04-26 |
 | [fuser](https://github.com/huggingface/fuser) | None | Rust | 2 | MIT License | 2026-04-25 | 2026-05-08 | 2026-05-04 |
-| [hf-sandbox](https://github.com/huggingface/hf-sandbox) | Modal-style sandbox API on top of Hugging Face Jobs | Python | 16 | - | 2026-04-27 | 2026-05-08 | 2026-04-27 |
+| [hf-sandbox](https://github.com/huggingface/hf-sandbox) | Modal-style sandbox API on top of Hugging Face Jobs | Python | 98 | - | 2026-04-27 | 2026-05-11 | 2026-05-10 |
 | [migrate-to-kernel-repo-tool](https://github.com/huggingface/migrate-to-kernel-repo-tool) | A small cli tool to migrate a kernels in model type repo to kernel type repos | Python | 0 | - | 2026-04-27 | 2026-04-28 | 2026-04-27 |
 | [leLab](https://github.com/huggingface/leLab) | A web UI interface on top of lerobot | TypeScript | 1 | Apache License 2.0 | 2026-04-29 | 2026-05-07 | 2026-05-07 |
-| [nanowhale](https://github.com/huggingface/nanowhale) | None | Python | 316 | - | 2026-05-04 | 2026-05-10 | 2026-05-04 |
+| [nanowhale](https://github.com/huggingface/nanowhale) | None | Python | 331 | - | 2026-05-04 | 2026-05-11 | 2026-05-04 |
