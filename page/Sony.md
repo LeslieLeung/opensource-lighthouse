@@ -1,15 +1,15 @@
 # Sony
 
-共 139 个项目，近半年内活跃项目 40 个，1 个团队， 18153 个 Star。
+共 140 个项目，近半年内活跃项目 41 个，1 个团队， 18155 个 Star。
 
 语言 Top 3：Python, JavaScript, C++
 
-统计时间：2026-05-22 09:14:36
+统计时间：2026-05-23 08:48:26
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3610 | MIT License | 2015-05-29 | 2026-05-22 | 2026-02-07 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4376 | MIT License | 2015-05-29 | 2026-05-21 | 2026-02-12 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4375 | MIT License | 2015-05-29 | 2026-05-23 | 2026-02-12 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 419 | MIT License | 2015-09-18 | 2026-05-04 | 2020-12-29 |
@@ -79,7 +79,7 @@
 | [NeISF](https://github.com/sony/NeISF) | None | Python | 24 | Other | 2024-06-04 | 2026-05-11 | 2025-05-15 |
 | [nnc-desktop](https://github.com/sony/nnc-desktop) | None | TypeScript | 22 | Apache License 2.0 | 2024-06-04 | 2026-04-21 | 2025-06-30 |
 | [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 101 | MIT License | 2024-06-04 | 2026-02-27 | 2025-03-31 |
-| [silentcipher](https://github.com/sony/silentcipher) | None | Python | 92 | MIT License | 2024-06-05 | 2026-05-21 | 2024-07-22 |
+| [silentcipher](https://github.com/sony/silentcipher) | None | Python | 93 | MIT License | 2024-06-05 | 2026-05-22 | 2024-07-22 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 23 | MIT License | 2024-07-09 | 2026-04-28 | 2025-06-09 |
 | [genwarp](https://github.com/sony/genwarp) | None | Python | 308 | MIT License | 2024-08-06 | 2026-05-07 | 2024-09-26 |
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 56 | MIT License | 2024-09-05 | 2026-03-30 | 2024-11-05 |
@@ -101,7 +101,7 @@
 | [DFM](https://github.com/sony/DFM) | None | JavaScript | 0 | - | 2025-02-12 | 2025-02-24 | 2025-02-24 |
 | [QuietWalk](https://github.com/sony/QuietWalk) | None | JavaScript | 1 | - | 2025-02-12 | 2026-05-20 | 2025-02-23 |
 | [talkhier](https://github.com/sony/talkhier) | Official Repo for The Paper "Talk Structurally, Act Hierarchically: A Collaborative Framework for LLM Multi-Agent Systems" | Python | 62 | Other | 2025-02-13 | 2026-04-22 | 2025-02-24 |
-| [aki](https://github.com/sony/aki) | Official implementation of "Seeing is Understanding: Unlocking Causal Attention into Modality-Mutual Attention for Multimodal LLMs" | Python | 20 | Other | 2025-02-13 | 2026-05-11 | 2026-05-11 |
+| [aki](https://github.com/sony/aki) | Official implementation of "Seeing is Understanding: Unlocking Causal Attention into Modality-Mutual Attention for Multimodal LLMs" | Python | 21 | Other | 2025-02-13 | 2026-05-22 | 2026-05-11 |
 | [vct](https://github.com/sony/vct) | None | Jupyter Notebook | 21 | MIT License | 2025-02-14 | 2026-03-11 | 2026-02-24 |
 | [EXID](https://github.com/sony/EXID) | Official implementation of Enhancing Generalization of Offline RL in Data-Limited Settings with Heuristic Rules (Accepted in IEEE TRANSACTIONS ON ARTIFICIAL INTELLIGENCE 2025) | Jupyter Notebook | 0 | MIT License | 2025-02-19 | 2025-02-27 | 2025-02-20 |
 | [humangif](https://github.com/sony/humangif) | None | Python | 1 | MIT License | 2025-02-25 | 2025-06-16 | 2025-02-27 |
@@ -114,7 +114,7 @@
 | [SIoT-Majipro](https://github.com/sony/SIoT-Majipro) | None | C | 0 | Apache License 2.0 | 2025-05-09 | 2025-11-25 | 2025-11-25 |
 | [sbctm](https://github.com/sony/sbctm) | Schrödinger bridge consistency trajectory models for speech enhancement | Python | 12 | Other | 2025-05-09 | 2026-05-13 | 2025-10-01 |
 | [oil](https://github.com/sony/oil) | Official Repo for The Paper "Auto-Bidding in Real-Time Auctions via Oracle Imitation Learning" (KDD'25, Research Track) | Python | 5 | MIT License | 2025-05-23 | 2026-03-06 | 2025-05-23 |
-| [neural-network-console](https://github.com/sony/neural-network-console) | None | C++ | 37 | Apache License 2.0 | 2025-05-29 | 2026-05-15 | 2025-09-11 |
+| [neural-network-console](https://github.com/sony/neural-network-console) | None | C++ | 38 | Apache License 2.0 | 2025-05-29 | 2026-05-23 | 2025-09-11 |
 | [NeISFpp](https://github.com/sony/NeISFpp) | None | Python | 3 | Other | 2025-06-09 | 2025-12-26 | 2025-07-25 |
 | [SIoT-Pwrmod](https://github.com/sony/SIoT-Pwrmod) | None | C | 0 | BSD 3-Clause "New" or "Revised" License | 2025-06-25 | 2025-11-27 | 2025-11-27 |
 | [BannerAgency](https://github.com/sony/BannerAgency) |  The official repo for BannerAgency: Advertising Banner Design with Multimodal LLM Agents | Python | 21 | MIT License | 2025-07-01 | 2026-05-16 | 2025-08-21 |
@@ -147,3 +147,4 @@
 | [MSA-bench](https://github.com/sony/MSA-bench) | Pytorch implementation of "Do Foundational Audio Encoders Understand Music Structure?" presented in ICASSP 2026. | Python | 3 | MIT License | 2026-01-21 | 2026-05-06 | 2026-04-10 |
 | [virtue](https://github.com/sony/virtue) | Official implementation of "VIRTUE: Visual-Interactive Text-Image Universal Embedder (ICLR 2026)" | Python | 5 | Apache License 2.0 | 2026-01-29 | 2026-04-10 | 2026-02-19 |
 | [B3-Seg-project](https://github.com/sony/B3-Seg-project) | None | None | 3 | - | 2026-02-18 | 2026-05-22 | 2026-05-22 |
+| [mucs](https://github.com/sony/mucs) | Code for the paper “Training Data Attribution in Diffusion Models via Mirrored Unlearning and Noise-Consistent Skew” | Python | 0 | Apache License 2.0 | 2026-05-22 | 2026-05-22 | 2026-05-22 |
