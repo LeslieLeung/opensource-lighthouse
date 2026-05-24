@@ -1,28 +1,28 @@
 # Vercel
 
-A total of 233 projects, 123 active projects in the last six months, 1 teams, and 515200 stars.
+A total of 233 projects, 123 active projects in the last six months, 1 teams, and 515259 stars.
 
 Top 3 Languages: TypeScript, JavaScript, Go
 
-Statistics Date: 2026-05-23 08:48:26
+Statistics Date: 2026-05-24 08:58:34
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [ms](https://github.com/vercel/ms) | Tiny millisecond conversion utility | TypeScript | 5524 | MIT License | 2012-03-08 | 2026-05-20 | 2026-05-20 |
+| [ms](https://github.com/vercel/ms) | Tiny millisecond conversion utility | TypeScript | 5525 | MIT License | 2012-03-08 | 2026-05-23 | 2026-05-20 |
 | [micro](https://github.com/vercel/micro) | Asynchronous HTTP microservices | TypeScript | 10615 | MIT License | 2016-01-23 | 2026-05-22 | 2026-05-21 |
 | [test-listen](https://github.com/vercel/test-listen) | Quick ephemeral URLs for your tests | JavaScript | 158 | MIT License | 2016-02-05 | 2026-05-10 | 2023-07-20 |
 | [async-retry](https://github.com/vercel/async-retry) | Retrying made simple, easy and async | JavaScript | 1918 | MIT License | 2016-02-29 | 2026-05-21 | 2023-07-19 |
 | [uid-promise](https://github.com/vercel/uid-promise) | Creates a cryptographically strong UID | TypeScript | 261 | MIT License | 2016-03-07 | 2026-05-22 | 2026-05-22 |
 | [react-keyframes](https://github.com/vercel/react-keyframes) | Create frame-based animations in React | TypeScript | 628 | MIT License | 2016-03-13 | 2026-05-13 | 2023-07-18 |
-| [serve](https://github.com/vercel/serve) | Static file serving and directory listing | TypeScript | 9853 | MIT License | 2016-04-27 | 2026-05-22 | 2026-05-21 |
+| [serve](https://github.com/vercel/serve) | Static file serving and directory listing | TypeScript | 9854 | MIT License | 2016-04-27 | 2026-05-23 | 2026-05-21 |
 | [email-prompt](https://github.com/vercel/email-prompt) | CLI email prompt with autocompletion and built-in validation | JavaScript | 279 | MIT License | 2016-05-22 | 2026-05-21 | 2023-03-04 |
-| [hyper](https://github.com/vercel/hyper) | A terminal built on web technologies | TypeScript | 44593 | MIT License | 2016-07-01 | 2026-05-23 | 2026-05-21 |
+| [hyper](https://github.com/vercel/hyper) | A terminal built on web technologies | TypeScript | 44593 | MIT License | 2016-07-01 | 2026-05-24 | 2026-05-21 |
 | [hyperpower](https://github.com/vercel/hyperpower) | Hyper particle effects extension | JavaScript | 638 | MIT License | 2016-07-13 | 2026-05-13 | 2023-03-03 |
 | [hyperyellow](https://github.com/vercel/hyperyellow) | Example theme for hyperterm | JavaScript | 96 | MIT License | 2016-07-16 | 2026-05-17 | 2019-03-03 |
 | [pkg](https://github.com/vercel/pkg) | Package your Node.js project into an executable | JavaScript | 24370 | MIT License | 2016-08-08 | 2026-05-23 | 2024-01-03 |
 | [pkg-fetch](https://github.com/vercel/pkg-fetch) | A utility to fetch or build patched Node binaries used by `pkg` to generate executables. This repo hosts prebuilt binaries in Releases. | TypeScript | 461 | MIT License | 2016-08-09 | 2026-05-18 | 2024-01-03 |
-| [vercel](https://github.com/vercel/vercel) | Develop. Preview. Ship. | TypeScript | 15528 | Apache License 2.0 | 2016-09-09 | 2026-05-23 | 2026-05-22 |
-| [next.js](https://github.com/vercel/next.js) | The React Framework | JavaScript | 139564 | MIT License | 2016-10-05 | 2026-05-23 | 2026-05-23 |
+| [vercel](https://github.com/vercel/vercel) | Develop. Preview. Ship. | TypeScript | 15530 | Apache License 2.0 | 2016-09-09 | 2026-05-23 | 2026-05-22 |
+| [next.js](https://github.com/vercel/next.js) | The React Framework | JavaScript | 139573 | MIT License | 2016-10-05 | 2026-05-24 | 2026-05-23 |
 | [styled-jsx](https://github.com/vercel/styled-jsx) | Full CSS support for JSX without compromises | JavaScript | 7790 | MIT License | 2016-12-05 | 2026-05-21 | 2026-05-21 |
 | [release](https://github.com/vercel/release) | Generate changelogs with a single command | JavaScript | 3586 | MIT License | 2016-12-22 | 2026-05-21 | 2026-05-21 |
 | [release-auth](https://github.com/vercel/release-auth) | Handles the authentication for `release` | JavaScript | 27 | MIT License | 2016-12-26 | 2026-05-10 | 2022-03-18 |
@@ -61,7 +61,7 @@ Statistics Date: 2026-05-23 08:48:26
 | [og-image](https://github.com/vercel/og-image) | Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc | TypeScript | 4055 | MIT License | 2019-01-02 | 2026-05-20 | 2023-01-20 |
 | [lua-aws](https://github.com/vercel/lua-aws) | pure-lua implementation of aws REST APIs | Lua | 11 | - | 2019-01-17 | 2024-12-11 | 2019-05-20 |
 | [webpack-asset-relocator-loader](https://github.com/vercel/webpack-asset-relocator-loader) | Used in ncc while emitting and relocating any asset references | JavaScript | 107 | MIT License | 2019-01-30 | 2026-05-20 | 2026-05-12 |
-| [fun](https://github.com/vercel/fun) | ƒun - Local serverless function λ development runtime | TypeScript | 991 | Apache License 2.0 | 2019-01-31 | 2026-05-19 | 2026-04-23 |
+| [fun](https://github.com/vercel/fun) | ƒun - Local serverless function λ development runtime | TypeScript | 992 | Apache License 2.0 | 2019-01-31 | 2026-05-23 | 2026-04-23 |
 | [async-listen](https://github.com/vercel/async-listen) | Promisify server.listen for your HTTP/HTTPS/TCP server. | TypeScript | 54 | - | 2019-02-08 | 2026-05-20 | 2026-05-12 |
 | [tracing-js](https://github.com/vercel/tracing-js) | An implementation of Opentracing API for honeycomb.io | TypeScript | 47 | Apache License 2.0 | 2019-02-22 | 2026-04-14 | 2025-10-30 |
 | [lua-resty-template](https://github.com/vercel/lua-resty-template) | Templating Engine (HTML) for Lua and OpenResty. | Lua | 7 | BSD 3-Clause "New" or "Revised" License | 2019-02-25 | 2024-12-11 | 2020-02-24 |
@@ -71,12 +71,12 @@ Statistics Date: 2026-05-23 08:48:26
 | [jsonpath](https://github.com/vercel/jsonpath) | Query and manipulate JavaScript objects with JSONPath expressions.  Robust JSONPath engine for Node.js. | JavaScript | 13 | MIT License | 2019-04-14 | 2025-04-07 | 2019-04-14 |
 | [react-jsx-parser](https://github.com/vercel/react-jsx-parser) | A React component which can parse JSX and output rendered React Components. | JavaScript | 16 | MIT License | 2019-05-09 | 2025-08-27 | 2019-05-21 |
 | [actions](https://github.com/vercel/actions) | GitHub Actions for interacting with Docker | Ruby | 16 | - | 2019-06-20 | 2025-12-01 | 2021-07-12 |
-| [nft](https://github.com/vercel/nft) | Node.js dependency tracing utility | JavaScript | 1626 | MIT License | 2019-07-05 | 2026-05-23 | 2026-05-23 |
+| [nft](https://github.com/vercel/nft) | Node.js dependency tracing utility | JavaScript | 1627 | MIT License | 2019-07-05 | 2026-05-23 | 2026-05-23 |
 | [static-fun](https://github.com/vercel/static-fun) | A fun demo for wildcard domains | TypeScript | 645 | MIT License | 2019-08-26 | 2026-05-10 | 2025-05-15 |
 | [response](https://github.com/vercel/response) | Monzo's real-time incident response and reporting tool ⚡️ | JavaScript | 11 | MIT License | 2019-08-29 | 2026-03-17 | 2019-10-07 |
 | [SyslogPro](https://github.com/vercel/SyslogPro) | A NodeJS Syslog module with support for RFC3164, RFC5424, LEEF, and CEF formatted messages over UDP, TCP or TLS transport | TypeScript | 14 | MIT License | 2019-10-04 | 2025-11-13 | 2020-02-12 |
 | [swr-site](https://github.com/vercel/swr-site) | The official website for SWR. | MDX | 509 | Apache License 2.0 | 2019-10-28 | 2026-05-21 | 2026-04-07 |
-| [swr](https://github.com/vercel/swr) | React Hooks for Data Fetching | TypeScript | 32385 | MIT License | 2019-10-28 | 2026-05-22 | 2026-05-21 |
+| [swr](https://github.com/vercel/swr) | React Hooks for Data Fetching | TypeScript | 32385 | MIT License | 2019-10-28 | 2026-05-24 | 2026-05-21 |
 | [amazon-kinesis-client-nodejs](https://github.com/vercel/amazon-kinesis-client-nodejs) | Amazon Kinesis Client Library for Node.js  | None | 7 | Apache License 2.0 | 2020-01-16 | 2024-12-11 | 2020-01-16 |
 | [lua-bcrypt](https://github.com/vercel/lua-bcrypt) | A bcrypt library for Lua | None | 6 | - | 2020-02-13 | 2024-12-11 | 2017-12-29 |
 | [algolite](https://github.com/vercel/algolite) |  An Implementation of Algolia to emulate its REST API  | JavaScript | 10 | - | 2020-02-20 | 2024-12-11 | 2023-05-24 |
@@ -88,7 +88,7 @@ Statistics Date: 2026-05-23 08:48:26
 | [vscode-material-icon-theme](https://github.com/vercel/vscode-material-icon-theme) | Available on the VSCode Marketplace | None | 11 | MIT License | 2020-06-08 | 2024-12-11 | 2020-06-11 |
 | [busted](https://github.com/vercel/busted) | Elegant Lua unit testing. | Lua | 6 | MIT License | 2020-08-11 | 2024-12-11 | 2021-04-20 |
 | [sqs-consumer](https://github.com/vercel/sqs-consumer) | Build Amazon Simple Queue Service (SQS) based applications without the boilerplate | TypeScript | 13 | Other | 2020-10-19 | 2026-03-19 | 2026-03-19 |
-| [commerce](https://github.com/vercel/commerce) | Next.js Commerce | TypeScript | 14049 | MIT License | 2020-10-26 | 2026-05-23 | 2026-02-02 |
+| [commerce](https://github.com/vercel/commerce) | Next.js Commerce | TypeScript | 14052 | MIT License | 2020-10-26 | 2026-05-24 | 2026-02-02 |
 | [gatsby-plugin-vercel](https://github.com/vercel/gatsby-plugin-vercel) | Track Core Web Vitals in Gatsby projects with Vercel Analytics. | JavaScript | 25 | MIT License | 2020-10-30 | 2026-05-10 | 2023-01-19 |
 | [commerce-framework](https://github.com/vercel/commerce-framework) | None | TypeScript | 100 | - | 2020-11-09 | 2026-05-10 | 2022-05-23 |
 | [nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments) | Clone, deploy, and fully customize a SaaS subscription application with Next.js. | TypeScript | 7718 | MIT License | 2020-11-11 | 2026-05-21 | 2025-01-23 |
@@ -102,13 +102,13 @@ Statistics Date: 2026-05-23 08:48:26
 | [has-changed-path](https://github.com/vercel/has-changed-path) | GitHub Action that saves time and money in monorepo environments | None | 11 | MIT License | 2021-01-13 | 2024-12-11 | 2021-01-10 |
 | [example-integration](https://github.com/vercel/example-integration) | None | TypeScript | 51 | MIT License | 2021-02-26 | 2026-05-10 | 2025-07-04 |
 | [nextjs-portfolio-starter](https://github.com/vercel/nextjs-portfolio-starter) | Easily create a portfolio with Next.js and Markdown. | JavaScript | 731 | - | 2021-03-19 | 2026-05-01 | 2025-11-21 |
-| [turborepo](https://github.com/vercel/turborepo) | Build system optimized for JavaScript and TypeScript, written in Rust | Rust | 30424 | MIT License | 2021-10-05 | 2026-05-23 | 2026-05-23 |
+| [turborepo](https://github.com/vercel/turborepo) | Build system optimized for JavaScript and TypeScript, written in Rust | Rust | 30426 | MIT License | 2021-10-05 | 2026-05-24 | 2026-05-23 |
 | [next-react-server-components](https://github.com/vercel/next-react-server-components) | Demo repository for Next.js + React Server Components | JavaScript | 996 | MIT License | 2021-10-07 | 2026-04-23 | 2025-12-12 |
 | [nextjs-discord-bot](https://github.com/vercel/nextjs-discord-bot) | Discord bot for the official Next.js Discord | TypeScript | 120 | - | 2021-10-25 | 2026-05-10 | 2023-03-16 |
 | [examples](https://github.com/vercel/examples) | Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications. | TypeScript | 5083 | MIT License | 2021-10-25 | 2026-05-22 | 2026-05-21 |
 | [community](https://github.com/vercel/community) | Welcome to the Vercel Community. Discuss feature requests, ask questions, and connect with others in the community. | None | 116 | - | 2021-11-26 | 2026-05-10 | 2024-10-04 |
 | [platforms](https://github.com/vercel/platforms) | A full-stack Next.js app with multi-tenancy. | TypeScript | 6678 | - | 2022-01-20 | 2026-05-21 | 2025-12-06 |
-| [satori](https://github.com/vercel/satori) | Enlightened library to convert HTML and CSS to SVG | TypeScript | 13439 | Mozilla Public License 2.0 | 2022-01-27 | 2026-05-23 | 2026-05-22 |
+| [satori](https://github.com/vercel/satori) | Enlightened library to convert HTML and CSS to SVG | TypeScript | 13445 | Mozilla Public License 2.0 | 2022-01-27 | 2026-05-24 | 2026-05-22 |
 | [terraform-provider-vercel](https://github.com/vercel/terraform-provider-vercel) | Terraform Vercel Provider | Go | 186 | Mozilla Public License 2.0 | 2022-01-27 | 2026-05-21 | 2026-05-20 |
 | [sveltekit-commerce](https://github.com/vercel/sveltekit-commerce) | SvelteKit Commerce | Svelte | 442 | MIT License | 2022-02-03 | 2026-05-21 | 2025-02-11 |
 | [on-demand-isr](https://github.com/vercel/on-demand-isr) | None | TypeScript | 898 | MIT License | 2022-02-15 | 2026-05-17 | 2025-12-08 |
@@ -138,16 +138,16 @@ Statistics Date: 2026-05-23 08:48:26
 | [otel](https://github.com/vercel/otel) | OTEL tracing for Vercel | TypeScript | 93 | - | 2023-03-23 | 2026-05-21 | 2026-05-21 |
 | [vercel-azure-devops-extension](https://github.com/vercel/vercel-azure-devops-extension) | An Azure DevOps Extension for deploying to Vercel from Azure Pipelines | TypeScript | 37 | MIT License | 2023-04-21 | 2026-04-27 | 2026-04-27 |
 | [firecracker-go-sdk](https://github.com/vercel/firecracker-go-sdk) | An SDK in Go for the Firecracker microVM API | Go | 3 | Apache License 2.0 | 2023-05-16 | 2026-03-26 | 2026-05-13 |
-| [chatbot](https://github.com/vercel/chatbot) | A full-featured, hackable Next.js AI chatbot built by Vercel | TypeScript | 20369 | Other | 2023-05-19 | 2026-05-22 | 2026-05-18 |
-| [ai](https://github.com/vercel/ai) | The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents  | TypeScript | 24413 | Other | 2023-05-23 | 2026-05-23 | 2026-05-22 |
-| [modelfusion](https://github.com/vercel/modelfusion) | The TypeScript library for building AI applications. | TypeScript | 1319 | MIT License | 2023-05-25 | 2026-05-13 | 2024-07-19 |
+| [chatbot](https://github.com/vercel/chatbot) | A full-featured, hackable Next.js AI chatbot built by Vercel | TypeScript | 20371 | Other | 2023-05-19 | 2026-05-24 | 2026-05-18 |
+| [ai](https://github.com/vercel/ai) | The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents  | TypeScript | 24428 | Other | 2023-05-23 | 2026-05-24 | 2026-05-23 |
+| [modelfusion](https://github.com/vercel/modelfusion) | The TypeScript library for building AI applications. | TypeScript | 1320 | MIT License | 2023-05-25 | 2026-05-23 | 2024-07-19 |
 | [nudge](https://github.com/vercel/nudge) | A tool for encouraging the installation of macOS security updates. | Shell | 15 | - | 2023-06-28 | 2026-05-10 | 2025-02-12 |
 | [gitpkg](https://github.com/vercel/gitpkg) | use a sub directory of a github repo as yarn / npm dependency directly | TypeScript | 10 | - | 2023-07-04 | 2024-12-11 | 2023-07-04 |
 | [app-playground-api](https://github.com/vercel/app-playground-api) | None | TypeScript | 10 | - | 2023-07-30 | 2026-05-10 | 2025-12-12 |
 | [kirimase](https://github.com/vercel/kirimase) | Build full-stack Next.js apps, incredibly fast | TypeScript | 2799 | MIT License | 2023-08-04 | 2026-05-21 | 2025-04-11 |
 | [speed-insights](https://github.com/vercel/speed-insights) | Vercel Speed Insights package | TypeScript | 104 | MIT License | 2023-09-05 | 2026-05-21 | 2026-05-21 |
-| [geist-font](https://github.com/vercel/geist-font) | None | HTML | 3429 | SIL Open Font License 1.1 | 2023-10-16 | 2026-05-22 | 2026-05-21 |
-| [little-date](https://github.com/vercel/little-date) | A friendly formatter to make date ranges small & sweet | TypeScript | 1963 | MIT License | 2023-10-19 | 2026-05-14 | 2025-11-24 |
+| [geist-font](https://github.com/vercel/geist-font) | None | HTML | 3431 | SIL Open Font License 1.1 | 2023-10-16 | 2026-05-23 | 2026-05-21 |
+| [little-date](https://github.com/vercel/little-date) | A friendly formatter to make date ranges small & sweet | TypeScript | 1962 | MIT License | 2023-10-19 | 2026-05-23 | 2025-11-24 |
 | [coraza](https://github.com/vercel/coraza) | OWASP Coraza WAF is a golang modsecurity compatible web application firewall library | None | 5 | Apache License 2.0 | 2023-12-14 | 2025-11-28 | 2023-12-14 |
 | [example-figma-og-image](https://github.com/vercel/example-figma-og-image) | An example of a Next.js App using FigmaImageResponse | TypeScript | 12 | - | 2024-01-03 | 2026-04-17 | 2024-01-04 |
 | [domain-architecture-monorepo](https://github.com/vercel/domain-architecture-monorepo) | A monorepo using a domain-oriented architecture. | TypeScript | 22 | - | 2024-02-05 | 2026-05-02 | 2024-02-05 |
@@ -176,7 +176,7 @@ Statistics Date: 2026-05-23 08:48:26
 | [gip-cache-prefetch](https://github.com/vercel/gip-cache-prefetch) | Test on how to prefetch links to getInitialProps pages. | TypeScript | 2 | - | 2025-01-21 | 2026-05-10 | 2025-12-12 |
 | [claim-deployments-demo](https://github.com/vercel/claim-deployments-demo) | Demo to showcase how to claim a deployment using project transfer flow | TypeScript | 48 | - | 2025-02-17 | 2026-05-15 | 2026-01-27 |
 | [next-view-transition-example](https://github.com/vercel/next-view-transition-example) | None | TypeScript | 107 | - | 2025-02-28 | 2026-05-12 | 2025-12-12 |
-| [ai-chatbot-svelte](https://github.com/vercel/ai-chatbot-svelte) | A full-featured, hackable SvelteKit AI chatbot built by Vercel | Svelte | 436 | Other | 2025-03-20 | 2026-05-18 | 2025-06-06 |
+| [ai-chatbot-svelte](https://github.com/vercel/ai-chatbot-svelte) | A full-featured, hackable SvelteKit AI chatbot built by Vercel | Svelte | 435 | Other | 2025-03-20 | 2026-05-23 | 2025-06-06 |
 | [repository-dispatch](https://github.com/vercel/repository-dispatch) | Utilities for working with dispatch events triggered by Vercel | TypeScript | 11 | MIT License | 2025-04-02 | 2026-05-14 | 2026-05-13 |
 | [resumable-stream](https://github.com/vercel/resumable-stream) | Stream resumption for web streams | TypeScript | 546 | MIT License | 2025-04-21 | 2026-05-21 | 2026-03-17 |
 | [ios-web-payments](https://github.com/vercel/ios-web-payments) | Zero-commission iOS app payments with Solito. | TypeScript | 119 | - | 2025-05-01 | 2026-05-10 | 2025-12-06 |
@@ -189,23 +189,23 @@ Statistics Date: 2026-05-23 08:48:26
 | [v0-sdk](https://github.com/vercel/v0-sdk) | SDK for the v0 Platform API | TypeScript | 484 | Other | 2025-07-16 | 2026-05-22 | 2026-05-12 |
 | [v0-platform-api-demo](https://github.com/vercel/v0-platform-api-demo) | A Next.js application demonstrating the v0 Platform API | None | 95 | - | 2025-07-22 | 2026-05-10 | 2025-09-12 |
 | [bidc](https://github.com/vercel/bidc) | Bidirectional Channels for JavaScript | TypeScript | 1265 | - | 2025-08-04 | 2026-05-15 | 2025-12-16 |
-| [streamdown](https://github.com/vercel/streamdown) | A drop-in replacement for react-markdown, designed for AI-powered streaming. | TypeScript | 5231 | Other | 2025-08-15 | 2026-05-23 | 2026-05-21 |
-| [ai-elements](https://github.com/vercel/ai-elements) | AI Elements is a component library and custom registry built on top of shadcn/ui to help you build AI-native applications faster. | TypeScript | 2015 | Other | 2025-08-15 | 2026-05-22 | 2026-05-01 |
-| [ai-action](https://github.com/vercel/ai-action) | GitHub Action to interact with different AI model providers. | JavaScript | 76 | ISC License | 2025-08-21 | 2026-05-22 | 2025-11-05 |
+| [streamdown](https://github.com/vercel/streamdown) | A drop-in replacement for react-markdown, designed for AI-powered streaming. | TypeScript | 5230 | Other | 2025-08-15 | 2026-05-23 | 2026-05-21 |
+| [ai-elements](https://github.com/vercel/ai-elements) | AI Elements is a component library and custom registry built on top of shadcn/ui to help you build AI-native applications faster. | TypeScript | 2020 | Other | 2025-08-15 | 2026-05-24 | 2026-05-01 |
+| [ai-action](https://github.com/vercel/ai-action) | GitHub Action to interact with different AI model providers. | JavaScript | 77 | ISC License | 2025-08-21 | 2026-05-23 | 2025-11-05 |
 | [v0-language-model-chat-provider](https://github.com/vercel/v0-language-model-chat-provider) | None | TypeScript | 17 | Other | 2025-09-11 | 2026-05-10 | 2025-09-19 |
 | [docs-search-battle-arena](https://github.com/vercel/docs-search-battle-arena) | None | TypeScript | 6 | - | 2025-09-11 | 2026-05-10 | 2025-12-12 |
-| [components.build](https://github.com/vercel/components.build) | An open-source standard for building modern, composable and accessible UI components. | MDX | 769 | Other | 2025-09-18 | 2026-05-22 | 2026-05-21 |
+| [components.build](https://github.com/vercel/components.build) | An open-source standard for building modern, composable and accessible UI components. | MDX | 768 | Other | 2025-09-18 | 2026-05-23 | 2026-05-21 |
 | [nextjs-stripe-template](https://github.com/vercel/nextjs-stripe-template) | An example using Stripe in Next.js | TypeScript | 19 | - | 2025-09-24 | 2026-05-10 | 2025-10-07 |
 | [acp-handler](https://github.com/vercel/acp-handler) | Integrate the Agentic Commerce Protocol (ACP) into your servers | TypeScript | 24 | MIT License | 2025-09-29 | 2026-04-30 | 2025-12-14 |
 | [vercel-py](https://github.com/vercel/vercel-py) | Develop. Preview. Ship. Python. | Python | 11 | MIT License | 2025-10-07 | 2026-05-20 | 2026-05-20 |
 | [python-typemap](https://github.com/vercel/python-typemap) | Type Manipulation PEP | Python | 21 | Apache License 2.0 | 2025-10-07 | 2026-05-23 | 2026-05-23 |
 | [aix](https://github.com/vercel/aix) | Build AI apps with the polish of ChatGPT, v0, and Grok. Coming soon. | TypeScript | 96 | - | 2025-10-13 | 2026-05-21 | 2026-03-23 |
-| [next-devtools-mcp](https://github.com/vercel/next-devtools-mcp) | Next.js Development for Coding Agent | TypeScript | 758 | - | 2025-10-13 | 2026-05-23 | 2026-03-23 |
+| [next-devtools-mcp](https://github.com/vercel/next-devtools-mcp) | Next.js Development for Coding Agent | TypeScript | 759 | - | 2025-10-13 | 2026-05-23 | 2026-03-23 |
 | [d0-chatbot](https://github.com/vercel/d0-chatbot) | None | TypeScript | 17 | Other | 2025-10-17 | 2026-04-16 | 2025-12-06 |
 | [next-evals-oss](https://github.com/vercel/next-evals-oss) | Evals for Next.js up to 15.5.6 to test AI model competency at Next.js | TypeScript | 261 | MIT License | 2025-10-21 | 2026-05-10 | 2026-04-27 |
 | [microfrontends](https://github.com/vercel/microfrontends) | Build microfrontends on Vercel | TypeScript | 37 | MIT License | 2025-10-22 | 2026-05-22 | 2026-05-22 |
 | [workflow-examples](https://github.com/vercel/workflow-examples) | Example projects and templates build using Workflow DevKit | TypeScript | 488 | MIT License | 2025-10-23 | 2026-05-22 | 2026-05-06 |
-| [workflow](https://github.com/vercel/workflow) | Workflow SDK: Build durable, reliable, and observable apps and AI Agents in TypeScript | TypeScript | 2044 | Apache License 2.0 | 2025-10-23 | 2026-05-23 | 2026-05-23 |
+| [workflow](https://github.com/vercel/workflow) | Workflow SDK: Build durable, reliable, and observable apps and AI Agents in TypeScript | TypeScript | 2046 | Apache License 2.0 | 2025-10-23 | 2026-05-23 | 2026-05-23 |
 | [aws-dynamodb-demo](https://github.com/vercel/aws-dynamodb-demo) | None | TypeScript | 1 | MIT License | 2025-11-03 | 2026-05-01 | 2025-12-17 |
 | [aws-aurora-postgresql-demo](https://github.com/vercel/aws-aurora-postgresql-demo) | None | TypeScript | 3 | MIT License | 2025-11-03 | 2026-03-02 | 2026-03-27 |
 | [sign-in-with-vercel-reference-app](https://github.com/vercel/sign-in-with-vercel-reference-app) | Reference Next.js app showcasing integration with Sign in with Vercel | TypeScript | 2 | - | 2025-11-10 | 2026-05-10 | 2026-01-27 |
@@ -214,7 +214,7 @@ Statistics Date: 2026-05-23 08:48:26
 | [nextjs-motherduck-wasm-analytics-quickstart](https://github.com/vercel/nextjs-motherduck-wasm-analytics-quickstart) | A Next.js data analytics example for MotherDuck Wasm  | TypeScript | 0 | MIT License | 2025-12-06 | 2026-02-04 | 2025-12-06 |
 | [v0-starter-template](https://github.com/vercel/v0-starter-template) | None | TypeScript | 3 | - | 2025-12-11 | 2026-05-10 | 2025-12-11 |
 | [vercel-deploy-claude-code-plugin](https://github.com/vercel/vercel-deploy-claude-code-plugin) | None | None | 13 | MIT License | 2025-12-17 | 2026-04-17 | 2025-12-18 |
-| [chat](https://github.com/vercel/chat) | A unified TypeScript SDK for building chat bots across Slack, Microsoft Teams, Google Chat, Discord, and more. | TypeScript | 1988 | MIT License | 2025-12-22 | 2026-05-22 | 2026-05-22 |
+| [chat](https://github.com/vercel/chat) | A unified TypeScript SDK for building chat bots across Slack, Microsoft Teams, Google Chat, Discord, and more. | TypeScript | 1992 | MIT License | 2025-12-22 | 2026-05-23 | 2026-05-22 |
 | [academy-subscription-starter](https://github.com/vercel/academy-subscription-starter) | A starter app for a Subscription Starter course on Vercel Academy | TypeScript | 2 | - | 2025-12-22 | 2026-05-10 | 2025-12-22 |
 | [nextjs-foundations-starter](https://github.com/vercel/nextjs-foundations-starter) | None | TypeScript | 2 | - | 2026-01-08 | 2026-05-10 | 2026-01-13 |
 | [vercel-mcp-overview](https://github.com/vercel/vercel-mcp-overview) | Public overview of Vercel's MCP server for the github.com/mcp directory. Full documentation at https://vercel.com/docs/mcp/vercel-mcp | None | 7 | - | 2026-01-14 | 2026-04-26 | 2026-01-14 |
@@ -229,15 +229,15 @@ Statistics Date: 2026-05-23 08:48:26
 | [v0-nanobanana-template](https://github.com/vercel/v0-nanobanana-template) | None | TypeScript | 2 | - | 2026-02-27 | 2026-03-13 | 2026-02-27 |
 | [example-marketplace-integration-billing-changes](https://github.com/vercel/example-marketplace-integration-billing-changes) | None | None | 0 | - | 2026-03-03 | 2026-03-03 | 2026-02-06 |
 | [vercel-plugin](https://github.com/vercel/vercel-plugin) | Comprehensive Vercel ecosystem plugin — relational knowledge graph, skills for every major product, specialized agents, and Vercel conventions. Turns any AI agent into a Vercel expert. | TypeScript | 168 | - | 2026-03-04 | 2026-05-22 | 2026-05-19 |
-| [shop](https://github.com/vercel/shop) | vercel/shop | TypeScript | 17 | MIT License | 2026-03-09 | 2026-05-22 | 2026-05-22 |
+| [shop](https://github.com/vercel/shop) | vercel/shop | TypeScript | 17 | MIT License | 2026-03-09 | 2026-05-23 | 2026-05-23 |
 | [yyy-hello-world-script-creation](https://github.com/vercel/yyy-hello-world-script-creation) | None | JavaScript | 0 | - | 2026-03-19 | 2026-03-19 | 2026-03-19 |
 | [veil](https://github.com/vercel/veil) | A generic configuration management CLI tool. No more templates, just transforms | Go | 3 | - | 2026-03-20 | 2026-05-11 | 2026-05-22 |
 | [vercel-extensions](https://github.com/vercel/vercel-extensions) | Develop. Preview. Ship. | None | 0 | Apache License 2.0 | 2026-03-27 | 2026-04-21 | 2026-03-27 |
 | [oscar-mike](https://github.com/vercel/oscar-mike) | Oscar Mike — daily Slack bot for the Vercel veterans affinity group | TypeScript | 0 | - | 2026-03-27 | 2026-04-16 | 2026-04-16 |
 | [sccache](https://github.com/vercel/sccache) | Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cloud storage options, or alternatively, in local storage. | Rust | 0 | Apache License 2.0 | 2026-03-30 | 2026-04-17 | 2026-04-23 |
-| [next-config-fn-repro](https://github.com/vercel/next-config-fn-repro) | None | JavaScript | 0 | - | 2026-04-08 | 2026-04-08 | 2026-04-08 |
+| [next-config-fn-repro](https://github.com/vercel/next-config-fn-repro) | None | JavaScript | 1 | - | 2026-04-08 | 2026-05-23 | 2026-04-08 |
 | [computesdk](https://github.com/vercel/computesdk) | A free and open-source toolkit for running other people's code in your applications. | None | 0 | MIT License | 2026-04-10 | 2026-04-10 | 2026-04-10 |
 | [bash-video](https://github.com/vercel/bash-video) | None | TypeScript | 3 | - | 2026-04-15 | 2026-05-10 | 2026-04-20 |
-| [vc-runtime-lab](https://github.com/vercel/vc-runtime-lab) | None | TypeScript | 0 | - | 2026-05-06 | 2026-05-11 | 2026-05-19 |
-| [orb_data_freshness_dashboard](https://github.com/vercel/orb_data_freshness_dashboard) | None | TypeScript | 0 | - | 2026-05-07 | 2026-05-07 | 2026-05-07 |
-| [wait-for-deployment-action](https://github.com/vercel/wait-for-deployment-action) | GitHub Action that waits for a Vercel deployment to be ready in CI by polling GitHub's Deployments API. | TypeScript | 1 | MIT License | 2026-05-21 | 2026-05-23 | 2026-05-21 |
+| [vc-runtime-lab](https://github.com/vercel/vc-runtime-lab) | None | TypeScript | 1 | - | 2026-05-06 | 2026-05-23 | 2026-05-19 |
+| [orb_data_freshness_dashboard](https://github.com/vercel/orb_data_freshness_dashboard) | None | TypeScript | 1 | - | 2026-05-07 | 2026-05-23 | 2026-05-07 |
+| [wait-for-deployment-action](https://github.com/vercel/wait-for-deployment-action) | GitHub Action that waits for a Vercel deployment to be ready in CI by polling GitHub's Deployments API. | TypeScript | 2 | MIT License | 2026-05-21 | 2026-05-23 | 2026-05-21 |
