@@ -1,10 +1,10 @@
 # Sony
 
-A total of 140 projects, 39 active projects in the last six months, 1 teams, and 18170 stars.
+A total of 141 projects, 40 active projects in the last six months, 1 teams, and 18173 stars.
 
 Top 3 Languages: Python, JavaScript, C++
 
-Statistics Date: 2026-05-28 09:24:48
+Statistics Date: 2026-05-29 09:19:28
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -119,7 +119,7 @@ Statistics Date: 2026-05-28 09:24:48
 | [SIoT-Pwrmod](https://github.com/sony/SIoT-Pwrmod) | None | C | 0 | BSD 3-Clause "New" or "Revised" License | 2025-06-25 | 2025-11-27 | 2025-11-27 |
 | [BannerAgency](https://github.com/sony/BannerAgency) |  The official repo for BannerAgency: Advertising Banner Design with Multimodal LLM Agents | Python | 21 | MIT License | 2025-07-01 | 2026-05-16 | 2025-08-21 |
 | [tool-use-few-shot-transfer](https://github.com/sony/tool-use-few-shot-transfer) | None | HTML | 0 | - | 2025-07-14 | 2025-07-16 | 2025-07-16 |
-| [DeepResonance](https://github.com/sony/DeepResonance) | None | Python | 3 | MIT License | 2025-07-15 | 2026-04-09 | 2025-12-26 |
+| [DeepResonance](https://github.com/sony/DeepResonance) | None | Python | 4 | MIT License | 2025-07-15 | 2026-05-28 | 2025-12-26 |
 | [titan-guide](https://github.com/sony/titan-guide) | None | Python | 3 | MIT License | 2025-07-15 | 2025-12-20 | 2025-12-16 |
 | [SIoT-Themis](https://github.com/sony/SIoT-Themis) | None | HCL | 1 | MIT License | 2025-07-24 | 2025-12-25 | 2025-12-22 |
 | [micro-mail-sender](https://github.com/sony/micro-mail-sender) | Simplified SendGrid Clone | Go | 1 | MIT License | 2025-07-26 | 2026-03-21 | 2026-03-21 |
@@ -142,9 +142,10 @@ Statistics Date: 2026-05-28 09:24:48
 | [sampleid](https://github.com/sony/sampleid) | Code for the paper “Automatic Music Sample Identification with Multi-Track Contrastive Learning”. | Python | 22 | MIT License | 2025-10-15 | 2026-05-22 | 2026-05-22 |
 | [coda](https://github.com/sony/coda) | Official PyTorch implementation of "Contrastive Object-centric Diffusion Alignment" | Python | 4 | Apache License 2.0 | 2025-10-20 | 2026-05-07 | 2026-01-27 |
 | [studies-for](https://github.com/sony/studies-for) | None | JavaScript | 0 | - | 2025-10-23 | 2026-04-27 | 2026-04-27 |
-| [mf-rae](https://github.com/sony/mf-rae) | None | Python | 34 | MIT License | 2025-11-13 | 2026-05-16 | 2025-11-19 |
+| [mf-rae](https://github.com/sony/mf-rae) | None | Python | 35 | MIT License | 2025-11-13 | 2026-05-29 | 2025-11-19 |
 | [FCM_Large_Particles](https://github.com/sony/FCM_Large_Particles) | None | Jupyter Notebook | 0 | BSD 3-Clause "New" or "Revised" License | 2025-12-16 | 2025-12-22 | 2025-12-22 |
 | [MSA-bench](https://github.com/sony/MSA-bench) | Pytorch implementation of "Do Foundational Audio Encoders Understand Music Structure?" presented in ICASSP 2026. | Python | 4 | MIT License | 2026-01-21 | 2026-05-27 | 2026-04-10 |
 | [virtue](https://github.com/sony/virtue) | Official implementation of "VIRTUE: Visual-Interactive Text-Image Universal Embedder (ICLR 2026)" | Python | 5 | Apache License 2.0 | 2026-01-29 | 2026-04-10 | 2026-02-19 |
 | [B3-Seg-project](https://github.com/sony/B3-Seg-project) | None | None | 5 | - | 2026-02-18 | 2026-05-27 | 2026-05-27 |
 | [mucs](https://github.com/sony/mucs) | Code for the paper “Training Data Attribution in Diffusion Models via Mirrored Unlearning and Noise-Consistent Skew” | Python | 0 | Apache License 2.0 | 2026-05-22 | 2026-05-22 | 2026-05-22 |
+| [guda](https://github.com/sony/guda) | None | Python | 1 | MIT License | 2026-05-27 | 2026-05-29 | 2026-05-29 |
