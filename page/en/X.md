@@ -1,10 +1,10 @@
 # X
 
-A total of 101 projects, 7 active projects in the last six months, 1 teams, and 216961 stars.
+A total of 101 projects, 7 active projects in the last six months, 1 teams, and 216967 stars.
 
 Top 3 Languages: Scala, Java, Python
 
-Statistics Date: 2026-06-04 09:27:09
+Statistics Date: 2026-06-05 09:17:38
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -13,9 +13,9 @@ Statistics Date: 2026-06-04 09:27:09
 | [twurl](https://github.com/twitter/twurl) | OAuth-enabled curl for the Twitter API | Ruby | 1800 | MIT License | 2009-10-18 | 2026-04-21 | 2023-07-20 |
 | [elephant-bird](https://github.com/twitter/elephant-bird) | Twitter's collection of LZO and Protocol Buffer-related Hadoop, Pig, Hive, and HBase code. | Java | 1134 | Apache License 2.0 | 2010-03-25 | 2026-04-03 | 2023-04-10 |
 | [scala_school](https://github.com/twitter/scala_school) | Lessons in the Fundamentals of Scala | HTML | 3696 | Apache License 2.0 | 2010-09-08 | 2026-05-31 | 2023-04-10 |
-| [finagle](https://github.com/twitter/finagle) | A fault tolerant, protocol-agnostic RPC system | Scala | 8866 | Apache License 2.0 | 2010-10-19 | 2026-05-31 | 2026-04-30 |
+| [finagle](https://github.com/twitter/finagle) | A fault tolerant, protocol-agnostic RPC system | Scala | 8865 | Apache License 2.0 | 2010-10-19 | 2026-06-04 | 2026-04-30 |
 | [joauth](https://github.com/twitter/joauth) | A Java library for authenticating HTTP Requests using OAuth | Java | 218 | Apache License 2.0 | 2010-12-16 | 2026-03-30 | 2023-04-10 |
-| [opensource-website](https://github.com/twitter/opensource-website) | Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source. | SCSS | 3287 | Apache License 2.0 | 2011-02-23 | 2026-06-03 | 2026-04-13 |
+| [opensource-website](https://github.com/twitter/opensource-website) | Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source. | SCSS | 3288 | Apache License 2.0 | 2011-02-23 | 2026-06-04 | 2026-04-13 |
 | [util](https://github.com/twitter/util) | Wonderful reusable code from Twitter | Scala | 2724 | Apache License 2.0 | 2011-03-26 | 2026-05-11 | 2025-12-08 |
 | [scrooge](https://github.com/twitter/scrooge) | A Thrift parser/generator | Scala | 796 | Apache License 2.0 | 2011-08-22 | 2026-05-24 | 2025-04-02 |
 | [hogan.js](https://github.com/twitter/hogan.js) | A compiler for the Mustache templating language | JavaScript | 5125 | Apache License 2.0 | 2011-12-21 | 2026-05-26 | 2023-04-10 |
@@ -106,6 +106,6 @@ Statistics Date: 2026-06-04 09:27:09
 | [diffusion-rl](https://github.com/twitter/diffusion-rl) | None | Python | 80 | Apache License 2.0 | 2022-08-09 | 2026-01-19 | 2022-12-09 |
 | [focus](https://github.com/twitter/focus) | Focus aligns Git worktree content based on outlines of a repository's Bazel build graph. Focused repos are sparse, shallow, and thin and unlock markedly better performance in large repos. | Rust | 117 | Apache License 2.0 | 2022-08-30 | 2026-04-28 | 2023-05-12 |
 | [birdwatch](https://github.com/twitter/birdwatch) | None | None | 65 | - | 2022-11-06 | 2025-12-22 | 2023-04-03 |
-| [the-algorithm](https://github.com/twitter/the-algorithm) | Source code for the X Recommendation Algorithm | Scala | 73370 | GNU Affero General Public License v3.0 | 2023-03-27 | 2026-06-04 | 2025-09-08 |
-| [the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) | Source code for Twitter's Recommendation Algorithm | Python | 10575 | GNU Affero General Public License v3.0 | 2023-03-27 | 2026-06-03 | 2024-07-10 |
+| [the-algorithm](https://github.com/twitter/the-algorithm) | Source code for the X Recommendation Algorithm | Scala | 73374 | GNU Affero General Public License v3.0 | 2023-03-27 | 2026-06-05 | 2025-09-08 |
+| [the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) | Source code for Twitter's Recommendation Algorithm | Python | 10577 | GNU Affero General Public License v3.0 | 2023-03-27 | 2026-06-04 | 2024-07-10 |
 | [stitch](https://github.com/twitter/stitch) | None | Scala | 118 | Apache License 2.0 | 2024-11-05 | 2026-06-01 | 2024-11-07 |
