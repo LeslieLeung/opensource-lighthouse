@@ -4,12 +4,12 @@ A total of 142 projects, 37 active projects in the last six months, 1 teams, and
 
 Top 3 Languages: Python, JavaScript, C++
 
-Statistics Date: 2026-06-11 09:38:31
+Statistics Date: 2026-06-12 09:32:48
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3621 | MIT License | 2015-05-29 | 2026-06-08 | 2026-02-07 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4383 | MIT License | 2015-05-29 | 2026-06-06 | 2026-02-12 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3620 | MIT License | 2015-05-29 | 2026-06-12 | 2026-02-07 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4383 | MIT License | 2015-05-29 | 2026-06-12 | 2026-02-12 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 419 | MIT License | 2015-09-18 | 2026-05-04 | 2020-12-29 |
@@ -72,7 +72,7 @@ Statistics Date: 2026-06-11 09:38:31
 | [bigvsan](https://github.com/sony/bigvsan) | Pytorch implementation of BigVSAN | Python | 202 | MIT License | 2023-09-01 | 2026-04-01 | 2025-12-09 |
 | [bigvsan_eval](https://github.com/sony/bigvsan_eval) | Evaluation tool used in the BigVSAN paper | Python | 14 | MIT License | 2023-09-01 | 2025-07-28 | 2024-03-22 |
 | [timbre-trap](https://github.com/sony/timbre-trap) | Code for the paper "Timbre-Trap: A Low-Resource Framework for Instrument-Agnostic Music Transcription" | Python | 42 | MIT License | 2023-09-12 | 2026-04-23 | 2024-05-05 |
-| [ctm](https://github.com/sony/ctm) | None | Python | 327 | MIT License | 2023-10-10 | 2026-06-10 | 2026-03-03 |
+| [ctm](https://github.com/sony/ctm) | None | Python | 326 | MIT License | 2023-10-10 | 2026-06-12 | 2026-03-03 |
 | [SR-Display-Plugin-Preview-BL](https://github.com/sony/SR-Display-Plugin-Preview-BL) | None | Python | 5 | MIT License | 2023-12-13 | 2026-02-02 | 2024-05-24 |
 | [pyAutoPort](https://github.com/sony/pyAutoPort) | None | Python | 7 | BSD 3-Clause "New" or "Revised" License | 2023-12-13 | 2025-07-25 | 2025-07-03 |
 | [SR-Display-Plugin-Preview-ZB](https://github.com/sony/SR-Display-Plugin-Preview-ZB) | None | None | 1 | MIT License | 2024-02-19 | 2024-02-19 | 2024-02-19 |
@@ -139,14 +139,14 @@ Statistics Date: 2026-06-11 09:38:31
 | [dynamic-rag](https://github.com/sony/dynamic-rag) | None | C# | 5 | BSD 3-Clause "New" or "Revised" License | 2025-09-28 | 2026-04-23 | 2025-10-13 |
 | [cmt](https://github.com/sony/cmt) | None | Python | 21 | MIT License | 2025-09-30 | 2026-04-11 | 2026-03-03 |
 | [mmaudiosep](https://github.com/sony/mmaudiosep) | None | Python | 16 | MIT License | 2025-10-06 | 2026-05-07 | 2026-04-30 |
-| [sampleid](https://github.com/sony/sampleid) | Code for the paper “Automatic Music Sample Identification with Multi-Track Contrastive Learning”. | Python | 22 | MIT License | 2025-10-15 | 2026-05-22 | 2026-05-22 |
+| [sampleid](https://github.com/sony/sampleid) | Code for the paper “Automatic Music Sample Identification with Multi-Track Contrastive Learning”. | Python | 23 | MIT License | 2025-10-15 | 2026-06-12 | 2026-05-22 |
 | [coda](https://github.com/sony/coda) | Official PyTorch implementation of "Contrastive Object-centric Diffusion Alignment" | Python | 4 | Apache License 2.0 | 2025-10-20 | 2026-05-07 | 2026-01-27 |
 | [studies-for](https://github.com/sony/studies-for) | None | JavaScript | 0 | - | 2025-10-23 | 2026-06-09 | 2026-06-09 |
 | [mf-rae](https://github.com/sony/mf-rae) | None | Python | 37 | MIT License | 2025-11-13 | 2026-06-05 | 2025-11-19 |
 | [FCM_Large_Particles](https://github.com/sony/FCM_Large_Particles) | None | Jupyter Notebook | 0 | BSD 3-Clause "New" or "Revised" License | 2025-12-16 | 2025-12-22 | 2025-12-22 |
 | [MSA-bench](https://github.com/sony/MSA-bench) | Pytorch implementation of "Do Foundational Audio Encoders Understand Music Structure?" presented in ICASSP 2026. | Python | 4 | MIT License | 2026-01-21 | 2026-05-27 | 2026-04-10 |
 | [virtue](https://github.com/sony/virtue) | Official implementation of "VIRTUE: Visual-Interactive Text-Image Universal Embedder (ICLR 2026)" | Python | 6 | Apache License 2.0 | 2026-01-29 | 2026-06-04 | 2026-02-19 |
-| [B3-Seg-project](https://github.com/sony/B3-Seg-project) | None | None | 7 | - | 2026-02-18 | 2026-06-02 | 2026-05-27 |
+| [B3-Seg-project](https://github.com/sony/B3-Seg-project) | None | None | 8 | - | 2026-02-18 | 2026-06-12 | 2026-05-27 |
 | [mucs](https://github.com/sony/mucs) | Code for the paper “Training Data Attribution in Diffusion Models via Mirrored Unlearning and Noise-Consistent Skew” | Python | 1 | Apache License 2.0 | 2026-05-22 | 2026-06-09 | 2026-06-09 |
 | [guda](https://github.com/sony/guda) | None | Python | 1 | MIT License | 2026-05-27 | 2026-05-29 | 2026-05-29 |
 | [MusTBench](https://github.com/sony/MusTBench) | None | Python | 2 | MIT License | 2026-06-08 | 2026-06-11 | 2026-06-10 |
