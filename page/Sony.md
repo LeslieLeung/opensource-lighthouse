@@ -1,10 +1,10 @@
 # Sony
 
-共 143 个项目，近半年内活跃项目 37 个，1 个团队， 18210 个 Star。
+共 143 个项目，近半年内活跃项目 37 个，1 个团队， 18211 个 Star。
 
 语言 Top 3：Python, JavaScript, C++
 
-统计时间：2026-06-15 10:15:03
+统计时间：2026-06-16 09:53:46
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -146,7 +146,7 @@
 | [FCM_Large_Particles](https://github.com/sony/FCM_Large_Particles) | None | Jupyter Notebook | 0 | BSD 3-Clause "New" or "Revised" License | 2025-12-16 | 2025-12-22 | 2025-12-22 |
 | [MSA-bench](https://github.com/sony/MSA-bench) | Pytorch implementation of "Do Foundational Audio Encoders Understand Music Structure?" presented in ICASSP 2026. | Python | 4 | MIT License | 2026-01-21 | 2026-05-27 | 2026-04-10 |
 | [virtue](https://github.com/sony/virtue) | Official implementation of "VIRTUE: Visual-Interactive Text-Image Universal Embedder (ICLR 2026)" | Python | 6 | Apache License 2.0 | 2026-01-29 | 2026-06-04 | 2026-02-19 |
-| [B3-Seg-project](https://github.com/sony/B3-Seg-project) | None | None | 8 | - | 2026-02-18 | 2026-06-12 | 2026-05-27 |
+| [B3-Seg-project](https://github.com/sony/B3-Seg-project) | None | None | 9 | - | 2026-02-18 | 2026-06-16 | 2026-05-27 |
 | [web_gen_v_bench](https://github.com/sony/web_gen_v_bench) | Official Repo for The Paper "WebGen-V Bench: Structured Representation for Enhancing Visual Design in LLM-based Web Generation and Evaluation” (KDD’26) | Python | 0 | MIT License | 2026-05-19 | 2026-06-15 | 2026-06-10 |
 | [mucs](https://github.com/sony/mucs) | Code for the paper “Training Data Attribution in Diffusion Models via Mirrored Unlearning and Noise-Consistent Skew” | Python | 1 | Apache License 2.0 | 2026-05-22 | 2026-06-09 | 2026-06-09 |
 | [guda](https://github.com/sony/guda) | None | Python | 1 | MIT License | 2026-05-27 | 2026-05-29 | 2026-05-29 |
