@@ -1,14 +1,14 @@
 # Sony
 
-共 143 个项目，近半年内活跃项目 37 个，1 个团队， 18212 个 Star。
+共 143 个项目，近半年内活跃项目 37 个，1 个团队， 18213 个 Star。
 
 语言 Top 3：Python, JavaScript, C++
 
-统计时间：2026-06-17 09:45:30
+统计时间：2026-06-18 09:38:13
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3624 | MIT License | 2015-05-29 | 2026-06-16 | 2026-02-07 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3626 | MIT License | 2015-05-29 | 2026-06-18 | 2026-02-07 |
 | [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4381 | MIT License | 2015-05-29 | 2026-06-14 | 2026-02-12 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
@@ -56,7 +56,7 @@
 | [polar-densification](https://github.com/sony/polar-densification) | None | Python | 32 | MIT License | 2022-09-13 | 2026-02-26 | 2023-03-24 |
 | [nnabla-js](https://github.com/sony/nnabla-js) | None | TypeScript | 1 | Apache License 2.0 | 2022-09-16 | 2025-10-17 | 2025-10-17 |
 | [DiffRoll](https://github.com/sony/DiffRoll) | PyTorch implementation of DiffRoll, a diffusion-based generative automatic music transcription (AMT) model | Jupyter Notebook | 81 | MIT License | 2022-10-11 | 2026-06-10 | 2023-12-06 |
-| [creativeai](https://github.com/sony/creativeai) | None | CSS | 80 | - | 2022-11-21 | 2026-05-07 | 2026-02-19 |
+| [creativeai](https://github.com/sony/creativeai) | None | CSS | 80 | - | 2022-11-21 | 2026-06-18 | 2026-06-18 |
 | [NDJIR](https://github.com/sony/NDJIR) | NDJIR: Neural Direct and Joint Inverse Rendering for Geometry, Lights, and Materials of Real Object | Python | 45 | Apache License 2.0 | 2022-12-14 | 2026-03-30 | 2023-02-08 |
 | [CLIPSep](https://github.com/sony/CLIPSep) | None | Python | 43 | MIT License | 2023-01-24 | 2025-12-29 | 2023-02-21 |
 | [audio-visual-seld-dcase2023](https://github.com/sony/audio-visual-seld-dcase2023) | Baseline method for audio-visual sound event localization and detection task of DCASE 2023 challenge | Python | 67 | MIT License | 2023-02-20 | 2026-06-03 | 2025-03-19 |
@@ -100,7 +100,7 @@
 | [CaR](https://github.com/sony/CaR) | None | Python | 5 | MIT License | 2025-02-06 | 2025-08-19 | 2025-02-07 |
 | [DFM](https://github.com/sony/DFM) | None | JavaScript | 0 | - | 2025-02-12 | 2025-02-24 | 2025-02-24 |
 | [QuietWalk](https://github.com/sony/QuietWalk) | None | JavaScript | 1 | - | 2025-02-12 | 2026-05-20 | 2025-02-23 |
-| [talkhier](https://github.com/sony/talkhier) | Official Repo for The Paper "Talk Structurally, Act Hierarchically: A Collaborative Framework for LLM Multi-Agent Systems" | Python | 64 | Other | 2025-02-13 | 2026-06-04 | 2025-02-24 |
+| [talkhier](https://github.com/sony/talkhier) | Official Repo for The Paper "Talk Structurally, Act Hierarchically: A Collaborative Framework for LLM Multi-Agent Systems" | Python | 63 | Other | 2025-02-13 | 2026-06-18 | 2025-02-24 |
 | [aki](https://github.com/sony/aki) | Official implementation of "Seeing is Understanding: Unlocking Causal Attention into Modality-Mutual Attention for Multimodal LLMs" | Python | 21 | Other | 2025-02-13 | 2026-05-22 | 2026-05-11 |
 | [vct](https://github.com/sony/vct) | None | Jupyter Notebook | 22 | MIT License | 2025-02-14 | 2026-05-28 | 2026-02-24 |
 | [EXID](https://github.com/sony/EXID) | Official implementation of Enhancing Generalization of Offline RL in Data-Limited Settings with Heuristic Rules (Accepted in IEEE TRANSACTIONS ON ARTIFICIAL INTELLIGENCE 2025) | Jupyter Notebook | 0 | MIT License | 2025-02-19 | 2025-02-27 | 2025-02-20 |
