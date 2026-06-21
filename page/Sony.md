@@ -1,15 +1,15 @@
 # Sony
 
-共 143 个项目，近半年内活跃项目 33 个，1 个团队， 18223 个 Star。
+共 143 个项目，近半年内活跃项目 33 个，1 个团队， 18224 个 Star。
 
 语言 Top 3：Python, JavaScript, C++
 
-统计时间：2026-06-20 09:11:02
+统计时间：2026-06-21 09:23:04
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3630 | MIT License | 2015-05-29 | 2026-06-20 | 2026-02-07 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4382 | MIT License | 2015-05-29 | 2026-06-19 | 2026-02-12 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3631 | MIT License | 2015-05-29 | 2026-06-20 | 2026-02-07 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4383 | MIT License | 2015-05-29 | 2026-06-21 | 2026-02-12 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 419 | MIT License | 2015-09-18 | 2026-05-04 | 2020-12-29 |
@@ -24,7 +24,7 @@
 | [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2772 | Apache License 2.0 | 2017-06-26 | 2026-06-15 | 2025-08-29 |
 | [easyhttpcpp](https://github.com/sony/easyhttpcpp) | A cross-platform HTTP client library with a focus on usability and speed | C++ | 176 | MIT License | 2017-08-09 | 2026-06-16 | 2022-01-31 |
 | [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 183 | Apache License 2.0 | 2017-09-07 | 2026-06-05 | 2026-06-05 |
-| [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 46 | Apache License 2.0 | 2017-09-07 | 2026-06-10 | 2026-06-18 |
+| [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 46 | Apache License 2.0 | 2017-09-07 | 2026-06-10 | 2026-06-20 |
 | [cdp-js](https://github.com/sony/cdp-js) | Libraries/SDK modules for multi-platform application development | TypeScript | 22 | Apache License 2.0 | 2017-10-10 | 2024-02-11 | 2018-05-10 |
 | [cdp-lib](https://github.com/sony/cdp-lib) | Application template/libraries for cdp-js (Details: see cdp-js repository) | JavaScript | 6 | Apache License 2.0 | 2017-10-10 | 2017-11-13 | 2018-02-23 |
 | [cdp-cli](https://github.com/sony/cdp-cli) | Command line tools for generating start point of multi-platform application development (Details: see cdp-js repository) | HTML | 7 | Apache License 2.0 | 2017-10-10 | 2020-12-13 | 2018-07-13 |
@@ -125,7 +125,7 @@
 | [micro-mail-sender](https://github.com/sony/micro-mail-sender) | Simplified SendGrid Clone | Go | 1 | MIT License | 2025-07-26 | 2026-03-21 | 2026-03-21 |
 | [SIoT-LSLtool](https://github.com/sony/SIoT-LSLtool) | None | Python | 9 | BSD 3-Clause "New" or "Revised" License | 2025-07-30 | 2025-08-04 | 2025-07-31 |
 | [SIoT-TrailCamera](https://github.com/sony/SIoT-TrailCamera) | None | C | 2 | BSD 3-Clause "New" or "Revised" License | 2025-08-19 | 2025-09-01 | 2025-08-29 |
-| [g2d2](https://github.com/sony/g2d2) | None | Python | 2 | Apache License 2.0 | 2025-08-25 | 2026-06-14 | 2025-08-27 |
+| [g2d2](https://github.com/sony/g2d2) | None | Python | 1 | Apache License 2.0 | 2025-08-25 | 2026-06-21 | 2025-08-27 |
 | [mocopi-receiver-plugin-unity](https://github.com/sony/mocopi-receiver-plugin-unity) | None | C# | 35 | Apache License 2.0 | 2025-08-26 | 2026-06-19 | 2025-12-22 |
 | [mocopi-receiver-plugin-motionbuilder](https://github.com/sony/mocopi-receiver-plugin-motionbuilder) | None | C++ | 5 | Apache License 2.0 | 2025-08-26 | 2026-03-13 | 2026-01-20 |
 | [mocopi-receiver-plugin-maya](https://github.com/sony/mocopi-receiver-plugin-maya) | None | C++ | 2 | Apache License 2.0 | 2025-08-26 | 2026-03-12 | 2026-01-29 |
