@@ -1,14 +1,14 @@
 # Sony
 
-共 143 个项目，近半年内活跃项目 32 个，1 个团队， 18233 个 Star。
+共 143 个项目，近半年内活跃项目 31 个，1 个团队， 18238 个 Star。
 
 语言 Top 3：Python, JavaScript, C++
 
-统计时间：2026-06-25 09:14:18
+统计时间：2026-06-26 09:14:30
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3634 | MIT License | 2015-05-29 | 2026-06-24 | 2026-02-07 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3635 | MIT License | 2015-05-29 | 2026-06-26 | 2026-02-07 |
 | [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4384 | MIT License | 2015-05-29 | 2026-06-24 | 2026-02-12 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
@@ -106,7 +106,7 @@
 | [EXID](https://github.com/sony/EXID) | Official implementation of Enhancing Generalization of Offline RL in Data-Limited Settings with Heuristic Rules (Accepted in IEEE TRANSACTIONS ON ARTIFICIAL INTELLIGENCE 2025) | Jupyter Notebook | 0 | MIT License | 2025-02-19 | 2025-02-27 | 2025-02-20 |
 | [humangif](https://github.com/sony/humangif) | None | Python | 1 | MIT License | 2025-02-25 | 2025-06-16 | 2025-02-27 |
 | [alice](https://github.com/sony/alice) | None | Jupyter Notebook | 1 | MIT License | 2025-03-10 | 2025-06-17 | 2025-03-10 |
-| [clews](https://github.com/sony/clews) | None | Python | 31 | MIT License | 2025-03-12 | 2026-05-22 | 2026-05-22 |
+| [clews](https://github.com/sony/clews) | None | Python | 33 | MIT License | 2025-03-12 | 2026-06-26 | 2026-05-22 |
 | [learning-feet-imu-locomotion](https://github.com/sony/learning-feet-imu-locomotion) | None | JavaScript | 0 | - | 2025-03-24 | 2025-04-11 | 2025-04-11 |
 | [di4c](https://github.com/sony/di4c) | None | Python | 11 | MIT License | 2025-04-02 | 2026-06-15 | 2026-02-17 |
 | [steermusic](https://github.com/sony/steermusic) | None | Python | 8 | MIT License | 2025-04-07 | 2026-02-25 | 2025-12-08 |
@@ -147,7 +147,7 @@
 | [MSA-bench](https://github.com/sony/MSA-bench) | Pytorch implementation of "Do Foundational Audio Encoders Understand Music Structure?" presented in ICASSP 2026. | Python | 4 | MIT License | 2026-01-21 | 2026-05-27 | 2026-04-10 |
 | [virtue](https://github.com/sony/virtue) | Official implementation of "VIRTUE: Visual-Interactive Text-Image Universal Embedder (ICLR 2026)" | Python | 6 | Apache License 2.0 | 2026-01-29 | 2026-06-04 | 2026-02-19 |
 | [B3-Seg-project](https://github.com/sony/B3-Seg-project) | None | None | 10 | - | 2026-02-18 | 2026-06-19 | 2026-05-27 |
-| [web_gen_v_bench](https://github.com/sony/web_gen_v_bench) | Official Repo for The Paper "WebGen-V Bench: Structured Representation for Enhancing Visual Design in LLM-based Web Generation and Evaluation” (KDD’26) | Python | 0 | MIT License | 2026-05-19 | 2026-06-15 | 2026-06-10 |
+| [web_gen_v_bench](https://github.com/sony/web_gen_v_bench) | Official Repo for The Paper "WebGen-V Bench: Structured Representation for Enhancing Visual Design in LLM-based Web Generation and Evaluation” (KDD’26) | Python | 2 | MIT License | 2026-05-19 | 2026-06-25 | 2026-06-10 |
 | [mucs](https://github.com/sony/mucs) | Code for the paper “Training Data Attribution in Diffusion Models via Mirrored Unlearning and Noise-Consistent Skew” | Python | 1 | Apache License 2.0 | 2026-05-22 | 2026-06-09 | 2026-06-09 |
 | [guda](https://github.com/sony/guda) | None | Python | 1 | MIT License | 2026-05-27 | 2026-05-29 | 2026-05-29 |
 | [MusTBench](https://github.com/sony/MusTBench) | None | Python | 2 | MIT License | 2026-06-08 | 2026-06-11 | 2026-06-10 |
