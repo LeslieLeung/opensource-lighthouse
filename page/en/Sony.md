@@ -1,15 +1,15 @@
 # Sony
 
-A total of 143 projects, 31 active projects in the last six months, 1 teams, and 18238 stars.
+A total of 143 projects, 31 active projects in the last six months, 1 teams, and 18243 stars.
 
 Top 3 Languages: Python, JavaScript, C++
 
-Statistics Date: 2026-06-26 09:14:30
+Statistics Date: 2026-06-27 09:02:10
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3635 | MIT License | 2015-05-29 | 2026-06-26 | 2026-02-07 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4384 | MIT License | 2015-05-29 | 2026-06-24 | 2026-02-12 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3637 | MIT License | 2015-05-29 | 2026-06-26 | 2026-02-07 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4386 | MIT License | 2015-05-29 | 2026-06-27 | 2026-02-12 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 419 | MIT License | 2015-09-18 | 2026-05-04 | 2020-12-29 |
@@ -91,7 +91,7 @@ Statistics Date: 2026-06-26 09:14:30
 | [Hi-ResLDM](https://github.com/sony/Hi-ResLDM) | None | None | 6 | - | 2025-01-11 | 2025-10-28 | 2025-02-12 |
 | [stamp](https://github.com/sony/stamp) | None | TypeScript | 7 | MIT License | 2025-01-20 | 2026-05-27 | 2026-05-27 |
 | [ABA](https://github.com/sony/ABA) | Official Repo for The Paper "Adaptive Budget Optimization for Multichannel Advertising Using Combinatorial Bandits" (AAMAS'25) | Python | 2 | Other | 2025-01-21 | 2025-07-28 | 2025-02-18 |
-| [MambaPEFT](https://github.com/sony/MambaPEFT) | None | Python | 22 | Apache License 2.0 | 2025-01-24 | 2026-06-13 | 2025-03-27 |
+| [MambaPEFT](https://github.com/sony/MambaPEFT) | None | Python | 22 | Apache License 2.0 | 2025-01-24 | 2026-06-26 | 2025-03-27 |
 | [bl-flowsom_eval](https://github.com/sony/bl-flowsom_eval) | None | Jupyter Notebook | 0 | MIT License | 2025-01-28 | 2025-02-04 | 2025-02-04 |
 | [bl-flowsom_poc](https://github.com/sony/bl-flowsom_poc) | None | Python | 1 | Other | 2025-01-28 | 2025-08-14 | 2025-02-04 |
 | [jys](https://github.com/sony/jys) | None | Python | 7 | MIT License | 2025-02-06 | 2025-11-17 | 2025-11-17 |
@@ -142,7 +142,7 @@ Statistics Date: 2026-06-26 09:14:30
 | [sampleid](https://github.com/sony/sampleid) | Code for the paper “Automatic Music Sample Identification with Multi-Track Contrastive Learning”. | Python | 23 | MIT License | 2025-10-15 | 2026-06-12 | 2026-05-22 |
 | [coda](https://github.com/sony/coda) | Official PyTorch implementation of "Contrastive Object-centric Diffusion Alignment" | Python | 3 | Apache License 2.0 | 2025-10-20 | 2026-06-16 | 2026-01-27 |
 | [studies-for](https://github.com/sony/studies-for) | None | JavaScript | 0 | - | 2025-10-23 | 2026-06-09 | 2026-06-09 |
-| [mf-rae](https://github.com/sony/mf-rae) | None | Python | 38 | MIT License | 2025-11-13 | 2026-06-19 | 2025-11-19 |
+| [mf-rae](https://github.com/sony/mf-rae) | None | Python | 39 | MIT License | 2025-11-13 | 2026-06-26 | 2025-11-19 |
 | [FCM_Large_Particles](https://github.com/sony/FCM_Large_Particles) | None | Jupyter Notebook | 0 | BSD 3-Clause "New" or "Revised" License | 2025-12-16 | 2025-12-22 | 2025-12-22 |
 | [MSA-bench](https://github.com/sony/MSA-bench) | Pytorch implementation of "Do Foundational Audio Encoders Understand Music Structure?" presented in ICASSP 2026. | Python | 4 | MIT License | 2026-01-21 | 2026-05-27 | 2026-04-10 |
 | [virtue](https://github.com/sony/virtue) | Official implementation of "VIRTUE: Visual-Interactive Text-Image Universal Embedder (ICLR 2026)" | Python | 6 | Apache License 2.0 | 2026-01-29 | 2026-06-04 | 2026-02-19 |
