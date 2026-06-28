@@ -1,25 +1,25 @@
 # Meta
 
-A total of 168 projects, 132 active projects in the last six months, 1 teams, and 568139 stars.
+A total of 168 projects, 132 active projects in the last six months, 1 teams, and 568385 stars.
 
 Top 3 Languages: C++, Rust, Python
 
-Statistics Date: 2026-06-27 09:02:10
+Statistics Date: 2026-06-28 09:10:12
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [hhvm](https://github.com/facebook/hhvm) | A virtual machine for executing programs written in Hack. | C++ | 18636 | Other | 2010-01-02 | 2026-06-27 | 2026-06-27 |
+| [hhvm](https://github.com/facebook/hhvm) | A virtual machine for executing programs written in Hack. | C++ | 18634 | Other | 2010-01-02 | 2026-06-28 | 2026-06-28 |
 | [pyre2](https://github.com/facebook/pyre2) | Python wrapper for RE2 | C++ | 648 | BSD 3-Clause "New" or "Revised" License | 2010-03-16 | 2026-06-17 | 2023-11-06 |
 | [open-graph-protocol](https://github.com/facebook/open-graph-protocol) | None | PHP | 458 | - | 2010-04-20 | 2026-06-22 | 2025-06-25 |
 | [facebook-android-sdk](https://github.com/facebook/facebook-android-sdk) | Used to integrate Android apps with Facebook Platform. | Kotlin | 6440 | Other | 2010-05-10 | 2026-06-26 | 2026-06-25 |
 | [facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk) | Used to integrate the Facebook Platform with your iOS & tvOS apps. | Swift | 8068 | Other | 2010-06-24 | 2026-06-26 | 2026-06-25 |
-| [folly](https://github.com/facebook/folly) | An open-source C++ library developed and used at Facebook. | C++ | 30436 | Apache License 2.0 | 2012-06-01 | 2026-06-27 | 2026-06-27 |
-| [watchman](https://github.com/facebook/watchman) | Watches files and records, or triggers actions, when they change.  | C++ | 13615 | MIT License | 2012-11-29 | 2026-06-27 | 2026-06-27 |
-| [rocksdb](https://github.com/facebook/rocksdb) | A library that provides an embeddable, persistent key-value store for fast storage. | C++ | 31808 | GNU General Public License v2.0 | 2012-11-30 | 2026-06-26 | 2026-06-25 |
+| [folly](https://github.com/facebook/folly) | An open-source C++ library developed and used at Facebook. | C++ | 30437 | Apache License 2.0 | 2012-06-01 | 2026-06-27 | 2026-06-27 |
+| [watchman](https://github.com/facebook/watchman) | Watches files and records, or triggers actions, when they change.  | C++ | 13616 | MIT License | 2012-11-29 | 2026-06-27 | 2026-06-27 |
+| [rocksdb](https://github.com/facebook/rocksdb) | A library that provides an embeddable, persistent key-value store for fast storage. | C++ | 31807 | GNU General Public License v2.0 | 2012-11-30 | 2026-06-28 | 2026-06-25 |
 | [chef-utils](https://github.com/facebook/chef-utils) | Utilities related to Chef | Ruby | 289 | Apache License 2.0 | 2013-02-20 | 2026-04-01 | 2026-04-01 |
 | [mysql-5.6](https://github.com/facebook/mysql-5.6) | Facebook's branch of the Oracle MySQL database. This includes MyRocks. | C++ | 2579 | Other | 2013-04-15 | 2026-06-22 | 2025-02-27 |
 | [buck](https://github.com/facebook/buck) | A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages. | Java | 8543 | Apache License 2.0 | 2013-04-17 | 2026-06-25 | 2023-10-25 |
-| [fbthrift](https://github.com/facebook/fbthrift) | Facebook's branch of Apache Thrift, including a new C++ server. | C++ | 2693 | Apache License 2.0 | 2013-07-02 | 2026-06-27 | 2026-06-27 |
+| [fbthrift](https://github.com/facebook/fbthrift) | Facebook's branch of Apache Thrift, including a new C++ server. | C++ | 2693 | Apache License 2.0 | 2013-07-02 | 2026-06-28 | 2026-06-28 |
 | [fishhook](https://github.com/facebook/fishhook) | A library that enables dynamically rebinding symbols in Mach-O binaries running on iOS. | C | 5418 | BSD 3-Clause "New" or "Revised" License | 2013-07-11 | 2026-06-25 | 2024-08-01 |
 | [react-devtools](https://github.com/facebook/react-devtools) | An extension that allows inspection of React component hierarchy in the Chrome and Firefox Developer Tools. | None | 11018 | Other | 2013-09-04 | 2026-06-26 | 2019-09-03 |
 | [regenerator](https://github.com/facebook/regenerator) | Source transformer enabling ECMAScript 6 generator functions in JavaScript-of-today. | JavaScript | 3826 | MIT License | 2013-10-05 | 2026-06-25 | 2024-02-29 |
@@ -36,27 +36,27 @@ Statistics Date: 2026-06-27 09:02:10
 | [between-meals](https://github.com/facebook/between-meals) | A library to provide calculations between Chef diffs. | Ruby | 56 | Apache License 2.0 | 2014-09-04 | 2026-06-22 | 2026-06-22 |
 | [fatal](https://github.com/facebook/fatal) | Fatal is a library for fast prototyping software in modern C++. It provides facilities to enhance the expressive power of C++. The library is heavily based on template meta-programming, while keeping the complexity under-the-hood. | C++ | 1019 | Other | 2014-09-09 | 2026-06-25 | 2026-06-25 |
 | [proxygen](https://github.com/facebook/proxygen) | A collection of C++ HTTP libraries including an easy to use HTTP server. | C++ | 8354 | Other | 2014-10-03 | 2026-06-27 | 2026-06-27 |
-| [flow](https://github.com/facebook/flow) | Adds static typing to JavaScript to improve developer productivity and code quality. | Rust | 22256 | MIT License | 2014-10-28 | 2026-06-27 | 2026-06-27 |
+| [flow](https://github.com/facebook/flow) | Adds static typing to JavaScript to improve developer productivity and code quality. | Rust | 22259 | MIT License | 2014-10-28 | 2026-06-28 | 2026-06-27 |
 | [wangle](https://github.com/facebook/wangle) | Wangle is a framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way. | C++ | 3097 | Apache License 2.0 | 2014-12-11 | 2026-06-27 | 2026-06-27 |
 | [stetho](https://github.com/facebook/stetho) | Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more. | Java | 12670 | MIT License | 2015-01-22 | 2026-06-26 | 2024-10-26 |
-| [zstd](https://github.com/facebook/zstd) | Zstandard - Fast real-time compression algorithm | C | 27293 | Other | 2015-01-24 | 2026-06-27 | 2026-06-01 |
-| [infer](https://github.com/facebook/infer) | A static analyzer for Java, C, C++, and Objective-C | OCaml | 15655 | MIT License | 2015-01-26 | 2026-06-27 | 2026-06-25 |
-| [ThreatExchange](https://github.com/facebook/ThreatExchange) | Trust & Safety tools for working together to fight digital harms.  | C++ | 1343 | Other | 2015-02-12 | 2026-06-26 | 2026-06-26 |
+| [zstd](https://github.com/facebook/zstd) | Zstandard - Fast real-time compression algorithm | C | 27295 | Other | 2015-01-24 | 2026-06-28 | 2026-06-01 |
+| [infer](https://github.com/facebook/infer) | A static analyzer for Java, C, C++, and Objective-C | OCaml | 15656 | MIT License | 2015-01-26 | 2026-06-27 | 2026-06-25 |
+| [ThreatExchange](https://github.com/facebook/ThreatExchange) | Trust & Safety tools for working together to fight digital harms.  | C++ | 1344 | Other | 2015-02-12 | 2026-06-27 | 2026-06-26 |
 | [squangle](https://github.com/facebook/squangle) | SQuangLe is a C++ API for accessing MySQL servers | C++ | 126 | Other | 2015-02-13 | 2026-06-26 | 2026-06-26 |
 | [facebook-ruby-business-sdk](https://github.com/facebook/facebook-ruby-business-sdk) | Ruby SDK for Meta Marketing API | Ruby | 214 | Other | 2015-02-25 | 2026-06-13 | 2026-06-13 |
-| [fresco](https://github.com/facebook/fresco) | An Android library for managing images and the memory they use. | Kotlin | 17152 | MIT License | 2015-03-02 | 2026-06-26 | 2026-06-26 |
-| [jscodeshift](https://github.com/facebook/jscodeshift) | A JavaScript codemod toolkit. | JavaScript | 10014 | MIT License | 2015-03-07 | 2026-06-26 | 2026-06-24 |
-| [openbmc](https://github.com/facebook/openbmc) | OpenBMC is an open software framework to build a complete Linux image for a Board Management Controller (BMC). | C | 681 | Apache License 2.0 | 2015-03-09 | 2026-06-26 | 2026-06-26 |
+| [fresco](https://github.com/facebook/fresco) | An Android library for managing images and the memory they use. | Kotlin | 17152 | MIT License | 2015-03-02 | 2026-06-28 | 2026-06-28 |
+| [jscodeshift](https://github.com/facebook/jscodeshift) | A JavaScript codemod toolkit. | JavaScript | 10015 | MIT License | 2015-03-07 | 2026-06-28 | 2026-06-27 |
+| [openbmc](https://github.com/facebook/openbmc) | OpenBMC is an open software framework to build a complete Linux image for a Board Management Controller (BMC). | C | 681 | Apache License 2.0 | 2015-03-09 | 2026-06-28 | 2026-06-28 |
 | [fboss](https://github.com/facebook/fboss) | Facebook Open Switching System
 
 Software for controlling network switches. | C++ | 976 | Other | 2015-03-09 | 2026-06-27 | 2026-06-27 |
 | [componentkit](https://github.com/facebook/componentkit) | A React-inspired view framework for iOS. | Objective-C++ | 5759 | Other | 2015-03-20 | 2026-06-25 | 2024-01-16 |
 | [PathPicker](https://github.com/facebook/PathPicker) | PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands. | Python | 5224 | MIT License | 2015-05-01 | 2026-06-22 | 2024-09-05 |
 | [fbjs](https://github.com/facebook/fbjs) | A collection of utility libraries used by other Meta JS projects. | JavaScript | 1963 | MIT License | 2015-05-28 | 2026-06-06 | 2026-01-21 |
-| [relay](https://github.com/facebook/relay) | Relay is a JavaScript framework for building data-driven React applications. | Rust | 18943 | MIT License | 2015-08-10 | 2026-06-27 | 2026-06-27 |
+| [relay](https://github.com/facebook/relay) | Relay is a JavaScript framework for building data-driven React applications. | Rust | 18944 | MIT License | 2015-08-10 | 2026-06-28 | 2026-06-27 |
 | [screenshot-tests-for-android](https://github.com/facebook/screenshot-tests-for-android) | Generate fast deterministic screenshots during Android instrumentation tests | Java | 1741 | Apache License 2.0 | 2015-08-31 | 2026-06-08 | 2026-01-07 |
 | [facebook-sdk-for-unity](https://github.com/facebook/facebook-sdk-for-unity) | The facebook sdk for unity. | C# | 502 | Other | 2015-09-01 | 2026-06-26 | 2026-06-26 |
-| [idb](https://github.com/facebook/idb) | idb is a flexible command line interface for automating iOS simulators and devices | Swift | 5163 | MIT License | 2015-09-03 | 2026-06-27 | 2026-06-26 |
+| [idb](https://github.com/facebook/idb) | idb is a flexible command line interface for automating iOS simulators and devices | Swift | 5164 | MIT License | 2015-09-03 | 2026-06-28 | 2026-06-26 |
 | [homebrew-fb](https://github.com/facebook/homebrew-fb) | OS X Homebrew formulas to install Meta open source software | Ruby | 126 | Other | 2015-09-13 | 2026-01-07 | 2024-03-06 |
 | [SoLoader](https://github.com/facebook/SoLoader) | Native code loader for Android | Java | 1436 | Apache License 2.0 | 2015-10-22 | 2026-06-25 | 2026-06-10 |
 | [facebook-java-business-sdk](https://github.com/facebook/facebook-java-business-sdk) | Java SDK for Meta Marketing APIs | Java | 460 | Other | 2015-12-01 | 2026-06-22 | 2026-06-13 |
@@ -71,22 +71,22 @@ Software for controlling network switches. | C++ | 976 | Other | 2015-03-09 | 20
 | [prophet](https://github.com/facebook/prophet) | Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth. | Python | 20262 | MIT License | 2016-11-16 | 2026-06-26 | 2026-05-08 |
 | [litho](https://github.com/facebook/litho) | A declarative framework for building efficient UIs on Android. | Kotlin | 7771 | Apache License 2.0 | 2017-01-27 | 2026-06-16 | 2026-06-22 |
 | [idx](https://github.com/facebook/idx) | Library for accessing arbitrarily nested, possibly nullable properties on a JavaScript object. | JavaScript | 1689 | MIT License | 2017-02-28 | 2026-04-09 | 2024-01-10 |
-| [duckling](https://github.com/facebook/duckling) | Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings. | Haskell | 4294 | Other | 2017-03-02 | 2026-06-25 | 2026-03-15 |
+| [duckling](https://github.com/facebook/duckling) | Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings. | Haskell | 4295 | Other | 2017-03-02 | 2026-06-27 | 2026-03-15 |
 | [prop-types](https://github.com/facebook/prop-types) | Runtime type checking for React props and similar objects | JavaScript | 4453 | MIT License | 2017-04-08 | 2026-06-26 | 2024-05-17 |
 | [facebook-for-woocommerce](https://github.com/facebook/facebook-for-woocommerce) | The official plugin from Meta. This repository is now officially maintained by Meta's engineering team. We welcome and encourage contributions from the community.  | PHP | 257 | GNU General Public License v2.0 | 2017-05-08 | 2026-06-25 | 2026-06-25 |
 | [mysql-8.0](https://github.com/facebook/mysql-8.0) | MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database. | C++ | 114 | GNU General Public License v2.0 | 2017-05-16 | 2026-02-17 | 2024-07-23 |
-| [docusaurus](https://github.com/facebook/docusaurus) | Easy to maintain open source documentation websites. | TypeScript | 65411 | MIT License | 2017-06-20 | 2026-06-27 | 2026-06-26 |
-| [facebook-nodejs-business-sdk](https://github.com/facebook/facebook-nodejs-business-sdk) | Node.js SDK for Meta Marketing APIs | JavaScript | 600 | Other | 2017-08-29 | 2026-06-24 | 2026-06-13 |
+| [docusaurus](https://github.com/facebook/docusaurus) | Easy to maintain open source documentation websites. | TypeScript | 65422 | MIT License | 2017-06-20 | 2026-06-28 | 2026-06-26 |
+| [facebook-nodejs-business-sdk](https://github.com/facebook/facebook-nodejs-business-sdk) | Node.js SDK for Meta Marketing APIs | JavaScript | 601 | Other | 2017-08-29 | 2026-06-27 | 2026-06-13 |
 | [openr](https://github.com/facebook/openr) | Distributed platform for building autonomic network functions. | C++ | 936 | MIT License | 2017-10-25 | 2026-06-27 | 2026-06-27 |
 | [pyre-check](https://github.com/facebook/pyre-check) | Performant type-checking for python. | OCaml | 7174 | MIT License | 2017-11-10 | 2026-06-27 | 2026-06-26 |
 | [FAI-PEP](https://github.com/facebook/FAI-PEP) | Facebook AI Performance Evaluation Platform | Python | 394 | Apache License 2.0 | 2017-11-21 | 2026-06-09 | 2026-06-09 |
-| [mvfst](https://github.com/facebook/mvfst) | An implementation of the QUIC transport protocol. | C++ | 1651 | MIT License | 2018-04-09 | 2026-06-27 | 2026-06-27 |
+| [mvfst](https://github.com/facebook/mvfst) | An implementation of the QUIC transport protocol. | C++ | 1652 | MIT License | 2018-04-09 | 2026-06-27 | 2026-06-27 |
 | [flipper](https://github.com/facebook/flipper) | A desktop debugging platform for mobile developers. | TypeScript | 13481 | MIT License | 2018-04-12 | 2026-06-25 | 2025-09-26 |
-| [SPARTA](https://github.com/facebook/SPARTA) | SPARTA is a library of software components specially designed for building high-performance static analyzers based on the theory of Abstract Interpretation. | C++ | 670 | MIT License | 2018-05-03 | 2026-06-22 | 2026-04-15 |
+| [SPARTA](https://github.com/facebook/SPARTA) | SPARTA is a library of software components specially designed for building high-performance static analyzers based on the theory of Abstract Interpretation. | C++ | 671 | MIT License | 2018-05-03 | 2026-06-27 | 2026-04-15 |
 | [fbt](https://github.com/facebook/fbt) | A JavaScript Internationalization Framework | JavaScript | 3883 | MIT License | 2018-08-01 | 2026-06-17 | 2024-11-14 |
 | [TestSlide](https://github.com/facebook/TestSlide) | A Python test framework | Python | 147 | MIT License | 2018-08-03 | 2026-05-22 | 2026-04-28 |
 | [fbghc](https://github.com/facebook/fbghc) | Mirror of the Glasgow Haskell Compiler. Patches are best submitted to GHC's Phabricator (https://phabricator.haskell.org/), bugs and feature-requests are best filed to GHC's Trac (https://ghc.haskell.org/trac/ghc), or sent to the mailing list (ghc-devs@haskell.org). | Haskell | 16 | Other | 2018-09-27 | 2025-01-09 | 2022-09-01 |
-| [hermes](https://github.com/facebook/hermes) | A JavaScript engine optimized for running React Native. | JavaScript | 11179 | MIT License | 2018-10-22 | 2026-06-27 | 2026-06-26 |
+| [hermes](https://github.com/facebook/hermes) | A JavaScript engine optimized for running React Native. | JavaScript | 11182 | MIT License | 2018-10-22 | 2026-06-28 | 2026-06-26 |
 | [openbmc-linux](https://github.com/facebook/openbmc-linux) | Linux kernel consumed by OpenBMC | C | 43 | Other | 2018-11-02 | 2026-01-07 | 2026-06-03 |
 | [Rapid](https://github.com/facebook/Rapid) | The OpenStreetMap editor driven by open data, AI, and supercharged features | JavaScript | 635 | ISC License | 2018-12-10 | 2026-06-09 | 2026-05-28 |
 | [kuduraft](https://github.com/facebook/kuduraft) | A Raft Library in C++ based on the Raft implementation in Apache Kudu | C++ | 143 | Apache License 2.0 | 2019-01-03 | 2026-06-25 | 2026-06-25 |
@@ -96,7 +96,7 @@ Software for controlling network switches. | C++ | 976 | Other | 2015-03-09 | 20
 | [openbmc-uboot](https://github.com/facebook/openbmc-uboot) | Tracking Denx Das u-boot with various trusted computing add-ons. | None | 21 | - | 2019-04-30 | 2026-01-07 | 2026-06-17 |
 | [GoogleTagManager-WebTemplate-For-FacebookPixel](https://github.com/facebook/GoogleTagManager-WebTemplate-For-FacebookPixel) | Facebook Pixel - Custom Tag Template for Google Tag Manager. | Smarty | 51 | Apache License 2.0 | 2019-08-01 | 2026-06-17 | 2026-06-16 |
 | [facebook360_dep](https://github.com/facebook/facebook360_dep) | Facebook360 Depth Estimation Pipeline - https://facebook.github.io/facebook360_dep | HTML | 256 | Other | 2019-08-27 | 2026-03-26 | 2026-01-12 |
-| [ktfmt](https://github.com/facebook/ktfmt) | A program that reformats Kotlin source code to comply with the common community standard for Kotlin code conventions. | Kotlin | 1275 | Apache License 2.0 | 2019-10-29 | 2026-06-24 | 2026-06-24 |
+| [ktfmt](https://github.com/facebook/ktfmt) | A program that reformats Kotlin source code to comply with the common community standard for Kotlin code conventions. | Kotlin | 1276 | Apache License 2.0 | 2019-10-29 | 2026-06-28 | 2026-06-24 |
 | [ristretto255-js](https://github.com/facebook/ristretto255-js) | Javascript implementation of the Ristretto255 group operations, built on top of the popular TweetNaCl.js crypto library | JavaScript | 34 | MIT License | 2019-11-13 | 2026-05-25 | 2023-12-13 |
 | [CacheLib](https://github.com/facebook/CacheLib) | Pluggable in-process caching engine to build and scale high performance services | C++ | 1562 | Apache License 2.0 | 2019-11-22 | 2026-06-27 | 2026-06-27 |
 | [usort](https://github.com/facebook/usort) | Safe, minimal import sorting for Python projects. | Python | 205 | MIT License | 2020-01-23 | 2026-06-07 | 2026-03-01 |
@@ -104,26 +104,26 @@ Software for controlling network switches. | C++ | 976 | Other | 2015-03-09 | 20
 | [bunnylol.rs](https://github.com/facebook/bunnylol.rs) | bunnylol is a tool for writing smart bookmarks. Use in your browser, or on the command-line | Rust | 135 | MIT License | 2020-06-03 | 2026-06-21 | 2026-05-19 |
 | [opaque-ke](https://github.com/facebook/opaque-ke) | An implementation of the OPAQUE password-authenticated key exchange protocol | Rust | 404 | Apache License 2.0 | 2020-06-04 | 2026-06-12 | 2026-06-23 |
 | [mariana-trench](https://github.com/facebook/mariana-trench) | A security focused static analysis tool for Android and Java applications. | C++ | 1242 | MIT License | 2020-12-02 | 2026-06-11 | 2026-06-19 |
-| [lexical](https://github.com/facebook/lexical) | Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance. | TypeScript | 23583 | MIT License | 2020-12-03 | 2026-06-27 | 2026-06-27 |
+| [lexical](https://github.com/facebook/lexical) | Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance. | TypeScript | 23585 | MIT License | 2020-12-03 | 2026-06-28 | 2026-06-27 |
 | [sapp](https://github.com/facebook/sapp) | Post Processor for Facebook Static Analysis Tools. | Python | 143 | MIT License | 2020-12-04 | 2026-06-25 | 2026-06-25 |
-| [starlark-rust](https://github.com/facebook/starlark-rust) | A Rust implementation of the Starlark language | Rust | 991 | Apache License 2.0 | 2020-12-07 | 2026-06-27 | 2026-06-27 |
+| [starlark-rust](https://github.com/facebook/starlark-rust) | A Rust implementation of the Starlark language | Rust | 992 | Apache License 2.0 | 2020-12-07 | 2026-06-27 | 2026-06-27 |
 | [OpenBIC](https://github.com/facebook/OpenBIC) | BICs (Bridge IC) are standalone devices deployed within a Data Center that enable monitoring a multi-host system using a single BMC device. | C | 66 | Apache License 2.0 | 2021-02-03 | 2026-06-20 | 2026-06-21 |
 | [dont-use-facebook-for-woocommerce](https://github.com/facebook/dont-use-facebook-for-woocommerce) | A first-party extension plugin built for WooCommerce. | PHP | 2 | GNU General Public License v2.0 | 2021-03-23 | 2025-10-26 | 2024-11-18 |
-| [winterfell](https://github.com/facebook/winterfell) | A STARK prover and verifier for arbitrary computations | Rust | 892 | MIT License | 2021-04-23 | 2026-06-18 | 2025-07-19 |
+| [winterfell](https://github.com/facebook/winterfell) | A STARK prover and verifier for arbitrary computations | Rust | 893 | MIT License | 2021-04-23 | 2026-06-27 | 2025-07-19 |
 | [akd](https://github.com/facebook/akd) | An implementation of an auditable key directory | Rust | 322 | Apache License 2.0 | 2021-06-29 | 2026-06-20 | 2026-06-18 |
 | [hyperion](https://github.com/facebook/hyperion) | This project enabled intercepting and virtualizing the browser API | TypeScript | 45 | MIT License | 2021-07-09 | 2026-05-04 | 2026-06-23 |
 | [voprf](https://github.com/facebook/voprf) | An implementation of a verifiable oblivious pseudorandom function (RFC 9497) | Rust | 86 | Apache License 2.0 | 2021-09-02 | 2026-06-02 | 2026-04-06 |
 | [netconsd](https://github.com/facebook/netconsd) | Receive and process logs from the Linux kernel. | C | 61 | BSD 3-Clause "New" or "Revised" License | 2021-09-08 | 2026-05-28 | 2026-04-22 |
 | [pyre-action](https://github.com/facebook/pyre-action) | GitHub Action for Pyre | None | 23 | MIT License | 2021-10-12 | 2026-05-26 | 2026-03-02 |
-| [buck2](https://github.com/facebook/buck2) | Build system, successor to Buck | Rust | 4365 | Apache License 2.0 | 2022-01-21 | 2026-06-27 | 2026-06-27 |
+| [buck2](https://github.com/facebook/buck2) | Build system, successor to Buck | Rust | 4365 | Apache License 2.0 | 2022-01-21 | 2026-06-28 | 2026-06-28 |
 | [pysa-action](https://github.com/facebook/pysa-action) | GitHub Action for Pysa | None | 27 | MIT License | 2022-03-08 | 2026-05-17 | 2023-04-11 |
-| [memlab](https://github.com/facebook/memlab) | A framework for finding JavaScript memory leaks and analyzing heap snapshots | TypeScript | 4985 | MIT License | 2022-05-26 | 2026-06-26 | 2026-06-27 |
+| [memlab](https://github.com/facebook/memlab) | A framework for finding JavaScript memory leaks and analyzing heap snapshots | TypeScript | 4986 | MIT License | 2022-05-26 | 2026-06-28 | 2026-06-27 |
 | [lr-with-bins](https://github.com/facebook/lr-with-bins) | An experimental first-stage model used for quick and efficient inference on part of the data. | Jupyter Notebook | 14 | MIT License | 2022-08-22 | 2026-01-22 | 2022-09-01 |
 | [threat-research](https://github.com/facebook/threat-research) | Welcome to the Meta Threat Research Indicator Repository, a dedicated resource for the sharing of Indicators of Compromise (IOCs) and other threat indicators with the external research community | Python | 178 | MIT License | 2022-08-25 | 2026-06-26 | 2026-05-19 |
 | [buck2-prelude](https://github.com/facebook/buck2-prelude) | Prelude for the Buck2 project | Starlark | 69 | Apache License 2.0 | 2022-09-24 | 2026-06-27 | 2026-06-27 |
 | [dns](https://github.com/facebook/dns) | Collection of Meta's DNS Libraries | Go | 295 | Apache License 2.0 | 2022-10-04 | 2026-06-10 | 2026-06-11 |
 | [errpy](https://github.com/facebook/errpy) | An Error-Recovering Parser for Python | Rust | 57 | MIT License | 2022-11-08 | 2026-06-09 | 2025-01-13 |
-| [stylex](https://github.com/facebook/stylex) | StyleX is the styling system for ambitious user interfaces. | JavaScript | 9432 | MIT License | 2022-12-08 | 2026-06-27 | 2026-06-24 |
+| [stylex](https://github.com/facebook/stylex) | StyleX is the styling system for ambitious user interfaces. | JavaScript | 9434 | MIT License | 2022-12-08 | 2026-06-27 | 2026-06-24 |
 | [ocamlrep](https://github.com/facebook/ocamlrep) | Sets of libraries and tools to write applications and libraries mixing OCaml and Rust. These libraries will help keeping your types and data structures synchronized, and enable seamless exchange between OCaml and Rust | Rust | 144 | MIT License | 2022-12-13 | 2026-06-27 | 2026-06-27 |
 | [glTF](https://github.com/facebook/glTF) | glTF – Runtime 3D Asset Delivery | HTML | 4 | Other | 2023-01-25 | 2026-02-07 | 2026-04-22 |
 | [bpfilter](https://github.com/facebook/bpfilter) | eBPF-based packet filtering framework | C | 341 | GNU General Public License v2.0 | 2023-02-20 | 2026-06-25 | 2026-05-28 |
@@ -141,40 +141,40 @@ Software for controlling network switches. | C++ | 976 | Other | 2015-03-09 | 20
 | [glXF](https://github.com/facebook/glXF) | glTF Experience Format (glXF) | None | 2 | - | 2023-10-06 | 2026-02-10 | 2024-06-07 |
 | [dotslash-publish-release](https://github.com/facebook/dotslash-publish-release) | Create DotSlash files for GitHub releases | Python | 9 | MIT License | 2024-01-24 | 2025-12-18 | 2025-11-17 |
 | [dotslash](https://github.com/facebook/dotslash) | Simplified executable deployment | Rust | 851 | Apache License 2.0 | 2024-02-06 | 2026-06-25 | 2026-06-25 |
-| [Pysa](https://github.com/facebook/Pysa) | Security-focused Python Static Analyzer | OCaml | 4 | MIT License | 2024-02-13 | 2026-06-26 | 2026-06-26 |
+| [Pysa](https://github.com/facebook/Pysa) | Security-focused Python Static Analyzer | OCaml | 4 | MIT License | 2024-02-13 | 2026-06-28 | 2026-06-28 |
 | [install-dotslash](https://github.com/facebook/install-dotslash) | A simple GitHub Action to install a precompiled dotslash binary | None | 4 | MIT License | 2024-02-15 | 2026-06-18 | 2026-06-18 |
 | [oram](https://github.com/facebook/oram) | An implementation of Oblivious RAM | Rust | 40 | Apache License 2.0 | 2024-04-02 | 2026-05-31 | 2026-05-31 |
 | [zapier-shops-orders](https://github.com/facebook/zapier-shops-orders) | A Zapier integration with Meta Shops orders using the Commerce API (https//developers.facebook.com/docs/commerce-platform/) | TypeScript | 8 | MIT License | 2024-04-22 | 2026-03-19 | 2024-08-16 |
 | [pake-kem](https://github.com/facebook/pake-kem) | An implementation of a PAKE based on a KEM | Rust | 5 | Apache License 2.0 | 2024-08-09 | 2026-06-05 | 2026-03-27 |
 | [messaging_schemas](https://github.com/facebook/messaging_schemas) | This repo contains the Protocol Buffer schemas used for Meta's end-to-end encryption (E2EE) backend storage Encrypted Backups (EB). This can be used to deserialize the decrypted plaintext of the messaging data (or to serialize data). | None | 6 | BSD 3-Clause "New" or "Revised" License | 2024-08-13 | 2026-01-20 | 2024-08-14 |
 | [buck2-shims-meta](https://github.com/facebook/buck2-shims-meta) | Shims to convert Meta internal buck2 macros/targets for open source build compatibility. | Starlark | 5 | Apache License 2.0 | 2024-10-11 | 2026-06-27 | 2026-06-27 |
-| [pyrefly](https://github.com/facebook/pyrefly) | A fast type checker and language server for Python | Rust | 6715 | MIT License | 2025-02-19 | 2026-06-27 | 2026-06-27 |
-| [capi-param-builder](https://github.com/facebook/capi-param-builder) | Conversions API parameter builder to help enhance the parameter qualities for Conversions API events | JavaScript | 25 | Other | 2025-05-06 | 2026-06-11 | 2026-06-21 |
+| [pyrefly](https://github.com/facebook/pyrefly) | A fast type checker and language server for Python | Rust | 6715 | MIT License | 2025-02-19 | 2026-06-28 | 2026-06-28 |
+| [capi-param-builder](https://github.com/facebook/capi-param-builder) | Conversions API parameter builder to help enhance the parameter qualities for Conversions API events | JavaScript | 26 | Other | 2025-05-06 | 2026-06-27 | 2026-06-21 |
 | [jemalloc](https://github.com/facebook/jemalloc) | Meta fork of the OG Jemalloc project | C | 247 | Other | 2025-05-14 | 2026-06-18 | 2026-03-11 |
 | [pyrefly-pre-commit](https://github.com/facebook/pyrefly-pre-commit) | A pre-commit hook for Pyrefly. | Python | 27 | MIT License | 2025-08-22 | 2026-06-19 | 2026-06-19 |
-| [immersive-web-sdk](https://github.com/facebook/immersive-web-sdk) | WebXR made simple. Full-featured framework with interactions, locomotion, and spatial UI. Powered by Three.js. | TypeScript | 355 | MIT License | 2025-08-25 | 2026-06-26 | 2026-06-26 |
-| [openzl](https://github.com/facebook/openzl) | A novel data compression framework | C | 3099 | Other | 2025-09-30 | 2026-06-26 | 2026-06-26 |
+| [immersive-web-sdk](https://github.com/facebook/immersive-web-sdk) | WebXR made simple. Full-featured framework with interactions, locomotion, and spatial UI. Powered by Three.js. | TypeScript | 356 | MIT License | 2025-08-25 | 2026-06-28 | 2026-06-26 |
+| [openzl](https://github.com/facebook/openzl) | A novel data compression framework | C | 3111 | Other | 2025-09-30 | 2026-06-28 | 2026-06-26 |
 | [openapi](https://github.com/facebook/openapi) | This repository provides OpenAPI specifications for Meta APIs | None | 147 | MIT License | 2025-10-31 | 2026-06-21 | 2026-04-29 |
 | [content-review-filters](https://github.com/facebook/content-review-filters) | Set of filters and preferences that can be applied to content viewed in a content review tool.  | TypeScript | 5 | Apache License 2.0 | 2025-11-04 | 2026-06-22 | 2026-06-22 |
-| [meta-wearables-dat-android](https://github.com/facebook/meta-wearables-dat-android) | Meta Wearables Device Access Toolkit for Android | Shell | 302 | Other | 2025-11-10 | 2026-06-25 | 2026-06-25 |
+| [meta-wearables-dat-android](https://github.com/facebook/meta-wearables-dat-android) | Meta Wearables Device Access Toolkit for Android | Shell | 306 | Other | 2025-11-10 | 2026-06-28 | 2026-06-25 |
 | [QuickLayout](https://github.com/facebook/QuickLayout) | QuickLayout is a custom-built, declarative layout library for iOS designed to work seamlessly with UIKit.  | Swift | 346 | MIT License | 2025-11-14 | 2026-06-24 | 2026-06-20 |
 | [meta-wearables-dat-ios](https://github.com/facebook/meta-wearables-dat-ios) | Meta Wearables Device Access Toolkit for iOS | Shell | 460 | Other | 2025-11-21 | 2026-06-26 | 2026-06-25 |
 | [meta-haptics-sdk](https://github.com/facebook/meta-haptics-sdk) | A low-level haptic rendering and data processing library based on a universal format. | Rust | 17 | MIT License | 2025-12-05 | 2026-05-27 | 2026-04-29 |
 | [fbnic-mock-fw](https://github.com/facebook/fbnic-mock-fw) | Follow the README to run this mock firmware with the upstream fbnic driver, so it can respond to any messages the driver sends during development or testing. | Python | 2 | Apache License 2.0 | 2025-12-15 | 2026-06-26 | 2026-06-26 |
 | [gfxbench](https://github.com/facebook/gfxbench) | None | C | 1 | Other | 2025-12-16 | 2026-03-31 | 2026-03-31 |
-| [astryx](https://github.com/facebook/astryx) | An open source design system that's fully customizable and agent ready | TypeScript | 447 | MIT License | 2026-01-09 | 2026-06-27 | 2026-06-27 |
+| [astryx](https://github.com/facebook/astryx) | An open source design system that's fully customizable and agent ready | TypeScript | 640 | MIT License | 2026-01-09 | 2026-06-28 | 2026-06-28 |
 | [FBAudienceNetwork](https://github.com/facebook/FBAudienceNetwork) | Meta Audience Network allows you to monetize your iOS and Android apps with Facebook ads | Swift | 0 | Other | 2026-01-13 | 2026-02-25 | 2026-02-25 |
 | [shortcake](https://github.com/facebook/shortcake) | An implementation of a SAS-based authenticated key exchange | Rust | 7 | Apache License 2.0 | 2026-01-28 | 2026-05-08 | 2026-06-19 |
 | [fbnic_qemu](https://github.com/facebook/fbnic_qemu) | This repo contains the QEMU that simulates hardware for the fbnic driver | C | 3 | Other | 2026-02-17 | 2026-06-10 | 2026-03-30 |
 | [DNE-TaaC](https://github.com/facebook/DNE-TaaC) | TAAC (Test-As-A-Config) is a thrift-defined integration test framework for validating datacenter network products and platforms. | Python | 1 | Apache License 2.0 | 2026-02-19 | 2026-06-27 | 2026-06-27 |
 | [BGP](https://github.com/facebook/BGP) | Meta's BGP (Border Gateway Protocol) routing daemon for large-scale data center networks, built as part of the FBOSS forwarding stack. | C++ | 9 | Apache License 2.0 | 2026-03-03 | 2026-06-27 | 2026-06-27 |
 | [meta-instant-games-unity-plugin](https://github.com/facebook/meta-instant-games-unity-plugin) | This new SDK supports the Instant Games SDK v8.0, ensuring access to the latest features and APIs for Instant Games. We also provide code snippets through the sample scene, and templates for OverlayViews.  | C# | 5 | Apache License 2.0 | 2026-03-17 | 2026-06-09 | 2026-06-02 |
-| [Lifeguard](https://github.com/facebook/Lifeguard) | Lifeguard is a static analyzer to detect Lazy Imports incompatibilities and ease the adoption overhead for Lazy Imports in Python | Python | 75 | MIT License | 2026-03-17 | 2026-06-27 | 2026-06-26 |
+| [Lifeguard](https://github.com/facebook/Lifeguard) | Lifeguard is a static analyzer to detect Lazy Imports incompatibilities and ease the adoption overhead for Lazy Imports in Python | Python | 75 | MIT License | 2026-03-17 | 2026-06-27 | 2026-06-27 |
 | [mbt](https://github.com/facebook/mbt) |  Command-line tool for independently verifying the integrity of artifacts published to Meta's binary transparency log. Validates SHA-256 digests, Cloudflare Ed25519 signatures, Meta counter-signatures, and cross-checks against Cloudflare's Key Transparency auditor. | Rust | 0 | Other | 2026-03-23 | 2026-04-29 | 2026-04-29 |
 | [meta-embeds-for-wordpress](https://github.com/facebook/meta-embeds-for-wordpress) | Official WordPress plugin for embedding Threads, Instagram, and Facebook content. Simply paste a Threads, Instagram, or Facebook URL into the WordPress editor and get a rich embed. No access tokens or configuration required. | PHP | 2 | GNU General Public License v2.0 | 2026-03-30 | 2026-06-25 | 2026-06-12 |
 | [haptics-studio](https://github.com/facebook/haptics-studio) | Haptics Studio is our desktop application for designing haptics. | TypeScript | 43 | MIT License | 2026-04-28 | 2026-06-24 | 2026-06-24 |
 | [clap_types](https://github.com/facebook/clap_types) | Generate multi-language strongly-typed client libraries around Rust CLIs. | Rust | 1 | Apache License 2.0 | 2026-05-04 | 2026-05-22 | 2026-05-26 |
 | [lightweightvk](https://github.com/facebook/lightweightvk) | LightweightVK is a deeply refactored bindless-only fork of IGL which is designed to run on top of modern Vulkan 1.3 with optional mesh shaders and ray tracing support. Meta's version is a fork of the upstream LightweightVK, tailored for better compatibility with current and upcoming Meta products. | C++ | 1 | Other | 2026-05-08 | 2026-06-25 | 2026-06-25 |
 | [mcpguard-dynamic](https://github.com/facebook/mcpguard-dynamic) | Kernel-level eBPF sandbox for securing LLM agent tool calls made through the Model Context Protocol (MCP) | C | 54 | MIT License | 2026-05-19 | 2026-06-23 | 2026-05-27 |
-| [rebalancer](https://github.com/facebook/rebalancer) | Rebalancer is a domain-specific language and tool for specifying and solving assignment problems (eg, putting balls in boxes with complex rules). | C++ | 7 | Apache License 2.0 | 2026-06-10 | 2026-06-27 | 2026-06-27 |
+| [rebalancer](https://github.com/facebook/rebalancer) | Rebalancer is a domain-specific language and tool for specifying and solving assignment problems (eg, putting balls in boxes with complex rules). | C++ | 7 | Apache License 2.0 | 2026-06-10 | 2026-06-27 | 2026-06-28 |
 | [private_processing](https://github.com/facebook/private_processing) | Softwares that enables Meta Private Processing | C | 0 | MIT License | 2026-06-24 | 2026-06-25 | 2026-06-25 |
