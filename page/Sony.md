@@ -1,14 +1,14 @@
 # Sony
 
-共 143 个项目，近半年内活跃项目 31 个，1 个团队， 18249 个 Star。
+共 144 个项目，近半年内活跃项目 32 个，1 个团队， 18248 个 Star。
 
 语言 Top 3：Python, JavaScript, C++
 
-统计时间：2026-07-03 10:40:41
+统计时间：2026-07-04 10:14:32
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3638 | MIT License | 2015-05-29 | 2026-07-03 | 2026-02-07 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3637 | MIT License | 2015-05-29 | 2026-07-04 | 2026-02-07 |
 | [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4387 | MIT License | 2015-05-29 | 2026-07-01 | 2026-02-12 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
@@ -147,6 +147,7 @@
 | [MSA-bench](https://github.com/sony/MSA-bench) | Pytorch implementation of "Do Foundational Audio Encoders Understand Music Structure?" presented in ICASSP 2026. | Python | 3 | MIT License | 2026-01-21 | 2026-06-30 | 2026-04-10 |
 | [virtue](https://github.com/sony/virtue) | Official implementation of "VIRTUE: Visual-Interactive Text-Image Universal Embedder (ICLR 2026)" | Python | 5 | Apache License 2.0 | 2026-01-29 | 2026-06-30 | 2026-02-19 |
 | [B3-Seg-project](https://github.com/sony/B3-Seg-project) | None | None | 11 | - | 2026-02-18 | 2026-07-02 | 2026-05-27 |
+| [a_mpqc](https://github.com/sony/a_mpqc) | Official Repo for The Paper "Agentic Model Predictive Questioning Control  in Visual Design” (ICML’26) | Python | 0 | - | 2026-05-13 | 2026-07-03 | 2026-07-03 |
 | [web_gen_v_bench](https://github.com/sony/web_gen_v_bench) | Official Repo for The Paper "WebGen-V Bench: Structured Representation for Enhancing Visual Design in LLM-based Web Generation and Evaluation” (KDD’26) | Python | 2 | MIT License | 2026-05-19 | 2026-07-03 | 2026-06-10 |
 | [mucs](https://github.com/sony/mucs) | Code for the paper “Training Data Attribution in Diffusion Models via Mirrored Unlearning and Noise-Consistent Skew” | Python | 2 | Apache License 2.0 | 2026-05-22 | 2026-06-29 | 2026-06-09 |
 | [guda](https://github.com/sony/guda) | None | Python | 1 | MIT License | 2026-05-27 | 2026-05-29 | 2026-05-29 |
