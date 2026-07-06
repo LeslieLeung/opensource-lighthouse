@@ -1,15 +1,15 @@
 # Sony
 
-A total of 144 projects, 32 active projects in the last six months, 1 teams, and 18251 stars.
+A total of 145 projects, 33 active projects in the last six months, 1 teams, and 18258 stars.
 
 Top 3 Languages: Python, JavaScript, C++
 
-Statistics Date: 2026-07-05 10:19:10
+Statistics Date: 2026-07-06 12:07:40
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3638 | MIT License | 2015-05-29 | 2026-07-05 | 2026-02-07 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4387 | MIT License | 2015-05-29 | 2026-07-01 | 2026-02-12 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3639 | MIT License | 2015-05-29 | 2026-07-06 | 2026-02-07 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4388 | MIT License | 2015-05-29 | 2026-07-06 | 2026-02-12 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 418 | MIT License | 2015-09-18 | 2026-06-30 | 2020-12-29 |
@@ -56,7 +56,7 @@ Statistics Date: 2026-07-05 10:19:10
 | [polar-densification](https://github.com/sony/polar-densification) | None | Python | 33 | MIT License | 2022-09-13 | 2026-06-18 | 2023-03-24 |
 | [nnabla-js](https://github.com/sony/nnabla-js) | None | TypeScript | 1 | Apache License 2.0 | 2022-09-16 | 2025-10-17 | 2025-10-17 |
 | [DiffRoll](https://github.com/sony/DiffRoll) | PyTorch implementation of DiffRoll, a diffusion-based generative automatic music transcription (AMT) model | Jupyter Notebook | 81 | MIT License | 2022-10-11 | 2026-06-10 | 2023-12-06 |
-| [creativeai](https://github.com/sony/creativeai) | None | CSS | 79 | - | 2022-11-21 | 2026-07-01 | 2026-07-01 |
+| [creativeai](https://github.com/sony/creativeai) | None | CSS | 79 | - | 2022-11-21 | 2026-07-06 | 2026-07-06 |
 | [NDJIR](https://github.com/sony/NDJIR) | NDJIR: Neural Direct and Joint Inverse Rendering for Geometry, Lights, and Materials of Real Object | Python | 45 | Apache License 2.0 | 2022-12-14 | 2026-03-30 | 2023-02-08 |
 | [CLIPSep](https://github.com/sony/CLIPSep) | None | Python | 43 | MIT License | 2023-01-24 | 2025-12-29 | 2023-02-21 |
 | [audio-visual-seld-dcase2023](https://github.com/sony/audio-visual-seld-dcase2023) | Baseline method for audio-visual sound event localization and detection task of DCASE 2023 challenge | Python | 68 | MIT License | 2023-02-20 | 2026-06-25 | 2025-03-19 |
@@ -81,7 +81,7 @@ Statistics Date: 2026-07-05 10:19:10
 | [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 101 | MIT License | 2024-06-04 | 2026-02-27 | 2025-03-31 |
 | [silentcipher](https://github.com/sony/silentcipher) | None | Python | 96 | MIT License | 2024-06-05 | 2026-07-01 | 2024-07-22 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 22 | MIT License | 2024-07-09 | 2026-05-28 | 2025-06-09 |
-| [genwarp](https://github.com/sony/genwarp) | None | Python | 309 | MIT License | 2024-08-06 | 2026-06-08 | 2024-09-26 |
+| [genwarp](https://github.com/sony/genwarp) | None | Python | 310 | MIT License | 2024-08-06 | 2026-07-06 | 2024-09-26 |
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 56 | MIT License | 2024-09-05 | 2026-03-30 | 2024-11-05 |
 | [esstra](https://github.com/sony/esstra) | A software suite for enhancing software supply chain transparency | Python | 33 | Other | 2024-10-03 | 2026-06-08 | 2026-06-09 |
 | [pagoda](https://github.com/sony/pagoda) | None | Python | 22 | MIT License | 2024-10-23 | 2026-03-23 | 2024-11-21 |
@@ -100,7 +100,7 @@ Statistics Date: 2026-07-05 10:19:10
 | [CaR](https://github.com/sony/CaR) | None | Python | 5 | MIT License | 2025-02-06 | 2025-08-19 | 2025-02-07 |
 | [DFM](https://github.com/sony/DFM) | None | JavaScript | 0 | - | 2025-02-12 | 2025-02-24 | 2025-02-24 |
 | [QuietWalk](https://github.com/sony/QuietWalk) | None | JavaScript | 1 | - | 2025-02-12 | 2026-05-20 | 2025-02-23 |
-| [talkhier](https://github.com/sony/talkhier) | Official Repo for The Paper "Talk Structurally, Act Hierarchically: A Collaborative Framework for LLM Multi-Agent Systems" | Python | 64 | Other | 2025-02-13 | 2026-07-01 | 2025-02-24 |
+| [talkhier](https://github.com/sony/talkhier) | Official Repo for The Paper "Talk Structurally, Act Hierarchically: A Collaborative Framework for LLM Multi-Agent Systems” (IEEE TAI) | Python | 64 | Other | 2025-02-13 | 2026-07-06 | 2025-02-24 |
 | [aki](https://github.com/sony/aki) | Official implementation of "Seeing is Understanding: Unlocking Causal Attention into Modality-Mutual Attention for Multimodal LLMs" | Python | 21 | Other | 2025-02-13 | 2026-05-22 | 2026-05-11 |
 | [vct](https://github.com/sony/vct) | None | Jupyter Notebook | 22 | MIT License | 2025-02-14 | 2026-05-28 | 2026-02-24 |
 | [EXID](https://github.com/sony/EXID) | Official implementation of Enhancing Generalization of Offline RL in Data-Limited Settings with Heuristic Rules (Accepted in IEEE TRANSACTIONS ON ARTIFICIAL INTELLIGENCE 2025) | Jupyter Notebook | 0 | MIT License | 2025-02-19 | 2025-02-27 | 2025-02-20 |
@@ -131,7 +131,7 @@ Statistics Date: 2026-07-05 10:19:10
 | [mocopi-receiver-plugin-maya](https://github.com/sony/mocopi-receiver-plugin-maya) | None | C++ | 2 | Apache License 2.0 | 2025-08-26 | 2026-03-12 | 2026-01-29 |
 | [mocopi-receiver-plugin-unrealengine](https://github.com/sony/mocopi-receiver-plugin-unrealengine) | None | C++ | 5 | Apache License 2.0 | 2025-08-26 | 2026-04-30 | 2026-01-29 |
 | [mocopi-receiver-plugin-blender](https://github.com/sony/mocopi-receiver-plugin-blender) | None | Python | 3 | Apache License 2.0 | 2025-08-26 | 2026-03-12 | 2026-01-27 |
-| [mocopi-motion-serializer](https://github.com/sony/mocopi-motion-serializer) | None | C++ | 13 | Apache License 2.0 | 2025-08-26 | 2026-04-30 | 2025-12-22 |
+| [mocopi-motion-serializer](https://github.com/sony/mocopi-motion-serializer) | None | C++ | 14 | Apache License 2.0 | 2025-08-26 | 2026-07-06 | 2025-12-22 |
 | [LibriTTS-VI](https://github.com/sony/LibriTTS-VI) | None | None | 8 | - | 2025-09-02 | 2026-06-08 | 2026-06-08 |
 | [oms](https://github.com/sony/oms) | Official Repo for The Paper "OMS: On-the-fly, Multi-Objective, Self-Reflective Ad Keyword Generation via LLM Agent” (EMNLP’25-main) | Python | 0 | MIT License | 2025-09-11 | 2025-09-26 | 2025-09-26 |
 | [mimo](https://github.com/sony/mimo) | Official Repo for The Paper "Mirror in the Model: Ad Banner Image Generation via Reflective Multi-LLM and Multi-modal Agents” (EMNLP’25-Industry) | Python | 0 | MIT License | 2025-09-11 | 2025-12-17 | 2025-09-26 |
@@ -146,9 +146,10 @@ Statistics Date: 2026-07-05 10:19:10
 | [FCM_Large_Particles](https://github.com/sony/FCM_Large_Particles) | None | Jupyter Notebook | 0 | BSD 3-Clause "New" or "Revised" License | 2025-12-16 | 2025-12-22 | 2025-12-22 |
 | [MSA-bench](https://github.com/sony/MSA-bench) | Pytorch implementation of "Do Foundational Audio Encoders Understand Music Structure?" presented in ICASSP 2026. | Python | 3 | MIT License | 2026-01-21 | 2026-06-30 | 2026-04-10 |
 | [virtue](https://github.com/sony/virtue) | Official implementation of "VIRTUE: Visual-Interactive Text-Image Universal Embedder (ICLR 2026)" | Python | 5 | Apache License 2.0 | 2026-01-29 | 2026-06-30 | 2026-02-19 |
-| [B3-Seg-project](https://github.com/sony/B3-Seg-project) | None | None | 11 | - | 2026-02-18 | 2026-07-02 | 2026-05-27 |
-| [a_mpqc](https://github.com/sony/a_mpqc) | Official Repo for The Paper "Agentic Model Predictive Questioning Control  in Visual Design” (ICML’26) | Python | 0 | - | 2026-05-13 | 2026-07-03 | 2026-07-03 |
-| [web_gen_v_bench](https://github.com/sony/web_gen_v_bench) | Official Repo for The Paper "WebGen-V Bench: Structured Representation for Enhancing Visual Design in LLM-based Web Generation and Evaluation” (KDD’26) | Python | 2 | MIT License | 2026-05-19 | 2026-07-03 | 2026-06-10 |
+| [B3-Seg-project](https://github.com/sony/B3-Seg-project) | None | None | 12 | - | 2026-02-18 | 2026-07-05 | 2026-05-27 |
+| [a_mpqc](https://github.com/sony/a_mpqc) | Official Repo for The Paper "Agentic Model Predictive Questioning Control  in Visual Design” (ICML’26) | Python | 1 | - | 2026-05-13 | 2026-07-05 | 2026-07-03 |
+| [SF-Mamba](https://github.com/sony/SF-Mamba) | None | Python | 1 | Apache License 2.0 | 2026-05-14 | 2026-07-06 | 2026-07-04 |
+| [web_gen_v_bench](https://github.com/sony/web_gen_v_bench) | Official Repo for The Paper "WebGen-V Bench: Structured Representation for Enhancing Visual Design in LLM-based Web Generation and Evaluation” (KDD’26) | Python | 2 | MIT License | 2026-05-19 | 2026-07-05 | 2026-06-10 |
 | [mucs](https://github.com/sony/mucs) | Code for the paper “Training Data Attribution in Diffusion Models via Mirrored Unlearning and Noise-Consistent Skew” | Python | 2 | Apache License 2.0 | 2026-05-22 | 2026-06-29 | 2026-06-09 |
 | [guda](https://github.com/sony/guda) | None | Python | 1 | MIT License | 2026-05-27 | 2026-05-29 | 2026-05-29 |
 | [MusTBench](https://github.com/sony/MusTBench) | None | Python | 4 | MIT License | 2026-06-08 | 2026-07-05 | 2026-06-10 |
