@@ -1,10 +1,10 @@
 # Sony
 
-共 145 个项目，近半年内活跃项目 33 个，1 个团队， 18264 个 Star。
+共 145 个项目，近半年内活跃项目 33 个，1 个团队， 18265 个 Star。
 
 语言 Top 3：Python, JavaScript, C++
 
-统计时间：2026-07-07 11:11:57
+统计时间：2026-07-08 10:22:13
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -114,7 +114,7 @@
 | [SIoT-Majipro](https://github.com/sony/SIoT-Majipro) | None | C | 0 | Apache License 2.0 | 2025-05-09 | 2025-11-25 | 2025-11-25 |
 | [sbctm](https://github.com/sony/sbctm) | Schrödinger bridge consistency trajectory models for speech enhancement | Python | 13 | Other | 2025-05-09 | 2026-06-01 | 2025-10-01 |
 | [oil](https://github.com/sony/oil) | Official Repo for The Paper "Auto-Bidding in Real-Time Auctions via Oracle Imitation Learning" (KDD'25, Research Track) | Python | 6 | MIT License | 2025-05-23 | 2026-05-27 | 2025-05-23 |
-| [neural-network-console](https://github.com/sony/neural-network-console) | None | C++ | 39 | Apache License 2.0 | 2025-05-29 | 2026-06-27 | 2025-09-11 |
+| [neural-network-console](https://github.com/sony/neural-network-console) | None | C++ | 40 | Apache License 2.0 | 2025-05-29 | 2026-07-07 | 2025-09-11 |
 | [NeISFpp](https://github.com/sony/NeISFpp) | None | Python | 3 | Other | 2025-06-09 | 2026-07-02 | 2025-07-25 |
 | [SIoT-Pwrmod](https://github.com/sony/SIoT-Pwrmod) | None | C | 1 | BSD 3-Clause "New" or "Revised" License | 2025-06-25 | 2026-05-31 | 2025-11-27 |
 | [BannerAgency](https://github.com/sony/BannerAgency) |  The official repo for BannerAgency: Advertising Banner Design with Multimodal LLM Agents | Python | 24 | MIT License | 2025-07-01 | 2026-06-30 | 2025-08-21 |

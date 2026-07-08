@@ -1,10 +1,10 @@
 # Sony
 
-A total of 145 projects, 33 active projects in the last six months, 1 teams, and 18264 stars.
+A total of 145 projects, 33 active projects in the last six months, 1 teams, and 18265 stars.
 
 Top 3 Languages: Python, JavaScript, C++
 
-Statistics Date: 2026-07-07 11:11:57
+Statistics Date: 2026-07-08 10:22:13
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -114,7 +114,7 @@ Statistics Date: 2026-07-07 11:11:57
 | [SIoT-Majipro](https://github.com/sony/SIoT-Majipro) | None | C | 0 | Apache License 2.0 | 2025-05-09 | 2025-11-25 | 2025-11-25 |
 | [sbctm](https://github.com/sony/sbctm) | Schrödinger bridge consistency trajectory models for speech enhancement | Python | 13 | Other | 2025-05-09 | 2026-06-01 | 2025-10-01 |
 | [oil](https://github.com/sony/oil) | Official Repo for The Paper "Auto-Bidding in Real-Time Auctions via Oracle Imitation Learning" (KDD'25, Research Track) | Python | 6 | MIT License | 2025-05-23 | 2026-05-27 | 2025-05-23 |
-| [neural-network-console](https://github.com/sony/neural-network-console) | None | C++ | 39 | Apache License 2.0 | 2025-05-29 | 2026-06-27 | 2025-09-11 |
+| [neural-network-console](https://github.com/sony/neural-network-console) | None | C++ | 40 | Apache License 2.0 | 2025-05-29 | 2026-07-07 | 2025-09-11 |
 | [NeISFpp](https://github.com/sony/NeISFpp) | None | Python | 3 | Other | 2025-06-09 | 2026-07-02 | 2025-07-25 |
 | [SIoT-Pwrmod](https://github.com/sony/SIoT-Pwrmod) | None | C | 1 | BSD 3-Clause "New" or "Revised" License | 2025-06-25 | 2026-05-31 | 2025-11-27 |
 | [BannerAgency](https://github.com/sony/BannerAgency) |  The official repo for BannerAgency: Advertising Banner Design with Multimodal LLM Agents | Python | 24 | MIT License | 2025-07-01 | 2026-06-30 | 2025-08-21 |
