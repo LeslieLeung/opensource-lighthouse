@@ -1,14 +1,14 @@
 # Sony
 
-A total of 145 projects, 33 active projects in the last six months, 1 teams, and 18266 stars.
+A total of 145 projects, 33 active projects in the last six months, 1 teams, and 18271 stars.
 
 Top 3 Languages: Python, JavaScript, C++
 
-Statistics Date: 2026-07-09 11:06:59
+Statistics Date: 2026-07-10 11:07:22
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3645 | MIT License | 2015-05-29 | 2026-07-09 | 2026-02-07 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3646 | MIT License | 2015-05-29 | 2026-07-10 | 2026-02-07 |
 | [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4388 | MIT License | 2015-05-29 | 2026-07-06 | 2026-02-12 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
@@ -23,7 +23,7 @@ Statistics Date: 2026-07-09 11:06:59
 | [nnabla-ext-cuda](https://github.com/sony/nnabla-ext-cuda) | A CUDA Extension of Neural Network Libraries | Cuda | 91 | Apache License 2.0 | 2017-06-21 | 2026-04-23 | 2025-06-30 |
 | [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2770 | Apache License 2.0 | 2017-06-26 | 2026-07-08 | 2025-08-29 |
 | [easyhttpcpp](https://github.com/sony/easyhttpcpp) | A cross-platform HTTP client library with a focus on usability and speed | C++ | 177 | MIT License | 2017-08-09 | 2026-06-30 | 2022-01-31 |
-| [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 182 | Apache License 2.0 | 2017-09-07 | 2026-07-08 | 2026-07-08 |
+| [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 183 | Apache License 2.0 | 2017-09-07 | 2026-07-10 | 2026-07-08 |
 | [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 45 | Apache License 2.0 | 2017-09-07 | 2026-07-09 | 2026-07-09 |
 | [cdp-js](https://github.com/sony/cdp-js) | Libraries/SDK modules for multi-platform application development | TypeScript | 22 | Apache License 2.0 | 2017-10-10 | 2024-02-11 | 2018-05-10 |
 | [cdp-lib](https://github.com/sony/cdp-lib) | Application template/libraries for cdp-js (Details: see cdp-js repository) | JavaScript | 6 | Apache License 2.0 | 2017-10-10 | 2017-11-13 | 2018-02-23 |
@@ -79,11 +79,11 @@ Statistics Date: 2026-07-09 11:06:59
 | [NeISF](https://github.com/sony/NeISF) | None | Python | 24 | Other | 2024-06-04 | 2026-05-11 | 2025-05-15 |
 | [nnc-desktop](https://github.com/sony/nnc-desktop) | None | TypeScript | 22 | Apache License 2.0 | 2024-06-04 | 2026-04-21 | 2025-06-30 |
 | [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 101 | MIT License | 2024-06-04 | 2026-02-27 | 2025-03-31 |
-| [silentcipher](https://github.com/sony/silentcipher) | None | Python | 96 | MIT License | 2024-06-05 | 2026-07-01 | 2024-07-22 |
+| [silentcipher](https://github.com/sony/silentcipher) | None | Python | 97 | MIT License | 2024-06-05 | 2026-07-10 | 2024-07-22 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 22 | MIT License | 2024-07-09 | 2026-05-28 | 2025-06-09 |
 | [genwarp](https://github.com/sony/genwarp) | None | Python | 308 | MIT License | 2024-08-06 | 2026-07-08 | 2024-09-26 |
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 56 | MIT License | 2024-09-05 | 2026-03-30 | 2024-11-05 |
-| [esstra](https://github.com/sony/esstra) | A software suite for enhancing software supply chain transparency | Python | 33 | Other | 2024-10-03 | 2026-06-08 | 2026-06-09 |
+| [esstra](https://github.com/sony/esstra) | A software suite for enhancing software supply chain transparency | Python | 33 | Other | 2024-10-03 | 2026-06-08 | 2026-07-10 |
 | [pagoda](https://github.com/sony/pagoda) | None | Python | 22 | MIT License | 2024-10-23 | 2026-03-23 | 2024-11-21 |
 | [okg](https://github.com/sony/okg) | Official Repo for The Paper "OKG: On-the-fly Keyword Generation in Search Sponsered Advertising" (Coling'25) | Jupyter Notebook | 6 | Other | 2024-11-15 | 2026-02-11 | 2025-02-14 |
 | [dual-pixel-disparity](https://github.com/sony/dual-pixel-disparity) | None | Python | 14 | MIT License | 2024-11-19 | 2026-03-10 | 2025-03-27 |
@@ -148,8 +148,8 @@ Statistics Date: 2026-07-09 11:06:59
 | [virtue](https://github.com/sony/virtue) | Official implementation of "VIRTUE: Visual-Interactive Text-Image Universal Embedder (ICLR 2026)" | Python | 5 | Apache License 2.0 | 2026-01-29 | 2026-06-30 | 2026-02-19 |
 | [B3-Seg-project](https://github.com/sony/B3-Seg-project) | None | None | 12 | - | 2026-02-18 | 2026-07-05 | 2026-05-27 |
 | [a_mpqc](https://github.com/sony/a_mpqc) | Official Repo for The Paper "Agentic Model Predictive Questioning Control  in Visual Design” (ICML’26) | Python | 1 | - | 2026-05-13 | 2026-07-05 | 2026-07-03 |
-| [SF-Mamba](https://github.com/sony/SF-Mamba) | None | Python | 1 | Apache License 2.0 | 2026-05-14 | 2026-07-06 | 2026-07-04 |
+| [SF-Mamba](https://github.com/sony/SF-Mamba) | None | Python | 2 | Apache License 2.0 | 2026-05-14 | 2026-07-09 | 2026-07-04 |
 | [web_gen_v_bench](https://github.com/sony/web_gen_v_bench) | Official Repo for The Paper "WebGen-V Bench: Structured Representation for Enhancing Visual Design in LLM-based Web Generation and Evaluation” (KDD’26) | Python | 2 | MIT License | 2026-05-19 | 2026-07-05 | 2026-06-10 |
 | [mucs](https://github.com/sony/mucs) | Code for the paper “Training Data Attribution in Diffusion Models via Mirrored Unlearning and Noise-Consistent Skew” | Python | 3 | Apache License 2.0 | 2026-05-22 | 2026-07-09 | 2026-06-09 |
 | [guda](https://github.com/sony/guda) | None | Python | 1 | MIT License | 2026-05-27 | 2026-05-29 | 2026-05-29 |
-| [MusTBench](https://github.com/sony/MusTBench) | None | Python | 4 | MIT License | 2026-06-08 | 2026-07-06 | 2026-06-10 |
+| [MusTBench](https://github.com/sony/MusTBench) | None | Python | 5 | MIT License | 2026-06-08 | 2026-07-10 | 2026-06-10 |
