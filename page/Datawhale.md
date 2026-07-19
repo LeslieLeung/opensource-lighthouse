@@ -1,30 +1,30 @@
 # Datawhale
 
-共 216 个项目，近半年内活跃项目 77 个，1 个团队， 368171 个 Star。
+共 216 个项目，近半年内活跃项目 77 个，1 个团队， 368525 个 Star。
 
 语言 Top 3：Jupyter Notebook, Python, TypeScript
 
-统计时间：2026-07-18 09:36:58
+统计时间：2026-07-19 09:54:48
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [pumpkin-book](https://github.com/datawhalechina/pumpkin-book) | 南瓜书：《机器学习》（西瓜书）公式详解 | None | 25932 | Other | 2018-12-22 | 2026-07-18 | 2026-04-22 |
+| [pumpkin-book](https://github.com/datawhalechina/pumpkin-book) | 南瓜书：《机器学习》（西瓜书）公式详解 | None | 25933 | Other | 2018-12-22 | 2026-07-19 | 2026-04-22 |
 | [daily-interview](https://github.com/datawhalechina/daily-interview) | Datawhale成员整理的面经，内容包括机器学习，CV，NLP，推荐，开发等，欢迎大家star | None | 3751 | GNU General Public License v3.0 | 2019-04-24 | 2026-07-18 | 2026-07-08 |
 | [leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) | 《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases | Jupyter Notebook | 16692 | Other | 2019-07-02 | 2026-07-18 | 2025-11-23 |
-| [competition-baseline](https://github.com/datawhalechina/competition-baseline) | 数据挖掘、计算机视觉、自然语言处理、推荐系统竞赛知识、代码、思路 | Jupyter Notebook | 4755 | GNU General Public License v3.0 | 2019-12-03 | 2026-07-17 | 2026-07-11 |
+| [competition-baseline](https://github.com/datawhalechina/competition-baseline) | 数据挖掘、计算机视觉、自然语言处理、推荐系统竞赛知识、代码、思路 | Jupyter Notebook | 4755 | GNU General Public License v3.0 | 2019-12-03 | 2026-07-18 | 2026-07-11 |
 | [team-learning](https://github.com/datawhalechina/team-learning) | 主要展示Datawhale的组队学习计划。 | None | 2404 | - | 2019-12-31 | 2026-07-16 | 2023-01-08 |
 | [statistical-learning-method-solutions-manual](https://github.com/datawhalechina/statistical-learning-method-solutions-manual) | 机器学习方法习题解答，在线阅读地址：https://datawhalechina.github.io/statistical-learning-method-solutions-manual | Jupyter Notebook | 2067 | Other | 2020-02-01 | 2026-07-17 | 2026-05-08 |
-| [joyful-pandas](https://github.com/datawhalechina/joyful-pandas) | pandas中文教程 | Jupyter Notebook | 5178 | Other | 2020-02-01 | 2026-07-17 | 2024-04-24 |
+| [joyful-pandas](https://github.com/datawhalechina/joyful-pandas) | pandas中文教程 | Jupyter Notebook | 5177 | Other | 2020-02-01 | 2026-07-19 | 2024-04-24 |
 | [dive-into-cv-pytorch](https://github.com/datawhalechina/dive-into-cv-pytorch) | 动手学CV-Pytorch版 | Python | 971 | GNU General Public License v3.0 | 2020-05-08 | 2026-07-14 | 2024-02-08 |
 | [coggle](https://github.com/datawhalechina/coggle) | Coggle数据科学 | None | 16 | - | 2020-06-05 | 2026-05-30 | 2024-07-10 |
-| [key-book](https://github.com/datawhalechina/key-book) | 《机器学习理论导引》（宝箱书）的证明、案例、概念补充与参考文献讲解。 | Jupyter Notebook | 1709 | Other | 2020-06-12 | 2026-07-15 | 2026-07-07 |
-| [easy-rl](https://github.com/datawhalechina/easy-rl) | 强化学习中文教程（蘑菇书🍄），在线阅读地址：https://datawhalechina.github.io/easy-rl/ | Jupyter Notebook | 14442 | Other | 2020-07-03 | 2026-07-18 | 2025-12-30 |
-| [team-learning-program](https://github.com/datawhalechina/team-learning-program) | 主要存储Datawhale组队学习中“编程、数据结构与算法”方向的资料。 | Jupyter Notebook | 847 | - | 2020-07-10 | 2026-07-01 | 2023-11-17 |
+| [key-book](https://github.com/datawhalechina/key-book) | 《机器学习理论导引》（宝箱书）的证明、案例、概念补充与参考文献讲解。 | Jupyter Notebook | 1709 | Other | 2020-06-12 | 2026-07-19 | 2026-07-07 |
+| [easy-rl](https://github.com/datawhalechina/easy-rl) | 强化学习中文教程（蘑菇书🍄），在线阅读地址：https://datawhalechina.github.io/easy-rl/ | Jupyter Notebook | 14442 | Other | 2020-07-03 | 2026-07-19 | 2025-12-30 |
+| [team-learning-program](https://github.com/datawhalechina/team-learning-program) | 主要存储Datawhale组队学习中“编程、数据结构与算法”方向的资料。 | Jupyter Notebook | 848 | - | 2020-07-10 | 2026-07-19 | 2023-11-17 |
 | [team-learning-nlp](https://github.com/datawhalechina/team-learning-nlp) | 主要存储Datawhale组队学习中“自然语言处理”方向的资料。 | Jupyter Notebook | 949 | - | 2020-07-13 | 2026-07-15 | 2021-09-17 |
-| [hands-on-data-analysis](https://github.com/datawhalechina/hands-on-data-analysis) | 动手学数据分析以项目为主线，知识点孕育其中，通过边学、边做、边引导来得到更好的学习效果 | Jupyter Notebook | 1489 | - | 2020-07-14 | 2026-07-18 | 2024-05-29 |
+| [hands-on-data-analysis](https://github.com/datawhalechina/hands-on-data-analysis) | 动手学数据分析以项目为主线，知识点孕育其中，通过边学、边做、边引导来得到更好的学习效果 | Jupyter Notebook | 1490 | - | 2020-07-14 | 2026-07-19 | 2024-05-29 |
 | [team-learning-data-mining](https://github.com/datawhalechina/team-learning-data-mining) | 主要存储Datawhale组队学习中“数据挖掘/机器学习”方向的资料。 | Jupyter Notebook | 1849 | - | 2020-07-28 | 2026-07-15 | 2022-03-16 |
 | [team-learning-cv](https://github.com/datawhalechina/team-learning-cv) | 主要存储Datawhale组队学习中“计算机视觉”方向的资料。 | Jupyter Notebook | 388 | - | 2020-07-30 | 2026-07-10 | 2024-08-12 |
-| [fun-rec](https://github.com/datawhalechina/fun-rec) | 推荐系统入门教程，在线阅读地址：https://datawhalechina.github.io/fun-rec/ | Python | 7223 | - | 2020-08-09 | 2026-07-18 | 2026-06-27 |
+| [fun-rec](https://github.com/datawhalechina/fun-rec) | 推荐系统入门教程，在线阅读地址：https://datawhalechina.github.io/fun-rec/ | Python | 7222 | - | 2020-08-09 | 2026-07-19 | 2026-06-27 |
 | [go-talent](https://github.com/datawhalechina/go-talent) | Go天才小队 | Go | 55 | - | 2020-08-29 | 2026-06-19 | 2023-12-15 |
 | [releasing-research-code](https://github.com/datawhalechina/releasing-research-code) | 发布研究论文代码的小技巧 | None | 90 | MIT License | 2020-10-08 | 2026-04-10 | 2020-10-10 |
 | [team-learning-rl](https://github.com/datawhalechina/team-learning-rl) | 主要存储Datawhale组队学习中“强化学习”方向的资料。 | None | 37 | - | 2020-10-10 | 2026-04-03 | 2020-11-17 |
@@ -40,9 +40,9 @@
 | [learn-python-the-smart-way](https://github.com/datawhalechina/learn-python-the-smart-way) | 聪明方法学Python，简明且系统的 Python 入门教程。 | Jupyter Notebook | 399 | Other | 2021-07-10 | 2026-06-23 | 2024-01-09 |
 | [machine-learning-toy-code](https://github.com/datawhalechina/machine-learning-toy-code) | 《机器学习》（西瓜书）代码实战 | Jupyter Notebook | 989 | MIT License | 2021-07-16 | 2026-07-16 | 2025-05-07 |
 | [free-excel](https://github.com/datawhalechina/free-excel) | 开源Excel教程。 | CSS | 177 | MIT License | 2021-07-31 | 2026-07-15 | 2023-01-18 |
-| [thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch) | PyTorch入门教程，在线阅读地址：https://datawhalechina.github.io/thorough-pytorch/ | Jupyter Notebook | 3714 | Other | 2021-07-31 | 2026-07-18 | 2026-01-18 |
+| [thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch) | PyTorch入门教程，在线阅读地址：https://datawhalechina.github.io/thorough-pytorch/ | Jupyter Notebook | 3713 | Other | 2021-07-31 | 2026-07-19 | 2026-01-18 |
 | [unusual-deep-learning](https://github.com/datawhalechina/unusual-deep-learning) | 水很深的深度学习 | None | 130 | - | 2021-10-09 | 2026-03-29 | 2024-04-06 |
-| [powerful-numpy](https://github.com/datawhalechina/powerful-numpy) | 巨硬的NumPy | Jupyter Notebook | 501 | Apache License 2.0 | 2021-10-15 | 2026-07-17 | 2024-03-23 |
+| [powerful-numpy](https://github.com/datawhalechina/powerful-numpy) | 巨硬的NumPy | Jupyter Notebook | 502 | Apache License 2.0 | 2021-10-15 | 2026-07-18 | 2024-03-23 |
 | [magic-cv](https://github.com/datawhalechina/magic-cv) | None | Jupyter Notebook | 27 | - | 2021-10-23 | 2026-01-26 | 2022-07-12 |
 | [DOPMC](https://github.com/datawhalechina/DOPMC) | Datawhale 开源项目管理委员会（Datawhale Open-source Project Management Committee，简称DOPMC） | Python | 263 | - | 2021-10-31 | 2026-07-15 | 2026-03-31 |
 | [ML-FTTI](https://github.com/datawhalechina/ML-FTTI) | 机器学习 - 从原理到实现 | Python | 31 | - | 2021-11-08 | 2026-03-13 | 2021-11-08 |
@@ -55,7 +55,7 @@
 | [datawhale-homepage](https://github.com/datawhalechina/datawhale-homepage) | datawhale 官网介绍页 | CSS | 1 | - | 2022-05-04 | 2022-05-15 | 2022-07-10 |
 | [torch-rechub](https://github.com/datawhalechina/torch-rechub) | A Lighting Pytorch Framework for Recommendation Models, Easy-to-use and Easy-to-extend. | Jupyter Notebook | 1185 | MIT License | 2022-05-12 | 2026-07-17 | 2026-07-14 |
 | [vced](https://github.com/datawhalechina/vced) | VCED 可以通过你的文字描述来自动识别视频中相符合的片段进行视频剪辑。该项目基于跨模态搜索与向量检索技术搭建，通过前后端分离的模式，帮助你快速的接触新一代搜索技术。 | Python | 388 | GNU General Public License v3.0 | 2022-07-20 | 2026-07-15 | 2024-01-11 |
-| [leetcode-notes](https://github.com/datawhalechina/leetcode-notes) | 🐳 LeetCode 算法笔记：面试、刷题、学算法。在线阅读地址：https://datawhalechina.github.io/leetcode-notes/ | None | 1126 | Other | 2022-07-31 | 2026-07-15 | 2025-10-09 |
+| [leetcode-notes](https://github.com/datawhalechina/leetcode-notes) | 🐳 LeetCode 算法笔记：面试、刷题、学算法。在线阅读地址：https://datawhalechina.github.io/leetcode-notes/ | None | 1128 | Other | 2022-07-31 | 2026-07-19 | 2025-10-09 |
 | [whale-share](https://github.com/datawhalechina/whale-share) | None | None | 1 | - | 2022-08-26 | 2022-08-27 | 2022-08-26 |
 | [whale-governance](https://github.com/datawhalechina/whale-governance) | Datawhale 组织治理小组负责推动组织持续发展，包括组织架构、文化、制度等工作 | None | 1 | - | 2022-08-26 | 2022-09-04 | 2022-09-04 |
 | [hello-net](https://github.com/datawhalechina/hello-net) | None | None | 12 | - | 2022-09-14 | 2026-06-17 | 2022-11-03 |
@@ -66,27 +66,27 @@
 | [design-and-analysis-of-algorithm](https://github.com/datawhalechina/design-and-analysis-of-algorithm) | None | None | 4 | - | 2022-09-27 | 2024-06-06 | 2022-10-28 |
 | [grape-book](https://github.com/datawhalechina/grape-book) | 图深度学习（葡萄书），在线阅读地址： https://datawhalechina.github.io/grape-book | HTML | 285 | - | 2022-10-12 | 2026-07-14 | 2024-04-21 |
 | [joyrl](https://github.com/datawhalechina/joyrl) | An easier PyTorch deep reinforcement learning library. | Python | 261 | MIT License | 2022-10-12 | 2026-07-02 | 2024-12-19 |
-| [rl-papers](https://github.com/datawhalechina/rl-papers) | rl-papers | None | 51 | - | 2022-11-21 | 2026-03-18 | 2023-03-17 |
+| [rl-papers](https://github.com/datawhalechina/rl-papers) | rl-papers | None | 52 | - | 2022-11-21 | 2026-07-18 | 2023-03-17 |
 | [aima-notes](https://github.com/datawhalechina/aima-notes) | 人工智能：现代方法（第4版）笔记 | None | 70 | - | 2023-01-11 | 2026-06-15 | 2023-01-31 |
 | [leeml-notes](https://github.com/datawhalechina/leeml-notes) | leeml-notes已更名为leedl-tutorial，请访问：https://github.com/datawhalechina/leedl-tutorial | None | 25 | - | 2023-01-29 | 2026-03-08 | 2024-05-27 |
 | [openmmlab-tutorial](https://github.com/datawhalechina/openmmlab-tutorial) | 帮助新手快速入门、快速使用、习惯 OpenMMLab 开源库官方文档且能够自主上手实验，自由选择阅读更深层的知识。 | Jupyter Notebook | 68 | - | 2023-01-31 | 2026-06-10 | 2023-02-01 |
 | [ai-club](https://github.com/datawhalechina/ai-club) | Datawhale 高校联盟 | None | 3 | Other | 2023-03-05 | 2023-10-13 | 2023-10-15 |
 | [d2l-ai-solutions-manual](https://github.com/datawhalechina/d2l-ai-solutions-manual) | 《动手学深度学习》习题解答，在线阅读地址如下： | Jupyter Notebook | 593 | Other | 2023-03-22 | 2026-07-12 | 2024-07-06 |
-| [joyrl-book](https://github.com/datawhalechina/joyrl-book) | None | Jupyter Notebook | 300 | - | 2023-03-30 | 2026-07-15 | 2026-05-14 |
+| [joyrl-book](https://github.com/datawhalechina/joyrl-book) | None | Jupyter Notebook | 301 | - | 2023-03-30 | 2026-07-18 | 2026-05-14 |
 | [repo-test](https://github.com/datawhalechina/repo-test) | None | None | 0 | - | 2023-04-07 | 2023-04-07 | 2023-04-11 |
-| [whale-quant](https://github.com/datawhalechina/whale-quant) | 本项目为量化开源课程，可以帮助人们快速掌握量化金融知识以及使用Python进行量化开发的能力。 | Jupyter Notebook | 2604 | - | 2023-04-08 | 2026-07-18 | 2026-01-15 |
+| [whale-quant](https://github.com/datawhalechina/whale-quant) | 本项目为量化开源课程，可以帮助人们快速掌握量化金融知识以及使用Python进行量化开发的能力。 | Jupyter Notebook | 2605 | - | 2023-04-08 | 2026-07-18 | 2026-01-15 |
 | [hugging-llm](https://github.com/datawhalechina/hugging-llm) | HuggingLLM, Hugging Future. | Jupyter Notebook | 3066 | Other | 2023-04-11 | 2026-07-11 | 2026-06-16 |
 | [caublazer](https://github.com/datawhalechina/caublazer) | None | Python | 1 | - | 2023-04-25 | 2023-05-14 | 2023-12-09 |
-| [llm-cookbook](https://github.com/datawhalechina/llm-cookbook) | 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版 | Jupyter Notebook | 24424 | - | 2023-04-28 | 2026-07-18 | 2025-06-12 |
+| [llm-cookbook](https://github.com/datawhalechina/llm-cookbook) | 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版 | Jupyter Notebook | 24429 | - | 2023-04-28 | 2026-07-19 | 2025-06-12 |
 | [smoothly-vslam](https://github.com/datawhalechina/smoothly-vslam) | VSLAM开源基础教程，各章节练习代码 | C++ | 199 | GNU General Public License v2.0 | 2023-06-05 | 2026-07-14 | 2026-02-21 |
 | [latex-template](https://github.com/datawhalechina/latex-template) | Datawhale LaTex Template | TeX | 6 | - | 2023-06-10 | 2024-10-28 | 2023-06-10 |
 | [whale-starry](https://github.com/datawhalechina/whale-starry) | 繁星点点，光芒万丈 | C++ | 36 | - | 2023-06-15 | 2025-09-02 | 2023-07-24 |
 | [hands-on-llm](https://github.com/datawhalechina/hands-on-llm) | None | Python | 8 | - | 2023-06-18 | 2026-05-14 | 2023-07-18 |
 | [whale-paper](https://github.com/datawhalechina/whale-paper) | Datawhale论文分享，阅读前沿论文，分享技术创新 | None | 55 | - | 2023-06-19 | 2026-07-02 | 2025-12-29 |
-| [huawei-od-python](https://github.com/datawhalechina/huawei-od-python) | 华为OD算法题解 | Python | 195 | Other | 2023-07-10 | 2026-07-10 | 2023-09-06 |
+| [huawei-od-python](https://github.com/datawhalechina/huawei-od-python) | 华为OD算法题解 | Python | 196 | Other | 2023-07-10 | 2026-07-18 | 2023-09-06 |
 | [light-thread-pool](https://github.com/datawhalechina/light-thread-pool) | 基于Arrow的轻量线程池 | None | 5 | - | 2023-07-14 | 2025-02-18 | 2023-07-14 |
 | [light-memory-pool](https://github.com/datawhalechina/light-memory-pool) | 基于Arrow的轻量内存池 | None | 9 | - | 2023-07-14 | 2024-12-24 | 2023-07-14 |
-| [so-large-lm](https://github.com/datawhalechina/so-large-lm) | 大模型基础: 一文了解大模型基础知识 | None | 7482 | - | 2023-07-17 | 2026-07-18 | 2026-06-22 |
+| [so-large-lm](https://github.com/datawhalechina/so-large-lm) | 大模型基础: 一文了解大模型基础知识 | None | 7487 | - | 2023-07-17 | 2026-07-19 | 2026-06-22 |
 | [sweetalk-data-structure](https://github.com/datawhalechina/sweetalk-data-structure) | 电子书阅读地址 | None | 30 | MIT License | 2023-07-19 | 2026-06-22 | 2023-07-20 |
 | [paper-chart-tutorial](https://github.com/datawhalechina/paper-chart-tutorial) | 《科研论文配图》组队学习 | None | 91 | - | 2023-07-31 | 2026-07-13 | 2023-08-10 |
 | [hugging-vis](https://github.com/datawhalechina/hugging-vis) | Hugging Vision, Hugging AGI. | None | 185 | - | 2023-08-24 | 2026-07-01 | 2025-11-13 |
@@ -94,19 +94,19 @@
 | [sweettalk-django](https://github.com/datawhalechina/sweettalk-django) | None | Python | 3 | GNU Affero General Public License v3.0 | 2023-08-30 | 2025-09-20 | 2024-05-08 |
 | [repo-template](https://github.com/datawhalechina/repo-template) | Datawhale开源项目仓库模板 | None | 68 | - | 2023-09-04 | 2026-07-14 | 2026-01-26 |
 | [easy-ros2arm](https://github.com/datawhalechina/easy-ros2arm) | Robotic arm with machine vision and its os is ROS2. | C++ | 5 | Apache License 2.0 | 2023-10-26 | 2026-03-16 | 2023-12-13 |
-| [llm-universe](https://github.com/datawhalechina/llm-universe) | 本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/ | Jupyter Notebook | 13503 | - | 2023-10-29 | 2026-07-18 | 2026-02-24 |
-| [self-llm](https://github.com/datawhalechina/self-llm) | 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程 | Jupyter Notebook | 31324 | Apache License 2.0 | 2023-11-16 | 2026-07-18 | 2026-07-15 |
+| [llm-universe](https://github.com/datawhalechina/llm-universe) | 本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/ | Jupyter Notebook | 13546 | - | 2023-10-29 | 2026-07-19 | 2026-02-24 |
+| [self-llm](https://github.com/datawhalechina/self-llm) | 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程 | Jupyter Notebook | 31332 | Apache License 2.0 | 2023-11-16 | 2026-07-19 | 2026-07-15 |
 | [hugging-rl](https://github.com/datawhalechina/hugging-rl) | Robot Learning Algorithms | None | 25 | Other | 2023-12-04 | 2026-06-21 | 2024-08-19 |
 | [agent-tutorial](https://github.com/datawhalechina/agent-tutorial) | None | None | 415 | - | 2023-12-05 | 2026-07-07 | 2024-03-19 |
 | [what-is-vs](https://github.com/datawhalechina/what-is-vs) | 向量检索与 RAG 实践：技术、实现与应用 | None | 166 | - | 2023-12-11 | 2026-07-18 | 2024-11-05 |
 | [hugging-multi-agent](https://github.com/datawhalechina/hugging-multi-agent) | A tutorial based on MetaGPT to quickly help you understand the concept of agent and muti-agent and get started with coding development. 基于MetaGPT的多智能体入门与开发教程 | CSS | 1407 | - | 2023-12-11 | 2026-07-15 | 2024-05-10 |
 | [hugging-audio](https://github.com/datawhalechina/hugging-audio) | Hugging Face Audio Course中文版，帮助学习者快速入门音频模态 | Jupyter Notebook | 38 | - | 2023-12-18 | 2026-07-01 | 2024-05-25 |
-| [llm-research](https://github.com/datawhalechina/llm-research) | None | None | 88 | - | 2023-12-18 | 2026-06-23 | 2024-04-09 |
+| [llm-research](https://github.com/datawhalechina/llm-research) | None | None | 89 | - | 2023-12-18 | 2026-07-18 | 2024-04-09 |
 | [awesome-compression](https://github.com/datawhalechina/awesome-compression) | 模型压缩的小白入门教程，PDF下载地址 https://github.com/datawhalechina/awesome-compression/releases | None | 373 | - | 2023-12-28 | 2026-07-11 | 2025-11-25 |
-| [wow-fullstack](https://github.com/datawhalechina/wow-fullstack) | wow-fullstack，令人惊叹的全栈开发教程 | TypeScript | 285 | - | 2023-12-28 | 2026-07-16 | 2026-06-08 |
+| [wow-fullstack](https://github.com/datawhalechina/wow-fullstack) | wow-fullstack，令人惊叹的全栈开发教程 | TypeScript | 286 | - | 2023-12-28 | 2026-07-19 | 2026-06-08 |
 | [llm-deploy](https://github.com/datawhalechina/llm-deploy) | 大模型/LLM推理和部署理论与实践 | None | 409 | - | 2024-01-14 | 2026-07-17 | 2025-07-14 |
 | [sora-tutorial](https://github.com/datawhalechina/sora-tutorial) | None | None | 103 | - | 2024-02-23 | 2026-06-04 | 2024-03-20 |
-| [llms-from-scratch-cn](https://github.com/datawhalechina/llms-from-scratch-cn) | 仅需Python基础，从0构建大语言模型；从0逐步构建GLM4\Llama3\RWKV6， 深入理解大模型原理 | Jupyter Notebook | 4262 | Other | 2024-02-28 | 2026-07-18 | 2026-03-26 |
+| [llms-from-scratch-cn](https://github.com/datawhalechina/llms-from-scratch-cn) | 仅需Python基础，从0构建大语言模型；从0逐步构建GLM4\Llama3\RWKV6， 深入理解大模型原理 | Jupyter Notebook | 4263 | Other | 2024-02-28 | 2026-07-19 | 2026-03-26 |
 | [udl-tutorial](https://github.com/datawhalechina/udl-tutorial) | None | None | 6 | - | 2024-03-07 | 2025-09-16 | 2024-03-07 |
 | [casual-inference](https://github.com/datawhalechina/casual-inference) | None | None | 2 | - | 2024-03-25 | 2025-04-01 | 2024-03-25 |
 | [leegenai-tutorial](https://github.com/datawhalechina/leegenai-tutorial) | 《李宏毅生成式人工智能教程》，PDF下载地址：https://github.com/datawhalechina/leegenai-tutorial/releases | None | 282 | - | 2024-03-28 | 2026-07-10 | 2025-08-26 |
@@ -114,17 +114,17 @@
 | [hml-solutions](https://github.com/datawhalechina/hml-solutions) | 《动手学机器学习》习题解答 | Jupyter Notebook | 94 | Other | 2024-04-06 | 2026-07-09 | 2026-01-15 |
 | [suno-scan](https://github.com/datawhalechina/suno-scan) | None | TypeScript | 1 | - | 2024-04-21 | 2024-05-21 | 2024-04-24 |
 | [handy-multi-agent](https://github.com/datawhalechina/handy-multi-agent) | This is a multi agent tutorial based on the CAMEL framework, aimed at understanding how to build an Agent Society from the ground up! | Jupyter Notebook | 771 | - | 2024-04-21 | 2026-07-17 | 2026-01-16 |
-| [intro-mathmodel](https://github.com/datawhalechina/intro-mathmodel) | 《数学建模导论》教程，全网最全数学建模模型与算法教程系列，带你走进数学建模的大门！ | None | 871 | - | 2024-04-21 | 2026-07-18 | 2026-01-16 |
+| [intro-mathmodel](https://github.com/datawhalechina/intro-mathmodel) | 《数学建模导论》教程，全网最全数学建模模型与算法教程系列，带你走进数学建模的大门！ | None | 872 | - | 2024-04-21 | 2026-07-19 | 2026-01-16 |
 | [deep-learning-for-computer-vision](https://github.com/datawhalechina/deep-learning-for-computer-vision) | None | None | 0 | - | 2024-04-28 | 2024-08-10 | 2024-04-28 |
-| [self-dify](https://github.com/datawhalechina/self-dify) | 本教程将全面指导你如何快速搭建自己的AI应用环境，从Docker桌面版的安装与配置开始，到本地部署Dify并自定义AI助手功能，让你轻松实现“猜病例”、“甜蜜哄人”、“新生入学指南”、“小红书读书卡片”与“面试宝典”等多种特色AI应用。并教会你从基础智能体到使用工作流，再到知识库、DeepResearch、数据库、MCP、复杂任务编排等高阶任务，由浅到深的学习掌握基于dify的大模型应用开发。 | None | 521 | Creative Commons Attribution Share Alike 4.0 International | 2024-05-04 | 2026-07-16 | 2025-12-21 |
+| [self-dify](https://github.com/datawhalechina/self-dify) | 本教程将全面指导你如何快速搭建自己的AI应用环境，从Docker桌面版的安装与配置开始，到本地部署Dify并自定义AI助手功能，让你轻松实现“猜病例”、“甜蜜哄人”、“新生入学指南”、“小红书读书卡片”与“面试宝典”等多种特色AI应用。并教会你从基础智能体到使用工作流，再到知识库、DeepResearch、数据库、MCP、复杂任务编排等高阶任务，由浅到深的学习掌握基于dify的大模型应用开发。 | None | 523 | Creative Commons Attribution Share Alike 4.0 International | 2024-05-04 | 2026-07-19 | 2025-12-21 |
 | [cs25-notes](https://github.com/datawhalechina/cs25-notes) | None | None | 0 | - | 2024-05-04 | 2024-05-04 | 2024-05-12 |
 | [distil-rl-introduction](https://github.com/datawhalechina/distil-rl-introduction) | An reconstruction of RL Introduction and its course materials for a more efficient entry | None | 19 | Apache License 2.0 | 2024-05-19 | 2026-06-30 | 2026-03-04 |
 | [whale-coin](https://github.com/datawhalechina/whale-coin) | None | Python | 4 | - | 2024-05-26 | 2025-03-15 | 2025-03-13 |
-| [happy-llm](https://github.com/datawhalechina/happy-llm) | 📚 从零开始构建大模型 | Jupyter Notebook | 32149 | Other | 2024-05-28 | 2026-07-18 | 2026-05-06 |
+| [happy-llm](https://github.com/datawhalechina/happy-llm) | 📚 从零开始构建大模型 | Jupyter Notebook | 32161 | Other | 2024-05-28 | 2026-07-19 | 2026-05-06 |
 | [unlock-hf](https://github.com/datawhalechina/unlock-hf) | 解锁HuggingFace生态的百般用法 | HTML | 97 | - | 2024-06-09 | 2026-07-10 | 2024-12-14 |
 | [cstart](https://github.com/datawhalechina/cstart) | CS Start With C Language，计算机科学与技术起步-C语言导引 | HTML | 22 | Other | 2024-07-07 | 2026-05-17 | 2024-11-12 |
 | [scientific-computing](https://github.com/datawhalechina/scientific-computing) | Python科学计算教程，学完Python不知道如何应用？看这里：https://datawhalechina.github.io/scientific-computing/ | None | 39 | - | 2024-07-22 | 2026-07-15 | 2026-01-16 |
-| [handy-ollama](https://github.com/datawhalechina/handy-ollama) | 动手学Ollama，CPU玩转大模型部署，在线阅读地址：https://datawhalechina.github.io/handy-ollama/ | Jupyter Notebook | 2474 | Other | 2024-07-30 | 2026-07-16 | 2026-01-15 |
+| [handy-ollama](https://github.com/datawhalechina/handy-ollama) | 动手学Ollama，CPU玩转大模型部署，在线阅读地址：https://datawhalechina.github.io/handy-ollama/ | Jupyter Notebook | 2473 | Other | 2024-07-30 | 2026-07-19 | 2026-01-15 |
 | [math-for-ai](https://github.com/datawhalechina/math-for-ai) | Datawhale开源教程《人工智能的数学基础》 | Jupyter Notebook | 360 | - | 2024-08-08 | 2026-07-17 | 2026-07-17 |
 | [gemini-pailido-demo](https://github.com/datawhalechina/gemini-pailido-demo) | None | Vue | 1 | - | 2024-08-23 | 2025-07-08 | 2024-08-24 |
 | [zzl-ai](https://github.com/datawhalechina/zzl-ai) | None | TypeScript | 1 | - | 2024-09-23 | 2024-09-23 | 2024-09-23 |
@@ -145,10 +145,10 @@
 | [ml-for-security](https://github.com/datawhalechina/ml-for-security) | 网络安全中的人工智能方法，总结我在中国科学院大学的学习以及自己整理的资料、方法，给大家分享出来 | None | 107 | - | 2024-11-26 | 2026-07-06 | 2026-01-16 |
 | [accessible-workflow](https://github.com/datawhalechina/accessible-workflow) | None | Python | 11 | - | 2024-11-28 | 2026-05-25 | 2024-12-21 |
 | [easy-linux](https://github.com/datawhalechina/easy-linux) | None | None | 8 | - | 2024-11-29 | 2026-05-24 | 2024-12-02 |
-| [every-embodied](https://github.com/datawhalechina/every-embodied) | 仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能 | Python | 2732 | Other | 2024-12-08 | 2026-07-18 | 2026-07-18 |
+| [every-embodied](https://github.com/datawhalechina/every-embodied) | 仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能 | Python | 2739 | Other | 2024-12-08 | 2026-07-19 | 2026-07-19 |
 | [wow-agent](https://github.com/datawhalechina/wow-agent) | A simple and trans-platform agent framework and tutorial | Jupyter Notebook | 206 | - | 2024-12-23 | 2026-07-15 | 2026-01-17 |
 | [simple-ml-code](https://github.com/datawhalechina/simple-ml-code) |  simple-ml-code | Python | 13 | MIT License | 2024-12-27 | 2026-07-15 | 2025-06-06 |
-| [yolo-master](https://github.com/datawhalechina/yolo-master) | yolo master 本课程主要对yolo系列模型进行介绍，包括各版本模型的结构，进行的改进等，旨在帮助学习者们可以了解和掌握主要yolo模型的发展脉络，以期在各自的应用领域可以进一步创新并在自己的任务上达到较好的效果。 | None | 378 | - | 2024-12-28 | 2026-07-16 | 2025-07-04 |
+| [yolo-master](https://github.com/datawhalechina/yolo-master) | yolo master 本课程主要对yolo系列模型进行介绍，包括各版本模型的结构，进行的改进等，旨在帮助学习者们可以了解和掌握主要yolo模型的发展脉络，以期在各自的应用领域可以进一步创新并在自己的任务上达到较好的效果。 | None | 379 | - | 2024-12-28 | 2026-07-18 | 2025-07-04 |
 | [get-job](https://github.com/datawhalechina/get-job) | None | None | 8 | - | 2025-01-26 | 2026-06-01 | 2025-01-26 |
 | [unlock-deepseek](https://github.com/datawhalechina/unlock-deepseek) | DeepSeek 系列工作解读、扩展和复现。 | Python | 733 | - | 2025-01-30 | 2026-07-11 | 2026-03-09 |
 | [smart-dev](https://github.com/datawhalechina/smart-dev) | 基于Roo Cline+DeepSeek的AI开发教程 | None | 76 | - | 2025-02-12 | 2026-07-11 | 2025-03-03 |
@@ -162,7 +162,7 @@
 | [coffee-therapy](https://github.com/datawhalechina/coffee-therapy) | 咖啡疗愈小程序 | JavaScript | 7 | - | 2025-05-14 | 2026-07-03 | 2025-07-07 |
 | [university-event](https://github.com/datawhalechina/university-event) | 城市活动签到项目 | Vue | 0 | - | 2025-05-14 | 2025-05-23 | 2025-05-23 |
 | [easy-vecdb](https://github.com/datawhalechina/easy-vecdb) | 📚 从零开始的向量数据库原理与实践教程，在线阅读地址：https://easy-vecdb.datawhale.cc/ | Jupyter Notebook | 365 | Apache License 2.0 | 2025-05-15 | 2026-07-17 | 2026-06-01 |
-| [all-in-rag](https://github.com/datawhalechina/all-in-rag) | 🔍大模型应用开发实战一：RAG 技术全栈指南，在线阅读地址：https://datawhalechina.github.io/all-in-rag/ | Python | 9614 | - | 2025-06-05 | 2026-07-18 | 2026-07-16 |
+| [all-in-rag](https://github.com/datawhalechina/all-in-rag) | 🔍大模型应用开发实战一：RAG 技术全栈指南，在线阅读地址：https://datawhalechina.github.io/all-in-rag/ | Python | 9632 | - | 2025-06-05 | 2026-07-19 | 2026-07-16 |
 | [dive-into-bishop-dl](https://github.com/datawhalechina/dive-into-bishop-dl) | Datawhale开源教程 Bishop 深度学习理论和方法讲解 | None | 40 | - | 2025-06-10 | 2026-07-14 | 2026-01-08 |
 | [llm-protocols-guide](https://github.com/datawhalechina/llm-protocols-guide) | None | None | 1 | - | 2025-06-15 | 2025-11-15 | 2025-11-15 |
 | [handy-n8n](https://github.com/datawhalechina/handy-n8n) | handy-n8n, learn n8n by doing | JavaScript | 120 | Other | 2025-06-21 | 2026-07-03 | 2025-09-22 |
@@ -173,52 +173,52 @@
 | [mcp-lite-dev](https://github.com/datawhalechina/mcp-lite-dev) | 共学《MCP极简开发》项目代码 | Python | 49 | - | 2025-07-10 | 2026-07-03 | 2025-07-21 |
 | [post-training-of-llms](https://github.com/datawhalechina/post-training-of-llms) | 本项目是一个围绕 DeepLearning.AI 出品的 Post-Training for LLMs 系列课程，为国内学习者量身打造的中文翻译与知识整理教程。项目提供课程内容翻译、知识点梳理和示例代码等内容，旨在降低语言门槛，让更多学生、研究人员和开发者系统掌握大语言模型（LLM）后训练阶段的核心技术与实践方法。 | Jupyter Notebook | 244 | - | 2025-07-18 | 2026-07-15 | 2026-01-04 |
 | [resonant-soul](https://github.com/datawhalechina/resonant-soul) | 心灵伴侣，AI+心理健康Agent项目案例 | Python | 93 | - | 2025-07-21 | 2026-07-16 | 2025-07-28 |
-| [base-llm](https://github.com/datawhalechina/base-llm) | 从 NLP 到 LLM 的算法全栈教程，在线阅读地址：https://datawhalechina.github.io/base-llm/ | Jupyter Notebook | 903 | - | 2025-08-19 | 2026-07-17 | 2026-06-26 |
-| [hello-agents](https://github.com/datawhalechina/hello-agents) | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 | Python | 66981 | Other | 2025-09-07 | 2026-07-18 | 2026-07-17 |
-| [members-visualization](https://github.com/datawhalechina/members-visualization) | 🌟 Datawhale 贡献者可视化平台，在线地址：https://mv.datawhale.cc/ | Python | 47 | - | 2025-09-10 | 2026-07-17 | 2026-07-17 |
-| [video-devour](https://github.com/datawhalechina/video-devour) | 🚀 基于 ASR + VLM 技术的智能视频笔记工具，能够将任何视频"吞噬"并生成包含图文内容和视频剪影的结构化笔记报告 | JavaScript | 116 | MIT License | 2025-09-19 | 2026-07-15 | 2025-10-18 |
-| [code-your-own-llm](https://github.com/datawhalechina/code-your-own-llm) | 一份全栈式大语言模型参考指南，用最简洁的代码帮助你端到端定义模型从零训练到工程落地的每一个细节 | None | 202 | Other | 2025-10-15 | 2026-07-06 | 2026-01-15 |
-| [agentic-ai](https://github.com/datawhalechina/agentic-ai) | 本项目围绕吴恩达老师在DeepLearning.AI出品的Agentic-ai系列课程，为学习者打造中文翻译与知识整理教程。项目提供课程内容翻译、知识点梳理和示例代码解读等内容，欢迎大家Star! | Jupyter Notebook | 1079 | Apache License 2.0 | 2025-10-21 | 2026-07-18 | 2026-06-01 |
+| [base-llm](https://github.com/datawhalechina/base-llm) | 从 NLP 到 LLM 的算法全栈教程，在线阅读地址：https://datawhalechina.github.io/base-llm/ | Jupyter Notebook | 904 | - | 2025-08-19 | 2026-07-19 | 2026-06-26 |
+| [hello-agents](https://github.com/datawhalechina/hello-agents) | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 | Python | 67129 | Other | 2025-09-07 | 2026-07-19 | 2026-07-17 |
+| [members-visualization](https://github.com/datawhalechina/members-visualization) | 🌟 Datawhale 贡献者可视化平台，在线地址：https://mv.datawhale.cc/ | Python | 47 | - | 2025-09-10 | 2026-07-18 | 2026-07-18 |
+| [video-devour](https://github.com/datawhalechina/video-devour) | 🚀 基于 ASR + VLM 技术的智能视频笔记工具，能够将任何视频"吞噬"并生成包含图文内容和视频剪影的结构化笔记报告 | JavaScript | 117 | MIT License | 2025-09-19 | 2026-07-19 | 2025-10-18 |
+| [code-your-own-llm](https://github.com/datawhalechina/code-your-own-llm) | 一份全栈式大语言模型参考指南，用最简洁的代码帮助你端到端定义模型从零训练到工程落地的每一个细节 | None | 203 | Other | 2025-10-15 | 2026-07-19 | 2026-01-15 |
+| [agentic-ai](https://github.com/datawhalechina/agentic-ai) | 本项目围绕吴恩达老师在DeepLearning.AI出品的Agentic-ai系列课程，为学习者打造中文翻译与知识整理教程。项目提供课程内容翻译、知识点梳理和示例代码解读等内容，欢迎大家Star! | Jupyter Notebook | 1080 | Apache License 2.0 | 2025-10-21 | 2026-07-18 | 2026-06-01 |
 | [med-imaging-primer](https://github.com/datawhalechina/med-imaging-primer) | A systematic guide from physical imaging principles(医学影像处理开源教程), reconstruction algorithms to deep learning post-processing. https://datawhalechina.github.io/med-imaging-primer/ | Jupyter Notebook | 60 | MIT License | 2025-10-30 | 2026-07-17 | 2026-07-08 |
 | [musiclm-universe](https://github.com/datawhalechina/musiclm-universe) | Music Language Model Generation, Optimization, and Practice | Jupyter Notebook | 62 | - | 2025-11-13 | 2026-07-15 | 2026-04-20 |
-| [diy-llm](https://github.com/datawhalechina/diy-llm) | 🎓 系统性大语言模型构建课程｜🛠️ 覆盖预训练数据工程、Tokenizer、Transformer、MoE、GPU 编程 (CUDA/Triton)、分布式训练、Scaling Laws、推理优化及对齐 (SFT/RLHF/GRPO)｜🚀 6 个渐进式作业 + 代码驱动，建立 LLM 全栈认知体系 | Jupyter Notebook | 1050 | - | 2025-11-24 | 2026-07-18 | 2026-06-26 |
-| [vibe-vibe](https://github.com/datawhalechina/vibe-vibe) | AI for All: The First Systematic Vibe Coding Tutorial | From Zero to Full-Stack, Bring Your Ideas to Life | Live at: www.vibevibe.cn   ；全民AI学习第一课，首个系统化 Vibe Coding 开源教程 | 零基础到全栈实战，让人人都能借助 AI 实现自己的想法与创意 | 在线地址：www.vibevibe.cn | Dockerfile | 5769 | - | 2025-11-28 | 2026-07-18 | 2026-04-30 |
+| [diy-llm](https://github.com/datawhalechina/diy-llm) | 🎓 系统性大语言模型构建课程｜🛠️ 覆盖预训练数据工程、Tokenizer、Transformer、MoE、GPU 编程 (CUDA/Triton)、分布式训练、Scaling Laws、推理优化及对齐 (SFT/RLHF/GRPO)｜🚀 6 个渐进式作业 + 代码驱动，建立 LLM 全栈认知体系 | Jupyter Notebook | 1051 | - | 2025-11-24 | 2026-07-18 | 2026-06-26 |
+| [vibe-vibe](https://github.com/datawhalechina/vibe-vibe) | AI for All: The First Systematic Vibe Coding Tutorial | From Zero to Full-Stack, Bring Your Ideas to Life | Live at: www.vibevibe.cn   ；全民AI学习第一课，首个系统化 Vibe Coding 开源教程 | 零基础到全栈实战，让人人都能借助 AI 实现自己的想法与创意 | 在线地址：www.vibevibe.cn | Dockerfile | 5772 | - | 2025-11-28 | 2026-07-19 | 2026-04-30 |
 | [algo-vis](https://github.com/datawhalechina/algo-vis) | 算法可视化模型，基于已有的模型做可视化推理，帮助更好的理解 | TypeScript | 24 | - | 2025-12-01 | 2026-07-15 | 2026-04-21 |
-| [hello-rocm](https://github.com/datawhalechina/hello-rocm) | AMD YES! | Jupyter Notebook | 143 | MIT License | 2025-12-25 | 2026-07-17 | 2026-07-17 |
-| [easy-vibe](https://github.com/datawhalechina/easy-vibe) | 💻 vibe coding 2026 | Your First Modern Coding course beginners to master step by step. | JavaScript | 18294 | - | 2025-12-28 | 2026-07-18 | 2026-07-06 |
+| [hello-rocm](https://github.com/datawhalechina/hello-rocm) | AMD YES! | Jupyter Notebook | 145 | MIT License | 2025-12-25 | 2026-07-19 | 2026-07-19 |
+| [easy-vibe](https://github.com/datawhalechina/easy-vibe) | 💻 vibe coding 2026 | Your First Modern Coding course beginners to master step by step. | JavaScript | 18318 | - | 2025-12-28 | 2026-07-19 | 2026-07-06 |
 | [whale-paper-pal](https://github.com/datawhalechina/whale-paper-pal) | 你的桌面 AI 论文阅读伴侣 - 一个可爱的桌面精灵，帮助你追踪和阅读最新的 AI 论文。 | TypeScript | 15 | - | 2025-12-29 | 2026-06-17 | 2025-12-31 |
 | [vibe-blog](https://github.com/datawhalechina/vibe-blog) | Vibe-Blog是一个基于Multi-Agent 架构的万字长文技术博客生成AI助手，支持深度调研、智能配图、Mermaid 图表、代码集成、专业排版的各种专业技术博客写作中所需要的能力, 真正做到了 "输入一句话, 一键输出图文混合的万字技术长文, 轻轻松松做到日更万字长文技术博客"，将晦涩的技术知识转化为通俗易懂的科普文章，让每个人都能轻松理解复杂技术,在 AI 时代扬帆起航. | Python | 228 | Other | 2025-12-30 | 2026-07-15 | 2026-04-01 |
-| [easy-langent](https://github.com/datawhalechina/easy-langent) | 📚“langent”由“lang”与“agent”合并而来的学习教程 | Python | 426 | Apache License 2.0 | 2025-12-31 | 2026-07-18 | 2026-07-13 |
+| [easy-langent](https://github.com/datawhalechina/easy-langent) | 📚“langent”由“lang”与“agent”合并而来的学习教程 | Python | 427 | Apache License 2.0 | 2025-12-31 | 2026-07-18 | 2026-07-13 |
 | [whale-bot](https://github.com/datawhalechina/whale-bot) | 本项目是一款以datawhale小鲸鱼为原型设计的面向新人开发者的ai语音小车教程，附带整套打包硬件，帮助大家零门槛上手。教程正在持续更新中，项目交流群：请扫码进群 | C++ | 57 | MIT License | 2026-01-07 | 2026-07-15 | 2026-06-20 |
 | [whale-whisper](https://github.com/datawhalechina/whale-whisper) | None | Vue | 12 | Apache License 2.0 | 2026-01-08 | 2026-07-06 | 2026-06-26 |
 | [easy-pocket](https://github.com/datawhalechina/easy-pocket) | PocketFlow from 0 to 1 ｜ 100 行代码构建所有 LLM 应用 ｜ 首个 PocketFlow 交互式教程 ｜ 光速掌握智能体开发实战 | None | 33 | - | 2026-02-01 | 2026-07-03 | 2026-05-11 |
 | [agent-skills-with-anthropic](https://github.com/datawhalechina/agent-skills-with-anthropic) | 本项目围绕吴恩达老师在DeepLearning.AI出品的agent-skills-with-anthropic系列课程，为学习者打造中文翻译与知识整理教程。项目提供课程内容翻译、知识点梳理和示例代码解读等内容，欢迎大家Star! | Python | 1405 | - | 2026-02-01 | 2026-07-17 | 2026-06-01 |
-| [openclaw-tutorial](https://github.com/datawhalechina/openclaw-tutorial) | OpenClaw 学习教程 - 一周打造跨设备 AI 助手 | None | 180 | MIT License | 2026-02-15 | 2026-07-16 | 2026-03-12 |
-| [easy-data-x-ai](https://github.com/datawhalechina/easy-data-x-ai) | 《Easy Data x AI》是一门面向所有 AI 爱好者的数据与 AI 基础入门课程。通过双轨学习路径，从数据驱动视角学习构建 AI Agent。 | Python | 76 | Other | 2026-02-27 | 2026-07-18 | 2026-07-18 |
+| [openclaw-tutorial](https://github.com/datawhalechina/openclaw-tutorial) | OpenClaw 学习教程 - 一周打造跨设备 AI 助手 | None | 181 | MIT License | 2026-02-15 | 2026-07-18 | 2026-03-12 |
+| [easy-data-x-ai](https://github.com/datawhalechina/easy-data-x-ai) | 《Easy Data x AI》是一门面向所有 AI 爱好者的数据与 AI 基础入门课程。通过双轨学习路径，从数据驱动视角学习构建 AI Agent。 | Python | 77 | Other | 2026-02-27 | 2026-07-19 | 2026-07-18 |
 | [hand-on-openclaw](https://github.com/datawhalechina/hand-on-openclaw) | 在线学习地址：https://datawhalechina.github.io/hand-on-openclaw/   想用好openclaw，就来hand-on-openclaw~ | None | 59 | Apache License 2.0 | 2026-03-01 | 2026-07-17 | 2026-03-28 |
 | [ace-claw](https://github.com/datawhalechina/ace-claw) | This project aims to design an AI Agent tool to address the issue of reduced output accuracy caused by hallucinations in LLMs during formal symbolic computations in theoretical physics. | Python | 3 | - | 2026-03-03 | 2026-06-30 | 2026-03-06 |
-| [hello-claw](https://github.com/datawhalechina/hello-claw) | 哈喽！龙虾 🙋‍♀️ Adopt from scratch and build your first claw 🦞 来领养你的第一只龙虾！ | JavaScript | 2166 | - | 2026-03-04 | 2026-07-18 | 2026-07-07 |
-| [self-harness](https://github.com/datawhalechina/self-harness) | 本项目是关于Harness Engineering的开源教程，旨在帮助开发者理解和掌握在大模型时代，如何为复杂、长时间运行的 AI 智能体（Agent）构建健壮的底层运行架构。 | Python | 193 | - | 2026-03-15 | 2026-07-17 | 2026-04-25 |
-| [happy-figure](https://github.com/datawhalechina/happy-figure) | 🎨 把时间还给逻辑，用 AI  绘就你的科研故事 | None | 312 | Other | 2026-03-16 | 2026-07-17 | 2026-06-03 |
+| [hello-claw](https://github.com/datawhalechina/hello-claw) | 哈喽！龙虾 🙋‍♀️ Adopt from scratch and build your first claw 🦞 来领养你的第一只龙虾！ | JavaScript | 2167 | - | 2026-03-04 | 2026-07-18 | 2026-07-07 |
+| [self-harness](https://github.com/datawhalechina/self-harness) | 本项目是关于Harness Engineering的开源教程，旨在帮助开发者理解和掌握在大模型时代，如何为复杂、长时间运行的 AI 智能体（Agent）构建健壮的底层运行架构。 | Python | 195 | - | 2026-03-15 | 2026-07-19 | 2026-04-25 |
+| [happy-figure](https://github.com/datawhalechina/happy-figure) | 🎨 把时间还给逻辑，用 AI  绘就你的科研故事 | None | 313 | Other | 2026-03-16 | 2026-07-18 | 2026-06-03 |
 | [mala-claw](https://github.com/datawhalechina/mala-claw) | None | HTML | 10 | MIT License | 2026-03-16 | 2026-06-30 | 2026-03-16 |
 | [reasoning-kingdom](https://github.com/datawhalechina/reasoning-kingdom) | 🌟 推理王国：关于 AI 推理机制的思想实验手册。从信息论、符号逻辑与表示学习出发，系统剖析大模型“智能”的本质。 | None | 199 | - | 2026-03-30 | 2026-07-16 | 2026-07-16 |
 | [anycli](https://github.com/datawhalechina/anycli) | Built for agents,A CLI-native platform,CLI registration & indexing platform | TypeScript | 3 | - | 2026-03-31 | 2026-06-30 | 2026-04-15 |
-| [llm-algo-leetcode](https://github.com/datawhalechina/llm-algo-leetcode) | LLM algorithm practice lab with theory, solutions, and test cases.《大模型算法与系统教程》面向大模型入门到进阶的算法实战教程，覆盖原理讲解、答案解析、测试用例与 CUDA/Triton 实战。 | Jupyter Notebook | 366 | Other | 2026-04-01 | 2026-07-17 | 2026-07-17 |
+| [llm-algo-leetcode](https://github.com/datawhalechina/llm-algo-leetcode) | LLM algorithm practice lab with theory, solutions, and test cases.《大模型算法与系统教程》面向大模型入门到进阶的算法实战教程，覆盖原理讲解、答案解析、测试用例与 CUDA/Triton 实战。 | Jupyter Notebook | 369 | Other | 2026-04-01 | 2026-07-19 | 2026-07-17 |
 | [hello-hexo-blog](https://github.com/datawhalechina/hello-hexo-blog) | None | None | 4 | - | 2026-04-05 | 2026-07-16 | 2026-05-03 |
 | [Path2AGI](https://github.com/datawhalechina/Path2AGI) | 从基础学科到通用人工智能 - 跨学科知识图谱 | None | 368 | - | 2026-04-08 | 2026-07-17 | 2026-05-07 |
 | [hello-robotics](https://github.com/datawhalechina/hello-robotics) | hello-robotics 将基于 G2 与 Isaac 打造一套全流程机器人仿真实践教程平台，覆盖搭建、感知、建图定位导航、抓取操作及大模型决策，同时可以用于前沿算法的实践验证 | Python | 16 | - | 2026-04-09 | 2026-07-15 | 2026-06-12 |
 | [ai-wiki](https://github.com/datawhalechina/ai-wiki) | AI-Wiki：AI开发者全景式工具与资源导航 | None | 17 | - | 2026-04-12 | 2026-07-12 | 2026-05-26 |
 | [hello-generic-agent](https://github.com/datawhalechina/hello-generic-agent) | 📚 《Generic Agent使用指南》——轻松上手自进化智能体，从基础调用到高级技巧全覆盖 | None | 550 | - | 2026-04-16 | 2026-07-18 | 2026-05-12 |
 | [start-mllm](https://github.com/datawhalechina/start-mllm) | 从0开始学习多模态大模型，从概念、架构、训练到部署，系统搭建你的第一套 MLLM 知识体系 | None | 98 | Other | 2026-04-21 | 2026-07-18 | 2026-07-09 |
-| [dive-into-embodied-ai](https://github.com/datawhalechina/dive-into-embodied-ai) | 从零到一搭建一台具身智能机器人:深入强化学习、World-Model、VLA 等智能决策方法的工程落地,贯穿仿真环境、控制器、运动规划、感知系统等技能树模块,并在真实项目中跑通"决策—控制—感知"完整链路。 | Python | 134 | - | 2026-04-28 | 2026-07-17 | 2026-07-17 |
-| [ai-prompting-for-everyone](https://github.com/datawhalechina/ai-prompting-for-everyone) | 本项目整理自吴恩达老师在 DeepLearning.AI 平台推出的 AI Prompting for Everyone 课程，主要面向中文学习者，提供课程内容翻译、知识点梳理和示例说明。  这门课程偏入门，重点不是讲复杂的模型原理，而是讲普通用户如何更好地向 AI 提问，如何把任务说清楚，如何让 AI 给出更符合需求的回答。  本项目希望把课程内容整理成更适合中文阅读的学习资料，方便大家在学习、办公、写作、编程和资料整理等场景中参考使用。  如果你正在学习 AI 提示词，或者想系统了解如何更有效地使用  ChatGPT、Gemini、Claude 等AI工具，可以从这个项目开始。 | None | 60 | - | 2026-05-02 | 2026-07-17 | 2026-05-28 |
-| [deepagents-in-action](https://github.com/datawhalechina/deepagents-in-action) | 📚 《Deep Agents 实战》—— LangChain 官方大使出品，基于 LangChain / LangGraph 生态，从零构建生产级 AI Agent 的完整指南 | Astro | 1215 | - | 2026-05-05 | 2026-07-18 | 2026-07-17 |
+| [dive-into-embodied-ai](https://github.com/datawhalechina/dive-into-embodied-ai) | 从零到一搭建一台具身智能机器人:深入强化学习、World-Model、VLA 等智能决策方法的工程落地,贯穿仿真环境、控制器、运动规划、感知系统等技能树模块,并在真实项目中跑通"决策—控制—感知"完整链路。 | Python | 135 | - | 2026-04-28 | 2026-07-18 | 2026-07-17 |
+| [ai-prompting-for-everyone](https://github.com/datawhalechina/ai-prompting-for-everyone) | 本项目整理自吴恩达老师在 DeepLearning.AI 平台推出的 AI Prompting for Everyone 课程，主要面向中文学习者，提供课程内容翻译、知识点梳理和示例说明。  这门课程偏入门，重点不是讲复杂的模型原理，而是讲普通用户如何更好地向 AI 提问，如何把任务说清楚，如何让 AI 给出更符合需求的回答。  本项目希望把课程内容整理成更适合中文阅读的学习资料，方便大家在学习、办公、写作、编程和资料整理等场景中参考使用。  如果你正在学习 AI 提示词，或者想系统了解如何更有效地使用  ChatGPT、Gemini、Claude 等AI工具，可以从这个项目开始。 | None | 61 | - | 2026-05-02 | 2026-07-18 | 2026-05-28 |
+| [deepagents-in-action](https://github.com/datawhalechina/deepagents-in-action) | 📚 《Deep Agents 实战》—— LangChain 官方大使出品，基于 LangChain / LangGraph 生态，从零构建生产级 AI Agent 的完整指南 | Astro | 1221 | - | 2026-05-05 | 2026-07-19 | 2026-07-17 |
 | [whale-tutor](https://github.com/datawhalechina/whale-tutor) | 🐳 AI 驱动的开源交互式学习引擎 | TypeScript | 16 | GNU Affero General Public License v3.0 | 2026-05-08 | 2026-07-15 | 2026-05-20 |
 | [learn-world-model](https://github.com/datawhalechina/learn-world-model) | Learn everything about world model | TypeScript | 319 | - | 2026-05-14 | 2026-07-17 | 2026-07-17 |
 | [ai-skills-for-everyone](https://github.com/datawhalechina/ai-skills-for-everyone) | 本项目面向普通学习者和办公用户，搜罗并评审高质量开源 AI Skill，按场景提供中文教程、开箱 starter、风险说明和使用路线，帮助不会写代码的人也能低成本使用开源 AI 能力。 | HTML | 72 | Other | 2026-05-16 | 2026-07-17 | 2026-06-02 |
-| [Agent-Learning-Hub](https://github.com/datawhalechina/Agent-Learning-Hub) | AI Agent 学习路线与资料库收集 | HTML | 5491 | MIT License | 2026-05-17 | 2026-07-18 | 2026-06-05 |
-| [quant-for-beginners](https://github.com/datawhalechina/quant-for-beginners) | None | Jupyter Notebook | 359 | MIT License | 2026-05-31 | 2026-07-18 | 2026-07-17 |
-| [hello-gpu](https://github.com/datawhalechina/hello-gpu) | Hello GPU：从 AMD GPU 架构、ROCm 工具链到 HIP/Triton 算子优化与单卡推理性能分析的实战教程。 | Python | 35 | - | 2026-06-01 | 2026-07-17 | 2026-07-17 |
+| [Agent-Learning-Hub](https://github.com/datawhalechina/Agent-Learning-Hub) | AI Agent 学习路线与资料库收集 | HTML | 5532 | MIT License | 2026-05-17 | 2026-07-19 | 2026-06-05 |
+| [quant-for-beginners](https://github.com/datawhalechina/quant-for-beginners) | None | Jupyter Notebook | 361 | MIT License | 2026-05-31 | 2026-07-19 | 2026-07-17 |
+| [hello-gpu](https://github.com/datawhalechina/hello-gpu) | Hello GPU：从 AMD GPU 架构、ROCm 工具链到 HIP/Triton 算子优化与单卡推理性能分析的实战教程。 | Python | 35 | - | 2026-06-01 | 2026-07-17 | 2026-07-19 |
 | [learning-terrain](https://github.com/datawhalechina/learning-terrain) | 《学习的地形》是一部从学习动力学、几何视角重新理解深度学习的开源书籍。 | None | 17 | - | 2026-06-05 | 2026-07-15 | 2026-06-24 |
 | [dev-mesh](https://github.com/datawhalechina/dev-mesh) | DevMesh 是一个面向多人协作开发的 local-first 知识共享层。它通过 MCP 为 Codex、Claude Code、opencode 等 AI 编程工具提供项目知识检索、经验沉淀、本地缓存和可选团队同步能力 | TypeScript | 4 | MIT License | 2026-06-06 | 2026-06-25 | 2026-06-25 |
 | [vc-lab](https://github.com/datawhalechina/vc-lab) | 本套课程，希望通过AI硬件产品的视角与产品设计的SOP探索，一起学习和研究，自己如何真正发现自己的或者别人的需求，如何设计自己的产品和项目，从而真正产出帮助到大家的产品 | None | 9 | - | 2026-06-09 | 2026-07-15 | 2026-06-17 |
