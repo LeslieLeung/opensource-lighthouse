@@ -1,10 +1,10 @@
 # Sony
 
-A total of 145 projects, 43 active projects in the last six months, 1 teams, and 18324 stars.
+A total of 145 projects, 41 active projects in the last six months, 1 teams, and 18329 stars.
 
 Top 3 Languages: Python, JavaScript, C++
 
-Statistics Date: 2026-07-27 11:28:41
+Statistics Date: 2026-07-28 10:38:52
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -21,10 +21,10 @@ Statistics Date: 2026-07-27 11:28:41
 | [smarttennissensorsdk](https://github.com/sony/smarttennissensorsdk) | The Smart Tennis Sensor plugs into the end of a tennis racket and records data about all the shots you make throughout a game or practice. With the SDK, you can develop apps for analyzing and presenting that data in real-time. | Java | 8 | Apache License 2.0 | 2016-08-30 | 2024-07-29 | 2017-02-10 |
 | [openocd-nuttx](https://github.com/sony/openocd-nuttx) | Fork of OpenOCD with NuttX thread support. | C | 24 | GNU General Public License v2.0 | 2016-10-18 | 2024-06-08 | 2019-01-21 |
 | [nnabla-ext-cuda](https://github.com/sony/nnabla-ext-cuda) | A CUDA Extension of Neural Network Libraries | Cuda | 91 | Apache License 2.0 | 2017-06-21 | 2026-07-24 | 2026-07-24 |
-| [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2775 | Apache License 2.0 | 2017-06-26 | 2026-07-24 | 2026-07-24 |
-| [easyhttpcpp](https://github.com/sony/easyhttpcpp) | A cross-platform HTTP client library with a focus on usability and speed | C++ | 177 | MIT License | 2017-08-09 | 2026-06-30 | 2022-01-31 |
-| [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 185 | Apache License 2.0 | 2017-09-07 | 2026-07-22 | 2026-07-20 |
-| [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 46 | Apache License 2.0 | 2017-09-07 | 2026-07-20 | 2026-07-25 |
+| [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2776 | Apache License 2.0 | 2017-06-26 | 2026-07-27 | 2026-07-24 |
+| [easyhttpcpp](https://github.com/sony/easyhttpcpp) | A cross-platform HTTP client library with a focus on usability and speed | C++ | 176 | MIT License | 2017-08-09 | 2026-07-28 | 2022-01-31 |
+| [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 186 | Apache License 2.0 | 2017-09-07 | 2026-07-28 | 2026-07-28 |
+| [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 46 | Apache License 2.0 | 2017-09-07 | 2026-07-28 | 2026-07-28 |
 | [cdp-js](https://github.com/sony/cdp-js) | Libraries/SDK modules for multi-platform application development | TypeScript | 22 | Apache License 2.0 | 2017-10-10 | 2024-02-11 | 2018-05-10 |
 | [cdp-lib](https://github.com/sony/cdp-lib) | Application template/libraries for cdp-js (Details: see cdp-js repository) | JavaScript | 6 | Apache License 2.0 | 2017-10-10 | 2017-11-13 | 2018-02-23 |
 | [cdp-cli](https://github.com/sony/cdp-cli) | Command line tools for generating start point of multi-platform application development (Details: see cdp-js repository) | HTML | 7 | Apache License 2.0 | 2017-10-10 | 2020-12-13 | 2018-07-13 |
@@ -39,11 +39,11 @@ Statistics Date: 2026-07-27 11:28:41
 | [ai-research-code](https://github.com/sony/ai-research-code) | None | Python | 357 | Apache License 2.0 | 2020-04-14 | 2026-07-21 | 2023-09-12 |
 | [nnabla-nas](https://github.com/sony/nnabla-nas) | Neural Architecture Search for Neural Network Libraries | Python | 64 | Apache License 2.0 | 2020-06-15 | 2026-07-24 | 2026-07-24 |
 | [micro-notifier](https://github.com/sony/micro-notifier) | Simplified Pusher Clone | Go | 14 | MIT License | 2020-09-06 | 2026-04-23 | 2025-12-28 |
-| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1343 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2026-07-25 | 2025-07-25 |
+| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1344 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2026-07-28 | 2025-07-25 |
 | [lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) | None | Python | 0 | MIT License | 2021-03-25 | 2021-05-13 | 2021-05-13 |
 | [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 131 | Apache License 2.0 | 2021-06-11 | 2026-07-02 | 2024-12-16 |
 | [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 109 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2026-05-21 | 2024-12-19 |
-| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 641 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2026-07-13 | 2025-07-09 |
+| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 642 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2026-07-27 | 2025-07-09 |
 | [flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) | Flutter plugins for embedded Linux (eLinux) | C++ | 61 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2026-05-18 | 2024-12-13 |
 | [ds-research-code](https://github.com/sony/ds-research-code) | None | Python | 6 | - | 2021-07-19 | 2026-06-14 | 2026-03-27 |
 | [pyIEOE](https://github.com/sony/pyIEOE) | None | Python | 32 | MIT License | 2021-07-20 | 2025-07-22 | 2025-02-21 |
@@ -56,7 +56,7 @@ Statistics Date: 2026-07-27 11:28:41
 | [polar-densification](https://github.com/sony/polar-densification) | None | Python | 33 | MIT License | 2022-09-13 | 2026-06-18 | 2023-03-24 |
 | [nnabla-js](https://github.com/sony/nnabla-js) | None | TypeScript | 1 | Apache License 2.0 | 2022-09-16 | 2026-07-24 | 2026-07-24 |
 | [DiffRoll](https://github.com/sony/DiffRoll) | PyTorch implementation of DiffRoll, a diffusion-based generative automatic music transcription (AMT) model | Jupyter Notebook | 81 | MIT License | 2022-10-11 | 2026-06-10 | 2023-12-06 |
-| [creativeai](https://github.com/sony/creativeai) | None | CSS | 79 | - | 2022-11-21 | 2026-07-07 | 2026-07-07 |
+| [creativeai](https://github.com/sony/creativeai) | None | CSS | 80 | - | 2022-11-21 | 2026-07-28 | 2026-07-07 |
 | [NDJIR](https://github.com/sony/NDJIR) | NDJIR: Neural Direct and Joint Inverse Rendering for Geometry, Lights, and Materials of Real Object | Python | 45 | Apache License 2.0 | 2022-12-14 | 2026-03-30 | 2023-02-08 |
 | [CLIPSep](https://github.com/sony/CLIPSep) | None | Python | 43 | MIT License | 2023-01-24 | 2025-12-29 | 2023-02-21 |
 | [audio-visual-seld-dcase2023](https://github.com/sony/audio-visual-seld-dcase2023) | Baseline method for audio-visual sound event localization and detection task of DCASE 2023 challenge | Python | 68 | MIT License | 2023-02-20 | 2026-06-25 | 2025-03-19 |
@@ -137,7 +137,7 @@ Statistics Date: 2026-07-27 11:28:41
 | [mimo](https://github.com/sony/mimo) | Official Repo for The Paper "Mirror in the Model: Ad Banner Image Generation via Reflective Multi-LLM and Multi-modal Agents” (EMNLP’25-Industry) | Python | 0 | MIT License | 2025-09-11 | 2025-12-17 | 2025-09-26 |
 | [multi-plane-segmentation-gpu](https://github.com/sony/multi-plane-segmentation-gpu) | None | JavaScript | 0 | - | 2025-09-26 | 2025-10-03 | 2025-10-03 |
 | [dynamic-rag](https://github.com/sony/dynamic-rag) | None | C# | 6 | BSD 3-Clause "New" or "Revised" License | 2025-09-28 | 2026-06-28 | 2025-10-13 |
-| [cmt](https://github.com/sony/cmt) | None | Python | 21 | MIT License | 2025-09-30 | 2026-04-11 | 2026-03-03 |
+| [cmt](https://github.com/sony/cmt) | None | Python | 22 | MIT License | 2025-09-30 | 2026-07-27 | 2026-03-03 |
 | [mmaudiosep](https://github.com/sony/mmaudiosep) | None | Python | 16 | MIT License | 2025-10-06 | 2026-05-07 | 2026-04-30 |
 | [sampleid](https://github.com/sony/sampleid) | Code for the paper “Automatic Music Sample Identification with Multi-Track Contrastive Learning”. | Python | 25 | MIT License | 2025-10-15 | 2026-07-16 | 2026-05-22 |
 | [coda](https://github.com/sony/coda) | Official PyTorch implementation of "Contrastive Object-centric Diffusion Alignment" | Python | 3 | Apache License 2.0 | 2025-10-20 | 2026-06-16 | 2026-01-27 |
