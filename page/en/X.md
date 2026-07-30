@@ -1,10 +1,10 @@
 # X
 
-A total of 102 projects, 6 active projects in the last six months, 1 teams, and 217254 stars.
+A total of 102 projects, 6 active projects in the last six months, 1 teams, and 217252 stars.
 
 Top 3 Languages: Scala, Java, Python
 
-Statistics Date: 2026-07-29 10:42:21
+Statistics Date: 2026-07-30 10:28:36
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -42,7 +42,7 @@ Statistics Date: 2026-07-29 10:42:21
 | [twitter-server](https://github.com/twitter/twitter-server) | Twitter-Server defines a template from which services at Twitter are built | Scala | 1603 | Apache License 2.0 | 2013-04-22 | 2026-07-28 | 2026-02-13 |
 | [netty-http2](https://github.com/twitter/netty-http2) | HTTP/2 for Netty | Java | 124 | Apache License 2.0 | 2013-06-15 | 2026-06-01 | 2023-04-10 |
 | [interactive](https://github.com/twitter/interactive) | Twitter interactive visualization | HTML | 218 | MIT License | 2013-06-19 | 2026-05-24 | 2021-11-01 |
-| [scala_school2](https://github.com/twitter/scala_school2) | Scala School 2 | Scala | 341 | Apache License 2.0 | 2013-06-21 | 2026-06-28 | 2021-10-08 |
+| [scala_school2](https://github.com/twitter/scala_school2) | Scala School 2 | Scala | 340 | Apache License 2.0 | 2013-06-21 | 2026-07-30 | 2021-10-08 |
 | [hraven](https://github.com/twitter/hraven) | hRaven collects run time data and statistics from MapReduce jobs in an easily queryable format | Java | 129 | Apache License 2.0 | 2013-06-26 | 2026-04-07 | 2022-01-14 |
 | [cloudhopper-commons](https://github.com/twitter/cloudhopper-commons) | Cloudhopper Commons | Java | 64 | Apache License 2.0 | 2013-12-05 | 2026-06-19 | 2024-07-03 |
 | [hpack](https://github.com/twitter/hpack) | Header Compression for HTTP/2 | Java | 202 | Apache License 2.0 | 2013-12-20 | 2026-03-28 | 2023-04-10 |
@@ -52,7 +52,7 @@ Statistics Date: 2026-07-29 10:42:21
 | [wordpress](https://github.com/twitter/wordpress) | The official Twitter plugin for WordPress. Embed Twitter content and grow your audience on Twitter. | PHP | 335 | MIT License | 2014-10-20 | 2026-06-03 | 2022-04-06 |
 | [BreakoutDetection](https://github.com/twitter/BreakoutDetection) | Breakout Detection via Robust E-Statistics | C++ | 762 | GNU General Public License v2.0 | 2014-10-24 | 2026-05-17 | 2017-08-15 |
 | [twitter-korean-text](https://github.com/twitter/twitter-korean-text) | Korean tokenizer | Scala | 874 | Apache License 2.0 | 2014-10-29 | 2026-07-25 | 2023-04-10 |
-| [twemoji](https://github.com/twitter/twemoji) | Emoji for everyone. https://twemoji.twitter.com/ | HTML | 17712 | MIT License | 2014-11-06 | 2026-07-29 | 2026-07-07 |
+| [twemoji](https://github.com/twitter/twemoji) | Emoji for everyone. https://twemoji.twitter.com/ | HTML | 17713 | MIT License | 2014-11-06 | 2026-07-29 | 2026-07-07 |
 | [twitter-text](https://github.com/twitter/twitter-text) | Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform. | HTML | 3137 | Apache License 2.0 | 2014-12-03 | 2026-07-28 | 2024-04-26 |
 | [AnomalyDetection](https://github.com/twitter/AnomalyDetection) | Anomaly Detection with R | R | 3606 | GNU General Public License v3.0 | 2014-12-09 | 2026-07-25 | 2019-08-30 |
 | [d3kit](https://github.com/twitter/d3kit) | D3Kit is a set tools to speed D3 related project development | JavaScript | 425 | MIT License | 2015-01-10 | 2026-04-29 | 2021-11-01 |
@@ -106,7 +106,7 @@ Statistics Date: 2026-07-29 10:42:21
 | [diffusion-rl](https://github.com/twitter/diffusion-rl) | None | Python | 80 | Apache License 2.0 | 2022-08-09 | 2026-01-19 | 2022-12-09 |
 | [focus](https://github.com/twitter/focus) | Focus aligns Git worktree content based on outlines of a repository's Bazel build graph. Focused repos are sparse, shallow, and thin and unlock markedly better performance in large repos. | Rust | 117 | Apache License 2.0 | 2022-08-30 | 2026-04-28 | 2023-05-12 |
 | [birdwatch](https://github.com/twitter/birdwatch) | None | None | 65 | - | 2022-11-06 | 2025-12-22 | 2023-04-03 |
-| [the-algorithm](https://github.com/twitter/the-algorithm) | Source code for the X Recommendation Algorithm | Scala | 73617 | GNU Affero General Public License v3.0 | 2023-03-27 | 2026-07-29 | 2025-09-08 |
+| [the-algorithm](https://github.com/twitter/the-algorithm) | Source code for the X Recommendation Algorithm | Scala | 73615 | GNU Affero General Public License v3.0 | 2023-03-27 | 2026-07-30 | 2025-09-08 |
 | [the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) | Source code for Twitter's Recommendation Algorithm | Python | 10589 | GNU Affero General Public License v3.0 | 2023-03-27 | 2026-07-28 | 2024-07-10 |
 | [stitch](https://github.com/twitter/stitch) | None | Scala | 118 | Apache License 2.0 | 2024-11-05 | 2026-06-01 | 2024-11-07 |
 | [x-ads-conversion-api-gtm-template](https://github.com/twitter/x-ads-conversion-api-gtm-template) | None | Smarty | 0 | Apache License 2.0 | 2026-06-08 | 2026-07-24 | 2026-06-10 |
