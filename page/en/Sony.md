@@ -1,10 +1,10 @@
 # Sony
 
-A total of 146 projects, 42 active projects in the last six months, 1 teams, and 18337 stars.
+A total of 146 projects, 42 active projects in the last six months, 1 teams, and 18335 stars.
 
 Top 3 Languages: Python, C++, JavaScript
 
-Statistics Date: 2026-07-31 10:42:42
+Statistics Date: 2026-08-01 10:02:17
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -21,7 +21,7 @@ Statistics Date: 2026-07-31 10:42:42
 | [smarttennissensorsdk](https://github.com/sony/smarttennissensorsdk) | The Smart Tennis Sensor plugs into the end of a tennis racket and records data about all the shots you make throughout a game or practice. With the SDK, you can develop apps for analyzing and presenting that data in real-time. | Java | 8 | Apache License 2.0 | 2016-08-30 | 2024-07-29 | 2017-02-10 |
 | [openocd-nuttx](https://github.com/sony/openocd-nuttx) | Fork of OpenOCD with NuttX thread support. | C | 24 | GNU General Public License v2.0 | 2016-10-18 | 2024-06-08 | 2019-01-21 |
 | [nnabla-ext-cuda](https://github.com/sony/nnabla-ext-cuda) | A CUDA Extension of Neural Network Libraries | Cuda | 91 | Apache License 2.0 | 2017-06-21 | 2026-07-29 | 2026-07-24 |
-| [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2776 | Apache License 2.0 | 2017-06-26 | 2026-07-29 | 2026-07-24 |
+| [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2775 | Apache License 2.0 | 2017-06-26 | 2026-07-31 | 2026-07-24 |
 | [easyhttpcpp](https://github.com/sony/easyhttpcpp) | A cross-platform HTTP client library with a focus on usability and speed | C++ | 176 | MIT License | 2017-08-09 | 2026-07-28 | 2022-01-31 |
 | [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 187 | Apache License 2.0 | 2017-09-07 | 2026-07-30 | 2026-07-29 |
 | [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 46 | Apache License 2.0 | 2017-09-07 | 2026-07-30 | 2026-07-30 |
@@ -72,7 +72,7 @@ Statistics Date: 2026-07-31 10:42:42
 | [bigvsan](https://github.com/sony/bigvsan) | Pytorch implementation of BigVSAN | Python | 203 | MIT License | 2023-09-01 | 2026-06-24 | 2025-12-09 |
 | [bigvsan_eval](https://github.com/sony/bigvsan_eval) | Evaluation tool used in the BigVSAN paper | Python | 14 | MIT License | 2023-09-01 | 2025-07-28 | 2024-03-22 |
 | [timbre-trap](https://github.com/sony/timbre-trap) | Code for the paper "Timbre-Trap: A Low-Resource Framework for Instrument-Agnostic Music Transcription" | Python | 43 | MIT License | 2023-09-12 | 2026-07-23 | 2024-05-05 |
-| [ctm](https://github.com/sony/ctm) | None | Python | 326 | MIT License | 2023-10-10 | 2026-06-12 | 2026-03-03 |
+| [ctm](https://github.com/sony/ctm) | None | Python | 325 | MIT License | 2023-10-10 | 2026-07-31 | 2026-03-03 |
 | [SR-Display-Plugin-Preview-BL](https://github.com/sony/SR-Display-Plugin-Preview-BL) | None | Python | 5 | MIT License | 2023-12-13 | 2026-02-02 | 2024-05-24 |
 | [pyAutoPort](https://github.com/sony/pyAutoPort) | None | Python | 7 | BSD 3-Clause "New" or "Revised" License | 2023-12-13 | 2025-07-25 | 2025-07-03 |
 | [SR-Display-Plugin-Preview-ZB](https://github.com/sony/SR-Display-Plugin-Preview-ZB) | None | None | 1 | MIT License | 2024-02-19 | 2024-02-19 | 2024-02-19 |
