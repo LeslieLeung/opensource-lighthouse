@@ -1,10 +1,10 @@
 # Sony
 
-A total of 146 projects, 42 active projects in the last six months, 1 teams, and 18335 stars.
+A total of 146 projects, 42 active projects in the last six months, 1 teams, and 18336 stars.
 
 Top 3 Languages: Python, C++, JavaScript
 
-Statistics Date: 2026-08-01 10:02:17
+Statistics Date: 2026-08-02 10:00:24
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -29,7 +29,7 @@ Statistics Date: 2026-08-01 10:02:17
 | [cdp-lib](https://github.com/sony/cdp-lib) | Application template/libraries for cdp-js (Details: see cdp-js repository) | JavaScript | 6 | Apache License 2.0 | 2017-10-10 | 2017-11-13 | 2018-02-23 |
 | [cdp-cli](https://github.com/sony/cdp-cli) | Command line tools for generating start point of multi-platform application development (Details: see cdp-js repository) | HTML | 7 | Apache License 2.0 | 2017-10-10 | 2020-12-13 | 2018-07-13 |
 | [nnabla-examples](https://github.com/sony/nnabla-examples) | Neural Network Libraries https://github.com/sony/nnabla - Examples | Python | 312 | Apache License 2.0 | 2017-11-05 | 2026-07-29 | 2026-07-29 |
-| [nnabla-c-runtime](https://github.com/sony/nnabla-c-runtime) | Neural Network Libraries - C Runtime | C | 59 | Apache License 2.0 | 2018-06-26 | 2026-07-29 | 2026-07-24 |
+| [nnabla-c-runtime](https://github.com/sony/nnabla-c-runtime) | Neural Network Libraries - C Runtime | C | 58 | Apache License 2.0 | 2018-06-26 | 2026-08-01 | 2026-07-24 |
 | [mapray-js](https://github.com/sony/mapray-js) | JavaScript library for Interactive high quality 3D globes and maps in the browser | TypeScript | 155 | Apache License 2.0 | 2019-01-28 | 2026-07-29 | 2025-07-25 |
 | [typescript-fsa-redux-middleware](https://github.com/sony/typescript-fsa-redux-middleware) | Fluent syntax for defining typesafe Redux vanilla middlewares on top of typescript-fsa. | TypeScript | 10 | MIT License | 2019-01-29 | 2025-11-14 | 2020-01-24 |
 | [nnabla-doc](https://github.com/sony/nnabla-doc) | None | HTML | 1 | - | 2019-02-20 | 2026-07-29 | 2026-07-24 |
@@ -79,7 +79,7 @@ Statistics Date: 2026-08-01 10:02:17
 | [NeISF](https://github.com/sony/NeISF) | None | Python | 24 | Other | 2024-06-04 | 2026-05-11 | 2025-05-15 |
 | [nnc-desktop](https://github.com/sony/nnc-desktop) | None | TypeScript | 22 | Apache License 2.0 | 2024-06-04 | 2026-07-29 | 2026-07-24 |
 | [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 101 | MIT License | 2024-06-04 | 2026-02-27 | 2025-03-31 |
-| [silentcipher](https://github.com/sony/silentcipher) | None | Python | 100 | MIT License | 2024-06-05 | 2026-07-22 | 2024-07-22 |
+| [silentcipher](https://github.com/sony/silentcipher) | None | Python | 102 | MIT License | 2024-06-05 | 2026-08-02 | 2024-07-22 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 22 | MIT License | 2024-07-09 | 2026-05-28 | 2025-06-09 |
 | [genwarp](https://github.com/sony/genwarp) | None | Python | 310 | MIT License | 2024-08-06 | 2026-07-29 | 2024-09-26 |
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 56 | MIT License | 2024-09-05 | 2026-03-30 | 2024-11-05 |

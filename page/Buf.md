@@ -1,18 +1,18 @@
 # Buf
 
-共 77 个项目，近半年内活跃项目 53 个，1 个团队， 22240 个 Star。
+共 77 个项目，近半年内活跃项目 53 个，1 个团队， 22241 个 Star。
 
 语言 Top 3：Go, TypeScript, Makefile
 
-统计时间：2026-08-01 10:02:17
+统计时间：2026-08-02 10:00:24
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) | Protocol Buffer Validation - replaced by https://github.com/bufbuild/protovalidate | Go | 4123 | Apache License 2.0 | 2017-10-03 | 2026-07-31 | 2026-05-27 |
 | [homebrew-buf](https://github.com/bufbuild/homebrew-buf) | Homebrew tap for Buf. | Shell | 14 | Apache License 2.0 | 2019-10-02 | 2026-07-17 | 2026-07-17 |
-| [buf](https://github.com/bufbuild/buf) | The best way of working with Protocol Buffers. | Go | 11314 | Apache License 2.0 | 2019-10-03 | 2026-07-31 | 2026-07-27 |
+| [buf](https://github.com/bufbuild/buf) | The best way of working with Protocol Buffers. | Go | 11315 | Apache License 2.0 | 2019-10-03 | 2026-08-02 | 2026-08-02 |
 | [vim-buf](https://github.com/bufbuild/vim-buf) | Vim integration for Buf. | Vim Script | 38 | Apache License 2.0 | 2019-10-03 | 2025-09-08 | 2026-07-17 |
-| [buf-examples](https://github.com/bufbuild/buf-examples) | Example repository that uses Buf. | TypeScript | 109 | Apache License 2.0 | 2019-10-12 | 2026-07-13 | 2026-07-28 |
+| [buf-examples](https://github.com/bufbuild/buf-examples) | Example repository that uses Buf. | TypeScript | 109 | Apache License 2.0 | 2019-10-12 | 2026-07-13 | 2026-08-02 |
 | [makego](https://github.com/bufbuild/makego) | Makefile setup for our Golang projects. | Makefile | 111 | Apache License 2.0 | 2019-11-18 | 2026-07-22 | 2026-07-22 |
 | [buf-gradle-plugin](https://github.com/bufbuild/buf-gradle-plugin) | Gradle plugin for the Buf CLI | Kotlin | 55 | Apache License 2.0 | 2020-08-29 | 2026-07-22 | 2026-07-27 |
 | [vscode-buf](https://github.com/bufbuild/vscode-buf) | Visual Studio Code integration for Buf. | TypeScript | 89 | Apache License 2.0 | 2020-12-23 | 2026-07-28 | 2026-07-28 |
@@ -23,11 +23,11 @@
 | [buf-tour](https://github.com/bufbuild/buf-tour) | None | None | 51 | - | 2021-08-10 | 2025-04-29 | 2025-04-29 |
 | [rules_buf](https://github.com/bufbuild/rules_buf) | Bazel rules for Buf. | Starlark | 61 | Apache License 2.0 | 2021-11-16 | 2026-07-27 | 2026-07-27 |
 | [intellij-buf](https://github.com/bufbuild/intellij-buf) | IntelliJ plugin for Buf | Kotlin | 24 | Apache License 2.0 | 2022-03-08 | 2026-07-27 | 2026-07-27 |
-| [protobuf-es](https://github.com/bufbuild/protobuf-es) | Protocol Buffers for ECMAScript. The only JavaScript Protobuf library that is fully-compliant with Protobuf conformance tests. | TypeScript | 1635 | Apache License 2.0 | 2022-03-14 | 2026-07-30 | 2026-08-01 |
+| [protobuf-es](https://github.com/bufbuild/protobuf-es) | Protocol Buffers for ECMAScript. The only JavaScript Protobuf library that is fully-compliant with Protobuf conformance tests. | TypeScript | 1635 | Apache License 2.0 | 2022-03-14 | 2026-08-02 | 2026-08-02 |
 | [protocompile](https://github.com/bufbuild/protocompile) | A parsing/linking engine for protobuf; the guts for a pure Go replacement of protoc. | Go | 343 | Apache License 2.0 | 2022-08-11 | 2026-07-28 | 2026-07-23 |
 | [buf-language-server](https://github.com/bufbuild/buf-language-server) | Archived: LSP support is being built into the Buf CLI | Go | 131 | Apache License 2.0 | 2022-08-15 | 2026-07-21 | 2024-02-13 |
 | [plugins](https://github.com/bufbuild/plugins) | Remote Protobuf plugins available on the BSR | Dockerfile | 71 | Apache License 2.0 | 2022-08-16 | 2026-07-30 | 2026-07-30 |
-| [protobuf.com](https://github.com/bufbuild/protobuf.com) | Buf's Guide to Protobuf. Home of the language spec and grammar for the Protobuf IDL. | CSS | 29 | Apache License 2.0 | 2022-09-08 | 2026-07-27 | 2026-07-27 |
+| [protobuf.com](https://github.com/bufbuild/protobuf.com) | Buf's Guide to Protobuf. Home of the language spec and grammar for the Protobuf IDL. | CSS | 29 | Apache License 2.0 | 2022-09-08 | 2026-07-27 | 2026-08-01 |
 | [base-workflows](https://github.com/bufbuild/base-workflows) | Shared Github Actions for BufBuild Organization. | None | 5 | - | 2022-10-26 | 2026-07-23 | 2026-07-28 |
 | [tools](https://github.com/bufbuild/tools) | A collection of tools written at Buf. | Python | 7 | Apache License 2.0 | 2023-01-19 | 2026-07-15 | 2026-07-30 |
 | [protobuf-conformance](https://github.com/bufbuild/protobuf-conformance) | A repository running the Protobuf conformance tests against various libraries | JavaScript | 36 | Apache License 2.0 | 2023-01-20 | 2026-07-27 | 2026-08-01 |
