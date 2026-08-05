@@ -1,15 +1,15 @@
 # Sony
 
-A total of 146 projects, 42 active projects in the last six months, 1 teams, and 18345 stars.
+A total of 146 projects, 42 active projects in the last six months, 1 teams, and 18347 stars.
 
 Top 3 Languages: Python, C++, JavaScript
 
-Statistics Date: 2026-08-04 10:42:51
+Statistics Date: 2026-08-05 10:39:35
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3674 | MIT License | 2015-05-29 | 2026-08-04 | 2026-02-07 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4394 | MIT License | 2015-05-29 | 2026-08-04 | 2026-02-12 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3675 | MIT License | 2015-05-29 | 2026-08-05 | 2026-02-07 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4394 | MIT License | 2015-05-29 | 2026-08-05 | 2026-02-12 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 420 | MIT License | 2015-09-18 | 2026-07-27 | 2020-12-29 |
@@ -23,7 +23,7 @@ Statistics Date: 2026-08-04 10:42:51
 | [nnabla-ext-cuda](https://github.com/sony/nnabla-ext-cuda) | A CUDA Extension of Neural Network Libraries | Cuda | 91 | Apache License 2.0 | 2017-06-21 | 2026-07-29 | 2026-07-24 |
 | [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2775 | Apache License 2.0 | 2017-06-26 | 2026-07-31 | 2026-07-24 |
 | [easyhttpcpp](https://github.com/sony/easyhttpcpp) | A cross-platform HTTP client library with a focus on usability and speed | C++ | 176 | MIT License | 2017-08-09 | 2026-07-28 | 2022-01-31 |
-| [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 187 | Apache License 2.0 | 2017-09-07 | 2026-08-03 | 2026-08-03 |
+| [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 187 | Apache License 2.0 | 2017-09-07 | 2026-08-04 | 2026-08-04 |
 | [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 46 | Apache License 2.0 | 2017-09-07 | 2026-08-03 | 2026-08-03 |
 | [cdp-js](https://github.com/sony/cdp-js) | Libraries/SDK modules for multi-platform application development | TypeScript | 22 | Apache License 2.0 | 2017-10-10 | 2024-02-11 | 2018-05-10 |
 | [cdp-lib](https://github.com/sony/cdp-lib) | Application template/libraries for cdp-js (Details: see cdp-js repository) | JavaScript | 6 | Apache License 2.0 | 2017-10-10 | 2017-11-13 | 2018-02-23 |
@@ -79,7 +79,7 @@ Statistics Date: 2026-08-04 10:42:51
 | [NeISF](https://github.com/sony/NeISF) | None | Python | 24 | Other | 2024-06-04 | 2026-05-11 | 2025-05-15 |
 | [nnc-desktop](https://github.com/sony/nnc-desktop) | None | TypeScript | 22 | Apache License 2.0 | 2024-06-04 | 2026-07-29 | 2026-07-24 |
 | [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 101 | MIT License | 2024-06-04 | 2026-02-27 | 2025-03-31 |
-| [silentcipher](https://github.com/sony/silentcipher) | None | Python | 102 | MIT License | 2024-06-05 | 2026-08-02 | 2024-07-22 |
+| [silentcipher](https://github.com/sony/silentcipher) | None | Python | 103 | MIT License | 2024-06-05 | 2026-08-04 | 2024-07-22 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 22 | MIT License | 2024-07-09 | 2026-05-28 | 2025-06-09 |
 | [genwarp](https://github.com/sony/genwarp) | None | Python | 310 | MIT License | 2024-08-06 | 2026-07-29 | 2024-09-26 |
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 56 | MIT License | 2024-09-05 | 2026-03-30 | 2024-11-05 |
