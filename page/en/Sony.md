@@ -1,10 +1,10 @@
 # Sony
 
-A total of 146 projects, 41 active projects in the last six months, 1 teams, and 18354 stars.
+A total of 146 projects, 41 active projects in the last six months, 1 teams, and 18355 stars.
 
 Top 3 Languages: Python, C++, JavaScript
 
-Statistics Date: 2026-08-08 08:16:18
+Statistics Date: 2026-08-09 08:17:04
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -52,7 +52,7 @@ Statistics Date: 2026-08-08 08:16:18
 | [nnabla-browser](https://github.com/sony/nnabla-browser) | Visualization toolkit for Neural Network Libraries | TypeScript | 9 | Apache License 2.0 | 2022-03-31 | 2026-07-29 | 2026-07-29 |
 | [sqvae](https://github.com/sony/sqvae) | Pytorch implementation of stochastically quantized variational autoencoder (SQ-VAE) | Python | 196 | Apache License 2.0 | 2022-05-26 | 2026-06-02 | 2022-07-20 |
 | [aibo-development-tutorial](https://github.com/sony/aibo-development-tutorial) | None | None | 9 | Other | 2022-06-28 | 2026-03-04 | 2022-06-30 |
-| [FxNorm-automix](https://github.com/sony/FxNorm-automix) | FxNorm-Automix - Implementation of automatic music mixing systems. We show how we can use wet music data and repurpose it to train a fully automatic mixing system | Python | 147 | MIT License | 2022-08-05 | 2026-07-21 | 2024-03-11 |
+| [FxNorm-automix](https://github.com/sony/FxNorm-automix) | FxNorm-Automix - Implementation of automatic music mixing systems. We show how we can use wet music data and repurpose it to train a fully automatic mixing system | Python | 148 | MIT License | 2022-08-05 | 2026-08-08 | 2024-03-11 |
 | [polar-densification](https://github.com/sony/polar-densification) | None | Python | 34 | MIT License | 2022-09-13 | 2026-08-03 | 2023-03-24 |
 | [nnabla-js](https://github.com/sony/nnabla-js) | None | TypeScript | 1 | Apache License 2.0 | 2022-09-16 | 2026-07-29 | 2026-07-24 |
 | [DiffRoll](https://github.com/sony/DiffRoll) | PyTorch implementation of DiffRoll, a diffusion-based generative automatic music transcription (AMT) model | Jupyter Notebook | 81 | MIT License | 2022-10-11 | 2026-06-10 | 2023-12-06 |

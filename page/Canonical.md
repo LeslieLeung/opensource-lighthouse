@@ -1,10 +1,10 @@
 # Canonical
 
-共 2854 个项目，近半年内活跃项目 1612 个，5 个团队， 68663 个 Star。
+共 2854 个项目，近半年内活跃项目 1609 个，5 个团队， 68677 个 Star。
 
 语言 Top 3：Python, Shell, Go
 
-统计时间：2026-08-08 08:16:18
+统计时间：2026-08-09 08:17:04
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -92,21 +92,21 @@
 | [ubuntu-drivers-common](https://github.com/canonical/ubuntu-drivers-common) | None | Python | 48 | GNU General Public License v2.0 | 2011-01-18 | 2026-08-02 | 2026-07-30 |
 | [nvidia-prime](https://github.com/canonical/nvidia-prime) | None | Python | 34 | - | 2013-05-31 | 2026-03-08 | 2023-04-07 |
 | [screen-resolution-extra](https://github.com/canonical/screen-resolution-extra) | None | Python | 1 | GNU General Public License v2.0 | 2013-11-11 | 2023-12-14 | 2023-04-11 |
-| [ubuntu.com](https://github.com/canonical/ubuntu.com) | The official website for the Ubuntu operating system | HTML | 322 | Other | 2014-08-29 | 2026-08-06 | 2026-08-07 |
+| [ubuntu.com](https://github.com/canonical/ubuntu.com) | The official website for the Ubuntu operating system | HTML | 322 | Other | 2014-08-29 | 2026-08-06 | 2026-08-08 |
 | [canonicalwebteam.versioned-static](https://github.com/canonical/canonicalwebteam.versioned-static) | A {% versioned_static %} template tag for generating cache-busting static URLs | Python | 4 | GNU Lesser General Public License v3.0 | 2014-09-15 | 2024-05-29 | 2026-06-21 |
-| [assets.ubuntu.com](https://github.com/canonical/assets.ubuntu.com) | A JSON Restful API for storing and serving binary asset files | Python | 13 | - | 2014-09-26 | 2026-04-28 | 2026-08-07 |
+| [assets.ubuntu.com](https://github.com/canonical/assets.ubuntu.com) | A JSON Restful API for storing and serving binary asset files | Python | 13 | - | 2014-09-26 | 2026-04-28 | 2026-08-08 |
 | [manager.assets.ubuntu.com](https://github.com/canonical/manager.assets.ubuntu.com) | A web frontend for interacting with the assets server | Shell | 1 | - | 2014-09-26 | 2023-10-06 | 2023-06-26 |
-| [cloud-init](https://github.com/canonical/cloud-init) | Official upstream for the cloud-init: cloud instance initialization | Python | 3781 | Other | 2014-10-08 | 2026-08-07 | 2026-08-03 |
+| [cloud-init](https://github.com/canonical/cloud-init) | Official upstream for the cloud-init: cloud instance initialization | Python | 3782 | Other | 2014-10-08 | 2026-08-08 | 2026-08-03 |
 | [lxd](https://github.com/canonical/lxd) | Powerful system container and virtual machine manager | Go | 4809 | GNU Affero General Public License v3.0 | 2014-11-04 | 2026-08-06 | 2026-07-31 |
 | [partners.ubuntu.com](https://github.com/canonical/partners.ubuntu.com) | Ubuntu Partner Site | JavaScript | 4 | Other | 2014-11-17 | 2024-08-22 | 2026-07-24 |
 | [jujucharms.com](https://github.com/canonical/jujucharms.com) | The jujucharms.com website.  | None | 8 | - | 2014-11-20 | 2022-01-05 | 2014-11-21 |
 | [asset-mapper](https://github.com/canonical/asset-mapper) | None | Python | 1 | GNU Lesser General Public License v3.0 | 2014-12-19 | 2023-01-27 | 2020-02-10 |
-| [vanilla-framework](https://github.com/canonical/vanilla-framework) | From community websites to web applications, this CSS framework will help you achieve a consistent look and feel. | HTML | 977 | GNU Lesser General Public License v3.0 | 2015-02-23 | 2026-07-29 | 2026-08-06 |
+| [vanilla-framework](https://github.com/canonical/vanilla-framework) | From community websites to web applications, this CSS framework will help you achieve a consistent look and feel. | HTML | 980 | GNU Lesser General Public License v3.0 | 2015-02-23 | 2026-08-08 | 2026-08-06 |
 | [canonicalwebteam.upload-assets](https://github.com/canonical/canonicalwebteam.upload-assets) | None | Python | 3 | - | 2015-02-24 | 2025-04-10 | 2026-07-24 |
 | [beaver-charm](https://github.com/canonical/beaver-charm) | None | Python | 2 | Other | 2015-04-13 | 2023-01-28 | 2015-04-24 |
 | [jimm](https://github.com/canonical/jimm) | Juju intelligent model manager web service | Go | 15 | Other | 2015-04-14 | 2026-07-30 | 2026-07-30 |
 | [maas.io](https://github.com/canonical/maas.io) | Site for maas.io | HTML | 20 | GNU Lesser General Public License v3.0 | 2015-04-15 | 2026-04-22 | 2026-08-05 |
-| [pylxd](https://github.com/canonical/pylxd) | Python module for LXD | Python | 276 | Apache License 2.0 | 2015-05-26 | 2026-07-21 | 2026-07-28 |
+| [pylxd](https://github.com/canonical/pylxd) | Python module for LXD | Python | 277 | Apache License 2.0 | 2015-05-26 | 2026-08-08 | 2026-07-28 |
 | [probert](https://github.com/canonical/probert) | Prober tool - Hardware discovery library used in Subiquity | Python | 23 | GNU General Public License v3.0 | 2015-06-08 | 2026-07-22 | 2026-06-08 |
 | [subiquity](https://github.com/canonical/subiquity) | Ubuntu Server Installer, and backend for Ubuntu Desktop Installer | Python | 584 | Other | 2015-06-08 | 2026-08-06 | 2026-08-06 |
 | [cn.ubuntu.com](https://github.com/canonical/cn.ubuntu.com) | Codebase for Chinese marketing site | Python | 6 | Other | 2015-06-17 | 2026-07-16 | 2026-08-07 |
@@ -117,7 +117,7 @@
 | [snapd](https://github.com/canonical/snapd) | The snapd and snap tools enable systems to work with .snap files. | Go | 2039 | GNU General Public License v3.0 | 2015-10-21 | 2026-08-07 | 2026-08-07 |
 | [go-binary-layer](https://github.com/canonical/go-binary-layer) | Layer for charms that are installed as a single, standalone Go binary. | Python | 0 | Apache License 2.0 | 2015-10-27 | 2025-06-24 | 2016-10-21 |
 | [juju-relation-mongodb](https://github.com/canonical/juju-relation-mongodb) | None | Python | 0 | Other | 2015-10-27 | 2025-06-24 | 2017-07-20 |
-| [snapcraft](https://github.com/canonical/snapcraft) | Package, distribute, and update any app for Linux and IoT. | Python | 1283 | GNU General Public License v3.0 | 2015-10-29 | 2026-08-06 | 2026-08-08 |
+| [snapcraft](https://github.com/canonical/snapcraft) | Package, distribute, and update any app for Linux and IoT. | Python | 1282 | GNU General Public License v3.0 | 2015-10-29 | 2026-08-08 | 2026-08-08 |
 | [lxd-demo-server](https://github.com/canonical/lxd-demo-server) | The LXD demo server | JavaScript | 69 | Apache License 2.0 | 2015-11-04 | 2026-06-30 | 2025-08-26 |
 | [cloud-init.io](https://github.com/canonical/cloud-init.io) | Codebase for cloud-init marketing site | Python | 3 | GNU Lesser General Public License v3.0 | 2016-01-19 | 2026-03-16 | 2026-08-05 |
 | [serial-vault](https://github.com/canonical/serial-vault) | None | Go | 16 | - | 2016-02-03 | 2026-01-07 | 2025-09-11 |
@@ -168,7 +168,7 @@
 | [cpc-image-customization-examples](https://github.com/canonical/cpc-image-customization-examples) | Examples of how Ubuntu cloud images can be customized | Python | 1 | Apache License 2.0 | 2017-03-14 | 2025-01-21 | 2025-01-21 |
 | [docs.conjure-up.io](https://github.com/canonical/docs.conjure-up.io) | Documentation for Conjure-up | HTML | 2 | Other | 2017-03-15 | 2023-11-16 | 2023-11-15 |
 | [archive-auth-mirror](https://github.com/canonical/archive-auth-mirror) | Juju charm to mirror and sync an Ubuntu repository | Python | 1 | - | 2017-03-21 | 2026-07-12 | 2023-12-15 |
-| [maas](https://github.com/canonical/maas) | Official MAAS repository. Bugs are tracked on Launchpad: https://bugs.launchpad.net/maas | Python | 491 | Other | 2017-03-28 | 2026-08-07 | 2026-08-07 |
+| [maas](https://github.com/canonical/maas) | Official MAAS repository. Bugs are tracked on Launchpad: https://bugs.launchpad.net/maas | Python | 492 | Other | 2017-03-28 | 2026-08-08 | 2026-08-07 |
 | [core-build](https://github.com/canonical/core-build) | System configuration to create bootable Ubuntu Core images using core* snaps as bases | Python | 9 | GNU General Public License v3.0 | 2017-03-29 | 2026-07-30 | 2020-05-11 |
 | [snapd-glib](https://github.com/canonical/snapd-glib) | snapd-glib is a library to allow GLib based applications access to snapd, the daemon that controls Snaps. | C | 17 | Other | 2017-04-04 | 2026-03-17 | 2026-03-17 |
 | [ubuntu-pro-client](https://github.com/canonical/ubuntu-pro-client) | Ubuntu Pro Client for offerings from Canonical | Python | 73 | GNU General Public License v3.0 | 2017-04-12 | 2026-07-27 | 2026-08-03 |
@@ -185,19 +185,19 @@
 | [etcd-snaps](https://github.com/canonical/etcd-snaps) | Snap package for etcd. File bugs at https://bugs.launchpad.net/etcd-snaps/+bugs. | Shell | 0 | - | 2017-05-17 | 2026-04-09 | 2026-04-09 |
 | [juju-interface-basic-auth-check](https://github.com/canonical/juju-interface-basic-auth-check) | Juju interface for basic-auth-service | Python | 0 | - | 2017-05-22 | 2026-07-12 | 2024-06-03 |
 | [basic-auth-service-charm](https://github.com/canonical/basic-auth-service-charm) | Juju charm to deploy the basic-auth-service for HTTP Basic-Auth credential management | Python | 1 | - | 2017-05-22 | 2026-07-12 | 2024-05-02 |
-| [dqlite](https://github.com/canonical/dqlite) | Embeddable, replicated and fault-tolerant SQL engine. | C | 4364 | Other | 2017-05-24 | 2026-08-06 | 2026-07-25 |
+| [dqlite](https://github.com/canonical/dqlite) | Embeddable, replicated and fault-tolerant SQL engine. | C | 4365 | Other | 2017-05-24 | 2026-08-08 | 2026-07-25 |
 | [cm3-gadget](https://github.com/canonical/cm3-gadget) | The gadget snap for the Raspberry CM3 development board | None | 2 | - | 2017-06-07 | 2024-09-20 | 2019-07-16 |
 | [charm-swift-storage](https://github.com/canonical/charm-swift-storage) | Juju Charm - Swift storage | Python | 0 | Apache License 2.0 | 2017-06-12 | 2022-12-29 | 2020-07-23 |
 | [cookie-policy](https://github.com/canonical/cookie-policy) | A script and stylesheet that displays the Canonical cookie policy | JavaScript | 10 | - | 2017-06-13 | 2026-06-29 | 2026-08-07 |
 | [charm-ceilometer-agent](https://github.com/canonical/charm-ceilometer-agent) | Juju Charm - Ceilometer agent | Python | 0 | Apache License 2.0 | 2017-06-15 | 2022-12-28 | 2017-06-15 |
 | [charm-swift-proxy](https://github.com/canonical/charm-swift-proxy) | Juju Charm - Swift proxy | Python | 0 | Apache License 2.0 | 2017-07-07 | 2022-12-29 | 2019-03-01 |
 | [lxd-pkg-snap](https://github.com/canonical/lxd-pkg-snap) | LXD snap packaging | Shell | 18 | - | 2017-07-13 | 2026-07-01 | 2026-06-29 |
-| [mir](https://github.com/canonical/mir) | The Mir compositor | C++ | 779 | GNU General Public License v2.0 | 2017-08-02 | 2026-08-06 | 2026-07-29 |
+| [mir](https://github.com/canonical/mir) | The Mir compositor | C++ | 780 | GNU General Public License v2.0 | 2017-08-02 | 2026-08-08 | 2026-07-29 |
 | [mir-kiosk](https://github.com/canonical/mir-kiosk) | Definition of the mir-kiosk snap | Shell | 21 | - | 2017-08-02 | 2025-05-14 | 2024-03-02 |
 | [canonicalwebteam.get-feeds](https://github.com/canonical/canonicalwebteam.get-feeds) | None | Python | 1 | GNU Lesser General Public License v3.0 | 2017-08-03 | 2023-01-28 | 2019-05-04 |
 | [deployment-configs](https://github.com/canonical/deployment-configs) | None | None | 11 | - | 2017-08-11 | 2025-02-08 | 2023-06-26 |
 | [charm-keystone](https://github.com/canonical/charm-keystone) | Juju Charm - Keystone | Python | 0 | Apache License 2.0 | 2017-08-14 | 2022-12-28 | 2018-01-17 |
-| [snapcraft.io](https://github.com/canonical/snapcraft.io) | The official website's repository for the Snap store | TypeScript | 179 | Other | 2017-08-16 | 2026-08-04 | 2026-08-07 |
+| [snapcraft.io](https://github.com/canonical/snapcraft.io) | The official website's repository for the Snap store | TypeScript | 179 | Other | 2017-08-16 | 2026-08-04 | 2026-08-08 |
 | [desktop-design](https://github.com/canonical/desktop-design) | None | HTML | 21 | - | 2017-08-21 | 2026-07-03 | 2021-11-04 |
 | [go-gettext](https://github.com/canonical/go-gettext) | gettext in golang | Go | 11 | Other | 2017-08-24 | 2026-06-30 | 2024-02-07 |
 | [dotrun-image](https://github.com/canonical/dotrun-image) | None | Python | 4 | - | 2017-09-23 | 2026-01-23 | 2026-06-21 |
@@ -211,7 +211,7 @@
 | [charm-tools](https://github.com/canonical/charm-tools) | Tools for charm authors and maintainers | Python | 0 | Other | 2017-11-23 | 2022-12-29 | 2017-11-23 |
 | [base-18](https://github.com/canonical/base-18) | The base-18 base snap | Shell | 1 | - | 2017-11-27 | 2026-02-24 | 2018-02-06 |
 | [zenhub-backlog-updater](https://github.com/canonical/zenhub-backlog-updater) | Update Google spreadsheet backlog from Zenhub | JavaScript | 1 | - | 2017-11-29 | 2023-09-05 | 2019-02-06 |
-| [multipass](https://github.com/canonical/multipass) | Multipass orchestrates virtual Ubuntu instances | C++ | 9205 | GNU General Public License v3.0 | 2017-12-13 | 2026-08-07 | 2026-08-06 |
+| [multipass](https://github.com/canonical/multipass) | Multipass orchestrates virtual Ubuntu instances | C++ | 9206 | GNU General Public License v3.0 | 2017-12-13 | 2026-08-08 | 2026-08-09 |
 | [unified-email-template](https://github.com/canonical/unified-email-template) | The is the home of Canonical's HTML email template | None | 1 | - | 2017-12-21 | 2022-08-02 | 2020-06-16 |
 | [openstack-on-lxd](https://github.com/canonical/openstack-on-lxd) | Deployment of OpenStack using LXD and Juju | Python | 0 | - | 2017-12-22 | 2022-12-29 | 2017-11-09 |
 | [charm-ceilometer](https://github.com/canonical/charm-ceilometer) | Juju Charm - Ceilometer | Python | 0 | Apache License 2.0 | 2018-01-15 | 2022-12-28 | 2019-08-06 |
@@ -226,7 +226,7 @@
 | [netplan](https://github.com/canonical/netplan) | Declarative network configuration for various backends | Python | 846 | GNU General Public License v3.0 | 2018-01-24 | 2026-07-30 | 2026-07-20 |
 | [curtin](https://github.com/canonical/curtin) | Moved from launchpad to github, now the active code repo | Python | 76 | Other | 2018-01-25 | 2026-08-03 | 2026-07-08 |
 | [snap-elasticsearch](https://github.com/canonical/snap-elasticsearch) | Snap package for Elasticsearch | None | 0 | - | 2018-01-26 | 2022-12-29 | 2018-01-26 |
-| [netplan.io](https://github.com/canonical/netplan.io) | None | Python | 9 | - | 2018-02-16 | 2026-03-06 | 2026-08-07 |
+| [netplan.io](https://github.com/canonical/netplan.io) | None | Python | 9 | - | 2018-02-16 | 2026-03-06 | 2026-08-09 |
 | [core18](https://github.com/canonical/core18) | The core18 base snap | Shell | 13 | - | 2018-03-21 | 2026-07-01 | 2026-07-01 |
 | [candidclient](https://github.com/canonical/candidclient) | Go client code for the candid identity server. | Go | 0 | Other | 2018-04-04 | 2023-01-28 | 2020-04-15 |
 | [snap-refstack-cli](https://github.com/canonical/snap-refstack-cli) | Refstack Client Snap | None | 0 | - | 2018-04-05 | 2022-12-29 | 2018-04-05 |
@@ -234,7 +234,7 @@
 | [charm-etckeeper](https://github.com/canonical/charm-etckeeper) | Charm for installing and configuring etckeeper, to autocommit changes to /etc. | Python | 0 | - | 2018-04-11 | 2022-12-28 | 2018-04-11 |
 | [aws-ubuntu-advantage](https://github.com/canonical/aws-ubuntu-advantage) | Set up an AWS Account for Ubuntu Advantage | Python | 1 | Apache License 2.0 | 2018-05-02 | 2022-01-05 | 2018-10-11 |
 | [python-libjuju](https://github.com/canonical/python-libjuju) | None | Python | 0 | Apache License 2.0 | 2018-05-07 | 2022-12-29 | 2022-04-20 |
-| [microk8s](https://github.com/canonical/microk8s) | MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge. | Python | 9345 | Apache License 2.0 | 2018-05-09 | 2026-08-07 | 2026-08-07 |
+| [microk8s](https://github.com/canonical/microk8s) | MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge. | Python | 9345 | Apache License 2.0 | 2018-05-09 | 2026-08-07 | 2026-08-08 |
 | [uss-tableflip](https://github.com/canonical/uss-tableflip) | general process scripts for ubuntu-server | Python | 4 | - | 2018-05-18 | 2026-07-24 | 2026-07-24 |
 | [server-dev-summary](https://github.com/canonical/server-dev-summary) |  The weekly development summary of the Canonical Server team | Python | 3 | Creative Commons Attribution Share Alike 4.0 International | 2018-05-31 | 2021-10-01 | 2023-12-15 |
 | [server-test-scripts](https://github.com/canonical/server-test-scripts) | Canonical Server team scripts used throughout testing | Shell | 8 | GNU General Public License v3.0 | 2018-05-31 | 2026-07-05 | 2025-10-31 |
@@ -247,7 +247,7 @@
 | [canonicalwebteam.http](https://github.com/canonical/canonicalwebteam.http) | None | Python | 2 | - | 2018-07-10 | 2023-06-12 | 2026-06-21 |
 | [snapdocs](https://github.com/canonical/snapdocs) | None | Go | 2 | - | 2018-07-12 | 2024-09-20 | 2018-07-12 |
 | [multipass.run](https://github.com/canonical/multipass.run) | Codebase for multipass marketing site | HTML | 5 | GNU General Public License v3.0 | 2018-07-16 | 2026-04-21 | 2026-08-05 |
-| [microk8s.io](https://github.com/canonical/microk8s.io) | Code for the microk8s.io website by Canonical | HTML | 20 | - | 2018-07-16 | 2025-08-22 | 2026-08-07 |
+| [microk8s.io](https://github.com/canonical/microk8s.io) | Code for the microk8s.io website by Canonical | HTML | 20 | - | 2018-07-16 | 2025-08-22 | 2026-08-09 |
 | [mir-server.io](https://github.com/canonical/mir-server.io) | The codebase for the https://mir-server.io website | HTML | 9 | - | 2018-07-16 | 2026-01-14 | 2025-09-18 |
 | [discourse-markdown-note](https://github.com/canonical/discourse-markdown-note) | None | JavaScript | 1 | - | 2018-07-18 | 2025-02-06 | 2026-07-21 |
 | [ubuntu-copy-docs](https://github.com/canonical/ubuntu-copy-docs) | Copy docs widget for Ubuntu websites | JavaScript | 12 | - | 2018-07-25 | 2026-06-11 | 2026-06-18 |
@@ -286,7 +286,7 @@
 | [iot-agent](https://github.com/canonical/iot-agent) | IoT Device Management Agent | Go | 29 | GNU General Public License v3.0 | 2019-04-03 | 2026-06-16 | 2025-12-02 |
 | [jmx-exporter-charm](https://github.com/canonical/jmx-exporter-charm) | None | Shell | 0 | MIT License | 2019-04-03 | 2025-06-24 | 2022-06-17 |
 | [canonicalwebteam.discourse](https://github.com/canonical/canonicalwebteam.discourse) | None | Python | 12 | GNU Lesser General Public License v3.0 | 2019-04-08 | 2026-07-10 | 2026-07-29 |
-| [webteam.canonical.com](https://github.com/canonical/webteam.canonical.com) | Everything cool from the webteam in one portal | HTML | 5 | - | 2019-04-10 | 2025-06-03 | 2026-08-03 |
+| [webteam.canonical.com](https://github.com/canonical/webteam.canonical.com) | Everything cool from the webteam in one portal | HTML | 5 | - | 2019-04-10 | 2025-06-03 | 2026-08-09 |
 | [rust-libjuju](https://github.com/canonical/rust-libjuju) | Rust library for interacting with Juju | Rust | 7 | - | 2019-04-12 | 2025-02-24 | 2024-06-13 |
 | [iot-devicetwin](https://github.com/canonical/iot-devicetwin) | IoT Device Twin Service | Go | 12 | GNU Affero General Public License v3.0 | 2019-04-16 | 2024-11-16 | 2023-02-25 |
 | [sisyphus-cloud-green](https://github.com/canonical/sisyphus-cloud-green) | None | Go | 0 | - | 2019-04-16 | 2025-06-30 | 2025-06-30 |
@@ -298,7 +298,7 @@
 | [canonicalwebteam.flask-base](https://github.com/canonical/canonicalwebteam.flask-base) | None | Python | 3 | Apache License 2.0 | 2019-05-28 | 2026-03-06 | 2026-07-20 |
 | [certification.ubuntu.com](https://github.com/canonical/certification.ubuntu.com) | None | SCSS | 1 | - | 2019-05-29 | 2023-06-26 | 2023-06-26 |
 | [core20](https://github.com/canonical/core20) | The core20 base snap | Shell | 26 | - | 2019-05-29 | 2026-07-01 | 2026-07-01 |
-| [canonical.com](https://github.com/canonical/canonical.com) | Repository for the new version of canonical.com | HTML | 146 | Other | 2019-05-30 | 2026-08-04 | 2026-08-07 |
+| [canonical.com](https://github.com/canonical/canonical.com) | Repository for the new version of canonical.com | HTML | 146 | Other | 2019-05-30 | 2026-08-04 | 2026-08-08 |
 | [maas-ui](https://github.com/canonical/maas-ui) | The UI for MAAS (metal-as-a-service) | TypeScript | 72 | Other | 2019-06-10 | 2026-07-24 | 2026-08-07 |
 | [dotrun-test-project](https://github.com/canonical/dotrun-test-project) | None | None | 0 | - | 2019-06-11 | 2022-08-02 | 2023-12-15 |
 | [canonicalwebteam.templatefinder](https://github.com/canonical/canonicalwebteam.templatefinder) | None | Python | 1 | GNU Lesser General Public License v3.0 | 2019-06-17 | 2022-08-02 | 2026-08-06 |
@@ -326,16 +326,16 @@
 | [kvsql-dqlite](https://github.com/canonical/kvsql-dqlite) | None | Go | 0 | Apache License 2.0 | 2019-09-25 | 2021-10-21 | 2026-04-10 |
 | [mir-kiosk-neverputt](https://github.com/canonical/mir-kiosk-neverputt) | None | None | 1 | - | 2019-09-27 | 2026-06-24 | 2026-06-24 |
 | [operator](https://github.com/canonical/operator) | Pure Python framework for writing Juju charms. | Python | 263 | Apache License 2.0 | 2019-10-01 | 2026-08-07 | 2026-08-05 |
-| [charm-lldpd](https://github.com/canonical/charm-lldpd) | LLDPd charm | Python | 1 | Other | 2019-10-04 | 2026-08-01 | 2026-08-01 |
+| [charm-lldpd](https://github.com/canonical/charm-lldpd) | LLDPd charm | Python | 1 | Other | 2019-10-04 | 2026-08-09 | 2026-08-09 |
 | [bare-base](https://github.com/canonical/bare-base) | The "bare" base snap | Makefile | 1 | - | 2019-10-14 | 2026-02-24 | 2025-12-08 |
 | [ubuntu-desktop-hyper-v](https://github.com/canonical/ubuntu-desktop-hyper-v) | Ubuntu Desktop Hyper-V Quick Create Gallery | Shell | 24 | - | 2019-10-30 | 2026-03-12 | 2025-07-11 |
 | [charmed-osm.com](https://github.com/canonical/charmed-osm.com) | None | HTML | 1 | GNU General Public License v3.0 | 2019-10-31 | 2023-10-24 | 2023-10-16 |
-| [etrace](https://github.com/canonical/etrace) | Utility for tracing execution of apps | Go | 59 | GNU General Public License v3.0 | 2019-11-12 | 2026-06-30 | 2026-08-06 |
+| [etrace](https://github.com/canonical/etrace) | Utility for tracing execution of apps | Go | 59 | GNU General Public License v3.0 | 2019-11-12 | 2026-06-30 | 2026-08-08 |
 | [models](https://github.com/canonical/models) | Reference Models | Python | 42 | GNU General Public License v3.0 | 2019-11-14 | 2026-08-03 | 2026-08-03 |
 | [dbus.dart](https://github.com/canonical/dbus.dart) | A native Dart client implementation of [D-Bus](https://www.freedesktop.org/wiki/Software/dbus/). | Dart | 105 | Mozilla Public License 2.0 | 2019-11-20 | 2026-08-03 | 2026-07-15 |
 | [sec-cvescan](https://github.com/canonical/sec-cvescan) | Analyzes an Ubuntu system and checks for unpatched vulnerabilities. | Python | 93 | GNU General Public License v3.0 | 2019-11-21 | 2026-06-30 | 2025-12-08 |
 | [canonicalwebteam.store-api](https://github.com/canonical/canonicalwebteam.store-api) | None | Python | 5 | GNU Lesser General Public License v3.0 | 2019-12-04 | 2026-06-24 | 2026-07-21 |
-| [anbox-cloud.io](https://github.com/canonical/anbox-cloud.io) | Anbox cloud demo site | HTML | 36 | GNU General Public License v3.0 | 2019-12-09 | 2026-07-28 | 2026-08-07 |
+| [anbox-cloud.io](https://github.com/canonical/anbox-cloud.io) | Anbox cloud demo site | HTML | 36 | GNU General Public License v3.0 | 2019-12-09 | 2026-07-28 | 2026-08-08 |
 | [AutoCove](https://github.com/canonical/AutoCove) | Distributed, Multi-threaded Coverity Automaton | Python | 4 | GNU General Public License v2.0 | 2020-01-07 | 2023-02-25 | 2024-05-03 |
 | [timescaledb-charm-cloud-green](https://github.com/canonical/timescaledb-charm-cloud-green) | TimescaleDB Juju charm | Python | 1 | Apache License 2.0 | 2020-01-08 | 2025-06-30 | 2020-04-30 |
 | [packer-maas](https://github.com/canonical/packer-maas) | Packer templates to create MAAS deployable images | HCL | 382 | Other | 2020-01-14 | 2026-08-07 | 2026-06-16 |
@@ -348,7 +348,7 @@
 | [ideahub](https://github.com/canonical/ideahub) | (Prototype) Submit an idea on which the wider company can vote.  | JavaScript | 2 | - | 2020-03-02 | 2022-08-02 | 2026-08-07 |
 | [charmhub.io](https://github.com/canonical/charmhub.io) | The official repository of Canonical's charmhub.io website.  | TypeScript | 12 | GNU General Public License v3.0 | 2020-03-09 | 2026-08-07 | 2026-08-07 |
 | [candid](https://github.com/canonical/candid) | Identity Manager Service | Go | 43 | GNU Affero General Public License v3.0 | 2020-03-10 | 2026-07-12 | 2026-04-29 |
-| [nats-operator](https://github.com/canonical/nats-operator) | Charm for the NATs messaging server (https://nats.io/) | Python | 9 | - | 2020-03-11 | 2026-07-20 | 2026-08-02 |
+| [nats-operator](https://github.com/canonical/nats-operator) | Charm for the NATs messaging server (https://nats.io/) | Python | 9 | - | 2020-03-11 | 2026-07-20 | 2026-08-09 |
 | [charm-mssql](https://github.com/canonical/charm-mssql) | A Juju charm that deploys a MSSQL container and operator on Kubernetes | Python | 3 | - | 2020-03-16 | 2022-10-24 | 2020-12-14 |
 | [rmw_fastrtps](https://github.com/canonical/rmw_fastrtps) | Implementation of the ROS Middleware (rmw) Interface using eProsima's Fast RTPS. | None | 2 | Apache License 2.0 | 2020-03-16 | 2020-09-28 | 2020-04-28 |
 | [task-runner](https://github.com/canonical/task-runner) | This is Docker image to run CronJobs in our Kubernetes cluster | Dockerfile | 1 | GNU Lesser General Public License v3.0 | 2020-03-18 | 2023-08-11 | 2026-05-01 |
@@ -441,7 +441,7 @@
 | [ubuntu-desktop-installer-old](https://github.com/canonical/ubuntu-desktop-installer-old) | None | None | 0 | GNU General Public License v3.0 | 2020-10-19 | 2023-01-28 | 2020-10-19 |
 | [ubuntu-desktop-installer](https://github.com/canonical/ubuntu-desktop-installer) | Ubuntu Desktop Installer | Dart | 539 | GNU General Public License v3.0 | 2020-10-20 | 2026-07-21 | 2024-03-06 |
 | [interface-service-mesh](https://github.com/canonical/interface-service-mesh) | Interface for Service Mesh charms | Python | 0 | Apache License 2.0 | 2020-10-21 | 2023-06-09 | 2022-10-04 |
-| [microceph](https://github.com/canonical/microceph) | MicroCeph is snap-deployed Ceph with built-in clustering | Go | 391 | GNU Affero General Public License v3.0 | 2020-10-21 | 2026-07-31 | 2026-07-23 |
+| [microceph](https://github.com/canonical/microceph) | MicroCeph is snap-deployed Ceph with built-in clustering | Go | 392 | GNU Affero General Public License v3.0 | 2020-10-21 | 2026-08-08 | 2026-07-23 |
 | [edgex-sync-and-create-launchpad-branch-action](https://github.com/canonical/edgex-sync-and-create-launchpad-branch-action) | Github Action to sync an upstream edgexfoundry repo and then create an ephimeral launchpad branch with the right versioning | None | 1 | - | 2020-10-22 | 2023-01-28 | 2021-07-09 |
 | [edgex-nightly-build](https://github.com/canonical/edgex-nightly-build) | Github Action for nightly build and release of latest/edge EdgeX snaps | None | 2 | Apache License 2.0 | 2020-10-22 | 2023-10-23 | 2023-09-05 |
 | [edgex-launchpad-build-action](https://github.com/canonical/edgex-launchpad-build-action) | Build an EdgeX snap on Launchpad | Python | 2 | Apache License 2.0 | 2020-10-22 | 2023-10-23 | 2023-09-01 |
@@ -452,10 +452,10 @@
 | [alertmanager-k8s-operator](https://github.com/canonical/alertmanager-k8s-operator) | This charmed operator automates operation procedures of Alertmanager, the alerting component of Prometheus and Loki, among others. | Python | 6 | Apache License 2.0 | 2020-10-30 | 2026-08-07 | 2026-08-07 |
 | [ros2_documentation](https://github.com/canonical/ros2_documentation) | ROS 2 docs repository | Python | 0 | Creative Commons Attribution 4.0 International | 2020-11-05 | 2023-01-28 | 2020-11-30 |
 | [community](https://github.com/canonical/community) | None | None | 0 | - | 2020-11-06 | 2021-12-14 | 2024-03-12 |
-| [ubuntu-com-security-api](https://github.com/canonical/ubuntu-com-security-api) | The API for CVEs and USNs data. | Python | 21 | - | 2020-11-10 | 2026-08-05 | 2026-08-05 |
+| [ubuntu-com-security-api](https://github.com/canonical/ubuntu-com-security-api) | The API for CVEs and USNs data. | Python | 21 | - | 2020-11-10 | 2026-08-05 | 2026-08-09 |
 | [pebble](https://github.com/canonical/pebble) | Pebble is a lightweight Linux service manager with layered configuration and an HTTP API | Go | 204 | GNU General Public License v3.0 | 2020-11-10 | 2026-08-07 | 2026-08-01 |
 | [doc-docs](https://github.com/canonical/doc-docs) | DevOps Centres contributions to docs and tutorials | None | 2 | Apache License 2.0 | 2020-11-12 | 2024-12-20 | 2022-10-04 |
-| [mongodb-k8s-operator](https://github.com/canonical/mongodb-k8s-operator) | Operator charm for MongoDB on Kubernetes | HCL | 13 | Apache License 2.0 | 2020-11-12 | 2026-07-24 | 2026-07-31 |
+| [mongodb-k8s-operator](https://github.com/canonical/mongodb-k8s-operator) | Operator charm for MongoDB on Kubernetes | HCL | 13 | Apache License 2.0 | 2020-11-12 | 2026-07-24 | 2026-08-08 |
 | [ctxtrace](https://github.com/canonical/ctxtrace) | Provides a set of methods for HTTP and context tracing | Go | 0 | Other | 2020-11-18 | 2026-07-12 | 2023-12-15 |
 | [eks-snap](https://github.com/canonical/eks-snap) | Single-package EKS Distro | Python | 17 | Apache License 2.0 | 2020-11-19 | 2025-03-24 | 2023-12-15 |
 | [anbox-platform-sdk](https://github.com/canonical/anbox-platform-sdk) | None | C++ | 6 | Apache License 2.0 | 2020-11-22 | 2026-06-18 | 2026-06-18 |
@@ -471,7 +471,7 @@
 | [graphene](https://github.com/canonical/graphene) | A thin layer of graphic data types | None | 0 | MIT License | 2020-12-10 | 2020-12-10 | 2023-04-04 |
 | [cassandra-k8s-operator](https://github.com/canonical/cassandra-k8s-operator) | None | Python | 0 | Apache License 2.0 | 2020-12-10 | 2026-07-01 | 2022-07-14 |
 | [ops-lib-nrpe](https://github.com/canonical/ops-lib-nrpe) | NRPE relation interface for Juju Operator Framework charms. | Python | 0 | - | 2020-12-11 | 2020-12-14 | 2023-12-15 |
-| [craft-providers](https://github.com/canonical/craft-providers) | Python interfaces for instantiating and executing builds for a variety of target environments.  | Python | 8 | GNU Lesser General Public License v3.0 | 2021-01-06 | 2026-07-22 | 2026-08-01 |
+| [craft-providers](https://github.com/canonical/craft-providers) | Python interfaces for instantiating and executing builds for a variety of target environments.  | Python | 8 | GNU Lesser General Public License v3.0 | 2021-01-06 | 2026-07-22 | 2026-08-09 |
 | [upptime](https://github.com/canonical/upptime) | 📈 Uptime monitor and status page for Canonical web and design team, powered by @upptime | Markdown | 11 | MIT License | 2021-01-07 | 2026-06-17 | 2026-06-17 |
 | [minio-operator](https://github.com/canonical/minio-operator) | MinIO Operator | Python | 3 | Apache License 2.0 | 2021-01-07 | 2026-06-24 | 2026-06-24 |
 | [microk8s-integrator-windows](https://github.com/canonical/microk8s-integrator-windows) | MicroK8s integrator for Windows | None | 1 | Apache License 2.0 | 2021-01-08 | 2023-08-15 | 2021-01-08 |
@@ -513,7 +513,7 @@
 | [go-efilib](https://github.com/canonical/go-efilib) | None | Go | 9 | Other | 2021-03-26 | 2026-06-13 | 2026-04-15 |
 | [kfp-operators](https://github.com/canonical/kfp-operators) | Kubeflow Pipelines Operators | Python | 6 | Apache License 2.0 | 2021-03-30 | 2026-07-22 | 2026-07-23 |
 | [discourse-nav](https://github.com/canonical/discourse-nav) | This repo is used to track discourse navigation issues from all forums | HTML | 0 | GNU General Public License v3.0 | 2021-04-07 | 2022-08-02 | 2024-06-16 |
-| [github-runner-operator](https://github.com/canonical/github-runner-operator) | github-runner-operator - charm repository. | Python | 19 | Apache License 2.0 | 2021-04-07 | 2026-08-01 | 2026-08-08 |
+| [github-runner-operator](https://github.com/canonical/github-runner-operator) | github-runner-operator - charm repository. | Python | 19 | Apache License 2.0 | 2021-04-07 | 2026-08-01 | 2026-08-09 |
 | [envoy-operator](https://github.com/canonical/envoy-operator) | Envoy Operator | Python | 2 | Apache License 2.0 | 2021-04-09 | 2026-06-23 | 2026-06-24 |
 | [mlmd-operator](https://github.com/canonical/mlmd-operator) | ML Metadata Operator | Python | 1 | Apache License 2.0 | 2021-04-12 | 2026-05-28 | 2026-06-09 |
 | [operator-schemas](https://github.com/canonical/operator-schemas) | Schemas for Operator Framework Interfaces | None | 0 | - | 2021-04-12 | 2023-06-12 | 2021-12-01 |
@@ -563,7 +563,7 @@
 | [karma-alertmanager-proxy-k8s-operator](https://github.com/canonical/karma-alertmanager-proxy-k8s-operator) | This charmed operator acts as a proxy between Alertmanager and Karma, forwarding information about alert rules. | Python | 0 | Apache License 2.0 | 2021-07-14 | 2026-07-01 | 2026-04-20 |
 | [loki-k8s-operator](https://github.com/canonical/loki-k8s-operator) | This charmed operator automates the operational procedures of running Grafana Loki, an open-source logs backend, in monolithic mode | Python | 12 | Apache License 2.0 | 2021-07-19 | 2026-08-06 | 2026-08-06 |
 | [cos-lite-bundle](https://github.com/canonical/cos-lite-bundle) | Canonical Observability Stack Lite, or COS Lite, is a light-weight, highly-integrated, Juju-based observability suite running on Kubernetes. | Python | 13 | Apache License 2.0 | 2021-07-20 | 2026-07-01 | 2026-05-06 |
-| [core-base](https://github.com/canonical/core-base) | The main repository for ubuntu-core base snaps. It contains snaps from core22+. | Shell | 35 | - | 2021-07-28 | 2026-08-04 | 2026-08-08 |
+| [core-base](https://github.com/canonical/core-base) | The main repository for ubuntu-core base snaps. It contains snaps from core22+. | Shell | 35 | - | 2021-07-28 | 2026-08-04 | 2026-08-09 |
 | [fwupd.dart](https://github.com/canonical/fwupd.dart) | Provides a client to connect to [fwupd](https://fwupd.org/) - the service that does firmware updates on Linux. | Dart | 14 | Mozilla Public License 2.0 | 2021-08-02 | 2026-05-12 | 2025-08-25 |
 | [firmware-updater](https://github.com/canonical/firmware-updater) | A firmware updater UI based on fwupd | Dart | 136 | GNU General Public License v3.0 | 2021-08-04 | 2026-07-21 | 2026-08-07 |
 | [craft-store](https://github.com/canonical/craft-store) | Python API to communicate with Snap Store and Charmhub | Python | 5 | GNU Lesser General Public License v3.0 | 2021-08-06 | 2026-08-03 | 2026-08-08 |
@@ -598,14 +598,14 @@
 | [cos-configuration-k8s-operator](https://github.com/canonical/cos-configuration-k8s-operator) | This charmed operator for Kubernetes enables you to provide configurations to various components of the Canonical Observability Stack (COS) bundle. | Python | 5 | Apache License 2.0 | 2021-10-19 | 2026-08-07 | 2026-08-07 |
 | [edgex-config-provider](https://github.com/canonical/edgex-config-provider) | Example snap content provider for EdgeX services | Shell | 2 | Apache License 2.0 | 2021-10-21 | 2023-10-23 | 2023-06-12 |
 | [promql-transform](https://github.com/canonical/promql-transform) | Transform PromQL Expressions on the fly | Go | 1 | Apache License 2.0 | 2021-10-26 | 2026-07-01 | 2022-06-21 |
-| [postgresql-operator](https://github.com/canonical/postgresql-operator) | A Charmed Operator for running PostgreSQL on machines | Python | 17 | Apache License 2.0 | 2021-10-28 | 2026-08-06 | 2026-08-08 |
+| [postgresql-operator](https://github.com/canonical/postgresql-operator) | A Charmed Operator for running PostgreSQL on machines | Python | 17 | Apache License 2.0 | 2021-10-28 | 2026-08-06 | 2026-08-09 |
 | [azure-sub-sync](https://github.com/canonical/azure-sub-sync) | Azure Function for syncing subscriptions with your Canonical private offer | Python | 0 | GNU General Public License v3.0 | 2021-10-29 | 2022-02-23 | 2023-12-15 |
-| [lightkube](https://github.com/canonical/lightkube) | Modern lightweight kubernetes module for python | Python | 0 | MIT License | 2021-11-02 | 2026-08-07 | 2026-08-07 |
+| [lightkube](https://github.com/canonical/lightkube) | Modern lightweight kubernetes module for python | Python | 0 | MIT License | 2021-11-02 | 2026-08-08 | 2026-08-08 |
 | [dqlite-ppa](https://github.com/canonical/dqlite-ppa) | PPA packaging for dqlite (raft, dqlite, go-dqlite) | None | 2 | - | 2021-11-02 | 2023-01-10 | 2025-08-29 |
 | [ua-reviewkit](https://github.com/canonical/ua-reviewkit) | None | Python | 4 | - | 2021-11-03 | 2026-04-16 | 2026-04-16 |
 | [interface-mysql-monitor](https://github.com/canonical/interface-mysql-monitor) | Monitoring interface for mysql relations  | Python | 0 | Other | 2021-11-10 | 2022-01-10 | 2023-12-15 |
 | [charmed-magma-orchestrator](https://github.com/canonical/charmed-magma-orchestrator) | Charmed Magma is the easiest way to deploy, configure, manage, integrate and drive daily actions for Magma. | Python | 7 | Apache License 2.0 | 2021-11-10 | 2024-08-08 | 2023-05-30 |
-| [postgresql-k8s-operator](https://github.com/canonical/postgresql-k8s-operator) | A Charmed Operator for running PostgreSQL on Kubernetes | Python | 14 | Apache License 2.0 | 2021-11-12 | 2026-08-06 | 2026-08-08 |
+| [postgresql-k8s-operator](https://github.com/canonical/postgresql-k8s-operator) | A Charmed Operator for running PostgreSQL on Kubernetes | Python | 14 | Apache License 2.0 | 2021-11-12 | 2026-08-06 | 2026-08-09 |
 | [mongodb-operator](https://github.com/canonical/mongodb-operator) | Operator charm for MongoDB on VM | HCL | 13 | Apache License 2.0 | 2021-11-15 | 2026-07-24 | 2026-07-24 |
 | [ubuntu-flutter-plugins](https://github.com/canonical/ubuntu-flutter-plugins) | A collection of Flutter plugins and packages for Ubuntu applications. | Dart | 65 | - | 2021-11-15 | 2026-06-30 | 2026-06-17 |
 | [template-operator](https://github.com/canonical/template-operator) | Template repository for Charmed Operators pre-configured with best-practice tooling for testing and linting | Python | 9 | Apache License 2.0 | 2021-11-16 | 2026-07-01 | 2022-12-12 |
@@ -619,8 +619,8 @@
 | [charming-actions](https://github.com/canonical/charming-actions) | A collection of Github Actions for interaction with Charmhub, and validating Charmed Operator code | TypeScript | 9 | - | 2021-11-29 | 2026-07-03 | 2026-08-06 |
 | [nrpe-external-master-interface](https://github.com/canonical/nrpe-external-master-interface) | None | Python | 0 | - | 2021-12-01 | 2023-08-09 | 2023-09-14 |
 | [edgex-ekuiper-snap](https://github.com/canonical/edgex-ekuiper-snap) | None | Go | 1 | Apache License 2.0 | 2021-12-03 | 2023-10-23 | 2023-10-19 |
-| [pgbouncer-k8s-operator](https://github.com/canonical/pgbouncer-k8s-operator) | A charmed operator for running PGbouncer on Kubernetes. | Python | 11 | Apache License 2.0 | 2021-12-03 | 2026-08-04 | 2026-08-08 |
-| [pgbouncer-operator](https://github.com/canonical/pgbouncer-operator) | A charmed operator for running PgBouncer on virtual machines. | Python | 7 | Apache License 2.0 | 2021-12-03 | 2026-08-05 | 2026-08-08 |
+| [pgbouncer-k8s-operator](https://github.com/canonical/pgbouncer-k8s-operator) | A charmed operator for running PGbouncer on Kubernetes. | Python | 11 | Apache License 2.0 | 2021-12-03 | 2026-08-04 | 2026-08-09 |
+| [pgbouncer-operator](https://github.com/canonical/pgbouncer-operator) | A charmed operator for running PgBouncer on virtual machines. | Python | 7 | Apache License 2.0 | 2021-12-03 | 2026-08-05 | 2026-08-09 |
 | [pgbouncer-container](https://github.com/canonical/pgbouncer-container) | A docker container, containing the pgbouncer connection pooler. Built for use in the pgbouncer k8s charm: https://github.com/canonical/pgbouncer-k8s-operator | Shell | 1 | Apache License 2.0 | 2021-12-10 | 2024-02-28 | 2023-06-07 |
 | [interface-jenkins-agent](https://github.com/canonical/interface-jenkins-agent) | None | None | 0 | - | 2021-12-10 | 2021-12-10 | 2021-12-10 |
 | [magma-agw](https://github.com/canonical/magma-agw) | None | None | 0 | - | 2021-12-11 | 2023-01-28 | 2021-12-11 |
@@ -662,7 +662,7 @@
 | [jhack](https://github.com/canonical/jhack) | Chock-full of Juju hackery. | Python | 59 | Apache License 2.0 | 2022-03-03 | 2026-07-09 | 2026-07-09 |
 | [stsstack-bundles](https://github.com/canonical/stsstack-bundles) | None | Shell | 9 | - | 2022-03-04 | 2026-07-28 | 2026-07-28 |
 | [nodl](https://github.com/canonical/nodl) | CLI and parsing utilities for the ROS 2 NoDL  | Python | 0 | Apache License 2.0 | 2022-03-07 | 2026-03-16 | 2023-04-03 |
-| [opensearch-operator](https://github.com/canonical/opensearch-operator) | OpenSearch operator | Python | 17 | Apache License 2.0 | 2022-03-11 | 2026-07-25 | 2026-08-08 |
+| [opensearch-operator](https://github.com/canonical/opensearch-operator) | OpenSearch operator | Python | 17 | Apache License 2.0 | 2022-03-11 | 2026-07-25 | 2026-08-09 |
 | [interface-prometheus-manual](https://github.com/canonical/interface-prometheus-manual) | Interface layer for register manual scrape job configuration stanzas with Prometheus 2 | None | 0 | Apache License 2.0 | 2022-03-11 | 2022-02-15 | 2023-12-02 |
 | [mayastor](https://github.com/canonical/mayastor) | A cloud native declarative data plane in containers for containers | Rust | 0 | Apache License 2.0 | 2022-03-14 | 2026-04-09 | 2026-04-09 |
 | [mayastor-control-plane](https://github.com/canonical/mayastor-control-plane) | Control plane for OpenEBS Mayastor | Rust | 0 | Apache License 2.0 | 2022-03-14 | 2026-04-09 | 2026-04-09 |
@@ -711,7 +711,7 @@
 | [indico-operator](https://github.com/canonical/indico-operator) | indico-operator - charm repository. | Python | 11 | Apache License 2.0 | 2022-05-13 | 2026-07-20 | 2026-08-07 |
 | [Ubuntu-Sans-fonts](https://github.com/canonical/Ubuntu-Sans-fonts) | None | Python | 97 | Other | 2022-05-15 | 2026-08-03 | 2024-04-18 |
 | [observability](https://github.com/canonical/observability) | Umbrella repository for the observability initiatives at Canonical. | Just | 8 | Apache License 2.0 | 2022-05-17 | 2026-08-06 | 2026-08-06 |
-| [gadgets](https://github.com/canonical/gadgets) | A Flutter app for reporting device metadata for Checkbox test purposes | HTML | 4 | GNU General Public License v3.0 | 2022-05-20 | 2024-12-15 | 2026-07-26 |
+| [gadgets](https://github.com/canonical/gadgets) | A Flutter app for reporting device metadata for Checkbox test purposes | HTML | 4 | GNU General Public License v3.0 | 2022-05-20 | 2024-12-15 | 2026-08-08 |
 | [microk8s-benchmarks](https://github.com/canonical/microk8s-benchmarks) | Data and tooling around microk8s benchmarks | Python | 1 | Apache License 2.0 | 2022-05-23 | 2026-04-09 | 2026-04-09 |
 | [chisel](https://github.com/canonical/chisel) | None | Go | 414 | GNU Affero General Public License v3.0 | 2022-05-23 | 2026-08-07 | 2026-08-07 |
 | [sync-issues-github-jira](https://github.com/canonical/sync-issues-github-jira) | Automation to sync issues from Github (using Github actions) to Jira (via Jira webhooks) | None | 31 | GNU General Public License v3.0 | 2022-05-25 | 2025-09-11 | 2025-02-14 |
@@ -786,7 +786,7 @@
 | [nginx-ingress-integrator-operator](https://github.com/canonical/nginx-ingress-integrator-operator) | nginx-ingress-integrator-operator - charm repository. | Python | 1 | Apache License 2.0 | 2022-08-30 | 2026-08-08 | 2026-08-08 |
 | [django-rest-generator](https://github.com/canonical/django-rest-generator) | None | Python | 5 | GNU General Public License v3.0 | 2022-08-30 | 2026-05-22 | 2026-07-19 |
 | [libopencm3](https://github.com/canonical/libopencm3) | Open source ARM Cortex-M microcontroller library | None | 0 | GNU General Public License v3.0 | 2022-08-30 | 2022-08-29 | 2024-04-29 |
-| [wordpress-k8s-operator](https://github.com/canonical/wordpress-k8s-operator) | wordpress-k8s-operator - charm repository. | Python | 15 | Apache License 2.0 | 2022-08-31 | 2026-07-21 | 2026-08-08 |
+| [wordpress-k8s-operator](https://github.com/canonical/wordpress-k8s-operator) | wordpress-k8s-operator - charm repository. | Python | 15 | Apache License 2.0 | 2022-08-31 | 2026-07-21 | 2026-08-09 |
 | [kafka-bundle](https://github.com/canonical/kafka-bundle) | Charmed Apache Kafka Bundle | Python | 2 | - | 2022-08-31 | 2026-07-13 | 2026-07-13 |
 | [tinyusb](https://github.com/canonical/tinyusb) | An open source  cross-platform USB stack for embedded system | None | 1 | MIT License | 2022-08-31 | 2024-05-16 | 2025-02-12 |
 | [magma-access-gateway-operator](https://github.com/canonical/magma-access-gateway-operator) | Magma's 4G and 5G core, charmed! | Python | 3 | Apache License 2.0 | 2022-08-31 | 2024-11-15 | 2023-05-02 |
@@ -813,12 +813,12 @@
 | [sysprober](https://github.com/canonical/sysprober) | Probe your Linux host for information about itself | Python | 0 | Apache License 2.0 | 2022-09-19 | 2026-07-21 | 2026-07-21 |
 | [temporal-lib-py](https://github.com/canonical/temporal-lib-py) | A wrapper library of temporalio/sdk-python which adds candid-based authentication and encryption. | Python | 7 | GNU Lesser General Public License v3.0 | 2022-09-20 | 2026-07-08 | 2026-06-09 |
 | [microk8s-content-demo-snap](https://github.com/canonical/microk8s-content-demo-snap) | Snap showing how to use the configuration launcher in MicroK8s | None | 1 | Apache License 2.0 | 2022-09-20 | 2023-08-15 | 2023-03-30 |
-| [discourse-k8s-operator](https://github.com/canonical/discourse-k8s-operator) | discourse-k8s-operator - charm repository. | Python | 9 | Apache License 2.0 | 2022-09-21 | 2026-07-20 | 2026-08-08 |
+| [discourse-k8s-operator](https://github.com/canonical/discourse-k8s-operator) | discourse-k8s-operator - charm repository. | Python | 9 | Apache License 2.0 | 2022-09-21 | 2026-07-20 | 2026-08-09 |
 | [postgresql-k8s-bundle](https://github.com/canonical/postgresql-k8s-bundle) | Canonical bundle of PostgreSQL + PgBouncer for K8s | HCL | 5 | Apache License 2.0 | 2022-09-22 | 2026-07-24 | 2026-08-04 |
 | [api_demo_server](https://github.com/canonical/api_demo_server) | A demo server for use in the Ops Kubernetes charm tutorial. | Python | 3 | Apache License 2.0 | 2022-09-23 | 2026-07-16 | 2026-08-01 |
 | [ubuntu_session.dart](https://github.com/canonical/ubuntu_session.dart) | The simplified API provides a small set of methods common among different Ubuntu desktop managers. It will try to detect the current desktop environment and invoke the methods provided by the respective session manager. | Dart | 9 | Mozilla Public License 2.0 | 2022-09-26 | 2025-07-11 | 2024-08-02 |
 | [setup-devstack-swift](https://github.com/canonical/setup-devstack-swift) | None | None | 1 | - | 2022-09-26 | 2026-01-27 | 2026-02-10 |
-| [kratos-operator](https://github.com/canonical/kratos-operator) | A Charmed Operator for running Ory Kratos on Kubernetes | Python | 13 | Apache License 2.0 | 2022-09-26 | 2026-08-07 | 2026-08-07 |
+| [kratos-operator](https://github.com/canonical/kratos-operator) | A Charmed Operator for running Ory Kratos on Kubernetes | Python | 13 | Apache License 2.0 | 2022-09-26 | 2026-08-07 | 2026-08-08 |
 | [snap-ovn-chassis](https://github.com/canonical/snap-ovn-chassis) | Open vSwitch and Open Virtual Network chassis components | Shell | 0 | - | 2022-09-27 | 2022-09-27 | 2023-12-15 |
 | [kubeflow-sandbox](https://github.com/canonical/kubeflow-sandbox) | A junk repo used for testing things that much happen in Github (CI, jira integration, etc) | None | 0 | - | 2022-09-28 | 2022-09-28 | 2024-02-02 |
 | [TWKubeSummit2022](https://github.com/canonical/TWKubeSummit2022) | Tutorial: deploy kubeflow on microk8s on local | None | 9 | - | 2022-09-29 | 2024-12-26 | 2022-10-20 |
@@ -828,7 +828,7 @@
 | [discourse-gatekeeper](https://github.com/canonical/discourse-gatekeeper) | Experimental GitHub Action to upload charm documentation to charmhub | Python | 7 | Apache License 2.0 | 2022-10-04 | 2026-04-01 | 2026-04-01 |
 | [magma-federation-gateway](https://github.com/canonical/magma-federation-gateway) | None | None | 1 | Apache License 2.0 | 2022-10-04 | 2023-11-03 | 2022-11-20 |
 | [mysql-k8s-bundle](https://github.com/canonical/mysql-k8s-bundle) | A bundle for mysql and mysql-router k8s charms | Python | 2 | - | 2022-10-04 | 2026-05-25 | 2026-05-25 |
-| [hydra-operator](https://github.com/canonical/hydra-operator) | A Charmed Operator for running Ory Hydra on Kubernetes | Python | 8 | Apache License 2.0 | 2022-10-05 | 2026-08-07 | 2026-08-07 |
+| [hydra-operator](https://github.com/canonical/hydra-operator) | A Charmed Operator for running Ory Hydra on Kubernetes | Python | 8 | Apache License 2.0 | 2022-10-05 | 2026-08-08 | 2026-08-08 |
 | [dqlite-docs](https://github.com/canonical/dqlite-docs) | Documentation for dqlite (published through Discourse) | Python | 3 | - | 2022-10-05 | 2024-08-02 | 2024-08-02 |
 | [maas-terraform-e2e-tests](https://github.com/canonical/maas-terraform-e2e-tests) | End to end tests for MAAS' Terraform provider | Python | 1 | Apache License 2.0 | 2022-10-05 | 2026-01-21 | 2026-01-21 |
 | [gaming-graphics](https://github.com/canonical/gaming-graphics) | Graphics stack useful as a content snap for gaming snaps | None | 8 | GNU General Public License v3.0 | 2022-10-05 | 2026-01-26 | 2026-07-14 |
@@ -838,7 +838,7 @@
 | [graphics-test-tools](https://github.com/canonical/graphics-test-tools) | Tools helpful in debugging graphics stacks | Shell | 2 | - | 2022-10-10 | 2026-06-24 | 2026-07-06 |
 | [observability-libs-1](https://github.com/canonical/observability-libs-1) | A collection of charm libraries curated by the Observability Team | None | 0 | Apache License 2.0 | 2022-10-10 | 2023-01-27 | 2022-10-04 |
 | [lxd-ui](https://github.com/canonical/lxd-ui) | Easy and accessible container and virtual machine management. A browser interface for LXD | TypeScript | 487 | GNU General Public License v3.0 | 2022-10-11 | 2026-08-07 | 2026-08-07 |
-| [microcloud](https://github.com/canonical/microcloud) | Automated private cloud based on LXD, Ceph and OVN | Go | 519 | GNU Affero General Public License v3.0 | 2022-10-11 | 2026-08-07 | 2026-08-06 |
+| [microcloud](https://github.com/canonical/microcloud) | Automated private cloud based on LXD, Ceph and OVN | Go | 520 | GNU Affero General Public License v3.0 | 2022-10-11 | 2026-08-09 | 2026-08-06 |
 | [temporal-admin-k8s-operator](https://github.com/canonical/temporal-admin-k8s-operator) | A charmed operator for running Temporal admin tools on Kubernetes.  | Python | 1 | Apache License 2.0 | 2022-10-12 | 2026-07-17 | 2026-07-21 |
 | [operator-workflows](https://github.com/canonical/operator-workflows) | None | Python | 11 | Apache License 2.0 | 2022-10-13 | 2026-07-16 | 2026-08-07 |
 | [comsys-build-tools](https://github.com/canonical/comsys-build-tools) | None | None | 0 | - | 2022-10-17 | 2026-03-23 | 2026-03-23 |
@@ -929,7 +929,7 @@
 | [gtk.dart](https://github.com/canonical/gtk.dart) | to share global settings between applications on Linux. | Dart | 39 | Mozilla Public License 2.0 | 2023-01-17 | 2026-05-12 | 2026-07-27 |
 | [mini-iso-tools](https://github.com/canonical/mini-iso-tools) | A special package that, when included in a livecd-rootfs build similar to how casper is included, adds a menu system presenting a list of potential other installation ISOs that can be chain-booted to. | C | 13 | GNU General Public License v3.0 | 2023-01-18 | 2026-07-09 | 2026-06-18 |
 | [identity-platform-login-ui](https://github.com/canonical/identity-platform-login-ui) | Login UI for the Canonical identity broker and identity provider solution | Go | 22 | Other | 2023-01-18 | 2026-07-25 | 2026-07-25 |
-| [identity-platform-login-ui-operator](https://github.com/canonical/identity-platform-login-ui-operator) | A Charmed Operator for running Canonical IAM Login UI on Kubernetes | Python | 1 | Apache License 2.0 | 2023-01-18 | 2026-07-31 | 2026-08-07 |
+| [identity-platform-login-ui-operator](https://github.com/canonical/identity-platform-login-ui-operator) | A Charmed Operator for running Canonical IAM Login UI on Kubernetes | Python | 1 | Apache License 2.0 | 2023-01-18 | 2026-07-31 | 2026-08-08 |
 | [ubuntu-core-desktop-snapd-1](https://github.com/canonical/ubuntu-core-desktop-snapd-1) | A branch of snapd containing experimental Core Desktop changes that have not yet been merged to snapd master | None | 0 | GNU General Public License v3.0 | 2023-01-19 | 2024-07-29 | 2023-04-04 |
 | [store-components](https://github.com/canonical/store-components) | None | MDX | 3 | - | 2023-01-19 | 2026-06-18 | 2026-08-05 |
 | [magma-orc8r-controller-rock](https://github.com/canonical/magma-orc8r-controller-rock) | Rock for Magma's orchestrator controller service built using rockcraft. | Python | 1 | Apache License 2.0 | 2023-01-19 | 2023-11-03 | 2023-04-05 |
@@ -987,7 +987,7 @@
 | [ubuntu-autoinstall-ipxe](https://github.com/canonical/ubuntu-autoinstall-ipxe) | None | Shell | 6 | - | 2023-02-21 | 2025-09-28 | 2024-06-03 |
 | [opensearch-rock](https://github.com/canonical/opensearch-rock) | None | Shell | 1 | - | 2023-02-22 | 2026-06-26 | 2026-06-26 |
 | [timescaledb-charm](https://github.com/canonical/timescaledb-charm) | TimescaleDB Juju charm | Python | 0 | Apache License 2.0 | 2023-02-23 | 2025-06-30 | 2024-08-08 |
-| [mattermost-k8s-operator](https://github.com/canonical/mattermost-k8s-operator) | mattermost-k8s-operator - charm repository. | Python | 2 | Apache License 2.0 | 2023-02-23 | 2026-08-01 | 2026-08-08 |
+| [mattermost-k8s-operator](https://github.com/canonical/mattermost-k8s-operator) | mattermost-k8s-operator - charm repository. | Python | 2 | Apache License 2.0 | 2023-02-23 | 2026-08-01 | 2026-08-09 |
 | [kubeflow-multi-node-dgx](https://github.com/canonical/kubeflow-multi-node-dgx) | Kubeflow deployment on Nvidia DGX enabled hardware with examples | Jupyter Notebook | 0 | - | 2023-02-23 | 2023-03-14 | 2024-05-04 |
 | [iotdevice-device-controller](https://github.com/canonical/iotdevice-device-controller) | Device Controller REST API for Demo Purposes | Python | 1 | - | 2023-02-24 | 2024-11-17 | 2023-11-14 |
 | [iotdevice-device-ui](https://github.com/canonical/iotdevice-device-ui) | Device UI for Demo Purposes | None | 0 | - | 2023-02-24 | 2023-02-24 | 2023-04-04 |
@@ -1004,7 +1004,7 @@
 | [magma-lte-controller-rock](https://github.com/canonical/magma-lte-controller-rock) | Rock for Magma's LTE controller service built using rockcraft. | Python | 1 | Apache License 2.0 | 2023-03-02 | 2023-11-03 | 2023-04-10 |
 | [buildkit](https://github.com/canonical/buildkit) | concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit | Go | 1 | Apache License 2.0 | 2023-03-03 | 2023-08-29 | 2024-05-04 |
 | [mesa-core22](https://github.com/canonical/mesa-core22) | Mesa 3D Graphics Library for `base: core22` Snaps | Shell | 1 | - | 2023-03-03 | 2026-08-04 | 2026-08-05 |
-| [jenkins-k8s-operator](https://github.com/canonical/jenkins-k8s-operator) | jenkins-k8s-operator - charm repository. | Python | 1 | Apache License 2.0 | 2023-03-08 | 2026-07-23 | 2026-08-01 |
+| [jenkins-k8s-operator](https://github.com/canonical/jenkins-k8s-operator) | jenkins-k8s-operator - charm repository. | Python | 1 | Apache License 2.0 | 2023-03-08 | 2026-07-23 | 2026-08-08 |
 | [udisks2-snap](https://github.com/canonical/udisks2-snap) |  Recipe to build udisks2 snap | None | 0 | - | 2023-03-09 | 2025-09-10 | 2026-05-27 |
 | [mayastor-extensions](https://github.com/canonical/mayastor-extensions) | Components and utilities which extend the Mayastor core control & data plane functionality | None | 0 | Apache License 2.0 | 2023-03-09 | 2023-02-27 | 2023-08-24 |
 | [kafka-test-app](https://github.com/canonical/kafka-test-app) | This is a Kafka Test app charm to be used to tests and load a Charmed Kafka Cluster  | Python | 0 | Apache License 2.0 | 2023-03-10 | 2026-04-28 | 2026-04-28 |
@@ -1018,7 +1018,7 @@
 | [resource-dispatcher](https://github.com/canonical/resource-dispatcher) | Kubernetes resource dispatcher is responsible for populating namespaces with desired default resources | Python | 4 | Apache License 2.0 | 2023-03-16 | 2026-07-13 | 2026-07-13 |
 | [iot-field-gadget-snap](https://github.com/canonical/iot-field-gadget-snap) | This repository is for use by the IoT Field team to hold gadget snaps. | Shell | 11 | Creative Commons Attribution Share Alike 4.0 International | 2023-03-16 | 2026-06-13 | 2025-12-03 |
 | [iot-field-kernel-snap](https://github.com/canonical/iot-field-kernel-snap) | This repository is for use by the IoT Field team to hold kernel snaps. | None | 5 | Creative Commons Attribution Share Alike 4.0 International | 2023-03-16 | 2026-06-19 | 2026-06-19 |
-| [oci-factory](https://github.com/canonical/oci-factory) | The CI/CD for shared container registry namespaces | Python | 14 | - | 2023-03-16 | 2026-07-31 | 2026-08-07 |
+| [oci-factory](https://github.com/canonical/oci-factory) | The CI/CD for shared container registry namespaces | Python | 14 | - | 2023-03-16 | 2026-07-31 | 2026-08-09 |
 | [landscape-client-charm](https://github.com/canonical/landscape-client-charm) | None | Python | 2 | Apache License 2.0 | 2023-03-18 | 2025-08-29 | 2025-08-29 |
 | [temporal-ui-k8s-operator](https://github.com/canonical/temporal-ui-k8s-operator) | A charmed operator for running Temporal web UI on Kubernetes.  | Python | 4 | Apache License 2.0 | 2023-03-20 | 2026-04-30 | 2026-07-20 |
 | [vanilla-web-components](https://github.com/canonical/vanilla-web-components) | Vanilla framework but make it web components | TypeScript | 2 | MIT License | 2023-03-21 | 2024-08-05 | 2024-01-30 |
@@ -1040,7 +1040,7 @@
 | [flask-k8s-operator](https://github.com/canonical/flask-k8s-operator) | flask-k8s-operator - charm repository. | Python | 0 | Apache License 2.0 | 2023-04-03 | 2026-03-12 | 2024-05-03 |
 | [storage-libs](https://github.com/canonical/storage-libs) | [deprecated]: Storage libraries for integrating with charmed filesystems and storage devices. | Python | 0 | Apache License 2.0 | 2023-04-03 | 2025-01-30 | 2025-01-30 |
 | [ubuntu-desktop-provision-screenshots](https://github.com/canonical/ubuntu-desktop-provision-screenshots) | Ubuntu Desktop Provision screenshots | None | 3 | - | 2023-04-04 | 2026-04-13 | 2026-06-18 |
-| [synapse-operator](https://github.com/canonical/synapse-operator) | synapse-operator - charm repository. | Python | 8 | Apache License 2.0 | 2023-04-04 | 2026-07-21 | 2026-08-08 |
+| [synapse-operator](https://github.com/canonical/synapse-operator) | synapse-operator - charm repository. | Python | 8 | Apache License 2.0 | 2023-04-04 | 2026-07-21 | 2026-08-09 |
 | [craft-application](https://github.com/canonical/craft-application) | It's the perfect foundation for your crafting situation with minimal frustration. | Python | 13 | GNU Lesser General Public License v3.0 | 2023-04-04 | 2026-08-03 | 2026-08-08 |
 | [glauth-snap](https://github.com/canonical/glauth-snap) | Snap of GLAuth | Python | 0 | Apache License 2.0 | 2023-04-05 | 2023-09-27 | 2023-12-15 |
 | [nfs-client-operator](https://github.com/canonical/nfs-client-operator) | [deprecated]: A subordinate Juju operator for requesting and mounting exported NFS shares on virtual machines. | Python | 0 | Apache License 2.0 | 2023-04-07 | 2025-01-30 | 2025-01-30 |
@@ -1089,7 +1089,7 @@
 | [self-signed-certificates-operator](https://github.com/canonical/self-signed-certificates-operator) | A charm to provide self-signed X.509 certificates in the Juju ecosystem. | Python | 1 | Apache License 2.0 | 2023-05-13 | 2026-07-22 | 2026-08-07 |
 | [tls-certificates-requirer-operator](https://github.com/canonical/tls-certificates-requirer-operator) | A charm that requests X.509 certificates using the tls-certificates interface. | Python | 0 | - | 2023-05-13 | 2026-07-10 | 2026-07-30 |
 | [public-cloud-docs-1](https://github.com/canonical/public-cloud-docs-1) | Public Docs for Ubuntu in the Clouds | None | 0 | - | 2023-05-16 | 2023-05-16 | 2023-05-10 |
-| [trino-k8s-operator](https://github.com/canonical/trino-k8s-operator) | None | Python | 4 | Apache License 2.0 | 2023-05-17 | 2026-07-20 | 2026-08-07 |
+| [trino-k8s-operator](https://github.com/canonical/trino-k8s-operator) | None | Python | 4 | Apache License 2.0 | 2023-05-17 | 2026-07-20 | 2026-08-08 |
 | [sdcore-nssf-k8s-operator](https://github.com/canonical/sdcore-nssf-k8s-operator) | Charmed Operator for the Aether SD-Core Network Slice Selection Function (NSSF) for K8s. | Python | 0 | Apache License 2.0 | 2023-05-17 | 2026-01-13 | 2025-08-11 |
 | [ofga](https://github.com/canonical/ofga) | A wrapper library over the default OpenFGA client, packed with convenience methods for interacting with OpenFGA instances. | Go | 10 | GNU Lesser General Public License v3.0 | 2023-05-18 | 2026-07-23 | 2026-07-30 |
 | [checkbox-mir](https://github.com/canonical/checkbox-mir) | None | Python | 1 | - | 2023-05-18 | 2026-07-10 | 2026-07-10 |
@@ -1159,7 +1159,7 @@
 | [optee-uc-fde](https://github.com/canonical/optee-uc-fde) | OPTEE TA and REE application to support fde on Ubuntu Core | C | 4 | - | 2023-06-29 | 2026-07-16 | 2026-04-16 |
 | [identity-platform-admin-ui](https://github.com/canonical/identity-platform-admin-ui) | Admin UI for the Canonical identity broker and identity provider solution | Go | 19 | Other | 2023-07-04 | 2026-07-01 | 2026-08-07 |
 | [oval-xml-feed-merge](https://github.com/canonical/oval-xml-feed-merge) | Tool to merge OVAL XML feeds  | Python | 1 | GNU General Public License v3.0 | 2023-07-04 | 2025-03-25 | 2025-03-25 |
-| [masterclasses.canonical.com](https://github.com/canonical/masterclasses.canonical.com) | Masterclasses is a platform for Canonicalers to present on a topic! | Python | 4 | - | 2023-07-04 | 2026-07-14 | 2026-08-07 |
+| [masterclasses.canonical.com](https://github.com/canonical/masterclasses.canonical.com) | Masterclasses is a platform for Canonicalers to present on a topic! | Python | 4 | - | 2023-07-04 | 2026-07-14 | 2026-08-08 |
 | [iam-bundle-integration](https://github.com/canonical/iam-bundle-integration) | A Terraform Module for the Canonical Identity Platform Juju Bundle | HCL | 3 | Apache License 2.0 | 2023-07-05 | 2026-07-13 | 2026-08-08 |
 | [lxd-ci](https://github.com/canonical/lxd-ci) | LXD continuous integration tooling | Shell | 8 | Apache License 2.0 | 2023-07-06 | 2026-07-31 | 2026-07-31 |
 | [charmed-gh-jira-sync-bot](https://github.com/canonical/charmed-gh-jira-sync-bot) | None | Python | 0 | Apache License 2.0 | 2023-07-10 | 2026-06-23 | 2026-06-23 |
@@ -1236,13 +1236,13 @@
 | [vault-operator](https://github.com/canonical/vault-operator) | A machine charm for Vault | Python | 0 | Apache License 2.0 | 2023-10-03 | 2025-04-16 | 2025-04-16 |
 | [element-web-operator](https://github.com/canonical/element-web-operator) | element-web-operator - charm repository. | Python | 0 | Apache License 2.0 | 2023-10-04 | 2025-06-13 | 2024-02-22 |
 | [ros2bag-fileserver-k8s-operator](https://github.com/canonical/ros2bag-fileserver-k8s-operator) | None | Python | 0 | Apache License 2.0 | 2023-10-06 | 2026-07-21 | 2026-07-27 |
-| [rebac-admin](https://github.com/canonical/rebac-admin) | A shared UI for managing ReBAC/OpenFGA permissions | TypeScript | 20 | GNU Affero General Public License v3.0 | 2023-10-11 | 2026-02-04 | 2026-08-07 |
+| [rebac-admin](https://github.com/canonical/rebac-admin) | A shared UI for managing ReBAC/OpenFGA permissions | TypeScript | 20 | GNU Affero General Public License v3.0 | 2023-10-11 | 2026-02-04 | 2026-08-08 |
 | [temporal-lib-go](https://github.com/canonical/temporal-lib-go) | A wrapper library of temporalio/sdk-go which adds candid-based authentication and encryption. | Go | 1 | GNU Lesser General Public License v3.0 | 2023-10-12 | 2025-10-22 | 2026-02-04 |
 | [container-runner-operator](https://github.com/canonical/container-runner-operator) | Charm repository for the container-runner-operator | Python | 0 | Apache License 2.0 | 2023-10-12 | 2025-12-18 | 2026-08-04 |
 | [renovate-apps](https://github.com/canonical/renovate-apps) | Base renovate configuration for our web apps | None | 0 | - | 2023-10-13 | 2023-10-13 | 2023-12-15 |
 | [aproxy](https://github.com/canonical/aproxy) | transparent proxy for HTTP and HTTPS/TLS connections | Go | 11 | Apache License 2.0 | 2023-10-15 | 2026-06-24 | 2026-06-24 |
 | [openfga-rock](https://github.com/canonical/openfga-rock) | OCI image for Openfga based on Ubuntu built using rockcraft. | None | 1 | Apache License 2.0 | 2023-10-17 | 2026-07-31 | 2026-07-31 |
-| [open-documentation-academy](https://github.com/canonical/open-documentation-academy) | Learn open-source software documentation skills with Canonical | Python | 120 | Apache License 2.0 | 2023-10-19 | 2026-08-06 | 2026-07-29 |
+| [open-documentation-academy](https://github.com/canonical/open-documentation-academy) | Learn open-source software documentation skills with Canonical | Python | 119 | Apache License 2.0 | 2023-10-19 | 2026-08-08 | 2026-07-29 |
 | [tdx](https://github.com/canonical/tdx) | Intel confidential computing - TDX | Python | 271 | GNU General Public License v3.0 | 2023-10-19 | 2026-07-28 | 2026-07-09 |
 | [app-center-ratings-k8s-operator](https://github.com/canonical/app-center-ratings-k8s-operator) | None | Python | 0 | Apache License 2.0 | 2023-10-23 | 2025-04-04 | 2025-04-04 |
 | [script-exporter-snap](https://github.com/canonical/script-exporter-snap) | This is the snap for Script Exporter, a Prometheus exporter to execute scripts and collect metrics from the output or the exit status. | Shell | 0 | Apache License 2.0 | 2023-10-24 | 2026-07-01 | 2025-04-17 |
@@ -1255,7 +1255,7 @@
 | [maas-discourse-theme](https://github.com/canonical/maas-discourse-theme) | MAAS Discourse Theme | SCSS | 0 | GNU Affero General Public License v3.0 | 2023-10-31 | 2026-01-09 | 2026-01-09 |
 | [ros-content-sharing-snaps](https://github.com/canonical/ros-content-sharing-snaps) | ROS content sharing snaps generator | Python | 0 | GNU General Public License v3.0 | 2023-10-31 | 2026-07-21 | 2026-07-21 |
 | [identity-platform-admin-ui-operator](https://github.com/canonical/identity-platform-admin-ui-operator) | A Charmed Operator for running Canonical IAM Admin UI on Kubernetes | Python | 1 | Apache License 2.0 | 2023-11-02 | 2026-02-16 | 2026-08-07 |
-| [charmcraftcache-hub](https://github.com/canonical/charmcraftcache-hub) | None | Python | 0 | Apache License 2.0 | 2023-11-03 | 2026-07-28 | 2026-08-08 |
+| [charmcraftcache-hub](https://github.com/canonical/charmcraftcache-hub) | None | Python | 0 | Apache License 2.0 | 2023-11-03 | 2026-07-28 | 2026-08-09 |
 | [pi-desktop](https://github.com/canonical/pi-desktop) | Ubuntu Core gadget snap for booting Raspberry Pi | Makefile | 2 | - | 2023-11-04 | 2024-03-17 | 2023-12-15 |
 | [awspub](https://github.com/canonical/awspub) | AWS EC2 image publication tool | Python | 1 | GNU General Public License v3.0 | 2023-11-05 | 2026-07-31 | 2026-08-07 |
 | [sunbeam-charms](https://github.com/canonical/sunbeam-charms) | None | Python | 0 | - | 2023-11-06 | 2024-02-13 | 2024-02-13 |
@@ -1267,7 +1267,7 @@
 | [ueransim-gnb-operator](https://github.com/canonical/ueransim-gnb-operator) | Operator charm for running a simulated gNB using UERANSIM  | Python | 1 | Apache License 2.0 | 2023-11-14 | 2025-06-08 | 2023-11-14 |
 | [charmed-superset-rock](https://github.com/canonical/charmed-superset-rock) | None | Shell | 1 | - | 2023-11-14 | 2025-06-12 | 2025-06-12 |
 | [delete-public-repo](https://github.com/canonical/delete-public-repo) | None | None | 0 | - | 2023-11-15 | 2025-10-13 | 2025-10-22 |
-| [k8s-snap](https://github.com/canonical/k8s-snap) | Canonical Kubernetes is an opinionated and CNCF conformant Kubernetes operated by Snaps and Charms, which come together to bring simplified operations and an enhanced security posture on any infrastructure. | Python | 106 | GNU General Public License v3.0 | 2023-11-16 | 2026-08-07 | 2026-08-08 |
+| [k8s-snap](https://github.com/canonical/k8s-snap) | Canonical Kubernetes is an opinionated and CNCF conformant Kubernetes operated by Snaps and Charms, which come together to bring simplified operations and an enhanced security posture on any infrastructure. | Python | 106 | GNU General Public License v3.0 | 2023-11-16 | 2026-08-07 | 2026-08-09 |
 | [livepatch-machine-charm](https://github.com/canonical/livepatch-machine-charm) | Machine charm for deploying the Livepatch server | Python | 5 | Apache License 2.0 | 2023-11-20 | 2026-07-21 | 2026-08-03 |
 | [mongos-operator](https://github.com/canonical/mongos-operator) | Operator charm for Mongos on VM | Python | 3 | Apache License 2.0 | 2023-11-20 | 2026-07-24 | 2026-08-04 |
 | [ceph-bench](https://github.com/canonical/ceph-bench) | Python utility to deploy and benchmark a Ceph cluster | Python | 0 | Apache License 2.0 | 2023-11-23 | 2024-01-12 | 2023-11-29 |
@@ -1275,7 +1275,7 @@
 | [jenkins-agent-operator](https://github.com/canonical/jenkins-agent-operator) | jenkins-agent-operator - charm repository. | Python | 1 | Apache License 2.0 | 2023-11-28 | 2026-07-15 | 2026-08-01 |
 | [cc-builder](https://github.com/canonical/cc-builder) | An interactive CLI tool for creating a cloud-config for cloud-init based on the current machine's configuration. | Python | 11 | GNU General Public License v3.0 | 2023-11-28 | 2026-05-06 | 2024-10-09 |
 | [data-platform-benchmark-env](https://github.com/canonical/data-platform-benchmark-env) | This repository contains the terraform scripts used for spec DA066 | HCL | 1 | - | 2023-11-29 | 2025-01-10 | 2025-01-13 |
-| [ubuntu-security-notices](https://github.com/canonical/ubuntu-security-notices) | None | None | 31 | Creative Commons Attribution Share Alike 4.0 International | 2023-11-29 | 2026-08-08 | 2026-08-08 |
+| [ubuntu-security-notices](https://github.com/canonical/ubuntu-security-notices) | None | None | 31 | Creative Commons Attribution Share Alike 4.0 International | 2023-11-29 | 2026-08-09 | 2026-08-09 |
 | [real-time-ubuntu-docs](https://github.com/canonical/real-time-ubuntu-docs) | Real-time Ubuntu documentation | None | 7 | - | 2023-11-30 | 2026-07-21 | 2026-07-22 |
 | [matter-docs](https://github.com/canonical/matter-docs) | Docs have moved to https://github.com/canonical/industrial-documentation | CSS | 0 | - | 2023-11-30 | 2026-02-13 | 2024-08-26 |
 | [rustup-snap](https://github.com/canonical/rustup-snap) | This repository contains the Snap manifest of the rustup tool. | None | 5 | Apache License 2.0 | 2023-11-30 | 2026-06-17 | 2026-07-10 |
@@ -1293,7 +1293,7 @@
 | [anbox-cloud-docs](https://github.com/canonical/anbox-cloud-docs) | Documentation for Anbox Cloud | Python | 7 | - | 2023-12-08 | 2026-07-24 | 2026-08-07 |
 | [ondemand-snap](https://github.com/canonical/ondemand-snap) | Snap package for Open OnDemand. Interact with your supercomputing resources seamlessly over the web :globe_with_meridians: | Lua | 3 | Apache License 2.0 | 2023-12-08 | 2026-06-25 | 2026-06-25 |
 | [certification-github-workflows](https://github.com/canonical/certification-github-workflows) | Reusable CI workflows and composite actions for hardware certification related projects | None | 0 | - | 2023-12-09 | 2023-12-09 | 2026-03-08 |
-| [tmate-ssh-server-operator](https://github.com/canonical/tmate-ssh-server-operator) | tmate-ssh-server-operator - charm repository. | Python | 0 | Apache License 2.0 | 2023-12-12 | 2026-06-24 | 2026-08-08 |
+| [tmate-ssh-server-operator](https://github.com/canonical/tmate-ssh-server-operator) | tmate-ssh-server-operator - charm repository. | Python | 0 | Apache License 2.0 | 2023-12-12 | 2026-06-24 | 2026-08-09 |
 | [snapcraft-rocks](https://github.com/canonical/snapcraft-rocks) | Sources for Snapcraft as OCI images, maintained by the Starcraft team. | None | 12 | GNU General Public License v3.0 | 2023-12-12 | 2026-07-22 | 2026-07-24 |
 | [matter-snap-testing](https://github.com/canonical/matter-snap-testing) | None | Go | 1 | Apache License 2.0 | 2023-12-13 | 2025-08-27 | 2026-07-16 |
 | [runc-app](https://github.com/canonical/runc-app) | Debian package of the runc application  | Go | 1 | Apache License 2.0 | 2023-12-13 | 2026-01-13 | 2026-02-20 |
@@ -1370,7 +1370,7 @@
 | [airbyte-k8s](https://github.com/canonical/airbyte-k8s) | The platform fundament of Airbyte powering all your ELT pipelines. Please file issues in https://github.com/airbytehq/airbyte | Java | 0 | Other | 2024-02-01 | 2024-11-22 | 2024-11-22 |
 | [sdcore-upf-operator](https://github.com/canonical/sdcore-upf-operator) | Machine Charm for the SD-Core User Plane Function (UPF). | Python | 0 | Apache License 2.0 | 2024-02-02 | 2024-12-18 | 2024-12-17 |
 | [console-conf-snap](https://github.com/canonical/console-conf-snap) | None | Shell | 1 | - | 2024-02-05 | 2026-02-25 | 2026-05-27 |
-| [opensearch-dashboards-operator](https://github.com/canonical/opensearch-dashboards-operator) | Opensearch Dashboards Juju Charm | Python | 2 | Apache License 2.0 | 2024-02-05 | 2026-07-24 | 2026-07-24 |
+| [opensearch-dashboards-operator](https://github.com/canonical/opensearch-dashboards-operator) | Opensearch Dashboards Juju Charm | Python | 2 | Apache License 2.0 | 2024-02-05 | 2026-07-24 | 2026-08-08 |
 | [filebrowser-rock](https://github.com/canonical/filebrowser-rock) | ROCK of filebrowser.org's filebrowser | Python | 0 | Apache License 2.0 | 2024-02-05 | 2025-08-29 | 2025-08-29 |
 | [digest-squid-auth-helper](https://github.com/canonical/digest-squid-auth-helper) | A Juju subordinate charm for the Squid Reverseproxy charm that enables digest or basic authentication using squid-auth-helper relation. | Python | 0 | Apache License 2.0 | 2024-02-05 | 2026-07-08 | 2026-08-01 |
 | [mlops-libs](https://github.com/canonical/mlops-libs) | None | Python | 0 | Apache License 2.0 | 2024-02-05 | 2026-01-06 | 2026-01-06 |
@@ -1429,7 +1429,7 @@
 | [jira-scripts](https://github.com/canonical/jira-scripts) | Collection of scripts to manage Jira | None | 0 | Apache License 2.0 | 2024-04-10 | 2024-04-10 | 2024-04-10 |
 | [spark-k8s-bundle](https://github.com/canonical/spark-k8s-bundle) | Charmed Spark K8s bundle, for making it seamless to operate Spark on K8s | Python | 6 | Apache License 2.0 | 2024-04-10 | 2026-07-31 | 2026-08-07 |
 | [self-hosted-runner-performance-benchmark](https://github.com/canonical/self-hosted-runner-performance-benchmark) | A repository to test the performance of self-hosted runners | None | 0 | - | 2024-04-11 | 2026-05-07 | 2026-06-20 |
-| [content-cache-operator](https://github.com/canonical/content-cache-operator) | A machine charm managing a nginx instance configured as a content cache. | Python | 0 | Apache License 2.0 | 2024-04-11 | 2026-07-21 | 2026-08-07 |
+| [content-cache-operator](https://github.com/canonical/content-cache-operator) | A machine charm managing a nginx instance configured as a content cache. | Python | 0 | Apache License 2.0 | 2024-04-11 | 2026-07-21 | 2026-08-08 |
 | [ros2-teleop-snap](https://github.com/canonical/ros2-teleop-snap) | None | Shell | 0 | GNU General Public License v3.0 | 2024-04-11 | 2026-05-27 | 2026-05-27 |
 | [ros2-nav2-snap](https://github.com/canonical/ros2-nav2-snap) | None | Shell | 0 | GNU General Public License v3.0 | 2024-04-11 | 2026-02-16 | 2026-02-16 |
 | [cephfs-server-proxy-operator](https://github.com/canonical/cephfs-server-proxy-operator) | [moved]: A Juju operator for proxying exported CephFS shares.  | Python | 0 | Apache License 2.0 | 2024-04-11 | 2025-01-30 | 2025-01-30 |
@@ -1476,7 +1476,7 @@
 | [sonic-buildimage-archive](https://github.com/canonical/sonic-buildimage-archive) | None | C | 5 | Other | 2024-05-23 | 2026-05-21 | 2026-06-03 |
 | [srsran5g-snap](https://github.com/canonical/srsran5g-snap) | Snap package for srsRAN 5G | None | 0 | GNU Affero General Public License v3.0 | 2024-05-23 | 2025-08-11 | 2025-08-06 |
 | [gateway-api-integrator-operator](https://github.com/canonical/gateway-api-integrator-operator) | gateway-api-integrator-operator - charm repository. | Python | 1 | Apache License 2.0 | 2024-05-24 | 2026-07-23 | 2026-08-08 |
-| [openssl-fips-java](https://github.com/canonical/openssl-fips-java) | A Java security provider based on FIPS-compliant openssl | Java | 6 | GNU General Public License v3.0 | 2024-05-27 | 2026-08-07 | 2026-08-07 |
+| [openssl-fips-java](https://github.com/canonical/openssl-fips-java) | A Java security provider based on FIPS-compliant openssl | Java | 6 | GNU General Public License v3.0 | 2024-05-27 | 2026-08-09 | 2026-08-07 |
 | [ubuntu-package-download](https://github.com/canonical/ubuntu-package-download) | Helpful utility to download debian packages  | Python | 3 | Other | 2024-05-27 | 2026-08-07 | 2026-08-07 |
 | [trino-group-provider-ldap-plugin](https://github.com/canonical/trino-group-provider-ldap-plugin) | Trino Group Provider LDAP is a Trino (formerly Presto SQL) plugin to map user names to groups using an LDAP server  | None | 0 | Apache License 2.0 | 2024-05-28 | 2024-05-28 | 2024-05-28 |
 | [prompting-client](https://github.com/canonical/prompting-client) | This is the code repository for **Prompting Client** | Dart | 16 | GNU General Public License v3.0 | 2024-05-29 | 2026-07-17 | 2026-08-08 |
@@ -1485,7 +1485,7 @@
 | [sonic-linux-kernel](https://github.com/canonical/sonic-linux-kernel) | None | Makefile | 0 | - | 2024-05-31 | 2024-09-25 | 2026-07-06 |
 | [checkbox-opencl-regression](https://github.com/canonical/checkbox-opencl-regression) | None | Python | 0 | - | 2024-05-31 | 2025-05-07 | 2025-05-07 |
 | [chimg](https://github.com/canonical/chimg) | A tool to modify root filesystems in chroots based on configuration | Python | 5 | GNU General Public License v3.0 | 2024-05-31 | 2026-07-30 | 2026-07-31 |
-| [cluster-api-k8s](https://github.com/canonical/cluster-api-k8s) | Cluster API provider for Canonical Kubernetes | Go | 16 | Apache License 2.0 | 2024-06-02 | 2026-07-21 | 2026-08-08 |
+| [cluster-api-k8s](https://github.com/canonical/cluster-api-k8s) | Cluster API provider for Canonical Kubernetes | Go | 16 | Apache License 2.0 | 2024-06-02 | 2026-07-21 | 2026-08-09 |
 | [tempo-coordinator-k8s-operator](https://github.com/canonical/tempo-coordinator-k8s-operator) | This charmed operator is part of automation the operational procedures of running Grafana Tempo, an open-source traces backend, in microservices mode. | Python | 0 | Apache License 2.0 | 2024-06-03 | 2026-07-01 | 2025-10-24 |
 | [tempo-worker-k8s-operator](https://github.com/canonical/tempo-worker-k8s-operator) | This charmed operator is part of automating the operational procedures of running Grafana Tempo, an open-source traces backend, in microservices mode. | Python | 0 | Apache License 2.0 | 2024-06-03 | 2026-07-01 | 2025-07-02 |
 | [repo-policy-compliance-tests](https://github.com/canonical/repo-policy-compliance-tests) | Separate test repo for running integration tests for repo policy compliance | None | 1 | Apache License 2.0 | 2024-06-03 | 2026-03-11 | 2026-03-06 |
@@ -1497,7 +1497,7 @@
 | [redis_exporter](https://github.com/canonical/redis_exporter) | None | Go | 0 | MIT License | 2024-06-05 | 2026-05-20 | 2026-07-10 |
 | [kafka-connect-operator](https://github.com/canonical/kafka-connect-operator) | Charmed Apache Kafka Connect Operator | Python | 1 | Apache License 2.0 | 2024-06-05 | 2026-07-02 | 2026-08-04 |
 | [matter-all-clusters-app-snap](https://github.com/canonical/matter-all-clusters-app-snap) | None | Go | 1 | Apache License 2.0 | 2024-06-07 | 2026-07-14 | 2026-07-18 |
-| [penpot-operator](https://github.com/canonical/penpot-operator) | penpot-operator - charm repository. | Python | 0 | Apache License 2.0 | 2024-06-07 | 2026-07-21 | 2026-08-08 |
+| [penpot-operator](https://github.com/canonical/penpot-operator) | penpot-operator - charm repository. | Python | 0 | Apache License 2.0 | 2024-06-07 | 2026-07-21 | 2026-08-09 |
 | [checkbox-dss-validation](https://github.com/canonical/checkbox-dss-validation) | None | HTML | 0 | - | 2024-06-07 | 2024-09-17 | 2024-09-17 |
 | [rt-tests-snap](https://github.com/canonical/rt-tests-snap) | Snap package of rt-tests | Shell | 1 | GNU General Public License v2.0 | 2024-06-07 | 2026-07-08 | 2026-07-08 |
 | [saibcm-modules](https://github.com/canonical/saibcm-modules) | None | None | 0 | MIT License | 2024-06-07 | 2024-06-07 | 2026-07-23 |
@@ -1534,7 +1534,7 @@
 | [ubuntu-for-developers-docs](https://github.com/canonical/ubuntu-for-developers-docs) | Documentation for developer toolchains on Ubuntu | None | 9 | Creative Commons Attribution Share Alike 4.0 International | 2024-06-25 | 2026-07-30 | 2026-07-30 |
 | [datahub-k8s-operator](https://github.com/canonical/datahub-k8s-operator) | None | Python | 0 | Apache License 2.0 | 2024-06-26 | 2026-07-10 | 2026-08-07 |
 | [data-platform-doc-tools](https://github.com/canonical/data-platform-doc-tools) | Templates and miscellaneous tooling to help with writing and maintaining docs. | Jinja | 0 | - | 2024-06-26 | 2024-12-17 | 2024-12-17 |
-| [keystone-k8s-auth-operator](https://github.com/canonical/keystone-k8s-auth-operator) | Runs the Keystone Kubernetes Authenticator in the cluster. | Python | 0 | Apache License 2.0 | 2024-06-27 | 2026-04-09 | 2026-08-01 |
+| [keystone-k8s-auth-operator](https://github.com/canonical/keystone-k8s-auth-operator) | Runs the Keystone Kubernetes Authenticator in the cluster. | Python | 0 | Apache License 2.0 | 2024-06-27 | 2026-04-09 | 2026-08-08 |
 | [notary-k8s-operator](https://github.com/canonical/notary-k8s-operator) | The Notary operator for Kubernetes automates the lifecycle operations of Notary. It is a provider of the tls-certificates integration allowing for the management of certificates in the Juju ecosystem. | Python | 1 | Apache License 2.0 | 2024-06-28 | 2026-07-15 | 2026-08-05 |
 | [object-storage-integrator](https://github.com/canonical/object-storage-integrator) | An operator charm providing an integrator for connecting to S3 or Azure or GCS provides. | Python | 1 | - | 2024-07-01 | 2026-07-29 | 2026-08-07 |
 | [mysql-rock](https://github.com/canonical/mysql-rock) | Public MySQL ROCK image | Shell | 1 | Apache License 2.0 | 2024-07-01 | 2026-07-29 | 2026-08-04 |
@@ -1569,7 +1569,7 @@
 | [envoy-rock](https://github.com/canonical/envoy-rock) | None | Python | 0 | Apache License 2.0 | 2024-07-18 | 2026-04-09 | 2026-08-06 |
 | [chrony_exporter](https://github.com/canonical/chrony_exporter) | Exporter for Chrony NTP | None | 0 | Apache License 2.0 | 2024-07-21 | 2024-07-21 | 2024-12-12 |
 | [csi-driver-nfs-rocks](https://github.com/canonical/csi-driver-nfs-rocks) | None | Python | 0 | Apache License 2.0 | 2024-07-23 | 2026-04-09 | 2026-04-13 |
-| [wazuh-server-operator](https://github.com/canonical/wazuh-server-operator) | wazuh-server-operator - charm repository. | Python | 3 | Apache License 2.0 | 2024-07-23 | 2026-08-08 | 2026-08-08 |
+| [wazuh-server-operator](https://github.com/canonical/wazuh-server-operator) | wazuh-server-operator - charm repository. | Python | 3 | Apache License 2.0 | 2024-07-23 | 2026-08-08 | 2026-08-09 |
 | [hpc-team](https://github.com/canonical/hpc-team) | The special repository for org-wide defaults, discussion, technical support for Charmed HPC ⚛️ | Python | 0 | Apache License 2.0 | 2024-07-23 | 2026-07-10 | 2026-07-10 |
 | [jimm-go-sdk](https://github.com/canonical/jimm-go-sdk) | Juju Intelligent Model Manager Go SDK | Go | 1 | Apache License 2.0 | 2024-07-24 | 2026-06-23 | 2026-06-23 |
 | [training-operator-rock](https://github.com/canonical/training-operator-rock) | None | Python | 0 | - | 2024-07-24 | 2026-04-08 | 2026-05-27 |
@@ -1617,7 +1617,7 @@
 | [graalvm-jdk21u](https://github.com/canonical/graalvm-jdk21u) | Downstream maintenance repository for GraalVM Community for JDK 21 | None | 0 | Other | 2024-08-14 | 2024-08-14 | 2024-09-03 |
 | [lora-basicstation-snap](https://github.com/canonical/lora-basicstation-snap) | None | Shell | 3 | - | 2024-08-14 | 2025-03-28 | 2026-06-21 |
 | [kobuk-gfx-metee](https://github.com/canonical/kobuk-gfx-metee) | None | C | 0 | Apache License 2.0 | 2024-08-14 | 2025-08-13 | 2025-02-05 |
-| [anbox-cloud-github-action](https://github.com/canonical/anbox-cloud-github-action) | Github Action to setup Anbox Cloud | None | 2 | Apache License 2.0 | 2024-08-19 | 2026-06-02 | 2026-08-08 |
+| [anbox-cloud-github-action](https://github.com/canonical/anbox-cloud-github-action) | Github Action to setup Anbox Cloud | None | 2 | Apache License 2.0 | 2024-08-19 | 2026-06-02 | 2026-08-09 |
 | [dcgm-snap](https://github.com/canonical/dcgm-snap) | Snap package for NVIDIA DCGM and DCGM exporter | Python | 0 | Apache License 2.0 | 2024-08-19 | 2026-05-29 | 2026-05-29 |
 | [oai-ran-nr-ue-rock](https://github.com/canonical/oai-ran-nr-ue-rock) | None | None | 0 | Apache License 2.0 | 2024-08-21 | 2024-11-18 | 2024-11-18 |
 | [ta-reminder-bot](https://github.com/canonical/ta-reminder-bot) | Reminders for technical authors | None | 0 | - | 2024-08-21 | 2026-07-07 | 2026-07-07 |
@@ -1632,7 +1632,7 @@
 | [kobuk-gfx-intel-onetbb](https://github.com/canonical/kobuk-gfx-intel-onetbb) | None | C++ | 0 | Apache License 2.0 | 2024-08-27 | 2025-08-13 | 2024-09-20 |
 | [kobuk-gfx-intel-level-zero-gpu-raytracing](https://github.com/canonical/kobuk-gfx-intel-level-zero-gpu-raytracing) | None | C++ | 1 | Apache License 2.0 | 2024-08-27 | 2025-08-13 | 2025-05-20 |
 | [kobuk-gfx-libva-utils](https://github.com/canonical/kobuk-gfx-libva-utils) | None | C | 1 | Other | 2024-08-27 | 2025-08-13 | 2024-09-05 |
-| [maubot-operator](https://github.com/canonical/maubot-operator) | maubot-operator - charm repository. | Python | 0 | Apache License 2.0 | 2024-08-27 | 2026-08-01 | 2026-08-08 |
+| [maubot-operator](https://github.com/canonical/maubot-operator) | maubot-operator - charm repository. | Python | 0 | Apache License 2.0 | 2024-08-27 | 2026-08-01 | 2026-08-09 |
 | [ldap-integrator](https://github.com/canonical/ldap-integrator) | A Charmed Integrator used to configure an ldap client charm to use an external ldap service. | Python | 0 | Apache License 2.0 | 2024-08-29 | 2026-08-07 | 2026-08-07 |
 | [kobuk-gfx-igsc](https://github.com/canonical/kobuk-gfx-igsc) | None | C | 0 | Apache License 2.0 | 2024-08-29 | 2025-08-13 | 2025-01-10 |
 | [intel-npu-driver-snap](https://github.com/canonical/intel-npu-driver-snap) | Snap recipe for the Intel® NPU Driver (https://github.com/intel/linux-npu-driver/) | Shell | 13 | MIT License | 2024-08-30 | 2026-08-04 | 2026-08-04 |
@@ -1714,7 +1714,7 @@
 | [data-platform-k8s-mutator](https://github.com/canonical/data-platform-k8s-mutator) | Basic k8s mutating webhook handler for terminationGracePeriodSeconds | Python | 1 | Apache License 2.0 | 2024-10-16 | 2026-03-25 | 2026-06-23 |
 | [autossh14-pelpsi](https://github.com/canonical/autossh14-pelpsi) | None | C | 0 | - | 2024-10-16 | 2024-10-16 | 2024-10-16 |
 | [snapd-rest-openapi](https://github.com/canonical/snapd-rest-openapi) | A work-in-progress reimplementation of the snapd REST API Documentation using OpenAPI  | Python | 1 | - | 2024-10-17 | 2026-02-26 | 2026-02-26 |
-| [ami-deprecation-tool](https://github.com/canonical/ami-deprecation-tool) | None | Python | 0 | - | 2024-10-18 | 2026-03-20 | 2026-08-07 |
+| [ami-deprecation-tool](https://github.com/canonical/ami-deprecation-tool) | None | Python | 0 | - | 2024-10-18 | 2026-03-20 | 2026-08-08 |
 | [mlflow-operator-KF-6468](https://github.com/canonical/mlflow-operator-KF-6468) | MLFlow Operators with serve-artifacts option enabled | None | 0 | Apache License 2.0 | 2024-10-21 | 2024-10-21 | 2024-12-23 |
 | [flutter](https://github.com/canonical/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond | Dart | 14 | BSD 3-Clause "New" or "Revised" License | 2024-10-23 | 2026-05-20 | 2026-07-24 |
 | [flutter-engine](https://github.com/canonical/flutter-engine) | The Flutter engine | C++ | 0 | BSD 3-Clause "New" or "Revised" License | 2024-10-23 | 2026-06-08 | 2025-01-06 |
@@ -1729,7 +1729,7 @@
 | [source-wand](https://github.com/canonical/source-wand) | Source Wand is a tool that helps you analyze and mirror source code. | Rust | 9 | - | 2024-11-01 | 2025-10-02 | 2025-10-06 |
 | [mysql-pitr-helper](https://github.com/canonical/mysql-pitr-helper) | Point In Time Recovery plugin | Go | 0 | Other | 2024-11-04 | 2026-03-26 | 2026-04-01 |
 | [rt-conf](https://github.com/canonical/rt-conf) | Real-time Configuration helper tool | Go | 2 | GNU General Public License v2.0 | 2024-11-04 | 2026-06-20 | 2026-06-20 |
-| [mongo-single-kernel-library](https://github.com/canonical/mongo-single-kernel-library) | Library containing shared code for MongoDB operators (mongodb, mongos, VM and k8s). | Python | 0 | Apache License 2.0 | 2024-11-05 | 2026-07-22 | 2026-08-08 |
+| [mongo-single-kernel-library](https://github.com/canonical/mongo-single-kernel-library) | Library containing shared code for MongoDB operators (mongodb, mongos, VM and k8s). | Python | 0 | Apache License 2.0 | 2024-11-05 | 2026-07-22 | 2026-08-09 |
 | [ros-foxglove-bridge-snap](https://github.com/canonical/ros-foxglove-bridge-snap) | Snap packaging for the Foxglove bridge | Shell | 0 | - | 2024-11-05 | 2026-03-19 | 2026-03-19 |
 | [error-tracker](https://github.com/canonical/error-tracker) | This repository was moved to https://github.com/ubuntu/error-tracker | Python | 0 | GNU Affero General Public License v3.0 | 2024-11-05 | 2025-08-27 | 2025-08-26 |
 | [charmed-etcd-operator](https://github.com/canonical/charmed-etcd-operator) | The Charmed etcd Operator deploys and operates the etcd software on VMs and machine clusters. This charm is a Python project that installs etcd from the etcd Snap, and provides lifecycle management and event handling. | Python | 2 | Apache License 2.0 | 2024-11-06 | 2026-07-24 | 2026-08-05 |
@@ -1780,7 +1780,7 @@
 | [chisel-docs](https://github.com/canonical/chisel-docs) | Documentation pages for Chisel. | None | 2 | - | 2025-01-09 | 2026-08-03 | 2026-08-03 |
 | [robotics_documentation](https://github.com/canonical/robotics_documentation) | None | None | 0 | Other | 2025-01-09 | 2026-07-21 | 2026-07-24 |
 | [linux-cve-analysis](https://github.com/canonical/linux-cve-analysis) | None | Shell | 0 | GNU General Public License v2.0 | 2025-01-10 | 2026-01-30 | 2026-01-30 |
-| [hockeypuck-k8s-operator](https://github.com/canonical/hockeypuck-k8s-operator) | None | Python | 0 | Apache License 2.0 | 2025-01-10 | 2026-07-20 | 2026-08-08 |
+| [hockeypuck-k8s-operator](https://github.com/canonical/hockeypuck-k8s-operator) | None | Python | 0 | Apache License 2.0 | 2025-01-10 | 2026-07-20 | 2026-08-09 |
 | [kobuk-gfx-level-zero](https://github.com/canonical/kobuk-gfx-level-zero) | None | C++ | 0 | MIT License | 2025-01-10 | 2025-08-13 | 2025-07-30 |
 | [identity-credentials-workflows](https://github.com/canonical/identity-credentials-workflows) | GitHub workflows for the Identity (Credentials) team | Just | 0 | - | 2025-01-10 | 2026-07-20 | 2026-07-20 |
 | [ulwazi](https://github.com/canonical/ulwazi) | A Sphinx theme based on sphinx-basic-ng and the Vanilla Framework. | CSS | 6 | GNU General Public License v3.0 | 2025-01-13 | 2026-07-23 | 2026-07-23 |
@@ -1856,8 +1856,8 @@
 | [poetry-remote-update](https://github.com/canonical/poetry-remote-update) | Github Action tool for managing your Python libraries across multiple repositories.  | None | 0 | - | 2025-03-17 | 2025-03-17 | 2025-03-04 |
 | [paths-filter](https://github.com/canonical/paths-filter) | Conditionally run actions based on files modified by PR, feature branch or pushed commits | TypeScript | 1 | MIT License | 2025-03-17 | 2026-06-08 | 2026-06-08 |
 | [require-semver-bump](https://github.com/canonical/require-semver-bump) | A GitHub Action that will check a PR branches version with the bases version and only pass if the PR has bumped to a valid version | None | 0 | - | 2025-03-17 | 2025-03-17 | 2026-02-22 |
-| [http-proxy-operators](https://github.com/canonical/http-proxy-operators) | None | Python | 0 | Apache License 2.0 | 2025-03-18 | 2026-07-21 | 2026-08-01 |
-| [user-verification-service-operator](https://github.com/canonical/user-verification-service-operator) | User Verification Service for the Canonical identity broker and identity provider solution | Python | 0 | Apache License 2.0 | 2025-03-18 | 2026-08-07 | 2026-08-07 |
+| [http-proxy-operators](https://github.com/canonical/http-proxy-operators) | None | Python | 0 | Apache License 2.0 | 2025-03-18 | 2026-07-21 | 2026-08-08 |
+| [user-verification-service-operator](https://github.com/canonical/user-verification-service-operator) | User Verification Service for the Canonical identity broker and identity provider solution | Python | 0 | Apache License 2.0 | 2025-03-18 | 2026-08-08 | 2026-08-08 |
 | [canonicalwebteam.form-generator](https://github.com/canonical/canonicalwebteam.form-generator) | None | Python | 1 | GNU General Public License v3.0 | 2025-03-18 | 2026-01-16 | 2026-01-16 |
 | [landscape-locust](https://github.com/canonical/landscape-locust) | None | Python | 1 | - | 2025-03-24 | 2026-02-09 | 2026-04-14 |
 | [sonic-host-services.old](https://github.com/canonical/sonic-host-services.old) | None | None | 0 | - | 2025-03-26 | 2025-03-26 | 2026-03-18 |
@@ -1922,9 +1922,9 @@
 | [opensearch-dashboards-rock](https://github.com/canonical/opensearch-dashboards-rock) | None | Shell | 0 | - | 2025-06-04 | 2026-06-29 | 2026-06-29 |
 | [language-tool-k8s-charm](https://github.com/canonical/language-tool-k8s-charm) | None | Makefile | 1 | Apache License 2.0 | 2025-06-04 | 2025-06-06 | 2025-06-05 |
 | [charmed-service-mesh-helpers](https://github.com/canonical/charmed-service-mesh-helpers) | A collection of helpers and shared code from the Service Mesh team | Python | 0 | Apache License 2.0 | 2025-06-04 | 2026-03-17 | 2026-03-24 |
-| [service-mesh](https://github.com/canonical/service-mesh) | The Canonical Service Mesh monorepo | Python | 0 | Other | 2025-06-05 | 2026-08-07 | 2026-08-08 |
+| [service-mesh](https://github.com/canonical/service-mesh) | The Canonical Service Mesh monorepo | Python | 0 | Other | 2025-06-05 | 2026-08-07 | 2026-08-09 |
 | [snapd-smoke-tests](https://github.com/canonical/snapd-smoke-tests) | Integration tests for running upcoming snapd releases across a matrix of many different operating systems against a selection of representative snaps. | Shell | 2 | Other | 2025-06-05 | 2026-07-01 | 2026-07-14 |
-| [cassandra-operator](https://github.com/canonical/cassandra-operator) | Charmed Operator for Apache Cassandra | Python | 3 | Apache License 2.0 | 2025-06-06 | 2026-07-16 | 2026-08-08 |
+| [cassandra-operator](https://github.com/canonical/cassandra-operator) | Charmed Operator for Apache Cassandra | Python | 3 | Apache License 2.0 | 2025-06-06 | 2026-07-16 | 2026-08-09 |
 | [ubuntu-manpages-operator](https://github.com/canonical/ubuntu-manpages-operator) | Charm for deploying https://manpages.ubuntu.com | Go | 14 | GNU General Public License v3.0 | 2025-06-06 | 2026-08-06 | 2026-08-06 |
 | [ingress-configurator-operator](https://github.com/canonical/ingress-configurator-operator) | ingress-configurator-operator - charm repository. | Python | 1 | Apache License 2.0 | 2025-06-06 | 2026-07-23 | 2026-08-07 |
 | [flutter-linux-rust](https://github.com/canonical/flutter-linux-rust) | A highly experimental fork of Flutter that rewrites the Linux embedder in rust | Dart | 1 | BSD 3-Clause "New" or "Revised" License | 2025-06-06 | 2026-06-20 | 2025-07-18 |
@@ -1939,7 +1939,7 @@
 | [oneapi-packaging](https://github.com/canonical/oneapi-packaging) | Package definitions for the oneAPI Base Toolkit in Ubuntu | C++ | 0 | GNU General Public License v3.0 | 2025-06-12 | 2026-04-09 | 2026-04-09 |
 | [lxd-csi-driver](https://github.com/canonical/lxd-csi-driver) | This driver allows Kubernetes to access LXD storage subsystems.  | Go | 8 | GNU Affero General Public License v3.0 | 2025-06-13 | 2026-08-04 | 2026-08-04 |
 | [hook-service](https://github.com/canonical/hook-service) | Service used by the Canonical Identity Platform to manage user groups and handle Hydra hooks | Go | 1 | Other | 2025-06-13 | 2026-08-05 | 2026-08-07 |
-| [hook-service-operator](https://github.com/canonical/hook-service-operator) | Charmed operator for the Canonical Identity Platform Hook Service | Python | 0 | Apache License 2.0 | 2025-06-16 | 2026-08-07 | 2026-08-07 |
+| [hook-service-operator](https://github.com/canonical/hook-service-operator) | Charmed operator for the Canonical Identity Platform Hook Service | Python | 0 | Apache License 2.0 | 2025-06-16 | 2026-08-08 | 2026-08-08 |
 | [oracle-doc-examples](https://github.com/canonical/oracle-doc-examples) | Collection of examples corresponding to the Ubuntu on Oracle Cloud documentation | Shell | 0 | GNU General Public License v3.0 | 2025-06-16 | 2025-07-09 | 2025-07-09 |
 | [temporal-rocks](https://github.com/canonical/temporal-rocks) | Rocks for Temporal oci-images based on Ubuntu. | Just | 0 | Apache License 2.0 | 2025-06-16 | 2026-07-16 | 2026-07-16 |
 | [go-password-validator](https://github.com/canonical/go-password-validator) | Validate the Strength of a Password in Go | Go | 0 | MIT License | 2025-06-17 | 2025-06-17 | 2025-06-17 |
@@ -1974,7 +1974,7 @@
 | [rocks-demos.go-runtime](https://github.com/canonical/rocks-demos.go-runtime) | Show how to deploy a pre-compiled Go binary on a Chiseled Ubuntu base container | Dockerfile | 0 | - | 2025-07-07 | 2025-07-09 | 2025-07-09 |
 | [ruby-rock](https://github.com/canonical/ruby-rock) | A Ruby rock, an actual gem | Shell | 0 | - | 2025-07-08 | 2026-07-03 | 2026-07-03 |
 | [hpc-specs](https://github.com/canonical/hpc-specs) | Development specifications for Charmed HPC | None | 0 | Creative Commons Attribution Share Alike 4.0 International | 2025-07-08 | 2026-07-24 | 2026-07-24 |
-| [landscape-server-operator](https://github.com/canonical/landscape-server-operator) | None | Python | 4 | GNU General Public License v2.0 | 2025-07-08 | 2026-07-24 | 2026-07-24 |
+| [landscape-server-operator](https://github.com/canonical/landscape-server-operator) | None | Python | 4 | GNU General Public License v2.0 | 2025-07-08 | 2026-07-24 | 2026-08-08 |
 | [litmuschaos-server-rock](https://github.com/canonical/litmuschaos-server-rock) | A rock for Litmus Chaos server component. | Just | 0 | Apache License 2.0 | 2025-07-09 | 2026-04-28 | 2026-06-12 |
 | [k26-default-bitstreams](https://github.com/canonical/k26-default-bitstreams) | An example of a provider snap for FPGAd using Rust to load a bitstream on startup on K*26 Kria devices | Rust | 1 | GNU General Public License v3.0 | 2025-07-09 | 2026-02-11 | 2026-03-17 |
 | [slurm-rocks](https://github.com/canonical/slurm-rocks) | Rocks for the Slurm workload manager  ⚖️🐧 | Shell | 1 | Apache License 2.0 | 2025-07-09 | 2026-06-01 | 2026-06-01 |
@@ -1995,8 +1995,8 @@
 | [charmed-kafka-ui-snap](https://github.com/canonical/charmed-kafka-ui-snap) | Charmed Kafka UI Snap for charmed operator. | Shell | 0 | - | 2025-07-21 | 2026-07-14 | 2026-07-14 |
 | [infra-backup-operator](https://github.com/canonical/infra-backup-operator) | Client charm to set backup configuration of non-workload related resources by configuring the velero-operator | Python | 0 | Apache License 2.0 | 2025-07-21 | 2026-04-09 | 2026-06-23 |
 | [charmed-kafka-ui-rock](https://github.com/canonical/charmed-kafka-ui-rock) | Charmed Kafka UI Rock for charmed operator. | None | 0 | - | 2025-07-22 | 2025-12-02 | 2025-07-25 |
-| [litmus-operators](https://github.com/canonical/litmus-operators) | Litmus ChaosCenter is a component of the LitmusChaos solution,  an open source platform used for chaos testing. It is responsible for serving the user interface for  the Litmus solution, allowing to schedule experiments. | Python | 1 | Apache License 2.0 | 2025-07-23 | 2026-08-06 | 2026-08-07 |
-| [kafka-ui-k8s-operator](https://github.com/canonical/kafka-ui-k8s-operator) | Kafka UI K8s Operator | Python | 0 | Apache License 2.0 | 2025-07-23 | 2026-03-13 | 2026-07-14 |
+| [litmus-operators](https://github.com/canonical/litmus-operators) | Litmus ChaosCenter is a component of the LitmusChaos solution,  an open source platform used for chaos testing. It is responsible for serving the user interface for  the Litmus solution, allowing to schedule experiments. | Python | 1 | Apache License 2.0 | 2025-07-23 | 2026-08-06 | 2026-08-08 |
+| [kafka-ui-k8s-operator](https://github.com/canonical/kafka-ui-k8s-operator) | Kafka UI K8s Operator | Python | 0 | Apache License 2.0 | 2025-07-23 | 2026-03-13 | 2026-08-08 |
 | [craft-examples](https://github.com/canonical/craft-examples) | A collection of code examples for repositories in the Craft Cinematic Universe | None | 1 | - | 2025-07-23 | 2026-06-18 | 2026-06-18 |
 | [launchpad-ui](https://github.com/canonical/launchpad-ui) | mirror of https://launchpad.net/launchpad-ui | Python | 1 | - | 2025-08-01 | 2026-07-24 | 2026-07-24 |
 | [golang-rock](https://github.com/canonical/golang-rock) | The Golang rock for building Golang applications. | Shell | 0 | - | 2025-08-04 | 2026-07-31 | 2026-07-31 |
@@ -2024,12 +2024,12 @@
 | [bulk-ubuntupro-upgrade](https://github.com/canonical/bulk-ubuntupro-upgrade) | Helps with bulk upgrade of VMs to Ubuntu Pro | Shell | 0 | Apache License 2.0 | 2025-08-21 | 2026-06-01 | 2026-06-01 |
 | [cve-scanner](https://github.com/canonical/cve-scanner) | CVE exporter using Google's osv-scanner | Python | 0 | - | 2025-08-22 | 2026-06-03 | 2026-07-22 |
 | [charmcraft-profile-tools](https://github.com/canonical/charmcraft-profile-tools) | Dev tools for Charmcraft profiles | Python | 1 | Apache License 2.0 | 2025-08-24 | 2026-07-02 | 2026-07-02 |
-| [devpack-for-spring-cli](https://github.com/canonical/devpack-for-spring-cli) | Devpack for Spring command line interface application. | Java | 0 | Apache License 2.0 | 2025-08-25 | 2026-07-30 | 2026-08-07 |
+| [devpack-for-spring-cli](https://github.com/canonical/devpack-for-spring-cli) | Devpack for Spring command line interface application. | Java | 0 | Apache License 2.0 | 2025-08-25 | 2026-07-30 | 2026-08-08 |
 | [postgresql-single-kernel-library](https://github.com/canonical/postgresql-single-kernel-library) | Library containing shared code for PostgreSQL operators (PostgreSQL, PgBouncer, VM and K8s) | Python | 3 | Apache License 2.0 | 2025-08-25 | 2026-08-04 | 2026-08-04 |
 | [airgapped-docs](https://github.com/canonical/airgapped-docs) | Air-gapped documentation at Canonical | None | 0 | Other | 2025-08-25 | 2026-01-27 | 2026-01-27 |
 | [launchpad-dev-image-builder-gha](https://github.com/canonical/launchpad-dev-image-builder-gha) | GHAs to build Launchpad development image | None | 0 | GNU Affero General Public License v3.0 | 2025-08-26 | 2026-08-06 | 2026-08-08 |
 | [auditd-operator](https://github.com/canonical/auditd-operator) | A Juju charm that deploys and manages Linux audit daemon. | Python | 1 | Apache License 2.0 | 2025-08-27 | 2026-07-07 | 2026-07-22 |
-| [mysql-router-operators](https://github.com/canonical/mysql-router-operators) | Charmed operators for MySQL Router | Python | 1 | Apache License 2.0 | 2025-08-27 | 2026-07-28 | 2026-08-08 |
+| [mysql-router-operators](https://github.com/canonical/mysql-router-operators) | Charmed operators for MySQL Router | Python | 1 | Apache License 2.0 | 2025-08-27 | 2026-07-28 | 2026-08-09 |
 | [nvidia-gpu-operator-tf](https://github.com/canonical/nvidia-gpu-operator-tf) | None | HCL | 0 | - | 2025-08-27 | 2026-03-23 | 2026-03-23 |
 | [cve-scanner-operator](https://github.com/canonical/cve-scanner-operator) | Charm the cve-scanner  | Python | 0 | Apache License 2.0 | 2025-08-28 | 2026-06-22 | 2026-07-20 |
 | [check_sources](https://github.com/canonical/check_sources) | Shell script to inspect and validate package source files. | Shell | 0 | MIT License | 2025-08-28 | 2025-09-15 | 2025-09-15 |
@@ -2078,7 +2078,7 @@
 | [opendkim-operator](https://github.com/canonical/opendkim-operator) | opendkim-operator - charm repository. | Python | 0 | Apache License 2.0 | 2025-09-30 | 2026-07-04 | 2026-08-01 |
 | [postfix-relay-operators](https://github.com/canonical/postfix-relay-operators) | postfix-relay-operators. | Python | 0 | Apache License 2.0 | 2025-10-01 | 2026-06-23 | 2026-07-20 |
 | [tomcat](https://github.com/canonical/tomcat) | Apache Tomcat | Java | 0 | Apache License 2.0 | 2025-10-01 | 2026-04-23 | 2026-04-23 |
-| [ubuntu-motd-server-operator](https://github.com/canonical/ubuntu-motd-server-operator) | Ubuntu MOTD server operator | Python | 0 | Apache License 2.0 | 2025-10-03 | 2026-08-02 | 2026-08-02 |
+| [ubuntu-motd-server-operator](https://github.com/canonical/ubuntu-motd-server-operator) | Ubuntu MOTD server operator | Python | 0 | Apache License 2.0 | 2025-10-03 | 2026-08-02 | 2026-08-08 |
 | [data-kubeflow-integrator](https://github.com/canonical/data-kubeflow-integrator) | Data Kubeflow Integrator operator charm. | Python | 0 | Apache License 2.0 | 2025-10-07 | 2026-07-23 | 2026-07-23 |
 | [charm-snap-hold](https://github.com/canonical/charm-snap-hold) | Subordinate charm that runs "snap refresh --hold" on optionally specified snaps. | Python | 0 | - | 2025-10-08 | 2025-10-08 | 2025-10-08 |
 | [rocks-template-actions](https://github.com/canonical/rocks-template-actions) | GitHub custom actions for the rocks-template. | Python | 0 | - | 2025-10-09 | 2026-08-03 | 2026-07-21 |
@@ -2087,7 +2087,7 @@
 | [ubuntu-sponsoring-charm](https://github.com/canonical/ubuntu-sponsoring-charm) | charm repo for ubuntu-sponsoring reports page | None | 0 | GNU General Public License v3.0 | 2025-10-20 | 2026-06-16 | 2025-10-20 |
 | [CodecCrafter](https://github.com/canonical/CodecCrafter) | A collection of consistently generated test videos for a range of formats, resolutions, and codecs. This repository provides a reliable asset suite for testing video players, streaming servers, transcoding pipelines, and decoder performance. | None | 2 | - | 2025-10-21 | 2026-06-01 | 2026-06-01 |
 | [go-algo](https://github.com/canonical/go-algo) | Graph and distance algorithms for Go | Go | 1 | - | 2025-10-21 | 2026-01-19 | 2026-01-19 |
-| [documentationacademy.org](https://github.com/canonical/documentationacademy.org) | The website for the Canonical Open Documentation Academy (CODA) | Python | 0 | Apache License 2.0 | 2025-10-23 | 2026-04-10 | 2026-08-06 |
+| [documentationacademy.org](https://github.com/canonical/documentationacademy.org) | The website for the Canonical Open Documentation Academy (CODA) | Python | 0 | Apache License 2.0 | 2025-10-23 | 2026-04-10 | 2026-08-08 |
 | [discourse-doc-checker](https://github.com/canonical/discourse-doc-checker) | None | Python | 0 | - | 2025-10-23 | 2025-10-24 | 2026-03-26 |
 | [mediatek-genio-supports](https://github.com/canonical/mediatek-genio-supports) | supports services for Ubuntu Core on MediaTek Genio devices | Python | 0 | - | 2025-10-27 | 2026-03-13 | 2026-03-13 |
 | [canonicalwebteam.flask-vite](https://github.com/canonical/canonicalwebteam.flask-vite) | None | Python | 0 | GNU Lesser General Public License v3.0 | 2025-10-27 | 2026-04-20 | 2026-08-04 |
@@ -2120,7 +2120,7 @@
 | [svelte-icons](https://github.com/canonical/svelte-icons) | None | Svelte | 2 | GNU Lesser General Public License v3.0 | 2025-11-20 | 2026-03-24 | 2026-06-12 |
 | [opensearch-k8s-operator](https://github.com/canonical/opensearch-k8s-operator) | OpenSearch Kubernetes Charm | Python | 0 | Apache License 2.0 | 2025-11-20 | 2026-07-14 | 2026-08-04 |
 | [platform-engineering-deployment-modules](https://github.com/canonical/platform-engineering-deployment-modules) | Terraform deployment modules for PFE environments. | HCL | 0 | Apache License 2.0 | 2025-11-21 | 2026-07-21 | 2026-07-21 |
-| [falco-operators](https://github.com/canonical/falco-operators) | falco-operators - charm repository. | Python | 0 | Apache License 2.0 | 2025-11-24 | 2026-07-23 | 2026-08-08 |
+| [falco-operators](https://github.com/canonical/falco-operators) | falco-operators - charm repository. | Python | 0 | Apache License 2.0 | 2025-11-24 | 2026-07-23 | 2026-08-09 |
 | [gateway-route-configurator](https://github.com/canonical/gateway-route-configurator) | Configurator charm for gateway-route integration | Python | 0 | Apache License 2.0 | 2025-11-24 | 2026-04-03 | 2025-11-24 |
 | [canonicalwebteam.cookie-service](https://github.com/canonical/canonicalwebteam.cookie-service) | Flask extension to integrate with shared cookie service | Python | 0 | GNU Lesser General Public License v2.1 | 2025-11-25 | 2026-03-06 | 2026-03-06 |
 | [copilot-collections](https://github.com/canonical/copilot-collections) | Instructions, prompts, and configurations to help you make the most of GitHub Copilot. | Python | 29 | Apache License 2.0 | 2025-11-25 | 2026-08-06 | 2026-07-29 |
@@ -2162,7 +2162,7 @@
 | [sloth-rock](https://github.com/canonical/sloth-rock) | A rock for Sloth | Just | 0 | Apache License 2.0 | 2026-01-15 | 2026-06-29 | 2026-06-29 |
 | [apache2-rock](https://github.com/canonical/apache2-rock) | A distroless-like Apache2 image based on Ubuntu   | Shell | 0 | - | 2026-01-15 | 2026-08-03 | 2026-08-03 |
 | [k8sd](https://github.com/canonical/k8sd) | A cluster-management daemon for Kubernetes | Go | 3 | GNU General Public License v3.0 | 2026-01-15 | 2026-07-17 | 2026-07-24 |
-| [mysql-operators](https://github.com/canonical/mysql-operators) | Charmed operators for MySQL Server | Python | 2 | Apache License 2.0 | 2026-01-19 | 2026-07-30 | 2026-08-08 |
+| [mysql-operators](https://github.com/canonical/mysql-operators) | Charmed operators for MySQL Server | Python | 2 | Apache License 2.0 | 2026-01-19 | 2026-07-30 | 2026-08-09 |
 | [example-product-documentation-temp](https://github.com/canonical/example-product-documentation-temp) | An example for Sphinx documentation following Diataxis | None | 0 | - | 2026-01-19 | 2026-01-19 | 2023-06-06 |
 | [iptables-rock](https://github.com/canonical/iptables-rock) | A rock for the iptables utilities | Shell | 0 | - | 2026-01-21 | 2026-01-21 | 2026-01-21 |
 | [blackbox-exporter-operator](https://github.com/canonical/blackbox-exporter-operator) | This charmed operator automates the operational procedures of running Blackbox Exporter, a Prometheus exporter running blackbox probes over a multitude of protocols. | Python | 0 | Apache License 2.0 | 2026-01-21 | 2026-08-06 | 2026-08-06 |
@@ -2170,7 +2170,7 @@
 | [autopkgtests-automation](https://github.com/canonical/autopkgtests-automation) | A command-line tool for interacting with Ubuntu autopkgtest infrastructure | Go | 0 | GNU Affero General Public License v3.0 | 2026-01-23 | 2026-02-26 | 2026-07-03 |
 | [ditto-repo](https://github.com/canonical/ditto-repo) | ditto-repo is a lightweight, purely Golang-based tool for mirroring Debian repositories. | Go | 4 | GNU Lesser General Public License v3.0 | 2026-01-23 | 2026-07-23 | 2026-07-08 |
 | [gce-guest-suite-core](https://github.com/canonical/gce-guest-suite-core) | Curation of Google cloud's different guest agent pkgs for a strict snap | Go | 0 | - | 2026-01-26 | 2026-06-19 | 2026-06-19 |
-| [mediawiki-k8s-operator](https://github.com/canonical/mediawiki-k8s-operator) | MediaWiki K8s charm | Python | 3 | Other | 2026-01-26 | 2026-08-02 | 2026-08-08 |
+| [mediawiki-k8s-operator](https://github.com/canonical/mediawiki-k8s-operator) | MediaWiki K8s charm | Python | 3 | Other | 2026-01-26 | 2026-08-02 | 2026-08-09 |
 | [maas-images](https://github.com/canonical/maas-images) | Official github mirror for MAAS Images. Development happens in Launchpad (https://launchpad.net/maas-images) | Python | 0 | - | 2026-01-27 | 2026-07-23 | 2026-07-23 |
 | [level-zero-test-snap](https://github.com/canonical/level-zero-test-snap) | None | Shell | 0 | - | 2026-01-29 | 2026-07-23 | 2026-07-23 |
 | [dbt-jira-data](https://github.com/canonical/dbt-jira-data) | None | Makefile | 0 | - | 2026-01-29 | 2026-02-24 | 2026-04-21 |
@@ -2197,7 +2197,7 @@
 | [velero-integrator](https://github.com/canonical/velero-integrator) | Velero Integrator | Python | 0 | Apache License 2.0 | 2026-02-10 | 2026-07-21 | 2026-08-01 |
 | [tenant-service](https://github.com/canonical/tenant-service) | Service used by the Canonical Identity Platform to add support for multitenancy | Go | 0 | Other | 2026-02-10 | 2026-07-01 | 2026-08-07 |
 | [go-dnssd](https://github.com/canonical/go-dnssd) | This library implements Multicast DNS (mDNS) and DNS-Based Service Discovery (DNS-SD) for Zero Configuration Networking in Go. | Go | 0 | MIT License | 2026-02-10 | 2026-03-20 | 2026-07-03 |
-| [kube-galaxy-test](https://github.com/canonical/kube-galaxy-test) | A testing framework for Kubernetes workloads | Python | 0 | Other | 2026-02-10 | 2026-06-30 | 2026-08-05 |
+| [kube-galaxy-test](https://github.com/canonical/kube-galaxy-test) | A testing framework for Kubernetes workloads | Python | 0 | Other | 2026-02-10 | 2026-06-30 | 2026-08-09 |
 | [cargo-audit-snap](https://github.com/canonical/cargo-audit-snap) | Audit Cargo.lock for crates with security vulnerabilities. | None | 0 | Apache License 2.0 | 2026-02-10 | 2026-03-30 | 2026-03-30 |
 | [setup-ubuntu-fips](https://github.com/canonical/setup-ubuntu-fips) | This is the PoC for running Ubuntu with Pro support and fips-updates enabled. | None | 1 | Apache License 2.0 | 2026-02-11 | 2026-05-14 | 2026-06-18 |
 | [charmed-etcd-benchmark-operator](https://github.com/canonical/charmed-etcd-benchmark-operator) | This is a machine charm for the upstream etcd benchmarking tool (etcd-io/etcd/tools/benchmark), meant to be deployed alongside charmed-etcd to carry out performance benchmarking. | Python | 1 | Apache License 2.0 | 2026-02-12 | 2026-07-13 | 2026-08-04 |
@@ -2209,7 +2209,7 @@
 | [marketplace-analytics](https://github.com/canonical/marketplace-analytics) | None | Python | 0 | - | 2026-02-18 | 2026-03-26 | 2026-07-04 |
 | [airflow-kubernetes-executor-k8s-operator](https://github.com/canonical/airflow-kubernetes-executor-k8s-operator) | A charmed operator for enabling and configuring the Airflow Kubernetes Executor. | Python | 0 | Apache License 2.0 | 2026-02-18 | 2026-07-23 | 2026-07-23 |
 | [etcd-benchmark-tool-snap](https://github.com/canonical/etcd-benchmark-tool-snap) | Etcd benchmark tool, packaged as a snap. | None | 0 | Apache License 2.0 | 2026-02-20 | 2026-02-20 | 2026-02-20 |
-| [identity-saml-provider-operator](https://github.com/canonical/identity-saml-provider-operator) | None | Python | 0 | Apache License 2.0 | 2026-02-20 | 2026-08-07 | 2026-08-07 |
+| [identity-saml-provider-operator](https://github.com/canonical/identity-saml-provider-operator) | None | Python | 0 | Apache License 2.0 | 2026-02-20 | 2026-08-08 | 2026-08-08 |
 | [test-wand](https://github.com/canonical/test-wand) | A magic wand that validates the features of any open source software | None | 0 | - | 2026-02-20 | 2026-02-20 | 2026-02-20 |
 | [rocm-qa](https://github.com/canonical/rocm-qa) | None | Python | 0 | - | 2026-02-21 | 2026-07-17 | 2026-07-17 |
 | [ds-docs-meta-prompting](https://github.com/canonical/ds-docs-meta-prompting) | None | TypeScript | 2 | - | 2026-02-23 | 2026-05-20 | 2026-05-20 |
@@ -2225,8 +2225,8 @@
 | [sunbeam-cinder-factory](https://github.com/canonical/sunbeam-cinder-factory) | None | None | 0 | - | 2026-03-02 | 2026-03-04 | 2026-05-19 |
 | [zaza2](https://github.com/canonical/zaza2) | A Python3-only functional test framework for Charms | None | 0 | Apache License 2.0 | 2026-03-02 | 2026-03-02 | 2025-12-04 |
 | [landscape-debarchive-operator](https://github.com/canonical/landscape-debarchive-operator) | None | Python | 0 | Apache License 2.0 | 2026-03-02 | 2026-07-07 | 2026-07-07 |
-| [tenant-service-operator](https://github.com/canonical/tenant-service-operator) | Charmed operator for the Canonical Identity Platform Tenant Service | Python | 0 | Apache License 2.0 | 2026-03-03 | 2026-08-07 | 2026-08-08 |
-| [mesa-2604](https://github.com/canonical/mesa-2604) | Mesa 3D Graphics Library for `base: core24` Snaps | Rust | 0 | - | 2026-03-05 | 2026-05-12 | 2026-07-25 |
+| [tenant-service-operator](https://github.com/canonical/tenant-service-operator) | Charmed operator for the Canonical Identity Platform Tenant Service | Python | 0 | Apache License 2.0 | 2026-03-03 | 2026-08-08 | 2026-08-08 |
+| [mesa-2604](https://github.com/canonical/mesa-2604) | Mesa 3D Graphics Library for `base: core24` Snaps | Rust | 0 | - | 2026-03-05 | 2026-05-12 | 2026-08-08 |
 | [ubuntu-proposed-migration-operator](https://github.com/canonical/ubuntu-proposed-migration-operator) | Charm for proposed-migration and archive reports | Python | 0 | GNU General Public License v3.0 | 2026-03-06 | 2026-07-24 | 2026-07-24 |
 | [certificate-management-docs](https://github.com/canonical/certificate-management-docs) | Canonical Certificate Management Documentation | None | 0 | Other | 2026-03-06 | 2026-05-22 | 2026-07-20 |
 | [jam](https://github.com/canonical/jam) | Tool that manages machines so Juju doesn't have to. | Rust | 0 | Apache License 2.0 | 2026-03-06 | 2026-03-11 | 2026-03-14 |
@@ -2236,7 +2236,7 @@
 | [nemotron-3-super-snap](https://github.com/canonical/nemotron-3-super-snap) | Local inference with Nemotron 3 Super | Shell | 0 | GNU General Public License v3.0 | 2026-03-12 | 2026-06-12 | 2026-07-21 |
 | [nss-snapd](https://github.com/canonical/nss-snapd) | nss plugin for snapd | C | 0 | Other | 2026-03-12 | 2026-03-13 | 2026-06-18 |
 | [fp-edge-canonical](https://github.com/canonical/fp-edge-canonical) | None | Python | 0 | - | 2026-03-12 | 2026-03-13 | 2026-05-19 |
-| [ubuntu-engineering-upptime](https://github.com/canonical/ubuntu-engineering-upptime) | Report the status of the Ubuntu Engineering services | Markdown | 3 | MIT License | 2026-03-13 | 2026-08-08 | 2026-08-08 |
+| [ubuntu-engineering-upptime](https://github.com/canonical/ubuntu-engineering-upptime) | Report the status of the Ubuntu Engineering services | Markdown | 3 | MIT License | 2026-03-13 | 2026-08-09 | 2026-08-09 |
 | [rust](https://github.com/canonical/rust) | Empowering everyone to build reliable and efficient software. | Rust | 0 | Apache License 2.0 | 2026-03-13 | 2026-06-17 | 2026-06-17 |
 | [charmed-ingress-documentation](https://github.com/canonical/charmed-ingress-documentation) | charmed-ingress-documentation - documentation repository for charmed ingress solutions. | None | 0 | Other | 2026-03-16 | 2026-07-24 | 2026-08-04 |
 | [kubeflow-dashboard](https://github.com/canonical/kubeflow-dashboard) | Kubeflow Dashboard | TypeScript | 0 | Apache License 2.0 | 2026-03-16 | 2026-03-18 | 2026-06-11 |
@@ -2258,11 +2258,11 @@
 | [template-sdk](https://github.com/canonical/template-sdk) | None | None | 1 | - | 2026-03-25 | 2026-06-23 | 2026-07-23 |
 | [rust-sdk](https://github.com/canonical/rust-sdk) | None | None | 0 | - | 2026-03-26 | 2026-06-23 | 2026-06-23 |
 | [zephyr-sdk](https://github.com/canonical/zephyr-sdk) | None | None | 0 | - | 2026-03-26 | 2026-07-22 | 2026-08-07 |
-| [mimir-operators](https://github.com/canonical/mimir-operators) | This charmed operator is part of automation of the operational procedures of running Grafana Mimir, an open-source metrics backend, in microservices mode. | Python | 0 | Apache License 2.0 | 2026-03-26 | 2026-08-06 | 2026-08-06 |
-| [loki-operators](https://github.com/canonical/loki-operators) | This charmed operator is part of automation of the operational procedures of running Grafana Loki, an open-source logs backend, in microservices mode. | Python | 0 | Apache License 2.0 | 2026-03-26 | 2026-08-06 | 2026-08-06 |
+| [mimir-operators](https://github.com/canonical/mimir-operators) | This charmed operator is part of automation of the operational procedures of running Grafana Mimir, an open-source metrics backend, in microservices mode. | Python | 0 | Apache License 2.0 | 2026-03-26 | 2026-08-06 | 2026-08-08 |
+| [loki-operators](https://github.com/canonical/loki-operators) | This charmed operator is part of automation of the operational procedures of running Grafana Loki, an open-source logs backend, in microservices mode. | Python | 0 | Apache License 2.0 | 2026-03-26 | 2026-08-06 | 2026-08-08 |
 | [canonicalwebteam.markdown-response](https://github.com/canonical/canonicalwebteam.markdown-response) | None | Python | 0 | Other | 2026-03-26 | 2026-04-09 | 2026-04-16 |
 | [managed-apps-docs](https://github.com/canonical/managed-apps-docs) | Managed apps documentation repo | None | 0 | - | 2026-03-27 | 2026-05-19 | 2026-05-19 |
-| [vcf-ubuntu-vulnerabilities](https://github.com/canonical/vcf-ubuntu-vulnerabilities) | Vulnerability Reports of Ubuntu images published on VMware Cloud Foundation's Catalog | Python | 0 | - | 2026-03-27 | 2026-07-24 | 2026-08-06 |
+| [vcf-ubuntu-vulnerabilities](https://github.com/canonical/vcf-ubuntu-vulnerabilities) | Vulnerability Reports of Ubuntu images published on VMware Cloud Foundation's Catalog | Python | 0 | - | 2026-03-27 | 2026-07-24 | 2026-08-09 |
 | [creusot-snap](https://github.com/canonical/creusot-snap) | None | None | 0 | - | 2026-03-30 | 2026-06-10 | 2026-06-10 |
 | [webteam-juju-dev-provisioning](https://github.com/canonical/webteam-juju-dev-provisioning) | None | Shell | 2 | - | 2026-03-30 | 2026-07-17 | 2026-07-17 |
 | [uv-sdk](https://github.com/canonical/uv-sdk) | None | None | 0 | - | 2026-03-31 | 2026-07-17 | 2026-08-07 |
@@ -2299,7 +2299,7 @@
 | [squid-rock](https://github.com/canonical/squid-rock) | A distroless-like squid image based on Ubuntu   | Shell | 4 | - | 2026-04-17 | 2026-08-03 | 2026-08-03 |
 | [megademo.ai](https://github.com/canonical/megademo.ai) | None | CSS | 0 | GNU General Public License v3.0 | 2026-04-17 | 2026-07-31 | 2026-08-07 |
 | [snaps-confdb-skill](https://github.com/canonical/snaps-confdb-skill) | AI Agent to support development of ConfDb enabled snaps | None | 0 | - | 2026-04-18 | 2026-04-29 | 2026-04-29 |
-| [comfy-ui-sdk](https://github.com/canonical/comfy-ui-sdk) | None | None | 0 | - | 2026-04-20 | 2026-06-23 | 2026-08-06 |
+| [comfy-ui-sdk](https://github.com/canonical/comfy-ui-sdk) | None | None | 0 | - | 2026-04-20 | 2026-06-23 | 2026-08-08 |
 | [github-runner-sdk](https://github.com/canonical/github-runner-sdk) | None | Go | 0 | - | 2026-04-20 | 2026-07-08 | 2026-07-08 |
 | [sphinx-stack-docs](https://github.com/canonical/sphinx-stack-docs) | Documentation for the Canonical Sphinx Stack | None | 1 | Other | 2026-04-20 | 2026-08-02 | 2026-07-22 |
 | [cuda-toolkit-sdk](https://github.com/canonical/cuda-toolkit-sdk) | None | None | 0 | - | 2026-04-21 | 2026-06-23 | 2026-06-23 |
@@ -2328,7 +2328,7 @@
 | [hackathon-desktop-help](https://github.com/canonical/hackathon-desktop-help) | Prototype LLM-based Help app for Desktop that uses local official documentation. | Rust | 0 | - | 2026-05-13 | 2026-05-14 | 2026-05-13 |
 | [state-engine-ui](https://github.com/canonical/state-engine-ui) | A fork of the snapd project allowing users to dynamically inspect changes and tasks in a web UI. | Go | 0 | GNU General Public License v3.0 | 2026-05-13 | 2026-05-13 | 2026-07-10 |
 | [debaid](https://github.com/canonical/debaid) | Automated packaging tasks | Shell | 0 | GNU General Public License v3.0 | 2026-05-13 | 2026-07-15 | 2026-07-15 |
-| [k8s-snap-megademo](https://github.com/canonical/k8s-snap-megademo) | None | Python | 0 | GNU General Public License v3.0 | 2026-05-13 | 2026-05-13 | 2026-08-08 |
+| [k8s-snap-megademo](https://github.com/canonical/k8s-snap-megademo) | None | Python | 0 | GNU General Public License v3.0 | 2026-05-13 | 2026-05-13 | 2026-08-09 |
 | [CIA-Content-Integrity-Agent](https://github.com/canonical/CIA-Content-Integrity-Agent) | Keeps content in check, by any means necessary  | Python | 0 | - | 2026-05-13 | 2026-05-19 | 2026-05-13 |
 | [k8sd-megademo](https://github.com/canonical/k8sd-megademo) | None | Go | 0 | GNU General Public License v3.0 | 2026-05-13 | 2026-05-13 | 2026-05-13 |
 | [k8s-snap-api-megademo](https://github.com/canonical/k8s-snap-api-megademo) | None | Go | 0 | GNU General Public License v3.0 | 2026-05-13 | 2026-05-13 | 2026-08-05 |
@@ -2347,18 +2347,18 @@
 | [envoy-k8s-operator](https://github.com/canonical/envoy-k8s-operator) | This Juju charm provides ingress capabilities on Kubernetes without relying on the ingress resource of Kubernetes. Instead, istio-ingress is instructed to expose Juju applications through relations with them and utilizes the new Kubernetes Gateway API. The operator is designed to be used in conjunction with istio-core-k8s. | None | 0 | Apache License 2.0 | 2026-05-19 | 2026-05-19 | 2026-08-07 |
 | [docker-sdk](https://github.com/canonical/docker-sdk) | None | None | 0 | - | 2026-05-19 | 2026-07-07 | 2026-07-07 |
 | [inference-snaps-sdk](https://github.com/canonical/inference-snaps-sdk) | None | Shell | 0 | GNU General Public License v3.0 | 2026-05-19 | 2026-07-31 | 2026-07-31 |
-| [robotics-edge-ai-suites](https://github.com/canonical/robotics-edge-ai-suites) | robotics-edge-ai-suites PoC | Jupyter Notebook | 0 | Apache License 2.0 | 2026-05-20 | 2026-06-17 | 2026-08-08 |
+| [robotics-edge-ai-suites](https://github.com/canonical/robotics-edge-ai-suites) | robotics-edge-ai-suites PoC | Jupyter Notebook | 0 | Apache License 2.0 | 2026-05-20 | 2026-06-17 | 2026-08-09 |
 | [charm-ci](https://github.com/canonical/charm-ci) | Tooling and CI workflows for building, testing, and integrating Canonical charms | Python | 2 | Apache License 2.0 | 2026-05-20 | 2026-07-24 | 2026-07-24 |
 | [sonic-buildimage](https://github.com/canonical/sonic-buildimage) | Scripts which perform an installable binary image build for SONiC | C | 0 | Other | 2026-05-21 | 2026-07-13 | 2026-08-01 |
 | [request-authentication-configurator](https://github.com/canonical/request-authentication-configurator) | A charm configurator to have `RequestAuthentication.security.istio.io` custom resources created | Python | 0 | Apache License 2.0 | 2026-05-21 | 2026-06-25 | 2026-07-13 |
-| [lscompute](https://github.com/canonical/lscompute) | Get info about your compute hardware | Go | 5 | GNU General Public License v3.0 | 2026-05-21 | 2026-08-03 | 2026-08-03 |
+| [lscompute](https://github.com/canonical/lscompute) | Get info about your compute hardware | Go | 5 | GNU General Public License v3.0 | 2026-05-21 | 2026-08-03 | 2026-08-08 |
 | [phoronix-distro-package-tests](https://github.com/canonical/phoronix-distro-package-tests) | A Phoronix benchmark test suite (coupled with a module) that only tests system packages provided by the distro. | PHP | 0 | GNU General Public License v3.0 | 2026-05-21 | 2026-06-01 | 2026-06-01 |
 | [reference-sdks](https://github.com/canonical/reference-sdks) | A curated collection of workshop SDKs. | None | 5 | - | 2026-05-23 | 2026-07-09 | 2026-07-09 |
 | [hyrum](https://github.com/canonical/hyrum) | A charming utility to find breakage from reliance on undocumented features. | Python | 2 | Apache License 2.0 | 2026-05-24 | 2026-08-03 | 2026-08-03 |
 | [kubeflow-trainer-operator](https://github.com/canonical/kubeflow-trainer-operator) | Kubeflow Trainer Operator | Jinja | 0 | Apache License 2.0 | 2026-05-25 | 2026-07-06 | 2026-08-01 |
-| [authentik-server-operator](https://github.com/canonical/authentik-server-operator) | Charmed operator for the Authentik Server | Python | 0 | Apache License 2.0 | 2026-05-26 | 2026-08-07 | 2026-08-07 |
-| [authentik-worker-operator](https://github.com/canonical/authentik-worker-operator) | Charmed operator for the Authentik Worker | Python | 0 | Apache License 2.0 | 2026-05-26 | 2026-08-07 | 2026-08-07 |
-| [authentik-ldap-outpost-operator](https://github.com/canonical/authentik-ldap-outpost-operator) | Charmed operator for the Authentik LDAP Outpost | Python | 0 | Apache License 2.0 | 2026-05-26 | 2026-08-07 | 2026-08-07 |
+| [authentik-server-operator](https://github.com/canonical/authentik-server-operator) | Charmed operator for the Authentik Server | Python | 0 | Apache License 2.0 | 2026-05-26 | 2026-08-08 | 2026-08-08 |
+| [authentik-worker-operator](https://github.com/canonical/authentik-worker-operator) | Charmed operator for the Authentik Worker | Python | 0 | Apache License 2.0 | 2026-05-26 | 2026-08-08 | 2026-08-08 |
+| [authentik-ldap-outpost-operator](https://github.com/canonical/authentik-ldap-outpost-operator) | Charmed operator for the Authentik LDAP Outpost | Python | 0 | Apache License 2.0 | 2026-05-26 | 2026-08-08 | 2026-08-08 |
 | [ros2-desktop-sdk](https://github.com/canonical/ros2-desktop-sdk) | None | None | 2 | - | 2026-05-26 | 2026-06-24 | 2026-07-21 |
 | [kubeflow-trainer-rocks](https://github.com/canonical/kubeflow-trainer-rocks) | Rocks for Kubeflow Trainer components | Python | 0 | - | 2026-05-27 | 2026-06-16 | 2026-06-16 |
 | [ovn-charms-v1](https://github.com/canonical/ovn-charms-v1) | Monorepo for the v1 of the OVN charms | Python | 1 | - | 2026-05-28 | 2026-08-07 | 2026-08-08 |
@@ -2371,11 +2371,11 @@
 | [launchpad-actions](https://github.com/canonical/launchpad-actions) | A collection of reusable workflows used by the Launchpad team | Python | 0 | Apache License 2.0 | 2026-06-03 | 2026-07-27 | 2026-07-27 |
 | [automated-ux-qa-checklist-and-quality-standards](https://github.com/canonical/automated-ux-qa-checklist-and-quality-standards) | None | Python | 1 | - | 2026-06-03 | 2026-07-24 | 2026-07-24 |
 | [soss-vulnerability-data](https://github.com/canonical/soss-vulnerability-data) | Vulnerability data for the SOSS Project | None | 3 | - | 2026-06-04 | 2026-08-07 | 2026-08-07 |
-| [myna](https://github.com/canonical/myna) | Myna is a lightweight speech-to-text application for Ubuntu Desktop. | Shell | 90 | GNU General Public License v3.0 | 2026-06-05 | 2026-08-01 | 2026-07-31 |
+| [myna](https://github.com/canonical/myna) | Myna is a lightweight speech-to-text application for Ubuntu Desktop. | Shell | 91 | GNU General Public License v3.0 | 2026-06-05 | 2026-08-08 | 2026-07-31 |
 | [ask-ubuntu-docs](https://github.com/canonical/ask-ubuntu-docs) | An LLM-based help app that uses the official Ubuntu documentation. | Rust | 1 | GNU General Public License v3.0 | 2026-06-05 | 2026-08-02 | 2026-07-28 |
 | [django-piston3](https://github.com/canonical/django-piston3) | Import of seemingly abandoned django-piston3 code at https://bitbucket.org/userzimmermann/django-piston3 with support for Python 3.x and newer Django versions. | Python | 0 | - | 2026-06-05 | 2026-06-05 | 2026-06-05 |
 | [livepatch-docs](https://github.com/canonical/livepatch-docs) | Public documentation for Canonical Livepatch | None | 2 | Apache License 2.0 | 2026-06-05 | 2026-07-15 | 2026-07-13 |
-| [nifi-k8s-operator](https://github.com/canonical/nifi-k8s-operator) | A Charmed Operator for running Apache Nifi on Kubernetes | Python | 0 | Apache License 2.0 | 2026-06-05 | 2026-07-22 | 2026-07-30 |
+| [nifi-k8s-operator](https://github.com/canonical/nifi-k8s-operator) | A Charmed Operator for running Apache Nifi on Kubernetes | Python | 0 | Apache License 2.0 | 2026-06-05 | 2026-07-22 | 2026-08-09 |
 | [valkey-artifacts](https://github.com/canonical/valkey-artifacts) | Snaps and rocks for the Canonical offering of Valkey  | Shell | 0 | Apache License 2.0 | 2026-06-08 | 2026-07-21 | 2026-07-24 |
 | [qwen3-coder-snap](https://github.com/canonical/qwen3-coder-snap) | Local inference with Qwen 3 Coder | Shell | 0 | GNU General Public License v3.0 | 2026-06-08 | 2026-08-01 | 2026-08-01 |
 | [xterm.dart](https://github.com/canonical/xterm.dart) | 💻 xterm.dart is a fast and fully-featured terminal emulator for Flutter, with support for mobile and desktop platforms. | None | 0 | MIT License | 2026-06-08 | 2026-06-08 | 2026-06-08 |
@@ -2407,7 +2407,7 @@
 | [genio-image-public](https://github.com/canonical/genio-image-public) | A READ-ONLY public mirror of the internal genio-image repository. | Python | 1 | - | 2026-06-19 | 2026-08-05 | 2026-08-05 |
 | [macsl](https://github.com/canonical/macsl) |  Frama-C plugin that checks HAPPY policies. | Rocq Prover | 0 | - | 2026-06-20 | 2026-07-21 | 2026-07-21 |
 | [bun-snap](https://github.com/canonical/bun-snap) | Snapcraft packaging for bun | Makefile | 0 | Other | 2026-06-21 | 2026-06-23 | 2026-06-21 |
-| [agy-sdk](https://github.com/canonical/agy-sdk) | A community maintained Canonical Workshop SDK for agy | Shell | 2 | MIT License | 2026-06-21 | 2026-08-04 | 2026-08-07 |
+| [agy-sdk](https://github.com/canonical/agy-sdk) | A community maintained Canonical Workshop SDK for agy | Shell | 2 | MIT License | 2026-06-21 | 2026-08-08 | 2026-08-08 |
 | [charmed-polaris-rock](https://github.com/canonical/charmed-polaris-rock) | This repository contains the packaging metadata for creating a rock for Apache Polaris | Shell | 0 | Apache License 2.0 | 2026-06-22 | 2026-08-06 | 2026-08-06 |
 | [warthog-userscripts](https://github.com/canonical/warthog-userscripts) | None | JavaScript | 1 | - | 2026-06-22 | 2026-07-03 | 2026-07-03 |
 | [knowstack](https://github.com/canonical/knowstack) | Ingest, index, contextualize knowlege from heterogenous data sources and provide it to agents. | None | 0 | Apache License 2.0 | 2026-06-22 | 2026-06-22 | 2026-06-22 |
@@ -2419,10 +2419,10 @@
 | [yuzu](https://github.com/canonical/yuzu) | yuzu is a <100 KB, lightweight privilege-delegation tool for Pebble | Zig | 1 | GNU General Public License v3.0 | 2026-06-24 | 2026-06-25 | 2026-06-24 |
 | [headroom-workshop-sdk](https://github.com/canonical/headroom-workshop-sdk) | None | Shell | 1 | - | 2026-06-25 | 2026-06-25 | 2026-07-16 |
 | [inference-snap-template](https://github.com/canonical/inference-snap-template) | None | Makefile | 0 | - | 2026-06-25 | 2026-07-14 | 2026-07-14 |
-| [hrms-operator](https://github.com/canonical/hrms-operator) | None | Python | 0 | Apache License 2.0 | 2026-06-26 | 2026-08-01 | 2026-08-08 |
+| [hrms-operator](https://github.com/canonical/hrms-operator) | None | Python | 0 | Apache License 2.0 | 2026-06-26 | 2026-08-01 | 2026-08-09 |
 | [ast-grep-snap](https://github.com/canonical/ast-grep-snap) | ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust | Rust | 0 | MIT License | 2026-06-26 | 2026-06-26 | 2026-07-27 |
 | [yui](https://github.com/canonical/yui) | None | JavaScript | 0 | Other | 2026-06-29 | 2026-06-29 | 2026-08-03 |
-| [pqf](https://github.com/canonical/pqf) | Platform Engineering Product Quality Framework | Python | 0 | - | 2026-06-30 | 2026-07-23 | 2026-08-08 |
+| [pqf](https://github.com/canonical/pqf) | Platform Engineering Product Quality Framework | Python | 0 | - | 2026-06-30 | 2026-07-23 | 2026-08-09 |
 | [qwen3.5-snap](https://github.com/canonical/qwen3.5-snap) | Local inference with Qwen 3.5 | Shell | 0 | GNU General Public License v3.0 | 2026-07-01 | 2026-07-31 | 2026-08-01 |
 | [k8s-python-libjuju](https://github.com/canonical/k8s-python-libjuju) | Python library for the Juju API, with 26.04 (resolute) support for the K8s team. | Python | 0 | Apache License 2.0 | 2026-07-01 | 2026-07-01 | 2026-07-01 |
 | [apache-exporter-snap](https://github.com/canonical/apache-exporter-snap) | A snap package for Prometheus Apache Exporter. | Just | 0 | Other | 2026-07-01 | 2026-07-01 | 2026-07-01 |
@@ -2457,15 +2457,15 @@
 | [ubuntu-changelogs-operator](https://github.com/canonical/ubuntu-changelogs-operator) | None | Python | 0 | Apache License 2.0 | 2026-07-14 | 2026-07-23 | 2026-07-23 |
 | [pi-coding-agent-snap](https://github.com/canonical/pi-coding-agent-snap) | Pi coding agent snap packaging | Shell | 0 | Other | 2026-07-15 | 2026-07-24 | 2026-08-07 |
 | [cdk](https://github.com/canonical/cdk) | TBD | None | 0 | - | 2026-07-15 | 2026-07-15 | 2026-07-15 |
-| [dotnet-stats](https://github.com/canonical/dotnet-stats) | None | JavaScript | 1 | - | 2026-07-15 | 2026-08-08 | 2026-08-08 |
+| [dotnet-stats](https://github.com/canonical/dotnet-stats) | None | JavaScript | 1 | - | 2026-07-15 | 2026-08-09 | 2026-08-09 |
 | [nftables-operator](https://github.com/canonical/nftables-operator) | Subordinate charm for configuring nftables rules on machine charms | Python | 0 | Apache License 2.0 | 2026-07-16 | 2026-07-17 | 2026-07-17 |
 | [pinot-noir](https://github.com/canonical/pinot-noir) | Django web application using UBQ, providing reports on the status of Ubuntu packages in terms of merges, bug fixes, etc. organized in a team-focused way. | Python | 0 | GNU General Public License v3.0 | 2026-07-17 | 2026-07-17 | 2026-08-05 |
 | [jenkins-operators](https://github.com/canonical/jenkins-operators) | A monorepo containing charms to operate Jenkins | Python | 0 | Apache License 2.0 | 2026-07-20 | 2026-08-01 | 2026-08-01 |
 | [osclient](https://github.com/canonical/osclient) | Client library and CLI for Opensearch interactions | Python | 0 | GNU General Public License v3.0 | 2026-07-21 | 2026-07-29 | 2026-07-29 |
 | [charmed-nifi-documentation](https://github.com/canonical/charmed-nifi-documentation) | Charmed NiFi Documentation | None | 0 | GNU General Public License v3.0 | 2026-07-21 | 2026-07-24 | 2026-07-30 |
 | [charmed-nifi-solutions](https://github.com/canonical/charmed-nifi-solutions) | None | Just | 0 | Apache License 2.0 | 2026-07-21 | 2026-07-24 | 2026-07-24 |
-| [uaa-release](https://github.com/canonical/uaa-release) | Bosh Release for the UAA | Ruby | 0 | Apache License 2.0 | 2026-07-21 | 2026-07-22 | 2026-07-22 |
-| [credhub-release](https://github.com/canonical/credhub-release) | BOSH release of CredHub server | Ruby | 0 | Apache License 2.0 | 2026-07-21 | 2026-07-21 | 2026-07-22 |
+| [uaa-release](https://github.com/canonical/uaa-release) | Bosh Release for the UAA | Ruby | 0 | Apache License 2.0 | 2026-07-21 | 2026-07-22 | 2026-08-09 |
+| [credhub-release](https://github.com/canonical/credhub-release) | BOSH release of CredHub server | Ruby | 0 | Apache License 2.0 | 2026-07-21 | 2026-07-21 | 2026-08-09 |
 | [smollm2-snap-staging](https://github.com/canonical/smollm2-snap-staging) | None | Shell | 0 | GNU General Public License v3.0 | 2026-07-22 | 2026-07-30 | 2026-07-30 |
 | [checkbox-submanip](https://github.com/canonical/checkbox-submanip) | A continuation of the submanip program on launchpad. It's meant to be a graphical editor of checkbox submissions. Edited submissions SHOULD NOT be submitted to C3. | Python | 0 | - | 2026-07-23 | 2026-07-24 | 2026-07-24 |
 | [kubeflow-dashboard-rocks](https://github.com/canonical/kubeflow-dashboard-rocks) | None | Python | 0 | Apache License 2.0 | 2026-07-23 | 2026-07-23 | 2026-07-23 |
@@ -2707,7 +2707,7 @@
 | [charm-lib-interface-external-cloud-provider](https://github.com/charmed-kubernetes/charm-lib-interface-external-cloud-provider) | None | Python | 0 | Apache License 2.0 | 2023-10-26 | 2026-04-09 | 2026-07-13 |
 | [charm-gcp-cloud-provider](https://github.com/charmed-kubernetes/charm-gcp-cloud-provider) | None | Python | 0 | Apache License 2.0 | 2023-10-31 | 2026-04-09 | 2026-07-13 |
 | [ubuntu.com](https://github.com/charmed-kubernetes/ubuntu.com) | The official website for the Ubuntu operating system | None | 0 | Other | 2025-03-28 | 2025-03-28 | 2026-02-13 |
-| [gnome-shell-extension-appindicator](https://github.com/ubuntu/gnome-shell-extension-appindicator) | Adds KStatusNotifierItem support to the Shell | JavaScript | 1541 | GNU General Public License v2.0 | 2013-02-23 | 2026-08-07 | 2026-07-25 |
+| [gnome-shell-extension-appindicator](https://github.com/ubuntu/gnome-shell-extension-appindicator) | Adds KStatusNotifierItem support to the Shell | JavaScript | 1542 | GNU General Public License v2.0 | 2013-02-23 | 2026-08-08 | 2026-07-25 |
 | [ubuntu-make](https://github.com/ubuntu/ubuntu-make) | Easy setup of common tools for developers on Ubuntu. | HTML | 1236 | GNU General Public License v3.0 | 2014-06-04 | 2026-08-04 | 2026-03-17 |
 | [font-ubuntu](https://github.com/ubuntu/font-ubuntu) | Polymer imports for ubuntu fonts. | HTML | 18 | - | 2015-09-15 | 2026-07-20 | 2016-04-01 |
 | [python-seamicroclient](https://github.com/ubuntu/python-seamicroclient) | None | Python | 5 | Other | 2015-11-12 | 2026-07-20 | 2015-11-16 |
@@ -2732,9 +2732,9 @@
 | [booth-demo-websites](https://github.com/ubuntu/booth-demo-websites) | Demo websites configuration for Ubuntu Demo manager | None | 4 | MIT License | 2017-03-16 | 2026-07-20 | 2017-03-16 |
 | [tutorial-deployment](https://github.com/ubuntu/tutorial-deployment) | Tutorial deployment tools | Go | 11 | GNU General Public License v3.0 | 2017-03-23 | 2026-07-20 | 2018-02-01 |
 | [snap-theme-examples](https://github.com/ubuntu/snap-theme-examples) | Experimenting some snap themes possible syntax | None | 3 | - | 2017-06-15 | 2026-07-20 | 2017-06-15 |
-| [lightdm](https://github.com/ubuntu/lightdm) | Display Manager | C | 973 | GNU General Public License v3.0 | 2017-09-29 | 2026-08-07 | 2026-08-06 |
+| [lightdm](https://github.com/ubuntu/lightdm) | Display Manager | C | 974 | GNU General Public License v3.0 | 2017-09-29 | 2026-08-08 | 2026-08-06 |
 | [gnome-shell-communitheme](https://github.com/ubuntu/gnome-shell-communitheme) | GNOME Shell Ubuntu community theme "communitheme" | CSS | 142 | GNU General Public License v2.0 | 2017-11-22 | 2026-07-20 | 2018-07-26 |
-| [yaru](https://github.com/ubuntu/yaru) | All Ubuntu Yaru GNOME themes | SCSS | 1542 | GNU General Public License v3.0 | 2017-11-27 | 2026-08-07 | 2026-08-01 |
+| [yaru](https://github.com/ubuntu/yaru) | All Ubuntu Yaru GNOME themes | SCSS | 1543 | GNU General Public License v3.0 | 2017-11-27 | 2026-08-08 | 2026-08-01 |
 | [suru-icon-theme](https://github.com/ubuntu/suru-icon-theme) | Suru Icon Theme | Python | 16 | Other | 2017-12-07 | 2026-07-20 | 2018-07-26 |
 | [communitheme-sounds](https://github.com/ubuntu/communitheme-sounds) | The Ubuntu community sound theme "Communitheme" | Meson | 8 | Other | 2018-01-29 | 2026-07-20 | 2018-07-26 |
 | [ubuntu-report](https://github.com/ubuntu/ubuntu-report) | Report hardware and other collected metrics like installer or upgrade information | Go | 74 | GNU General Public License v3.0 | 2018-03-09 | 2026-07-20 | 2026-01-27 |
@@ -2750,7 +2750,7 @@
 | [zsys](https://github.com/ubuntu/zsys) | ZSys daemon and client for zfs systems | Go | 303 | GNU General Public License v3.0 | 2019-06-17 | 2026-07-20 | 2024-04-19 |
 | [dev-scripts-ubuntu](https://github.com/ubuntu/dev-scripts-ubuntu) | Random scripts for doing Ubuntu work | Python | 7 | - | 2019-07-05 | 2026-07-20 | 2019-07-05 |
 | [homebrew-microk8s](https://github.com/ubuntu/homebrew-microk8s) | Homebrew MicroK8s repo for the MacOS installer | Ruby | 8 | Apache License 2.0 | 2020-02-20 | 2026-07-20 | 2023-10-23 |
-| [libreoffice-style-yaru-fullcolor](https://github.com/ubuntu/libreoffice-style-yaru-fullcolor) | A fullcolor icon pack for Libreoffice of the awesome Yaru theme | Shell | 78 | Creative Commons Attribution Share Alike 4.0 International | 2020-03-15 | 2026-08-01 | 2026-08-04 |
+| [libreoffice-style-yaru-fullcolor](https://github.com/ubuntu/libreoffice-style-yaru-fullcolor) | A fullcolor icon pack for Libreoffice of the awesome Yaru theme | Shell | 78 | Creative Commons Attribution Share Alike 4.0 International | 2020-03-15 | 2026-08-01 | 2026-08-08 |
 | [snap-tools](https://github.com/ubuntu/snap-tools) | Tools useful for snap maintenance by the ~ubuntu-desktop team | Shell | 6 | - | 2020-05-05 | 2026-07-20 | 2025-07-06 |
 | [kstore](https://github.com/ubuntu/kstore) | Key store | C | 5 | - | 2020-06-29 | 2026-07-20 | 2020-07-22 |
 | [archive_yaru.dart](https://github.com/ubuntu/archive_yaru.dart) | Ubuntu Yaru Flutter Theme | Dart | 329 | Mozilla Public License 2.0 | 2020-09-08 | 2026-08-08 | 2024-02-21 |
@@ -2856,7 +2856,7 @@
 | [wiki-archives](https://github.com/ubuntu/wiki-archives) | Archives of Ubuntu wikis (2004-2026). The current wikis are scheduled to be deprecated in August 2026. Before that date, you can still access the Ubuntu wikis at their usual URLs. These archives are provided on GitHub as a convenience. | None | 5 | Creative Commons Attribution Share Alike 4.0 International | 2026-02-03 | 2026-07-20 | 2026-02-27 |
 | [ubuntu-manual-tests](https://github.com/ubuntu/ubuntu-manual-tests) | None | None | 2 | - | 2026-02-11 | 2026-07-20 | 2026-07-08 |
 | [startriage](https://github.com/ubuntu/startriage) | ubuntu bug triaging for launchpad, github, discourse | Python | 3 | GNU General Public License v3.0 | 2026-02-13 | 2026-07-29 | 2026-07-29 |
-| [ubuntu-release-notes](https://github.com/ubuntu/ubuntu-release-notes) | Release notes and release schedules for Ubuntu Linux. | None | 12 | Other | 2026-02-16 | 2026-07-24 | 2026-07-24 |
+| [ubuntu-release-notes](https://github.com/ubuntu/ubuntu-release-notes) | Release notes and release schedules for Ubuntu Linux. | None | 13 | Other | 2026-02-16 | 2026-08-08 | 2026-07-24 |
 | [ukpack](https://github.com/ubuntu/ukpack) | Create Ubuntu kernel packages from any kernel tree | Makefile | 5 | GNU General Public License v2.0 | 2026-03-04 | 2026-07-20 | 2026-07-03 |
 | [ubuntu-mediawiki-skin](https://github.com/ubuntu/ubuntu-mediawiki-skin) | Ubuntu skin for the new Ubuntu wiki that is coming in 2026. | Less | 7 | GNU General Public License v2.0 | 2026-03-18 | 2026-07-23 | 2026-08-03 |
 | [ubq](https://github.com/ubuntu/ubq) | Common Python library interface for interacting with services providing data on Ubuntu | Python | 4 | GNU General Public License v3.0 | 2026-04-23 | 2026-07-20 | 2026-07-10 |
