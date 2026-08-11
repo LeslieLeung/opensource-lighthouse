@@ -1,10 +1,10 @@
 # Sony
 
-A total of 146 projects, 41 active projects in the last six months, 1 teams, and 18357 stars.
+A total of 146 projects, 40 active projects in the last six months, 1 teams, and 18357 stars.
 
 Top 3 Languages: Python, C++, JavaScript
 
-Statistics Date: 2026-08-10 08:37:12
+Statistics Date: 2026-08-11 08:24:08
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
