@@ -1,14 +1,14 @@
 # Sony
 
-A total of 146 projects, 40 active projects in the last six months, 1 teams, and 18385 stars.
+A total of 146 projects, 39 active projects in the last six months, 1 teams, and 18387 stars.
 
 Top 3 Languages: Python, C++, JavaScript
 
-Statistics Date: 2026-08-22 08:08:52
+Statistics Date: 2026-08-23 08:09:24
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3686 | MIT License | 2015-05-29 | 2026-08-21 | 2026-02-07 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3687 | MIT License | 2015-05-29 | 2026-08-22 | 2026-02-07 |
 | [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4398 | MIT License | 2015-05-29 | 2026-08-21 | 2026-02-12 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
@@ -128,7 +128,7 @@ Statistics Date: 2026-08-22 08:08:52
 | [g2d2](https://github.com/sony/g2d2) | None | Python | 1 | Apache License 2.0 | 2025-08-25 | 2026-06-21 | 2025-08-27 |
 | [mocopi-receiver-plugin-unity](https://github.com/sony/mocopi-receiver-plugin-unity) | None | C# | 37 | Apache License 2.0 | 2025-08-26 | 2026-07-02 | 2025-12-22 |
 | [mocopi-receiver-plugin-motionbuilder](https://github.com/sony/mocopi-receiver-plugin-motionbuilder) | None | C++ | 5 | Apache License 2.0 | 2025-08-26 | 2026-03-13 | 2026-01-20 |
-| [mocopi-receiver-plugin-maya](https://github.com/sony/mocopi-receiver-plugin-maya) | None | C++ | 2 | Apache License 2.0 | 2025-08-26 | 2026-03-12 | 2026-01-29 |
+| [mocopi-receiver-plugin-maya](https://github.com/sony/mocopi-receiver-plugin-maya) | None | C++ | 3 | Apache License 2.0 | 2025-08-26 | 2026-08-23 | 2026-01-29 |
 | [mocopi-receiver-plugin-unrealengine](https://github.com/sony/mocopi-receiver-plugin-unrealengine) | None | C++ | 5 | Apache License 2.0 | 2025-08-26 | 2026-04-30 | 2026-01-29 |
 | [mocopi-receiver-plugin-blender](https://github.com/sony/mocopi-receiver-plugin-blender) | None | Python | 3 | Apache License 2.0 | 2025-08-26 | 2026-07-24 | 2026-07-24 |
 | [mocopi-motion-serializer](https://github.com/sony/mocopi-motion-serializer) | None | C++ | 14 | Apache License 2.0 | 2025-08-26 | 2026-07-06 | 2025-12-22 |
