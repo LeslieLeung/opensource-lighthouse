@@ -1,15 +1,15 @@
 # Sony
 
-共 146 个项目，近半年内活跃项目 39 个，1 个团队， 18387 个 Star。
+共 146 个项目，近半年内活跃项目 39 个，1 个团队， 18389 个 Star。
 
 语言 Top 3：Python, C++, JavaScript
 
-统计时间：2026-08-23 08:09:24
+统计时间：2026-08-24 08:19:20
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3687 | MIT License | 2015-05-29 | 2026-08-22 | 2026-02-07 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4398 | MIT License | 2015-05-29 | 2026-08-21 | 2026-02-12 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4400 | MIT License | 2015-05-29 | 2026-08-24 | 2026-02-12 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 420 | MIT License | 2015-09-18 | 2026-07-27 | 2020-12-29 |
@@ -89,7 +89,7 @@
 | [dual-pixel-disparity](https://github.com/sony/dual-pixel-disparity) | None | Python | 15 | MIT License | 2024-11-19 | 2026-08-03 | 2025-03-27 |
 | [openmu](https://github.com/sony/openmu) | None | Python | 8 | MIT License | 2024-11-27 | 2025-06-27 | 2024-12-26 |
 | [Hi-ResLDM](https://github.com/sony/Hi-ResLDM) | None | None | 6 | - | 2025-01-11 | 2025-10-28 | 2025-02-12 |
-| [stamp](https://github.com/sony/stamp) | None | TypeScript | 7 | MIT License | 2025-01-20 | 2026-07-22 | 2026-07-22 |
+| [stamp](https://github.com/sony/stamp) | None | TypeScript | 7 | MIT License | 2025-01-20 | 2026-08-24 | 2026-08-24 |
 | [ABA](https://github.com/sony/ABA) | Official Repo for The Paper "Adaptive Budget Optimization for Multichannel Advertising Using Combinatorial Bandits" (AAMAS'25) | Python | 2 | Other | 2025-01-21 | 2025-07-28 | 2025-02-18 |
 | [MambaPEFT](https://github.com/sony/MambaPEFT) | None | Python | 23 | Apache License 2.0 | 2025-01-24 | 2026-08-18 | 2025-03-27 |
 | [bl-flowsom_eval](https://github.com/sony/bl-flowsom_eval) | None | Jupyter Notebook | 0 | MIT License | 2025-01-28 | 2025-02-04 | 2025-02-04 |
