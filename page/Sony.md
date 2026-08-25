@@ -1,14 +1,14 @@
 # Sony
 
-共 146 个项目，近半年内活跃项目 39 个，1 个团队， 18389 个 Star。
+共 146 个项目，近半年内活跃项目 39 个，1 个团队， 18390 个 Star。
 
 语言 Top 3：Python, C++, JavaScript
 
-统计时间：2026-08-24 08:19:20
+统计时间：2026-08-25 08:17:50
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3687 | MIT License | 2015-05-29 | 2026-08-22 | 2026-02-07 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3687 | MIT License | 2015-05-29 | 2026-08-25 | 2026-02-07 |
 | [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4400 | MIT License | 2015-05-29 | 2026-08-24 | 2026-02-12 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
@@ -56,7 +56,7 @@
 | [polar-densification](https://github.com/sony/polar-densification) | None | Python | 34 | MIT License | 2022-09-13 | 2026-08-03 | 2023-03-24 |
 | [nnabla-js](https://github.com/sony/nnabla-js) | None | TypeScript | 1 | Apache License 2.0 | 2022-09-16 | 2026-07-29 | 2026-07-24 |
 | [DiffRoll](https://github.com/sony/DiffRoll) | PyTorch implementation of DiffRoll, a diffusion-based generative automatic music transcription (AMT) model | Jupyter Notebook | 81 | MIT License | 2022-10-11 | 2026-06-10 | 2023-12-06 |
-| [creativeai](https://github.com/sony/creativeai) | None | CSS | 81 | - | 2022-11-21 | 2026-08-22 | 2026-08-22 |
+| [creativeai](https://github.com/sony/creativeai) | None | CSS | 81 | - | 2022-11-21 | 2026-08-24 | 2026-08-24 |
 | [NDJIR](https://github.com/sony/NDJIR) | NDJIR: Neural Direct and Joint Inverse Rendering for Geometry, Lights, and Materials of Real Object | Python | 45 | Apache License 2.0 | 2022-12-14 | 2026-03-30 | 2023-02-08 |
 | [CLIPSep](https://github.com/sony/CLIPSep) | None | Python | 44 | MIT License | 2023-01-24 | 2026-08-07 | 2023-02-21 |
 | [audio-visual-seld-dcase2023](https://github.com/sony/audio-visual-seld-dcase2023) | Baseline method for audio-visual sound event localization and detection task of DCASE 2023 challenge | Python | 68 | MIT License | 2023-02-20 | 2026-06-25 | 2025-03-19 |
@@ -106,7 +106,7 @@
 | [EXID](https://github.com/sony/EXID) | Official implementation of Enhancing Generalization of Offline RL in Data-Limited Settings with Heuristic Rules (Accepted in IEEE TRANSACTIONS ON ARTIFICIAL INTELLIGENCE 2025) | Jupyter Notebook | 0 | MIT License | 2025-02-19 | 2025-02-27 | 2025-02-20 |
 | [humangif](https://github.com/sony/humangif) | None | Python | 1 | MIT License | 2025-02-25 | 2025-06-16 | 2025-02-27 |
 | [alice](https://github.com/sony/alice) | None | Jupyter Notebook | 1 | MIT License | 2025-03-10 | 2025-06-17 | 2025-03-10 |
-| [clews](https://github.com/sony/clews) | None | Python | 35 | MIT License | 2025-03-12 | 2026-08-20 | 2026-05-22 |
+| [clews](https://github.com/sony/clews) | None | Python | 36 | MIT License | 2025-03-12 | 2026-08-25 | 2026-05-22 |
 | [learning-feet-imu-locomotion](https://github.com/sony/learning-feet-imu-locomotion) | None | JavaScript | 0 | - | 2025-03-24 | 2025-04-11 | 2025-04-11 |
 | [di4c](https://github.com/sony/di4c) | None | Python | 11 | MIT License | 2025-04-02 | 2026-06-15 | 2026-02-17 |
 | [steermusic](https://github.com/sony/steermusic) | None | Python | 8 | MIT License | 2025-04-07 | 2026-02-25 | 2025-12-08 |
