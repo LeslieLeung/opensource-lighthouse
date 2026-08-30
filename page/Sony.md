@@ -1,10 +1,10 @@
 # Sony
 
-共 146 个项目，近半年内活跃项目 39 个，1 个团队， 18401 个 Star。
+共 146 个项目，近半年内活跃项目 37 个，1 个团队， 18403 个 Star。
 
 语言 Top 3：Python, C++, JavaScript
 
-统计时间：2026-08-29 08:17:52
+统计时间：2026-08-30 08:18:43
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -39,11 +39,11 @@
 | [ai-research-code](https://github.com/sony/ai-research-code) | None | Python | 357 | Apache License 2.0 | 2020-04-14 | 2026-07-21 | 2023-09-12 |
 | [nnabla-nas](https://github.com/sony/nnabla-nas) | Neural Architecture Search for Neural Network Libraries | Python | 64 | Apache License 2.0 | 2020-06-15 | 2026-07-29 | 2026-07-24 |
 | [micro-notifier](https://github.com/sony/micro-notifier) | Simplified Pusher Clone | Go | 14 | MIT License | 2020-09-06 | 2026-04-23 | 2025-12-28 |
-| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1344 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2026-07-28 | 2025-07-25 |
+| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1345 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2026-08-29 | 2025-07-25 |
 | [lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) | None | Python | 0 | MIT License | 2021-03-25 | 2021-05-13 | 2021-05-13 |
 | [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 131 | Apache License 2.0 | 2021-06-11 | 2026-08-18 | 2026-08-18 |
 | [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 109 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2026-05-21 | 2024-12-19 |
-| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 643 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2026-08-15 | 2025-07-09 |
+| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 644 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2026-08-29 | 2025-07-09 |
 | [flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) | Flutter plugins for embedded Linux (eLinux) | C++ | 61 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2026-05-18 | 2024-12-13 |
 | [ds-research-code](https://github.com/sony/ds-research-code) | None | Python | 6 | - | 2021-07-19 | 2026-06-14 | 2026-03-27 |
 | [pyIEOE](https://github.com/sony/pyIEOE) | None | Python | 32 | MIT License | 2021-07-20 | 2025-07-22 | 2025-02-21 |
