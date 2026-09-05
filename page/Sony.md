@@ -1,10 +1,10 @@
 # Sony
 
-共 146 个项目，近半年内活跃项目 38 个，1 个团队， 18420 个 Star。
+共 146 个项目，近半年内活跃项目 38 个，1 个团队， 18421 个 Star。
 
 语言 Top 3：Python, C++, JavaScript
 
-统计时间：2026-09-04 08:21:59
+统计时间：2026-09-05 08:18:53
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -59,7 +59,7 @@
 | [creativeai](https://github.com/sony/creativeai) | None | CSS | 80 | - | 2022-11-21 | 2026-08-26 | 2026-08-24 |
 | [NDJIR](https://github.com/sony/NDJIR) | NDJIR: Neural Direct and Joint Inverse Rendering for Geometry, Lights, and Materials of Real Object | Python | 45 | Apache License 2.0 | 2022-12-14 | 2026-03-30 | 2023-02-08 |
 | [CLIPSep](https://github.com/sony/CLIPSep) | None | Python | 44 | MIT License | 2023-01-24 | 2026-08-07 | 2023-02-21 |
-| [audio-visual-seld-dcase2023](https://github.com/sony/audio-visual-seld-dcase2023) | Baseline method for audio-visual sound event localization and detection task of DCASE 2023 challenge | Python | 68 | MIT License | 2023-02-20 | 2026-06-25 | 2025-03-19 |
+| [audio-visual-seld-dcase2023](https://github.com/sony/audio-visual-seld-dcase2023) | Baseline method for audio-visual sound event localization and detection task of DCASE 2023 challenge | Python | 69 | MIT License | 2023-02-20 | 2026-09-04 | 2025-03-19 |
 | [evsCluster](https://github.com/sony/evsCluster) | Python scripts to process EVS (Event-based vision sensor) data | Python | 12 | Other | 2023-03-15 | 2026-06-01 | 2024-01-30 |
 | [Instruct3Dto3D-doc](https://github.com/sony/Instruct3Dto3D-doc) | Official documentation of Instruct 3D-to-3D | HTML | 2 | - | 2023-03-23 | 2024-10-31 | 2024-10-31 |
 | [pixel-guided-diffusion](https://github.com/sony/pixel-guided-diffusion) | Fine-grained Image Editing by Pixel-wise Guidance Using Diffusion Models | Python | 42 | Apache License 2.0 | 2023-04-06 | 2026-08-17 | 2023-06-09 |
