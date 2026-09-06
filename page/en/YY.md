@@ -1,10 +1,10 @@
 # YY
 
-A total of 40 projects, 0 active projects in the last six months, 1 teams, and 1160 stars.
+A total of 40 projects, 0 active projects in the last six months, 1 teams, and 1159 stars.
 
 Top 3 Languages: JavaScript, Objective-C, CSS
 
-Statistics Date: 2026-09-05 08:18:53
+Statistics Date: 2026-09-06 08:19:02
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -16,7 +16,7 @@ Statistics Date: 2026-09-05 08:18:53
 | [CRChecker](https://github.com/yyued/CRChecker) | CRChecker is a debug tool, helps you find out circular reference problem. | Objective-C | 39 | MIT License | 2014-12-25 | 2019-08-13 | 2015-03-24 |
 | [PSD-Etiquette](https://github.com/yyued/PSD-Etiquette) | PSD图层管理指南 | None | 2 | GNU General Public License v2.0 | 2014-12-31 | 2017-07-06 | 2014-12-31 |
 | [LegoUI-pc](https://github.com/yyued/LegoUI-pc) | LegoUI, 一套基于BEM的轻量级前端UI库 | CSS | 8 | MIT License | 2015-01-06 | 2021-07-26 | 2015-12-28 |
-| [XCode-Color-Fixer](https://github.com/yyued/XCode-Color-Fixer) | StoryBoard / XIB 颜色偏差很严重，怎么破？XCode-Color-Fixer帮你忙！ | Objective-C | 125 | MIT License | 2015-03-24 | 2022-06-17 | 2015-03-24 |
+| [XCode-Color-Fixer](https://github.com/yyued/XCode-Color-Fixer) | StoryBoard / XIB 颜色偏差很严重，怎么破？XCode-Color-Fixer帮你忙！ | Objective-C | 124 | MIT License | 2015-03-24 | 2026-09-05 | 2015-03-24 |
 | [fe-guide](https://github.com/yyued/fe-guide) | Joyy UED 前端规范指南 | None | 91 | GNU General Public License v2.0 | 2015-04-27 | 2024-11-01 | 2021-09-18 |
 | [fe-solution](https://github.com/yyued/fe-solution) | 前端解决方案 | JavaScript | 2 | GNU General Public License v2.0 | 2015-04-27 | 2017-07-06 | 2015-04-28 |
 | [document-template](https://github.com/yyued/document-template) | The project document template | None | 1 | GNU General Public License v2.0 | 2015-05-08 | 2017-07-07 | 2015-05-08 |
