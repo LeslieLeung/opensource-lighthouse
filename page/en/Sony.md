@@ -1,15 +1,15 @@
 # Sony
 
-A total of 147 projects, 39 active projects in the last six months, 1 teams, and 18443 stars.
+A total of 147 projects, 39 active projects in the last six months, 1 teams, and 18450 stars.
 
 Top 3 Languages: Python, C++, JavaScript
 
-Statistics Date: 2026-09-13 08:19:06
+Statistics Date: 2026-09-14 08:25:05
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3693 | MIT License | 2015-05-29 | 2026-09-07 | 2026-02-07 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4411 | MIT License | 2015-05-29 | 2026-09-10 | 2026-02-12 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3694 | MIT License | 2015-05-29 | 2026-09-13 | 2026-02-07 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4412 | MIT License | 2015-05-29 | 2026-09-13 | 2026-02-12 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 420 | MIT License | 2015-09-18 | 2026-07-27 | 2020-12-29 |
@@ -23,8 +23,8 @@ Statistics Date: 2026-09-13 08:19:06
 | [nnabla-ext-cuda](https://github.com/sony/nnabla-ext-cuda) | A CUDA Extension of Neural Network Libraries | Cuda | 91 | Apache License 2.0 | 2017-06-21 | 2026-07-29 | 2026-07-24 |
 | [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2773 | Apache License 2.0 | 2017-06-26 | 2026-09-04 | 2026-07-24 |
 | [easyhttpcpp](https://github.com/sony/easyhttpcpp) | A cross-platform HTTP client library with a focus on usability and speed | C++ | 176 | MIT License | 2017-08-09 | 2026-07-28 | 2022-01-31 |
-| [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 190 | Apache License 2.0 | 2017-09-07 | 2026-09-05 | 2026-09-03 |
-| [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 49 | Apache License 2.0 | 2017-09-07 | 2026-09-06 | 2026-09-08 |
+| [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 192 | Apache License 2.0 | 2017-09-07 | 2026-09-14 | 2026-09-03 |
+| [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 50 | Apache License 2.0 | 2017-09-07 | 2026-09-13 | 2026-09-08 |
 | [cdp-js](https://github.com/sony/cdp-js) | Libraries/SDK modules for multi-platform application development | TypeScript | 22 | Apache License 2.0 | 2017-10-10 | 2024-02-11 | 2018-05-10 |
 | [cdp-lib](https://github.com/sony/cdp-lib) | Application template/libraries for cdp-js (Details: see cdp-js repository) | JavaScript | 6 | Apache License 2.0 | 2017-10-10 | 2017-11-13 | 2018-02-23 |
 | [cdp-cli](https://github.com/sony/cdp-cli) | Command line tools for generating start point of multi-platform application development (Details: see cdp-js repository) | HTML | 7 | Apache License 2.0 | 2017-10-10 | 2020-12-13 | 2018-07-13 |
@@ -132,7 +132,7 @@ Statistics Date: 2026-09-13 08:19:06
 | [mocopi-receiver-plugin-unrealengine](https://github.com/sony/mocopi-receiver-plugin-unrealengine) | None | C++ | 5 | Apache License 2.0 | 2025-08-26 | 2026-09-04 | 2026-09-04 |
 | [mocopi-receiver-plugin-blender](https://github.com/sony/mocopi-receiver-plugin-blender) | None | Python | 5 | Apache License 2.0 | 2025-08-26 | 2026-09-12 | 2026-09-11 |
 | [mocopi-motion-serializer](https://github.com/sony/mocopi-motion-serializer) | None | C++ | 14 | Apache License 2.0 | 2025-08-26 | 2026-07-06 | 2025-12-22 |
-| [LibriTTS-VI](https://github.com/sony/LibriTTS-VI) | None | None | 8 | - | 2025-09-02 | 2026-06-08 | 2026-06-08 |
+| [LibriTTS-VI](https://github.com/sony/LibriTTS-VI) | None | None | 8 | Other | 2025-09-02 | 2026-09-14 | 2026-09-14 |
 | [oms](https://github.com/sony/oms) | Official Repo for The Paper "OMS: On-the-fly, Multi-Objective, Self-Reflective Ad Keyword Generation via LLM Agent” (EMNLP’25-main) | Python | 0 | MIT License | 2025-09-11 | 2025-09-26 | 2025-09-26 |
 | [mimo](https://github.com/sony/mimo) | Official Repo for The Paper "Mirror in the Model: Ad Banner Image Generation via Reflective Multi-LLM and Multi-modal Agents” (EMNLP’25-Industry) | Python | 0 | MIT License | 2025-09-11 | 2025-12-17 | 2025-09-26 |
 | [multi-plane-segmentation-gpu](https://github.com/sony/multi-plane-segmentation-gpu) | None | JavaScript | 0 | - | 2025-09-26 | 2025-10-03 | 2025-10-03 |
@@ -153,5 +153,5 @@ Statistics Date: 2026-09-13 08:19:06
 | [mucs](https://github.com/sony/mucs) | Code for the paper “Training Data Attribution in Diffusion Models via Mirrored Unlearning and Noise-Consistent Skew” | Python | 5 | Apache License 2.0 | 2026-05-22 | 2026-07-28 | 2026-06-09 |
 | [guda](https://github.com/sony/guda) | None | Python | 1 | MIT License | 2026-05-27 | 2026-05-29 | 2026-05-29 |
 | [MusTBench](https://github.com/sony/MusTBench) | None | Python | 12 | MIT License | 2026-06-08 | 2026-09-03 | 2026-08-03 |
-| [mocopi-receiver-plugin-3dsmax](https://github.com/sony/mocopi-receiver-plugin-3dsmax) | None | C++ | 2 | Apache License 2.0 | 2026-06-23 | 2026-09-11 | 2026-07-17 |
-| [as-dt1-ros2-driver](https://github.com/sony/as-dt1-ros2-driver) | None | C++ | 0 | Apache License 2.0 | 2026-09-04 | 2026-09-10 | 2026-09-10 |
+| [mocopi-receiver-plugin-3dsmax](https://github.com/sony/mocopi-receiver-plugin-3dsmax) | None | C++ | 3 | Apache License 2.0 | 2026-06-23 | 2026-09-13 | 2026-07-17 |
+| [as-dt1-ros2-driver](https://github.com/sony/as-dt1-ros2-driver) | None | C++ | 1 | Apache License 2.0 | 2026-09-04 | 2026-09-14 | 2026-09-10 |
