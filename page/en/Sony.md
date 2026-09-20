@@ -1,10 +1,10 @@
 # Sony
 
-A total of 147 projects, 38 active projects in the last six months, 1 teams, and 18465 stars.
+A total of 147 projects, 38 active projects in the last six months, 1 teams, and 18468 stars.
 
 Top 3 Languages: Python, C++, JavaScript
 
-Statistics Date: 2026-09-19 08:19:11
+Statistics Date: 2026-09-20 08:19:50
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -42,8 +42,8 @@ Statistics Date: 2026-09-19 08:19:11
 | [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1352 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2026-09-17 | 2025-07-25 |
 | [lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) | None | Python | 0 | MIT License | 2021-03-25 | 2021-05-13 | 2021-05-13 |
 | [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 131 | Apache License 2.0 | 2021-06-11 | 2026-08-18 | 2026-08-18 |
-| [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 109 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2026-05-21 | 2024-12-19 |
-| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 647 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2026-09-12 | 2025-07-09 |
+| [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 110 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2026-09-19 | 2024-12-19 |
+| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 648 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2026-09-19 | 2025-07-09 |
 | [flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) | Flutter plugins for embedded Linux (eLinux) | C++ | 61 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2026-05-18 | 2024-12-13 |
 | [ds-research-code](https://github.com/sony/ds-research-code) | None | Python | 6 | - | 2021-07-19 | 2026-06-14 | 2026-03-27 |
 | [pyIEOE](https://github.com/sony/pyIEOE) | None | Python | 32 | MIT License | 2021-07-20 | 2025-07-22 | 2025-02-21 |
@@ -148,7 +148,7 @@ Statistics Date: 2026-09-19 08:19:11
 | [virtue](https://github.com/sony/virtue) | Official implementation of "VIRTUE: Visual-Interactive Text-Image Universal Embedder (ICLR 2026)" | Python | 5 | Apache License 2.0 | 2026-01-29 | 2026-06-30 | 2026-02-19 |
 | [B3-Seg-project](https://github.com/sony/B3-Seg-project) | None | None | 13 | - | 2026-02-18 | 2026-09-19 | 2026-05-27 |
 | [a_mpqc](https://github.com/sony/a_mpqc) | Official Repo for The Paper "Agentic Model Predictive Questioning Control  in Visual Design” (ICML’26) | Python | 1 | - | 2026-05-13 | 2026-07-05 | 2026-07-03 |
-| [SF-Mamba](https://github.com/sony/SF-Mamba) | None | Python | 2 | Apache License 2.0 | 2026-05-14 | 2026-07-09 | 2026-07-04 |
+| [SF-Mamba](https://github.com/sony/SF-Mamba) | None | Python | 3 | Apache License 2.0 | 2026-05-14 | 2026-09-20 | 2026-07-04 |
 | [web_gen_v_bench](https://github.com/sony/web_gen_v_bench) | Official Repo for The Paper "WebGen-V Bench: Structured Representation for Enhancing Visual Design in LLM-based Web Generation and Evaluation” (KDD’26) | Python | 2 | MIT License | 2026-05-19 | 2026-07-05 | 2026-06-10 |
 | [mucs](https://github.com/sony/mucs) | Code for the paper “Training Data Attribution in Diffusion Models via Mirrored Unlearning and Noise-Consistent Skew” | Python | 5 | Apache License 2.0 | 2026-05-22 | 2026-07-28 | 2026-06-09 |
 | [guda](https://github.com/sony/guda) | None | Python | 1 | MIT License | 2026-05-27 | 2026-05-29 | 2026-05-29 |
