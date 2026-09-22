@@ -1,10 +1,10 @@
 # Sony
 
-共 147 个项目，近半年内活跃项目 38 个，1 个团队， 18475 个 Star。
+共 147 个项目，近半年内活跃项目 38 个，1 个团队， 18476 个 Star。
 
 语言 Top 3：Python, C++, JavaScript
 
-统计时间：2026-09-21 08:25:01
+统计时间：2026-09-22 08:22:16
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -146,7 +146,7 @@
 | [FCM_Large_Particles](https://github.com/sony/FCM_Large_Particles) | None | Jupyter Notebook | 0 | BSD 3-Clause "New" or "Revised" License | 2025-12-16 | 2025-12-22 | 2025-12-22 |
 | [MSA-bench](https://github.com/sony/MSA-bench) | Pytorch implementation of "Do Foundational Audio Encoders Understand Music Structure?" presented in ICASSP 2026. | Python | 4 | MIT License | 2026-01-21 | 2026-07-13 | 2026-04-10 |
 | [virtue](https://github.com/sony/virtue) | Official implementation of "VIRTUE: Visual-Interactive Text-Image Universal Embedder (ICLR 2026)" | Python | 5 | Apache License 2.0 | 2026-01-29 | 2026-06-30 | 2026-02-19 |
-| [B3-Seg-project](https://github.com/sony/B3-Seg-project) | None | None | 13 | - | 2026-02-18 | 2026-09-19 | 2026-05-27 |
+| [B3-Seg-project](https://github.com/sony/B3-Seg-project) | None | None | 14 | - | 2026-02-18 | 2026-09-22 | 2026-05-27 |
 | [a_mpqc](https://github.com/sony/a_mpqc) | Official Repo for The Paper "Agentic Model Predictive Questioning Control  in Visual Design” (ICML’26) | Python | 1 | - | 2026-05-13 | 2026-07-05 | 2026-07-03 |
 | [SF-Mamba](https://github.com/sony/SF-Mamba) | None | Python | 3 | Apache License 2.0 | 2026-05-14 | 2026-09-20 | 2026-07-04 |
 | [web_gen_v_bench](https://github.com/sony/web_gen_v_bench) | Official Repo for The Paper "WebGen-V Bench: Structured Representation for Enhancing Visual Design in LLM-based Web Generation and Evaluation” (KDD’26) | Python | 2 | MIT License | 2026-05-19 | 2026-07-05 | 2026-06-10 |
