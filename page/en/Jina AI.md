@@ -1,10 +1,10 @@
 # Jina AI
 
-A total of 266 projects, 17 active projects in the last six months, 1 teams, and 73866 stars.
+A total of 266 projects, 17 active projects in the last six months, 1 teams, and 73873 stars.
 
 Top 3 Languages: Python, TypeScript, Jupyter Notebook
 
-Statistics Date: 2026-09-23 08:22:10
+Statistics Date: 2026-09-24 08:23:06
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -236,11 +236,11 @@ Statistics Date: 2026-09-23 08:22:10
 | [ColBERT](https://github.com/jina-ai/ColBERT) | ColBERT: state-of-the-art neural search (SIGIR'20, TACL'21, NeurIPS'21, NAACL'22, CIKM'22, ACL'23, EMNLP'23) | Python | 6 | MIT License | 2024-02-02 | 2025-06-11 | 2024-05-17 |
 | [paper-sag](https://github.com/jina-ai/paper-sag) | None | None | 0 | - | 2024-02-23 | 2024-02-23 | 2024-02-23 |
 | [csp-examples](https://github.com/jina-ai/csp-examples) | None | Jupyter Notebook | 2 | - | 2024-04-09 | 2026-08-22 | 2026-08-20 |
-| [reader](https://github.com/jina-ai/reader) | Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/ | TypeScript | 12034 | Apache License 2.0 | 2024-04-10 | 2026-09-23 | 2026-05-22 |
+| [reader](https://github.com/jina-ai/reader) | Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/ | TypeScript | 12038 | Apache License 2.0 | 2024-04-10 | 2026-09-24 | 2026-05-22 |
 | [puppeteer-extra-plugin-page-proxy](https://github.com/jina-ai/puppeteer-extra-plugin-page-proxy) | Additional module to use with 'puppeteer' for setting proxies per page basis. | None | 3 | - | 2024-04-23 | 2025-04-04 | 2024-10-29 |
 | [terminal-news](https://github.com/jina-ai/terminal-news) | Access Jina AI news via ssh guest@news.jina.ai | Python | 12 | Apache License 2.0 | 2024-05-03 | 2026-06-26 | 2024-05-03 |
 | [chunking](https://github.com/jina-ai/chunking) | None | Python | 7 | - | 2024-06-23 | 2025-04-13 | 2024-07-10 |
-| [late-chunking](https://github.com/jina-ai/late-chunking) | Code for explaining and evaluating late chunking (chunked pooling) | Python | 538 | Apache License 2.0 | 2024-08-06 | 2026-08-30 | 2024-12-23 |
+| [late-chunking](https://github.com/jina-ai/late-chunking) | Code for explaining and evaluating late chunking (chunked pooling) | Python | 539 | Apache License 2.0 | 2024-08-06 | 2026-09-23 | 2024-12-23 |
 | [vllm](https://github.com/jina-ai/vllm) | A high-throughput and memory-efficient inference and serving engine for LLMs | Python | 3 | Apache License 2.0 | 2024-08-29 | 2025-04-04 | 2025-01-17 |
 | [meta-prompt](https://github.com/jina-ai/meta-prompt) | For LLMs to better code with Jina API | HTML | 186 | Apache License 2.0 | 2024-10-28 | 2026-09-16 | 2026-09-15 |
 | [llm-query-expansion](https://github.com/jina-ai/llm-query-expansion) | Query Expension for Better Query Embedding using LLMs | Python | 73 | Apache License 2.0 | 2025-01-17 | 2026-07-20 | 2025-02-18 |
@@ -266,10 +266,10 @@ Statistics Date: 2026-09-23 08:22:10
 | [jina-grep-cli](https://github.com/jina-ai/jina-grep-cli) | Semantic grep powered by Jina embeddings v5 (MLX on Apple Silicon) | Python | 246 | Apache License 2.0 | 2026-02-26 | 2026-09-21 | 2026-05-13 |
 | [embedding-fingerprints](https://github.com/jina-ai/embedding-fingerprints) | Identify which embedding model produced a vector using digit-level tokenization and a tiny transformer | Python | 23 | - | 2026-03-07 | 2026-08-19 | 2026-03-07 |
 | [OmniDocBench](https://github.com/jina-ai/OmniDocBench) | [CVPR 2025] A Comprehensive Benchmark for Document Parsing and Evaluation | Python | 3 | Apache License 2.0 | 2026-03-10 | 2026-08-19 | 2026-08-19 |
-| [wikipedia-vector-demo](https://github.com/jina-ai/wikipedia-vector-demo) | None | TypeScript | 5 | Apache License 2.0 | 2026-03-10 | 2026-04-26 | 2026-04-07 |
+| [wikipedia-vector-demo](https://github.com/jina-ai/wikipedia-vector-demo) | None | TypeScript | 6 | Apache License 2.0 | 2026-03-10 | 2026-09-23 | 2026-04-07 |
 | [audio-embedding-kickstarter](https://github.com/jina-ai/audio-embedding-kickstarter) | None | Python | 11 | - | 2026-03-11 | 2026-08-31 | 2026-03-11 |
 | [MMTEB-MCP](https://github.com/jina-ai/MMTEB-MCP) | None | Python | 2 | - | 2026-03-13 | 2026-04-26 | 2026-04-02 |
-| [cli](https://github.com/jina-ai/cli) | All Jina AI APIs as Unix CLI commands. Search, read, embed, rerank - with pipes. | Python | 173 | Apache License 2.0 | 2026-03-13 | 2026-09-14 | 2026-08-03 |
+| [cli](https://github.com/jina-ai/cli) | All Jina AI APIs as Unix CLI commands. Search, read, embed, rerank - with pipes. | Python | 174 | Apache License 2.0 | 2026-03-13 | 2026-09-23 | 2026-08-03 |
 | [olmocr-bench](https://github.com/jina-ai/olmocr-bench) | None | Python | 2 | - | 2026-03-16 | 2026-06-30 | 2026-03-17 |
 | [mteb-rteb-news](https://github.com/jina-ai/mteb-rteb-news) | MTEB: Massive Text Embedding Benchmark | None | 0 | Apache License 2.0 | 2026-04-27 | 2026-04-27 | 2026-04-30 |
 | [jina-on-prem](https://github.com/jina-ai/jina-on-prem) | Air-gapped deployment toolkit for Jina AI models | Python | 17 | - | 2026-05-21 | 2026-09-14 | 2026-09-14 |
