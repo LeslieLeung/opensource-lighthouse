@@ -1,10 +1,10 @@
 # Sony
 
-共 147 个项目，近半年内活跃项目 37 个，1 个团队， 18483 个 Star。
+共 147 个项目，近半年内活跃项目 37 个，1 个团队， 18484 个 Star。
 
 语言 Top 3：Python, C++, JavaScript
 
-统计时间：2026-09-25 08:22:48
+统计时间：2026-09-26 08:20:31
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -24,7 +24,7 @@
 | [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2773 | Apache License 2.0 | 2017-06-26 | 2026-09-04 | 2026-07-24 |
 | [easyhttpcpp](https://github.com/sony/easyhttpcpp) | A cross-platform HTTP client library with a focus on usability and speed | C++ | 176 | MIT License | 2017-08-09 | 2026-09-16 | 2022-01-31 |
 | [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 194 | Apache License 2.0 | 2017-09-07 | 2026-09-22 | 2026-09-03 |
-| [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 50 | Apache License 2.0 | 2017-09-07 | 2026-09-24 | 2026-09-24 |
+| [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 50 | Apache License 2.0 | 2017-09-07 | 2026-09-25 | 2026-09-25 |
 | [cdp-js](https://github.com/sony/cdp-js) | Libraries/SDK modules for multi-platform application development | TypeScript | 22 | Apache License 2.0 | 2017-10-10 | 2024-02-11 | 2018-05-10 |
 | [cdp-lib](https://github.com/sony/cdp-lib) | Application template/libraries for cdp-js (Details: see cdp-js repository) | JavaScript | 6 | Apache License 2.0 | 2017-10-10 | 2017-11-13 | 2018-02-23 |
 | [cdp-cli](https://github.com/sony/cdp-cli) | Command line tools for generating start point of multi-platform application development (Details: see cdp-js repository) | HTML | 7 | Apache License 2.0 | 2017-10-10 | 2020-12-13 | 2018-07-13 |
@@ -55,7 +55,7 @@
 | [FxNorm-automix](https://github.com/sony/FxNorm-automix) | FxNorm-Automix - Implementation of automatic music mixing systems. We show how we can use wet music data and repurpose it to train a fully automatic mixing system | Python | 148 | MIT License | 2022-08-05 | 2026-09-03 | 2024-03-11 |
 | [polar-densification](https://github.com/sony/polar-densification) | None | Python | 34 | MIT License | 2022-09-13 | 2026-08-03 | 2023-03-24 |
 | [nnabla-js](https://github.com/sony/nnabla-js) | None | TypeScript | 1 | Apache License 2.0 | 2022-09-16 | 2026-07-29 | 2026-07-24 |
-| [DiffRoll](https://github.com/sony/DiffRoll) | PyTorch implementation of DiffRoll, a diffusion-based generative automatic music transcription (AMT) model | Jupyter Notebook | 81 | MIT License | 2022-10-11 | 2026-06-10 | 2023-12-06 |
+| [DiffRoll](https://github.com/sony/DiffRoll) | PyTorch implementation of DiffRoll, a diffusion-based generative automatic music transcription (AMT) model | Jupyter Notebook | 82 | MIT License | 2022-10-11 | 2026-09-26 | 2023-12-06 |
 | [creativeai](https://github.com/sony/creativeai) | None | CSS | 80 | - | 2022-11-21 | 2026-08-26 | 2026-08-24 |
 | [NDJIR](https://github.com/sony/NDJIR) | NDJIR: Neural Direct and Joint Inverse Rendering for Geometry, Lights, and Materials of Real Object | Python | 45 | Apache License 2.0 | 2022-12-14 | 2026-03-30 | 2023-02-08 |
 | [CLIPSep](https://github.com/sony/CLIPSep) | None | Python | 44 | MIT License | 2023-01-24 | 2026-08-07 | 2023-02-21 |
