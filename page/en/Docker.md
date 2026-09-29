@@ -1,72 +1,72 @@
 # Docker
 
-A total of 153 projects, 103 active projects in the last six months, 1 teams, and 164289 stars.
+A total of 153 projects, 103 active projects in the last six months, 1 teams, and 164386 stars.
 
 Top 3 Languages: Go, TypeScript, Shell
 
-Statistics Date: 2026-09-28 08:29:43
+Statistics Date: 2026-09-29 08:23:28
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [docker-py](https://github.com/docker/docker-py) | A Python library for the Docker Engine API | Python | 7214 | Apache License 2.0 | 2013-05-23 | 2026-09-27 | 2026-09-22 |
-| [compose](https://github.com/docker/compose) | Define and run multi-container applications with Docker | Go | 38263 | Apache License 2.0 | 2013-12-09 | 2026-09-28 | 2026-09-25 |
-| [docker-bench-security](https://github.com/docker/docker-bench-security) | The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production. | Shell | 9697 | Apache License 2.0 | 2015-05-11 | 2026-09-25 | 2026-06-04 |
+| [compose](https://github.com/docker/compose) | Define and run multi-container applications with Docker | Go | 38273 | Apache License 2.0 | 2013-12-09 | 2026-09-29 | 2026-09-25 |
+| [docker-bench-security](https://github.com/docker/docker-bench-security) | The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production. | Shell | 9699 | Apache License 2.0 | 2015-05-11 | 2026-09-29 | 2026-06-04 |
 | [whalesay](https://github.com/docker/whalesay) | A repository in support of the Docker's official whalesay image | Perl | 39 | Other | 2015-06-01 | 2026-05-27 | 2017-06-22 |
 | [hub-feedback](https://github.com/docker/hub-feedback) | Feedback and bug reports for the Docker Hub | None | 247 | - | 2015-06-03 | 2026-07-30 | 2026-06-04 |
 | [opensource](https://github.com/docker/opensource) | Contains documentation and scripts related to the management of Open Source at Docker | Go | 66 | - | 2015-06-07 | 2026-05-20 | 2022-12-07 |
 | [libkv](https://github.com/docker/libkv) | Distributed key/value store abstraction library | Go | 848 | Apache License 2.0 | 2015-06-08 | 2026-09-24 | 2026-06-04 |
 | [go-units](https://github.com/docker/go-units) | Parse and print size and time units in human-readable format | Go | 245 | Apache License 2.0 | 2015-12-15 | 2026-09-14 | 2026-04-15 |
 | [go-plugins-helpers](https://github.com/docker/go-plugins-helpers) | Go helper packages to extend the Docker Engine | Go | 342 | Apache License 2.0 | 2015-12-16 | 2026-09-25 | 2024-07-01 |
-| [go-connections](https://github.com/docker/go-connections) | Utility package to work with network connections | Go | 230 | Apache License 2.0 | 2015-12-17 | 2026-09-07 | 2026-07-27 |
+| [go-connections](https://github.com/docker/go-connections) | Utility package to work with network connections | Go | 231 | Apache License 2.0 | 2015-12-17 | 2026-09-28 | 2026-07-27 |
 | [notary-official-images](https://github.com/docker/notary-official-images) | None | Shell | 16 | - | 2016-02-01 | 2026-06-04 | 2024-08-23 |
-| [docker-credential-helpers](https://github.com/docker/docker-credential-helpers) | Programs to keep Docker login credentials safe by storing in platform keystores | Go | 1318 | MIT License | 2016-02-08 | 2026-09-25 | 2026-09-23 |
-| [go-events](https://github.com/docker/go-events) | Composable event distribution for Go | Go | 135 | Apache License 2.0 | 2016-03-23 | 2026-09-23 | 2026-09-23 |
+| [docker-credential-helpers](https://github.com/docker/docker-credential-helpers) | Programs to keep Docker login credentials safe by storing in platform keystores | Go | 1319 | MIT License | 2016-02-08 | 2026-09-29 | 2026-09-23 |
+| [go-events](https://github.com/docker/go-events) | Composable event distribution for Go | Go | 135 | Apache License 2.0 | 2016-03-23 | 2026-09-23 | 2026-09-28 |
 | [code-of-conduct](https://github.com/docker/code-of-conduct) | None | None | 52 | - | 2016-04-22 | 2026-08-24 | 2024-11-19 |
 | [for-mac](https://github.com/docker/for-mac) | Bug reports for Docker Desktop for Mac | None | 2530 | - | 2016-07-28 | 2026-09-19 | 2026-03-02 |
 | [for-win](https://github.com/docker/for-win) | Bug reports for Docker Desktop for Windows | None | 1948 | - | 2016-07-28 | 2026-09-21 | 2026-02-26 |
 | [go-metrics](https://github.com/docker/go-metrics) | Package for metrics collection in Docker projects | Go | 89 | Apache License 2.0 | 2016-08-05 | 2026-08-28 | 2026-08-26 |
-| [docs](https://github.com/docker/docs) | Source repo for Docker's Documentation | Markdown | 4661 | Apache License 2.0 | 2016-08-15 | 2026-09-28 | 2026-09-27 |
+| [docs](https://github.com/docker/docs) | Source repo for Docker's Documentation | Markdown | 4660 | Apache License 2.0 | 2016-08-15 | 2026-09-28 | 2026-09-28 |
 | [cli](https://github.com/docker/cli) | The Docker CLI | Go | 6082 | Apache License 2.0 | 2017-04-12 | 2026-09-27 | 2026-09-25 |
 | [for-linux](https://github.com/docker/for-linux) | Docker Engine for Linux | None | 776 | - | 2017-05-15 | 2026-09-19 | 2022-12-13 |
 | [docker-ce-packaging](https://github.com/docker/docker-ce-packaging) | Packaging scripts for Docker CE | Makefile | 211 | Apache License 2.0 | 2017-05-20 | 2026-09-25 | 2026-09-09 |
-| [docker-install](https://github.com/docker/docker-install) | Docker installation script | Shell | 3182 | Apache License 2.0 | 2017-06-16 | 2026-09-26 | 2026-09-09 |
+| [docker-install](https://github.com/docker/docker-install) | Docker installation script | Shell | 3180 | Apache License 2.0 | 2017-06-16 | 2026-09-28 | 2026-09-09 |
 | [golang-cross](https://github.com/docker/golang-cross) | None | Dockerfile | 97 | - | 2017-07-05 | 2026-05-27 | 2020-12-06 |
 | [containerd-packaging](https://github.com/docker/containerd-packaging) | :warning: DEPRECATED: This repository is no longer used for containerd packaging.  The new location for containerd packaging is https://github.com/docker/packaging | Shell | 69 | Apache License 2.0 | 2018-04-23 | 2026-05-21 | 2025-12-01 |
 | [HttpOverStream](https://github.com/docker/HttpOverStream) | .NET library for using HTTP 1.1 over streams, especially Windows Named Pipes | C# | 38 | Apache License 2.0 | 2018-12-11 | 2026-05-27 | 2023-11-10 |
-| [buildx](https://github.com/docker/buildx) | Docker CLI plugin for extended build capabilities with BuildKit | Go | 4514 | Apache License 2.0 | 2019-03-22 | 2026-09-27 | 2026-09-26 |
+| [buildx](https://github.com/docker/buildx) | Docker CLI plugin for extended build capabilities with BuildKit | Go | 4515 | Apache License 2.0 | 2019-03-22 | 2026-09-29 | 2026-09-28 |
 | [getting-started](https://github.com/docker/getting-started) | Getting started with Docker | JavaScript | 3086 | Apache License 2.0 | 2020-02-03 | 2026-09-25 | 2026-06-12 |
-| [awesome-compose](https://github.com/docker/awesome-compose) | Awesome Docker Compose samples | HTML | 46423 | Creative Commons Zero v1.0 Universal | 2020-02-13 | 2026-09-28 | 2026-09-22 |
-| [build-push-action](https://github.com/docker/build-push-action) | GitHub Action to build and push Docker images with Buildx | TypeScript | 5409 | Apache License 2.0 | 2020-02-17 | 2026-09-26 | 2026-09-21 |
-| [roadmap](https://github.com/docker/roadmap) | Welcome to the Public Roadmap for All Things Docker! We welcome your ideas.  | None | 1918 | Creative Commons Zero v1.0 Universal | 2020-03-05 | 2026-09-24 | 2025-04-23 |
-| [login-action](https://github.com/docker/login-action) | GitHub Action to login against a Docker registry | TypeScript | 1491 | Apache License 2.0 | 2020-08-15 | 2026-09-27 | 2026-09-21 |
-| [setup-buildx-action](https://github.com/docker/setup-buildx-action) | GitHub Action to set up Docker Buildx | TypeScript | 1385 | Apache License 2.0 | 2020-08-18 | 2026-09-27 | 2026-09-21 |
-| [setup-qemu-action](https://github.com/docker/setup-qemu-action) | GitHub Action to install QEMU static binaries | TypeScript | 597 | Apache License 2.0 | 2020-08-18 | 2026-09-26 | 2026-09-21 |
+| [awesome-compose](https://github.com/docker/awesome-compose) | Awesome Docker Compose samples | HTML | 46431 | Creative Commons Zero v1.0 Universal | 2020-02-13 | 2026-09-29 | 2026-09-22 |
+| [build-push-action](https://github.com/docker/build-push-action) | GitHub Action to build and push Docker images with Buildx | TypeScript | 5410 | Apache License 2.0 | 2020-02-17 | 2026-09-29 | 2026-09-29 |
+| [roadmap](https://github.com/docker/roadmap) | Welcome to the Public Roadmap for All Things Docker! We welcome your ideas.  | None | 1919 | Creative Commons Zero v1.0 Universal | 2020-03-05 | 2026-09-29 | 2025-04-23 |
+| [login-action](https://github.com/docker/login-action) | GitHub Action to login against a Docker registry | TypeScript | 1492 | Apache License 2.0 | 2020-08-15 | 2026-09-29 | 2026-09-29 |
+| [setup-buildx-action](https://github.com/docker/setup-buildx-action) | GitHub Action to set up Docker Buildx | TypeScript | 1385 | Apache License 2.0 | 2020-08-18 | 2026-09-27 | 2026-09-29 |
+| [setup-qemu-action](https://github.com/docker/setup-qemu-action) | GitHub Action to install QEMU static binaries | TypeScript | 597 | Apache License 2.0 | 2020-08-18 | 2026-09-26 | 2026-09-29 |
 | [hub-tool](https://github.com/docker/hub-tool) | 🧪 Docker Hub experimental CLI tool | Go | 374 | Apache License 2.0 | 2020-09-23 | 2026-09-28 | 2026-03-16 |
 | [bake-action](https://github.com/docker/bake-action) | GitHub Action to use Docker Buildx Bake as a high-level build command | TypeScript | 303 | Apache License 2.0 | 2020-10-06 | 2026-09-25 | 2026-09-21 |
-| [metadata-action](https://github.com/docker/metadata-action) | GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker | TypeScript | 1150 | Apache License 2.0 | 2020-10-23 | 2026-09-26 | 2026-09-18 |
+| [metadata-action](https://github.com/docker/metadata-action) | GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker | TypeScript | 1150 | Apache License 2.0 | 2020-10-23 | 2026-09-26 | 2026-09-29 |
 | [get-involved](https://github.com/docker/get-involved) | Get Involved with Docker | CSS | 25 | Apache License 2.0 | 2021-02-08 | 2026-05-27 | 2022-10-05 |
 | [cli-docs-tool](https://github.com/docker/cli-docs-tool) | Utilities to generate (reference) documentation for the docker CLI | Go | 24 | Apache License 2.0 | 2021-07-29 | 2026-09-09 | 2026-09-18 |
-| [setup-docker-action](https://github.com/docker/setup-docker-action) | GitHub Action to set up (download and install) Docker CE | TypeScript | 80 | Apache License 2.0 | 2021-08-22 | 2026-09-25 | 2026-09-21 |
+| [setup-docker-action](https://github.com/docker/setup-docker-action) | GitHub Action to set up (download and install) Docker CE | TypeScript | 80 | Apache License 2.0 | 2021-08-22 | 2026-09-25 | 2026-09-29 |
 | [compose-switch](https://github.com/docker/compose-switch) | None | Go | 206 | Apache License 2.0 | 2021-09-06 | 2026-08-29 | 2026-06-04 |
 | [extensions-sdk](https://github.com/docker/extensions-sdk) | Desktop Extensions SDK | None | 158 | Apache License 2.0 | 2021-09-22 | 2026-09-25 | 2026-06-04 |
 | [eventsource](https://github.com/docker/eventsource) | EventSource client for Node.js and Browser (polyfill) | JavaScript | 7 | MIT License | 2021-11-26 | 2026-06-12 | 2026-06-12 |
 | [sbom-cli-plugin](https://github.com/docker/sbom-cli-plugin) | :warning: DEPRECATED: Plugin for Docker CLI to support SBOM creation using Syft; use `docker scout sbom` instead. | Go | 161 | Apache License 2.0 | 2022-01-31 | 2026-07-16 | 2026-05-19 |
 | [desktop-linux](https://github.com/docker/desktop-linux) | Bug reports for Docker Desktop for Linux | None | 92 | - | 2022-04-01 | 2026-07-20 | 2026-02-10 |
 | [go-imageinspect](https://github.com/docker/go-imageinspect) | None | Go | 15 | Apache License 2.0 | 2022-07-28 | 2026-07-02 | 2026-07-24 |
-| [packaging](https://github.com/docker/packaging) | Docker Packaging (deb, rpm, static) | Dockerfile | 35 | Apache License 2.0 | 2022-08-29 | 2026-09-21 | 2026-09-25 |
+| [packaging](https://github.com/docker/packaging) | Docker Packaging (deb, rpm, static) | Dockerfile | 35 | Apache License 2.0 | 2022-08-29 | 2026-09-28 | 2026-09-28 |
 | [base-cli-plugin](https://github.com/docker/base-cli-plugin) | Experimental Docker CLI plugin to detect base images | Go | 16 | Apache License 2.0 | 2022-09-16 | 2026-06-04 | 2026-06-04 |
 | [extension-ideas](https://github.com/docker/extension-ideas) | A place to suggest new ideas for Docker Extensions and get new ideas of what to build for the larger Docker community | None | 56 | - | 2022-11-17 | 2026-06-14 | 2024-06-12 |
 | [buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) | BuildKit Syft scanner | Go | 51 | Apache License 2.0 | 2022-11-18 | 2026-09-25 | 2026-09-18 |
 | [extensions-submissions](https://github.com/docker/extensions-submissions) | Submit your Docker Extension here | Shell | 11 | Apache License 2.0 | 2022-12-12 | 2026-09-26 | 2026-09-21 |
-| [actions-toolkit](https://github.com/docker/actions-toolkit) | Toolkit for Docker (GitHub) Actions | TypeScript | 106 | Apache License 2.0 | 2023-01-15 | 2026-09-26 | 2026-09-23 |
+| [actions-toolkit](https://github.com/docker/actions-toolkit) | Toolkit for Docker (GitHub) Actions | TypeScript | 106 | Apache License 2.0 | 2023-01-15 | 2026-09-28 | 2026-09-28 |
 | [dagster-poc](https://github.com/docker/dagster-poc) | None | Python | 3 | - | 2023-02-07 | 2026-06-04 | 2026-06-04 |
 | [babashka-pod-docker](https://github.com/docker/babashka-pod-docker) | None | Go | 23 | Apache License 2.0 | 2023-02-09 | 2026-07-11 | 2026-06-04 |
 | [welcome-to-docker](https://github.com/docker/welcome-to-docker) | None | JavaScript | 874 | - | 2023-02-24 | 2026-09-26 | 2026-09-10 |
-| [scout-action](https://github.com/docker/scout-action) | Docker Scout GitHub Action | JavaScript | 142 | Other | 2023-02-27 | 2026-09-25 | 2026-09-18 |
+| [scout-action](https://github.com/docker/scout-action) | Docker Scout GitHub Action | JavaScript | 141 | Other | 2023-02-27 | 2026-09-28 | 2026-09-18 |
 | [docker-wasm-bartholomew](https://github.com/docker/docker-wasm-bartholomew) | None | Handlebars | 3 | Creative Commons Zero v1.0 Universal | 2023-02-28 | 2026-05-27 | 2023-03-01 |
 | [docker-gs-ping-roach](https://github.com/docker/docker-gs-ping-roach) | A slightly more advanced Go server example for Docker's "Getting Started with Docker and Go". This example application uses CockroachDB database engine. | None | 4 | Apache License 2.0 | 2023-04-04 | 2026-05-27 | 2024-05-09 |
 | [multi-container-app](https://github.com/docker/multi-container-app) | None | EJS | 237 | - | 2023-05-19 | 2026-09-23 | 2026-06-04 |
-| [scout-cli](https://github.com/docker/scout-cli) | Docker Scout CLI | Shell | 455 | Other | 2023-05-21 | 2026-09-25 | 2026-09-22 |
+| [scout-cli](https://github.com/docker/scout-cli) | Docker Scout CLI | Shell | 454 | Other | 2023-05-21 | 2026-09-28 | 2026-09-22 |
 | [docker-gs-ping](https://github.com/docker/docker-gs-ping) | A simple Go server example for Docker's "Getting Started with Docker and Go". | Go | 37 | Apache License 2.0 | 2023-06-07 | 2026-07-21 | 2026-06-04 |
 | [desktop-action](https://github.com/docker/desktop-action) | Docker Desktop action | None | 11 | Apache License 2.0 | 2023-06-09 | 2026-09-11 | 2026-09-11 |
 | [labs-tape](https://github.com/docker/labs-tape) | Tape is for packaging applications | Go | 11 | Other | 2023-06-21 | 2026-08-20 | 2026-06-04 |
@@ -109,37 +109,37 @@ Statistics Date: 2026-09-28 08:29:43
 | [go-winio](https://github.com/docker/go-winio) | Win32 IO-related utilities for Go | Go | 2 | MIT License | 2024-12-12 | 2026-06-04 | 2026-06-04 |
 | [mcp-inspector](https://github.com/docker/mcp-inspector) | Visual testing tool for MCP servers | TypeScript | 45 | MIT License | 2024-12-13 | 2026-09-05 | 2026-06-15 |
 | [ghaction-dump-context](https://github.com/docker/ghaction-dump-context) | GitHub Action composite to dump context | None | 2 | MIT License | 2025-01-15 | 2026-06-04 | 2026-06-04 |
-| [setup-compose-action](https://github.com/docker/setup-compose-action) | GitHub Action to set up Docker Compose | TypeScript | 46 | Apache License 2.0 | 2025-01-20 | 2026-09-21 | 2026-09-21 |
+| [setup-compose-action](https://github.com/docker/setup-compose-action) | GitHub Action to set up Docker Compose | TypeScript | 46 | Apache License 2.0 | 2025-01-20 | 2026-09-21 | 2026-09-29 |
 | [model-cards](https://github.com/docker/model-cards) | None | None | 9 | Apache License 2.0 | 2025-03-17 | 2026-04-13 | 2026-02-11 |
-| [desktop-feedback](https://github.com/docker/desktop-feedback) | Feedback tracker for Docker Desktop on Windows, macOS, and Linux | None | 48 | - | 2025-03-17 | 2026-09-22 | 2026-06-02 |
-| [docker-language-server](https://github.com/docker/docker-language-server) | Language server for Dockerfiles, Compose files, and Bake files | Go | 188 | Apache License 2.0 | 2025-03-17 | 2026-09-25 | 2026-06-22 |
+| [desktop-feedback](https://github.com/docker/desktop-feedback) | Feedback tracker for Docker Desktop on Windows, macOS, and Linux | None | 49 | - | 2025-03-17 | 2026-09-28 | 2026-06-02 |
+| [docker-language-server](https://github.com/docker/docker-language-server) | Language server for Dockerfiles, Compose files, and Bake files | Go | 187 | Apache License 2.0 | 2025-03-17 | 2026-09-28 | 2026-06-22 |
 | [vscode-extension](https://github.com/docker/vscode-extension) | Docker DX extension for Visual Studio Code | TypeScript | 60 | Apache License 2.0 | 2025-03-18 | 2026-09-25 | 2026-07-18 |
 | [model-spec](https://github.com/docker/model-spec) | None | None | 21 | Apache License 2.0 | 2025-03-19 | 2026-03-02 | 2025-10-02 |
 | [go-sdk](https://github.com/docker/go-sdk) | None | Go | 131 | Other | 2025-03-26 | 2026-09-27 | 2026-06-29 |
 | [hello-genai](https://github.com/docker/hello-genai) | Very simple GenAI application to try the Docker Model Runner | HTML | 213 | Apache License 2.0 | 2025-03-28 | 2026-09-22 | 2026-06-21 |
-| [model-runner](https://github.com/docker/model-runner) | Docker Model Runner | Go | 653 | Apache License 2.0 | 2025-03-28 | 2026-09-26 | 2026-09-28 |
+| [model-runner](https://github.com/docker/model-runner) | Docker Model Runner | Go | 654 | Apache License 2.0 | 2025-03-28 | 2026-09-28 | 2026-09-29 |
 | [ai-reviewer](https://github.com/docker/ai-reviewer) | None | JavaScript | 11 | Apache License 2.0 | 2025-03-31 | 2026-05-27 | 2026-06-21 |
 | [aws-kms-sign-csr](https://github.com/docker/aws-kms-sign-csr) | Re-sign a CSR with a KMS asymmetric private key | Python | 1 | MIT License | 2025-04-19 | 2025-09-12 | 2026-03-17 |
-| [mcp-gateway](https://github.com/docker/mcp-gateway) | docker mcp CLI plugin / MCP Gateway | Go | 1586 | MIT License | 2025-04-22 | 2026-09-27 | 2026-09-23 |
-| [secrets-engine](https://github.com/docker/secrets-engine) | None | Go | 92 | Apache License 2.0 | 2025-04-25 | 2026-09-25 | 2026-09-24 |
+| [mcp-gateway](https://github.com/docker/mcp-gateway) | docker mcp CLI plugin / MCP Gateway | Go | 1587 | MIT License | 2025-04-22 | 2026-09-28 | 2026-09-23 |
+| [secrets-engine](https://github.com/docker/secrets-engine) | None | Go | 92 | Apache License 2.0 | 2025-04-25 | 2026-09-28 | 2026-09-28 |
 | [keyring](https://github.com/docker/keyring) | Repository hosting the public cosign image signing keys | None | 2 | - | 2025-05-01 | 2026-05-27 | 2025-05-01 |
 | [mcp-obsidian](https://github.com/docker/mcp-obsidian) | MCP server that interacts with Obsidian via the Obsidian rest API community plugin | None | 66 | MIT License | 2025-05-05 | 2026-08-08 | 2025-05-05 |
-| [compose-for-agents](https://github.com/docker/compose-for-agents) | Build and run AI agents using Docker Compose. A collection of ready-to-use examples for orchestrating open-source LLMs, tools, and agent runtimes. | TypeScript | 1042 | Apache License 2.0 | 2025-05-09 | 2026-09-26 | 2026-09-02 |
+| [compose-for-agents](https://github.com/docker/compose-for-agents) | Build and run AI agents using Docker Compose. A collection of ready-to-use examples for orchestrating open-source LLMs, tools, and agent runtimes. | TypeScript | 1046 | Apache License 2.0 | 2025-05-09 | 2026-09-29 | 2026-09-02 |
 | [agentic-blueprint](https://github.com/docker/agentic-blueprint) | None | None | 4 | - | 2025-05-13 | 2026-05-27 | 2025-05-13 |
 | [turboencabulator](https://github.com/docker/turboencabulator) | Featuring a retro-encabulated nofer trunion and reversible unilateral phase detractors, this repo defies modern physics — and good taste. | None | 1 | - | 2025-05-15 | 2025-05-16 | 2025-05-15 |
 | [.github](https://github.com/docker/.github) | None | None | 9 | - | 2025-05-19 | 2026-09-24 | 2026-09-24 |
 | [compose-bridge-transformer](https://github.com/docker/compose-bridge-transformer) | transformer image to be used by Docker Compose bridge | Go Template | 5 | Apache License 2.0 | 2025-05-27 | 2026-08-03 | 2026-08-03 |
 | [model-test](https://github.com/docker/model-test) | None | Go | 34 | - | 2025-06-02 | 2026-09-27 | 2025-06-14 |
 | [oidc-action](https://github.com/docker/oidc-action) | Official OIDC action for authenticating with Docker | TypeScript | 1 | Apache License 2.0 | 2025-06-03 | 2026-09-09 | 2026-09-22 |
-| [mcp-registry](https://github.com/docker/mcp-registry) | Official Docker MCP registry  | Go | 562 | MIT License | 2025-06-09 | 2026-09-27 | 2026-09-28 |
+| [mcp-registry](https://github.com/docker/mcp-registry) | Official Docker MCP registry  | Go | 563 | MIT License | 2025-06-09 | 2026-09-28 | 2026-09-29 |
 | [nvim-dap-docker](https://github.com/docker/nvim-dap-docker) | Neovim DAP plugin for Docker Buildx | Lua | 67 | Apache License 2.0 | 2025-06-11 | 2026-05-15 | 2026-04-15 |
 | [hub-mcp](https://github.com/docker/hub-mcp) | Docker Hub MCP Server | TypeScript | 167 | Apache License 2.0 | 2025-06-12 | 2026-09-25 | 2026-08-27 |
 | [github-builder](https://github.com/docker/github-builder) | Official Docker-maintained reusable GitHub Actions workflows to securely build container images | None | 84 | Apache License 2.0 | 2025-08-18 | 2026-09-26 | 2026-09-18 |
 | [go-winjob](https://github.com/docker/go-winjob) | Go bindings for Windows Job Objects | Go | 1 | MIT License | 2025-08-29 | 2026-07-31 | 2026-07-31 |
-| [docker-agent](https://github.com/docker/docker-agent) | AI Agent Builder and Runtime by Docker Engineering | Go | 3357 | Apache License 2.0 | 2025-09-01 | 2026-09-28 | 2026-09-28 |
+| [docker-agent](https://github.com/docker/docker-agent) | AI Agent Builder and Runtime by Docker Engineering | Go | 3361 | Apache License 2.0 | 2025-09-01 | 2026-09-29 | 2026-09-28 |
 | [node-sdk](https://github.com/docker/node-sdk) | None | TypeScript | 107 | Apache License 2.0 | 2025-09-10 | 2026-09-24 | 2026-06-16 |
 | [docker-model-runner-and-mcp-with-promptfoo](https://github.com/docker/docker-model-runner-and-mcp-with-promptfoo) | Examples of how to use Docker Model Runner, Docker MCP Toolkit, and Promptfoo together to evaluate models, agents, and MCP servers | None | 4 | Apache License 2.0 | 2025-09-19 | 2026-03-13 | 2025-09-19 |
-| [homebrew-tap](https://github.com/docker/homebrew-tap) | Homebrew tap of Docker products and tools | Ruby | 6 | Other | 2025-09-20 | 2026-09-25 | 2026-09-25 |
+| [homebrew-tap](https://github.com/docker/homebrew-tap) | Homebrew tap of Docker products and tools | Ruby | 6 | Other | 2025-09-20 | 2026-09-29 | 2026-09-29 |
 | [inference-engine-vllm](https://github.com/docker/inference-engine-vllm) | None | Shell | 5 | Apache License 2.0 | 2025-09-25 | 2026-02-18 | 2025-10-09 |
 | [mcp-gateway-oauth-helpers](https://github.com/docker/mcp-gateway-oauth-helpers) | Library containing OAuth Dynamic Client Registration (DCR) functionality for MCP servers | Go | 4 | MIT License | 2025-09-25 | 2026-09-16 | 2026-09-16 |
 | [mcp-community-registry](https://github.com/docker/mcp-community-registry) | A community driven registry service for Model Context Protocol (MCP) servers. | Go | 3 | MIT License | 2025-09-26 | 2026-06-04 | 2026-06-04 |
@@ -149,15 +149,15 @@ Statistics Date: 2026-09-28 08:29:43
 | [autobuilds-actions](https://github.com/docker/autobuilds-actions) | Docker Hub Autobuilds as GitHub Actions | Shell | 1 | Apache License 2.0 | 2025-10-23 | 2026-06-03 | 2026-06-03 |
 | [zeldaplatformer](https://github.com/docker/zeldaplatformer) | vibecoded platformer with Docker Gordon | HTML | 1 | - | 2025-11-21 | 2025-11-21 | 2025-11-21 |
 | [winget-pkgs](https://github.com/docker/winget-pkgs) | The Microsoft community Windows Package Manager manifest repository | None | 1 | MIT License | 2026-02-20 | 2026-06-04 | 2026-06-04 |
-| [sbx-releases](https://github.com/docker/sbx-releases) | None | None | 406 | Other | 2026-03-03 | 2026-09-27 | 2026-09-25 |
-| [skills](https://github.com/docker/skills) | A collection of Docker skills for AI coding agents to help them build, test, debug, and optimize containerized apps with consistent, reusable workflows. | Python | 371 | Apache License 2.0 | 2026-03-27 | 2026-09-28 | 2026-09-25 |
+| [sbx-releases](https://github.com/docker/sbx-releases) | None | None | 407 | Other | 2026-03-03 | 2026-09-29 | 2026-09-29 |
+| [skills](https://github.com/docker/skills) | A collection of Docker skills for AI coding agents to help them build, test, debug, and optimize containerized apps with consistent, reusable workflows. | Python | 421 | Apache License 2.0 | 2026-03-27 | 2026-09-29 | 2026-09-29 |
 | [iceberg-go](https://github.com/docker/iceberg-go) | Apache Iceberg - Go | Go | 1 | Apache License 2.0 | 2026-03-30 | 2026-08-28 | 2026-08-28 |
 | [oci](https://github.com/docker/oci) | This repository holds functionality related to OCI (Open Container Initiative). | Go | 5 | Apache License 2.0 | 2026-04-03 | 2026-08-21 | 2026-09-04 |
-| [sbx-kits-contrib](https://github.com/docker/sbx-kits-contrib) | Community repository for sbx kits | Go | 153 | Apache License 2.0 | 2026-04-23 | 2026-09-26 | 2026-09-25 |
+| [sbx-kits-contrib](https://github.com/docker/sbx-kits-contrib) | Community repository for sbx kits | Go | 156 | Apache License 2.0 | 2026-04-23 | 2026-09-28 | 2026-09-28 |
 | [portcullis](https://github.com/docker/portcullis) | A tiny Go library to detect and redact API tokens, cloud credentials, and other secret material in arbitrary text. | Go | 13 | Apache License 2.0 | 2026-05-08 | 2026-09-25 | 2026-09-24 |
 | [aijson](https://github.com/docker/aijson) | Forgiving JSON parser for LLM output. | Go | 1 | Apache License 2.0 | 2026-05-18 | 2026-05-26 | 2026-05-18 |
 | [docker-agent-action](https://github.com/docker/docker-agent-action) | A GitHub Action for running Docker Agent AI agents in your workflows. | TypeScript | 8 | Apache License 2.0 | 2026-06-11 | 2026-09-17 | 2026-09-28 |
 | [mcp-bridge](https://github.com/docker/mcp-bridge) | Distributing the mcp-bridge binary for the cloud sandboxes when an MCP server starts up in it | None | 0 | Apache License 2.0 | 2026-06-15 | 2026-06-23 | 2026-06-24 |
 | [gpac](https://github.com/docker/gpac) | golang parser for pac file | Go | 0 | MIT License | 2026-07-09 | 2026-07-10 | 2026-07-10 |
 | [docs-toolkit](https://github.com/docker/docs-toolkit) | None | Shell | 0 | Apache License 2.0 | 2026-09-09 | 2026-09-10 | 2026-09-10 |
-| [sandbox-kit-spec](https://github.com/docker/sandbox-kit-spec) | Docker Sandbox Kit Specification v3 — the kit descriptor grammar, the OCI artifact, the build frontend, and the conformance suites | Go | 95 | Apache License 2.0 | 2026-09-16 | 2026-09-27 | 2026-09-26 |
+| [sandbox-kit-spec](https://github.com/docker/sandbox-kit-spec) | Docker Sandbox Kit Specification v3 - the kit descriptor grammar, the OCI artifact, the build frontend, and the conformance suites | Go | 106 | Apache License 2.0 | 2026-09-16 | 2026-09-29 | 2026-09-29 |
