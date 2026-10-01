@@ -1,10 +1,10 @@
 # Jina AI
 
-A total of 267 projects, 17 active projects in the last six months, 1 teams, and 73926 stars.
+A total of 267 projects, 17 active projects in the last six months, 1 teams, and 73931 stars.
 
 Top 3 Languages: Python, TypeScript, Jupyter Notebook
 
-Statistics Date: 2026-09-30 08:23:35
+Statistics Date: 2026-10-01 08:24:26
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -169,7 +169,7 @@ Statistics Date: 2026-09-30 08:23:35
 | [executor-dallemini](https://github.com/jina-ai/executor-dallemini) | Generating image from text prompt using DALLE-mini model. | Python | 3 | - | 2022-04-19 | 2023-09-26 | 2022-04-30 |
 | [auth](https://github.com/jina-ai/auth) | deprecated, use `jina-hubble-sdk` | Python | 5 | Apache License 2.0 | 2022-04-20 | 2023-01-27 | 2022-08-11 |
 | [executor-qdrant-indexer](https://github.com/jina-ai/executor-qdrant-indexer) | None | Python | 2 | - | 2022-04-27 | 2022-11-28 | 2022-11-29 |
-| [dalle-flow](https://github.com/jina-ai/dalle-flow) | 🌊 A Human-in-the-Loop workflow for creating HD images from text | Python | 2831 | - | 2022-04-30 | 2026-09-25 | 2023-05-16 |
+| [dalle-flow](https://github.com/jina-ai/dalle-flow) | 🌊 A Human-in-the-Loop workflow for creating HD images from text | Python | 2830 | - | 2022-04-30 | 2026-09-30 | 2023-05-16 |
 | [executor-annlite-indexer](https://github.com/jina-ai/executor-annlite-indexer) | None | Python | 1 | - | 2022-05-02 | 2022-11-23 | 2022-11-24 |
 | [executor-elasticsearch-indexer](https://github.com/jina-ai/executor-elasticsearch-indexer) | None | Python | 1 | - | 2022-05-06 | 2023-08-21 | 2022-11-24 |
 | [example-grafana-prometheus](https://github.com/jina-ai/example-grafana-prometheus) | Docker compose file to use prometheus and grafana with Jina | None | 1 | - | 2022-05-09 | 2024-07-28 | 2022-10-21 |
@@ -211,7 +211,7 @@ Statistics Date: 2026-09-30 08:23:35
 | [dev-gpt](https://github.com/jina-ai/dev-gpt) | Your Virtual Development Team | Python | 1866 | Apache License 2.0 | 2023-03-17 | 2026-09-29 | 2023-08-01 |
 | [langchain-serve](https://github.com/jina-ai/langchain-serve) | ⚡ Langchain apps in production using Jina & FastAPI | Python | 1637 | Apache License 2.0 | 2023-03-21 | 2026-09-24 | 2023-09-20 |
 | [GoldRetriever](https://github.com/jina-ai/GoldRetriever) | Create and host retrieval plugins for ChatGPT in one click | Python | 66 | MIT License | 2023-03-30 | 2026-01-09 | 2023-07-21 |
-| [auto-gpt-web](https://github.com/jina-ai/auto-gpt-web) | Set Your Goals, AI Achieves Them. | TypeScript | 757 | MIT License | 2023-04-04 | 2026-09-25 | 2023-04-13 |
+| [auto-gpt-web](https://github.com/jina-ai/auto-gpt-web) | Set Your Goals, AI Achieves Them. | TypeScript | 756 | MIT License | 2023-04-04 | 2026-09-30 | 2023-04-13 |
 | [rungpt](https://github.com/jina-ai/rungpt) | An open-source cloud-native of large multi-modal models (LMMs) serving framework. | Python | 168 | Apache License 2.0 | 2023-04-04 | 2026-07-05 | 2023-09-05 |
 | [thinkgpt](https://github.com/jina-ai/thinkgpt) | Agent techniques to augment your LLM and push it beyong its limits | Python | 1582 | Apache License 2.0 | 2023-04-14 | 2026-09-27 | 2024-05-23 |
 | [docarray-docs](https://github.com/jina-ai/docarray-docs) | None | None | 0 | - | 2023-04-18 | 2023-04-18 | 2023-04-18 |
@@ -236,7 +236,7 @@ Statistics Date: 2026-09-30 08:23:35
 | [ColBERT](https://github.com/jina-ai/ColBERT) | ColBERT: state-of-the-art neural search (SIGIR'20, TACL'21, NeurIPS'21, NAACL'22, CIKM'22, ACL'23, EMNLP'23) | Python | 6 | MIT License | 2024-02-02 | 2025-06-11 | 2024-05-17 |
 | [paper-sag](https://github.com/jina-ai/paper-sag) | None | None | 0 | - | 2024-02-23 | 2024-02-23 | 2024-02-23 |
 | [csp-examples](https://github.com/jina-ai/csp-examples) | None | Jupyter Notebook | 2 | - | 2024-04-09 | 2026-08-22 | 2026-08-20 |
-| [reader](https://github.com/jina-ai/reader) | Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/ | TypeScript | 12072 | Apache License 2.0 | 2024-04-10 | 2026-09-30 | 2026-05-22 |
+| [reader](https://github.com/jina-ai/reader) | Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/ | TypeScript | 12080 | Apache License 2.0 | 2024-04-10 | 2026-10-01 | 2026-05-22 |
 | [puppeteer-extra-plugin-page-proxy](https://github.com/jina-ai/puppeteer-extra-plugin-page-proxy) | Additional module to use with 'puppeteer' for setting proxies per page basis. | None | 3 | - | 2024-04-23 | 2025-04-04 | 2024-10-29 |
 | [terminal-news](https://github.com/jina-ai/terminal-news) | Access Jina AI news via ssh guest@news.jina.ai | Python | 12 | Apache License 2.0 | 2024-05-03 | 2026-06-26 | 2024-05-03 |
 | [chunking](https://github.com/jina-ai/chunking) | None | Python | 7 | - | 2024-06-23 | 2025-04-13 | 2024-07-10 |
@@ -257,7 +257,7 @@ Statistics Date: 2026-09-30 08:23:35
 | [jina-reranker-m0-gguf](https://github.com/jina-ai/jina-reranker-m0-gguf) | A collection of GGUF and quantizations for jina-embeddings-v4 | None | 1 | - | 2025-07-21 | 2025-08-08 | 2025-07-21 |
 | [llama.cpp](https://github.com/jina-ai/llama.cpp) | LLM inference in C/C++ | C++ | 15 | MIT License | 2025-07-23 | 2026-08-05 | 2026-05-07 |
 | [gpt-oss](https://github.com/jina-ai/gpt-oss) | gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI | None | 0 | Apache License 2.0 | 2025-08-06 | 2025-08-06 | 2025-08-07 |
-| [MCP](https://github.com/jina-ai/MCP) | Official Jina AI Remote MCP Server | TypeScript | 870 | Apache License 2.0 | 2025-08-09 | 2026-09-28 | 2026-09-18 |
+| [MCP](https://github.com/jina-ai/MCP) | Official Jina AI Remote MCP Server | TypeScript | 869 | Apache License 2.0 | 2025-08-09 | 2026-09-30 | 2026-09-18 |
 | [mlx-retrieval](https://github.com/jina-ai/mlx-retrieval) | Train embedding and reranker models for retrieval tasks on Apple Silicon with MLX | Python | 187 | Apache License 2.0 | 2025-08-16 | 2026-07-14 | 2025-09-18 |
 | [bof-emnlp2025-embeddings-rerankers-smallLMs-for-better-search](https://github.com/jina-ai/bof-emnlp2025-embeddings-rerankers-smallLMs-for-better-search) | Nov. 7 EMNLP2025 BoF: Embeddings, Rerankers, Small LMs for Better Search | None | 4 | - | 2025-11-07 | 2025-11-17 | 2025-11-07 |
 | [markitdown](https://github.com/jina-ai/markitdown) | Python tool for converting files and office documents to Markdown. | Python | 4 | MIT License | 2025-11-28 | 2026-03-14 | 2025-12-02 |
