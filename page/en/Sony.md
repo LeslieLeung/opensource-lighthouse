@@ -1,15 +1,15 @@
 # Sony
 
-A total of 150 projects, 40 active projects in the last six months, 1 teams, and 18515 stars.
+A total of 151 projects, 40 active projects in the last six months, 1 teams, and 18518 stars.
 
 Top 3 Languages: Python, C++, JavaScript
 
-Statistics Date: 2026-10-06 08:22:46
+Statistics Date: 2026-10-07 08:24:13
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3701 | MIT License | 2015-05-29 | 2026-10-05 | 2026-02-07 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4422 | MIT License | 2015-05-29 | 2026-10-05 | 2026-02-12 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3702 | MIT License | 2015-05-29 | 2026-10-06 | 2026-02-07 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4421 | MIT License | 2015-05-29 | 2026-10-06 | 2026-02-12 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 420 | MIT License | 2015-09-18 | 2026-07-27 | 2020-12-29 |
@@ -81,7 +81,7 @@ Statistics Date: 2026-10-06 08:22:46
 | [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 101 | MIT License | 2024-06-04 | 2026-02-27 | 2025-03-31 |
 | [silentcipher](https://github.com/sony/silentcipher) | None | Python | 107 | MIT License | 2024-06-05 | 2026-09-29 | 2024-07-22 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 22 | MIT License | 2024-07-09 | 2026-05-28 | 2025-06-09 |
-| [genwarp](https://github.com/sony/genwarp) | None | Python | 312 | MIT License | 2024-08-06 | 2026-09-24 | 2024-09-26 |
+| [genwarp](https://github.com/sony/genwarp) | None | Python | 313 | MIT License | 2024-08-06 | 2026-10-06 | 2024-09-26 |
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 57 | MIT License | 2024-09-05 | 2026-09-14 | 2024-11-05 |
 | [esstra](https://github.com/sony/esstra) | A software suite for enhancing software supply chain transparency | Python | 35 | Other | 2024-10-03 | 2026-09-15 | 2026-09-15 |
 | [pagoda](https://github.com/sony/pagoda) | None | Python | 23 | MIT License | 2024-10-23 | 2026-08-13 | 2024-11-21 |
@@ -158,3 +158,4 @@ Statistics Date: 2026-10-06 08:22:46
 | [niwashi](https://github.com/sony/niwashi) | None | Go | 0 | Apache License 2.0 | 2026-09-18 | 2026-09-30 | 2026-09-30 |
 | [niwashi-recipe](https://github.com/sony/niwashi-recipe) | None | Shell | 0 | Apache License 2.0 | 2026-09-18 | 2026-10-01 | 2026-09-29 |
 | [far](https://github.com/sony/far) | None | Python | 2 | Other | 2026-09-29 | 2026-10-03 | 2026-10-01 |
+| [syn-omni](https://github.com/sony/syn-omni) | None | Python | 2 | Apache License 2.0 | 2026-10-07 | 2026-10-07 | 2026-10-07 |
