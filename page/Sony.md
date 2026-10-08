@@ -1,10 +1,10 @@
 # Sony
 
-共 151 个项目，近半年内活跃项目 40 个，1 个团队， 18518 个 Star。
+共 151 个项目，近半年内活跃项目 40 个，1 个团队， 18519 个 Star。
 
 语言 Top 3：Python, C++, JavaScript
 
-统计时间：2026-10-07 08:24:13
+统计时间：2026-10-08 08:24:46
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -24,7 +24,7 @@
 | [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2774 | Apache License 2.0 | 2017-06-26 | 2026-10-02 | 2026-07-24 |
 | [easyhttpcpp](https://github.com/sony/easyhttpcpp) | A cross-platform HTTP client library with a focus on usability and speed | C++ | 176 | MIT License | 2017-08-09 | 2026-09-16 | 2022-01-31 |
 | [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 196 | Apache License 2.0 | 2017-09-07 | 2026-10-05 | 2026-10-05 |
-| [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 57 | Apache License 2.0 | 2017-09-07 | 2026-10-05 | 2026-10-05 |
+| [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 57 | Apache License 2.0 | 2017-09-07 | 2026-10-07 | 2026-10-07 |
 | [cdp-js](https://github.com/sony/cdp-js) | Libraries/SDK modules for multi-platform application development | TypeScript | 22 | Apache License 2.0 | 2017-10-10 | 2024-02-11 | 2018-05-10 |
 | [cdp-lib](https://github.com/sony/cdp-lib) | Application template/libraries for cdp-js (Details: see cdp-js repository) | JavaScript | 6 | Apache License 2.0 | 2017-10-10 | 2017-11-13 | 2018-02-23 |
 | [cdp-cli](https://github.com/sony/cdp-cli) | Command line tools for generating start point of multi-platform application development (Details: see cdp-js repository) | HTML | 7 | Apache License 2.0 | 2017-10-10 | 2020-12-13 | 2018-07-13 |
@@ -64,7 +64,7 @@
 | [Instruct3Dto3D-doc](https://github.com/sony/Instruct3Dto3D-doc) | Official documentation of Instruct 3D-to-3D | HTML | 2 | - | 2023-03-23 | 2024-10-31 | 2024-10-31 |
 | [pixel-guided-diffusion](https://github.com/sony/pixel-guided-diffusion) | Fine-grained Image Editing by Pixel-wise Guidance Using Diffusion Models | Python | 42 | Apache License 2.0 | 2023-04-06 | 2026-08-17 | 2023-06-09 |
 | [ARCv2_Ghidra](https://github.com/sony/ARCv2_Ghidra) | None | None | 1 | Apache License 2.0 | 2023-04-26 | 2025-08-15 | 2023-04-26 |
-| [gibbsddrm](https://github.com/sony/gibbsddrm) | None | Python | 33 | MIT License | 2023-04-26 | 2026-02-02 | 2023-05-29 |
+| [gibbsddrm](https://github.com/sony/gibbsddrm) | None | Python | 34 | MIT License | 2023-04-26 | 2026-10-07 | 2023-05-29 |
 | [fp-diffusion](https://github.com/sony/fp-diffusion) | None | Jupyter Notebook | 33 | Apache License 2.0 | 2023-04-26 | 2026-03-11 | 2024-02-14 |
 | [diffiner](https://github.com/sony/diffiner) | None | Python | 69 | MIT License | 2023-05-30 | 2026-08-11 | 2023-08-16 |
 | [hFT-Transformer](https://github.com/sony/hFT-Transformer) | Pytorch implementation of automatic music transcription method that uses a two-level hierarchical frequency-time Transformer architecture (hFT-Transformer). | Python | 121 | MIT License | 2023-06-26 | 2026-09-27 | 2023-07-11 |
