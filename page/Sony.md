@@ -1,15 +1,15 @@
 # Sony
 
-共 151 个项目，近半年内活跃项目 40 个，1 个团队， 18519 个 Star。
+共 151 个项目，近半年内活跃项目 40 个，1 个团队， 18523 个 Star。
 
 语言 Top 3：Python, C++, JavaScript
 
-统计时间：2026-10-08 08:24:46
+统计时间：2026-10-09 08:24:49
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3702 | MIT License | 2015-05-29 | 2026-10-06 | 2026-02-07 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4421 | MIT License | 2015-05-29 | 2026-10-06 | 2026-02-12 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3703 | MIT License | 2015-05-29 | 2026-10-09 | 2026-02-07 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4421 | MIT License | 2015-05-29 | 2026-10-08 | 2026-02-12 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 420 | MIT License | 2015-09-18 | 2026-07-27 | 2020-12-29 |
@@ -24,7 +24,7 @@
 | [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2774 | Apache License 2.0 | 2017-06-26 | 2026-10-02 | 2026-07-24 |
 | [easyhttpcpp](https://github.com/sony/easyhttpcpp) | A cross-platform HTTP client library with a focus on usability and speed | C++ | 176 | MIT License | 2017-08-09 | 2026-09-16 | 2022-01-31 |
 | [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 196 | Apache License 2.0 | 2017-09-07 | 2026-10-05 | 2026-10-05 |
-| [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 57 | Apache License 2.0 | 2017-09-07 | 2026-10-07 | 2026-10-07 |
+| [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 57 | Apache License 2.0 | 2017-09-07 | 2026-10-08 | 2026-10-08 |
 | [cdp-js](https://github.com/sony/cdp-js) | Libraries/SDK modules for multi-platform application development | TypeScript | 22 | Apache License 2.0 | 2017-10-10 | 2024-02-11 | 2018-05-10 |
 | [cdp-lib](https://github.com/sony/cdp-lib) | Application template/libraries for cdp-js (Details: see cdp-js repository) | JavaScript | 6 | Apache License 2.0 | 2017-10-10 | 2017-11-13 | 2018-02-23 |
 | [cdp-cli](https://github.com/sony/cdp-cli) | Command line tools for generating start point of multi-platform application development (Details: see cdp-js repository) | HTML | 7 | Apache License 2.0 | 2017-10-10 | 2020-12-13 | 2018-07-13 |
@@ -85,10 +85,10 @@
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 57 | MIT License | 2024-09-05 | 2026-09-14 | 2024-11-05 |
 | [esstra](https://github.com/sony/esstra) | A software suite for enhancing software supply chain transparency | Python | 35 | Other | 2024-10-03 | 2026-09-15 | 2026-09-15 |
 | [pagoda](https://github.com/sony/pagoda) | None | Python | 23 | MIT License | 2024-10-23 | 2026-08-13 | 2024-11-21 |
-| [okg](https://github.com/sony/okg) | Official Repo for The Paper "OKG: On-the-fly Keyword Generation in Search Sponsered Advertising" (Coling'25) | Jupyter Notebook | 7 | Other | 2024-11-15 | 2026-09-19 | 2025-02-14 |
+| [okg](https://github.com/sony/okg) | Official Repo for The Paper "OKG: On-the-fly Keyword Generation in Search Sponsered Advertising" (Coling'25) | Jupyter Notebook | 8 | Other | 2024-11-15 | 2026-10-09 | 2025-02-14 |
 | [dual-pixel-disparity](https://github.com/sony/dual-pixel-disparity) | None | Python | 15 | MIT License | 2024-11-19 | 2026-08-03 | 2025-03-27 |
 | [openmu](https://github.com/sony/openmu) | None | Python | 8 | MIT License | 2024-11-27 | 2025-06-27 | 2024-12-26 |
-| [Hi-ResLDM](https://github.com/sony/Hi-ResLDM) | None | None | 7 | - | 2025-01-11 | 2026-09-01 | 2025-02-12 |
+| [Hi-ResLDM](https://github.com/sony/Hi-ResLDM) | None | None | 8 | - | 2025-01-11 | 2026-10-09 | 2025-02-12 |
 | [stamp](https://github.com/sony/stamp) | None | TypeScript | 8 | MIT License | 2025-01-20 | 2026-09-09 | 2026-10-05 |
 | [ABA](https://github.com/sony/ABA) | Official Repo for The Paper "Adaptive Budget Optimization for Multichannel Advertising Using Combinatorial Bandits" (AAMAS'25) | Python | 2 | Other | 2025-01-21 | 2025-07-28 | 2025-02-18 |
 | [MambaPEFT](https://github.com/sony/MambaPEFT) | None | Python | 24 | Apache License 2.0 | 2025-01-24 | 2026-10-01 | 2025-03-27 |
@@ -154,7 +154,7 @@
 | [guda](https://github.com/sony/guda) | None | Python | 1 | MIT License | 2026-05-27 | 2026-05-29 | 2026-05-29 |
 | [MusTBench](https://github.com/sony/MusTBench) | None | Python | 13 | MIT License | 2026-06-08 | 2026-09-18 | 2026-08-03 |
 | [mocopi-receiver-plugin-3dsmax](https://github.com/sony/mocopi-receiver-plugin-3dsmax) | None | C++ | 3 | Apache License 2.0 | 2026-06-23 | 2026-09-13 | 2026-07-17 |
-| [as-dt1-ros2-driver](https://github.com/sony/as-dt1-ros2-driver) | None | C++ | 7 | Apache License 2.0 | 2026-09-04 | 2026-10-02 | 2026-09-22 |
+| [as-dt1-ros2-driver](https://github.com/sony/as-dt1-ros2-driver) | None | C++ | 8 | Apache License 2.0 | 2026-09-04 | 2026-10-08 | 2026-09-22 |
 | [niwashi](https://github.com/sony/niwashi) | None | Go | 0 | Apache License 2.0 | 2026-09-18 | 2026-09-30 | 2026-09-30 |
 | [niwashi-recipe](https://github.com/sony/niwashi-recipe) | None | Shell | 0 | Apache License 2.0 | 2026-09-18 | 2026-10-01 | 2026-09-29 |
 | [far](https://github.com/sony/far) | None | Python | 2 | Other | 2026-09-29 | 2026-10-03 | 2026-10-01 |
