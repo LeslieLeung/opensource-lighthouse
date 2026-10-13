@@ -1,10 +1,10 @@
 # Sony
 
-共 151 个项目，近半年内活跃项目 40 个，1 个团队， 18530 个 Star。
+共 151 个项目，近半年内活跃项目 40 个，1 个团队， 18531 个 Star。
 
 语言 Top 3：Python, C++, JavaScript
 
-统计时间：2026-10-12 08:37:09
+统计时间：2026-10-13 08:26:49
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -28,7 +28,7 @@
 | [cdp-js](https://github.com/sony/cdp-js) | Libraries/SDK modules for multi-platform application development | TypeScript | 22 | Apache License 2.0 | 2017-10-10 | 2024-02-11 | 2018-05-10 |
 | [cdp-lib](https://github.com/sony/cdp-lib) | Application template/libraries for cdp-js (Details: see cdp-js repository) | JavaScript | 6 | Apache License 2.0 | 2017-10-10 | 2017-11-13 | 2018-02-23 |
 | [cdp-cli](https://github.com/sony/cdp-cli) | Command line tools for generating start point of multi-platform application development (Details: see cdp-js repository) | HTML | 7 | Apache License 2.0 | 2017-10-10 | 2020-12-13 | 2018-07-13 |
-| [nnabla-examples](https://github.com/sony/nnabla-examples) | Neural Network Libraries https://github.com/sony/nnabla - Examples | Python | 311 | Apache License 2.0 | 2017-11-05 | 2026-10-12 | 2026-07-29 |
+| [nnabla-examples](https://github.com/sony/nnabla-examples) | Neural Network Libraries https://github.com/sony/nnabla - Examples | Python | 311 | Apache License 2.0 | 2017-11-05 | 2026-10-13 | 2026-07-29 |
 | [nnabla-c-runtime](https://github.com/sony/nnabla-c-runtime) | Neural Network Libraries - C Runtime | C | 58 | Apache License 2.0 | 2018-06-26 | 2026-08-01 | 2026-07-24 |
 | [mapray-js](https://github.com/sony/mapray-js) | JavaScript library for Interactive high quality 3D globes and maps in the browser | TypeScript | 155 | Apache License 2.0 | 2019-01-28 | 2026-07-29 | 2025-07-25 |
 | [typescript-fsa-redux-middleware](https://github.com/sony/typescript-fsa-redux-middleware) | Fluent syntax for defining typesafe Redux vanilla middlewares on top of typescript-fsa. | TypeScript | 10 | MIT License | 2019-01-29 | 2025-11-14 | 2020-01-24 |
@@ -89,7 +89,7 @@
 | [dual-pixel-disparity](https://github.com/sony/dual-pixel-disparity) | None | Python | 15 | MIT License | 2024-11-19 | 2026-08-03 | 2025-03-27 |
 | [openmu](https://github.com/sony/openmu) | None | Python | 8 | MIT License | 2024-11-27 | 2025-06-27 | 2024-12-26 |
 | [Hi-ResLDM](https://github.com/sony/Hi-ResLDM) | None | None | 8 | - | 2025-01-11 | 2026-10-09 | 2025-02-12 |
-| [stamp](https://github.com/sony/stamp) | None | TypeScript | 8 | MIT License | 2025-01-20 | 2026-09-09 | 2026-10-05 |
+| [stamp](https://github.com/sony/stamp) | None | TypeScript | 8 | MIT License | 2025-01-20 | 2026-10-13 | 2026-10-13 |
 | [ABA](https://github.com/sony/ABA) | Official Repo for The Paper "Adaptive Budget Optimization for Multichannel Advertising Using Combinatorial Bandits" (AAMAS'25) | Python | 2 | Other | 2025-01-21 | 2025-07-28 | 2025-02-18 |
 | [MambaPEFT](https://github.com/sony/MambaPEFT) | None | Python | 24 | Apache License 2.0 | 2025-01-24 | 2026-10-01 | 2025-03-27 |
 | [bl-flowsom_eval](https://github.com/sony/bl-flowsom_eval) | None | Jupyter Notebook | 0 | MIT License | 2025-01-28 | 2025-02-04 | 2025-02-04 |
@@ -139,7 +139,7 @@
 | [dynamic-rag](https://github.com/sony/dynamic-rag) | None | C# | 6 | BSD 3-Clause "New" or "Revised" License | 2025-09-28 | 2026-08-15 | 2026-08-15 |
 | [cmt](https://github.com/sony/cmt) | None | Python | 22 | MIT License | 2025-09-30 | 2026-07-27 | 2026-03-03 |
 | [mmaudiosep](https://github.com/sony/mmaudiosep) | None | Python | 17 | MIT License | 2025-10-06 | 2026-08-22 | 2026-04-30 |
-| [sampleid](https://github.com/sony/sampleid) | Code for the paper “Automatic Music Sample Identification with Multi-Track Contrastive Learning”. | Python | 33 | MIT License | 2025-10-15 | 2026-10-11 | 2026-05-22 |
+| [sampleid](https://github.com/sony/sampleid) | Code for the paper “Automatic Music Sample Identification with Multi-Track Contrastive Learning”. | Python | 34 | MIT License | 2025-10-15 | 2026-10-12 | 2026-05-22 |
 | [coda](https://github.com/sony/coda) | Official PyTorch implementation of "Contrastive Object-centric Diffusion Alignment" | Python | 3 | Apache License 2.0 | 2025-10-20 | 2026-06-16 | 2026-01-27 |
 | [studies-for](https://github.com/sony/studies-for) | None | JavaScript | 0 | - | 2025-10-23 | 2026-06-09 | 2026-06-09 |
 | [mf-rae](https://github.com/sony/mf-rae) | None | Python | 40 | MIT License | 2025-11-13 | 2026-06-27 | 2025-11-19 |
