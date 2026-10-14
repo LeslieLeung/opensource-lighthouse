@@ -1,10 +1,10 @@
 # Boeing
 
-A total of 35 projects, 6 active projects in the last six months, 1 teams, and 651 stars.
+A total of 36 projects, 7 active projects in the last six months, 1 teams, and 651 stars.
 
 Top 3 Languages: C++, Python, Go
 
-Statistics Date: 2026-10-13 08:26:49
+Statistics Date: 2026-10-14 08:22:03
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -43,3 +43,4 @@ Statistics Date: 2026-10-13 08:26:49
 | [backstage](https://github.com/Boeing/backstage) | Backstage is an open framework for building developer portals | TypeScript | 0 | Apache License 2.0 | 2025-01-10 | 2025-05-01 | 2025-05-01 |
 | [scorecard](https://github.com/Boeing/scorecard) | OpenSSF Scorecard - Security health metrics for Open Source | None | 0 | Apache License 2.0 | 2025-10-17 | 2025-10-17 | 2025-10-13 |
 | [validate-configs-action](https://github.com/Boeing/validate-configs-action) | :octocat: Github Action to validate your config files using the config-file-validator | Go | 2 | Apache License 2.0 | 2025-10-24 | 2026-10-01 | 2026-10-01 |
+| [aero-omni](https://github.com/Boeing/aero-omni) | None | None | 0 | Apache License 2.0 | 2026-10-13 | 2026-10-13 | 2026-10-13 |
