@@ -1,16 +1,16 @@
 # Buf
 
-共 78 个项目，近半年内活跃项目 58 个，1 个团队， 22557 个 Star。
+共 78 个项目，近半年内活跃项目 58 个，1 个团队， 22558 个 Star。
 
 语言 Top 3：Go, TypeScript, Makefile
 
-统计时间：2026-10-17 08:17:57
+统计时间：2026-10-18 08:18:31
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) | Protocol Buffer Validation - replaced by https://github.com/bufbuild/protovalidate | Go | 4113 | Apache License 2.0 | 2017-10-03 | 2026-10-17 | 2026-05-27 |
 | [homebrew-buf](https://github.com/bufbuild/homebrew-buf) | Homebrew tap for Buf. | Shell | 14 | Apache License 2.0 | 2019-10-02 | 2026-10-14 | 2026-10-14 |
-| [buf](https://github.com/bufbuild/buf) | The best way of working with Protocol Buffers. | Go | 11489 | Apache License 2.0 | 2019-10-03 | 2026-10-17 | 2026-10-15 |
+| [buf](https://github.com/bufbuild/buf) | The best way of working with Protocol Buffers. | Go | 11489 | Apache License 2.0 | 2019-10-03 | 2026-10-17 | 2026-10-18 |
 | [vim-buf](https://github.com/bufbuild/vim-buf) | Vim integration for Buf. | Vim Script | 38 | Apache License 2.0 | 2019-10-03 | 2025-09-08 | 2026-10-14 |
 | [buf-examples](https://github.com/bufbuild/buf-examples) | Example repository that uses Buf. | Go | 109 | Apache License 2.0 | 2019-10-12 | 2026-09-16 | 2026-10-09 |
 | [makego](https://github.com/bufbuild/makego) | Makefile setup for our Golang projects. | Makefile | 110 | Apache License 2.0 | 2019-11-18 | 2026-10-16 | 2026-10-14 |
@@ -23,7 +23,7 @@
 | [buf-tour](https://github.com/bufbuild/buf-tour) | None | None | 51 | - | 2021-08-10 | 2025-04-29 | 2025-04-29 |
 | [rules_buf](https://github.com/bufbuild/rules_buf) | Bazel rules for Buf. | Starlark | 63 | Apache License 2.0 | 2021-11-16 | 2026-10-16 | 2026-10-16 |
 | [intellij-buf](https://github.com/bufbuild/intellij-buf) | IntelliJ plugin for Buf | Kotlin | 23 | Apache License 2.0 | 2022-03-08 | 2026-10-13 | 2026-10-13 |
-| [protobuf-es](https://github.com/bufbuild/protobuf-es) | Protocol Buffers for ECMAScript. The only JavaScript Protobuf library that is fully-compliant with Protobuf conformance tests. | TypeScript | 1673 | Apache License 2.0 | 2022-03-14 | 2026-10-16 | 2026-10-16 |
+| [protobuf-es](https://github.com/bufbuild/protobuf-es) | Protocol Buffers for ECMAScript. The only JavaScript Protobuf library that is fully-compliant with Protobuf conformance tests. | TypeScript | 1674 | Apache License 2.0 | 2022-03-14 | 2026-10-18 | 2026-10-16 |
 | [protocompile](https://github.com/bufbuild/protocompile) | A parsing/linking engine for protobuf; the guts for a pure Go replacement of protoc. | Go | 344 | Apache License 2.0 | 2022-08-11 | 2026-10-16 | 2026-10-16 |
 | [buf-language-server](https://github.com/bufbuild/buf-language-server) | Archived: LSP support is being built into the Buf CLI | Go | 129 | Apache License 2.0 | 2022-08-15 | 2026-09-17 | 2024-02-13 |
 | [plugins](https://github.com/bufbuild/plugins) | Remote Protobuf plugins available on the BSR | Dockerfile | 73 | Apache License 2.0 | 2022-08-16 | 2026-10-16 | 2026-10-16 |
@@ -70,7 +70,7 @@
 | [buf-quickstart](https://github.com/bufbuild/buf-quickstart) | Example code for quickstarts in the Buf docs | None | 0 | - | 2025-03-18 | 2025-04-25 | 2025-04-25 |
 | [protovalidate-es](https://github.com/bufbuild/protovalidate-es) | Protocol Buffer Validation for ECMAScript | TypeScript | 84 | Apache License 2.0 | 2025-04-28 | 2026-10-16 | 2026-10-16 |
 | [interrupt-go](https://github.com/bufbuild/interrupt-go) | A small helper library to handle interrupt signals in Go programs. | Go | 3 | Apache License 2.0 | 2025-05-09 | 2026-08-24 | 2026-08-24 |
-| [app-go](https://github.com/bufbuild/app-go) | A library to help build Go applications. | Go | 6 | Apache License 2.0 | 2025-05-09 | 2026-10-13 | 2026-10-16 |
+| [app-go](https://github.com/bufbuild/app-go) | A library to help build Go applications. | Go | 6 | Apache License 2.0 | 2025-05-09 | 2026-10-13 | 2026-10-17 |
 | [standard-go](https://github.com/bufbuild/standard-go) | Extensions to the Go standard library. | Go | 6 | Apache License 2.0 | 2025-05-12 | 2026-05-29 | 2026-07-20 |
 | [protokafka](https://github.com/bufbuild/protokafka) | None | Go | 4 | Apache License 2.0 | 2025-05-15 | 2026-07-25 | 2026-07-20 |
 | [buf-plugin-protovalidate-strict](https://github.com/bufbuild/buf-plugin-protovalidate-strict) | A Buf check plugin for strictly enforcing Protovalidate annotations. | Go | 4 | Apache License 2.0 | 2025-06-25 | 2026-01-23 | 2025-11-24 |

@@ -1,14 +1,14 @@
 # Sony
 
-共 151 个项目，近半年内活跃项目 40 个，1 个团队， 18535 个 Star。
+共 151 个项目，近半年内活跃项目 40 个，1 个团队， 18538 个 Star。
 
 语言 Top 3：Python, C++, JavaScript
 
-统计时间：2026-10-17 08:17:57
+统计时间：2026-10-18 08:18:31
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3706 | MIT License | 2015-05-29 | 2026-10-15 | 2026-02-07 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3707 | MIT License | 2015-05-29 | 2026-10-17 | 2026-02-07 |
 | [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4419 | MIT License | 2015-05-29 | 2026-10-16 | 2026-02-12 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
@@ -100,7 +100,7 @@
 | [CaR](https://github.com/sony/CaR) | None | Python | 5 | MIT License | 2025-02-06 | 2025-08-19 | 2025-02-07 |
 | [DFM](https://github.com/sony/DFM) | None | JavaScript | 0 | - | 2025-02-12 | 2025-02-24 | 2025-02-24 |
 | [QuietWalk](https://github.com/sony/QuietWalk) | None | JavaScript | 1 | - | 2025-02-12 | 2026-05-20 | 2025-02-23 |
-| [talkhier](https://github.com/sony/talkhier) | Official Repo for The Paper "Talk Structurally, Act Hierarchically: A Collaborative Framework for LLM Multi-Agent Systems” (IEEE TAI) | Python | 64 | Other | 2025-02-13 | 2026-07-06 | 2025-02-24 |
+| [talkhier](https://github.com/sony/talkhier) | Official Repo for The Paper "Talk Structurally, Act Hierarchically: A Collaborative Framework for LLM Multi-Agent Systems” (IEEE TAI) | Python | 65 | Other | 2025-02-13 | 2026-10-17 | 2025-02-24 |
 | [aki](https://github.com/sony/aki) | Official implementation of "Seeing is Understanding: Unlocking Causal Attention into Modality-Mutual Attention for Multimodal LLMs" | Python | 21 | Other | 2025-02-13 | 2026-05-22 | 2026-05-11 |
 | [vct](https://github.com/sony/vct) | None | Jupyter Notebook | 22 | MIT License | 2025-02-14 | 2026-05-28 | 2026-02-24 |
 | [EXID](https://github.com/sony/EXID) | Official implementation of Enhancing Generalization of Offline RL in Data-Limited Settings with Heuristic Rules (Accepted in IEEE TRANSACTIONS ON ARTIFICIAL INTELLIGENCE 2025) | Jupyter Notebook | 0 | MIT License | 2025-02-19 | 2025-02-27 | 2025-02-20 |
@@ -112,7 +112,7 @@
 | [steermusic](https://github.com/sony/steermusic) | None | Python | 8 | MIT License | 2025-04-07 | 2026-02-25 | 2025-12-08 |
 | [x590schema](https://github.com/sony/x590schema) | None | Python | 4 | MIT License | 2025-05-08 | 2026-08-20 | 2025-05-29 |
 | [SIoT-Majipro](https://github.com/sony/SIoT-Majipro) | None | C | 0 | Apache License 2.0 | 2025-05-09 | 2025-11-25 | 2025-11-25 |
-| [sbctm](https://github.com/sony/sbctm) | Schrödinger bridge consistency trajectory models for speech enhancement | Python | 13 | Other | 2025-05-09 | 2026-06-01 | 2025-10-01 |
+| [sbctm](https://github.com/sony/sbctm) | Schrödinger bridge consistency trajectory models for speech enhancement | Python | 14 | Other | 2025-05-09 | 2026-10-18 | 2025-10-01 |
 | [oil](https://github.com/sony/oil) | Official Repo for The Paper "Auto-Bidding in Real-Time Auctions via Oracle Imitation Learning" (KDD'25, Research Track) | Python | 7 | MIT License | 2025-05-23 | 2026-07-20 | 2025-05-23 |
 | [neural-network-console](https://github.com/sony/neural-network-console) | None | C++ | 41 | Apache License 2.0 | 2025-05-29 | 2026-07-29 | 2026-07-24 |
 | [NeISFpp](https://github.com/sony/NeISFpp) | None | Python | 5 | Other | 2025-06-09 | 2026-09-29 | 2025-07-25 |

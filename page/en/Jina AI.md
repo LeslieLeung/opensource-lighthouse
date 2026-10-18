@@ -1,15 +1,15 @@
 # Jina AI
 
-A total of 267 projects, 16 active projects in the last six months, 1 teams, and 74024 stars.
+A total of 267 projects, 16 active projects in the last six months, 1 teams, and 74023 stars.
 
 Top 3 Languages: Python, TypeScript, Jupyter Notebook
 
-Statistics Date: 2026-10-17 08:17:57
+Statistics Date: 2026-10-18 08:18:31
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [clip-as-service](https://github.com/jina-ai/clip-as-service) | 🏄 Scalable embedding, reasoning, ranking for images and sentences with CLIP | Python | 12831 | Other | 2018-11-12 | 2026-10-16 | 2024-01-23 |
-| [serve](https://github.com/jina-ai/serve) | ☁️ Build multimodal AI applications with cloud-native stack | Python | 21855 | Apache License 2.0 | 2020-02-13 | 2026-10-16 | 2025-03-24 |
+| [serve](https://github.com/jina-ai/serve) | ☁️ Build multimodal AI applications with cloud-native stack | Python | 21854 | Apache License 2.0 | 2020-02-13 | 2026-10-17 | 2025-03-24 |
 | [examples](https://github.com/jina-ai/examples) | Jina examples and demos to help you get started | Python | 462 | Apache License 2.0 | 2020-02-17 | 2026-10-12 | 2021-11-01 |
 | [docs](https://github.com/jina-ai/docs) | Jina V1 Official Documentation. For the latest one, please check out https://docs.jina.ai | HTML | 34 | - | 2020-03-09 | 2026-06-30 | 2022-06-13 |
 | [jina-hub](https://github.com/jina-ai/jina-hub) | An open-registry for hosting Jina executors via container images | Python | 107 | Apache License 2.0 | 2020-03-15 | 2026-05-31 | 2021-08-31 |
@@ -174,7 +174,7 @@ Statistics Date: 2026-10-17 08:17:57
 | [executor-elasticsearch-indexer](https://github.com/jina-ai/executor-elasticsearch-indexer) | None | Python | 1 | - | 2022-05-06 | 2023-08-21 | 2022-11-24 |
 | [example-grafana-prometheus](https://github.com/jina-ai/example-grafana-prometheus) | Docker compose file to use prometheus and grafana with Jina | None | 1 | - | 2022-05-09 | 2024-07-28 | 2022-10-21 |
 | [helm-charts](https://github.com/jina-ai/helm-charts) | Jina Helm Chart Repository | Mustache | 1 | - | 2022-05-23 | 2023-08-09 | 2023-12-04 |
-| [discoart](https://github.com/jina-ai/discoart) | 🪩 Create Disco Diffusion artworks in one line | Python | 3820 | Other | 2022-06-30 | 2026-10-14 | 2023-05-16 |
+| [discoart](https://github.com/jina-ai/discoart) | 🪩 Create Disco Diffusion artworks in one line | Python | 3818 | Other | 2022-06-30 | 2026-10-18 | 2023-05-16 |
 | [docsQA-status](https://github.com/jina-ai/docsQA-status) | History of DocsQA service availability | Python | 2 | Apache License 2.0 | 2022-07-14 | 2022-07-26 | 2022-09-08 |
 | [jcap](https://github.com/jina-ai/jcap) | A repository for JCAP members to submit their tasks | None | 0 | - | 2022-07-15 | 2022-12-13 | 2022-07-29 |
 | [guided-diffusion](https://github.com/jina-ai/guided-diffusion) | None | Python | 0 | MIT License | 2022-07-15 | 2022-07-16 | 2022-08-04 |
@@ -236,7 +236,7 @@ Statistics Date: 2026-10-17 08:17:57
 | [ColBERT](https://github.com/jina-ai/ColBERT) | ColBERT: state-of-the-art neural search (SIGIR'20, TACL'21, NeurIPS'21, NAACL'22, CIKM'22, ACL'23, EMNLP'23) | Python | 6 | MIT License | 2024-02-02 | 2025-06-11 | 2024-05-17 |
 | [paper-sag](https://github.com/jina-ai/paper-sag) | None | None | 0 | - | 2024-02-23 | 2024-02-23 | 2024-02-23 |
 | [csp-examples](https://github.com/jina-ai/csp-examples) | None | Jupyter Notebook | 2 | - | 2024-04-09 | 2026-08-22 | 2026-08-20 |
-| [reader](https://github.com/jina-ai/reader) | Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/ | TypeScript | 12157 | Apache License 2.0 | 2024-04-10 | 2026-10-17 | 2026-05-22 |
+| [reader](https://github.com/jina-ai/reader) | Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/ | TypeScript | 12158 | Apache License 2.0 | 2024-04-10 | 2026-10-17 | 2026-05-22 |
 | [puppeteer-extra-plugin-page-proxy](https://github.com/jina-ai/puppeteer-extra-plugin-page-proxy) | Additional module to use with 'puppeteer' for setting proxies per page basis. | None | 3 | - | 2024-04-23 | 2025-04-04 | 2024-10-29 |
 | [terminal-news](https://github.com/jina-ai/terminal-news) | Access Jina AI news via ssh guest@news.jina.ai | Python | 12 | Apache License 2.0 | 2024-05-03 | 2026-06-26 | 2024-05-03 |
 | [chunking](https://github.com/jina-ai/chunking) | None | Python | 7 | - | 2024-06-23 | 2025-04-13 | 2024-07-10 |
@@ -269,7 +269,7 @@ Statistics Date: 2026-10-17 08:17:57
 | [wikipedia-vector-demo](https://github.com/jina-ai/wikipedia-vector-demo) | None | TypeScript | 6 | Apache License 2.0 | 2026-03-10 | 2026-09-23 | 2026-04-07 |
 | [audio-embedding-kickstarter](https://github.com/jina-ai/audio-embedding-kickstarter) | None | Python | 11 | - | 2026-03-11 | 2026-08-31 | 2026-03-11 |
 | [MMTEB-MCP](https://github.com/jina-ai/MMTEB-MCP) | None | Python | 2 | - | 2026-03-13 | 2026-04-26 | 2026-04-02 |
-| [cli](https://github.com/jina-ai/cli) | All Jina AI APIs as Unix CLI commands. Search, read, embed, rerank - with pipes. | Python | 180 | Apache License 2.0 | 2026-03-13 | 2026-10-15 | 2026-08-03 |
+| [cli](https://github.com/jina-ai/cli) | All Jina AI APIs as Unix CLI commands. Search, read, embed, rerank - with pipes. | Python | 181 | Apache License 2.0 | 2026-03-13 | 2026-10-17 | 2026-08-03 |
 | [olmocr-bench](https://github.com/jina-ai/olmocr-bench) | None | Python | 2 | - | 2026-03-16 | 2026-06-30 | 2026-03-17 |
 | [mteb-rteb-news](https://github.com/jina-ai/mteb-rteb-news) | MTEB: Massive Text Embedding Benchmark | None | 0 | Apache License 2.0 | 2026-04-27 | 2026-04-27 | 2026-04-30 |
 | [jina-on-prem](https://github.com/jina-ai/jina-on-prem) | Air-gapped deployment toolkit for Jina AI models | Python | 21 | - | 2026-05-21 | 2026-10-17 | 2026-10-09 |
