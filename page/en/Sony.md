@@ -1,14 +1,14 @@
 # Sony
 
-A total of 151 projects, 40 active projects in the last six months, 1 teams, and 18538 stars.
+A total of 151 projects, 40 active projects in the last six months, 1 teams, and 18541 stars.
 
 Top 3 Languages: Python, C++, JavaScript
 
-Statistics Date: 2026-10-18 08:18:31
+Statistics Date: 2026-10-19 08:25:43
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3707 | MIT License | 2015-05-29 | 2026-10-17 | 2026-02-07 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3708 | MIT License | 2015-05-29 | 2026-10-18 | 2026-02-07 |
 | [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4419 | MIT License | 2015-05-29 | 2026-10-16 | 2026-02-12 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
@@ -43,7 +43,7 @@ Statistics Date: 2026-10-18 08:18:31
 | [lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) | None | Python | 0 | MIT License | 2021-03-25 | 2021-05-13 | 2021-05-13 |
 | [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 131 | Apache License 2.0 | 2021-06-11 | 2026-08-18 | 2026-08-18 |
 | [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 110 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2026-09-19 | 2024-12-19 |
-| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 652 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2026-10-16 | 2025-07-09 |
+| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 653 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2026-10-18 | 2025-07-09 |
 | [flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) | Flutter plugins for embedded Linux (eLinux) | C++ | 61 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2026-05-18 | 2024-12-13 |
 | [ds-research-code](https://github.com/sony/ds-research-code) | None | Python | 6 | - | 2021-07-19 | 2026-06-14 | 2026-03-27 |
 | [pyIEOE](https://github.com/sony/pyIEOE) | None | Python | 32 | MIT License | 2021-07-20 | 2025-07-22 | 2025-02-21 |
@@ -112,7 +112,7 @@ Statistics Date: 2026-10-18 08:18:31
 | [steermusic](https://github.com/sony/steermusic) | None | Python | 8 | MIT License | 2025-04-07 | 2026-02-25 | 2025-12-08 |
 | [x590schema](https://github.com/sony/x590schema) | None | Python | 4 | MIT License | 2025-05-08 | 2026-08-20 | 2025-05-29 |
 | [SIoT-Majipro](https://github.com/sony/SIoT-Majipro) | None | C | 0 | Apache License 2.0 | 2025-05-09 | 2025-11-25 | 2025-11-25 |
-| [sbctm](https://github.com/sony/sbctm) | Schrödinger bridge consistency trajectory models for speech enhancement | Python | 14 | Other | 2025-05-09 | 2026-10-18 | 2025-10-01 |
+| [sbctm](https://github.com/sony/sbctm) | Schrödinger bridge consistency trajectory models for speech enhancement | Python | 15 | Other | 2025-05-09 | 2026-10-19 | 2025-10-01 |
 | [oil](https://github.com/sony/oil) | Official Repo for The Paper "Auto-Bidding in Real-Time Auctions via Oracle Imitation Learning" (KDD'25, Research Track) | Python | 7 | MIT License | 2025-05-23 | 2026-07-20 | 2025-05-23 |
 | [neural-network-console](https://github.com/sony/neural-network-console) | None | C++ | 41 | Apache License 2.0 | 2025-05-29 | 2026-07-29 | 2026-07-24 |
 | [NeISFpp](https://github.com/sony/NeISFpp) | None | Python | 5 | Other | 2025-06-09 | 2026-09-29 | 2025-07-25 |
