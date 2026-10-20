@@ -1,10 +1,10 @@
 # Sony
 
-共 151 个项目，近半年内活跃项目 40 个，1 个团队， 18541 个 Star。
+共 151 个项目，近半年内活跃项目 40 个，1 个团队， 18544 个 Star。
 
 语言 Top 3：Python, C++, JavaScript
 
-统计时间：2026-10-19 08:25:43
+统计时间：2026-10-20 08:20:55
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -21,7 +21,7 @@
 | [smarttennissensorsdk](https://github.com/sony/smarttennissensorsdk) | The Smart Tennis Sensor plugs into the end of a tennis racket and records data about all the shots you make throughout a game or practice. With the SDK, you can develop apps for analyzing and presenting that data in real-time. | Java | 8 | Apache License 2.0 | 2016-08-30 | 2024-07-29 | 2017-02-10 |
 | [openocd-nuttx](https://github.com/sony/openocd-nuttx) | Fork of OpenOCD with NuttX thread support. | C | 25 | GNU General Public License v2.0 | 2016-10-18 | 2026-08-14 | 2019-01-21 |
 | [nnabla-ext-cuda](https://github.com/sony/nnabla-ext-cuda) | A CUDA Extension of Neural Network Libraries | Cuda | 91 | Apache License 2.0 | 2017-06-21 | 2026-07-29 | 2026-07-24 |
-| [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2773 | Apache License 2.0 | 2017-06-26 | 2026-10-15 | 2026-07-24 |
+| [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2774 | Apache License 2.0 | 2017-06-26 | 2026-10-19 | 2026-07-24 |
 | [easyhttpcpp](https://github.com/sony/easyhttpcpp) | A cross-platform HTTP client library with a focus on usability and speed | C++ | 176 | MIT License | 2017-08-09 | 2026-09-16 | 2022-01-31 |
 | [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 198 | Apache License 2.0 | 2017-09-07 | 2026-10-15 | 2026-10-05 |
 | [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 57 | Apache License 2.0 | 2017-09-07 | 2026-10-16 | 2026-10-16 |
@@ -64,7 +64,7 @@
 | [Instruct3Dto3D-doc](https://github.com/sony/Instruct3Dto3D-doc) | Official documentation of Instruct 3D-to-3D | HTML | 2 | - | 2023-03-23 | 2024-10-31 | 2024-10-31 |
 | [pixel-guided-diffusion](https://github.com/sony/pixel-guided-diffusion) | Fine-grained Image Editing by Pixel-wise Guidance Using Diffusion Models | Python | 42 | Apache License 2.0 | 2023-04-06 | 2026-08-17 | 2023-06-09 |
 | [ARCv2_Ghidra](https://github.com/sony/ARCv2_Ghidra) | None | None | 1 | Apache License 2.0 | 2023-04-26 | 2025-08-15 | 2023-04-26 |
-| [gibbsddrm](https://github.com/sony/gibbsddrm) | None | Python | 34 | MIT License | 2023-04-26 | 2026-10-07 | 2023-05-29 |
+| [gibbsddrm](https://github.com/sony/gibbsddrm) | None | Python | 35 | MIT License | 2023-04-26 | 2026-10-20 | 2023-05-29 |
 | [fp-diffusion](https://github.com/sony/fp-diffusion) | None | Jupyter Notebook | 33 | Apache License 2.0 | 2023-04-26 | 2026-03-11 | 2024-02-14 |
 | [diffiner](https://github.com/sony/diffiner) | None | Python | 70 | MIT License | 2023-05-30 | 2026-10-14 | 2023-08-16 |
 | [hFT-Transformer](https://github.com/sony/hFT-Transformer) | Pytorch implementation of automatic music transcription method that uses a two-level hierarchical frequency-time Transformer architecture (hFT-Transformer). | Python | 121 | MIT License | 2023-06-26 | 2026-09-27 | 2023-07-11 |
@@ -148,7 +148,7 @@
 | [virtue](https://github.com/sony/virtue) | Official implementation of "VIRTUE: Visual-Interactive Text-Image Universal Embedder (ICLR 2026)" | Python | 5 | Apache License 2.0 | 2026-01-29 | 2026-06-30 | 2026-02-19 |
 | [B3-Seg-project](https://github.com/sony/B3-Seg-project) | None | None | 14 | - | 2026-02-18 | 2026-09-22 | 2026-05-27 |
 | [a_mpqc](https://github.com/sony/a_mpqc) | Official Repo for The Paper "Agentic Model Predictive Questioning Control  in Visual Design” (ICML’26) | Python | 1 | - | 2026-05-13 | 2026-07-05 | 2026-07-03 |
-| [SF-Mamba](https://github.com/sony/SF-Mamba) | None | Python | 4 | Apache License 2.0 | 2026-05-14 | 2026-10-01 | 2026-07-04 |
+| [SF-Mamba](https://github.com/sony/SF-Mamba) | None | Python | 5 | Apache License 2.0 | 2026-05-14 | 2026-10-20 | 2026-07-04 |
 | [web_gen_v_bench](https://github.com/sony/web_gen_v_bench) | Official Repo for The Paper "WebGen-V Bench: Structured Representation for Enhancing Visual Design in LLM-based Web Generation and Evaluation” (KDD’26) | Python | 2 | MIT License | 2026-05-19 | 2026-07-05 | 2026-06-10 |
 | [mucs](https://github.com/sony/mucs) | Code for the paper “Training Data Attribution in Diffusion Models via Mirrored Unlearning and Noise-Consistent Skew” | Python | 5 | Apache License 2.0 | 2026-05-22 | 2026-07-28 | 2026-06-09 |
 | [guda](https://github.com/sony/guda) | None | Python | 1 | MIT License | 2026-05-27 | 2026-05-29 | 2026-05-29 |
