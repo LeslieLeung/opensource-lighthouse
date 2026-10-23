@@ -4,7 +4,7 @@ A total of 151 projects, 40 active projects in the last six months, 1 teams, and
 
 Top 3 Languages: Python, C++, JavaScript
 
-Statistics Date: 2026-10-22 08:21:09
+Statistics Date: 2026-10-23 08:20:50
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -155,7 +155,7 @@ Statistics Date: 2026-10-22 08:21:09
 | [MusTBench](https://github.com/sony/MusTBench) | None | Python | 13 | MIT License | 2026-06-08 | 2026-09-18 | 2026-08-03 |
 | [mocopi-receiver-plugin-3dsmax](https://github.com/sony/mocopi-receiver-plugin-3dsmax) | None | C++ | 3 | Apache License 2.0 | 2026-06-23 | 2026-09-13 | 2026-07-17 |
 | [as-dt1-ros2-driver](https://github.com/sony/as-dt1-ros2-driver) | None | C++ | 8 | Apache License 2.0 | 2026-09-04 | 2026-10-13 | 2026-10-13 |
-| [niwashi](https://github.com/sony/niwashi) | None | Go | 0 | Apache License 2.0 | 2026-09-18 | 2026-10-16 | 2026-10-21 |
+| [niwashi](https://github.com/sony/niwashi) | None | Go | 0 | Apache License 2.0 | 2026-09-18 | 2026-10-16 | 2026-10-23 |
 | [niwashi-recipe](https://github.com/sony/niwashi-recipe) | None | Shell | 0 | Apache License 2.0 | 2026-09-18 | 2026-10-01 | 2026-09-29 |
 | [far](https://github.com/sony/far) | None | Python | 2 | Other | 2026-09-29 | 2026-10-03 | 2026-10-01 |
 | [syn-omni](https://github.com/sony/syn-omni) | None | Python | 2 | Apache License 2.0 | 2026-10-07 | 2026-10-07 | 2026-10-07 |
