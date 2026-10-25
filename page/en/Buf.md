@@ -1,16 +1,16 @@
 # Buf
 
-A total of 78 projects, 58 active projects in the last six months, 1 teams, and 22593 stars.
+A total of 78 projects, 58 active projects in the last six months, 1 teams, and 22594 stars.
 
 Top 3 Languages: Go, TypeScript, Makefile
 
-Statistics Date: 2026-10-24 08:18:42
+Statistics Date: 2026-10-25 08:18:52
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) | Protocol Buffer Validation - replaced by https://github.com/bufbuild/protovalidate | Go | 4113 | Apache License 2.0 | 2017-10-03 | 2026-10-17 | 2026-05-27 |
 | [homebrew-buf](https://github.com/bufbuild/homebrew-buf) | Homebrew tap for Buf. | Shell | 14 | Apache License 2.0 | 2019-10-02 | 2026-10-22 | 2026-10-22 |
-| [buf](https://github.com/bufbuild/buf) | The best way of working with Protocol Buffers. | Go | 11501 | Apache License 2.0 | 2019-10-03 | 2026-10-24 | 2026-10-23 |
+| [buf](https://github.com/bufbuild/buf) | The best way of working with Protocol Buffers. | Go | 11502 | Apache License 2.0 | 2019-10-03 | 2026-10-25 | 2026-10-25 |
 | [vim-buf](https://github.com/bufbuild/vim-buf) | Vim integration for Buf. | Vim Script | 38 | Apache License 2.0 | 2019-10-03 | 2025-09-08 | 2026-10-22 |
 | [buf-examples](https://github.com/bufbuild/buf-examples) | Example repository that uses Buf. | Go | 109 | Apache License 2.0 | 2019-10-12 | 2026-09-16 | 2026-10-09 |
 | [makego](https://github.com/bufbuild/makego) | Makefile setup for our Golang projects. | Makefile | 111 | Apache License 2.0 | 2019-11-18 | 2026-10-22 | 2026-10-22 |
@@ -29,7 +29,7 @@ Statistics Date: 2026-10-24 08:18:42
 | [plugins](https://github.com/bufbuild/plugins) | Remote Protobuf plugins available on the BSR | Dockerfile | 74 | Apache License 2.0 | 2022-08-16 | 2026-10-23 | 2026-10-24 |
 | [base-workflows](https://github.com/bufbuild/base-workflows) | Shared Github Actions for BufBuild Organization. | None | 5 | - | 2022-10-26 | 2026-07-23 | 2026-10-19 |
 | [tools](https://github.com/bufbuild/tools) | A collection of tools written at Buf. | Python | 8 | Apache License 2.0 | 2023-01-19 | 2026-10-20 | 2026-09-24 |
-| [protobuf-conformance](https://github.com/bufbuild/protobuf-conformance) | A repository running the Protobuf conformance tests against various libraries | JavaScript | 40 | Apache License 2.0 | 2023-01-20 | 2026-10-21 | 2026-10-01 |
+| [protobuf-conformance](https://github.com/bufbuild/protobuf-conformance) | A repository running the Protobuf conformance tests against various libraries | JavaScript | 40 | Apache License 2.0 | 2023-01-20 | 2026-10-25 | 2026-10-01 |
 | [reflect-proto](https://github.com/bufbuild/reflect-proto) | Protobuf reflection API. | None | 8 | Apache License 2.0 | 2023-01-24 | 2025-09-08 | 2025-02-13 |
 | [prototransform](https://github.com/bufbuild/prototransform) | Client library for Buf Reflection API, for transforming Protobuf data. | Go | 53 | Apache License 2.0 | 2023-01-30 | 2026-08-17 | 2026-10-19 |
 | [analytics-go](https://github.com/bufbuild/analytics-go) | None | Go | 0 | MIT License | 2023-02-28 | 2024-02-14 | 2024-02-13 |
