@@ -4,11 +4,11 @@
 
 语言 Top 3：Python, C++, JavaScript
 
-统计时间：2026-10-25 08:18:52
+统计时间：2026-10-26 08:27:17
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3708 | MIT License | 2015-05-29 | 2026-10-18 | 2026-02-07 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3708 | MIT License | 2015-05-29 | 2026-10-25 | 2026-02-07 |
 | [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4419 | MIT License | 2015-05-29 | 2026-10-24 | 2026-02-12 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
@@ -132,7 +132,7 @@
 | [mocopi-receiver-plugin-unrealengine](https://github.com/sony/mocopi-receiver-plugin-unrealengine) | None | C++ | 5 | Apache License 2.0 | 2025-08-26 | 2026-09-04 | 2026-09-04 |
 | [mocopi-receiver-plugin-blender](https://github.com/sony/mocopi-receiver-plugin-blender) | None | Python | 5 | Apache License 2.0 | 2025-08-26 | 2026-09-12 | 2026-09-11 |
 | [mocopi-motion-serializer](https://github.com/sony/mocopi-motion-serializer) | None | C++ | 14 | Apache License 2.0 | 2025-08-26 | 2026-07-06 | 2025-12-22 |
-| [LibriTTS-VI](https://github.com/sony/LibriTTS-VI) | None | None | 8 | Other | 2025-09-02 | 2026-09-14 | 2026-09-14 |
+| [LibriTTS-VI](https://github.com/sony/LibriTTS-VI) | None | None | 8 | Other | 2025-09-02 | 2026-10-26 | 2026-09-14 |
 | [oms](https://github.com/sony/oms) | Official Repo for The Paper "OMS: On-the-fly, Multi-Objective, Self-Reflective Ad Keyword Generation via LLM Agent” (EMNLP’25-main) | Python | 0 | MIT License | 2025-09-11 | 2025-09-26 | 2025-09-26 |
 | [mimo](https://github.com/sony/mimo) | Official Repo for The Paper "Mirror in the Model: Ad Banner Image Generation via Reflective Multi-LLM and Multi-modal Agents” (EMNLP’25-Industry) | Python | 0 | MIT License | 2025-09-11 | 2025-12-17 | 2025-09-26 |
 | [multi-plane-segmentation-gpu](https://github.com/sony/multi-plane-segmentation-gpu) | None | JavaScript | 0 | - | 2025-09-26 | 2025-10-03 | 2025-10-03 |
