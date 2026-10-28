@@ -1,10 +1,10 @@
 # Boeing
 
-A total of 37 projects, 8 active projects in the last six months, 1 teams, and 653 stars.
+A total of 38 projects, 9 active projects in the last six months, 1 teams, and 653 stars.
 
 Top 3 Languages: C++, Python, Go
 
-Statistics Date: 2026-10-27 08:22:18
+Statistics Date: 2026-10-28 08:15:53
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -45,3 +45,4 @@ Statistics Date: 2026-10-27 08:22:18
 | [validate-configs-action](https://github.com/Boeing/validate-configs-action) | :octocat: Github Action to validate your config files using the config-file-validator | Go | 2 | Apache License 2.0 | 2025-10-24 | 2026-10-01 | 2026-10-01 |
 | [aero-omni](https://github.com/Boeing/aero-omni) | None | C | 0 | Apache License 2.0 | 2026-10-13 | 2026-10-14 | 2026-10-14 |
 | [tripx](https://github.com/Boeing/tripx) | A modular, simulation-based tool for estimating communicable disease transmission risk across an air travel journey. | None | 0 | GNU General Public License v3.0 | 2026-10-15 | 2026-10-16 | 2026-10-16 |
+| [moveit2](https://github.com/Boeing/moveit2) | :robot: MoveIt for ROS 2 | None | 0 | BSD 3-Clause "New" or "Revised" License | 2026-10-27 | 2026-10-27 | 2026-10-28 |
