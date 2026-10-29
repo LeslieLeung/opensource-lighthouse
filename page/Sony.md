@@ -1,15 +1,15 @@
 # Sony
 
-共 151 个项目，近半年内活跃项目 40 个，1 个团队， 18539 个 Star。
+共 151 个项目，近半年内活跃项目 40 个，1 个团队， 18540 个 Star。
 
 语言 Top 3：Python, C++, JavaScript
 
-统计时间：2026-10-28 08:15:53
+统计时间：2026-10-29 08:15:55
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3709 | MIT License | 2015-05-29 | 2026-10-27 | 2026-02-07 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4417 | MIT License | 2015-05-29 | 2026-10-28 | 2026-02-12 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4418 | MIT License | 2015-05-29 | 2026-10-28 | 2026-02-12 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 420 | MIT License | 2015-09-18 | 2026-07-27 | 2020-12-29 |
@@ -155,7 +155,7 @@
 | [MusTBench](https://github.com/sony/MusTBench) | None | Python | 13 | MIT License | 2026-06-08 | 2026-09-18 | 2026-08-03 |
 | [mocopi-receiver-plugin-3dsmax](https://github.com/sony/mocopi-receiver-plugin-3dsmax) | None | C++ | 3 | Apache License 2.0 | 2026-06-23 | 2026-09-13 | 2026-07-17 |
 | [as-dt1-ros2-driver](https://github.com/sony/as-dt1-ros2-driver) | None | C++ | 8 | Apache License 2.0 | 2026-09-04 | 2026-10-13 | 2026-10-13 |
-| [niwashi](https://github.com/sony/niwashi) | None | Go | 0 | Apache License 2.0 | 2026-09-18 | 2026-10-16 | 2026-10-27 |
+| [niwashi](https://github.com/sony/niwashi) | None | Go | 0 | Apache License 2.0 | 2026-09-18 | 2026-10-16 | 2026-10-29 |
 | [niwashi-recipe](https://github.com/sony/niwashi-recipe) | None | Shell | 0 | Apache License 2.0 | 2026-09-18 | 2026-10-01 | 2026-09-29 |
 | [far](https://github.com/sony/far) | None | Python | 2 | Other | 2026-09-29 | 2026-10-03 | 2026-10-01 |
 | [syn-omni](https://github.com/sony/syn-omni) | None | Python | 2 | Apache License 2.0 | 2026-10-07 | 2026-10-07 | 2026-10-07 |
