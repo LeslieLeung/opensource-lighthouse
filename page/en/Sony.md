@@ -1,14 +1,14 @@
 # Sony
 
-A total of 151 projects, 40 active projects in the last six months, 1 teams, and 18544 stars.
+A total of 151 projects, 40 active projects in the last six months, 1 teams, and 18546 stars.
 
 Top 3 Languages: Python, C++, JavaScript
 
-Statistics Date: 2026-10-30 08:15:32
+Statistics Date: 2026-10-31 08:11:40
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3710 | MIT License | 2015-05-29 | 2026-10-29 | 2026-02-07 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3710 | MIT License | 2015-05-29 | 2026-10-30 | 2026-02-07 |
 | [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4417 | MIT License | 2015-05-29 | 2026-10-29 | 2026-02-12 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
@@ -24,13 +24,13 @@ Statistics Date: 2026-10-30 08:15:32
 | [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2773 | Apache License 2.0 | 2017-06-26 | 2026-10-30 | 2026-07-24 |
 | [easyhttpcpp](https://github.com/sony/easyhttpcpp) | A cross-platform HTTP client library with a focus on usability and speed | C++ | 176 | MIT License | 2017-08-09 | 2026-09-16 | 2022-01-31 |
 | [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 198 | Apache License 2.0 | 2017-09-07 | 2026-10-15 | 2026-10-05 |
-| [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 58 | Apache License 2.0 | 2017-09-07 | 2026-10-27 | 2026-10-21 |
+| [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 58 | Apache License 2.0 | 2017-09-07 | 2026-10-27 | 2026-10-31 |
 | [cdp-js](https://github.com/sony/cdp-js) | Libraries/SDK modules for multi-platform application development | TypeScript | 22 | Apache License 2.0 | 2017-10-10 | 2024-02-11 | 2018-05-10 |
 | [cdp-lib](https://github.com/sony/cdp-lib) | Application template/libraries for cdp-js (Details: see cdp-js repository) | JavaScript | 6 | Apache License 2.0 | 2017-10-10 | 2017-11-13 | 2018-02-23 |
 | [cdp-cli](https://github.com/sony/cdp-cli) | Command line tools for generating start point of multi-platform application development (Details: see cdp-js repository) | HTML | 7 | Apache License 2.0 | 2017-10-10 | 2020-12-13 | 2018-07-13 |
 | [nnabla-examples](https://github.com/sony/nnabla-examples) | Neural Network Libraries https://github.com/sony/nnabla - Examples | Python | 311 | Apache License 2.0 | 2017-11-05 | 2026-10-13 | 2026-07-29 |
 | [nnabla-c-runtime](https://github.com/sony/nnabla-c-runtime) | Neural Network Libraries - C Runtime | C | 57 | Apache License 2.0 | 2018-06-26 | 2026-10-25 | 2026-07-24 |
-| [mapray-js](https://github.com/sony/mapray-js) | JavaScript library for Interactive high quality 3D globes and maps in the browser | TypeScript | 157 | Apache License 2.0 | 2019-01-28 | 2026-10-30 | 2025-07-25 |
+| [mapray-js](https://github.com/sony/mapray-js) | JavaScript library for Interactive high quality 3D globes and maps in the browser | TypeScript | 158 | Apache License 2.0 | 2019-01-28 | 2026-10-31 | 2025-07-25 |
 | [typescript-fsa-redux-middleware](https://github.com/sony/typescript-fsa-redux-middleware) | Fluent syntax for defining typesafe Redux vanilla middlewares on top of typescript-fsa. | TypeScript | 10 | MIT License | 2019-01-29 | 2025-11-14 | 2020-01-24 |
 | [nnabla-doc](https://github.com/sony/nnabla-doc) | None | HTML | 1 | - | 2019-02-20 | 2026-07-29 | 2026-07-24 |
 | [nnabla-dataset-uploader](https://github.com/sony/nnabla-dataset-uploader) | None | Python | 0 | - | 2019-02-26 | 2026-07-29 | 2026-07-24 |
@@ -56,7 +56,7 @@ Statistics Date: 2026-10-30 08:15:32
 | [polar-densification](https://github.com/sony/polar-densification) | None | Python | 34 | MIT License | 2022-09-13 | 2026-08-03 | 2023-03-24 |
 | [nnabla-js](https://github.com/sony/nnabla-js) | None | TypeScript | 1 | Apache License 2.0 | 2022-09-16 | 2026-07-29 | 2026-07-24 |
 | [DiffRoll](https://github.com/sony/DiffRoll) | PyTorch implementation of DiffRoll, a diffusion-based generative automatic music transcription (AMT) model | Jupyter Notebook | 82 | MIT License | 2022-10-11 | 2026-09-26 | 2023-12-06 |
-| [creativeai](https://github.com/sony/creativeai) | None | CSS | 81 | - | 2022-11-21 | 2026-10-14 | 2026-10-10 |
+| [creativeai](https://github.com/sony/creativeai) | None | CSS | 82 | - | 2022-11-21 | 2026-10-31 | 2026-10-10 |
 | [NDJIR](https://github.com/sony/NDJIR) | NDJIR: Neural Direct and Joint Inverse Rendering for Geometry, Lights, and Materials of Real Object | Python | 45 | Apache License 2.0 | 2022-12-14 | 2026-03-30 | 2023-02-08 |
 | [CLIPSep](https://github.com/sony/CLIPSep) | None | Python | 44 | MIT License | 2023-01-24 | 2026-08-07 | 2023-02-21 |
 | [audio-visual-seld-dcase2023](https://github.com/sony/audio-visual-seld-dcase2023) | Baseline method for audio-visual sound event localization and detection task of DCASE 2023 challenge | Python | 69 | MIT License | 2023-02-20 | 2026-09-04 | 2025-03-19 |
