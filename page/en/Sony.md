@@ -1,15 +1,15 @@
 # Sony
 
-A total of 151 projects, 40 active projects in the last six months, 1 teams, and 18546 stars.
+A total of 151 projects, 40 active projects in the last six months, 1 teams, and 18550 stars.
 
 Top 3 Languages: Python, C++, JavaScript
 
-Statistics Date: 2026-10-31 08:11:40
+Statistics Date: 2026-11-01 08:11:39
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3710 | MIT License | 2015-05-29 | 2026-10-30 | 2026-02-07 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4417 | MIT License | 2015-05-29 | 2026-10-29 | 2026-02-12 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3709 | MIT License | 2015-05-29 | 2026-11-01 | 2026-02-07 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4418 | MIT License | 2015-05-29 | 2026-10-31 | 2026-02-12 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 420 | MIT License | 2015-09-18 | 2026-07-27 | 2020-12-29 |
@@ -23,7 +23,7 @@ Statistics Date: 2026-10-31 08:11:40
 | [nnabla-ext-cuda](https://github.com/sony/nnabla-ext-cuda) | A CUDA Extension of Neural Network Libraries | Cuda | 91 | Apache License 2.0 | 2017-06-21 | 2026-07-29 | 2026-07-24 |
 | [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2773 | Apache License 2.0 | 2017-06-26 | 2026-10-30 | 2026-07-24 |
 | [easyhttpcpp](https://github.com/sony/easyhttpcpp) | A cross-platform HTTP client library with a focus on usability and speed | C++ | 176 | MIT License | 2017-08-09 | 2026-09-16 | 2022-01-31 |
-| [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 198 | Apache License 2.0 | 2017-09-07 | 2026-10-15 | 2026-10-05 |
+| [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 199 | Apache License 2.0 | 2017-09-07 | 2026-11-01 | 2026-10-05 |
 | [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 58 | Apache License 2.0 | 2017-09-07 | 2026-10-27 | 2026-10-31 |
 | [cdp-js](https://github.com/sony/cdp-js) | Libraries/SDK modules for multi-platform application development | TypeScript | 22 | Apache License 2.0 | 2017-10-10 | 2024-02-11 | 2018-05-10 |
 | [cdp-lib](https://github.com/sony/cdp-lib) | Application template/libraries for cdp-js (Details: see cdp-js repository) | JavaScript | 6 | Apache License 2.0 | 2017-10-10 | 2017-11-13 | 2018-02-23 |
@@ -91,7 +91,7 @@ Statistics Date: 2026-10-31 08:11:40
 | [Hi-ResLDM](https://github.com/sony/Hi-ResLDM) | None | None | 8 | - | 2025-01-11 | 2026-10-09 | 2025-02-12 |
 | [stamp](https://github.com/sony/stamp) | None | TypeScript | 8 | MIT License | 2025-01-20 | 2026-10-13 | 2026-10-13 |
 | [ABA](https://github.com/sony/ABA) | Official Repo for The Paper "Adaptive Budget Optimization for Multichannel Advertising Using Combinatorial Bandits" (AAMAS'25) | Python | 2 | Other | 2025-01-21 | 2025-07-28 | 2025-02-18 |
-| [MambaPEFT](https://github.com/sony/MambaPEFT) | None | Python | 24 | Apache License 2.0 | 2025-01-24 | 2026-10-01 | 2025-03-27 |
+| [MambaPEFT](https://github.com/sony/MambaPEFT) | None | Python | 25 | Apache License 2.0 | 2025-01-24 | 2026-11-01 | 2025-03-27 |
 | [bl-flowsom_eval](https://github.com/sony/bl-flowsom_eval) | None | Jupyter Notebook | 0 | MIT License | 2025-01-28 | 2025-02-04 | 2025-02-04 |
 | [bl-flowsom_poc](https://github.com/sony/bl-flowsom_poc) | None | Python | 1 | Other | 2025-01-28 | 2025-08-14 | 2025-02-04 |
 | [jys](https://github.com/sony/jys) | None | Python | 7 | MIT License | 2025-02-06 | 2025-11-17 | 2025-11-17 |
@@ -127,11 +127,11 @@ Statistics Date: 2026-10-31 08:11:40
 | [SIoT-TrailCamera](https://github.com/sony/SIoT-TrailCamera) | None | C | 2 | BSD 3-Clause "New" or "Revised" License | 2025-08-19 | 2025-09-01 | 2025-08-29 |
 | [g2d2](https://github.com/sony/g2d2) | None | Python | 1 | Apache License 2.0 | 2025-08-25 | 2026-06-21 | 2025-08-27 |
 | [mocopi-receiver-plugin-unity](https://github.com/sony/mocopi-receiver-plugin-unity) | None | C# | 37 | Apache License 2.0 | 2025-08-26 | 2026-07-02 | 2025-12-22 |
-| [mocopi-receiver-plugin-motionbuilder](https://github.com/sony/mocopi-receiver-plugin-motionbuilder) | None | C++ | 5 | Apache License 2.0 | 2025-08-26 | 2026-03-13 | 2026-01-20 |
+| [mocopi-receiver-plugin-motionbuilder](https://github.com/sony/mocopi-receiver-plugin-motionbuilder) | None | C++ | 6 | Apache License 2.0 | 2025-08-26 | 2026-10-31 | 2026-01-20 |
 | [mocopi-receiver-plugin-maya](https://github.com/sony/mocopi-receiver-plugin-maya) | None | C++ | 3 | Apache License 2.0 | 2025-08-26 | 2026-08-23 | 2026-01-29 |
 | [mocopi-receiver-plugin-unrealengine](https://github.com/sony/mocopi-receiver-plugin-unrealengine) | None | C++ | 5 | Apache License 2.0 | 2025-08-26 | 2026-09-04 | 2026-09-04 |
 | [mocopi-receiver-plugin-blender](https://github.com/sony/mocopi-receiver-plugin-blender) | None | Python | 5 | Apache License 2.0 | 2025-08-26 | 2026-09-12 | 2026-09-11 |
-| [mocopi-motion-serializer](https://github.com/sony/mocopi-motion-serializer) | None | C++ | 14 | Apache License 2.0 | 2025-08-26 | 2026-07-06 | 2025-12-22 |
+| [mocopi-motion-serializer](https://github.com/sony/mocopi-motion-serializer) | None | C++ | 15 | Apache License 2.0 | 2025-08-26 | 2026-10-31 | 2025-12-22 |
 | [LibriTTS-VI](https://github.com/sony/LibriTTS-VI) | None | None | 8 | Other | 2025-09-02 | 2026-10-26 | 2026-09-14 |
 | [oms](https://github.com/sony/oms) | Official Repo for The Paper "OMS: On-the-fly, Multi-Objective, Self-Reflective Ad Keyword Generation via LLM Agent” (EMNLP’25-main) | Python | 0 | MIT License | 2025-09-11 | 2025-09-26 | 2025-09-26 |
 | [mimo](https://github.com/sony/mimo) | Official Repo for The Paper "Mirror in the Model: Ad Banner Image Generation via Reflective Multi-LLM and Multi-modal Agents” (EMNLP’25-Industry) | Python | 0 | MIT License | 2025-09-11 | 2025-12-17 | 2025-09-26 |
