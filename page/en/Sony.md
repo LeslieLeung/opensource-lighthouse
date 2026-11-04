@@ -1,15 +1,15 @@
 # Sony
 
-A total of 151 projects, 40 active projects in the last six months, 1 teams, and 18552 stars.
+A total of 151 projects, 40 active projects in the last six months, 1 teams, and 18554 stars.
 
 Top 3 Languages: Python, C++, JavaScript
 
-Statistics Date: 2026-11-03 08:13:15
+Statistics Date: 2026-11-04 08:14:00
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3709 | MIT License | 2015-05-29 | 2026-11-01 | 2026-02-07 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4419 | MIT License | 2015-05-29 | 2026-11-03 | 2026-02-12 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3710 | MIT License | 2015-05-29 | 2026-11-03 | 2026-02-07 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4418 | MIT License | 2015-05-29 | 2026-11-03 | 2026-02-12 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 420 | MIT License | 2015-09-18 | 2026-07-27 | 2020-12-29 |
@@ -21,7 +21,7 @@ Statistics Date: 2026-11-03 08:13:15
 | [smarttennissensorsdk](https://github.com/sony/smarttennissensorsdk) | The Smart Tennis Sensor plugs into the end of a tennis racket and records data about all the shots you make throughout a game or practice. With the SDK, you can develop apps for analyzing and presenting that data in real-time. | Java | 8 | Apache License 2.0 | 2016-08-30 | 2024-07-29 | 2017-02-10 |
 | [openocd-nuttx](https://github.com/sony/openocd-nuttx) | Fork of OpenOCD with NuttX thread support. | C | 25 | GNU General Public License v2.0 | 2016-10-18 | 2026-08-14 | 2019-01-21 |
 | [nnabla-ext-cuda](https://github.com/sony/nnabla-ext-cuda) | A CUDA Extension of Neural Network Libraries | Cuda | 91 | Apache License 2.0 | 2017-06-21 | 2026-07-29 | 2026-07-24 |
-| [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2773 | Apache License 2.0 | 2017-06-26 | 2026-10-30 | 2026-07-24 |
+| [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2773 | Apache License 2.0 | 2017-06-26 | 2026-11-03 | 2026-07-24 |
 | [easyhttpcpp](https://github.com/sony/easyhttpcpp) | A cross-platform HTTP client library with a focus on usability and speed | C++ | 176 | MIT License | 2017-08-09 | 2026-09-16 | 2022-01-31 |
 | [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 199 | Apache License 2.0 | 2017-09-07 | 2026-11-01 | 2026-10-05 |
 | [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 58 | Apache License 2.0 | 2017-09-07 | 2026-10-27 | 2026-11-01 |
@@ -81,7 +81,7 @@ Statistics Date: 2026-11-03 08:13:15
 | [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 101 | MIT License | 2024-06-04 | 2026-02-27 | 2025-03-31 |
 | [silentcipher](https://github.com/sony/silentcipher) | None | Python | 109 | MIT License | 2024-06-05 | 2026-11-02 | 2024-07-22 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 22 | MIT License | 2024-07-09 | 2026-05-28 | 2025-06-09 |
-| [genwarp](https://github.com/sony/genwarp) | None | Python | 313 | MIT License | 2024-08-06 | 2026-10-06 | 2024-09-26 |
+| [genwarp](https://github.com/sony/genwarp) | None | Python | 314 | MIT License | 2024-08-06 | 2026-11-04 | 2024-09-26 |
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 57 | MIT License | 2024-09-05 | 2026-09-14 | 2024-11-05 |
 | [esstra](https://github.com/sony/esstra) | A software suite for enhancing software supply chain transparency | Python | 35 | Other | 2024-10-03 | 2026-09-15 | 2026-09-15 |
 | [pagoda](https://github.com/sony/pagoda) | None | Python | 23 | MIT License | 2024-10-23 | 2026-08-13 | 2024-11-21 |
@@ -108,7 +108,7 @@ Statistics Date: 2026-11-03 08:13:15
 | [alice](https://github.com/sony/alice) | None | Jupyter Notebook | 1 | MIT License | 2025-03-10 | 2025-06-17 | 2025-03-10 |
 | [clews](https://github.com/sony/clews) | None | Python | 37 | MIT License | 2025-03-12 | 2026-08-31 | 2026-05-22 |
 | [learning-feet-imu-locomotion](https://github.com/sony/learning-feet-imu-locomotion) | None | JavaScript | 0 | - | 2025-03-24 | 2025-04-11 | 2025-04-11 |
-| [di4c](https://github.com/sony/di4c) | None | Python | 13 | MIT License | 2025-04-02 | 2026-09-27 | 2026-02-17 |
+| [di4c](https://github.com/sony/di4c) | None | Python | 14 | MIT License | 2025-04-02 | 2026-11-03 | 2026-02-17 |
 | [steermusic](https://github.com/sony/steermusic) | None | Python | 8 | MIT License | 2025-04-07 | 2026-02-25 | 2025-12-08 |
 | [x590schema](https://github.com/sony/x590schema) | None | Python | 4 | MIT License | 2025-05-08 | 2026-08-20 | 2025-05-29 |
 | [SIoT-Majipro](https://github.com/sony/SIoT-Majipro) | None | C | 0 | Apache License 2.0 | 2025-05-09 | 2025-11-25 | 2025-11-25 |
