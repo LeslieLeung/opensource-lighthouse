@@ -1,17 +1,17 @@
 # Boeing
 
-A total of 38 projects, 9 active projects in the last six months, 1 teams, and 654 stars.
+A total of 38 projects, 9 active projects in the last six months, 1 teams, and 655 stars.
 
 Top 3 Languages: C++, Python, Go
 
-Statistics Date: 2026-11-04 08:14:00
+Statistics Date: 2026-11-05 08:15:00
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [modular_cartographer](https://github.com/Boeing/modular_cartographer) | None | C++ | 17 | Other | 2020-11-23 | 2026-10-20 | 2023-11-24 |
 | [cartographer](https://github.com/Boeing/cartographer) | None | C++ | 31 | Other | 2020-11-23 | 2026-09-24 | 2023-11-24 |
 | [math6d](https://github.com/Boeing/math6d) | None | Python | 4 | Other | 2020-11-24 | 2024-01-19 | 2020-11-24 |
-| [modular_navigation](https://github.com/Boeing/modular_navigation) | None | C++ | 12 | Other | 2020-11-24 | 2026-07-31 | 2023-11-24 |
+| [modular_navigation](https://github.com/Boeing/modular_navigation) | None | C++ | 13 | Other | 2020-11-24 | 2026-11-04 | 2023-11-24 |
 | [image_transport_plugins](https://github.com/Boeing/image_transport_plugins) | None | C++ | 2 | Other | 2021-06-17 | 2024-01-19 | 2021-06-17 |
 | [config-file-validator](https://github.com/Boeing/config-file-validator) | Cross-platform config file CLI toolchain. Validates syntax, schema compliance, and formatting across 18 different configuration file types. Written in Go. | Go | 518 | Apache License 2.0 | 2022-12-06 | 2026-10-31 | 2026-10-29 |
 | [bazel-remote-helm-chart](https://github.com/Boeing/bazel-remote-helm-chart) | None | None | 1 | Apache License 2.0 | 2023-02-20 | 2023-05-03 | 2023-03-28 |
