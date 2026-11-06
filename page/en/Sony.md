@@ -1,10 +1,10 @@
 # Sony
 
-A total of 151 projects, 40 active projects in the last six months, 1 teams, and 18554 stars.
+A total of 151 projects, 40 active projects in the last six months, 1 teams, and 18558 stars.
 
 Top 3 Languages: Python, C++, JavaScript
 
-Statistics Date: 2026-11-05 08:15:00
+Statistics Date: 2026-11-06 08:13:42
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -23,14 +23,14 @@ Statistics Date: 2026-11-05 08:15:00
 | [nnabla-ext-cuda](https://github.com/sony/nnabla-ext-cuda) | A CUDA Extension of Neural Network Libraries | Cuda | 91 | Apache License 2.0 | 2017-06-21 | 2026-07-29 | 2026-07-24 |
 | [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2772 | Apache License 2.0 | 2017-06-26 | 2026-11-04 | 2026-07-24 |
 | [easyhttpcpp](https://github.com/sony/easyhttpcpp) | A cross-platform HTTP client library with a focus on usability and speed | C++ | 176 | MIT License | 2017-08-09 | 2026-09-16 | 2022-01-31 |
-| [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 199 | Apache License 2.0 | 2017-09-07 | 2026-11-04 | 2026-11-04 |
+| [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 200 | Apache License 2.0 | 2017-09-07 | 2026-11-05 | 2026-11-04 |
 | [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 58 | Apache License 2.0 | 2017-09-07 | 2026-10-27 | 2026-11-05 |
 | [cdp-js](https://github.com/sony/cdp-js) | Libraries/SDK modules for multi-platform application development | TypeScript | 22 | Apache License 2.0 | 2017-10-10 | 2024-02-11 | 2018-05-10 |
 | [cdp-lib](https://github.com/sony/cdp-lib) | Application template/libraries for cdp-js (Details: see cdp-js repository) | JavaScript | 6 | Apache License 2.0 | 2017-10-10 | 2017-11-13 | 2018-02-23 |
 | [cdp-cli](https://github.com/sony/cdp-cli) | Command line tools for generating start point of multi-platform application development (Details: see cdp-js repository) | HTML | 7 | Apache License 2.0 | 2017-10-10 | 2020-12-13 | 2018-07-13 |
 | [nnabla-examples](https://github.com/sony/nnabla-examples) | Neural Network Libraries https://github.com/sony/nnabla - Examples | Python | 309 | Apache License 2.0 | 2017-11-05 | 2026-11-04 | 2026-07-29 |
 | [nnabla-c-runtime](https://github.com/sony/nnabla-c-runtime) | Neural Network Libraries - C Runtime | C | 57 | Apache License 2.0 | 2018-06-26 | 2026-10-25 | 2026-07-24 |
-| [mapray-js](https://github.com/sony/mapray-js) | JavaScript library for Interactive high quality 3D globes and maps in the browser | TypeScript | 158 | Apache License 2.0 | 2019-01-28 | 2026-10-31 | 2025-07-25 |
+| [mapray-js](https://github.com/sony/mapray-js) | JavaScript library for Interactive high quality 3D globes and maps in the browser | TypeScript | 159 | Apache License 2.0 | 2019-01-28 | 2026-11-06 | 2025-07-25 |
 | [typescript-fsa-redux-middleware](https://github.com/sony/typescript-fsa-redux-middleware) | Fluent syntax for defining typesafe Redux vanilla middlewares on top of typescript-fsa. | TypeScript | 10 | MIT License | 2019-01-29 | 2025-11-14 | 2020-01-24 |
 | [nnabla-doc](https://github.com/sony/nnabla-doc) | None | HTML | 1 | - | 2019-02-20 | 2026-07-29 | 2026-07-24 |
 | [nnabla-dataset-uploader](https://github.com/sony/nnabla-dataset-uploader) | None | Python | 0 | - | 2019-02-26 | 2026-07-29 | 2026-07-24 |
@@ -50,13 +50,13 @@ Statistics Date: 2026-11-05 08:15:00
 | [nnc-plugin](https://github.com/sony/nnc-plugin) | Plugins for Neural Network Console. | Python | 16 | Apache License 2.0 | 2021-08-05 | 2026-07-29 | 2026-07-24 |
 | [dolp-colorconstancy](https://github.com/sony/dolp-colorconstancy) | None | Python | 16 | MIT License | 2022-03-22 | 2026-01-19 | 2022-07-04 |
 | [nnabla-browser](https://github.com/sony/nnabla-browser) | Visualization toolkit for Neural Network Libraries | TypeScript | 9 | Apache License 2.0 | 2022-03-31 | 2026-07-29 | 2026-07-29 |
-| [sqvae](https://github.com/sony/sqvae) | Pytorch implementation of stochastically quantized variational autoencoder (SQ-VAE) | Python | 196 | Apache License 2.0 | 2022-05-26 | 2026-06-02 | 2022-07-20 |
+| [sqvae](https://github.com/sony/sqvae) | Pytorch implementation of stochastically quantized variational autoencoder (SQ-VAE) | Python | 197 | Apache License 2.0 | 2022-05-26 | 2026-11-06 | 2022-07-20 |
 | [aibo-development-tutorial](https://github.com/sony/aibo-development-tutorial) | None | None | 9 | Other | 2022-06-28 | 2026-03-04 | 2022-06-30 |
 | [FxNorm-automix](https://github.com/sony/FxNorm-automix) | FxNorm-Automix - Implementation of automatic music mixing systems. We show how we can use wet music data and repurpose it to train a fully automatic mixing system | Python | 148 | MIT License | 2022-08-05 | 2026-11-03 | 2024-03-11 |
 | [polar-densification](https://github.com/sony/polar-densification) | None | Python | 34 | MIT License | 2022-09-13 | 2026-08-03 | 2023-03-24 |
 | [nnabla-js](https://github.com/sony/nnabla-js) | None | TypeScript | 1 | Apache License 2.0 | 2022-09-16 | 2026-07-29 | 2026-07-24 |
 | [DiffRoll](https://github.com/sony/DiffRoll) | PyTorch implementation of DiffRoll, a diffusion-based generative automatic music transcription (AMT) model | Jupyter Notebook | 82 | MIT License | 2022-10-11 | 2026-09-26 | 2023-12-06 |
-| [creativeai](https://github.com/sony/creativeai) | None | CSS | 82 | - | 2022-11-21 | 2026-10-31 | 2026-10-10 |
+| [creativeai](https://github.com/sony/creativeai) | None | CSS | 82 | - | 2022-11-21 | 2026-11-05 | 2026-11-05 |
 | [NDJIR](https://github.com/sony/NDJIR) | NDJIR: Neural Direct and Joint Inverse Rendering for Geometry, Lights, and Materials of Real Object | Python | 45 | Apache License 2.0 | 2022-12-14 | 2026-03-30 | 2023-02-08 |
 | [CLIPSep](https://github.com/sony/CLIPSep) | None | Python | 44 | MIT License | 2023-01-24 | 2026-08-07 | 2023-02-21 |
 | [audio-visual-seld-dcase2023](https://github.com/sony/audio-visual-seld-dcase2023) | Baseline method for audio-visual sound event localization and detection task of DCASE 2023 challenge | Python | 69 | MIT License | 2023-02-20 | 2026-09-04 | 2025-03-19 |
@@ -136,7 +136,7 @@ Statistics Date: 2026-11-05 08:15:00
 | [oms](https://github.com/sony/oms) | Official Repo for The Paper "OMS: On-the-fly, Multi-Objective, Self-Reflective Ad Keyword Generation via LLM Agent” (EMNLP’25-main) | Python | 0 | MIT License | 2025-09-11 | 2025-09-26 | 2025-09-26 |
 | [mimo](https://github.com/sony/mimo) | Official Repo for The Paper "Mirror in the Model: Ad Banner Image Generation via Reflective Multi-LLM and Multi-modal Agents” (EMNLP’25-Industry) | Python | 0 | MIT License | 2025-09-11 | 2025-12-17 | 2025-09-26 |
 | [multi-plane-segmentation-gpu](https://github.com/sony/multi-plane-segmentation-gpu) | None | JavaScript | 0 | - | 2025-09-26 | 2025-10-03 | 2025-10-03 |
-| [dynamic-rag](https://github.com/sony/dynamic-rag) | None | C# | 6 | BSD 3-Clause "New" or "Revised" License | 2025-09-28 | 2026-08-15 | 2026-08-15 |
+| [dynamic-rag](https://github.com/sony/dynamic-rag) | None | C# | 6 | BSD 3-Clause "New" or "Revised" License | 2025-09-28 | 2026-08-15 | 2026-11-06 |
 | [cmt](https://github.com/sony/cmt) | None | Python | 22 | MIT License | 2025-09-30 | 2026-07-27 | 2026-03-03 |
 | [mmaudiosep](https://github.com/sony/mmaudiosep) | None | Python | 17 | MIT License | 2025-10-06 | 2026-08-22 | 2026-04-30 |
 | [sampleid](https://github.com/sony/sampleid) | Code for the paper “Automatic Music Sample Identification with Multi-Track Contrastive Learning”. | Python | 34 | MIT License | 2025-10-15 | 2026-10-12 | 2026-05-22 |
@@ -154,8 +154,8 @@ Statistics Date: 2026-11-05 08:15:00
 | [guda](https://github.com/sony/guda) | None | Python | 1 | MIT License | 2026-05-27 | 2026-05-29 | 2026-05-29 |
 | [MusTBench](https://github.com/sony/MusTBench) | None | Python | 13 | MIT License | 2026-06-08 | 2026-09-18 | 2026-08-03 |
 | [mocopi-receiver-plugin-3dsmax](https://github.com/sony/mocopi-receiver-plugin-3dsmax) | None | C++ | 3 | Apache License 2.0 | 2026-06-23 | 2026-09-13 | 2026-07-17 |
-| [as-dt1-ros2-driver](https://github.com/sony/as-dt1-ros2-driver) | None | C++ | 8 | Apache License 2.0 | 2026-09-04 | 2026-10-13 | 2026-10-13 |
+| [as-dt1-ros2-driver](https://github.com/sony/as-dt1-ros2-driver) | None | C++ | 9 | Apache License 2.0 | 2026-09-04 | 2026-11-06 | 2026-10-13 |
 | [niwashi](https://github.com/sony/niwashi) | None | Go | 0 | Apache License 2.0 | 2026-09-18 | 2026-11-02 | 2026-11-02 |
 | [niwashi-recipe](https://github.com/sony/niwashi-recipe) | None | Shell | 0 | Apache License 2.0 | 2026-09-18 | 2026-10-01 | 2026-09-29 |
-| [far](https://github.com/sony/far) | None | Python | 2 | Other | 2026-09-29 | 2026-10-03 | 2026-10-01 |
+| [far](https://github.com/sony/far) | None | Python | 2 | Other | 2026-09-29 | 2026-11-06 | 2026-11-06 |
 | [syn-omni](https://github.com/sony/syn-omni) | None | Python | 3 | Apache License 2.0 | 2026-10-07 | 2026-11-04 | 2026-11-04 |
