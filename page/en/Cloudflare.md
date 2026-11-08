@@ -1,10 +1,10 @@
 # Cloudflare
 
-A total of 580 projects, 142 active projects in the last six months, 1 teams, and 362091 stars.
+A total of 580 projects, 142 active projects in the last six months, 1 teams, and 363802 stars.
 
 Top 3 Languages: TypeScript, Go, JavaScript
 
-Statistics Date: 2026-11-07 08:11:43
+Statistics Date: 2026-11-08 08:11:44
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -58,8 +58,8 @@ Statistics Date: 2026-11-07 08:11:43
 | [gosession2](https://github.com/cloudflare/gosession2) | Code for GoSF: Go Session 2 | Go | 7 | BSD 3-Clause "New" or "Revised" License | 2014-05-14 | 2026-10-17 | 2026-04-24 |
 | [lua-aho-corasick](https://github.com/cloudflare/lua-aho-corasick) | None | C++ | 157 | BSD 3-Clause "New" or "Revised" License | 2014-05-28 | 2026-10-17 | 2026-04-24 |
 | [go-metrics](https://github.com/cloudflare/go-metrics) | Go port of Coda Hale's Metrics library | Go | 22 | Other | 2014-07-07 | 2026-10-17 | 2026-04-24 |
-| [cfssl](https://github.com/cloudflare/cfssl) | CFSSL: Cloudflare's PKI and TLS toolkit | Go | 9497 | BSD 2-Clause "Simplified" License | 2014-07-07 | 2026-11-06 | 2026-10-22 |
-| [cfssl_trust](https://github.com/cloudflare/cfssl_trust) | CFSSL's CA trust store repository | Go | 328 | BSD 2-Clause "Simplified" License | 2014-07-09 | 2026-11-02 | 2026-11-02 |
+| [cfssl](https://github.com/cloudflare/cfssl) | CFSSL: Cloudflare's PKI and TLS toolkit | Go | 9498 | BSD 2-Clause "Simplified" License | 2014-07-07 | 2026-11-07 | 2026-10-22 |
+| [cfssl_trust](https://github.com/cloudflare/cfssl_trust) | CFSSL's CA trust store repository | Go | 328 | BSD 2-Clause "Simplified" License | 2014-07-09 | 2026-11-02 | 2026-11-08 |
 | [homebrew-cloudflare](https://github.com/cloudflare/homebrew-cloudflare) | None | Ruby | 117 | - | 2014-07-11 | 2026-11-02 | 2026-11-02 |
 | [luajit2](https://github.com/cloudflare/luajit2) | OpenResty's Fork of LuaJIT 2 | C | 3 | Other | 2014-07-11 | 2026-10-17 | 2024-10-16 |
 | [lua-re2](https://github.com/cloudflare/lua-re2) | RE2's C and Lua interface | Lua | 34 | BSD 3-Clause "New" or "Revised" License | 2014-07-11 | 2026-10-17 | 2024-10-16 |
@@ -70,7 +70,7 @@ Statistics Date: 2026-11-07 08:11:43
 | [comodo](https://github.com/cloudflare/comodo) | Comodo  | Go | 14 | - | 2014-10-03 | 2026-10-17 | 2024-10-14 |
 | [redox](https://github.com/cloudflare/redox) | None | JavaScript | 6 | - | 2014-10-29 | 2026-10-17 | 2024-10-16 |
 | [lua-resty-json](https://github.com/cloudflare/lua-resty-json) | json lib for lua and C | C | 177 | BSD 2-Clause "Simplified" License | 2014-11-13 | 2026-10-17 | 2026-04-24 |
-| [Stout](https://github.com/cloudflare/Stout) | A reliable static website deploy tool | Go | 749 | MIT License | 2014-11-26 | 2026-10-29 | 2024-10-16 |
+| [Stout](https://github.com/cloudflare/Stout) | A reliable static website deploy tool | Go | 748 | MIT License | 2014-11-26 | 2026-11-08 | 2024-10-16 |
 | [goimports-nogroup](https://github.com/cloudflare/goimports-nogroup) | A patched goimports that does not divide imports into groups. | Go | 2 | BSD 3-Clause "New" or "Revised" License | 2014-12-05 | 2026-10-17 | 2024-10-16 |
 | [deadorbit](https://github.com/cloudflare/deadorbit) | Polyglot utility to log errors in Node and the browser | JavaScript | 15 | - | 2015-01-08 | 2026-10-17 | 2024-09-22 |
 | [cf-tls](https://github.com/cloudflare/cf-tls) | A duplicate of Go's crypto/tls, with additional helper functions | Go | 20 | - | 2015-01-19 | 2026-10-17 | 2024-10-16 |
@@ -175,12 +175,12 @@ Statistics Date: 2026-11-07 08:11:43
 | [bn256](https://github.com/cloudflare/bn256) | Package bn256 implements a particular bilinear group. | Go | 132 | BSD 3-Clause "New" or "Revised" License | 2017-09-26 | 2026-10-17 | 2026-09-09 |
 | [GCS-Logshare-Setup-Script](https://github.com/cloudflare/GCS-Logshare-Setup-Script) | Script to automate Cloudflare ELS logs into Google BigQuery and Google Data Studio | Shell | 13 | BSD 2-Clause "Simplified" License | 2017-10-11 | 2026-10-17 | 2026-04-24 |
 | [cloudflare-gcp](https://github.com/cloudflare/cloudflare-gcp) | Google Cloud Function to push json files from GC Storage to Big Query | JavaScript | 87 | Apache License 2.0 | 2017-10-11 | 2026-10-17 | 2026-04-24 |
-| [cloudflared](https://github.com/cloudflare/cloudflared) | Cloudflare Tunnel client | Go | 16463 | Apache License 2.0 | 2017-10-13 | 2026-11-07 | 2026-11-04 |
-| [authr](https://github.com/cloudflare/authr) | :key: a flexible and expressive approach to access-control | PHP | 52 | BSD 3-Clause "New" or "Revised" License | 2017-10-19 | 2026-10-17 | 2026-04-24 |
+| [cloudflared](https://github.com/cloudflare/cloudflared) | Cloudflare Tunnel client | Go | 16475 | Apache License 2.0 | 2017-10-13 | 2026-11-08 | 2026-11-04 |
+| [authr](https://github.com/cloudflare/authr) | :key: a flexible and expressive approach to access-control | PHP | 53 | BSD 3-Clause "New" or "Revised" License | 2017-10-19 | 2026-11-07 | 2026-04-24 |
 | [mitm.watch](https://github.com/cloudflare/mitm.watch) | None | Go | 14 | MIT License | 2017-10-31 | 2026-10-17 | 2025-01-21 |
 | [cloudflare-ingress-controller](https://github.com/cloudflare/cloudflare-ingress-controller) | A Kubernetes ingress controller for Cloudflare's Argo Tunnels | Go | 366 | Apache License 2.0 | 2017-11-22 | 2026-10-23 | 2023-03-21 |
 | [gatelogic](https://github.com/cloudflare/gatelogic) | Gatelogic - Somewhat reactive programming framework in Python | Python | 10 | BSD 3-Clause "New" or "Revised" License | 2017-11-27 | 2026-10-17 | 2026-04-24 |
-| [templates](https://github.com/cloudflare/templates) | Templates for Cloudflare Workers | TypeScript | 2164 | MIT License | 2017-12-19 | 2026-11-07 | 2026-11-04 |
+| [templates](https://github.com/cloudflare/templates) | Templates for Cloudflare Workers | TypeScript | 2166 | MIT License | 2017-12-19 | 2026-11-08 | 2026-11-04 |
 | [go-saml](https://github.com/cloudflare/go-saml) | A just good enough SAML client library written in Go. | Go | 0 | MIT License | 2018-02-13 | 2026-10-17 | 2023-09-08 |
 | [py-mmdb-encoder](https://github.com/cloudflare/py-mmdb-encoder) | Create mmdb files to encode prefix lists. | Python | 29 | BSD 3-Clause "New" or "Revised" License | 2018-02-22 | 2026-10-17 | 2026-04-24 |
 | [goflow](https://github.com/cloudflare/goflow) | The high-scalability sFlow/NetFlow/IPFIX collector used internally at Cloudflare. | Go | 916 | BSD 3-Clause "New" or "Revised" License | 2018-03-02 | 2026-10-21 | 2025-02-19 |
@@ -204,11 +204,11 @@ Statistics Date: 2026-11-07 08:11:43
 | [serverless-cloudflare-workers](https://github.com/cloudflare/serverless-cloudflare-workers) | Serverless provider plugin for Cloudflare Workers | JavaScript | 181 | BSD 3-Clause "New" or "Revised" License | 2018-08-21 | 2026-10-20 | 2026-04-23 |
 | [workers-graphql-gateway-example](https://github.com/cloudflare/workers-graphql-gateway-example) | GraphQL running on Cloudflare Workers | JavaScript | 83 | BSD 3-Clause "New" or "Revised" License | 2018-08-24 | 2026-10-17 | 2026-04-23 |
 | [roughtime](https://github.com/cloudflare/roughtime) | A secure clock-synchronization protocol for when rough is enough. | Go | 178 | Apache License 2.0 | 2018-08-31 | 2026-10-23 | 2026-04-28 |
-| [circl](https://github.com/cloudflare/circl) | CIRCL: Cloudflare Interoperable Reusable Cryptographic Library | Go | 1737 | Other | 2018-09-08 | 2026-11-06 | 2026-11-03 |
+| [circl](https://github.com/cloudflare/circl) | CIRCL: Cloudflare Interoperable Reusable Cryptographic Library | Go | 1738 | Other | 2018-09-08 | 2026-11-08 | 2026-11-03 |
 | [tableflip](https://github.com/cloudflare/tableflip) | Graceful process restarts in Go | Go | 3223 | BSD 3-Clause "New" or "Revised" License | 2018-09-14 | 2026-11-06 | 2026-04-23 |
 | [ngtcp2](https://github.com/cloudflare/ngtcp2) | ngtcp2 project is an effort to implement IETF QUIC protocol | C | 11 | MIT License | 2018-09-19 | 2026-10-17 | 2026-04-23 |
 | [cloudflare-workers-wasm-demo](https://github.com/cloudflare/cloudflare-workers-wasm-demo) | None | C | 153 | Other | 2018-09-28 | 2026-10-17 | 2026-04-23 |
-| [quiche](https://github.com/cloudflare/quiche) | 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 | Rust | 12853 | BSD 2-Clause "Simplified" License | 2018-09-29 | 2026-11-07 | 2026-11-06 |
+| [quiche](https://github.com/cloudflare/quiche) | 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 | Rust | 12855 | BSD 2-Clause "Simplified" License | 2018-09-29 | 2026-11-07 | 2026-11-06 |
 | [helm-charts](https://github.com/cloudflare/helm-charts) | None | Smarty | 142 | Apache License 2.0 | 2018-10-08 | 2026-10-25 | 2026-04-23 |
 | [boringtun](https://github.com/cloudflare/boringtun) | Userspace WireGuard® Implementation in Rust | Rust | 7253 | BSD 3-Clause "New" or "Revised" License | 2018-10-12 | 2026-11-06 | 2026-06-29 |
 | [cloudflare-rs](https://github.com/cloudflare/cloudflare-rs) | Rust library for the Cloudflare v4 API | Rust | 320 | - | 2018-10-23 | 2026-11-05 | 2026-04-23 |
@@ -240,20 +240,20 @@ Statistics Date: 2026-11-07 08:11:43
 | [poise-python](https://github.com/cloudflare/poise-python) | A Chef cookbook to provide a unified interface for installing Python, managing Python packages, and creating virtualenvs. | Ruby | 1 | - | 2019-06-25 | 2026-10-17 | 2026-04-23 |
 | [the-deep-dive-into-how-verizon-and-a-bgp-optimizer-knocked-large-parts-of-the-internet-offline-monda](https://github.com/cloudflare/the-deep-dive-into-how-verizon-and-a-bgp-optimizer-knocked-large-parts-of-the-internet-offline-monda) | None | Shell | 15 | - | 2019-06-27 | 2026-10-17 | 2026-04-23 |
 | [cloudflare.design](https://github.com/cloudflare/cloudflare.design) | None | JavaScript | 28 | - | 2019-07-16 | 2026-11-03 | 2026-04-23 |
-| [worker-typescript-template](https://github.com/cloudflare/worker-typescript-template) | ʕ •́؈•̀) TypeScript template for Cloudflare Workers | TypeScript | 451 | Apache License 2.0 | 2019-07-16 | 2026-10-28 | 2026-04-23 |
+| [worker-typescript-template](https://github.com/cloudflare/worker-typescript-template) | ʕ •́؈•̀) TypeScript template for Cloudflare Workers | TypeScript | 452 | Apache License 2.0 | 2019-07-16 | 2026-11-07 | 2026-04-23 |
 | [worker-speedtest-template](https://github.com/cloudflare/worker-speedtest-template) | None | JavaScript | 216 | - | 2019-07-16 | 2026-11-04 | 2026-04-23 |
 | [color](https://github.com/cloudflare/color) | None | JavaScript | 59 | - | 2019-07-17 | 2026-10-17 | 2026-04-23 |
 | [kv-worker-migrate](https://github.com/cloudflare/kv-worker-migrate) | None | JavaScript | 17 | BSD 3-Clause "New" or "Revised" License | 2019-07-22 | 2026-10-17 | 2026-04-23 |
 | [hugo-cloudflare-docs](https://github.com/cloudflare/hugo-cloudflare-docs) | None | JavaScript | 17 | MIT License | 2019-07-24 | 2026-10-17 | 2026-04-23 |
 | [worker-emscripten-template](https://github.com/cloudflare/worker-emscripten-template) | None | JavaScript | 67 | Apache License 2.0 | 2019-07-30 | 2026-10-17 | 2026-04-23 |
-| [workers-types](https://github.com/cloudflare/workers-types) | TypeScript type definitions for authoring Cloudflare Workers. | TypeScript | 383 | BSD 3-Clause "New" or "Revised" License | 2019-08-03 | 2026-11-04 | 2026-09-09 |
+| [workers-types](https://github.com/cloudflare/workers-types) | TypeScript type definitions for authoring Cloudflare Workers. | TypeScript | 384 | BSD 3-Clause "New" or "Revised" License | 2019-08-03 | 2026-11-07 | 2026-09-09 |
 | [worker-sites-template](https://github.com/cloudflare/worker-sites-template) | None | HTML | 78 | Apache License 2.0 | 2019-08-19 | 2026-11-05 | 2026-04-23 |
 | [db-connect](https://github.com/cloudflare/db-connect) | :rocket: Connect your SQL database to Cloudflare Workers | TypeScript | 149 | MIT License | 2019-08-20 | 2026-10-17 | 2021-02-24 |
 | [lol-html](https://github.com/cloudflare/lol-html) | Low output latency streaming HTML parser/rewriter with CSS selector-based API | Rust | 2093 | BSD 3-Clause "New" or "Revised" License | 2019-09-09 | 2026-11-06 | 2026-10-30 |
 | [kv-asset-handler](https://github.com/cloudflare/kv-asset-handler) | Routes requests to KV assets | TypeScript | 258 | Apache License 2.0 | 2019-09-16 | 2026-10-17 | 2024-02-09 |
 | [worker-sites-init](https://github.com/cloudflare/worker-sites-init) | tropical irradiation | JavaScript | 1 | Apache License 2.0 | 2019-09-19 | 2026-10-17 | 2026-04-23 |
 | [react-workers-template](https://github.com/cloudflare/react-workers-template) | Example project showing how to deploy your React application to Cloudflare Workers Sites | JavaScript | 46 | Apache License 2.0 | 2019-09-23 | 2026-10-17 | 2026-04-23 |
-| [wrangler-action](https://github.com/cloudflare/wrangler-action) | 🧙‍♀️ easily deploy cloudflare workers applications using wrangler and github actions | TypeScript | 2003 | Apache License 2.0 | 2019-10-07 | 2026-11-06 | 2026-11-01 |
+| [wrangler-action](https://github.com/cloudflare/wrangler-action) | 🧙‍♀️ easily deploy cloudflare workers applications using wrangler and github actions | TypeScript | 2004 | Apache License 2.0 | 2019-10-07 | 2026-11-07 | 2026-11-01 |
 | [workers.cloudflare.com](https://github.com/cloudflare/workers.cloudflare.com) | The Cloudflare Workers website. | JavaScript | 155 | - | 2019-10-14 | 2026-10-17 | 2026-01-08 |
 | [psi_exporter](https://github.com/cloudflare/psi_exporter) | Prometheus exporter for Pressure Stall Information (PSI) from Linux kernel. | Rust | 70 | MIT License | 2019-10-14 | 2026-10-17 | 2026-04-23 |
 | [flan](https://github.com/cloudflare/flan) | A pretty sweet vulnerability scanner | Python | 4153 | BSD 3-Clause "New" or "Revised" License | 2019-10-28 | 2026-11-06 | 2026-04-23 |
@@ -296,7 +296,7 @@ Statistics Date: 2026-11-07 08:11:43
 | [opaque-ea](https://github.com/cloudflare/opaque-ea) | None | Go | 65 | Other | 2020-08-19 | 2026-10-17 | 2026-04-23 |
 | [perl-worker-hello-world](https://github.com/cloudflare/perl-worker-hello-world) | None | Perl | 11 | Apache License 2.0 | 2020-08-20 | 2026-10-17 | 2026-04-23 |
 | [php-worker-hello-world](https://github.com/cloudflare/php-worker-hello-world) | None | PHP | 130 | Apache License 2.0 | 2020-09-01 | 2026-10-30 | 2026-04-23 |
-| [cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) | Cloudflare’s documentation | MDX | 5417 | Creative Commons Attribution 4.0 International | 2020-09-03 | 2026-11-07 | 2026-11-07 |
+| [cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) | Cloudflare’s documentation | MDX | 5420 | Creative Commons Attribution 4.0 International | 2020-09-03 | 2026-11-08 | 2026-11-08 |
 | [ClickHouse](https://github.com/cloudflare/ClickHouse) | ClickHouse is a free analytics DBMS for big data | C++ | 3 | Apache License 2.0 | 2020-09-10 | 2026-10-17 | 2026-04-23 |
 | [workers-chat-demo](https://github.com/cloudflare/workers-chat-demo) | None | JavaScript | 1123 | BSD 3-Clause "New" or "Revised" License | 2020-09-24 | 2026-10-21 | 2026-04-23 |
 | [saffron](https://github.com/cloudflare/saffron) | The cron parser powering Cron Triggers on Cloudflare Workers | Rust | 250 | BSD 3-Clause "New" or "Revised" License | 2020-09-30 | 2026-10-17 | 2026-04-23 |
@@ -310,7 +310,7 @@ Statistics Date: 2026-11-07 08:11:43
 | [odoh-client-rs](https://github.com/cloudflare/odoh-client-rs) | Oblivious DoH client application written in Rust | Rust | 75 | BSD 2-Clause "Simplified" License | 2020-10-20 | 2026-11-02 | 2026-04-23 |
 | [workers-google-analytics](https://github.com/cloudflare/workers-google-analytics) | Middleware for Google Analytics tracking in Workers | JavaScript | 38 | MIT License | 2020-10-26 | 2026-09-22 | 2026-04-23 |
 | [rust-binary-install](https://github.com/cloudflare/rust-binary-install) | None | Rust | 3 | Apache License 2.0 | 2020-11-02 | 2026-10-17 | 2026-05-29 |
-| [boring](https://github.com/cloudflare/boring) | BoringSSL bindings for the Rust programming language. | Rust | 529 | - | 2020-11-09 | 2026-11-06 | 2026-11-06 |
+| [boring](https://github.com/cloudflare/boring) | BoringSSL bindings for the Rust programming language. | Rust | 530 | - | 2020-11-09 | 2026-11-07 | 2026-11-06 |
 | [opaque-core](https://github.com/cloudflare/opaque-core) | None | Go | 46 | Other | 2020-11-19 | 2026-10-17 | 2026-04-23 |
 | [unbound](https://github.com/cloudflare/unbound) | CoreDNS plugin that performs recursive queries using libunbound | Go | 3 | Apache License 2.0 | 2020-12-04 | 2026-10-17 | 2026-04-23 |
 | [advisories](https://github.com/cloudflare/advisories) | This repo functions as the hub for "open sourced" closed source vulnerabilities/advisories as well as educational writeups composed in collaboration with third parties on discovered vulnerabilities. | Python | 7 | - | 2021-01-19 | 2026-10-17 | 2026-04-23 |
@@ -335,7 +335,7 @@ Statistics Date: 2026-11-07 08:11:43
 | [doom-wasm](https://github.com/cloudflare/doom-wasm) | Chocolate Doom WebAssembly port with WebSockets support | C | 421 | GNU General Public License v2.0 | 2021-05-12 | 2026-11-03 | 2026-04-23 |
 | [doom](https://github.com/cloudflare/doom) | Website and Message Router source code for the Multiplayer Doom on Cloudflare Workers tech demo | JavaScript | 202 | BSD 3-Clause "New" or "Revised" License | 2021-05-12 | 2026-10-26 | 2026-05-27 |
 | [sciuro](https://github.com/cloudflare/sciuro) | Alertmanager to Kubernetes Node conditions bridge | Go | 183 | Apache License 2.0 | 2021-05-17 | 2026-10-23 | 2026-07-07 |
-| [miniflare](https://github.com/cloudflare/miniflare) | 🔥 Fully-local simulator for Cloudflare Workers. For the latest version, see https://github.com/cloudflare/workers-sdk/tree/main/packages/miniflare. | TypeScript | 3925 | MIT License | 2021-05-20 | 2026-11-02 | 2025-03-13 |
+| [miniflare](https://github.com/cloudflare/miniflare) | 🔥 Fully-local simulator for Cloudflare Workers. For the latest version, see https://github.com/cloudflare/workers-sdk/tree/main/packages/miniflare. | TypeScript | 3923 | MIT License | 2021-05-20 | 2026-11-07 | 2025-03-13 |
 | [workerskv.gui](https://github.com/cloudflare/workerskv.gui) | (WIP) A cross-platform Desktop application for exploring Workers KV Namespace data | Svelte | 315 | MIT License | 2021-05-21 | 2026-10-20 | 2026-04-23 |
 | [workers-airtable-form](https://github.com/cloudflare/workers-airtable-form) | Example codebase showing how to handle form data using Cloudflare Workers serverless functions - sending the data to Airtable | JavaScript | 74 | MIT License | 2021-06-04 | 2026-10-17 | 2026-04-23 |
 | [postgres-postgrest-cloudflared-example](https://github.com/cloudflare/postgres-postgrest-cloudflared-example) | Create a PostgreSQL database with a REST API, exposed to the internet securely with Cloudflare Tunnel | None | 70 | MIT License | 2021-06-14 | 2026-10-17 | 2026-04-23 |
@@ -345,7 +345,7 @@ Statistics Date: 2026-11-07 08:11:43
 | [durable-objects-typescript-rollup-esm](https://github.com/cloudflare/durable-objects-typescript-rollup-esm) | None | TypeScript | 47 | Apache License 2.0 | 2021-07-20 | 2026-10-17 | 2026-04-23 |
 | [research.cloudflare.com](https://github.com/cloudflare/research.cloudflare.com) | None | JavaScript | 38 | - | 2021-07-20 | 2026-11-02 | 2026-11-02 |
 | [html-rewriter-wasm](https://github.com/cloudflare/html-rewriter-wasm) | WebAssembly version of HTMLRewriter | TypeScript | 219 | - | 2021-07-21 | 2026-10-29 | 2026-04-23 |
-| [workers-rs](https://github.com/cloudflare/workers-rs) | Write Cloudflare Workers in 100% Rust via WebAssembly | Rust | 3777 | Apache License 2.0 | 2021-08-10 | 2026-11-07 | 2026-11-05 |
+| [workers-rs](https://github.com/cloudflare/workers-rs) | Write Cloudflare Workers in 100% Rust via WebAssembly | Rust | 3779 | Apache License 2.0 | 2021-08-10 | 2026-11-07 | 2026-11-05 |
 | [stream-wordpress](https://github.com/cloudflare/stream-wordpress) | None | JavaScript | 7 | - | 2021-08-24 | 2026-10-17 | 2026-04-23 |
 | [dog](https://github.com/cloudflare/dog) | Durable Object Groups | TypeScript | 289 | MIT License | 2021-08-24 | 2026-10-17 | 2025-04-04 |
 | [cfweb3](https://github.com/cloudflare/cfweb3) | None | JavaScript | 317 | Apache License 2.0 | 2021-09-15 | 2026-10-17 | 2026-04-23 |
@@ -361,13 +361,13 @@ Statistics Date: 2026-11-07 08:11:43
 | [worker-template-postgres](https://github.com/cloudflare/worker-template-postgres) | Reference demo and modified PostgreSQL driver to connect Cloudflare Workers to a relational database. | JavaScript | 93 | Apache License 2.0 | 2021-11-03 | 2026-10-17 | 2026-04-23 |
 | [worker-template-mysql](https://github.com/cloudflare/worker-template-mysql) | Reference demo and modified MySQL driver to connect Cloudflare Workers to a relational database. | JavaScript | 60 | Apache License 2.0 | 2021-11-03 | 2026-10-17 | 2026-04-23 |
 | [pages-stream-demo](https://github.com/cloudflare/pages-stream-demo) | None | HTML | 37 | MIT License | 2021-11-09 | 2026-10-17 | 2026-04-23 |
-| [workers-sdk](https://github.com/cloudflare/workers-sdk) | ⛅️ Home to Wrangler, the CLI for Cloudflare Workers® | TypeScript | 4706 | Apache License 2.0 | 2021-11-10 | 2026-11-07 | 2026-11-07 |
+| [workers-sdk](https://github.com/cloudflare/workers-sdk) | ⛅️ Home to Wrangler, the CLI for Cloudflare Workers® | TypeScript | 4708 | Apache License 2.0 | 2021-11-10 | 2026-11-08 | 2026-11-08 |
 | [sxg-rs](https://github.com/cloudflare/sxg-rs) | A set of tools for generating signed exchanges at serve time. | Rust | 3 | Apache License 2.0 | 2021-11-12 | 2026-10-17 | 2026-04-23 |
 | [production-saas](https://github.com/cloudflare/production-saas) | (WIP) Example SaaS application built in public on the Cloudflare stack! | TypeScript | 1146 | MIT License | 2021-11-12 | 2026-10-17 | 2024-09-25 |
 | [images.pages.dev](https://github.com/cloudflare/images.pages.dev) | None | TypeScript | 126 | MIT License | 2021-11-12 | 2026-10-17 | 2026-04-23 |
 | [miniflare-typescript-esbuild-jest](https://github.com/cloudflare/miniflare-typescript-esbuild-jest) | Example project using Miniflare, TypeScript, esbuild and Jest | TypeScript | 88 | - | 2021-11-15 | 2026-10-17 | 2026-04-23 |
 | [workers-wasi](https://github.com/cloudflare/workers-wasi) | None | C++ | 161 | BSD 3-Clause "New" or "Revised" License | 2021-11-16 | 2026-10-26 | 2026-04-23 |
-| [voprf-ts](https://github.com/cloudflare/voprf-ts) | A TypeScript library for Oblivious Pseudorandom Functions | TypeScript | 38 | BSD 3-Clause "New" or "Revised" License | 2021-11-29 | 2026-10-17 | 2026-10-13 |
+| [voprf-ts](https://github.com/cloudflare/voprf-ts) | A TypeScript library for Oblivious Pseudorandom Functions | TypeScript | 39 | BSD 3-Clause "New" or "Revised" License | 2021-11-29 | 2026-11-07 | 2026-10-13 |
 | [pat-go](https://github.com/cloudflare/pat-go) | Private Access Tokens reference implementation | Go | 40 | BSD 3-Clause "New" or "Revised" License | 2022-01-12 | 2026-10-29 | 2026-10-30 |
 | [pat-app](https://github.com/cloudflare/pat-app) | None | Go | 27 | BSD 2-Clause "Simplified" License | 2022-01-12 | 2026-10-17 | 2026-07-10 |
 | [dmarc](https://github.com/cloudflare/dmarc) | None | Rust | 13 | MIT License | 2022-01-18 | 2026-10-17 | 2026-04-23 |
@@ -388,9 +388,9 @@ Statistics Date: 2026-11-07 08:11:43
 | [api-schemas](https://github.com/cloudflare/api-schemas) | None | None | 202 | BSD 3-Clause "New" or "Revised" License | 2022-06-16 | 2026-11-07 | 2026-11-07 |
 | [privacy-gateway-relay](https://github.com/cloudflare/privacy-gateway-relay) | A Oblivious HTTP ("OHTTP") Relay built on Cloudflare Workers. | JavaScript | 40 | BSD 3-Clause "New" or "Revised" License | 2022-06-17 | 2026-10-17 | 2026-04-23 |
 | [webcm-docs](https://github.com/cloudflare/webcm-docs) | Documentation for Web Component Manager (WebCM) | JavaScript | 8 | Other | 2022-06-27 | 2026-10-17 | 2026-04-23 |
-| [d1-northwind](https://github.com/cloudflare/d1-northwind) | Northwind Traders D1 Demo | TypeScript | 159 | MIT License | 2022-06-30 | 2026-08-25 | 2026-06-11 |
+| [d1-northwind](https://github.com/cloudflare/d1-northwind) | Northwind Traders D1 Demo | TypeScript | 160 | MIT License | 2022-06-30 | 2026-11-07 | 2026-06-11 |
 | [pages-build-image](https://github.com/cloudflare/pages-build-image) | None | None | 42 | Apache License 2.0 | 2022-06-30 | 2026-10-17 | 2026-04-23 |
-| [svg-hush](https://github.com/cloudflare/svg-hush) | Make it safe to serve untrusted SVG files | Rust | 441 | MIT License | 2022-07-26 | 2026-11-04 | 2026-08-25 |
+| [svg-hush](https://github.com/cloudflare/svg-hush) | Make it safe to serve untrusted SVG files | Rust | 442 | MIT License | 2022-07-26 | 2026-11-07 | 2026-08-25 |
 | [privacy-gateway-client-library](https://github.com/cloudflare/privacy-gateway-client-library) | None | Rust | 22 | BSD 3-Clause "New" or "Revised" License | 2022-07-29 | 2026-10-27 | 2026-10-27 |
 | [privacy-gateway-client-demo](https://github.com/cloudflare/privacy-gateway-client-demo) | None | Objective-C | 5 | BSD 3-Clause "New" or "Revised" License | 2022-07-29 | 2026-10-17 | 2026-04-23 |
 | [privacy-gateway-server-go](https://github.com/cloudflare/privacy-gateway-server-go) | An Oblivious HTTP gateway | Go | 89 | BSD 3-Clause "New" or "Revised" License | 2022-07-29 | 2026-11-01 | 2026-10-14 |
@@ -399,7 +399,7 @@ Statistics Date: 2026-11-07 08:11:43
 | [Azure-Sentinel](https://github.com/cloudflare/Azure-Sentinel) | Cloud-native SIEM for intelligent security analytics for your entire enterprise. | Jupyter Notebook | 2 | MIT License | 2022-08-10 | 2026-10-17 | 2024-10-01 |
 | [cf-pgbouncer](https://github.com/cloudflare/cf-pgbouncer) | lightweight connection pooler for PostgreSQL | C | 267 | Other | 2022-08-12 | 2026-10-17 | 2026-04-23 |
 | [qtls-pq](https://github.com/cloudflare/qtls-pq) | None | None | 11 | BSD 3-Clause "New" or "Revised" License | 2022-08-24 | 2026-10-17 | 2026-04-23 |
-| [workerd](https://github.com/cloudflare/workerd) | The JavaScript / Wasm runtime that powers Cloudflare Workers | C++ | 9136 | Apache License 2.0 | 2022-09-15 | 2026-11-07 | 2026-11-07 |
+| [workerd](https://github.com/cloudflare/workerd) | The JavaScript / Wasm runtime that powers Cloudflare Workers | C++ | 9140 | Apache License 2.0 | 2022-09-15 | 2026-11-08 | 2026-11-08 |
 | [connection-coalescing-imc22](https://github.com/cloudflare/connection-coalescing-imc22) | None | Jupyter Notebook | 2 | Other | 2022-09-15 | 2026-10-17 | 2026-04-23 |
 | [go-originframe](https://github.com/cloudflare/go-originframe) | None | Go | 8 | BSD 3-Clause "New" or "Revised" License | 2022-09-15 | 2026-10-17 | 2026-04-23 |
 | [net-originframe](https://github.com/cloudflare/net-originframe) | None | Go | 3 | BSD 3-Clause "New" or "Revised" License | 2022-09-15 | 2026-10-17 | 2026-04-23 |
@@ -411,7 +411,7 @@ Statistics Date: 2026-11-07 08:11:43
 | [next-on-pages](https://github.com/cloudflare/next-on-pages) | CLI to build and develop Next.js apps for Cloudflare Pages | TypeScript | 1492 | MIT License | 2022-10-19 | 2026-10-17 | 2026-10-01 |
 | [elements](https://github.com/cloudflare/elements) | Build beautiful, interactive API Docs with embeddable React or Web Components, powered by OpenAPI and Markdown. | TypeScript | 1 | Apache License 2.0 | 2022-11-01 | 2026-10-17 | 2026-04-23 |
 | [bbmp2kafka](https://github.com/cloudflare/bbmp2kafka) | BMP to Kafka processor | Go | 29 | Other | 2022-11-03 | 2026-10-27 | 2026-04-23 |
-| [chanfana](https://github.com/cloudflare/chanfana) | OpenAPI 3 and 3.1 schema generator and validator for Hono, itty-router and more! | TypeScript | 773 | MIT License | 2022-11-08 | 2026-11-06 | 2026-11-02 |
+| [chanfana](https://github.com/cloudflare/chanfana) | OpenAPI 3 and 3.1 schema generator and validator for Hono, itty-router and more! | TypeScript | 774 | MIT License | 2022-11-08 | 2026-11-07 | 2026-11-02 |
 | [notebook-examples](https://github.com/cloudflare/notebook-examples) | These examples demonstrate how to use the Cloudflare API within interactive Python notebooks. | Python | 26 | MIT License | 2022-11-16 | 2026-10-24 | 2026-06-03 |
 | [recapn](https://github.com/cloudflare/recapn) | A WIP Cap'n Proto implementation in Rust written from the ground up | Rust | 75 | Apache License 2.0 | 2022-12-08 | 2026-10-05 | 2026-05-26 |
 | [tokio-tun](https://github.com/cloudflare/tokio-tun) | Asynchronous allocation of TUN/TAP devices in Rust using tokio | Rust | 7 | Apache License 2.0 | 2022-12-14 | 2026-10-13 | 2026-04-23 |
@@ -427,7 +427,7 @@ Statistics Date: 2026-11-07 08:11:43
 | [aloha-rs](https://github.com/cloudflare/aloha-rs) | None | Rust | 9 | Other | 2023-04-07 | 2026-10-29 | 2026-10-29 |
 | [browser-run](https://github.com/cloudflare/browser-run) | Monorepo including libraries and examples for Cloudflare's Browser Run powered by Workers | TypeScript | 380 | Apache License 2.0 | 2023-04-21 | 2026-11-06 | 2026-11-06 |
 | [chatgpt-plugin](https://github.com/cloudflare/chatgpt-plugin) | Build ChatGPT plugins with Cloudflare's Developer Platform 🤖 | JavaScript | 295 | Other | 2023-04-28 | 2026-11-06 | 2026-04-23 |
-| [pingora](https://github.com/cloudflare/pingora) | A library for building fast, reliable and evolvable network services. | Rust | 27813 | Apache License 2.0 | 2023-05-05 | 2026-11-07 | 2026-11-07 |
+| [pingora](https://github.com/cloudflare/pingora) | A library for building fast, reliable and evolvable network services. | Rust | 27817 | Apache License 2.0 | 2023-05-05 | 2026-11-08 | 2026-11-07 |
 | [prometheus-client-rust](https://github.com/cloudflare/prometheus-client-rust) | Prometheus / OpenMetrics client library in Rust | Rust | 0 | Apache License 2.0 | 2023-05-09 | 2026-07-21 | 2026-04-23 |
 | [freighter](https://github.com/cloudflare/freighter) | A fast, modular, and operationally boring Rust private registry implementation. | Rust | 157 | - | 2023-05-10 | 2026-11-06 | 2026-10-29 |
 | [queues-web-crawler](https://github.com/cloudflare/queues-web-crawler) | A web crawler built with Cloudflare Queues, Browser Rendering, and Workers KV. | TypeScript | 190 | Other | 2023-06-14 | 2026-08-06 | 2024-10-01 |
@@ -435,18 +435,18 @@ Statistics Date: 2026-11-07 08:11:43
 | [tokio](https://github.com/cloudflare/tokio) | A place for rejected or in-progress patches to upstream to go | Rust | 5 | MIT License | 2023-06-19 | 2026-07-21 | 2026-04-23 |
 | [networkquality-rs](https://github.com/cloudflare/networkquality-rs) | A collection of tools for measuring the quality of a network. | Rust | 101 | BSD 3-Clause "New" or "Revised" License | 2023-07-14 | 2026-10-23 | 2026-10-23 |
 | [wasm-coredump](https://github.com/cloudflare/wasm-coredump) | Cloudflare Workers Wasm Coredump Service | Rust | 46 | Other | 2023-07-25 | 2026-07-21 | 2026-04-23 |
-| [blindrsa-ts](https://github.com/cloudflare/blindrsa-ts) | A TypeScript Library for Blind RSA Signature protocol | JavaScript | 37 | Other | 2023-08-10 | 2026-10-26 | 2026-10-26 |
-| [privacypass-ts](https://github.com/cloudflare/privacypass-ts) | A TypeScript Library for the Privacy Pass Issuance Protocol | TypeScript | 50 | Other | 2023-08-10 | 2026-10-24 | 2026-10-21 |
+| [blindrsa-ts](https://github.com/cloudflare/blindrsa-ts) | A TypeScript Library for Blind RSA Signature protocol | JavaScript | 38 | Other | 2023-08-10 | 2026-11-07 | 2026-10-26 |
+| [privacypass-ts](https://github.com/cloudflare/privacypass-ts) | A TypeScript Library for the Privacy Pass Issuance Protocol | TypeScript | 51 | Other | 2023-08-10 | 2026-11-07 | 2026-10-21 |
 | [hyperdrive-demo](https://github.com/cloudflare/hyperdrive-demo) | A demo site for @cloudflare Hyperdrive (makes databases fast) - https://developers.cloudflare.com/hyperdrive/ | TypeScript | 16 | Apache License 2.0 | 2023-09-09 | 2026-07-21 | 2026-04-23 |
 | [workers-wonnx](https://github.com/cloudflare/workers-wonnx) | None | Rust | 52 | Apache License 2.0 | 2023-09-13 | 2026-10-06 | 2026-04-23 |
 | [realtimekit-ui-addons](https://github.com/cloudflare/realtimekit-ui-addons) | None | TypeScript | 4 | Apache License 2.0 | 2023-10-06 | 2026-11-03 | 2026-10-12 |
 | [privacypass-origin](https://github.com/cloudflare/privacypass-origin) | A TypeScript Origin for the Privacy Pass Authentication Protocol | TypeScript | 14 | Other | 2023-10-20 | 2026-11-02 | 2026-11-02 |
-| [pp-browser-extension](https://github.com/cloudflare/pp-browser-extension) | Client for Privacy Pass protocol providing unlinkable cryptographic tokens  | TypeScript | 421 | BSD 3-Clause "New" or "Revised" License | 2023-10-20 | 2026-11-06 | 2026-08-05 |
+| [pp-browser-extension](https://github.com/cloudflare/pp-browser-extension) | Client for Privacy Pass protocol providing unlinkable cryptographic tokens  | TypeScript | 422 | BSD 3-Clause "New" or "Revised" License | 2023-10-20 | 2026-11-07 | 2026-08-05 |
 | [privacypass-attester](https://github.com/cloudflare/privacypass-attester) | A TypeScript Attester using Turnstile for the Privacy Pass Authentication Protocol | TypeScript | 16 | Other | 2023-10-20 | 2026-08-24 | 2026-04-24 |
-| [privacypass-issuer](https://github.com/cloudflare/privacypass-issuer) | A TypeScript Issuer for the Privacy Pass Authentication Protocol | TypeScript | 28 | Other | 2023-10-20 | 2026-10-09 | 2026-09-10 |
+| [privacypass-issuer](https://github.com/cloudflare/privacypass-issuer) | A TypeScript Issuer for the Privacy Pass Authentication Protocol | TypeScript | 29 | Other | 2023-10-20 | 2026-11-07 | 2026-09-10 |
 | [octopus](https://github.com/cloudflare/octopus) | The Octopus is part of our network automation pipeline. Its job is to aggregate data from different authoritative data sources into one Enriched Topology to provide a full picture to downstream systems. | Go | 39 | Apache License 2.0 | 2023-10-23 | 2026-09-12 | 2026-04-23 |
 | [har-sanitizer](https://github.com/cloudflare/har-sanitizer) | None | TypeScript | 253 | Apache License 2.0 | 2023-10-24 | 2026-11-02 | 2026-04-23 |
-| [serverless-registry](https://github.com/cloudflare/serverless-registry) | A container registry backed by Workers and R2. | TypeScript | 1608 | Apache License 2.0 | 2023-10-31 | 2026-11-07 | 2026-11-03 |
+| [serverless-registry](https://github.com/cloudflare/serverless-registry) | A container registry backed by Workers and R2. | TypeScript | 1610 | Apache License 2.0 | 2023-10-31 | 2026-11-08 | 2026-11-03 |
 | [boringssl](https://github.com/cloudflare/boringssl) | Mirror of BoringSSL | C | 3 | Other | 2023-12-18 | 2026-07-21 | 2026-04-23 |
 | [privacypass-config](https://github.com/cloudflare/privacypass-config) | Development and deployment CLI for Cloudflare Privacy Pass implementation | TypeScript | 12 | Other | 2024-01-02 | 2026-11-02 | 2026-11-02 |
 | [foundations](https://github.com/cloudflare/foundations) | Cloudflare's Rust service foundations library. | Rust | 1716 | BSD 3-Clause "New" or "Revised" License | 2024-01-18 | 2026-11-05 | 2026-11-06 |
@@ -483,23 +483,23 @@ Statistics Date: 2026-11-07 08:11:43
 | [workflows-starter](https://github.com/cloudflare/workflows-starter) | A starter template for Cloudflare Workflows.  | TypeScript | 50 | Apache License 2.0 | 2024-10-16 | 2026-10-04 | 2026-04-23 |
 | [entropy-map](https://github.com/cloudflare/entropy-map) | Low-latency hash map using minimal perfect hash functions and compact encoding. | Rust | 46 | Other | 2024-10-17 | 2026-10-29 | 2026-09-09 |
 | [openai-workers-relay](https://github.com/cloudflare/openai-workers-relay) | A relay server for OpenAI's realtime API, for Cloudflare Workers | TypeScript | 163 | MIT License | 2024-10-19 | 2026-11-06 | 2026-04-23 |
-| [mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) | Product specific Cloudflare MCP servers | TypeScript | 4452 | Apache License 2.0 | 2024-11-27 | 2026-11-07 | 2026-10-22 |
-| [workerd-tools](https://github.com/cloudflare/workerd-tools) | Prebuilt tools and utilities required for ongoing development in the workerd repo. | CMake | 8 | - | 2024-12-02 | 2026-10-28 | 2026-11-01 |
+| [mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) | Product specific Cloudflare MCP servers | TypeScript | 4453 | Apache License 2.0 | 2024-11-27 | 2026-11-07 | 2026-10-22 |
+| [workerd-tools](https://github.com/cloudflare/workerd-tools) | Prebuilt tools and utilities required for ongoing development in the workerd repo. | CMake | 8 | - | 2024-12-02 | 2026-10-28 | 2026-11-08 |
 | [sshcert](https://github.com/cloudflare/sshcert) | A package for handling ssh certificates | Go | 5 | Apache License 2.0 | 2024-12-03 | 2026-07-21 | 2026-04-23 |
 | [cf-identity-dynamic](https://github.com/cloudflare/cf-identity-dynamic) | A highly customizable block page built in Cloudflare Workers that provides enriched Access Deny reasoning to end users. | JavaScript | 65 | Apache License 2.0 | 2024-12-05 | 2026-10-28 | 2026-04-27 |
 | [cf-product-infrastructure-templates](https://github.com/cloudflare/cf-product-infrastructure-templates) | Collection of infrastructure as code templates to aid in customer onboarding to Cloudflare products that require customer-side resources | HCL | 3 | - | 2024-12-12 | 2026-10-23 | 2026-10-23 |
 | [bbperf](https://github.com/cloudflare/bbperf) | bbperf | Python | 16 | Other | 2024-12-16 | 2026-10-06 | 2026-04-23 |
 | [workers-mcp](https://github.com/cloudflare/workers-mcp) | Talk to a Cloudflare Worker from Claude Desktop! | TypeScript | 647 | Apache License 2.0 | 2024-12-17 | 2026-10-26 | 2026-04-23 |
 | [quiche-mallard](https://github.com/cloudflare/quiche-mallard) | quiche fork with congestion & zero-copy patches | Rust | 1 | BSD 2-Clause "Simplified" License | 2025-01-09 | 2026-07-21 | 2025-06-04 |
-| [agents](https://github.com/cloudflare/agents) | Build and deploy AI Agents on Cloudflare  | TypeScript | 5963 | MIT License | 2025-01-29 | 2026-11-07 | 2026-11-06 |
+| [agents](https://github.com/cloudflare/agents) | Build and deploy AI Agents on Cloudflare  | TypeScript | 5969 | MIT License | 2025-01-29 | 2026-11-08 | 2026-11-06 |
 | [cabidela](https://github.com/cloudflare/cabidela) | Cabidela is a small, fast, eval-less, Cloudflare Workers compatible, dynamic JSON Schema validator. | TypeScript | 29 | Other | 2025-02-05 | 2026-10-04 | 2026-09-08 |
 | [workers-py](https://github.com/cloudflare/workers-py) | Write Cloudflare Workers in 100% Python via Pyodide. | Python | 124 | MIT License | 2025-02-06 | 2026-11-04 | 2026-11-04 |
 | [chaussette](https://github.com/cloudflare/chaussette) | None | Rust | 23 | Apache License 2.0 | 2025-02-19 | 2026-10-13 | 2026-07-20 |
-| [agents-starter](https://github.com/cloudflare/agents-starter) | A starter kit for building ai agents on Cloudflare | TypeScript | 1350 | MIT License | 2025-02-21 | 2026-11-03 | 2026-08-19 |
+| [agents-starter](https://github.com/cloudflare/agents-starter) | A starter kit for building ai agents on Cloudflare | TypeScript | 1351 | MIT License | 2025-02-21 | 2026-11-08 | 2026-08-19 |
 | [parquet-tsdb-poc](https://github.com/cloudflare/parquet-tsdb-poc) | A POC for a tsdb storage using parquet | Go | 43 | Apache License 2.0 | 2025-03-06 | 2026-07-21 | 2026-04-23 |
 | [playwright](https://github.com/cloudflare/playwright) | Playwright fork that works with Cloudflare Browser Rendering | TypeScript | 124 | Apache License 2.0 | 2025-03-10 | 2026-11-05 | 2026-09-22 |
-| [workers-oauth-provider](https://github.com/cloudflare/workers-oauth-provider) | OAuth provider library for Cloudflare Workers | TypeScript | 1893 | MIT License | 2025-03-11 | 2026-11-06 | 2026-10-27 |
-| [ai](https://github.com/cloudflare/ai) | None | TypeScript | 1214 | MIT License | 2025-03-14 | 2026-11-04 | 2026-10-27 |
+| [workers-oauth-provider](https://github.com/cloudflare/workers-oauth-provider) | OAuth provider library for Cloudflare Workers | TypeScript | 1894 | MIT License | 2025-03-11 | 2026-11-08 | 2026-10-27 |
+| [ai](https://github.com/cloudflare/ai) | None | TypeScript | 1215 | MIT License | 2025-03-14 | 2026-11-07 | 2026-10-27 |
 | [azul](https://github.com/cloudflare/azul) | Tiled transparency logs libraries and applications | Rust | 64 | Other | 2025-03-26 | 2026-11-06 | 2026-11-06 |
 | [docs-examples](https://github.com/cloudflare/docs-examples) | Examples surfaced in the Cloudflare Docs | TypeScript | 21 | - | 2025-03-28 | 2026-09-30 | 2026-06-24 |
 | [playwright-mcp](https://github.com/cloudflare/playwright-mcp) | Playwright MCP fork that works with Cloudflare Browser Rendering | TypeScript | 261 | Apache License 2.0 | 2025-04-02 | 2026-11-05 | 2026-04-23 |
@@ -508,7 +508,7 @@ Statistics Date: 2026-11-07 08:11:43
 | [langchain-cloudflare](https://github.com/cloudflare/langchain-cloudflare) | LangChain integrations for Cloudflare | Python | 46 | MIT License | 2025-04-07 | 2026-11-06 | 2026-11-04 |
 | [realtimekit-ui](https://github.com/cloudflare/realtimekit-ui) | RealtimeKit UI provides pre-built, ready-to-use UI components for integrating with Cloudflare RealtimeKit | TypeScript | 74 | Apache License 2.0 | 2025-04-10 | 2026-11-05 | 2026-11-05 |
 | [containers-demos](https://github.com/cloudflare/containers-demos) | None | TypeScript | 213 | - | 2025-04-10 | 2026-10-05 | 2026-10-05 |
-| [web-bot-auth](https://github.com/cloudflare/web-bot-auth) | Sign and verify orchestrated HTTP requests | Rust | 178 | Apache License 2.0 | 2025-04-14 | 2026-11-06 | 2026-11-06 |
+| [web-bot-auth](https://github.com/cloudflare/web-bot-auth) | Sign and verify orchestrated HTTP requests | Rust | 178 | Apache License 2.0 | 2025-04-14 | 2026-11-06 | 2026-11-07 |
 | [containers](https://github.com/cloudflare/containers) | Enhance your Workers with serverless containers | TypeScript | 279 | Apache License 2.0 | 2025-04-24 | 2026-11-05 | 2026-08-24 |
 | [ecdysis](https://github.com/cloudflare/ecdysis) | A library for graceful restarts in Rust | Rust | 332 | Apache License 2.0 | 2025-04-29 | 2026-10-13 | 2026-08-11 |
 | [udpgrm](https://github.com/cloudflare/udpgrm) | UDP Graceful Restart Marshal | C | 156 | Apache License 2.0 | 2025-05-05 | 2026-10-13 | 2026-07-15 |
@@ -516,8 +516,8 @@ Statistics Date: 2026-11-07 08:11:43
 | [realtimekit-ios-ui](https://github.com/cloudflare/realtimekit-ios-ui) | Swift package definitions for RealtimeKitUI | Swift | 10 | - | 2025-05-16 | 2026-10-25 | 2026-10-22 |
 | [actors](https://github.com/cloudflare/actors) | An easier way to build with Cloudflare Durable Objects | TypeScript | 445 | MIT License | 2025-05-21 | 2026-11-05 | 2026-04-23 |
 | [capnweb](https://github.com/cloudflare/capnweb) | JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system | TypeScript | 4030 | MIT License | 2025-06-08 | 2026-11-06 | 2026-11-02 |
-| [sandbox-sdk](https://github.com/cloudflare/sandbox-sdk) | Run sandboxed code environments on Cloudflare's edge network | TypeScript | 1160 | Other | 2025-06-22 | 2026-11-05 | 2026-11-02 |
-| [vibesdk](https://github.com/cloudflare/vibesdk) | An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack  | TypeScript | 5463 | MIT License | 2025-08-25 | 2026-11-06 | 2026-10-22 |
+| [sandbox-sdk](https://github.com/cloudflare/sandbox-sdk) | Run sandboxed code environments on Cloudflare's edge network | TypeScript | 1161 | Other | 2025-06-22 | 2026-11-07 | 2026-11-02 |
+| [vibesdk](https://github.com/cloudflare/vibesdk) | An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack  | TypeScript | 5463 | MIT License | 2025-08-25 | 2026-11-07 | 2026-10-22 |
 | [vibesdk-templates](https://github.com/cloudflare/vibesdk-templates) | Official repository for templates catalog powering VibeSDK | TypeScript | 96 | - | 2025-08-28 | 2026-10-13 | 2026-05-13 |
 | [realtimekit-web-examples](https://github.com/cloudflare/realtimekit-web-examples) | Web examples for Cloudflare RealtimeKit :rocket: | TypeScript | 75 | - | 2025-09-26 | 2026-11-05 | 2026-11-05 |
 | [openauth-template-24](https://github.com/cloudflare/openauth-template-24) | None | TypeScript | 2 | - | 2025-09-29 | 2026-10-20 | 2026-04-23 |
@@ -533,13 +533,13 @@ Statistics Date: 2026-11-07 08:11:43
 | [d1-template-123](https://github.com/cloudflare/d1-template-123) | None | TypeScript | 0 | - | 2025-10-02 | 2026-07-21 | 2026-04-23 |
 | [to-do-list-kv-template-100](https://github.com/cloudflare/to-do-list-kv-template-100) | None | TypeScript | 2 | - | 2025-10-06 | 2026-09-25 | 2026-04-23 |
 | [d1-template-12344](https://github.com/cloudflare/d1-template-12344) | None | TypeScript | 0 | - | 2025-10-10 | 2026-07-21 | 2026-04-23 |
-| [tf-migrate](https://github.com/cloudflare/tf-migrate) | CLI tool for upgrading the terraform-provider-cloudflare to a new major version | Go | 35 | Apache License 2.0 | 2025-10-20 | 2026-11-06 | 2026-11-06 |
+| [tf-migrate](https://github.com/cloudflare/tf-migrate) | CLI tool for upgrading the terraform-provider-cloudflare to a new major version | Go | 35 | Apache License 2.0 | 2025-10-20 | 2026-11-06 | 2026-11-07 |
 | [telescope](https://github.com/cloudflare/telescope) | Cross-browser web performance testing agent | TypeScript | 309 | Other | 2025-10-21 | 2026-10-24 | 2026-11-01 |
 | [react-router-hono-fullstack-template](https://github.com/cloudflare/react-router-hono-fullstack-template) | None | TypeScript | 19 | - | 2025-10-24 | 2026-09-27 | 2026-04-23 |
 | [awesome-agents](https://github.com/cloudflare/awesome-agents) | Awesome Agents | TypeScript | 203 | - | 2025-10-27 | 2026-10-25 | 2026-04-23 |
-| [kumo](https://github.com/cloudflare/kumo) | Cloudflare's component library for building modern web applications. | TypeScript | 4189 | MIT License | 2025-10-30 | 2026-11-07 | 2026-11-06 |
+| [kumo](https://github.com/cloudflare/kumo) | Cloudflare's component library for building modern web applications. | TypeScript | 4191 | MIT License | 2025-10-30 | 2026-11-08 | 2026-11-06 |
 | [cloudflare-prometheus-exporter](https://github.com/cloudflare/cloudflare-prometheus-exporter) | Export Cloudflare metrics to Prometheus. Built on Cloudflare Workers with Durable Objects for stateful metric accumulation. | TypeScript | 185 | MIT License | 2025-12-01 | 2026-11-05 | 2026-11-05 |
-| [skills](https://github.com/cloudflare/skills) | Skills for teaching agents how to build on Cloudflare. | Shell | 3297 | Apache License 2.0 | 2025-12-10 | 2026-11-07 | 2026-11-06 |
+| [skills](https://github.com/cloudflare/skills) | Skills for teaching agents how to build on Cloudflare. | Shell | 3306 | Apache License 2.0 | 2025-12-10 | 2026-11-08 | 2026-11-06 |
 | [fyz](https://github.com/cloudflare/fyz) | None | JavaScript | 0 | - | 2025-12-11 | 2026-07-21 | 2026-04-23 |
 | [ai-search-snippet](https://github.com/cloudflare/ai-search-snippet) | AI Search embeddable snippet for Cloudflare AI Search | TypeScript | 30 | MIT License | 2025-12-16 | 2026-10-24 | 2026-07-31 |
 | [llm-chat-app-template](https://github.com/cloudflare/llm-chat-app-template) | None | JavaScript | 12 | - | 2025-12-24 | 2026-09-16 | 2026-04-23 |
@@ -554,36 +554,36 @@ Statistics Date: 2026-11-07 08:11:43
 | [cf-sealion-demo](https://github.com/cloudflare/cf-sealion-demo) | None | TypeScript | 0 | - | 2026-01-19 | 2026-07-21 | 2026-04-23 |
 | [agent-skills-discovery-rfc](https://github.com/cloudflare/agent-skills-discovery-rfc) | A mechanism for discovering Agent Skills using the .well-known URI path prefix as specified in RFC 8615 for discovering Agent Skills. | None | 369 | Apache License 2.0 | 2026-01-21 | 2026-11-06 | 2026-04-23 |
 | [proxy-everything](https://github.com/cloudflare/proxy-everything) | None | Go | 18 | - | 2026-01-26 | 2026-11-03 | 2026-07-03 |
-| [moltworker](https://github.com/cloudflare/moltworker) | Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers | TypeScript | 9948 | Apache License 2.0 | 2026-01-27 | 2026-11-06 | 2026-05-09 |
-| [mcp](https://github.com/cloudflare/mcp) | MCP server for the Cloudflare API | TypeScript | 1060 | Apache License 2.0 | 2026-01-29 | 2026-11-07 | 2026-11-07 |
+| [moltworker](https://github.com/cloudflare/moltworker) | Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers | TypeScript | 9947 | Apache License 2.0 | 2026-01-27 | 2026-11-08 | 2026-05-09 |
+| [mcp](https://github.com/cloudflare/mcp) | MCP server for the Cloudflare API | TypeScript | 1066 | Apache License 2.0 | 2026-01-29 | 2026-11-08 | 2026-11-08 |
 | [arcnact](https://github.com/cloudflare/arcnact) | ARC & ACT Anonymous Credentials | None | 1 | - | 2026-02-14 | 2026-07-21 | 2026-04-23 |
-| [vinext](https://github.com/cloudflare/vinext) | Vite plugin that reimplements the Next.js API surface — deploy anywhere | TypeScript | 9326 | MIT License | 2026-02-24 | 2026-11-07 | 2026-11-07 |
+| [vinext](https://github.com/cloudflare/vinext) | Vite plugin that reimplements the Next.js API surface — deploy anywhere | TypeScript | 9328 | MIT License | 2026-02-24 | 2026-11-08 | 2026-11-07 |
 | [vinext-agents-example](https://github.com/cloudflare/vinext-agents-example) | vinext ⨉ agents sdk | TypeScript | 115 | - | 2026-02-24 | 2026-10-27 | 2026-05-23 |
 | [mpp-proxy](https://github.com/cloudflare/mpp-proxy) | None | TypeScript | 65 | Apache License 2.0 | 2026-03-18 | 2026-08-27 | 2026-11-03 |
 | [filterforge](https://github.com/cloudflare/filterforge) | Tool for solving BPF filters and crafting packets based on these. | Python | 64 | Other | 2026-03-26 | 2026-09-11 | 2026-04-23 |
-| [artifact-fs](https://github.com/cloudflare/artifact-fs) | ArtifactFS is a filesystem driver designed to mount large git repos as quickly as possible, hydrating file contents on-the-fly instead of blocking on the initial clone. It's ideal for agents, sandboxes, containers and other use-cases where startup time is critical. | Go | 1211 | Apache License 2.0 | 2026-03-29 | 2026-11-05 | 2026-11-01 |
+| [artifact-fs](https://github.com/cloudflare/artifact-fs) | ArtifactFS is a filesystem driver designed to mount large git repos as quickly as possible, hydrating file contents on-the-fly instead of blocking on the initial clone. It's ideal for agents, sandboxes, containers and other use-cases where startup time is critical. | Go | 1214 | Apache License 2.0 | 2026-03-29 | 2026-11-08 | 2026-11-01 |
 | [flagship](https://github.com/cloudflare/flagship) | OpenFeature compliant provider for Cloudflare's low-latency feature flag platform. | Rust | 75 | Other | 2026-04-06 | 2026-11-05 | 2026-11-04 |
-| [agentic-inbox](https://github.com/cloudflare/agentic-inbox) | A self-hosted email client with an AI agent, running entirely on Cloudflare Workers | TypeScript | 8618 | Apache License 2.0 | 2026-04-10 | 2026-11-07 | 2026-04-23 |
-| [cloudflare-os](https://github.com/cloudflare/cloudflare-os) | Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems. | TypeScript | 11707 | Apache License 2.0 | 2026-04-15 | 2026-11-07 | 2026-11-07 |
+| [agentic-inbox](https://github.com/cloudflare/agentic-inbox) | A self-hosted email client with an AI agent, running entirely on Cloudflare Workers | TypeScript | 8623 | Apache License 2.0 | 2026-04-10 | 2026-11-08 | 2026-04-23 |
+| [cloudflare-os](https://github.com/cloudflare/cloudflare-os) | Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems. | TypeScript | 11711 | Apache License 2.0 | 2026-04-15 | 2026-11-08 | 2026-11-08 |
 | [dynamic-workflows](https://github.com/cloudflare/dynamic-workflows) | None | TypeScript | 45 | MIT License | 2026-04-18 | 2026-10-15 | 2026-04-30 |
 | [astro-blog-testing](https://github.com/cloudflare/astro-blog-testing) | None | Astro | 0 | - | 2026-04-26 | 2026-07-21 | 2026-04-26 |
 | [pfp-tools](https://github.com/cloudflare/pfp-tools) | Tools for customers using Programmable Flow Protection | Rust | 8 | Apache License 2.0 | 2026-05-14 | 2026-10-24 | 2026-10-21 |
 | [claude-managed-agents](https://github.com/cloudflare/claude-managed-agents) | None | TypeScript | 334 | MIT License | 2026-05-14 | 2026-11-03 | 2026-08-12 |
-| [polystella](https://github.com/cloudflare/polystella) | Astro integration for localization and automated AI translation of content | TypeScript | 23 | MIT License | 2026-05-18 | 2026-11-06 | 2026-11-06 |
+| [polystella](https://github.com/cloudflare/polystella) | Astro integration for localization and automated AI translation of content | TypeScript | 23 | MIT License | 2026-05-18 | 2026-11-06 | 2026-11-07 |
 | [realtimekit-flutter-bridge](https://github.com/cloudflare/realtimekit-flutter-bridge) | None | Swift | 1 | - | 2026-05-19 | 2026-08-27 | 2026-06-30 |
 | [vite-react-tester](https://github.com/cloudflare/vite-react-tester) | None | TypeScript | 0 | - | 2026-06-04 | 2026-07-21 | 2026-06-04 |
-| [computer](https://github.com/cloudflare/computer) | Give your agent a computer 👾 | TypeScript | 9853 | MIT License | 2026-06-05 | 2026-11-07 | 2026-11-05 |
+| [computer](https://github.com/cloudflare/computer) | Give your agent a computer 👾 | TypeScript | 9860 | MIT License | 2026-06-05 | 2026-11-08 | 2026-11-07 |
 | [splunk-ta-cloudflare-r2](https://github.com/cloudflare/splunk-ta-cloudflare-r2) | Cloudflare R2 Log Ingestion Add-on for Splunk. Ingests Cloudflare Logpush files from R2 via S3-compatible API. No AWS STS dependency. | Python | 4 | - | 2026-06-18 | 2026-10-29 | 2026-10-29 |
-| [security-audit-skill](https://github.com/cloudflare/security-audit-skill) | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings | JavaScript | 64524 | MIT License | 2026-06-18 | 2026-11-07 | 2026-09-14 |
-| [nimbus](https://github.com/cloudflare/nimbus) | Docs for humans and agents, built on Astro | TypeScript | 1750 | MIT License | 2026-07-09 | 2026-11-07 | 2026-11-07 |
+| [security-audit-skill](https://github.com/cloudflare/security-audit-skill) | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings | JavaScript | 66126 | MIT License | 2026-06-18 | 2026-11-08 | 2026-09-14 |
+| [nimbus](https://github.com/cloudflare/nimbus) | Docs for humans and agents, built on Astro | TypeScript | 1753 | MIT License | 2026-07-09 | 2026-11-08 | 2026-11-08 |
 | [community](https://github.com/cloudflare/community) | None | None | 2 | MIT License | 2026-07-17 | 2026-08-27 | 2026-07-17 |
-| [ci](https://github.com/cloudflare/ci) | Cloudflare-native continuous integration powered by Workflows and Sandbox | TypeScript | 616 | Apache License 2.0 | 2026-07-30 | 2026-11-02 | 2026-10-21 |
-| [cloudflare-os-starter](https://github.com/cloudflare/cloudflare-os-starter) | A guide for customizing your Cloudflare OS deployment | TypeScript | 345 | Apache License 2.0 | 2026-08-03 | 2026-11-07 | 2026-11-03 |
+| [ci](https://github.com/cloudflare/ci) | Cloudflare-native continuous integration powered by Workflows and Sandbox | TypeScript | 617 | Apache License 2.0 | 2026-07-30 | 2026-11-08 | 2026-10-21 |
+| [cloudflare-os-starter](https://github.com/cloudflare/cloudflare-os-starter) | A guide for customizing your Cloudflare OS deployment | TypeScript | 346 | Apache License 2.0 | 2026-08-03 | 2026-11-08 | 2026-11-08 |
 | [developer-platform](https://github.com/cloudflare/developer-platform) | None | None | 2 | MIT License | 2026-08-06 | 2026-11-03 | 2026-08-17 |
 | [fedramp](https://github.com/cloudflare/fedramp) | Cloudflare's authoritative FedRAMP Marketplace Certification Package Overview (Cloudflare for Government, Class C + Class D). | None | 3 | Apache License 2.0 | 2026-08-21 | 2026-10-23 | 2026-09-18 |
 | [kumo-astro](https://github.com/cloudflare/kumo-astro) | Astro integration for Kumo | TypeScript | 5 | MIT License | 2026-08-24 | 2026-10-22 | 2026-11-03 |
-| [cf](https://github.com/cloudflare/cf) | The agentic CLI for the entire Cloudflare API | TypeScript | 1006 | Apache License 2.0 | 2026-09-21 | 2026-11-07 | 2026-11-07 |
-| [forge](https://github.com/cloudflare/forge) | None | TypeScript | 1179 | Apache License 2.0 | 2026-09-21 | 2026-11-07 | 2026-11-07 |
+| [cf](https://github.com/cloudflare/cf) | The agentic CLI for the entire Cloudflare API | TypeScript | 1009 | Apache License 2.0 | 2026-09-21 | 2026-11-08 | 2026-11-07 |
+| [forge](https://github.com/cloudflare/forge) | None | TypeScript | 1187 | Apache License 2.0 | 2026-09-21 | 2026-11-07 | 2026-11-07 |
 | [crypto-discovery-prompts](https://github.com/cloudflare/crypto-discovery-prompts) | Prompts for AI-assisted discovery of cryptography in source code and post-quantum migration analysis | None | 9 | Apache License 2.0 | 2026-09-23 | 2026-11-03 | 2026-09-29 |
 | [streamline](https://github.com/cloudflare/streamline) | None | Go | 18 | Apache License 2.0 | 2026-10-01 | 2026-10-24 | 2026-10-26 |
 | [streamline-demo](https://github.com/cloudflare/streamline-demo) | None | TypeScript | 7 | Apache License 2.0 | 2026-10-01 | 2026-10-24 | 2026-10-02 |
