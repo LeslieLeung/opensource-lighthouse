@@ -1,14 +1,14 @@
 # Sony
 
-共 151 个项目，近半年内活跃项目 39 个，1 个团队， 18564 个 Star。
+共 151 个项目，近半年内活跃项目 39 个，1 个团队， 18567 个 Star。
 
 语言 Top 3：Python, C++, JavaScript
 
-统计时间：2026-11-10 08:14:14
+统计时间：2026-11-11 08:13:39
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3711 | MIT License | 2015-05-29 | 2026-11-09 | 2026-02-07 |
+| [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3712 | MIT License | 2015-05-29 | 2026-11-10 | 2026-02-07 |
 | [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4419 | MIT License | 2015-05-29 | 2026-11-09 | 2026-02-12 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
@@ -23,7 +23,7 @@
 | [nnabla-ext-cuda](https://github.com/sony/nnabla-ext-cuda) | A CUDA Extension of Neural Network Libraries | Cuda | 91 | Apache License 2.0 | 2017-06-21 | 2026-07-29 | 2026-07-24 |
 | [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2771 | Apache License 2.0 | 2017-06-26 | 2026-11-09 | 2026-07-24 |
 | [easyhttpcpp](https://github.com/sony/easyhttpcpp) | A cross-platform HTTP client library with a focus on usability and speed | C++ | 176 | MIT License | 2017-08-09 | 2026-09-16 | 2022-01-31 |
-| [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 202 | Apache License 2.0 | 2017-09-07 | 2026-11-09 | 2026-11-09 |
+| [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 203 | Apache License 2.0 | 2017-09-07 | 2026-11-11 | 2026-11-09 |
 | [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 58 | Apache License 2.0 | 2017-09-07 | 2026-10-27 | 2026-11-05 |
 | [cdp-js](https://github.com/sony/cdp-js) | Libraries/SDK modules for multi-platform application development | TypeScript | 22 | Apache License 2.0 | 2017-10-10 | 2024-02-11 | 2018-05-10 |
 | [cdp-lib](https://github.com/sony/cdp-lib) | Application template/libraries for cdp-js (Details: see cdp-js repository) | JavaScript | 6 | Apache License 2.0 | 2017-10-10 | 2017-11-13 | 2018-02-23 |
@@ -76,20 +76,20 @@
 | [SR-Display-Plugin-Preview-BL](https://github.com/sony/SR-Display-Plugin-Preview-BL) | None | Python | 5 | MIT License | 2023-12-13 | 2026-02-02 | 2024-05-24 |
 | [pyAutoPort](https://github.com/sony/pyAutoPort) | None | Python | 7 | BSD 3-Clause "New" or "Revised" License | 2023-12-13 | 2025-07-25 | 2025-07-03 |
 | [SR-Display-Plugin-Preview-ZB](https://github.com/sony/SR-Display-Plugin-Preview-ZB) | None | None | 1 | MIT License | 2024-02-19 | 2024-02-19 | 2024-02-19 |
-| [NeISF](https://github.com/sony/NeISF) | None | Python | 26 | Other | 2024-06-04 | 2026-09-15 | 2025-05-15 |
+| [NeISF](https://github.com/sony/NeISF) | None | Python | 27 | Other | 2024-06-04 | 2026-11-10 | 2025-05-15 |
 | [nnc-desktop](https://github.com/sony/nnc-desktop) | None | TypeScript | 22 | Apache License 2.0 | 2024-06-04 | 2026-07-29 | 2026-07-24 |
 | [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 101 | MIT License | 2024-06-04 | 2026-02-27 | 2025-03-31 |
 | [silentcipher](https://github.com/sony/silentcipher) | None | Python | 109 | MIT License | 2024-06-05 | 2026-11-02 | 2024-07-22 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 22 | MIT License | 2024-07-09 | 2026-05-28 | 2025-06-09 |
 | [genwarp](https://github.com/sony/genwarp) | None | Python | 314 | MIT License | 2024-08-06 | 2026-11-04 | 2024-09-26 |
 | [diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) | None | Jupyter Notebook | 57 | MIT License | 2024-09-05 | 2026-09-14 | 2024-11-05 |
-| [esstra](https://github.com/sony/esstra) | A software suite for enhancing software supply chain transparency | Python | 35 | Other | 2024-10-03 | 2026-09-15 | 2026-09-15 |
+| [esstra](https://github.com/sony/esstra) | A software suite for enhancing software supply chain transparency | Python | 35 | Other | 2024-10-03 | 2026-11-11 | 2026-11-11 |
 | [pagoda](https://github.com/sony/pagoda) | None | Python | 23 | MIT License | 2024-10-23 | 2026-08-13 | 2024-11-21 |
 | [okg](https://github.com/sony/okg) | Official Repo for The Paper "OKG: On-the-fly Keyword Generation in Search Sponsered Advertising" (Coling'25) | Jupyter Notebook | 8 | Other | 2024-11-15 | 2026-10-09 | 2025-02-14 |
 | [dual-pixel-disparity](https://github.com/sony/dual-pixel-disparity) | None | Python | 15 | MIT License | 2024-11-19 | 2026-08-03 | 2025-03-27 |
 | [openmu](https://github.com/sony/openmu) | None | Python | 8 | MIT License | 2024-11-27 | 2025-06-27 | 2024-12-26 |
 | [Hi-ResLDM](https://github.com/sony/Hi-ResLDM) | None | None | 8 | - | 2025-01-11 | 2026-10-09 | 2025-02-12 |
-| [stamp](https://github.com/sony/stamp) | None | TypeScript | 8 | MIT License | 2025-01-20 | 2026-11-09 | 2026-11-10 |
+| [stamp](https://github.com/sony/stamp) | None | TypeScript | 8 | MIT License | 2025-01-20 | 2026-11-11 | 2026-11-11 |
 | [ABA](https://github.com/sony/ABA) | Official Repo for The Paper "Adaptive Budget Optimization for Multichannel Advertising Using Combinatorial Bandits" (AAMAS'25) | Python | 2 | Other | 2025-01-21 | 2025-07-28 | 2025-02-18 |
 | [MambaPEFT](https://github.com/sony/MambaPEFT) | None | Python | 25 | Apache License 2.0 | 2025-01-24 | 2026-11-01 | 2025-03-27 |
 | [bl-flowsom_eval](https://github.com/sony/bl-flowsom_eval) | None | Jupyter Notebook | 0 | MIT License | 2025-01-28 | 2025-02-04 | 2025-02-04 |
@@ -154,7 +154,7 @@
 | [guda](https://github.com/sony/guda) | None | Python | 1 | MIT License | 2026-05-27 | 2026-05-29 | 2026-05-29 |
 | [MusTBench](https://github.com/sony/MusTBench) | None | Python | 13 | MIT License | 2026-06-08 | 2026-09-18 | 2026-08-03 |
 | [mocopi-receiver-plugin-3dsmax](https://github.com/sony/mocopi-receiver-plugin-3dsmax) | None | C++ | 3 | Apache License 2.0 | 2026-06-23 | 2026-09-13 | 2026-07-17 |
-| [as-dt1-ros2-driver](https://github.com/sony/as-dt1-ros2-driver) | None | C++ | 10 | Apache License 2.0 | 2026-09-04 | 2026-11-06 | 2026-11-06 |
+| [as-dt1-ros2-driver](https://github.com/sony/as-dt1-ros2-driver) | None | C++ | 10 | Apache License 2.0 | 2026-09-04 | 2026-11-10 | 2026-11-11 |
 | [niwashi](https://github.com/sony/niwashi) | None | Go | 0 | Apache License 2.0 | 2026-09-18 | 2026-11-02 | 2026-11-02 |
 | [niwashi-recipe](https://github.com/sony/niwashi-recipe) | None | Shell | 0 | Apache License 2.0 | 2026-09-18 | 2026-10-01 | 2026-09-29 |
 | [far](https://github.com/sony/far) | None | Python | 2 | Other | 2026-09-29 | 2026-11-06 | 2026-11-06 |
