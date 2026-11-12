@@ -1,10 +1,10 @@
 # Sony
 
-共 151 个项目，近半年内活跃项目 39 个，1 个团队， 18567 个 Star。
+共 151 个项目，近半年内活跃项目 39 个，1 个团队， 18568 个 Star。
 
 语言 Top 3：Python, C++, JavaScript
 
-统计时间：2026-11-11 08:13:39
+统计时间：2026-11-12 08:13:54
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -23,8 +23,8 @@
 | [nnabla-ext-cuda](https://github.com/sony/nnabla-ext-cuda) | A CUDA Extension of Neural Network Libraries | Cuda | 91 | Apache License 2.0 | 2017-06-21 | 2026-07-29 | 2026-07-24 |
 | [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2771 | Apache License 2.0 | 2017-06-26 | 2026-11-09 | 2026-07-24 |
 | [easyhttpcpp](https://github.com/sony/easyhttpcpp) | A cross-platform HTTP client library with a focus on usability and speed | C++ | 176 | MIT License | 2017-08-09 | 2026-09-16 | 2022-01-31 |
-| [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 203 | Apache License 2.0 | 2017-09-07 | 2026-11-11 | 2026-11-09 |
-| [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 58 | Apache License 2.0 | 2017-09-07 | 2026-10-27 | 2026-11-05 |
+| [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 204 | Apache License 2.0 | 2017-09-07 | 2026-11-11 | 2026-11-11 |
+| [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 59 | Apache License 2.0 | 2017-09-07 | 2026-11-11 | 2026-11-05 |
 | [cdp-js](https://github.com/sony/cdp-js) | Libraries/SDK modules for multi-platform application development | TypeScript | 22 | Apache License 2.0 | 2017-10-10 | 2024-02-11 | 2018-05-10 |
 | [cdp-lib](https://github.com/sony/cdp-lib) | Application template/libraries for cdp-js (Details: see cdp-js repository) | JavaScript | 6 | Apache License 2.0 | 2017-10-10 | 2017-11-13 | 2018-02-23 |
 | [cdp-cli](https://github.com/sony/cdp-cli) | Command line tools for generating start point of multi-platform application development (Details: see cdp-js repository) | HTML | 7 | Apache License 2.0 | 2017-10-10 | 2020-12-13 | 2018-07-13 |
@@ -77,7 +77,7 @@
 | [pyAutoPort](https://github.com/sony/pyAutoPort) | None | Python | 7 | BSD 3-Clause "New" or "Revised" License | 2023-12-13 | 2025-07-25 | 2025-07-03 |
 | [SR-Display-Plugin-Preview-ZB](https://github.com/sony/SR-Display-Plugin-Preview-ZB) | None | None | 1 | MIT License | 2024-02-19 | 2024-02-19 | 2024-02-19 |
 | [NeISF](https://github.com/sony/NeISF) | None | Python | 27 | Other | 2024-06-04 | 2026-11-10 | 2025-05-15 |
-| [nnc-desktop](https://github.com/sony/nnc-desktop) | None | TypeScript | 22 | Apache License 2.0 | 2024-06-04 | 2026-07-29 | 2026-07-24 |
+| [nnc-desktop](https://github.com/sony/nnc-desktop) | None | TypeScript | 21 | Apache License 2.0 | 2024-06-04 | 2026-11-12 | 2026-07-24 |
 | [soundctm](https://github.com/sony/soundctm) | Pytorch implementation of SoundCTM | Python | 101 | MIT License | 2024-06-04 | 2026-02-27 | 2025-03-31 |
 | [silentcipher](https://github.com/sony/silentcipher) | None | Python | 109 | MIT License | 2024-06-05 | 2026-11-02 | 2024-07-22 |
 | [MoLA](https://github.com/sony/MoLA) | Pytorch implementation of MoLA | Python | 22 | MIT License | 2024-07-09 | 2026-05-28 | 2025-06-09 |
@@ -152,7 +152,7 @@
 | [web_gen_v_bench](https://github.com/sony/web_gen_v_bench) | Official Repo for The Paper "WebGen-V Bench: Structured Representation for Enhancing Visual Design in LLM-based Web Generation and Evaluation” (KDD’26) | Python | 2 | MIT License | 2026-05-19 | 2026-07-05 | 2026-06-10 |
 | [mucs](https://github.com/sony/mucs) | Code for the paper “Training Data Attribution in Diffusion Models via Mirrored Unlearning and Noise-Consistent Skew” | Python | 5 | Apache License 2.0 | 2026-05-22 | 2026-07-28 | 2026-06-09 |
 | [guda](https://github.com/sony/guda) | None | Python | 1 | MIT License | 2026-05-27 | 2026-05-29 | 2026-05-29 |
-| [MusTBench](https://github.com/sony/MusTBench) | None | Python | 13 | MIT License | 2026-06-08 | 2026-09-18 | 2026-08-03 |
+| [MusTBench](https://github.com/sony/MusTBench) | None | Python | 13 | MIT License | 2026-06-08 | 2026-11-11 | 2026-11-11 |
 | [mocopi-receiver-plugin-3dsmax](https://github.com/sony/mocopi-receiver-plugin-3dsmax) | None | C++ | 3 | Apache License 2.0 | 2026-06-23 | 2026-09-13 | 2026-07-17 |
 | [as-dt1-ros2-driver](https://github.com/sony/as-dt1-ros2-driver) | None | C++ | 10 | Apache License 2.0 | 2026-09-04 | 2026-11-10 | 2026-11-11 |
 | [niwashi](https://github.com/sony/niwashi) | None | Go | 0 | Apache License 2.0 | 2026-09-18 | 2026-11-02 | 2026-11-02 |
