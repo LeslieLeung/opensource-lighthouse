@@ -1,10 +1,10 @@
 # IBM
 
-共 2725 个项目，近半年内活跃项目 911 个，1 个团队， 91295 个 Star。
+共 2725 个项目，近半年内活跃项目 911 个，1 个团队， 91304 个 Star。
 
 语言 Top 3：Python, JavaScript, Jupyter Notebook
 
-统计时间：2026-11-13 15:59:31
+统计时间：2026-11-14 14:52:54
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -116,7 +116,7 @@
 | [manage-control-device-node-red](https://github.com/IBM/manage-control-device-node-red) | # WARNING: This repository is no longer maintained :warning: This repository will not be updated. The repository will be kept available in read-only mode. | JavaScript | 7 | Apache License 2.0 | 2017-10-10 | 2026-11-11 | 2020-08-20 |
 | [vr-speech-sandbox-rift](https://github.com/IBM/vr-speech-sandbox-rift) | WARNING: This repository is no longer maintained :warning: This repository will not be updated. The repository will be kept available in read-only mode. Refer to https://github.com/IBM/vr-speech-sandbox-cardboard/ for a similar example. | C# | 21 | Apache License 2.0 | 2017-10-17 | 2026-11-11 | 2019-04-11 |
 | [cloud-patterns-development](https://github.com/IBM/cloud-patterns-development) | None | None | 6 | - | 2017-10-17 | 2026-11-11 | 2017-10-17 |
-| [watson-waste-sorter](https://github.com/IBM/watson-waste-sorter) | Create an iOS phone application that sorts waste into three categories (landfill, recycling, compost) using a Watson Visual Recognition custom classifier | Swift | 48 | Apache License 2.0 | 2017-10-20 | 2026-11-11 | 2021-01-21 |
+| [watson-waste-sorter](https://github.com/IBM/watson-waste-sorter) | Create an iOS phone application that sorts waste into three categories (landfill, recycling, compost) using a Watson Visual Recognition custom classifier | Swift | 47 | Apache License 2.0 | 2017-10-20 | 2026-11-14 | 2021-01-21 |
 | [image-analysis-iot-alert](https://github.com/IBM/image-analysis-iot-alert) | WARNING: This repository is no longer maintained :warning: This repository will not be updated. The repository will be kept available in read-only mode. | JavaScript | 9 | Apache License 2.0 | 2017-10-27 | 2026-11-11 | 2019-05-26 |
 | [watson-vehicle-damage-analyzer](https://github.com/IBM/watson-vehicle-damage-analyzer) | A server and mobile app to send pictures of vehicle damage to IBM Watson Visual Recognition for classification | JavaScript | 62 | Apache License 2.0 | 2017-11-08 | 2026-11-11 | 2020-11-18 |
 | [Portfolio-compute](https://github.com/IBM/Portfolio-compute) | WARNING: This repository is no longer maintained :warning: This repository will not be updated. The repository will be kept available in read-only mode. | Python | 11 | Apache License 2.0 | 2017-11-08 | 2026-11-11 | 2019-05-26 |
@@ -217,7 +217,7 @@
 | [Blockchain_for_TelcoRoaming](https://github.com/IBM/Blockchain_for_TelcoRoaming) | This blockchain Hyperledger Composer project shows you how to create a Hyperledger Fabric with smart contracts that govern the transactions between CSPs acting as home operators and roaming partners to track the activities of mobile users on the network. | JavaScript | 17 | - | 2018-05-21 | 2026-11-11 | 2019-11-01 |
 | [drupal-on-kubernetes-sample](https://github.com/IBM/drupal-on-kubernetes-sample) | Setup a Drupal site using Kubernetes and Postgres on IBM Cloud | Shell | 26 | Apache License 2.0 | 2018-05-24 | 2026-11-11 | 2022-01-16 |
 | [xgboost-smote-detect-fraud](https://github.com/IBM/xgboost-smote-detect-fraud) | Can we predict accurately on the skewed data? What are the sampling techniques that can be used. Which models/techniques can be used in this scenario? Find the answers in this code pattern! | Jupyter Notebook | 68 | Apache License 2.0 | 2018-05-28 | 2026-11-11 | 2020-09-03 |
-| [marked-it](https://github.com/IBM/marked-it) | marked-it | JavaScript | 17 | MIT License | 2018-05-30 | 2026-11-11 | 2026-11-04 |
+| [marked-it](https://github.com/IBM/marked-it) | marked-it | JavaScript | 17 | MIT License | 2018-05-30 | 2026-11-11 | 2026-11-13 |
 | [marked-it-cli](https://github.com/IBM/marked-it-cli) | marked-it-cli | JavaScript | 5 | MIT License | 2018-05-30 | 2026-11-11 | 2026-11-04 |
 | [akamai-g2o-java](https://github.com/IBM/akamai-g2o-java) | akamai-g2o-java | Java | 0 | Apache License 2.0 | 2018-05-30 | 2026-11-11 | 2018-11-19 |
 | [zos-tools-and-toys](https://github.com/IBM/zos-tools-and-toys) | IBM z/OS Tools & Toys | None | 39 | - | 2018-05-31 | 2026-11-11 | 2021-01-07 |
@@ -321,7 +321,7 @@
 | [text-summarization-and-visualization-using-watson-studio](https://github.com/IBM/text-summarization-and-visualization-using-watson-studio) | Can we quickly summarize & visualize text to get the details about the unstructured data? Yes we can! Please review this code pattern for all the steps involved to quickly summarize & visualize the data. | Jupyter Notebook | 36 | Apache License 2.0 | 2018-10-11 | 2026-11-11 | 2021-05-11 |
 | [continuous-learning-with-watson-ml-and-db2](https://github.com/IBM/continuous-learning-with-watson-ml-and-db2) | Build models that learn over time with Watson Machine Learning, Watson Studio and IBM Db2 Warehouse on Cloud | TSQL | 7 | Apache License 2.0 | 2018-10-11 | 2026-11-11 | 2019-11-20 |
 | [watson-machine-learning-model-deploy](https://github.com/IBM/watson-machine-learning-model-deploy) | WARNING: This repository is no longer maintained :warning: This repository will not be updated. The repository will be kept available in read-only mode. Refer to https://github.com/IBM/monitor-wml-model-with-watson-openscale for a similar example. | Jupyter Notebook | 7 | Apache License 2.0 | 2018-10-15 | 2026-11-11 | 2019-04-11 |
-| [openapi-validator](https://github.com/IBM/openapi-validator) | Configurable and extensible validator/linter for OpenAPI documents | JavaScript | 635 | Apache License 2.0 | 2018-10-15 | 2026-11-11 | 2026-11-13 |
+| [openapi-validator](https://github.com/IBM/openapi-validator) | Configurable and extensible validator/linter for OpenAPI documents | JavaScript | 636 | Apache License 2.0 | 2018-10-15 | 2026-11-14 | 2026-11-13 |
 | [watson-translator-speech-sandbox](https://github.com/IBM/watson-translator-speech-sandbox) | WARNING: This repository is no longer maintained :warning: This repository will not be updated. The repository will be kept available in read-only mode. | C# | 4 | Apache License 2.0 | 2018-10-16 | 2026-11-11 | 2019-08-12 |
 | [loyalty-points-evm-fabric](https://github.com/IBM/loyalty-points-evm-fabric) | Sample use of Ethereum smart contract in Hyperledger Fabric | JavaScript | 54 | Apache License 2.0 | 2018-10-16 | 2026-11-11 | 2020-03-27 |
 | [cloud-pak](https://github.com/IBM/cloud-pak) | IBM Cloud Paks are enterprise-grade containerized software by combining container images with enterprise capabilities for deployment in production use cases with integrations for management and lifecycle operations. Features such as pre-configured deployments based on product expertise, rolling upgrades, and management of production workloads.  | Standard ML | 148 | Apache License 2.0 | 2018-10-17 | 2026-11-11 | 2026-11-10 |
@@ -402,7 +402,7 @@
 | [spring-alarm-application](https://github.com/IBM/spring-alarm-application) | A sample spring boot application, including metrics and spring data. | Java | 0 | Apache License 2.0 | 2019-02-06 | 2026-11-11 | 2019-02-12 |
 | [owperf](https://github.com/IBM/owperf) | A performance evaluation tool for Apache OpenWhisk | JavaScript | 15 | Apache License 2.0 | 2019-02-09 | 2026-11-11 | 2022-03-02 |
 | [java-sdk-core](https://github.com/IBM/java-sdk-core) | Core functionality required by Java code generated by the IBM Cloud OpenAPI SDK Generator (openapi-sdkgen) | Java | 19 | Apache License 2.0 | 2019-02-09 | 2026-11-11 | 2026-11-11 |
-| [JSONata4Java](https://github.com/IBM/JSONata4Java) | Open Source Java version of JSONata | Java | 130 | Apache License 2.0 | 2019-02-09 | 2026-11-11 | 2026-11-12 |
+| [JSONata4Java](https://github.com/IBM/JSONata4Java) | Open Source Java version of JSONata | Java | 130 | Apache License 2.0 | 2019-02-09 | 2026-11-11 | 2026-11-14 |
 | [ngo-collaboration-using-blockchain](https://github.com/IBM/ngo-collaboration-using-blockchain) | Demonstrate the use of Hyperledger Fabric for building a collaboration platform for NGOs. | Java | 25 | Apache License 2.0 | 2019-02-09 | 2026-11-11 | 2021-12-22 |
 | [ibm-block-csi-driver](https://github.com/IBM/ibm-block-csi-driver) | The IBM block storage CSI driver enables container orchestrators, such as Kubernetes and Openshift, to manage the life-cycle of persistent storage | Python | 38 | Apache License 2.0 | 2019-02-10 | 2026-11-11 | 2026-11-13 |
 | [go-sdk-core](https://github.com/IBM/go-sdk-core) | The go-sdk-core repository contains core functionality required by Go code generated by the IBM OpenAPI SDK Generator. | Go | 34 | Apache License 2.0 | 2019-02-11 | 2026-11-11 | 2026-11-11 |
@@ -578,7 +578,7 @@
 | [predict-fraud-using-auto-ai](https://github.com/IBM/predict-fraud-using-auto-ai) | Use AutoAI to detect fraud | Jupyter Notebook | 33 | Apache License 2.0 | 2019-09-25 | 2026-11-11 | 2022-12-09 |
 | [ml-learning-path-assets](https://github.com/IBM/ml-learning-path-assets) | Machine Learning for Developers learning path assets | Jupyter Notebook | 12 | Apache License 2.0 | 2019-09-26 | 2026-11-11 | 2019-12-13 |
 | [multicloud-multi-tenancy](https://github.com/IBM/multicloud-multi-tenancy) | Repo for multicloud multi-tenancy. | None | 0 | Apache License 2.0 | 2019-09-26 | 2026-11-11 | 2019-10-09 |
-| [telco-customer-churn-on-icp4d](https://github.com/IBM/telco-customer-churn-on-icp4d) | Data Analysis, Model Building and Deploying with WML on IBM Cloud Pak for Data | Jupyter Notebook | 85 | Apache License 2.0 | 2019-09-26 | 2026-11-11 | 2020-06-25 |
+| [telco-customer-churn-on-icp4d](https://github.com/IBM/telco-customer-churn-on-icp4d) | Data Analysis, Model Building and Deploying with WML on IBM Cloud Pak for Data | Jupyter Notebook | 84 | Apache License 2.0 | 2019-09-26 | 2026-11-13 | 2020-06-25 |
 | [graph-amr-parser](https://github.com/IBM/graph-amr-parser) | Pytorch AMR parser based on graph methods | None | 0 | MIT License | 2019-09-26 | 2026-11-11 | 2019-10-18 |
 | [iotp-oslc](https://github.com/IBM/iotp-oslc) | None | C++ | 0 | - | 2019-09-28 | 2026-11-11 | 2019-11-24 |
 | [use-deep-learning-in-ibm-cloud-functions](https://github.com/IBM/use-deep-learning-in-ibm-cloud-functions) | In support of "Leverage deep learning in Apache OpenWhisk / IBM Cloud Functions" tutorial | Python | 4 | Apache License 2.0 | 2019-09-30 | 2026-11-11 | 2020-04-23 |
@@ -620,7 +620,7 @@
 | [db2-hadr-wiki](https://github.com/IBM/db2-hadr-wiki) | Collection of how-to guides and information to help customers optimize their HADR environment. | Python | 8 | Apache License 2.0 | 2019-11-20 | 2026-11-11 | 2026-11-04 |
 | [python-flask-app](https://github.com/IBM/python-flask-app) | WARNING: This repository is no longer maintained  | HTML | 45 | Apache License 2.0 | 2019-11-20 | 2026-11-11 | 2023-02-15 |
 | [gan-toolkit-pattern](https://github.com/IBM/gan-toolkit-pattern) | Generating Fashion Images using GAN, without Writing Single Line of Code! | Python | 18 | Apache License 2.0 | 2019-11-21 | 2026-11-11 | 2022-02-18 |
-| [packer-plugin-ibmcloud](https://github.com/IBM/packer-plugin-ibmcloud) | Automate customizing Image Template | Go | 25 | Apache License 2.0 | 2019-11-21 | 2026-11-11 | 2026-11-11 |
+| [packer-plugin-ibmcloud](https://github.com/IBM/packer-plugin-ibmcloud) | Automate customizing Image Template | Go | 25 | Apache License 2.0 | 2019-11-21 | 2026-11-11 | 2026-11-14 |
 | [ibm-spectrum-scale-bridge-for-grafana](https://github.com/IBM/ibm-spectrum-scale-bridge-for-grafana) | This tool allows IBM Storage Scale users to perform performance monitoring for IBM Storage Scale devices using third-party applications such as Grafana or Prometheus software, or integrate with the Openshift monitoring stack. | Python | 49 | Apache License 2.0 | 2019-11-22 | 2026-11-12 | 2026-11-12 |
 | [private-data-collections-on-fabric](https://github.com/IBM/private-data-collections-on-fabric) | This repo demonstrates the use of collections to provide storage and retrieval of private data on the blockchain network for authorized peers of organizations. It shows how to use private data on the IBM Blockchain Platform. | JavaScript | 21 | Apache License 2.0 | 2019-11-26 | 2026-11-11 | 2025-09-17 |
 | [go-gin-app](https://github.com/IBM/go-gin-app) | WARNING: This repository is no longer maintained | HTML | 9 | Apache License 2.0 | 2019-12-03 | 2026-11-11 | 2023-02-15 |
@@ -658,7 +658,7 @@
 | [ibm-platform-api-operator](https://github.com/IBM/ibm-platform-api-operator) | This operator provides IBM command line interface to manage cloud resources | Shell | 3 | Apache License 2.0 | 2020-01-20 | 2026-11-11 | 2025-09-17 |
 | [ibm-helm-api-operator](https://github.com/IBM/ibm-helm-api-operator) | IBM Helm API Operator used as a backend for IBM Helm 2.0 Catalog | Makefile | 0 | Apache License 2.0 | 2020-01-20 | 2026-11-11 | 2025-09-17 |
 | [ibm-helm-repo-operator](https://github.com/IBM/ibm-helm-repo-operator) | IBM Helm Repo Operator to create and manage IBM Helm Repository | Makefile | 0 | Apache License 2.0 | 2020-01-20 | 2026-11-11 | 2025-09-17 |
-| [ibm-iam-operator](https://github.com/IBM/ibm-iam-operator) | Operator used to install the common iam service | Go | 14 | Apache License 2.0 | 2020-01-21 | 2026-11-11 | 2026-11-13 |
+| [ibm-iam-operator](https://github.com/IBM/ibm-iam-operator) | Operator used to install the common iam service | Go | 14 | Apache License 2.0 | 2020-01-21 | 2026-11-11 | 2026-11-14 |
 | [ibm-auditlogging-operator](https://github.com/IBM/ibm-auditlogging-operator) | Operator used to install IBM audit logging service | Go | 5 | Apache License 2.0 | 2020-01-21 | 2026-11-11 | 2025-09-17 |
 | [ibm-commonui-operator](https://github.com/IBM/ibm-commonui-operator) | Operator used to install the common webui service | Go | 5 | Apache License 2.0 | 2020-01-21 | 2026-11-11 | 2026-11-04 |
 | [example-loyalty-web](https://github.com/IBM/example-loyalty-web) | Work in progress | HTML | 1 | - | 2020-01-21 | 2026-11-11 | 2022-12-11 |
@@ -710,7 +710,7 @@
 | [ReturnPropensity](https://github.com/IBM/ReturnPropensity) | Use IBM Cloud Pak for Data and the Watson Machine Learning Add-On to build a machine learning model that predicts product order return propensity. | Jupyter Notebook | 3 | Apache License 2.0 | 2020-02-20 | 2026-11-11 | 2026-09-15 |
 | [ibm-monitoring-prometheus-operator-ext](https://github.com/IBM/ibm-monitoring-prometheus-operator-ext) | extend prometheus operator | Go | 0 | Apache License 2.0 | 2020-02-21 | 2026-11-11 | 2022-02-11 |
 | [migrate-app-to-openshift-using-ta](https://github.com/IBM/migrate-app-to-openshift-using-ta) | Transform your traditional on-premise application and deploy it as a containerized app on IBM Cloud Pak for Applications | Java | 3 | Apache License 2.0 | 2020-02-25 | 2026-11-11 | 2021-09-15 |
-| [AutoMLPipeline.jl](https://github.com/IBM/AutoMLPipeline.jl) | A package that makes it trivial to create and evaluate machine learning pipeline architectures. | Julia | 372 | MIT License | 2020-02-25 | 2026-11-12 | 2026-11-12 |
+| [AutoMLPipeline.jl](https://github.com/IBM/AutoMLPipeline.jl) | A package that makes it trivial to create and evaluate machine learning pipeline architectures. | Julia | 372 | MIT License | 2020-02-25 | 2026-11-12 | 2026-11-13 |
 | [Selmate-a-customizable-test-automation-tool](https://github.com/IBM/Selmate-a-customizable-test-automation-tool) | Selmate is developed as an extensible and customizable tool to automate regression testing for Web applications. It provides its own scripting language based on spreadsheet/xml and relevant API in Java for external communication. Selenium WebDriver is used internally by Selmate for all browser communication. This is an endeavor to minimize the programming effort required for test automation using Selenium. | Java | 3 | Apache License 2.0 | 2020-02-25 | 2026-11-11 | 2025-12-19 |
 | [dbb-zappbuild](https://github.com/IBM/dbb-zappbuild) | zAppBuild is a generic build solution for building z/OS applications using Apache Groovy build scripts and IBM Dependency Based Build (DBB) APIs. | Groovy | 55 | Apache License 2.0 | 2020-02-25 | 2026-11-11 | 2026-09-30 |
 | [watson-assistant-for-wechat](https://github.com/IBM/watson-assistant-for-wechat) | Helping developers building a chatbot for WeChat powered by Watson Assistant | JavaScript | 0 | MIT License | 2020-02-26 | 2026-11-11 | 2023-01-05 |
@@ -809,7 +809,7 @@
 | [kubernetes-driver](https://github.com/IBM/kubernetes-driver) | Brent driver implementation for Kubernetes (and Helm) | Python | 3 | Apache License 2.0 | 2020-05-15 | 2026-11-11 | 2026-09-15 |
 | [apiconnect-trawler](https://github.com/IBM/apiconnect-trawler) | API Connect metrics exporter | Go | 6 | MIT License | 2020-05-15 | 2026-11-12 | 2026-11-13 |
 | [cloudant-java-sdk](https://github.com/IBM/cloudant-java-sdk) | Cloudant SDK for Java | Java | 28 | Apache License 2.0 | 2020-05-18 | 2026-11-11 | 2026-11-11 |
-| [cloudant-node-sdk](https://github.com/IBM/cloudant-node-sdk) | Cloudant SDK for Node.js | TypeScript | 29 | Apache License 2.0 | 2020-05-18 | 2026-11-12 | 2026-11-12 |
+| [cloudant-node-sdk](https://github.com/IBM/cloudant-node-sdk) | Cloudant SDK for Node.js | TypeScript | 29 | Apache License 2.0 | 2020-05-18 | 2026-11-12 | 2026-11-13 |
 | [cloudant-python-sdk](https://github.com/IBM/cloudant-python-sdk) | Cloudant SDK for Python | Python | 58 | Apache License 2.0 | 2020-05-18 | 2026-11-12 | 2026-11-12 |
 | [cloudant-go-sdk](https://github.com/IBM/cloudant-go-sdk) | Cloudant SDK for Go | Go | 22 | Apache License 2.0 | 2020-05-18 | 2026-11-11 | 2026-11-11 |
 | [ios-push-app](https://github.com/IBM/ios-push-app) | Start building your next iOS Swift Push Notification app on IBM Cloud. | Swift | 0 | MIT License | 2020-05-18 | 2026-11-11 | 2020-09-01 |
@@ -877,7 +877,7 @@
 | [ibm-licensing-reporter-operator](https://github.com/IBM/ibm-licensing-reporter-operator) | ibm-licensing-hub-operator | Go | 2 | Apache License 2.0 | 2020-07-06 | 2026-11-11 | 2023-11-15 |
 | [watsonx-ai-samples](https://github.com/IBM/watsonx-ai-samples) | IBM watsonx.ai sample models, notebooks and apps. | HTML | 179 | Apache License 2.0 | 2020-07-06 | 2026-11-11 | 2026-11-04 |
 | [openshift-serverless-nodejs-couchdb](https://github.com/IBM/openshift-serverless-nodejs-couchdb) | Building Serverless Node.js applications in OpenShift Serverless Platform | JavaScript | 0 | - | 2020-07-07 | 2026-11-11 | 2020-12-20 |
-| [cp4s-car-connectors](https://github.com/IBM/cp4s-car-connectors) | Connected Asset/Risk (CAR) reference connector documentation | Python | 6 | - | 2020-07-08 | 2026-11-11 | 2026-10-16 |
+| [cp4s-car-connectors](https://github.com/IBM/cp4s-car-connectors) | Connected Asset/Risk (CAR) reference connector documentation | Python | 6 | - | 2020-07-08 | 2026-11-11 | 2026-11-13 |
 | [cp4s-car-connector-framework](https://github.com/IBM/cp4s-car-connector-framework) | Connected Asset/Risk (CAR) framework documentation | Python | 5 | Apache License 2.0 | 2020-07-08 | 2026-11-11 | 2026-05-07 |
 | [api-led-integration-using-ibm-cloud-pak-for-integration](https://github.com/IBM/api-led-integration-using-ibm-cloud-pak-for-integration) | API Led Integration using IBM Cloud Pak for Integration | None | 0 | Apache License 2.0 | 2020-07-09 | 2026-11-11 | 2022-12-13 |
 | [call-center-voice-agent](https://github.com/IBM/call-center-voice-agent) | Watson Assistant Phone Integration provides a way to integrate a set of orchestrated Watson services with a public or private telephone network by using the Session Initiation Protocol (SIP). | None | 9 | Apache License 2.0 | 2020-07-09 | 2026-11-11 | 2021-05-07 |
@@ -937,7 +937,7 @@
 | [expressive-reasoning-graph-store](https://github.com/IBM/expressive-reasoning-graph-store) | Expressive Reasoning Graph Store (ERGS) is an OWL reasoner and an RDF triple store built on top of a Property Graph architecture. | Java | 32 | Apache License 2.0 | 2020-08-20 | 2026-11-11 | 2025-09-17 |
 | [cloud-pak-operations-cli](https://github.com/IBM/cloud-pak-operations-cli) | The IBM Cloud Pak Operations CLI extends the capabilities of the OpenShift (oc) and Cloud Pak for Data (cpd-cli) command-line tools by offering additional commands for managing Red Hat OpenShift clusters and IBM Software Hub. It addresses gaps in existing tooling, enabling advanced operational tasks and simplifying complex administrative workflows. | Python | 17 | Apache License 2.0 | 2020-08-21 | 2026-11-11 | 2026-09-21 |
 | [create-a-danger-response-tool-using-Watson](https://github.com/IBM/create-a-danger-response-tool-using-Watson) | Danger analysis pattern | JavaScript | 1 | Apache License 2.0 | 2020-08-24 | 2026-11-11 | 2022-12-09 |
-| [CodeEngine](https://github.com/IBM/CodeEngine) | Samples for using Code Engine | Shell | 118 | Apache License 2.0 | 2020-08-25 | 2026-11-11 | 2026-11-12 |
+| [CodeEngine](https://github.com/IBM/CodeEngine) | Samples for using Code Engine | Shell | 118 | Apache License 2.0 | 2020-08-25 | 2026-11-11 | 2026-11-14 |
 | [community-automation](https://github.com/IBM/community-automation) | community-automation is meant to be a place where developers can contribute to a library of ansible playbooks related to Red Hat OpenShift Container Platform, from installing OCP to post install activities.  It is the intent that these playbooks and roles can be reused by any team that is looking to automate their CI/CD pip | Jinja | 32 | Apache License 2.0 | 2020-08-25 | 2026-11-11 | 2026-07-28 |
 | [ibm-satellite-storage](https://github.com/IBM/ibm-satellite-storage) | To keep satellite storage vendor's driver deployments and configurations | None | 9 | Apache License 2.0 | 2020-08-27 | 2026-11-11 | 2026-11-11 |
 | [jupyter-tools](https://github.com/IBM/jupyter-tools) | Collection of tools for working with JupyterHub and notebooks | Python | 20 | Apache License 2.0 | 2020-08-28 | 2026-11-11 | 2025-09-17 |
@@ -1013,7 +1013,7 @@
 | [prediction-using-netezza-in-database-analytics-functions](https://github.com/IBM/prediction-using-netezza-in-database-analytics-functions) | Data analytics and prediction using Netezza Performance Server | None | 1 | Apache License 2.0 | 2020-11-03 | 2026-11-11 | 2022-09-30 |
 | [cpd-workshop-health-care](https://github.com/IBM/cpd-workshop-health-care) | Health Care workshop on Cloud Pak for Data | Python | 2 | Apache License 2.0 | 2020-11-04 | 2026-11-11 | 2021-06-14 |
 | [TM-GCN](https://github.com/IBM/TM-GCN) | Pytorch code for TM-GCN, a Dynamic Graph Convolutional Networks Using the Tensor M-Product | Python | 28 | Apache License 2.0 | 2020-11-04 | 2026-11-11 | 2021-06-16 |
-| [secrets-manager-node-sdk](https://github.com/IBM/secrets-manager-node-sdk) | Node.js SDK for IBM Cloud Secrets Manager | TypeScript | 3 | Apache License 2.0 | 2020-11-05 | 2026-11-12 | 2026-11-12 |
+| [secrets-manager-node-sdk](https://github.com/IBM/secrets-manager-node-sdk) | Node.js SDK for IBM Cloud Secrets Manager | TypeScript | 3 | Apache License 2.0 | 2020-11-05 | 2026-11-12 | 2026-11-14 |
 | [react-couchdb-store](https://github.com/IBM/react-couchdb-store) | React wrapper library to work with CouchDB | JavaScript | 0 | Apache License 2.0 | 2020-11-06 | 2026-11-11 | 2020-12-08 |
 | [cookies](https://github.com/IBM/cookies) | Small wrapper library to work with cookies | JavaScript | 0 | Apache License 2.0 | 2020-11-06 | 2026-11-11 | 2020-11-27 |
 | [SARS-CoV-2-Variant-Browser](https://github.com/IBM/SARS-CoV-2-Variant-Browser) | This is SARS-CoV-2 Variant Browser Web Application Tool | JavaScript | 3 | Apache License 2.0 | 2020-11-10 | 2026-11-11 | 2021-12-09 |
@@ -1035,10 +1035,10 @@
 | [bias-mitigation-of-machine-learning-models-using-aif360](https://github.com/IBM/bias-mitigation-of-machine-learning-models-using-aif360) | "' '" | Jupyter Notebook | 19 | Apache License 2.0 | 2020-11-23 | 2026-11-11 | 2025-09-17 |
 | [testing-vuejs-components](https://github.com/IBM/testing-vuejs-components) | Tutorial for testing VueJs components | JavaScript | 0 | Apache License 2.0 | 2020-11-24 | 2026-11-11 | 2020-12-08 |
 | [mdm-java-sdk](https://github.com/IBM/mdm-java-sdk) | Java SDK for MDM on IBM Cloud | Java | 1 | Apache License 2.0 | 2020-11-25 | 2026-11-11 | 2025-09-17 |
-| [secrets-manager-go-sdk](https://github.com/IBM/secrets-manager-go-sdk) | Golang SDK for IBM Cloud Secrets Manager | Go | 5 | Apache License 2.0 | 2020-11-29 | 2026-11-11 | 2026-11-12 |
-| [secrets-manager-java-sdk](https://github.com/IBM/secrets-manager-java-sdk) | Java SDK for IBM Cloud Secrets Manager | Java | 2 | Apache License 2.0 | 2020-11-29 | 2026-11-12 | 2026-11-12 |
-| [secrets-manager-python-sdk](https://github.com/IBM/secrets-manager-python-sdk) | Python SDK for IBM Cloud Secrets Manager | Python | 2 | Apache License 2.0 | 2020-11-29 | 2026-11-11 | 2026-11-12 |
-| [aspera-cli](https://github.com/IBM/aspera-cli) | IBM Aspera CLI | Ruby | 102 | Apache License 2.0 | 2020-11-30 | 2026-11-12 | 2026-11-12 |
+| [secrets-manager-go-sdk](https://github.com/IBM/secrets-manager-go-sdk) | Golang SDK for IBM Cloud Secrets Manager | Go | 5 | Apache License 2.0 | 2020-11-29 | 2026-11-11 | 2026-11-13 |
+| [secrets-manager-java-sdk](https://github.com/IBM/secrets-manager-java-sdk) | Java SDK for IBM Cloud Secrets Manager | Java | 2 | Apache License 2.0 | 2020-11-29 | 2026-11-12 | 2026-11-13 |
+| [secrets-manager-python-sdk](https://github.com/IBM/secrets-manager-python-sdk) | Python SDK for IBM Cloud Secrets Manager | Python | 2 | Apache License 2.0 | 2020-11-29 | 2026-11-11 | 2026-11-13 |
+| [aspera-cli](https://github.com/IBM/aspera-cli) | IBM Aspera CLI | Ruby | 102 | Apache License 2.0 | 2020-11-30 | 2026-11-12 | 2026-11-14 |
 | [optimize-procurement-and-inventory-with-ai](https://github.com/IBM/optimize-procurement-and-inventory-with-ai) | Create a web application that uses the IBM Decision Optimization's prescriptive analytics model, to choose which plant to order items from | JavaScript | 38 | - | 2020-11-30 | 2026-11-11 | 2025-09-17 |
 | [build-a-time-series-model-using-fp-predict-plus](https://github.com/IBM/build-a-time-series-model-using-fp-predict-plus) | "' '" | None | 1 | Apache License 2.0 | 2020-12-01 | 2026-11-11 | 2020-12-08 |
 | [wos-spark-manager-api](https://github.com/IBM/wos-spark-manager-api) | A Flask based application that facilitates IBM Watson OpenScale to read/write files from/to remote HDFS, run and get details about a job running in remote Spark cluster. | Python | 1 | Apache License 2.0 | 2020-12-01 | 2026-11-11 | 2025-09-17 |
@@ -1078,12 +1078,12 @@
 | [openshift-serverless-labs](https://github.com/IBM/openshift-serverless-labs) | Red Hat OpenShift Serverless hands on exercise instructions | None | 0 | Apache License 2.0 | 2021-01-23 | 2026-11-11 | 2021-01-23 |
 | [sql-query-go-sdk](https://github.com/IBM/sql-query-go-sdk) | The IBM Cloud SqlQuery Go SDK allows developers to programmatically interact with SQL Query | Go | 2 | Apache License 2.0 | 2021-01-25 | 2026-11-11 | 2026-10-10 |
 | [sql-query-node-sdk](https://github.com/IBM/sql-query-node-sdk) | The IBM Cloud SqlQuery Node SDK allows developers to programmatically interact with SQL Query | JavaScript | 0 | Apache License 2.0 | 2021-01-25 | 2026-11-11 | 2025-09-17 |
-| [cert-manager-webhook-ibmcis](https://github.com/IBM/cert-manager-webhook-ibmcis) | Cert-manager.io webhook to use IBM Cloud Internet Service (ibmcis) | Go | 2 | Apache License 2.0 | 2021-01-26 | 2026-11-11 | 2026-10-02 |
+| [cert-manager-webhook-ibmcis](https://github.com/IBM/cert-manager-webhook-ibmcis) | Cert-manager.io webhook to use IBM Cloud Internet Service (ibmcis) | Go | 2 | Apache License 2.0 | 2021-01-26 | 2026-11-11 | 2026-11-14 |
 | [appconfiguration-python-sdk](https://github.com/IBM/appconfiguration-python-sdk) | Python server SDK for IBM Cloud App Configuration service | Python | 0 | Apache License 2.0 | 2021-01-27 | 2026-11-11 | 2026-10-13 |
 | [eventstreams-go-sdk](https://github.com/IBM/eventstreams-go-sdk) | Event Streams SDK allows you to integrate your application with Event Streams RESTful APIs. | Go | 2 | Apache License 2.0 | 2021-01-27 | 2026-11-11 | 2026-09-13 |
 | [eventstreams-python-sdk](https://github.com/IBM/eventstreams-python-sdk) | Event Streams SDK allows you to integrate your application with Event Streams RESTful APIs. | Python | 5 | Apache License 2.0 | 2021-01-27 | 2026-11-11 | 2026-11-10 |
 | [eventstreams-node-sdk](https://github.com/IBM/eventstreams-node-sdk) | Event Streams SDK allows you to integrate your application with Event Streams RESTful APIs. | JavaScript | 2 | Apache License 2.0 | 2021-01-27 | 2026-11-11 | 2026-11-08 |
-| [eventstreams-java-sdk](https://github.com/IBM/eventstreams-java-sdk) | Event Streams SDK allows you to integrate your application with Event Streams RESTful APIs. | Java | 2 | Apache License 2.0 | 2021-01-27 | 2026-11-11 | 2026-11-04 |
+| [eventstreams-java-sdk](https://github.com/IBM/eventstreams-java-sdk) | Event Streams SDK allows you to integrate your application with Event Streams RESTful APIs. | Java | 2 | Apache License 2.0 | 2021-01-27 | 2026-11-11 | 2026-11-14 |
 | [tmpfs-4-hana](https://github.com/IBM/tmpfs-4-hana) | A convenience script to recreate tmpfs filesystems for the SAP HANA Fast Restart Option | Python | 1 | Apache License 2.0 | 2021-01-27 | 2026-11-11 | 2026-11-09 |
 | [snapml-examples](https://github.com/IBM/snapml-examples) | IBM Snap ML Examples | None | 47 | Apache License 2.0 | 2021-02-03 | 2026-11-11 | 2025-09-17 |
 | [example-bank-argo](https://github.com/IBM/example-bank-argo) | deployment yaml files for example-bank via argo | None | 0 | Apache License 2.0 | 2021-02-03 | 2026-11-11 | 2021-02-26 |
@@ -1092,7 +1092,7 @@
 | [vpc-ruby-sdk](https://github.com/IBM/vpc-ruby-sdk) | Ruby gem for IBM Cloud VPC | Ruby | 1 | Apache License 2.0 | 2021-02-04 | 2026-11-11 | 2026-10-07 |
 | [kafka-connect-splunk-transformer](https://github.com/IBM/kafka-connect-splunk-transformer) | This repository contains a custom Kafka Connect transformers which support a transformation of JSON formatted Kafka records into a structure supported by Splunk. | Java | 5 | Apache License 2.0 | 2021-02-05 | 2026-11-11 | 2021-12-16 |
 | [D2A](https://github.com/IBM/D2A) | This repository is to support contributions for tools and new data entries for the D2A dataset hosted in DAX | Python | 78 | Apache License 2.0 | 2021-02-05 | 2026-11-11 | 2022-05-27 |
-| [ibm-object-csi-driver](https://github.com/IBM/ibm-object-csi-driver) | Object storage plugin for IBM satellite | Go | 3 | Apache License 2.0 | 2021-02-08 | 2026-11-11 | 2026-11-12 |
+| [ibm-object-csi-driver](https://github.com/IBM/ibm-object-csi-driver) | Object storage plugin for IBM satellite | Go | 3 | Apache License 2.0 | 2021-02-08 | 2026-11-11 | 2026-11-14 |
 | [appconfiguration-node-sdk](https://github.com/IBM/appconfiguration-node-sdk) | Node server SDK for IBM Cloud App Configuration service | JavaScript | 4 | Other | 2021-02-09 | 2026-11-11 | 2026-10-23 |
 | [ansible-power-aix-oracle](https://github.com/IBM/ansible-power-aix-oracle) | Automate oracle database 19c installation on AIX | Jinja | 13 | Apache License 2.0 | 2021-02-09 | 2026-11-11 | 2026-03-04 |
 | [appconfiguration-go-sdk](https://github.com/IBM/appconfiguration-go-sdk) | None | Go | 0 | Apache License 2.0 | 2021-02-09 | 2026-11-11 | 2026-11-07 |
@@ -1157,7 +1157,7 @@
 | [omniauth-ibmid](https://github.com/IBM/omniauth-ibmid) | IBMid OIDC strategy for OmniAuth | Ruby | 0 | MIT License | 2021-04-20 | 2026-11-11 | 2021-04-28 |
 | [Blockchain-DB](https://github.com/IBM/Blockchain-DB) | The Highly Available, Immutable and Secure Ledger Database | None | 0 | Apache License 2.0 | 2021-04-20 | 2026-11-11 | 2021-04-20 |
 | [weather_company_migration](https://github.com/IBM/weather_company_migration) | developer assets inspired by weather company migration from AWS to IBM Cloud | None | 0 | Apache License 2.0 | 2021-04-21 | 2026-11-11 | 2021-04-22 |
-| [ibmcloud-volume-file-vpc](https://github.com/IBM/ibmcloud-volume-file-vpc) | vpc share library for kubernetes | Go | 0 | Apache License 2.0 | 2021-04-22 | 2026-11-11 | 2026-11-09 |
+| [ibmcloud-volume-file-vpc](https://github.com/IBM/ibmcloud-volume-file-vpc) | vpc share library for kubernetes | Go | 0 | Apache License 2.0 | 2021-04-22 | 2026-11-11 | 2026-11-14 |
 | [ibmi-oss-resources](https://github.com/IBM/ibmi-oss-resources) | Important resources for anyone interested in open source on IBM i | None | 37 | Creative Commons Zero v1.0 Universal | 2021-04-25 | 2026-11-11 | 2025-09-17 |
 | [debater-eap-tutorial](https://github.com/IBM/debater-eap-tutorial) | Project Debater Early Access Program Tutorial | Jupyter Notebook | 27 | - | 2021-04-25 | 2026-11-11 | 2025-12-07 |
 | [ibm-storage-odf-operator](https://github.com/IBM/ibm-storage-odf-operator) | ibm-storage-odf-operator provides a common operator for Red Hat ODF to connect IBM storage product drivers. | Go | 5 | Apache License 2.0 | 2021-04-27 | 2026-11-11 | 2026-10-05 |
@@ -1175,7 +1175,7 @@
 | [beacon-for-ibm-dotcom](https://github.com/IBM/beacon-for-ibm-dotcom) | Beacon for IBM.com is an audit tool for various compliance checks for IBM.com pages. | JavaScript | 0 | Apache License 2.0 | 2021-05-11 | 2026-11-11 | 2025-09-17 |
 | [ddc-2021-jumpstart-your-journey](https://github.com/IBM/ddc-2021-jumpstart-your-journey) | Digital Developer Conference 2021 - Jumpstart your journey to Data Science and AI | Jupyter Notebook | 0 | Apache License 2.0 | 2021-05-13 | 2026-11-11 | 2021-06-07 |
 | [cloud-service-management-tutorial](https://github.com/IBM/cloud-service-management-tutorial) | Manage configuration and credentials for back-end services while protecting sensitive data | Shell | 0 | Apache License 2.0 | 2021-05-14 | 2026-11-11 | 2022-03-29 |
-| [ibm-csi-common](https://github.com/IBM/ibm-csi-common) | Common library for implementing ibm csi driver for kubernetes | Go | 1 | Apache License 2.0 | 2021-05-16 | 2026-11-11 | 2026-11-03 |
+| [ibm-csi-common](https://github.com/IBM/ibm-csi-common) | Common library for implementing ibm csi driver for kubernetes | Go | 1 | Apache License 2.0 | 2021-05-16 | 2026-11-11 | 2026-11-14 |
 | [transformers-struct-guidance](https://github.com/IBM/transformers-struct-guidance) | Code for the ACL 2021 paper "Structural Guidance for Transformer Language Models" | Python | 15 | MIT License | 2021-05-17 | 2026-11-11 | 2025-09-17 |
 | [iac-for-openshift-operator](https://github.com/IBM/iac-for-openshift-operator) | Automate operator installation on OpenShift | Shell | 0 | Apache License 2.0 | 2021-05-18 | 2026-11-11 | 2021-06-10 |
 | [ddc-2021-development-to-production](https://github.com/IBM/ddc-2021-development-to-production) | IBM Digital Developer Conference - Data & AI 2021 course showcasing aspects of the AI and Machine Learning lifecycle going from development to production. | Jupyter Notebook | 13 | Apache License 2.0 | 2021-05-18 | 2026-11-11 | 2021-06-05 |
@@ -1198,7 +1198,7 @@
 | [system-security-research-updates](https://github.com/IBM/system-security-research-updates) | system security research updates | HTML | 1 | Apache License 2.0 | 2021-06-07 | 2026-11-11 | 2026-11-13 |
 | [ibm-spectrum-scale-container-native-helm](https://github.com/IBM/ibm-spectrum-scale-container-native-helm) | HELM charts to assist with IBM Spectrum Scale container native and CSI installations within OpenShift | Shell | 4 | Apache License 2.0 | 2021-06-07 | 2026-11-11 | 2025-09-17 |
 | [Voice2Series-Reprogramming](https://github.com/IBM/Voice2Series-Reprogramming) |  ICML 2021 - Voice2Series: Reprogramming Acoustic Models for Time Series Classification | TypeScript | 0 | Apache License 2.0 | 2021-06-09 | 2026-11-11 | 2022-04-19 |
-| [ibm-vpc-file-csi-driver](https://github.com/IBM/ibm-vpc-file-csi-driver) | CSI driver for IBM Cloud® File Storage for VPC, for IBM managed and self-managed clusters | Go | 4 | Apache License 2.0 | 2021-06-09 | 2026-11-11 | 2026-11-09 |
+| [ibm-vpc-file-csi-driver](https://github.com/IBM/ibm-vpc-file-csi-driver) | CSI driver for IBM Cloud® File Storage for VPC, for IBM managed and self-managed clusters | Go | 4 | Apache License 2.0 | 2021-06-09 | 2026-11-11 | 2026-11-14 |
 | [ce-cns](https://github.com/IBM/ce-cns) | Get Started with deploying a Java Microservices Application to `Code Engine` . Documentation link: "https://ibm.github.io/ce-cns/" | Shell | 11 | Apache License 2.0 | 2021-06-09 | 2026-11-11 | 2025-09-17 |
 | [container-security-with-sysdig](https://github.com/IBM/container-security-with-sysdig) | This workshop covers container security best practices for kubernetes and how to utilize Sysdig Secure for container image scanning, running workload scanning, and more. | None | 0 | Apache License 2.0 | 2021-06-09 | 2026-11-11 | 2021-07-22 |
 | [ibm-odf-tech-preview](https://github.com/IBM/ibm-odf-tech-preview) | Application of Openshift Data Foundation (ODF). | None | 0 | Apache License 2.0 | 2021-06-11 | 2026-11-11 | 2021-12-01 |
@@ -1241,7 +1241,7 @@
 | [yaso-tsa](https://github.com/IBM/yaso-tsa) | The YASO targeted sentiment analysis dataset, accompanied by evaluation code. | Python | 20 | Apache License 2.0 | 2021-07-22 | 2026-11-11 | 2025-09-17 |
 | [alchemy-logging](https://github.com/IBM/alchemy-logging) | Application logging libraries with consistent semantics across c++, python, typescript, and go | Python | 14 | MIT License | 2021-07-22 | 2026-11-11 | 2026-11-13 |
 | [fluent-forward-go](https://github.com/IBM/fluent-forward-go) | A high-performance Go client for Fluentd and Fluent Bit | Go | 44 | MIT License | 2021-07-23 | 2026-11-11 | 2026-11-11 |
-| [markdown-it-attrs](https://github.com/IBM/markdown-it-attrs) | This repo is to supplement the existing github.com/IBM/marked-it and github.com/IBM/marked-it-cli for the IBM Cloud marked-it project. | JavaScript | 1 | MIT License | 2021-07-29 | 2026-11-11 | 2026-10-21 |
+| [markdown-it-attrs](https://github.com/IBM/markdown-it-attrs) | This repo is to supplement the existing github.com/IBM/marked-it and github.com/IBM/marked-it-cli for the IBM Cloud marked-it project. | JavaScript | 1 | MIT License | 2021-07-29 | 2026-11-11 | 2026-11-13 |
 | [anomaly-detection-code-pattern](https://github.com/IBM/anomaly-detection-code-pattern) | Sample Jupyter Notebook for playing around with the Anomaly Detection service to be made available on API Hub | Jupyter Notebook | 31 | Apache License 2.0 | 2021-07-30 | 2026-11-11 | 2026-01-11 |
 | [TracInF](https://github.com/IBM/TracInF) | this is the code for the paper "On Sample Based Explanation Methods for NLP: Efficiency, Faithfulness, and Semantic Evaluation | Python | 0 | Apache License 2.0 | 2021-08-04 | 2026-11-11 | 2021-08-04 |
 | [IBMDeveloper-recipes](https://github.com/IBM/IBMDeveloper-recipes) | The repo holds Recipes from IBM Developer for user access to the information | None | 61 | Apache License 2.0 | 2021-08-05 | 2026-11-11 | 2025-09-17 |
@@ -1397,7 +1397,7 @@
 | [ibm-ix-aem-sonarqube-plugin](https://github.com/IBM/ibm-ix-aem-sonarqube-plugin) | SonarQube plugin for AEM rules based on IBM iX guidelines | Java | 8 | Apache License 2.0 | 2022-02-25 | 2026-11-11 | 2026-11-06 |
 | [ibm-techallenge-spain](https://github.com/IBM/ibm-techallenge-spain) | hack challenge ibm cloud | None | 0 | Apache License 2.0 | 2022-02-28 | 2026-11-11 | 2022-04-04 |
 | [proactive-healthcare-management-cpd-aws](https://github.com/IBM/proactive-healthcare-management-cpd-aws) | In this code pattern, you will learn to build a machine learning model with no code on IBM Cloud Pak for Data, create a streaming flow on AWS Cloud and invoke the model to get predictions in real-time. | None | 3 | Apache License 2.0 | 2022-02-28 | 2026-11-11 | 2022-05-19 |
-| [guardium-supported-datasources](https://github.com/IBM/guardium-supported-datasources) | Guardium Supported Datasources | JavaScript | 5 | Apache License 2.0 | 2022-02-28 | 2026-11-11 | 2026-11-12 |
+| [guardium-supported-datasources](https://github.com/IBM/guardium-supported-datasources) | Guardium Supported Datasources | JavaScript | 5 | Apache License 2.0 | 2022-02-28 | 2026-11-11 | 2026-11-14 |
 | [acmeair-quarkus](https://github.com/IBM/acmeair-quarkus) | This is a Quarkus version of AcmeAir, ported from its springboot version published in BLUEPERF (https://github.com/blueperf). This repository contains all five microservices of AcmeAir, as well as the driver for benchmarking using Apache JMeter.  | Java | 3 | Apache License 2.0 | 2022-03-01 | 2026-11-11 | 2022-03-07 |
 | [odi-utility-tool](https://github.com/IBM/odi-utility-tool) | This is the tool for installing open source software required by IBM Open Data for Industries. | None | 0 | Apache License 2.0 | 2022-03-01 | 2026-11-11 | 2022-03-03 |
 | [ibmcloud-hpc-tutorials](https://github.com/IBM/ibmcloud-hpc-tutorials) | HPC on Clouds tutorials | CSS | 2 | MIT License | 2022-03-01 | 2026-11-11 | 2022-04-25 |
@@ -1701,7 +1701,7 @@
 | [zos_ims_operator](https://github.com/IBM/zos_ims_operator) | IBM Z and Cloud Modernization Stack Operator for IBM Information Management System | Jinja | 2 | Apache License 2.0 | 2023-03-14 | 2026-11-11 | 2025-09-17 |
 | [uncertainty_late_fusion](https://github.com/IBM/uncertainty_late_fusion) | This repository is for sharing our code for an ISBI paper that we published in 2021. Wang, Hongzhi, Vaishnavi Subramanian, and Tanveer Syeda-Mahmood. Modeling uncertainty in multi-modal fusion for lung cancer survival analysis. | Python | 0 | Apache License 2.0 | 2023-03-17 | 2026-11-11 | 2025-09-17 |
 | [webspherelab](https://github.com/IBM/webspherelab) | WebSphere Troubleshooting and Performance Lab | HTML | 8 | Apache License 2.0 | 2023-03-20 | 2026-11-11 | 2026-10-28 |
-| [RMF](https://github.com/IBM/RMF) | Resource Measurement Facility for z/OS | TypeScript | 9 | Apache License 2.0 | 2023-03-21 | 2026-11-11 | 2026-11-02 |
+| [RMF](https://github.com/IBM/RMF) | Resource Measurement Facility for z/OS | TypeScript | 9 | Apache License 2.0 | 2023-03-21 | 2026-11-11 | 2026-11-14 |
 | [CIAM-Tutorial](https://github.com/IBM/CIAM-Tutorial) | This tutorial will serve as a first step towards integrating IBM Security Verify SaaS with a NodeJS application. User registration, login/logout can be added via Verify SaaS | None | 2 | The Unlicense | 2023-03-22 | 2026-11-11 | 2025-09-18 |
 | [project-node-sdk](https://github.com/IBM/project-node-sdk) | Manage infrastructure as code in IBM Cloud. | TypeScript | 1 | Apache License 2.0 | 2023-03-23 | 2026-11-11 | 2025-09-18 |
 | [multitask-toxicity](https://github.com/IBM/multitask-toxicity) | Repository for Multitask Toxicity with Contrastive Explanation | Jupyter Notebook | 14 | Apache License 2.0 | 2023-03-25 | 2026-11-11 | 2025-09-18 |
@@ -1731,7 +1731,7 @@
 | [helayers-examples](https://github.com/IBM/helayers-examples) | Examples for HElayers homomorphic encryption SDK for C++ and Python | Jupyter Notebook | 11 | MIT License | 2023-04-20 | 2026-11-11 | 2025-09-18 |
 | [mechanism-learning](https://github.com/IBM/mechanism-learning) | Source code for reproducing the experimental results reported in T. Osogami et al., "Learning Efficient Truthful Mechanisms for Trading Networks", IJCAI-23. | Jupyter Notebook | 2 | Apache License 2.0 | 2023-04-25 | 2026-11-11 | 2025-09-18 |
 | [regex-learner](https://github.com/IBM/regex-learner) | Utility to incrementally learn regular expressions from examples | Python | 27 | Apache License 2.0 | 2023-04-27 | 2026-11-11 | 2025-09-18 |
-| [event-automation](https://github.com/IBM/event-automation) | Repo for IBM Event Automation documentation. | HTML | 1 | Apache License 2.0 | 2023-04-28 | 2026-11-11 | 2026-11-11 |
+| [event-automation](https://github.com/IBM/event-automation) | Repo for IBM Event Automation documentation. | HTML | 1 | Apache License 2.0 | 2023-04-28 | 2026-11-11 | 2026-11-13 |
 | [IBM-Extended-Markov-Ratio-Decision-Process](https://github.com/IBM/IBM-Extended-Markov-Ratio-Decision-Process) | This repo includes code referenced in the paper A Rigorous Risk-aware Linear Approach to Extended Markov Ratio Decision Processes with Embedded Learning by Alexander Zadorojniy, Takayuki Osogami, and Orit Davidovich to appear in IJCAI 2023. | Jupyter Notebook | 5 | Apache License 2.0 | 2023-04-30 | 2026-11-11 | 2025-09-18 |
 | [auto-contrastive-generation](https://github.com/IBM/auto-contrastive-generation) | Text generation using language models with multiple exit heads | Python | 16 | Apache License 2.0 | 2023-05-01 | 2026-11-11 | 2026-10-11 |
 | [aspera-on-cloud-file-previews](https://github.com/IBM/aspera-on-cloud-file-previews) | Terraform module for installing serverless functions for generating previews for cloud storage buckets attached to Aspera on Cloud | Python | 2 | Apache License 2.0 | 2023-05-02 | 2026-11-11 | 2025-05-08 |
@@ -1743,7 +1743,7 @@
 | [grpc-gateway-wrapper](https://github.com/IBM/grpc-gateway-wrapper) | Tool for creating a lightweight REST interface gateway to arbitrary gRPC service definitions | Python | 5 | MIT License | 2023-05-08 | 2026-11-11 | 2026-02-11 |
 | [vscode-ibmi-projectexplorer-types](https://github.com/IBM/vscode-ibmi-projectexplorer-types) | Type definitions for the IBM i Project Explorer API | None | 1 | Apache License 2.0 | 2023-05-08 | 2026-11-11 | 2023-08-03 |
 | [boxfs](https://github.com/IBM/boxfs) | Box file storage implementation for Python `fsspec` | Python | 8 | MIT License | 2023-05-08 | 2026-11-11 | 2026-07-17 |
-| [DataStage](https://github.com/IBM/DataStage) | Public facing artifacts for IBM DataStage. | Shell | 16 | Apache License 2.0 | 2023-05-08 | 2026-11-11 | 2026-11-11 |
+| [DataStage](https://github.com/IBM/DataStage) | Public facing artifacts for IBM DataStage. | Shell | 17 | Apache License 2.0 | 2023-05-08 | 2026-11-13 | 2026-11-11 |
 | [vira-dialog-system](https://github.com/IBM/vira-dialog-system) | The VIRA dialog system code base | Python | 2 | Apache License 2.0 | 2023-05-09 | 2026-11-11 | 2026-06-27 |
 | [pySigma-backend-QRadar-AQL](https://github.com/IBM/pySigma-backend-QRadar-AQL) | QRadar AQL backend for converting Sigma rules to QRadar AQL queries | Python | 15 | MIT License | 2023-05-09 | 2026-11-11 | 2026-11-05 |
 | [micro3270](https://github.com/IBM/micro3270) | A multi-arch compatible, micro-sized, containerized 3270 emulator | Shell | 4 | Apache License 2.0 | 2023-05-09 | 2026-11-11 | 2025-09-18 |
@@ -1853,7 +1853,7 @@
 | [zvm_ansible](https://github.com/IBM/zvm_ansible) | None | Shell | 16 | Apache License 2.0 | 2023-09-18 | 2026-11-11 | 2025-09-18 |
 | [watsonx-prompt-lab](https://github.com/IBM/watsonx-prompt-lab) | watsonx prompt lab | None | 16 | Apache License 2.0 | 2023-09-19 | 2026-11-11 | 2025-09-18 |
 | [SalesEnablement-SCC-robot-shop-L3](https://github.com/IBM/SalesEnablement-SCC-robot-shop-L3) | repo for Sales Enablement L3 for SCC and its sample app | None | 0 | Apache License 2.0 | 2023-09-20 | 2026-11-11 | 2025-09-18 |
-| [ACE-RISCV](https://github.com/IBM/ACE-RISCV) | Assured confidential execution (ACE) implements VM-based trusted execution environment (TEE) for embedded RISC-V systems with focus on a formally verified and auditable firmware. | Rust | 222 | Apache License 2.0 | 2023-09-22 | 2026-11-13 | 2026-11-13 |
+| [ACE-RISCV](https://github.com/IBM/ACE-RISCV) | Assured confidential execution (ACE) implements VM-based trusted execution environment (TEE) for embedded RISC-V systems with focus on a formally verified and auditable firmware. | Rust | 222 | Apache License 2.0 | 2023-09-22 | 2026-11-13 | 2026-11-14 |
 | [AutoVP](https://github.com/IBM/AutoVP) | [ICLR24] "AutoVP: An Automated Visual Prompting Framework and Benchmark" by Hsi-Ai Tsao*, Lei Hsiung*, Pin-Yu Chen, Sijia Liu, and Tsung-Yi Ho. | Python | 24 | Apache License 2.0 | 2023-09-27 | 2026-11-11 | 2025-09-18 |
 | [ibmz-accelerated-for-tensorflow](https://github.com/IBM/ibmz-accelerated-for-tensorflow) | Accelerate seamless integration of TensorFlow with IBM Z Accelerated for TensorFlow to develop and deploy machine learning (ML) models on neural networks. | None | 2 | Apache License 2.0 | 2023-09-28 | 2026-11-11 | 2026-11-06 |
 | [ibmz-accelerated-serving-for-tensorflow](https://github.com/IBM/ibmz-accelerated-serving-for-tensorflow) | Harness the benefits of TensorFlow Serving—a flexible and high performance serving system—with IBM Z Accelerated for TensorFlow Serving to help deploy ML models in production. | None | 1 | Apache License 2.0 | 2023-09-28 | 2026-11-11 | 2026-11-06 |
@@ -1893,7 +1893,7 @@
 | [ibmi-ci](https://github.com/IBM/ibmi-ci) | A CLI (Command Line Interface) to work with IBM i | TypeScript | 21 | - | 2023-11-15 | 2026-11-11 | 2026-10-30 |
 | [zero-shot-topical-text-classification](https://github.com/IBM/zero-shot-topical-text-classification) | Code to reproduce experiments from the upcoming paper "Zero-shot Topical Text Classification with LLMs - an Experimental Study" (EMNLP, 2023). | Python | 1 | Apache License 2.0 | 2023-11-15 | 2026-11-11 | 2026-10-10 |
 | [watsonx-genai-lab](https://github.com/IBM/watsonx-genai-lab) | watsonx genai lab | None | 9 | Apache License 2.0 | 2023-11-15 | 2026-11-11 | 2025-09-18 |
-| [oper8](https://github.com/IBM/oper8) | Oper8 is a framework for writing kubernetes operators in python. It implements many common patterns used by large cloud applications that are reusable across many operator design patterns. | Python | 21 | Apache License 2.0 | 2023-11-15 | 2026-11-12 | 2026-11-12 |
+| [oper8](https://github.com/IBM/oper8) | Oper8 is a framework for writing kubernetes operators in python. It implements many common patterns used by large cloud applications that are reusable across many operator design patterns. | Python | 21 | Apache License 2.0 | 2023-11-15 | 2026-11-12 | 2026-11-14 |
 | [watsonx-chatbot-lab.github.io](https://github.com/IBM/watsonx-chatbot-lab.github.io) | A template to embed the watsonx assistant chatbot using GitHub pages | HTML | 3 | Apache License 2.0 | 2023-11-15 | 2026-11-11 | 2025-09-18 |
 | [data-product-exchange-python-sdk](https://github.com/IBM/data-product-exchange-python-sdk) | Python SDK for IBM Data Product Hub Service.  | Python | 2 | Apache License 2.0 | 2023-11-16 | 2026-11-11 | 2026-10-01 |
 | [data-product-exchange-go-sdk](https://github.com/IBM/data-product-exchange-go-sdk) | GO SDK for IBM Data Product Hub Service.  | Go | 0 | Apache License 2.0 | 2023-11-16 | 2026-11-11 | 2026-11-05 |
@@ -1974,7 +1974,7 @@
 | [roks-openshift-ai-da](https://github.com/IBM/roks-openshift-ai-da) | The repository holds the terraform code for the ROKS OpenShift AI Deployable Architecture | HCL | 4 | Apache License 2.0 | 2024-03-05 | 2026-11-11 | 2025-09-18 |
 | [heart-library](https://github.com/IBM/heart-library) | Hardened Extension of the Adversarial Robustness Toolbox (HEART) supports assessment of adversarial AI vulnerabilities in Test & Evaluation workflows | Jupyter Notebook | 15 | MIT License | 2024-03-08 | 2026-11-11 | 2025-09-18 |
 | [SalesEnablement-Z-Db2-DataInsights-L3](https://github.com/IBM/SalesEnablement-Z-Db2-DataInsights-L3) | AI at scale on IBM Z using Db2 for z/OS SQL Data Insights - L3 repo | None | 0 | Apache License 2.0 | 2024-03-11 | 2026-11-11 | 2025-09-18 |
-| [NL2PDDL](https://github.com/IBM/NL2PDDL) | this is for fun, ain't it grand! | Python | 22 | MIT License | 2024-03-11 | 2026-11-11 | 2026-11-03 |
+| [NL2PDDL](https://github.com/IBM/NL2PDDL) | this is for fun, ain't it grand! | Python | 22 | MIT License | 2024-03-11 | 2026-11-11 | 2026-11-14 |
 | [watsonx-data-vscode-extension](https://github.com/IBM/watsonx-data-vscode-extension) | Release repository for VS Code Extension for watsonx.data. Latest releases are only available in Marketplace | None | 0 | Apache License 2.0 | 2024-03-12 | 2026-11-11 | 2025-09-18 |
 | [security-compliance-automation](https://github.com/IBM/security-compliance-automation) | Automation scripts to help customer to do some actions automatically instead manual operations. | Python | 2 | Apache License 2.0 | 2024-03-18 | 2026-11-11 | 2025-09-18 |
 | [guardium-data-protection-apis](https://github.com/IBM/guardium-data-protection-apis) | Guardium Data Protection REST API Examples | Jupyter Notebook | 1 | Apache License 2.0 | 2024-03-18 | 2026-11-11 | 2025-09-18 |
@@ -2057,7 +2057,7 @@
 | [lunchpail-openroad-max-utilization](https://github.com/IBM/lunchpail-openroad-max-utilization) | None | Dockerfile | 0 | Apache License 2.0 | 2024-07-17 | 2026-11-11 | 2025-09-18 |
 | [wx-ibmcloud-solutions-deployable-architectures](https://github.com/IBM/wx-ibmcloud-solutions-deployable-architectures) | None | None | 0 | Apache License 2.0 | 2024-07-17 | 2026-11-11 | 2025-09-18 |
 | [wx-ibmcloud-solutions-scc](https://github.com/IBM/wx-ibmcloud-solutions-scc) | None | None | 0 | Apache License 2.0 | 2024-07-17 | 2026-11-11 | 2025-09-18 |
-| [prompt-declaration-language](https://github.com/IBM/prompt-declaration-language) | Prompt Declaration Language (PDL) is a declarative prompt programming language. | Python | 317 | Apache License 2.0 | 2024-07-22 | 2026-11-11 | 2026-11-12 |
+| [prompt-declaration-language](https://github.com/IBM/prompt-declaration-language) | Prompt Declaration Language (PDL) is a declarative prompt programming language. | Python | 317 | Apache License 2.0 | 2024-07-22 | 2026-11-11 | 2026-11-14 |
 | [materials](https://github.com/IBM/materials) | Foundation Model for Materials - FM4M | Python | 322 | Apache License 2.0 | 2024-07-24 | 2026-11-11 | 2026-09-17 |
 | [presto-native-lab](https://github.com/IBM/presto-native-lab) | Presto Workshop - Dive into Presto C++, next-gen Presto | None | 1 | Apache License 2.0 | 2024-07-25 | 2026-11-11 | 2026-11-11 |
 | [shortest-path-mechanism](https://github.com/IBM/shortest-path-mechanism) | The source code for reproducing the experiments conducted for the paper titled "Socially efficient mechanism on the minimum budget." | Python | 0 | Apache License 2.0 | 2024-07-26 | 2026-11-11 | 2025-09-18 |
@@ -2078,17 +2078,17 @@
 | [conversational-prompt-engineering](https://github.com/IBM/conversational-prompt-engineering) | A repository providing code to help users craft tailored prompts through a chat with an LLM. | Python | 12 | Apache License 2.0 | 2024-08-18 | 2026-11-11 | 2025-09-18 |
 | [mac-ibm-migration-tool](https://github.com/IBM/mac-ibm-migration-tool) | macOS Utility to facilitate the mass migration of files/apps/preferences between devices. | Swift | 154 | Apache License 2.0 | 2024-08-21 | 2026-11-11 | 2026-11-11 |
 | [SalesEnablement-VMware-L3-draft](https://github.com/IBM/SalesEnablement-VMware-L3-draft) | Draft repo for VMware L3 update | HTML | 0 | Apache License 2.0 | 2024-08-22 | 2026-11-11 | 2025-09-18 |
-| [AI-SQL-Toolkit-IBMi](https://github.com/IBM/AI-SQL-Toolkit-IBMi) | WatsonX client SDK for Db2 on IBM i | RPGLE | 13 | GNU General Public License v3.0 | 2024-08-22 | 2026-11-11 | 2026-11-13 |
-| [aihwkit-lightning](https://github.com/IBM/aihwkit-lightning) | Scalable HW-Aware Training for Analog In-Memory Computing | Python | 49 | MIT License | 2024-08-22 | 2026-11-11 | 2026-11-11 |
+| [AI-SQL-Toolkit-IBMi](https://github.com/IBM/AI-SQL-Toolkit-IBMi) | WatsonX client SDK for Db2 on IBM i | RPGLE | 13 | GNU General Public License v3.0 | 2024-08-22 | 2026-11-11 | 2026-11-14 |
+| [aihwkit-lightning](https://github.com/IBM/aihwkit-lightning) | Scalable HW-Aware Training for Analog In-Memory Computing | Python | 49 | MIT License | 2024-08-22 | 2026-11-11 | 2026-11-14 |
 | [activation-steering](https://github.com/IBM/activation-steering) | [ICLR 2025] General-purpose activation steering library | Python | 201 | Apache License 2.0 | 2024-08-23 | 2026-11-11 | 2026-11-04 |
 | [techxchange2024-lab1596](https://github.com/IBM/techxchange2024-lab1596) | IBM TechXchange 2024 Lab 1596 | JavaScript | 0 | Apache License 2.0 | 2024-08-26 | 2026-11-11 | 2025-09-18 |
 | [guardium-functionalities-custom-extensions](https://github.com/IBM/guardium-functionalities-custom-extensions) | None | Python | 2 | - | 2024-08-27 | 2026-11-11 | 2025-09-18 |
 | [VP-LLR](https://github.com/IBM/VP-LLR) | Code repo for "When Does Visual Prompting Outperform Linear Probing? A Likelihood Perspective" | Python | 4 | Apache License 2.0 | 2024-08-27 | 2026-11-11 | 2025-09-18 |
 | [WxPackageCompatibilityAnalyzer](https://github.com/IBM/WxPackageCompatibilityAnalyzer) | An open-source tool designed to plan the webMethods integration modernization better by analyzing dependency and compatibility issues. | TypeScript | 1 | Apache License 2.0 | 2024-08-28 | 2026-11-11 | 2026-09-28 |
-| [ibmdiagrams](https://github.com/IBM/ibmdiagrams) | Generate architecture diagrams following IBM Diagram Standard. | Python | 9 | Apache License 2.0 | 2024-08-28 | 2026-11-11 | 2026-11-04 |
+| [ibmdiagrams](https://github.com/IBM/ibmdiagrams) | Generate architecture diagrams following IBM Diagram Standard. | Python | 9 | Apache License 2.0 | 2024-08-28 | 2026-11-11 | 2026-11-14 |
 | [WxSAPIntegration](https://github.com/IBM/WxSAPIntegration) | this is for fun, ain't it grand! | None | 0 | Apache License 2.0 | 2024-08-29 | 2026-11-11 | 2025-09-18 |
 | [ibm-mongodb-geospatial-queries](https://github.com/IBM/ibm-mongodb-geospatial-queries) | Follow this tutorial to get started on using MongoDB's geospatial querying | JavaScript | 0 | MIT License | 2024-08-29 | 2026-11-11 | 2025-09-18 |
-| [LCN](https://github.com/IBM/LCN) | LCN or Logical Credal Networks is a new probabilistic logic that allows specifying conditional probability bounds on propositional logic formulas. | Jupyter Notebook | 15 | Apache License 2.0 | 2024-09-02 | 2026-11-11 | 2026-11-12 |
+| [LCN](https://github.com/IBM/LCN) | LCN or Logical Credal Networks is a new probabilistic logic that allows specifying conditional probability bounds on propositional logic formulas. | Jupyter Notebook | 15 | Apache License 2.0 | 2024-09-02 | 2026-11-11 | 2026-11-13 |
 | [py-zcrypto](https://github.com/IBM/py-zcrypto) | Python interface for accessing RACF Keyrings and key databases on z/OS | C | 5 | Apache License 2.0 | 2024-09-03 | 2026-11-11 | 2025-09-18 |
 | [convert-to-safetensors](https://github.com/IBM/convert-to-safetensors) | Python utility to convert PyTorch model weights from '.bin' to '.safetensors' format. | Python | 18 | Apache License 2.0 | 2024-09-03 | 2026-11-11 | 2025-09-19 |
 | [extremal-python-dependencies](https://github.com/IBM/extremal-python-dependencies) | A utility for installing extremal versions of dependencies for more robust testing | Python | 3 | Apache License 2.0 | 2024-09-03 | 2026-11-11 | 2026-10-01 |
@@ -2108,7 +2108,7 @@
 | [ix-base-image-nodejs](https://github.com/IBM/ix-base-image-nodejs) | Base image for Node.js built on Red Hat UBI | None | 0 | Apache License 2.0 | 2024-09-11 | 2026-11-11 | 2025-09-18 |
 | [cics-ia-vs-code-extension](https://github.com/IBM/cics-ia-vs-code-extension) | CICS IA VS Code extension - file issues here! | None | 1 | Other | 2024-09-11 | 2026-11-11 | 2026-09-21 |
 | [WxPCATargetRuntimeClient](https://github.com/IBM/WxPCATargetRuntimeClient) | WxPackageCompatibilityAnalyzer supporting package for webMethods Integration to analyze package dependency against webMethods Cloud and Edge Runtimes. | HTML | 1 | Apache License 2.0 | 2024-09-12 | 2026-11-11 | 2025-09-18 |
-| [ibmdotcom-tutorials](https://github.com/IBM/ibmdotcom-tutorials) | Repo for the storing of code and examples from tutorials. | Jupyter Notebook | 269 | Apache License 2.0 | 2024-09-13 | 2026-11-11 | 2026-11-13 |
+| [ibmdotcom-tutorials](https://github.com/IBM/ibmdotcom-tutorials) | Repo for the storing of code and examples from tutorials. | Jupyter Notebook | 271 | Apache License 2.0 | 2024-09-13 | 2026-11-14 | 2026-11-14 |
 | [guardcenter-cli](https://github.com/IBM/guardcenter-cli) | Guardium CLI | None | 0 | Apache License 2.0 | 2024-09-13 | 2026-11-11 | 2025-10-14 |
 | [vdoc](https://github.com/IBM/vdoc) | this is a repo of the vdoc code | Jupyter Notebook | 1 | Apache License 2.0 | 2024-09-16 | 2026-11-11 | 2026-05-28 |
 | [neo-0verview](https://github.com/IBM/neo-0verview) | Overview on a set of Element/Matrix related repos | None | 0 | Apache License 2.0 | 2024-09-16 | 2026-11-11 | 2025-09-18 |
@@ -2131,7 +2131,7 @@
 | [easej-app-mod-demo](https://github.com/IBM/easej-app-mod-demo) | IBM TechXchange 2024 Lab 1665 | None | 2 | Apache License 2.0 | 2024-10-10 | 2026-11-11 | 2025-09-18 |
 | [EMNLP_2024_LLM_robustness](https://github.com/IBM/EMNLP_2024_LLM_robustness) | Repository of datasets and jupyter notebooks for the paper "A Novel Metric for Measuring the Robustness of Large Language Models in Non-adversarial Scenarios" (https://arxiv.org/abs/2408.01963) | None | 0 | Apache License 2.0 | 2024-10-13 | 2026-11-11 | 2025-09-18 |
 | [Open-Enterprise-SDK-for-Apache-Kafka](https://github.com/IBM/Open-Enterprise-SDK-for-Apache-Kafka) | This repository contains samples that take advantages of Open Enterprise SDK for Apache Kafka functionality to produce and consume Kafka events from COBOL application. | COBOL | 2 | Apache License 2.0 | 2024-10-14 | 2026-11-11 | 2025-12-16 |
-| [AI-IBMi-guide](https://github.com/IBM/AI-IBMi-guide) | A guide for doing AI with IBM i | MDX | 16 | Creative Commons Zero v1.0 Universal | 2024-10-15 | 2026-11-11 | 2026-11-03 |
+| [AI-IBMi-guide](https://github.com/IBM/AI-IBMi-guide) | A guide for doing AI with IBM i | MDX | 16 | Creative Commons Zero v1.0 Universal | 2024-10-15 | 2026-11-11 | 2026-11-14 |
 | [event-notifications](https://github.com/IBM/event-notifications) | Samples and Tutorials for Event Notifications service | None | 0 | Apache License 2.0 | 2024-10-15 | 2026-11-11 | 2026-05-27 |
 | [toprot](https://github.com/IBM/toprot) | Collaboration repo | Python | 1 | MIT License | 2024-10-16 | 2026-11-11 | 2025-09-18 |
 | [ibm-software-hub-argocd](https://github.com/IBM/ibm-software-hub-argocd) | ArgoCD based installer for CPD and WatsonX services. | None | 1 | Apache License 2.0 | 2024-10-17 | 2026-11-11 | 2025-09-18 |
@@ -2157,7 +2157,7 @@
 | [unified-lookup-tables](https://github.com/IBM/unified-lookup-tables) | Data transformation and loading pipelines for training models using unified lookup tables | Jupyter Notebook | 3 | MIT License | 2024-11-06 | 2026-11-11 | 2026-11-01 |
 | [watsonx-code-assistant-for-ansible](https://github.com/IBM/watsonx-code-assistant-for-ansible) | IBM watsonx Code Assistant for Red Hat Ansible Lightspeed demystifies the process of Ansible Playbook creation through generative AI-powered content recommendations. This repository contains sample end-to-end demos, guidelines for best prompting practices, and guidelines for model customization. | Jinja | 19 | Apache License 2.0 | 2024-11-06 | 2026-11-11 | 2025-09-18 |
 | [ibmz-accelerated-for-pytorch](https://github.com/IBM/ibmz-accelerated-for-pytorch) | Use IBM Z Accelerated for PyTorch to build and deploy AI models on IBM Z with PyTorch, a library that optimizes the training and deployment of popular AI models. | None | 4 | Apache License 2.0 | 2024-11-07 | 2026-11-11 | 2026-11-06 |
-| [recurrent-chunked-models-regular-languages](https://github.com/IBM/recurrent-chunked-models-regular-languages) | Code of "Recurrent Transformers Trade-off Parallelism for Length Generalization on Regular Languages" | Python | 10 | Apache License 2.0 | 2024-11-08 | 2026-11-11 | 2026-10-20 |
+| [recurrent-chunked-models-regular-languages](https://github.com/IBM/recurrent-chunked-models-regular-languages) | Code of "Recurrent Transformers Trade-off Parallelism for Length Generalization on Regular Languages" | Python | 10 | Apache License 2.0 | 2024-11-08 | 2026-11-11 | 2026-11-14 |
 | [aws-marketplace-automation](https://github.com/IBM/aws-marketplace-automation) | This repository is to host the IBM automation scripts to deploy IBM products(sterling OMS) on AWS | Shell | 0 | Apache License 2.0 | 2024-11-11 | 2026-11-11 | 2025-09-18 |
 | [space-data-centre](https://github.com/IBM/space-data-centre) | Provide documentation and an active MS-Excel Spreadsheet for preliminary performance assessment of space-data center constellations. This is in support of a completed ESA funded project study and the submission of a high impact paper, requiring the the spread-sheet to be publicly available - in line with meeting contractual obligations with ESA. | None | 0 | Apache License 2.0 | 2024-11-11 | 2026-11-11 | 2025-09-18 |
 | [GKLM-KMIP-Banking-App](https://github.com/IBM/GKLM-KMIP-Banking-App) | KMIP based demo Banking App to showcase capabilities of KMIP protocol using PyKmip to communicate with IBM GKLM server | TypeScript | 0 | - | 2024-11-11 | 2026-11-11 | 2025-09-18 |
@@ -2196,7 +2196,7 @@
 | [IM-ios](https://github.com/IBM/IM-ios) | Enhance element-ios for flexible and consistent branding. Fork of https://github.com/element-hq/element-ios | Swift | 1 | GNU Affero General Public License v3.0 | 2024-12-06 | 2026-11-11 | 2026-09-16 |
 | [IM-android](https://github.com/IBM/IM-android) | Enhance element-x-android for flexible and consistent branding. Fork of https://github.com/element-hq/element-x-android | Kotlin | 1 | - | 2024-12-06 | 2026-11-11 | 2025-09-18 |
 | [libertymon](https://github.com/IBM/libertymon) | Liberty monitoring application | Java | 0 | Apache License 2.0 | 2024-12-10 | 2026-11-11 | 2026-09-30 |
-| [ibm_cloud_fail_over](https://github.com/IBM/ibm_cloud_fail_over) | None | Python | 0 | Apache License 2.0 | 2024-12-12 | 2026-11-11 | 2026-11-13 |
+| [ibm_cloud_fail_over](https://github.com/IBM/ibm_cloud_fail_over) | None | Python | 0 | Apache License 2.0 | 2024-12-12 | 2026-11-11 | 2026-11-14 |
 | [ai-atlas-nexus](https://github.com/IBM/ai-atlas-nexus) | AI Atlas Nexus: tooling to bring together resources related to governance of foundation models. | Cypher | 144 | Apache License 2.0 | 2024-12-12 | 2026-11-11 | 2026-11-13 |
 | [AIBroker](https://github.com/IBM/AIBroker) | AI Broker files | None | 0 | Apache License 2.0 | 2024-12-13 | 2026-11-11 | 2025-09-18 |
 | [OpenShift-AI-Toolkit-Operator](https://github.com/IBM/OpenShift-AI-Toolkit-Operator) | This repo will help customers deploy AI Toolkit on OpenShift platform | Go | 1 | Apache License 2.0 | 2024-12-13 | 2026-11-11 | 2025-09-18 |
@@ -2216,7 +2216,7 @@
 | [cloud-pak-deployer-content](https://github.com/IBM/cloud-pak-deployer-content) | Content for the Cloud Pak Deployer project | None | 0 | Apache License 2.0 | 2025-01-07 | 2026-11-11 | 2025-09-18 |
 | [nz-lab](https://github.com/IBM/nz-lab) | Netezza Lab | HTML | 0 | Apache License 2.0 | 2025-01-14 | 2026-11-11 | 2025-09-18 |
 | [doors-next-ri](https://github.com/IBM/doors-next-ri) | Example to demonstrate the integration of a Watsonx with DOORS Next | JavaScript | 6 | Apache License 2.0 | 2025-01-15 | 2026-11-11 | 2025-09-18 |
-| [power-dra-driver](https://github.com/IBM/power-dra-driver) | Power Dynamic Resource Driver provides access to Power Architecture features | Go | 3 | Apache License 2.0 | 2025-01-18 | 2026-11-11 | 2026-11-12 |
+| [power-dra-driver](https://github.com/IBM/power-dra-driver) | Power Dynamic Resource Driver provides access to Power Architecture features | Go | 3 | Apache License 2.0 | 2025-01-18 | 2026-11-11 | 2026-11-14 |
 | [concert-enablement](https://github.com/IBM/concert-enablement) | Code samples used for IBM Concert enablement courses | Shell | 0 | Apache License 2.0 | 2025-01-21 | 2026-11-11 | 2026-11-10 |
 | [power-device-plugin](https://github.com/IBM/power-device-plugin) | Power Device Plugin to add protected devices into a non-privileged container. | Go | 2 | Apache License 2.0 | 2025-01-21 | 2026-11-11 | 2026-11-12 |
 | [ccs-patterns](https://github.com/IBM/ccs-patterns) | Cloud Complex Solutions patterns | HCL | 1 | Apache License 2.0 | 2025-01-21 | 2026-11-11 | 2025-09-18 |
@@ -2231,7 +2231,7 @@
 | [webspherescripts](https://github.com/IBM/webspherescripts) | Various scripts for WebSphere | Shell | 2 | Apache License 2.0 | 2025-02-02 | 2026-11-11 | 2026-10-28 |
 | [turbonomic-go-client](https://github.com/IBM/turbonomic-go-client) | Golang library for Turbonomic's API. | Go | 0 | Apache License 2.0 | 2025-02-04 | 2026-11-11 | 2026-09-10 |
 | [terraform-provider-turbonomic](https://github.com/IBM/terraform-provider-turbonomic) | IBM Turbonomic Terraform Provider | Go | 5 | Apache License 2.0 | 2025-02-04 | 2026-11-11 | 2026-11-04 |
-| [watsonx-developer-hub](https://github.com/IBM/watsonx-developer-hub) | Examples and guides for building Gen AI applications on the watsonx platform. | Python | 51 | Apache License 2.0 | 2025-02-05 | 2026-11-11 | 2026-11-05 |
+| [watsonx-developer-hub](https://github.com/IBM/watsonx-developer-hub) | Examples and guides for building Gen AI applications on the watsonx platform. | Python | 51 | Apache License 2.0 | 2025-02-05 | 2026-11-11 | 2026-11-13 |
 | [quote-service](https://github.com/IBM/quote-service) | Quote service for Quote of the Day Application | JavaScript | 0 | MIT License | 2025-02-06 | 2026-11-11 | 2025-09-18 |
 | [eeg-ieeg-brain-compressor](https://github.com/IBM/eeg-ieeg-brain-compressor) | PyTorch implementation for the paper "The Case for Cleaner Biosignals: High-fidelity Neural Compressor Enables Transfer from Cleaner iEEG to Noisier EEG" | Python | 23 | Apache License 2.0 | 2025-02-06 | 2026-11-11 | 2026-11-05 |
 | [flexo](https://github.com/IBM/flexo) | Framework for deploying configurable AI agents with real-time streaming and tool execution. | Python | 41 | Apache License 2.0 | 2025-02-07 | 2026-11-11 | 2026-10-06 |
@@ -2277,7 +2277,7 @@
 | [wxo-labs](https://github.com/IBM/wxo-labs) | watsonx Orchestrate Tech Jam Labs | None | 1 | - | 2025-04-02 | 2026-11-11 | 2025-09-18 |
 | [mcp](https://github.com/IBM/mcp) | A collection of Model Context Protocol (MCP) servers, clients and developer tools by IBM. | None | 419 | Apache License 2.0 | 2025-04-02 | 2026-11-12 | 2026-10-01 |
 | [mcp-servers](https://github.com/IBM/mcp-servers) | TBD | None | 1 | Apache License 2.0 | 2025-04-02 | 2026-11-11 | 2025-09-18 |
-| [chuk-mcp-runtime](https://github.com/IBM/chuk-mcp-runtime) | None | Python | 9 | Apache License 2.0 | 2025-04-06 | 2026-11-11 | 2026-11-09 |
+| [chuk-mcp-runtime](https://github.com/IBM/chuk-mcp-runtime) | None | Python | 9 | Apache License 2.0 | 2025-04-06 | 2026-11-11 | 2026-11-14 |
 | [SAP-watsonx.Gov-Integration](https://github.com/IBM/SAP-watsonx.Gov-Integration) | SAP & watsonX Governance integration code | Python | 1 | Apache License 2.0 | 2025-04-08 | 2026-11-11 | 2026-10-12 |
 | [qgen-studio](https://github.com/IBM/qgen-studio) | QGen Studio: An Adaptive Question-Answer Generation, Training, and Evaluation Platform. | JavaScript | 12 | Apache License 2.0 | 2025-04-09 | 2026-11-11 | 2026-11-09 |
 | [ciam-angular-webapp](https://github.com/IBM/ciam-angular-webapp) | Demo CIAM Angular Based WebApp | TypeScript | 0 | - | 2025-04-14 | 2026-11-11 | 2026-10-17 |
@@ -2294,17 +2294,17 @@
 | [oss-rescan-storage-linux-udev](https://github.com/IBM/oss-rescan-storage-linux-udev) | Automatic IBM Storage rescans for Linux | Shell | 0 | Apache License 2.0 | 2025-04-22 | 2026-11-11 | 2025-09-18 |
 | [magnolia-reproducer](https://github.com/IBM/magnolia-reproducer) | Make bugs of the OSS Magnolia CMS (https://www.magnolia-cms.com/) reproducable for their support, with as little project code as possible | HTML | 1 | Apache License 2.0 | 2025-04-23 | 2026-11-11 | 2025-10-22 |
 | [generative-ai-form-filling-demo](https://github.com/IBM/generative-ai-form-filling-demo) | This is a demo application that demonstrates generative AI form auto-filling. | JavaScript | 1 | Apache License 2.0 | 2025-04-24 | 2026-11-11 | 2025-09-18 |
-| [chuk-tool-processor](https://github.com/IBM/chuk-tool-processor) | None | Python | 25 | Apache License 2.0 | 2025-04-26 | 2026-11-11 | 2026-11-09 |
+| [chuk-tool-processor](https://github.com/IBM/chuk-tool-processor) | None | Python | 25 | Apache License 2.0 | 2025-04-26 | 2026-11-11 | 2026-11-14 |
 | [SpaRTA](https://github.com/IBM/SpaRTA) | Code for the SpaRTA paper | Python | 1 | Apache License 2.0 | 2025-04-29 | 2026-11-11 | 2026-10-20 |
 | [pandasqlite](https://github.com/IBM/pandasqlite) | Light-weight Text-2-SQL on Pandas Data Frames | Python | 7 | Apache License 2.0 | 2025-04-30 | 2026-11-11 | 2026-04-03 |
 | [terraform-provider-ode](https://github.com/IBM/terraform-provider-ode) | The IBM On-Demand Environments Terraform Provider is used to manage On-Demand z/OS Environments with IBM Test Accelerator for Z | Go | 3 | Apache License 2.0 | 2025-04-30 | 2026-11-11 | 2026-10-14 |
 | [actionspz](https://github.com/IBM/actionspz) | Instructions for using and issue tracking for the hosted GitHub Actions runner for IBM Power and IBM Z and LinuxONE | None | 29 | Apache License 2.0 | 2025-04-30 | 2026-11-13 | 2026-11-10 |
 | [gp-molformer](https://github.com/IBM/gp-molformer) | Code for GP-MoLFormer + pair-tuning | Python | 19 | Apache License 2.0 | 2025-05-01 | 2026-11-11 | 2025-09-18 |
-| [velox](https://github.com/IBM/velox) | A composable and fully extensible C++ execution engine library for data management systems. | C++ | 17 | Apache License 2.0 | 2025-05-01 | 2026-11-11 | 2026-11-13 |
-| [FailureSensorIQ](https://github.com/IBM/FailureSensorIQ) | FailureSensorIQ, a dataset and benchmark to probe LLMs’ reasoning and comprehension of sensor–failure relationships in industrial systems. | Jupyter Notebook | 54 | Creative Commons Attribution 4.0 International | 2025-05-01 | 2026-11-11 | 2026-11-12 |
-| [AssetOpsBench](https://github.com/IBM/AssetOpsBench) | AssetOpsBench - Industry 4.0: A unified benchmark and framework for building, orchestrating, and evaluating domain-specific AI agents for Industry 4.0 asset operations and maintenance, with 460+ scenarios, 5 specialist agents (IoT, FMSR, TSFM, Work Order,...), and multi-agent orchestration blueprints (MetaAgent, AgentHive) over MCP. | Python | 2418 | Apache License 2.0 | 2025-05-01 | 2026-11-13 | 2026-11-13 |
+| [velox](https://github.com/IBM/velox) | A composable and fully extensible C++ execution engine library for data management systems. | C++ | 17 | Apache License 2.0 | 2025-05-01 | 2026-11-11 | 2026-11-14 |
+| [FailureSensorIQ](https://github.com/IBM/FailureSensorIQ) | FailureSensorIQ, a dataset and benchmark to probe LLMs’ reasoning and comprehension of sensor–failure relationships in industrial systems. | Jupyter Notebook | 54 | Creative Commons Attribution 4.0 International | 2025-05-01 | 2026-11-11 | 2026-11-14 |
+| [AssetOpsBench](https://github.com/IBM/AssetOpsBench) | AssetOpsBench - Industry 4.0: A unified benchmark and framework for building, orchestrating, and evaluating domain-specific AI agents for Industry 4.0 asset operations and maintenance, with 460+ scenarios, 5 specialist agents (IoT, FMSR, TSFM, Work Order,...), and multi-agent orchestration blueprints (MetaAgent, AgentHive) over MCP. | Python | 2419 | Apache License 2.0 | 2025-05-01 | 2026-11-14 | 2026-11-13 |
 | [analog-foundation-models](https://github.com/IBM/analog-foundation-models) | Code for paper "Analog Foundation Models" | Python | 39 | MIT License | 2025-05-02 | 2026-11-11 | 2026-03-25 |
-| [mcp-context-forge](https://github.com/IBM/mcp-context-forge) | An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and management. Optimizes Agent & Tool calling, and supports plugins. | Python | 4814 | Apache License 2.0 | 2025-05-08 | 2026-11-13 | 2026-11-13 |
+| [mcp-context-forge](https://github.com/IBM/mcp-context-forge) | An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and management. Optimizes Agent & Tool calling, and supports plugins. | Python | 4818 | Apache License 2.0 | 2025-05-08 | 2026-11-14 | 2026-11-14 |
 | [kubernetes-must-gather](https://github.com/IBM/kubernetes-must-gather) | Custom must-gather image and collection script for Kubernetes and OpenShift. | Shell | 1 | Apache License 2.0 | 2025-05-13 | 2026-11-11 | 2026-10-28 |
 | [flow-bench](https://github.com/IBM/flow-bench) | High quality dataset designed specifically to support research in natural language-driven business process automation | None | 4 | Apache License 2.0 | 2025-05-13 | 2026-11-11 | 2026-03-07 |
 | [operator-for-monetdb](https://github.com/IBM/operator-for-monetdb) | The goal of this project is to simplify the deployment and management of a MonetDb instance in a Kubernetes environment. It is based on the Operator SDK framework for operators | Makefile | 0 | Apache License 2.0 | 2025-05-15 | 2026-11-11 | 2025-09-18 |
@@ -2354,7 +2354,7 @@
 | [QSC-sign](https://github.com/IBM/QSC-sign) | A Quantum-Safe signature demo from the ZRL Security department | JavaScript | 0 | MIT License | 2025-06-24 | 2026-11-11 | 2025-09-18 |
 | [ibm-watsonx-data-integration-sdk](https://github.com/IBM/ibm-watsonx-data-integration-sdk) | The `ibm-watsonx-data-integration` SDK for Python. | None | 1 | Apache License 2.0 | 2025-06-24 | 2026-11-11 | 2026-08-21 |
 | [FactReasoner](https://github.com/IBM/FactReasoner) | Long-form factuality assessor for large language models | Python | 45 | Apache License 2.0 | 2025-06-25 | 2026-11-11 | 2026-11-13 |
-| [spnl](https://github.com/IBM/spnl) | Span Queries: What if we had a way to plan and optimize GenAI like we do for SQL? | Rust | 14 | Apache License 2.0 | 2025-06-26 | 2026-11-11 | 2026-11-09 |
+| [spnl](https://github.com/IBM/spnl) | Span Queries: What if we had a way to plan and optimize GenAI like we do for SQL? | Rust | 14 | Apache License 2.0 | 2025-06-26 | 2026-11-11 | 2026-11-14 |
 | [chuk-mcp-server](https://github.com/IBM/chuk-mcp-server) | None | HTML | 10 | Apache License 2.0 | 2025-06-28 | 2026-11-11 | 2026-09-21 |
 | [wmio-isccr](https://github.com/IBM/wmio-isccr) | Containerized version of wM ISCCR! | None | 1 | Apache License 2.0 | 2025-07-05 | 2026-11-11 | 2025-09-18 |
 | [bounded-assembler](https://github.com/IBM/bounded-assembler) | Assembler for natural deduction proofs in PV. | Lean | 0 | MIT License | 2025-07-06 | 2026-11-11 | 2026-03-31 |
@@ -2384,7 +2384,7 @@
 | [z-observability-connect](https://github.com/IBM/z-observability-connect) | Provides quality of life assets to aid in using the IBM Telemetry Controller | Shell | 1 | Apache License 2.0 | 2025-08-12 | 2026-11-11 | 2026-11-05 |
 | [AI-Noether](https://github.com/IBM/AI-Noether) | Code for "Bridging the Gap Between Scientific Laws Derived by AI Systems and Canonical Knowledge via Abductive Inference with AI-Noether" (Nature Communications). Authors: Karan Srivastava, Sanjeeb Dash, Ryan Cory-Wright, Barry Trager, Cristina Cornelio, Lior Horesh. Code written by Karan Srivastava. | Macaulay2 | 4 | MIT License | 2025-08-12 | 2026-11-11 | 2026-10-09 |
 | [Scale_System_PRECHECK_TOOL](https://github.com/IBM/Scale_System_PRECHECK_TOOL) | The upgrade_precheck tool is a standalone utility tool for Storage Scale System | Python | 2 | Apache License 2.0 | 2025-08-14 | 2026-11-11 | 2026-10-04 |
-| [ares](https://github.com/IBM/ares) | AI Robustness Evaluation System | Python | 89 | Apache License 2.0 | 2025-08-14 | 2026-11-12 | 2026-11-13 |
+| [ares](https://github.com/IBM/ares) | AI Robustness Evaluation System | Python | 89 | Apache License 2.0 | 2025-08-14 | 2026-11-12 | 2026-11-14 |
 | [WxMCPServer](https://github.com/IBM/WxMCPServer) | **WxMCPServer** is an IBM webMethods Hybrid Integration (IWHI) based MCP server, that enables existing APIs to be used as MCP tools. | Java | 22 | Apache License 2.0 | 2025-08-14 | 2026-11-11 | 2026-08-10 |
 | [ErrorMap](https://github.com/IBM/ErrorMap) | None | Python | 7 | Apache License 2.0 | 2025-08-17 | 2026-11-11 | 2026-03-01 |
 | [presto-lakehouse](https://github.com/IBM/presto-lakehouse) | Open Data Lakehouse with Presto and MinIO s3 storage | Dockerfile | 1 | Apache License 2.0 | 2025-08-17 | 2026-11-11 | 2025-09-18 |
@@ -2393,9 +2393,9 @@
 | [m3-data-gen](https://github.com/IBM/m3-data-gen) | m3 data generation pipeline | Python | 0 | Apache License 2.0 | 2025-08-20 | 2026-11-11 | 2026-10-03 |
 | [chuk-term](https://github.com/IBM/chuk-term) | None | Python | 7 | Apache License 2.0 | 2025-08-23 | 2026-11-11 | 2026-10-28 |
 | [ado](https://github.com/IBM/ado) | Run computational experiment campaigns at scale, and let coding agents autonomously formulate, execute, and analyze them for you. | Python | 67 | MIT License | 2025-08-25 | 2026-11-11 | 2026-11-13 |
-| [oic-i-agentic-ai-tutorials](https://github.com/IBM/oic-i-agentic-ai-tutorials) | Create External Tutorials on Agentic AI [AI for Developers and Ecosystem] | Python | 28 | Apache License 2.0 | 2025-08-25 | 2026-11-11 | 2026-11-13 |
+| [oic-i-agentic-ai-tutorials](https://github.com/IBM/oic-i-agentic-ai-tutorials) | Create External Tutorials on Agentic AI [AI for Developers and Ecosystem] | Python | 28 | Apache License 2.0 | 2025-08-25 | 2026-11-11 | 2026-11-14 |
 | [Deploy-a-Cloud-Native-Application-that-uses-Generative-AI](https://github.com/IBM/Deploy-a-Cloud-Native-Application-that-uses-Generative-AI) | A workshop that demonstrates deploying a simple web application to Red Hat OpenShift on IBM Cloud and integrating IBM Cloud services like IBM Cloud Databases, IBM Cloud Secrets Manager, and watsonx. | JavaScript | 1 | Apache License 2.0 | 2025-08-25 | 2026-11-11 | 2026-10-30 |
-| [fms-dgt](https://github.com/IBM/fms-dgt) | DiGiT is a framework that enables different algorithms and models to be used to generate synthetic data. | Python | 15 | Apache License 2.0 | 2025-08-25 | 2026-11-11 | 2026-11-12 |
+| [fms-dgt](https://github.com/IBM/fms-dgt) | DiGiT is a framework that enables different algorithms and models to be used to generate synthetic data. | Python | 15 | Apache License 2.0 | 2025-08-25 | 2026-11-11 | 2026-11-13 |
 | [optimistic](https://github.com/IBM/optimistic) | A Python package for transforming specifications of optimization problems in various forms into code for mathematical-optimization solvers (IBM CPLEX OPL) and heuristic solvers (RedHat OptaPlanner) | Python | 0 | Apache License 2.0 | 2025-08-27 | 2026-11-11 | 2025-09-18 |
 | [formalite](https://github.com/IBM/formalite) | A Python package for the manipulation of mathematical and logical expressions, including simplification, substitution, skolemization, term rewriting, and constraint propagation. | Python | 0 | Apache License 2.0 | 2025-08-27 | 2026-11-11 | 2026-11-07 |
 | [scenoptic-for-optaplanner](https://github.com/IBM/scenoptic-for-optaplanner) | Extensions to OptaPlanner classes to support the automatic generation of optimizer code from scenarios in spreadsheets, and samples of generated code. | Java | 0 | Apache License 2.0 | 2025-08-27 | 2026-11-11 | 2025-09-18 |
@@ -2416,7 +2416,7 @@
 | [hashMLDSA](https://github.com/IBM/hashMLDSA) | Implementation of the pre-hash MLDSA algorithm defined in FIPS 204. | C | 1 | Apache License 2.0 | 2025-09-18 | 2026-11-11 | 2026-05-06 |
 | [EmbeddingsBias](https://github.com/IBM/EmbeddingsBias) | intern summer project so intern can continue working on it - all models and data are public. | Jupyter Notebook | 1 | Apache License 2.0 | 2025-09-18 | 2026-11-11 | 2025-09-18 |
 | [expressive-sparse-state-space-model](https://github.com/IBM/expressive-sparse-state-space-model) | Open-sourcing the code associated with the NeurIPS 2025 paper "Efficient Transition Matrices to Enable State Tracking in State-Space Models" | Python | 17 | Apache License 2.0 | 2025-09-22 | 2026-11-11 | 2025-12-08 |
-| [data-intelligence-mcp-server](https://github.com/IBM/data-intelligence-mcp-server) | data-intelligence-mcp-server is a centralized Model Context Protocol (MCP) server that provides a unified gateway for exposing and managing MCP tools across microservices in the Watsonx Data Intelligence ecosystem | Python | 20 | Apache License 2.0 | 2025-09-22 | 2026-11-11 | 2026-11-06 |
+| [data-intelligence-mcp-server](https://github.com/IBM/data-intelligence-mcp-server) | data-intelligence-mcp-server is a centralized Model Context Protocol (MCP) server that provides a unified gateway for exposing and managing MCP tools across microservices in the Watsonx Data Intelligence ecosystem | Python | 20 | Apache License 2.0 | 2025-09-22 | 2026-11-11 | 2026-11-14 |
 | [ocp-ipi-powervs](https://github.com/IBM/ocp-ipi-powervs) | Terraform automation to kick off an IPI based OCP install on PowerVS. | HCL | 1 | Apache License 2.0 | 2025-09-23 | 2026-11-11 | 2026-06-04 |
 | [soc-agentic-governance-engine](https://github.com/IBM/soc-agentic-governance-engine) | None | Python | 2 | Apache License 2.0 | 2025-09-24 | 2026-11-11 | 2025-09-24 |
 | [wxo-level-4](https://github.com/IBM/wxo-level-4) | Assets for watsonx Orchestrate Level 4 course | Python | 1 | - | 2025-09-25 | 2026-11-11 | 2025-09-25 |
@@ -2425,8 +2425,8 @@
 | [scalable-compositional-generalization](https://github.com/IBM/scalable-compositional-generalization) | code implementation for the paper "Scalable Evaluation and Neural Models for Compositional Generalization" accepted at NeurIPS 2025. | Python | 6 | MIT License | 2025-09-29 | 2026-11-11 | 2026-11-01 |
 | [BOB-externalsupport](https://github.com/IBM/BOB-externalsupport) | Support Center for external BOB users, including during IBM TechXchange25. | None | 1 | Apache License 2.0 | 2025-09-29 | 2026-11-11 | 2025-10-02 |
 | [data-product-benchmark](https://github.com/IBM/data-product-benchmark) | A benchmark creation for data product creation using existing text and table benchmarks. | Python | 0 | MIT License | 2025-09-29 | 2026-11-11 | 2026-10-10 |
-| [ibmi-mcp-server](https://github.com/IBM/ibmi-mcp-server) | MCP server for  IBM i systems | TypeScript | 91 | Apache License 2.0 | 2025-10-01 | 2026-11-11 | 2026-11-13 |
-| [IBM-Z-OMEGAMON-Data-Requester](https://github.com/IBM/IBM-Z-OMEGAMON-Data-Requester) | Components to facilitate display of IBM Z Monitoring data in Grafana UI | TypeScript | 1 | Other | 2025-10-01 | 2026-11-11 | 2026-10-24 |
+| [ibmi-mcp-server](https://github.com/IBM/ibmi-mcp-server) | MCP server for  IBM i systems | TypeScript | 91 | Apache License 2.0 | 2025-10-01 | 2026-11-11 | 2026-11-14 |
+| [IBM-Z-OMEGAMON-Data-Requester](https://github.com/IBM/IBM-Z-OMEGAMON-Data-Requester) | Components to facilitate display of IBM Z Monitoring data in Grafana UI | TypeScript | 1 | Other | 2025-10-01 | 2026-11-11 | 2026-11-14 |
 | [wxa4z-L4-Agentic](https://github.com/IBM/wxa4z-L4-Agentic) | this is for fun, ain't it grand! | None | 0 | Apache License 2.0 | 2025-10-04 | 2026-11-11 | 2026-08-11 |
 | [MermaidSeqBench-Eval](https://github.com/IBM/MermaidSeqBench-Eval) | code to run evaluation on MermaidSeqBench using LLMaJ and a RESTful OpenAI-compatible API | Python | 3 | Apache License 2.0 | 2025-10-09 | 2026-11-11 | 2025-11-20 |
 | [powervs-scheduled-scaler](https://github.com/IBM/powervs-scheduled-scaler) | Automate time-based scaling of IBM PowerVS VMs. Schedule CPU and RAM adjustments to optimize performance and costs effortlessly. | Python | 0 | MIT License | 2025-10-12 | 2026-11-11 | 2025-12-02 |
@@ -2438,16 +2438,16 @@
 | [devops-test-readme](https://github.com/IBM/devops-test-readme) | devops test readme | HTML | 0 | Apache License 2.0 | 2025-10-16 | 2026-11-11 | 2026-09-25 |
 | [MEAL](https://github.com/IBM/MEAL) | evaluation framework for corrections | Python | 4 | Apache License 2.0 | 2025-10-16 | 2026-11-11 | 2026-03-01 |
 | [VSAD](https://github.com/IBM/VSAD) | repository dedicated to property guided Vector Symbolic Architecture Discovery. The proposition is to employ gen-AI and formal methods to explore the space of vector symbolic architectures that satisfy desired set of algebraic properties. | None | 1 | Apache License 2.0 | 2025-10-16 | 2026-11-11 | 2025-10-16 |
-| [continuous-delivery-tools](https://github.com/IBM/continuous-delivery-tools) | Tools and utilities for the IBM Cloud Continuous Delivery service and resources | JavaScript | 1 | Apache License 2.0 | 2025-10-16 | 2026-11-11 | 2026-11-11 |
+| [continuous-delivery-tools](https://github.com/IBM/continuous-delivery-tools) | Tools and utilities for the IBM Cloud Continuous Delivery service and resources | JavaScript | 1 | Apache License 2.0 | 2025-10-16 | 2026-11-11 | 2026-11-13 |
 | [ess_comprestimator](https://github.com/IBM/ess_comprestimator) | IBM Storage Scale System Comprestimator tool | Go | 1 | Apache License 2.0 | 2025-10-16 | 2026-11-11 | 2026-10-20 |
 | [chuk-mcp-linkedin](https://github.com/IBM/chuk-mcp-linkedin) | None | Python | 3 | Apache License 2.0 | 2025-10-18 | 2026-11-11 | 2026-07-27 |
 | [fimoda](https://github.com/IBM/fimoda) | Code for reproducing experiments in the NeurIPS 2025 paper "Final-Model-Only Data Attribution with a Unifying View of Gradient-Based Methods" | Jupyter Notebook | 4 | Apache License 2.0 | 2025-10-20 | 2026-11-11 | 2026-03-01 |
 | [powervs-mcp-server](https://github.com/IBM/powervs-mcp-server) | This is repository is used for publishing the MCP server for IBM PowerVS management. | Python | 2 | Apache License 2.0 | 2025-10-21 | 2026-11-11 | 2025-10-23 |
 | [apa-vs-code-extension](https://github.com/IBM/apa-vs-code-extension) | Community for the IBM Application Performance Analyzer for z/OS VS Code extension | None | 1 | Apache License 2.0 | 2025-10-21 | 2026-11-11 | 2025-10-22 |
 | [qux360](https://github.com/IBM/qux360) | AI-assisted, trustworthy qualitative data analysis 360 toolkit | Python | 11 | Apache License 2.0 | 2025-10-23 | 2026-11-11 | 2026-01-18 |
-| [terraform-provider-guardium-data-protection](https://github.com/IBM/terraform-provider-guardium-data-protection) | Guardium Data Protection Terraform Provider | Go | 1 | Apache License 2.0 | 2025-10-23 | 2026-11-11 | 2026-11-13 |
-| [terraform-provider-gdp-middleware-helper](https://github.com/IBM/terraform-provider-gdp-middleware-helper) | Guardium Middleware Helper Terraform Provider | Go | 1 | Apache License 2.0 | 2025-10-23 | 2026-11-11 | 2026-11-11 |
-| [terraform-guardium-datastore-audit](https://github.com/IBM/terraform-guardium-datastore-audit) | Datastore enabled auditing configuration terraform module | HCL | 1 | Apache License 2.0 | 2025-10-23 | 2026-11-11 | 2026-11-12 |
+| [terraform-provider-guardium-data-protection](https://github.com/IBM/terraform-provider-guardium-data-protection) | Guardium Data Protection Terraform Provider | Go | 1 | Apache License 2.0 | 2025-10-23 | 2026-11-11 | 2026-11-14 |
+| [terraform-provider-gdp-middleware-helper](https://github.com/IBM/terraform-provider-gdp-middleware-helper) | Guardium Middleware Helper Terraform Provider | Go | 1 | Apache License 2.0 | 2025-10-23 | 2026-11-11 | 2026-11-14 |
+| [terraform-guardium-datastore-audit](https://github.com/IBM/terraform-guardium-datastore-audit) | Datastore enabled auditing configuration terraform module | HCL | 1 | Apache License 2.0 | 2025-10-23 | 2026-11-11 | 2026-11-13 |
 | [terraform-guardium-datastore-va](https://github.com/IBM/terraform-guardium-datastore-va) | Datastore configure for Guardium vulnerability assessment terraform module | HCL | 0 | Apache License 2.0 | 2025-10-23 | 2026-11-11 | 2026-10-21 |
 | [terraform-guardium-gdp](https://github.com/IBM/terraform-guardium-gdp) | Guardium Data Protection operations terraform module | HCL | 1 | Apache License 2.0 | 2025-10-23 | 2026-11-11 | 2026-11-06 |
 | [terraform-guardium-common](https://github.com/IBM/terraform-guardium-common) | Guardium common terraform modules | HCL | 1 | Apache License 2.0 | 2025-10-23 | 2026-11-11 | 2026-11-10 |
@@ -2461,7 +2461,7 @@
 | [IBM-Db2-Genius-Code](https://github.com/IBM/IBM-Db2-Genius-Code) | Db2 Developer Extension | CSS | 4 | - | 2025-11-05 | 2026-11-13 | 2026-11-11 |
 | [project-ai-services](https://github.com/IBM/project-ai-services) | Project AI Services will help deploy e2e AI use cases that solve business problems for Power Users. | Go | 59 | Apache License 2.0 | 2025-11-10 | 2026-11-12 | 2026-11-13 |
 | [SPIRAL](https://github.com/IBM/SPIRAL) | This is an AAAI-2026 conference paper repo. | Jupyter Notebook | 18 | Apache License 2.0 | 2025-11-12 | 2026-11-11 | 2026-03-01 |
-| [vLLM-Hook](https://github.com/IBM/vLLM-Hook) | Repo for vLLM Hook, an vLLM plug-in for programming internal states of models deployed on vLLM | Python | 172 | Apache License 2.0 | 2025-11-12 | 2026-11-13 | 2026-11-10 |
+| [vLLM-Hook](https://github.com/IBM/vLLM-Hook) | Repo for vLLM Hook, an vLLM plug-in for programming internal states of models deployed on vLLM | Python | 172 | Apache License 2.0 | 2025-11-12 | 2026-11-13 | 2026-11-13 |
 | [qux360-demo](https://github.com/IBM/qux360-demo) | Demo application for the Qux360 library for AI-Assisted qualitative data analysis | Svelte | 3 | Apache License 2.0 | 2025-11-12 | 2026-11-11 | 2026-10-22 |
 | [action-runner-image-pz](https://github.com/IBM/action-runner-image-pz) | Github Actions on Power and Z LXD Image Builder | Shell | 3 | Apache License 2.0 | 2025-11-13 | 2026-11-11 | 2026-11-12 |
 | [iac-spec-kit](https://github.com/IBM/iac-spec-kit) | AI-assisted workflows for translating business requirements into infrastructure code | Python | 93 | MIT License | 2025-11-14 | 2026-11-11 | 2026-11-11 |
@@ -2473,7 +2473,7 @@
 | [dra-go-sdk](https://github.com/IBM/dra-go-sdk) | Enabling SDK for go for the IBM Power Virtual Server DR Automation offer | Go | 0 | Apache License 2.0 | 2025-11-20 | 2026-11-11 | 2026-10-08 |
 | [strimzi-stretch-mcs-plugin](https://github.com/IBM/strimzi-stretch-mcs-plugin) | Strimzi plugin for Stretch Kafka cluster using Kubernetes multi-cluster services (MCS) API | Java | 0 | Apache License 2.0 | 2025-11-20 | 2026-11-11 | 2026-03-01 |
 | [chuk-mcp-open-meteo](https://github.com/IBM/chuk-mcp-open-meteo) | None | Python | 1 | Apache License 2.0 | 2025-11-22 | 2026-11-11 | 2026-09-21 |
-| [power-access-cloud](https://github.com/IBM/power-access-cloud) | This repository provides a full-stack application with a self-service portal to access Power systems temporarily. | Go | 2 | Apache License 2.0 | 2025-11-24 | 2026-11-11 | 2026-11-11 |
+| [power-access-cloud](https://github.com/IBM/power-access-cloud) | This repository provides a full-stack application with a self-service portal to access Power systems temporarily. | Go | 2 | Apache License 2.0 | 2025-11-24 | 2026-11-11 | 2026-11-13 |
 | [terraform-aws-gdp](https://github.com/IBM/terraform-aws-gdp) | Terraform module to deploy IBM Guardium Data Protection appliance on AWS | HCL | 7 | Apache License 2.0 | 2025-11-24 | 2026-11-11 | 2026-10-15 |
 | [TerraCodec](https://github.com/IBM/TerraCodec) | Compressing Optical Earth Observation Data | Jupyter Notebook | 28 | Apache License 2.0 | 2025-11-25 | 2026-11-11 | 2026-03-12 |
 | [chuk-mcp-vfs](https://github.com/IBM/chuk-mcp-vfs) | None | Python | 3 | Apache License 2.0 | 2025-11-26 | 2026-11-11 | 2026-02-16 |
@@ -2489,7 +2489,7 @@
 | [kubeportal](https://github.com/IBM/kubeportal) | Cross-cluster Kubernetes API access with native identity federation. Hub and Agent model, with no public endpoints required for Agent clusters. | Go | 6 | Apache License 2.0 | 2025-12-03 | 2026-11-11 | 2026-11-13 |
 | [updated-opendmk-1.0-b02](https://github.com/IBM/updated-opendmk-1.0-b02) | OpenDMK package updated for Java versions above Java 8 | Java | 0 | Other | 2025-12-05 | 2026-11-11 | 2026-04-15 |
 | [chuk-puzzles-gym](https://github.com/IBM/chuk-puzzles-gym) | None | Python | 1 | Apache License 2.0 | 2025-12-09 | 2026-11-11 | 2026-02-16 |
-| [ai4rag](https://github.com/IBM/ai4rag) | RAG Templates Optimization Engine. | Python | 25 | Apache License 2.0 | 2025-12-12 | 2026-11-11 | 2026-11-13 |
+| [ai4rag](https://github.com/IBM/ai4rag) | RAG Templates Optimization Engine. | Python | 25 | Apache License 2.0 | 2025-12-12 | 2026-11-11 | 2026-11-14 |
 | [ibm-watsonxdata-mcp-server](https://github.com/IBM/ibm-watsonxdata-mcp-server) | Model Context Protocol (MCP) server for IBM watsonx.data - enables AI assistants to query and explore lakehouse data Resources | Python | 9 | Apache License 2.0 | 2025-12-19 | 2026-11-11 | 2026-10-27 |
 | [sac-finetuning](https://github.com/IBM/sac-finetuning) | None | Python | 0 | MIT License | 2025-12-22 | 2026-11-11 | 2026-03-01 |
 | [Site-reliability-agent-SRA](https://github.com/IBM/Site-reliability-agent-SRA) | this is for the Tutorial | None | 0 | Apache License 2.0 | 2025-12-22 | 2026-11-11 | 2025-12-22 |
@@ -2505,7 +2505,7 @@
 | [BenchDrift](https://github.com/IBM/BenchDrift) | this is a new issue for creating a public repository for BenchDrift tool | Python | 1 | - | 2026-01-12 | 2026-11-11 | 2026-09-18 |
 | [VIBE](https://github.com/IBM/VIBE) | IBM VIBE (Validation & Insights for Behavioral Evaluation) is a comprehensive platform designed to test, evaluate, and improve AI agents. It provides a structured approach to testing agent performance, behavior, and outputs across different configurations and inputs. | TypeScript | 10 | Apache License 2.0 | 2026-01-15 | 2026-11-11 | 2026-11-12 |
 | [mdm-mcp-server](https://github.com/IBM/mdm-mcp-server) | mdm-mcp-server is a Model Context Protocol (MCP) server that provides AI assistants with seamless access to IBM Master Data Management (MDM) services through standardized REST API interactions. | Python | 5 | Apache License 2.0 | 2026-01-16 | 2026-11-11 | 2026-07-30 |
-| [ims-explorer-about](https://github.com/IBM/ims-explorer-about) | IMS Explorer for VS Code | None | 0 | Apache License 2.0 | 2026-01-21 | 2026-11-11 | 2026-11-04 |
+| [ims-explorer-about](https://github.com/IBM/ims-explorer-about) | IMS Explorer for VS Code | None | 0 | Apache License 2.0 | 2026-01-21 | 2026-11-11 | 2026-11-13 |
 | [spyre-operator-power-docs](https://github.com/IBM/spyre-operator-power-docs) | Documentation for using the spyre operator on ppc64le | None | 2 | Apache License 2.0 | 2026-01-22 | 2026-11-11 | 2026-10-29 |
 | [ibm-storage-scale-mcp-server](https://github.com/IBM/ibm-storage-scale-mcp-server) | This project offers MCP server built on the IBM Storage Scale REST APIs and CLIs, enabling LLMs to interact with them. | Python | 7 | Apache License 2.0 | 2026-01-23 | 2026-11-11 | 2026-10-26 |
 | [db2-placeholder](https://github.com/IBM/db2-placeholder) | Db2 as data source in Open Source World | None | 0 | Apache License 2.0 | 2026-01-24 | 2026-11-11 | 2026-01-24 |
@@ -2520,7 +2520,7 @@
 | [guardauto-cli](https://github.com/IBM/guardauto-cli) | Guardium CLI to be able to discover database in cloud and onboard to Guardium Data Protection | None | 0 | Apache License 2.0 | 2026-02-04 | 2026-11-11 | 2026-11-12 |
 | [bob-demo](https://github.com/IBM/bob-demo) | A playground of fun, bite-sized IBM Bob demos. Because learning works better when you push it. | Java | 43 | Apache License 2.0 | 2026-02-05 | 2026-11-11 | 2026-11-13 |
 | [ibm-bob](https://github.com/IBM/ibm-bob) | IBM Bob is an AI SDLC (Software Development Lifecycle) partner that augments your existing workflows and helps you work confidently with real codebases. | None | 36 | Apache License 2.0 | 2026-02-05 | 2026-11-11 | 2026-11-10 |
-| [text2sql-eval-toolkit](https://github.com/IBM/text2sql-eval-toolkit) | Text-to-SQL Evaluation Toolkit: A modular framework for evaluating natural language to SQL systems | Python | 19 | Apache License 2.0 | 2026-02-06 | 2026-11-11 | 2026-11-13 |
+| [text2sql-eval-toolkit](https://github.com/IBM/text2sql-eval-toolkit) | Text-to-SQL Evaluation Toolkit: A modular framework for evaluating natural language to SQL systems | Python | 19 | Apache License 2.0 | 2026-02-06 | 2026-11-11 | 2026-11-14 |
 | [chuk-mcp-stac](https://github.com/IBM/chuk-mcp-stac) | None | Python | 0 | Apache License 2.0 | 2026-02-07 | 2026-11-11 | 2026-09-21 |
 | [chuk-mcp-dem](https://github.com/IBM/chuk-mcp-dem) | None | Python | 0 | Apache License 2.0 | 2026-02-08 | 2026-11-11 | 2026-07-08 |
 | [chuk-mcp-maritime-archives](https://github.com/IBM/chuk-mcp-maritime-archives) | None | Python | 5 | Apache License 2.0 | 2026-02-08 | 2026-11-11 | 2026-10-28 |
@@ -2541,12 +2541,12 @@
 | [chuk-mcp-chart](https://github.com/IBM/chuk-mcp-chart) | None | Python | 0 | Apache License 2.0 | 2026-02-22 | 2026-11-11 | 2026-03-01 |
 | [terraform-azure-gdp](https://github.com/IBM/terraform-azure-gdp) | Terraform module to deploy IBM Guardium Data Protection appliance on Azure | HCL | 0 | Apache License 2.0 | 2026-02-23 | 2026-11-11 | 2026-09-08 |
 | [soft-masked-diffusion-language-models](https://github.com/IBM/soft-masked-diffusion-language-models) | Code for accepted paper at ICLR 2026 | Python | 17 | Apache License 2.0 | 2026-02-23 | 2026-11-11 | 2026-10-15 |
-| [software-hub](https://github.com/IBM/software-hub) | Patch delivery repo for IBM Software Hub | None | 1 | Apache License 2.0 | 2026-02-24 | 2026-11-12 | 2026-10-28 |
+| [software-hub](https://github.com/IBM/software-hub) | Patch delivery repo for IBM Software Hub | None | 1 | Apache License 2.0 | 2026-02-24 | 2026-11-12 | 2026-11-13 |
 | [lsf-quantum](https://github.com/IBM/lsf-quantum) | Quantum computing extensions for the LSF workload manager | Python | 0 | Apache License 2.0 | 2026-02-25 | 2026-11-11 | 2026-10-08 |
 | [vakra](https://github.com/IBM/vakra) | A Benchmark for Evaluating Multi-Hop, Multi-Source Tool-Calling in AI Agents | Python | 78 | Other | 2026-02-25 | 2026-11-11 | 2026-11-13 |
 | [business-automation-pm](https://github.com/IBM/business-automation-pm) | Private Repo for business-automation-pm | TypeScript | 0 | Apache License 2.0 | 2026-02-26 | 2026-11-11 | 2026-11-13 |
 | [business-automation-ibm](https://github.com/IBM/business-automation-ibm) | Private Repo for business-automation-pm | None | 0 | Apache License 2.0 | 2026-02-26 | 2026-11-11 | 2026-02-26 |
-| [ocp-ipi-powervc](https://github.com/IBM/ocp-ipi-powervc) | Useful tool to create and check OpenShift clusters on IBM Cloud PowerVC | Go | 2 | Apache License 2.0 | 2026-02-28 | 2026-11-11 | 2026-11-13 |
+| [ocp-ipi-powervc](https://github.com/IBM/ocp-ipi-powervc) | Useful tool to create and check OpenShift clusters on IBM Cloud PowerVC | Go | 2 | Apache License 2.0 | 2026-02-28 | 2026-11-11 | 2026-11-14 |
 | [hyper-protect-tutorials](https://github.com/IBM/hyper-protect-tutorials) | Tutorials for IBM Hyper Protect Services | Shell | 0 | Apache License 2.0 | 2026-03-03 | 2026-11-11 | 2026-03-14 |
 | [GhostForge](https://github.com/IBM/GhostForge) | About Powerful KVM/libvirt VM automation tool. Create and manage Ubuntu, openSUSE, and Windows VMs with custom networks, cloud-init, and flexible resource allocation. Built for developers and sysadmins. | Python | 5 | Apache License 2.0 | 2026-03-03 | 2026-11-11 | 2026-03-03 |
 | [RagWorkbench](https://github.com/IBM/RagWorkbench) | A Rag framework for evaluation | Python | 11 | Apache License 2.0 | 2026-03-09 | 2026-11-11 | 2026-11-13 |
@@ -2554,8 +2554,8 @@
 | [SovereignCore](https://github.com/IBM/SovereignCore) | Sovereign Core customer scripts, samples, runbooks and playbooks. | Jupyter Notebook | 3 | Apache License 2.0 | 2026-03-10 | 2026-11-11 | 2026-11-12 |
 | [enterprise-itsm-graph-rag](https://github.com/IBM/enterprise-itsm-graph-rag) | Repository for code accompanying a developer article on enterprise ITSM graph RAG. | JavaScript | 1 | Apache License 2.0 | 2026-03-11 | 2026-11-11 | 2026-09-11 |
 | [PyEco-IBMi-ReferenceArchitecture](https://github.com/IBM/PyEco-IBMi-ReferenceArchitecture) | Reference Architecture for leveraging the Python Ecosystem for Power ("PyEco") with IBM i | Jupyter Notebook | 1 | Apache License 2.0 | 2026-03-11 | 2026-11-11 | 2026-03-14 |
-| [ztpf-development](https://github.com/IBM/ztpf-development) | The landing page for the IBM z/TPF Development Visual Studio Code extension | None | 0 | MIT License | 2026-03-11 | 2026-11-11 | 2026-09-10 |
-| [ztpf-debugger](https://github.com/IBM/ztpf-debugger) | The landing page for the IBM z/TPF Debugger Visual Studio Code extension | None | 1 | MIT License | 2026-03-11 | 2026-11-12 | 2026-09-10 |
+| [ztpf-development](https://github.com/IBM/ztpf-development) | The landing page for the IBM z/TPF Development Visual Studio Code extension | None | 0 | MIT License | 2026-03-11 | 2026-11-11 | 2026-11-13 |
+| [ztpf-debugger](https://github.com/IBM/ztpf-debugger) | The landing page for the IBM z/TPF Debugger Visual Studio Code extension | None | 1 | MIT License | 2026-03-11 | 2026-11-12 | 2026-11-13 |
 | [pliant-instance-migration-workflows](https://github.com/IBM/pliant-instance-migration-workflows) | Contains the workflows, used in the pseudo multi-instance installation for migration of user data between the demo and the dedicated CW instance | None | 0 | Apache License 2.0 | 2026-03-11 | 2026-11-11 | 2026-04-06 |
 | [galaxium-travels](https://github.com/IBM/galaxium-travels) | Demo application for IBM Bob. A complete full-stack application for booking interplanetary space travel | TypeScript | 60 | Apache License 2.0 | 2026-03-12 | 2026-11-11 | 2026-11-11 |
 | [ProcessChat](https://github.com/IBM/ProcessChat) | ProcessChat is a dataset developed by IBM Research. The dataset was introduced in an official IBM Research publication in CODS 2025: “ProcessChat: A Dataset for Business Process Grounded Dialog” by Neelamadhav Gantayat, Avirup Saha and Renuka Sindhgatta. | None | 0 | GNU General Public License v3.0 | 2026-03-12 | 2026-11-11 | 2026-03-19 |
@@ -2597,10 +2597,10 @@
 | [neural-search-jvector](https://github.com/IBM/neural-search-jvector) | None | Java | 0 | Apache License 2.0 | 2026-04-28 | 2026-11-11 | 2026-11-11 |
 | [select-t-partner-market-launchpad](https://github.com/IBM/select-t-partner-market-launchpad) | Select-T partners and clients enablement materials. | None | 1 | Apache License 2.0 | 2026-04-28 | 2026-11-11 | 2026-10-26 |
 | [ibm-cos-sdk-js-v2](https://github.com/IBM/ibm-cos-sdk-js-v2) | IBM COS SDK for the NodeJS programming language | TypeScript | 0 | Apache License 2.0 | 2026-04-29 | 2026-11-11 | 2026-11-12 |
-| [PrivFusion](https://github.com/IBM/PrivFusion) | PrivFusion | Python | 3 | Apache License 2.0 | 2026-04-29 | 2026-11-12 | 2026-11-12 |
-| [qradar-mcp](https://github.com/IBM/qradar-mcp) | qradar-mcp | Python | 13 | Apache License 2.0 | 2026-05-01 | 2026-11-11 | 2026-11-12 |
+| [PrivFusion](https://github.com/IBM/PrivFusion) | PrivFusion | Python | 3 | Apache License 2.0 | 2026-04-29 | 2026-11-12 | 2026-11-14 |
+| [qradar-mcp](https://github.com/IBM/qradar-mcp) | qradar-mcp | Python | 13 | Apache License 2.0 | 2026-05-01 | 2026-11-11 | 2026-11-14 |
 | [ibm-watsonx-data-integration-skills](https://github.com/IBM/ibm-watsonx-data-integration-skills) | Data integration skills that enable external AI agents to interact with IBM watsonx.data integration. | None | 1 | Apache License 2.0 | 2026-05-01 | 2026-11-11 | 2026-11-06 |
-| [READI](https://github.com/IBM/READI) | READI | Python | 11 | Apache License 2.0 | 2026-05-04 | 2026-11-12 | 2026-11-13 |
+| [READI](https://github.com/IBM/READI) | READI | Python | 11 | Apache License 2.0 | 2026-05-04 | 2026-11-12 | 2026-11-14 |
 | [paas-starter](https://github.com/IBM/paas-starter) | create a new paas application cloud architecture and sample app | HCL | 0 | Apache License 2.0 | 2026-05-04 | 2026-11-11 | 2026-11-12 |
 | [TerraMesh-Masks](https://github.com/IBM/TerraMesh-Masks) | TerraMesh-Masks provides training and evaluation dataset for open-vocabulary segmentation of satellite imagery. | Jupyter Notebook | 2 | Apache License 2.0 | 2026-05-06 | 2026-11-11 | 2026-11-06 |
 | [opal-sim](https://github.com/IBM/opal-sim) | Opal (O.P.A.L. - Open simulator Platform for distributed AI and LLM workflows) is an LLM platform-level simulator written purely in Python. It can be used to explore policies, deployment configurations, optimizations, and what-if scenarios for scalable, distributed inference services like llm-d. | Python | 19 | Apache License 2.0 | 2026-05-06 | 2026-11-11 | 2026-10-22 |
@@ -2611,7 +2611,7 @@
 | [IBM-SV-PowerShell](https://github.com/IBM/IBM-SV-PowerShell) | This repository contains PowerShell modules for IBM Storage Virtualize. | PowerShell | 2 | Apache License 2.0 | 2026-05-09 | 2026-11-11 | 2026-10-01 |
 | [multiturn-context-aware-workflow](https://github.com/IBM/multiturn-context-aware-workflow) | this repo is to host the developer work article's tutorial code | Python | 0 | Apache License 2.0 | 2026-05-11 | 2026-11-11 | 2026-09-11 |
 | [task-aware-embedding-refinement](https://github.com/IBM/task-aware-embedding-refinement) | Test-time optimization of query embedding representations for zero-shot classification and retrieval | Python | 15 | Apache License 2.0 | 2026-05-12 | 2026-11-11 | 2026-10-07 |
-| [db2-sqlglot-plugin](https://github.com/IBM/db2-sqlglot-plugin) | Support Db2 for SQLGlot | Python | 4 | Apache License 2.0 | 2026-05-13 | 2026-11-11 | 2026-11-06 |
+| [db2-sqlglot-plugin](https://github.com/IBM/db2-sqlglot-plugin) | Support Db2 for SQLGlot | Python | 5 | Apache License 2.0 | 2026-05-13 | 2026-11-13 | 2026-11-06 |
 | [qauvern](https://github.com/IBM/qauvern) | qauvern | Python | 3 | Apache License 2.0 | 2026-05-13 | 2026-11-11 | 2026-11-11 |
 | [automation-library-workflows](https://github.com/IBM/automation-library-workflows) | A curated collection of IBM Concert Workflows templates organized by business use case, designed to accelerate adoption and provide teams with a ready-to-use library of automation starting points. | JavaScript | 2 | Apache License 2.0 | 2026-05-14 | 2026-11-11 | 2026-11-06 |
 | [coherent-diffusion-local-autoregression](https://github.com/IBM/coherent-diffusion-local-autoregression) | Code for accepted paper at ICML2026 | None | 0 | Apache License 2.0 | 2026-05-15 | 2026-11-11 | 2026-07-06 |
@@ -2626,32 +2626,32 @@
 | [second-brain-with-db2](https://github.com/IBM/second-brain-with-db2) | a tutorial for Db2 users on building AI application with Db2's LLM app stack | Python | 0 | Apache License 2.0 | 2026-05-25 | 2026-11-11 | 2026-06-14 |
 | [accelerator-bob-for-wxo](https://github.com/IBM/accelerator-bob-for-wxo) | A standardized template for building responsible AI Agents with watsonx Orchestrate using Agent Development Kit (ADK) in IBM Bob. | HTML | 3 | Apache License 2.0 | 2026-05-26 | 2026-11-11 | 2026-05-26 |
 | [tsar-mcp](https://github.com/IBM/tsar-mcp) | A zero-dependency native C/C++ SDK for building Model Context Protocol (MCP) servers on edge and enterprise systems. TSAR-MCP servers are designed to be designed by AI. | C++ | 12 | MIT License | 2026-05-27 | 2026-11-11 | 2026-11-12 |
-| [simrun](https://github.com/IBM/simrun) | Attack Simulation Platform (ASP) for detection testing | Go | 14 | Apache License 2.0 | 2026-05-27 | 2026-11-11 | 2026-11-11 |
+| [simrun](https://github.com/IBM/simrun) | Attack Simulation Platform (ASP) for detection testing | Go | 14 | Apache License 2.0 | 2026-05-27 | 2026-11-11 | 2026-11-14 |
 | [intro-bob-workshop](https://github.com/IBM/intro-bob-workshop) | Intro into IBM Bob Workshop | None | 4 | Apache License 2.0 | 2026-05-27 | 2026-11-11 | 2026-11-09 |
 | [terraform-linux-gdp-gim](https://github.com/IBM/terraform-linux-gdp-gim) | Terraform module to deploy IBM Guardium Data Protection GIM on Linux servers | Shell | 0 | Apache License 2.0 | 2026-05-29 | 2026-11-11 | 2026-10-04 |
 | [terraform-windows-gdp-gim](https://github.com/IBM/terraform-windows-gdp-gim) | Terraform module to deploy IBM Guardium Data Protection GIM on windows servers | Shell | 0 | Apache License 2.0 | 2026-05-29 | 2026-11-11 | 2026-09-15 |
 | [airgap-utility](https://github.com/IBM/airgap-utility) | The Air Gap Utility (AGU) is an enterprise-grade, menu-driven automation framework designed to enable IBM CloudPak Operator solutions(Supported list of Product) in air-gapped and restricted network environments by mirroring container images, rebuilding operator catalogs, and publishing them to private registries.https://www.youtube.com/watch?v=tFF6 | None | 0 | Apache License 2.0 | 2026-05-29 | 2026-11-11 | 2026-09-29 |
 | [secrets-manager-management-go-sdk](https://github.com/IBM/secrets-manager-management-go-sdk) | Go SDK for IBM Cloud Secrets Manager instance management | Go | 0 | Apache License 2.0 | 2026-06-04 | 2026-11-11 | 2026-11-10 |
 | [secrets-manager-management-python-sdk](https://github.com/IBM/secrets-manager-management-python-sdk) | Python SDK for IBM Cloud Secrets Manager instance management | Python | 1 | Apache License 2.0 | 2026-06-04 | 2026-11-11 | 2026-11-10 |
-| [secrets-manager-management-node-sdk](https://github.com/IBM/secrets-manager-management-node-sdk) | Node SDK for IBM Cloud Secrets Manager instance management | JavaScript | 0 | Apache License 2.0 | 2026-06-04 | 2026-11-12 | 2026-11-12 |
+| [secrets-manager-management-node-sdk](https://github.com/IBM/secrets-manager-management-node-sdk) | Node SDK for IBM Cloud Secrets Manager instance management | JavaScript | 0 | Apache License 2.0 | 2026-06-04 | 2026-11-12 | 2026-11-14 |
 | [secrets-manager-management-java-sdk](https://github.com/IBM/secrets-manager-management-java-sdk) | Java SDK for IBM Cloud Secrets Manager instance management | Java | 0 | Apache License 2.0 | 2026-06-05 | 2026-11-11 | 2026-11-11 |
 | [software_procurement_advisor](https://github.com/IBM/software_procurement_advisor) | AI-powered agents and agentic workflows can be used to streamline business operations of all kinds, including software procurement. | Python | 1 | Apache License 2.0 | 2026-06-05 | 2026-11-11 | 2026-10-04 |
 | [webmethods-charts](https://github.com/IBM/webmethods-charts) | IBM webMethods Helm Charts | None | 1 | Apache License 2.0 | 2026-06-08 | 2026-11-11 | 2026-10-16 |
 | [db2-ai-cookbook](https://github.com/IBM/db2-ai-cookbook) | Runnable recipes for building AI apps and agents on IBM Db2 — vector search, hybrid search, RAG, and recommendations, from SQL or Python. | Jupyter Notebook | 8 | Apache License 2.0 | 2026-06-08 | 2026-11-11 | 2026-09-25 |
 | [Flash-GMM](https://github.com/IBM/Flash-GMM) | Flash-GMM, a memory-efficient GPU kernel that unlocks GMM soft clustering at billion-scale | Python | 25 | Apache License 2.0 | 2026-06-09 | 2026-11-11 | 2026-09-30 |
 | [substrait-compliance](https://github.com/IBM/substrait-compliance) | Substrait Decentralized Compliance Framework | Python | 4 | Apache License 2.0 | 2026-06-09 | 2026-11-11 | 2026-11-09 |
-| [llm-inference-rca-controller](https://github.com/IBM/llm-inference-rca-controller) | llm-inference-rca-controller | Go | 0 | Apache License 2.0 | 2026-06-09 | 2026-11-12 | 2026-11-13 |
+| [llm-inference-rca-controller](https://github.com/IBM/llm-inference-rca-controller) | llm-inference-rca-controller | Go | 0 | Apache License 2.0 | 2026-06-09 | 2026-11-12 | 2026-11-14 |
 | [IBMStorageVirtualizeRestAPI](https://github.com/IBM/IBMStorageVirtualizeRestAPI) | Repository for IBM StorageVirtualize REST API Python SDK. | Python | 3 | Apache License 2.0 | 2026-06-10 | 2026-11-11 | 2026-10-30 |
 | [ibm-bob-java](https://github.com/IBM/ibm-bob-java) | None | None | 4 | Other | 2026-06-10 | 2026-11-12 | 2026-09-25 |
-| [Evoflux](https://github.com/IBM/Evoflux) | None | Python | 5 | Apache License 2.0 | 2026-06-10 | 2026-11-11 | 2026-11-06 |
-| [appconfiguration-ruby-sdk](https://github.com/IBM/appconfiguration-ruby-sdk) | Ruby SDK for IBM Cloud App Configuration service. | Ruby | 1 | Apache License 2.0 | 2026-06-11 | 2026-11-11 | 2026-10-14 |
+| [Evoflux](https://github.com/IBM/Evoflux) | None | Python | 5 | Apache License 2.0 | 2026-06-10 | 2026-11-11 | 2026-11-13 |
+| [appconfiguration-ruby-sdk](https://github.com/IBM/appconfiguration-ruby-sdk) | Ruby SDK for IBM Cloud App Configuration service. | Ruby | 1 | Apache License 2.0 | 2026-06-11 | 2026-11-11 | 2026-11-13 |
 | [defense-model-bootcamp](https://github.com/IBM/defense-model-bootcamp) | Defense Model Bootcamp - Lab guides built with Docusaurus | MDX | 0 | Apache License 2.0 | 2026-06-12 | 2026-11-11 | 2026-11-05 |
 | [Concert-Platform](https://github.com/IBM/Concert-Platform) | Samples, tutorials and other information about Concert Platform | None | 1 | Apache License 2.0 | 2026-06-12 | 2026-11-11 | 2026-11-11 |
 | [Z-mag](https://github.com/IBM/Z-mag) | MPI-parallel finite-element micromagnetics with a two-chart stereographic atlas | Python | 6 | MIT License | 2026-06-12 | 2026-11-11 | 2026-10-10 |
 | [CopyKat](https://github.com/IBM/CopyKat) | CopyKat | Lua | 1 | - | 2026-06-15 | 2026-11-11 | 2026-10-04 |
 | [noi-policies-events-visualization-deployment](https://github.com/IBM/noi-policies-events-visualization-deployment) | NOI Policy and Event Visualization and Deployment | Python | 0 | Apache License 2.0 | 2026-06-17 | 2026-11-11 | 2026-10-04 |
 | [crypto-ep11-websamples](https://github.com/IBM/crypto-ep11-websamples) | EP11 Code Samples | None | 1 | MIT License | 2026-06-18 | 2026-11-11 | 2026-11-07 |
-| [smith](https://github.com/IBM/smith) | Automated Policy Lifecycle Management for AI Agents | Python | 17 | Apache License 2.0 | 2026-06-19 | 2026-11-11 | 2026-11-13 |
+| [smith](https://github.com/IBM/smith) | Automated Policy Lifecycle Management for AI Agents | Python | 17 | Apache License 2.0 | 2026-06-19 | 2026-11-11 | 2026-11-14 |
 | [confused-deputy](https://github.com/IBM/confused-deputy) | ConfusedDeputy | None | 0 | - | 2026-06-24 | 2026-11-11 | 2026-06-24 |
 | [infra-go-sdk](https://github.com/IBM/infra-go-sdk) | infra-go-sdk | Go | 3 | Apache License 2.0 | 2026-06-25 | 2026-11-12 | 2026-11-12 |
 | [shiftlaunch](https://github.com/IBM/shiftlaunch) | shiftlaunch | Go | 2 | Apache License 2.0 | 2026-06-25 | 2026-11-11 | 2026-11-13 |
@@ -2671,7 +2671,7 @@
 | [lab-data-collection](https://github.com/IBM/lab-data-collection) | lab-data-collection | Python | 1 | Apache License 2.0 | 2026-07-29 | 2026-11-11 | 2026-10-31 |
 | [chuk-tool-runtime-rs](https://github.com/IBM/chuk-tool-runtime-rs) | None | Rust | 0 | - | 2026-07-31 | 2026-11-11 | 2026-07-31 |
 | [ibmstreamsets-tutorials](https://github.com/IBM/ibmstreamsets-tutorials) | ibmstreamsets tutorials | Java | 1 | Apache License 2.0 | 2026-08-03 | 2026-11-11 | 2026-10-10 |
-| [DrBencher](https://github.com/IBM/DrBencher) | DrBencher | Python | 2 | Apache License 2.0 | 2026-08-05 | 2026-11-11 | 2026-11-13 |
+| [DrBencher](https://github.com/IBM/DrBencher) | DrBencher | Python | 2 | Apache License 2.0 | 2026-08-05 | 2026-11-11 | 2026-11-14 |
 | [ai-assisted-modernization](https://github.com/IBM/ai-assisted-modernization) | ai-assisted-modernization | JavaScript | 1 | Apache License 2.0 | 2026-08-05 | 2026-11-11 | 2026-10-10 |
 | [watsonx-orchestrate](https://github.com/IBM/watsonx-orchestrate) | Watsonx Orchestrate | None | 2 | Apache License 2.0 | 2026-08-07 | 2026-11-11 | 2026-08-07 |
 | [ibm-cas-nvidia-nemo-agent-toolkit](https://github.com/IBM/ibm-cas-nvidia-nemo-agent-toolkit) | None | None | 0 | - | 2026-08-10 | 2026-11-11 | 2026-08-20 |
@@ -2683,7 +2683,7 @@
 | [wxa4z-playbooks](https://github.com/IBM/wxa4z-playbooks) | watsonx Assistant for Z Playbooks | Shell | 0 | Apache License 2.0 | 2026-08-18 | 2026-11-11 | 2026-10-23 |
 | [bob-pytorch-transfer-learning](https://github.com/IBM/bob-pytorch-transfer-learning) | Transfer learning with PyTorch Using Bob | Python | 1 | Apache License 2.0 | 2026-08-19 | 2026-11-11 | 2026-08-25 |
 | [skillset-artifacts](https://github.com/IBM/skillset-artifacts) | skillset | HTML | 0 | Apache License 2.0 | 2026-08-21 | 2026-11-11 | 2026-09-01 |
-| [swe-hints](https://github.com/IBM/swe-hints) | swe-hints | Python | 0 | MIT License | 2026-08-21 | 2026-11-11 | 2026-11-03 |
+| [swe-hints](https://github.com/IBM/swe-hints) | swe-hints | Python | 0 | MIT License | 2026-08-21 | 2026-11-11 | 2026-11-13 |
 | [SWE-PBT](https://github.com/IBM/SWE-PBT) | SWE-PBT | Python | 1 | Apache License 2.0 | 2026-08-21 | 2026-11-11 | 2026-10-09 |
 | [ToolWeave](https://github.com/IBM/ToolWeave) | ToolWeave: Structured synthesis of complex multi-turn tool-calling dialogues: an end-to-end pipeline that builds tool graphs with real data dependencies, samples and verifies workflows, plans parameter provenance, and generates multi-step tool-calling dialogues for LLM fine-tuning. | Python | 5 | Apache License 2.0 | 2026-08-21 | 2026-11-11 | 2026-11-02 |
 | [VyanaDB](https://github.com/IBM/VyanaDB) | VyanaDB | None | 0 | Apache License 2.0 | 2026-08-26 | 2026-11-11 | 2026-08-26 |
@@ -2695,10 +2695,10 @@
 | [maximo-app-configuration-local-mode](https://github.com/IBM/maximo-app-configuration-local-mode) | Maximo Application Configuration - Local Mode | None | 1 | Apache License 2.0 | 2026-09-03 | 2026-11-11 | 2026-09-03 |
 | [security-ops-bot](https://github.com/IBM/security-ops-bot) | Security Ops Bot Documentation. | None | 0 | - | 2026-09-10 | 2026-11-11 | 2026-11-03 |
 | [grapnel](https://github.com/IBM/grapnel) | Grapnel | None | 0 | Apache License 2.0 | 2026-09-10 | 2026-11-11 | 2026-09-10 |
-| [GeoVLM-R1-Toolkit](https://github.com/IBM/GeoVLM-R1-Toolkit) | GeoVLM-R1: A specialized VLM for high-resolution remote sensing image Reasoning. We propose GeoVLM-R1, a reinforcement learning framework that encourages VLM to enhance its reasoning capabilities with flexibility, scalability, and ease of experimentation in mind for diverse EO tasks. | Python | 2 | Other | 2026-09-10 | 2026-11-11 | 2026-11-01 |
+| [GeoVLM-R1-Toolkit](https://github.com/IBM/GeoVLM-R1-Toolkit) | GeoVLM-R1: A specialized VLM for high-resolution remote sensing image Reasoning. We propose GeoVLM-R1, a reinforcement learning framework that encourages VLM to enhance its reasoning capabilities with flexibility, scalability, and ease of experimentation in mind for diverse EO tasks. | Python | 2 | Other | 2026-09-10 | 2026-11-11 | 2026-11-14 |
 | [cf-gap](https://github.com/IBM/cf-gap) | CF-GAP | Jupyter Notebook | 0 | Other | 2026-09-15 | 2026-11-11 | 2026-09-22 |
 | [perturber](https://github.com/IBM/perturber) | perturber | Python | 0 | Apache License 2.0 | 2026-09-21 | 2026-11-11 | 2026-09-24 |
-| [cracks-in-the-foundation-dataset](https://github.com/IBM/cracks-in-the-foundation-dataset) | Cracks in the Foundation | HTML | 0 | - | 2026-09-21 | 2026-11-12 | 2026-11-13 |
+| [cracks-in-the-foundation-dataset](https://github.com/IBM/cracks-in-the-foundation-dataset) | Cracks in the Foundation | HTML | 0 | - | 2026-09-21 | 2026-11-12 | 2026-11-14 |
 | [Analog_ReRAM_Training_Simulator](https://github.com/IBM/Analog_ReRAM_Training_Simulator) | Analog ReRAM In-Memory Training Simulator | Jupyter Notebook | 0 | Apache License 2.0 | 2026-09-22 | 2026-11-11 | 2026-09-28 |
 | [fusion-lab-workbooks](https://github.com/IBM/fusion-lab-workbooks) | IBM Technology Zone Lab Guides | Shell | 4 | Apache License 2.0 | 2026-09-23 | 2026-11-11 | 2026-11-12 |
 | [build-with-bob](https://github.com/IBM/build-with-bob) | None | HTML | 0 | - | 2026-09-25 | 2026-11-11 | 2026-11-08 |
@@ -2714,7 +2714,7 @@
 | [cics-ia-smart-ai-assistant](https://github.com/IBM/cics-ia-smart-ai-assistant) | cics-ia-smart-ai-assistant | None | 0 | Other | 2026-10-07 | 2026-11-11 | 2026-10-08 |
 | [flink-rs](https://github.com/IBM/flink-rs) | Apache Flink CLI | Rust | 0 | Apache License 2.0 | 2026-10-12 | 2026-11-11 | 2026-11-09 |
 | [ACPBenchGenerator](https://github.com/IBM/ACPBenchGenerator) | ACPBench | PDDL | 2 | MIT License | 2026-10-13 | 2026-11-11 | 2026-10-16 |
-| [QueryGym](https://github.com/IBM/QueryGym) | QueryGym | Python | 3 | MIT License | 2026-10-13 | 2026-11-11 | 2026-11-11 |
+| [QueryGym](https://github.com/IBM/QueryGym) | QueryGym | Python | 4 | MIT License | 2026-10-13 | 2026-11-13 | 2026-11-11 |
 | [wildfly-ai-demo](https://github.com/IBM/wildfly-ai-demo) | wildfly-ai-demo | Java | 0 | Apache License 2.0 | 2026-10-14 | 2026-11-11 | 2026-10-16 |
 | [cp-z-ansible](https://github.com/IBM/cp-z-ansible) | IBM Confluent Platform for Z and LinuxONE - Ansible Playbook | None | 0 | Apache License 2.0 | 2026-10-14 | 2026-11-11 | 2026-10-14 |
 | [docling-ibm-examples](https://github.com/IBM/docling-ibm-examples) | Docling for IBM watsonx: examples | Python | 1 | Apache License 2.0 | 2026-10-14 | 2026-11-11 | 2026-11-12 |
@@ -2730,6 +2730,6 @@
 | [TKSfw](https://github.com/IBM/TKSfw) | The KeelStone Framework | None | 0 | Apache License 2.0 | 2026-11-10 | 2026-11-11 | 2026-11-10 |
 | [swe-kernel-bench](https://github.com/IBM/swe-kernel-bench) | SWE-kernel-bench: A Live Benchmark for GPU Kernel Generation | None | 0 | Apache License 2.0 | 2026-11-10 | 2026-11-11 | 2026-11-10 |
 | [observability](https://github.com/IBM/observability) | Public Repository for Cloud Observability Services | None | 0 | Apache License 2.0 | 2026-11-10 | 2026-11-11 | 2026-11-10 |
-| [vllm_remix](https://github.com/IBM/vllm_remix) | None | Python | 0 | Apache License 2.0 | 2026-11-10 | 2026-11-11 | 2026-11-11 |
+| [vllm_remix](https://github.com/IBM/vllm_remix) | None | Python | 0 | Apache License 2.0 | 2026-11-10 | 2026-11-11 | 2026-11-14 |
 | [swe-kernel-bench-harness](https://github.com/IBM/swe-kernel-bench-harness) | SWE-kernel-bench-harness: GPU Kernel Evaluation Harness | None | 0 | Apache License 2.0 | 2026-11-11 | 2026-11-11 | 2026-11-11 |
 | [partner-solution-hub](https://github.com/IBM/partner-solution-hub) | Partner Solution Hub | None | 0 | Apache License 2.0 | 2026-11-12 | 2026-11-12 | 2026-11-12 |

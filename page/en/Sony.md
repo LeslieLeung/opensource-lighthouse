@@ -1,10 +1,10 @@
 # Sony
 
-A total of 151 projects, 39 active projects in the last six months, 1 teams, and 18573 stars.
+A total of 151 projects, 39 active projects in the last six months, 1 teams, and 18575 stars.
 
 Top 3 Languages: Python, C++, JavaScript
 
-Statistics Date: 2026-11-13 15:59:31
+Statistics Date: 2026-11-14 14:52:54
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -24,7 +24,7 @@ Statistics Date: 2026-11-13 15:59:31
 | [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2772 | Apache License 2.0 | 2017-06-26 | 2026-11-12 | 2026-07-24 |
 | [easyhttpcpp](https://github.com/sony/easyhttpcpp) | A cross-platform HTTP client library with a focus on usability and speed | C++ | 176 | MIT License | 2017-08-09 | 2026-09-16 | 2022-01-31 |
 | [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 204 | Apache License 2.0 | 2017-09-07 | 2026-11-12 | 2026-11-13 |
-| [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 59 | Apache License 2.0 | 2017-09-07 | 2026-11-12 | 2026-11-13 |
+| [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 60 | Apache License 2.0 | 2017-09-07 | 2026-11-14 | 2026-11-13 |
 | [cdp-js](https://github.com/sony/cdp-js) | Libraries/SDK modules for multi-platform application development | TypeScript | 22 | Apache License 2.0 | 2017-10-10 | 2024-02-11 | 2018-05-10 |
 | [cdp-lib](https://github.com/sony/cdp-lib) | Application template/libraries for cdp-js (Details: see cdp-js repository) | JavaScript | 6 | Apache License 2.0 | 2017-10-10 | 2017-11-13 | 2018-02-23 |
 | [cdp-cli](https://github.com/sony/cdp-cli) | Command line tools for generating start point of multi-platform application development (Details: see cdp-js repository) | HTML | 7 | Apache License 2.0 | 2017-10-10 | 2020-12-13 | 2018-07-13 |
@@ -158,4 +158,4 @@ Statistics Date: 2026-11-13 15:59:31
 | [niwashi](https://github.com/sony/niwashi) | None | Go | 0 | Apache License 2.0 | 2026-09-18 | 2026-11-02 | 2026-11-02 |
 | [niwashi-recipe](https://github.com/sony/niwashi-recipe) | None | Shell | 0 | Apache License 2.0 | 2026-09-18 | 2026-10-01 | 2026-09-29 |
 | [far](https://github.com/sony/far) | None | Python | 2 | Other | 2026-09-29 | 2026-11-06 | 2026-11-06 |
-| [syn-omni](https://github.com/sony/syn-omni) | None | Python | 5 | Apache License 2.0 | 2026-10-07 | 2026-11-13 | 2026-11-04 |
+| [syn-omni](https://github.com/sony/syn-omni) | None | Python | 6 | Apache License 2.0 | 2026-10-07 | 2026-11-14 | 2026-11-04 |
