@@ -1,10 +1,10 @@
 # Boeing
 
-A total of 38 projects, 9 active projects in the last six months, 1 teams, and 658 stars.
+A total of 38 projects, 9 active projects in the last six months, 1 teams, and 660 stars.
 
 Top 3 Languages: C++, Python, Go
 
-Statistics Date: 2026-11-17 17:28:44
+Statistics Date: 2026-11-19 17:11:06
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -39,10 +39,10 @@ Statistics Date: 2026-11-17 17:28:44
 | [aircraft-data-hierarchy](https://github.com/Boeing/aircraft-data-hierarchy) | The Aircraft Data Hierarchy (ADH) is a modern data definition standard for the aerospace vehicle design studies including MBSE | Python | 27 | Apache License 2.0 | 2024-09-18 | 2026-10-22 | 2025-10-17 |
 | [standard-evaluator](https://github.com/Boeing/standard-evaluator) | Python library to wrap simulation codes for integration with MDAO systems, and replace simulations with surrogate models. | HTML | 16 | Other | 2024-09-18 | 2026-11-15 | 2026-09-29 |
 | [libc-test](https://github.com/Boeing/libc-test) | None | C | 3 | Other | 2024-11-06 | 2025-10-25 | 2024-12-04 |
-| [aviation_ner_sdr](https://github.com/Boeing/aviation_ner_sdr) | Collaboration work between FAA and Boeing on identifying safety hazards in Service Difficulty Reports (SDR) | Python | 2 | MIT License | 2024-12-10 | 2026-09-23 | 2026-09-23 |
+| [aviation_ner_sdr](https://github.com/Boeing/aviation_ner_sdr) | Collaboration work between FAA and Boeing on identifying safety hazards in Service Difficulty Reports (SDR) | Python | 3 | MIT License | 2024-12-10 | 2026-11-19 | 2026-09-23 |
 | [backstage](https://github.com/Boeing/backstage) | Backstage is an open framework for building developer portals | TypeScript | 0 | Apache License 2.0 | 2025-01-10 | 2025-05-01 | 2025-05-01 |
 | [scorecard](https://github.com/Boeing/scorecard) | OpenSSF Scorecard - Security health metrics for Open Source | None | 0 | Apache License 2.0 | 2025-10-17 | 2025-10-17 | 2025-10-13 |
 | [validate-configs-action](https://github.com/Boeing/validate-configs-action) | :octocat: Github Action to validate your config files using the config-file-validator | Go | 2 | Apache License 2.0 | 2025-10-24 | 2026-10-01 | 2026-10-01 |
 | [aero-omni](https://github.com/Boeing/aero-omni) | None | C | 1 | Apache License 2.0 | 2026-10-13 | 2026-11-15 | 2026-10-14 |
-| [tripx](https://github.com/Boeing/tripx) | A modular, simulation-based tool for estimating communicable disease transmission risk across an air travel journey. | None | 1 | GNU General Public License v3.0 | 2026-10-15 | 2026-11-15 | 2026-10-16 |
+| [tripx](https://github.com/Boeing/tripx) | A modular, simulation-based tool for estimating communicable disease transmission risk across an air travel journey. | None | 2 | GNU General Public License v3.0 | 2026-10-15 | 2026-11-19 | 2026-10-16 |
 | [moveit2](https://github.com/Boeing/moveit2) | :robot: MoveIt for ROS 2 | None | 0 | BSD 3-Clause "New" or "Revised" License | 2026-10-27 | 2026-10-27 | 2026-10-28 |
