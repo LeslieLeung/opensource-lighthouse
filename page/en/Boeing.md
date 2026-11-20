@@ -4,7 +4,7 @@ A total of 38 projects, 9 active projects in the last six months, 1 teams, and 6
 
 Top 3 Languages: C++, Python, Go
 
-Statistics Date: 2026-11-19 17:11:06
+Statistics Date: 2026-11-20 16:49:36
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -13,7 +13,7 @@ Statistics Date: 2026-11-19 17:11:06
 | [math6d](https://github.com/Boeing/math6d) | None | Python | 4 | Other | 2020-11-24 | 2024-01-19 | 2020-11-24 |
 | [modular_navigation](https://github.com/Boeing/modular_navigation) | None | C++ | 13 | Other | 2020-11-24 | 2026-11-04 | 2023-11-24 |
 | [image_transport_plugins](https://github.com/Boeing/image_transport_plugins) | None | C++ | 2 | Other | 2021-06-17 | 2024-01-19 | 2021-06-17 |
-| [config-file-validator](https://github.com/Boeing/config-file-validator) | Cross-platform config file CLI toolchain. Validates syntax, schema compliance, and formatting across 18 different configuration file types. Written in Go. | Go | 518 | Apache License 2.0 | 2022-12-06 | 2026-11-11 | 2026-11-09 |
+| [config-file-validator](https://github.com/Boeing/config-file-validator) | Cross-platform config file CLI toolchain. Validates syntax, schema compliance, and formatting across 18 different configuration file types. Written in Go. | Go | 517 | Apache License 2.0 | 2022-12-06 | 2026-11-19 | 2026-11-19 |
 | [bazel-remote-helm-chart](https://github.com/Boeing/bazel-remote-helm-chart) | None | None | 1 | Apache License 2.0 | 2023-02-20 | 2023-05-03 | 2023-03-28 |
 | [bazel-gazelle](https://github.com/Boeing/bazel-gazelle) | Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets. | Go | 0 | Apache License 2.0 | 2023-05-19 | 2024-10-15 | 2023-10-24 |
 | [sdr-depressurization](https://github.com/Boeing/sdr-depressurization) | Benchmark data sets for training and evaluating Machine Learning (ML) models for depressurization events in Service Difficulty Reports (SDRs).  | None | 0 | MIT License | 2023-05-19 | 2023-05-19 | 2024-02-01 |
@@ -44,5 +44,5 @@ Statistics Date: 2026-11-19 17:11:06
 | [scorecard](https://github.com/Boeing/scorecard) | OpenSSF Scorecard - Security health metrics for Open Source | None | 0 | Apache License 2.0 | 2025-10-17 | 2025-10-17 | 2025-10-13 |
 | [validate-configs-action](https://github.com/Boeing/validate-configs-action) | :octocat: Github Action to validate your config files using the config-file-validator | Go | 2 | Apache License 2.0 | 2025-10-24 | 2026-10-01 | 2026-10-01 |
 | [aero-omni](https://github.com/Boeing/aero-omni) | None | C | 1 | Apache License 2.0 | 2026-10-13 | 2026-11-15 | 2026-10-14 |
-| [tripx](https://github.com/Boeing/tripx) | A modular, simulation-based tool for estimating communicable disease transmission risk across an air travel journey. | None | 2 | GNU General Public License v3.0 | 2026-10-15 | 2026-11-19 | 2026-10-16 |
+| [tripx](https://github.com/Boeing/tripx) | A modular, simulation-based tool for estimating communicable disease transmission risk across an air travel journey. | None | 3 | GNU General Public License v3.0 | 2026-10-15 | 2026-11-20 | 2026-10-16 |
 | [moveit2](https://github.com/Boeing/moveit2) | :robot: MoveIt for ROS 2 | None | 0 | BSD 3-Clause "New" or "Revised" License | 2026-10-27 | 2026-10-27 | 2026-10-28 |
