@@ -1,10 +1,10 @@
 # Netflix
 
-A total of 239 projects, 50 active projects in the last six months, 1 teams, and 242139 stars.
+A total of 239 projects, 51 active projects in the last six months, 1 teams, and 242143 stars.
 
 Top 3 Languages: Java, JavaScript, Python
 
-Statistics Date: 2026-11-20 16:49:36
+Statistics Date: 2026-11-21 15:58:37
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -24,12 +24,12 @@ Statistics Date: 2026-11-20 16:49:36
 | [eureka](https://github.com/Netflix/eureka) | AWS Service registry for resilient mid-tier load balancing and failover. | Java | 12752 | Apache License 2.0 | 2012-07-26 | 2026-11-19 | 2026-08-24 |
 | [edda](https://github.com/Netflix/edda) | AWS API Read Cache | Scala | 567 | Apache License 2.0 | 2012-08-18 | 2026-11-18 | 2024-01-19 |
 | [frigga](https://github.com/Netflix/frigga) | Utilities for working with Asgard named objects | Java | 47 | Apache License 2.0 | 2012-10-12 | 2026-11-18 | 2025-12-17 |
-| [blitz4j](https://github.com/Netflix/blitz4j) | Logging framework for fast asynchronous logging | Java | 563 | Apache License 2.0 | 2012-11-13 | 2026-11-13 | 2024-12-10 |
-| [Hystrix](https://github.com/Netflix/Hystrix) | Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable. | Java | 24477 | - | 2012-11-19 | 2026-11-20 | 2025-12-17 |
+| [blitz4j](https://github.com/Netflix/blitz4j) | Logging framework for fast asynchronous logging | Java | 564 | Apache License 2.0 | 2012-11-13 | 2026-11-21 | 2024-12-10 |
+| [Hystrix](https://github.com/Netflix/Hystrix) | Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable. | Java | 24476 | - | 2012-11-19 | 2026-11-20 | 2025-12-17 |
 | [Turbine](https://github.com/Netflix/Turbine) | SSE Stream Aggregator | Java | 833 | Apache License 2.0 | 2012-12-06 | 2026-06-06 | 2023-04-10 |
 | [ribbon](https://github.com/Netflix/ribbon) | Ribbon is a Inter Process Communication (remote procedure calls) library with built in software load balancers. The primary usage model involves REST calls with various serialization scheme support. | Java | 4611 | Apache License 2.0 | 2013-01-15 | 2026-11-19 | 2025-12-17 |
 | [denominator](https://github.com/Netflix/denominator) | Portably control DNS clouds using java or bash | Java | 579 | Apache License 2.0 | 2013-01-24 | 2026-11-19 | 2023-04-10 |
-| [karyon](https://github.com/Netflix/karyon) | The nucleus or the base container for Applications and Services built using the NetflixOSS ecosystem | Java | 494 | Apache License 2.0 | 2013-02-06 | 2026-11-18 | 2024-03-04 |
+| [karyon](https://github.com/Netflix/karyon) | The nucleus or the base container for Applications and Services built using the NetflixOSS ecosystem | Java | 495 | Apache License 2.0 | 2013-02-06 | 2026-11-21 | 2024-03-04 |
 | [EVCache](https://github.com/Netflix/EVCache) | A distributed in-memory data store for the cloud | Java | 2226 | Apache License 2.0 | 2013-02-08 | 2026-11-19 | 2026-11-17 |
 | [aminator](https://github.com/Netflix/aminator) | A tool for creating EBS AMIs. This tool currently works for CentOS/RedHat Linux images and is intended to run on an EC2 instance. | Python | 956 | Apache License 2.0 | 2013-02-11 | 2026-11-18 | 2023-04-10 |
 | [recipes-rss](https://github.com/Netflix/recipes-rss) | RSS Reader Recipes that uses several of the Netflix OSS components | Java | 341 | Apache License 2.0 | 2013-02-16 | 2026-05-10 | 2023-04-10 |
@@ -41,7 +41,7 @@ Statistics Date: 2026-11-20 16:49:36
 | [pytheas](https://github.com/Netflix/pytheas) | Web Resources and UI Framework | JavaScript | 187 | Apache License 2.0 | 2013-05-07 | 2026-11-18 | 2025-02-10 |
 | [Lipstick](https://github.com/Netflix/Lipstick) | Pig Visualization framework | JavaScript | 465 | Apache License 2.0 | 2013-05-21 | 2026-11-18 | 2023-03-24 |
 | [NfWebCrypto](https://github.com/Netflix/NfWebCrypto) | Web Cryptography API Polyfill | C++ | 213 | Other | 2013-05-28 | 2026-11-18 | 2017-01-28 |
-| [genie](https://github.com/Netflix/genie) | Distributed Big Data Orchestration Service | Java | 1766 | Apache License 2.0 | 2013-06-20 | 2026-11-19 | 2026-11-17 |
+| [genie](https://github.com/Netflix/genie) | Distributed Big Data Orchestration Service | Java | 1766 | Apache License 2.0 | 2013-06-20 | 2026-11-19 | 2026-11-21 |
 | [Nicobar](https://github.com/Netflix/Nicobar) | None | Java | 179 | Apache License 2.0 | 2013-07-16 | 2026-11-18 | 2024-12-10 |
 | [glisten](https://github.com/Netflix/glisten) | Ease of use Groovy library for building JVM applications with Amazon Simple Workflow (SWF) | Groovy | 68 | Apache License 2.0 | 2013-08-15 | 2026-09-08 | 2023-04-10 |
 | [blesk](https://github.com/Netflix/blesk) | Netflix blesk is a lightweight client for pushing notifications to web based applications/sites. | JavaScript | 71 | Apache License 2.0 | 2013-08-15 | 2026-11-18 | 2015-12-12 |
@@ -117,7 +117,7 @@ Statistics Date: 2026-11-20 16:49:36
 | [rend-http](https://github.com/Netflix/rend-http) | Rend server to proxy simple requests to an HTTP proxy | Go | 20 | Apache License 2.0 | 2016-07-21 | 2026-02-26 | 2017-06-09 |
 | [dyno-queues](https://github.com/Netflix/dyno-queues) | Dyno Queues is a recipe that provides task queues utilizing Dynomite. | Java | 272 | Apache License 2.0 | 2016-08-11 | 2026-10-09 | 2025-12-17 |
 | [ndbench](https://github.com/Netflix/ndbench) | Netflix Data Store Benchmark | HTML | 362 | Apache License 2.0 | 2016-09-01 | 2026-10-27 | 2023-11-16 |
-| [chaosmonkey](https://github.com/Netflix/chaosmonkey) | Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures. | Go | 17250 | Apache License 2.0 | 2016-10-18 | 2026-11-19 | 2025-01-06 |
+| [chaosmonkey](https://github.com/Netflix/chaosmonkey) | Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures. | Go | 17251 | Apache License 2.0 | 2016-10-18 | 2026-11-20 | 2025-01-06 |
 | [hollow](https://github.com/Netflix/hollow) | Hollow is a java library and toolset for disseminating in-memory datasets from a single producer to many consumers for high performance read-only access. | Java | 1377 | Apache License 2.0 | 2016-12-02 | 2026-11-19 | 2026-11-13 |
 | [conductor](https://github.com/Netflix/conductor) | Conductor is a microservices orchestration engine. | Java | 12751 | Apache License 2.0 | 2016-12-07 | 2026-11-20 | 2023-12-22 |
 | [bettertls](https://github.com/Netflix/bettertls) | BetterTLS:  A Name Constraints test suite for HTTPS clients. | Go | 183 | Apache License 2.0 | 2017-01-03 | 2026-11-06 | 2026-01-17 |
@@ -137,7 +137,7 @@ Statistics Date: 2026-11-20 16:49:36
 | [titus-executor](https://github.com/Netflix/titus-executor) | Titus Executor is the container runtime/executor implementation for Titus | Go | 229 | Apache License 2.0 | 2017-10-26 | 2026-11-15 | 2023-01-10 |
 | [concurrency-limits](https://github.com/Netflix/concurrency-limits) | None | Java | 3622 | Apache License 2.0 | 2017-12-11 | 2026-11-19 | 2026-10-21 |
 | [iceberg](https://github.com/Netflix/iceberg) | Iceberg is a table format for large, slow-moving tabular data | Java | 494 | Apache License 2.0 | 2017-12-13 | 2026-09-01 | 2023-04-10 |
-| [sureal](https://github.com/Netflix/sureal) | Subjective quality scores recovery from noisy measurements. | Python | 137 | Apache License 2.0 | 2018-01-18 | 2026-04-24 | 2025-12-29 |
+| [sureal](https://github.com/Netflix/sureal) | Subjective quality scores recovery from noisy measurements. | Python | 137 | Apache License 2.0 | 2018-01-18 | 2026-04-24 | 2026-11-21 |
 | [fast_jsonapi](https://github.com/Netflix/fast_jsonapi) | No Longer Maintained - A lightning fast JSON:API serializer for Ruby Objects. | Ruby | 5019 | Apache License 2.0 | 2018-02-01 | 2026-11-19 | 2023-03-06 |
 | [codec_compare](https://github.com/Netflix/codec_compare) | https://jpeg.org/downloads/jpegxl/jpegxl-draft_cfp_2.pdf | Python | 28 | Apache License 2.0 | 2018-03-05 | 2025-10-31 | 2018-03-29 |
 | [spectator-py](https://github.com/Netflix/spectator-py) | Thin-client metrics library for use with Atlas and SpectatorD | Python | 50 | Apache License 2.0 | 2018-03-20 | 2026-11-05 | 2026-11-05 |
@@ -174,7 +174,7 @@ Statistics Date: 2026-11-20 16:49:36
 | [x-test](https://github.com/Netflix/x-test) | None | JavaScript | 16 | Apache License 2.0 | 2019-06-27 | 2026-08-06 | 2026-05-04 |
 | [p2plab](https://github.com/Netflix/p2plab) | performance benchmark infrastructure for IPLD DAGs | Go | 169 | Apache License 2.0 | 2019-07-27 | 2026-08-31 | 2021-12-04 |
 | [nflxprofile](https://github.com/Netflix/nflxprofile) | None | Python | 19 | Apache License 2.0 | 2019-08-28 | 2022-07-29 | 2023-04-10 |
-| [metaflow](https://github.com/Netflix/metaflow) | Build, Manage and Deploy AI/ML Systems | Python | 10354 | Apache License 2.0 | 2019-09-17 | 2026-11-20 | 2026-11-19 |
+| [metaflow](https://github.com/Netflix/metaflow) | Build, Manage and Deploy AI/ML Systems | Python | 10356 | Apache License 2.0 | 2019-09-17 | 2026-11-21 | 2026-11-19 |
 | [polynote](https://github.com/Netflix/polynote) | None | HTML | 38 | - | 2019-10-23 | 2025-10-31 | 2019-10-23 |
 | [consoleme](https://github.com/Netflix/consoleme) | A Central Control Plane for AWS Permissions and Access | Python | 3192 | Apache License 2.0 | 2019-11-13 | 2026-11-19 | 2026-03-03 |
 | [metaflow-service](https://github.com/Netflix/metaflow-service) | :rocket: Metadata tracking and UI service for Metaflow! | Python | 228 | Apache License 2.0 | 2019-11-29 | 2026-10-21 | 2026-11-20 |
@@ -190,7 +190,7 @@ Statistics Date: 2026-11-20 16:49:36
 | [user2020-metaflow-tutorial](https://github.com/Netflix/user2020-metaflow-tutorial) | Tutorial contents for useR! 2020 Metaflow workshop | R | 27 | Apache License 2.0 | 2020-07-31 | 2024-08-22 | 2020-08-07 |
 | [weep](https://github.com/Netflix/weep) | The ConsoleMe CLI utility | Go | 337 | Apache License 2.0 | 2020-08-28 | 2026-11-19 | 2026-02-11 |
 | [titus-kube-common](https://github.com/Netflix/titus-kube-common) | None | Go | 6 | Apache License 2.0 | 2020-10-26 | 2023-03-24 | 2023-03-24 |
-| [dgs-framework](https://github.com/Netflix/dgs-framework) | GraphQL for Java with Spring Boot made easy. | Kotlin | 3396 | Apache License 2.0 | 2020-11-30 | 2026-11-20 | 2026-11-20 |
+| [dgs-framework](https://github.com/Netflix/dgs-framework) | GraphQL for Java with Spring Boot made easy. | Kotlin | 3396 | Apache License 2.0 | 2020-11-30 | 2026-11-20 | 2026-11-21 |
 | [dgs-codegen](https://github.com/Netflix/dgs-codegen) | None | Kotlin | 220 | Apache License 2.0 | 2020-12-01 | 2026-11-18 | 2026-11-19 |
 | [dgs](https://github.com/Netflix/dgs) | None | HTML | 25 | - | 2020-12-08 | 2026-08-24 | 2026-08-24 |
 | [dgs-federation-example](https://github.com/Netflix/dgs-federation-example) | None | Kotlin | 114 | Apache License 2.0 | 2020-12-18 | 2026-05-07 | 2023-09-05 |
