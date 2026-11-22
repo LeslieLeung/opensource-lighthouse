@@ -1,10 +1,10 @@
 # Sony
 
-A total of 151 projects, 37 active projects in the last six months, 1 teams, and 18584 stars.
+A total of 151 projects, 37 active projects in the last six months, 1 teams, and 18586 stars.
 
 Top 3 Languages: Python, C++, JavaScript
 
-Statistics Date: 2026-11-21 15:58:37
+Statistics Date: 2026-11-22 16:03:11
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -14,7 +14,7 @@ Statistics Date: 2026-11-21 15:58:37
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 422 | MIT License | 2015-09-18 | 2026-11-20 | 2020-12-29 |
 | [cdn-purge-control-php](https://github.com/sony/cdn-purge-control-php) | Multi CDN purge control library for PHP | PHP | 9 | MIT License | 2016-01-06 | 2026-09-08 | 2016-10-06 |
-| [huis-ui-creator](https://github.com/sony/huis-ui-creator) | None | JavaScript | 40 | Apache License 2.0 | 2016-02-02 | 2026-09-03 | 2024-07-02 |
+| [huis-ui-creator](https://github.com/sony/huis-ui-creator) | None | JavaScript | 41 | Apache License 2.0 | 2016-02-02 | 2026-11-22 | 2024-07-02 |
 | [node-win-usbdev](https://github.com/sony/node-win-usbdev) | None | C++ | 3 | Apache License 2.0 | 2016-02-02 | 2023-03-29 | 2018-02-16 |
 | [pdaf-library](https://github.com/sony/pdaf-library) | None | C | 43 | BSD 3-Clause "New" or "Revised" License | 2016-03-25 | 2026-09-08 | 2016-03-28 |
 | [smarttennissensormp4meta](https://github.com/sony/smarttennissensormp4meta) | None | Java | 4 | Apache License 2.0 | 2016-08-30 | 2022-03-12 | 2016-09-28 |
@@ -64,7 +64,7 @@ Statistics Date: 2026-11-21 15:58:37
 | [Instruct3Dto3D-doc](https://github.com/sony/Instruct3Dto3D-doc) | Official documentation of Instruct 3D-to-3D | HTML | 2 | - | 2023-03-23 | 2024-10-31 | 2024-10-31 |
 | [pixel-guided-diffusion](https://github.com/sony/pixel-guided-diffusion) | Fine-grained Image Editing by Pixel-wise Guidance Using Diffusion Models | Python | 42 | Apache License 2.0 | 2023-04-06 | 2026-08-17 | 2023-06-09 |
 | [ARCv2_Ghidra](https://github.com/sony/ARCv2_Ghidra) | None | None | 1 | Apache License 2.0 | 2023-04-26 | 2025-08-15 | 2023-04-26 |
-| [gibbsddrm](https://github.com/sony/gibbsddrm) | None | Python | 35 | MIT License | 2023-04-26 | 2026-10-20 | 2023-05-29 |
+| [gibbsddrm](https://github.com/sony/gibbsddrm) | None | Python | 36 | MIT License | 2023-04-26 | 2026-11-21 | 2023-05-29 |
 | [fp-diffusion](https://github.com/sony/fp-diffusion) | None | Jupyter Notebook | 33 | Apache License 2.0 | 2023-04-26 | 2026-03-11 | 2024-02-14 |
 | [diffiner](https://github.com/sony/diffiner) | None | Python | 70 | MIT License | 2023-05-30 | 2026-10-14 | 2023-08-16 |
 | [hFT-Transformer](https://github.com/sony/hFT-Transformer) | Pytorch implementation of automatic music transcription method that uses a two-level hierarchical frequency-time Transformer architecture (hFT-Transformer). | Python | 121 | Other | 2023-06-26 | 2026-10-28 | 2026-10-28 |
