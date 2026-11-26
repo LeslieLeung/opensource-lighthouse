@@ -1,10 +1,10 @@
 # Sony
 
-A total of 151 projects, 35 active projects in the last six months, 1 teams, and 18591 stars.
+A total of 151 projects, 35 active projects in the last six months, 1 teams, and 18590 stars.
 
 Top 3 Languages: Python, C++, JavaScript
 
-Statistics Date: 2026-11-25 18:31:18
+Statistics Date: 2026-11-26 18:13:59
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -24,11 +24,11 @@ Statistics Date: 2026-11-25 18:31:18
 | [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2769 | Apache License 2.0 | 2017-06-26 | 2026-11-20 | 2026-07-24 |
 | [easyhttpcpp](https://github.com/sony/easyhttpcpp) | A cross-platform HTTP client library with a focus on usability and speed | C++ | 176 | MIT License | 2017-08-09 | 2026-09-16 | 2022-01-31 |
 | [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 204 | Apache License 2.0 | 2017-09-07 | 2026-11-12 | 2026-11-20 |
-| [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 60 | Apache License 2.0 | 2017-09-07 | 2026-11-14 | 2026-11-17 |
+| [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 60 | Apache License 2.0 | 2017-09-07 | 2026-11-14 | 2026-11-26 |
 | [cdp-js](https://github.com/sony/cdp-js) | Libraries/SDK modules for multi-platform application development | TypeScript | 22 | Apache License 2.0 | 2017-10-10 | 2024-02-11 | 2018-05-10 |
 | [cdp-lib](https://github.com/sony/cdp-lib) | Application template/libraries for cdp-js (Details: see cdp-js repository) | JavaScript | 6 | Apache License 2.0 | 2017-10-10 | 2017-11-13 | 2018-02-23 |
 | [cdp-cli](https://github.com/sony/cdp-cli) | Command line tools for generating start point of multi-platform application development (Details: see cdp-js repository) | HTML | 7 | Apache License 2.0 | 2017-10-10 | 2020-12-13 | 2018-07-13 |
-| [nnabla-examples](https://github.com/sony/nnabla-examples) | Neural Network Libraries https://github.com/sony/nnabla - Examples | Python | 309 | Apache License 2.0 | 2017-11-05 | 2026-11-04 | 2026-07-29 |
+| [nnabla-examples](https://github.com/sony/nnabla-examples) | Neural Network Libraries https://github.com/sony/nnabla - Examples | Python | 308 | Apache License 2.0 | 2017-11-05 | 2026-11-26 | 2026-07-29 |
 | [nnabla-c-runtime](https://github.com/sony/nnabla-c-runtime) | Neural Network Libraries - C Runtime | C | 57 | Apache License 2.0 | 2018-06-26 | 2026-10-25 | 2026-07-24 |
 | [mapray-js](https://github.com/sony/mapray-js) | JavaScript library for Interactive high quality 3D globes and maps in the browser | TypeScript | 159 | Apache License 2.0 | 2019-01-28 | 2026-11-06 | 2025-07-25 |
 | [typescript-fsa-redux-middleware](https://github.com/sony/typescript-fsa-redux-middleware) | Fluent syntax for defining typesafe Redux vanilla middlewares on top of typescript-fsa. | TypeScript | 10 | MIT License | 2019-01-29 | 2025-11-14 | 2020-01-24 |
