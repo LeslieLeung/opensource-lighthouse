@@ -1,10 +1,10 @@
 # Sony
 
-共 151 个项目，近半年内活跃项目 35 个，1 个团队， 18590 个 Star。
+共 152 个项目，近半年内活跃项目 36 个，1 个团队， 18591 个 Star。
 
 语言 Top 3：Python, C++, JavaScript
 
-统计时间：2026-11-26 18:13:59
+统计时间：2026-11-27 17:57:13
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -12,7 +12,7 @@
 | [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4422 | MIT License | 2015-05-29 | 2026-11-24 | 2026-02-12 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
-| [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 422 | MIT License | 2015-09-18 | 2026-11-20 | 2020-12-29 |
+| [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 423 | MIT License | 2015-09-18 | 2026-11-27 | 2020-12-29 |
 | [cdn-purge-control-php](https://github.com/sony/cdn-purge-control-php) | Multi CDN purge control library for PHP | PHP | 9 | MIT License | 2016-01-06 | 2026-09-08 | 2016-10-06 |
 | [huis-ui-creator](https://github.com/sony/huis-ui-creator) | None | JavaScript | 41 | Apache License 2.0 | 2016-02-02 | 2026-11-22 | 2024-07-02 |
 | [node-win-usbdev](https://github.com/sony/node-win-usbdev) | None | C++ | 3 | Apache License 2.0 | 2016-02-02 | 2023-03-29 | 2018-02-16 |
@@ -159,3 +159,4 @@
 | [niwashi-recipe](https://github.com/sony/niwashi-recipe) | None | Shell | 0 | Apache License 2.0 | 2026-09-18 | 2026-10-01 | 2026-09-29 |
 | [far](https://github.com/sony/far) | None | Python | 2 | Other | 2026-09-29 | 2026-11-06 | 2026-11-06 |
 | [syn-omni](https://github.com/sony/syn-omni) | None | Python | 6 | Apache License 2.0 | 2026-10-07 | 2026-11-14 | 2026-11-04 |
+| [ALVR_webclient](https://github.com/sony/ALVR_webclient) | None | Rust | 0 | MIT License | 2026-11-24 | 2026-11-27 | 2026-11-26 |
